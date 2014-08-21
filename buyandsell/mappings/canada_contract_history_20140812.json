@@ -1,0 +1,220 @@
+{
+    "publisher": {
+        "name": "constant:Buyandsell.gc.ca",
+        "scheme": "",
+        "uid": "",
+        "uri": "constant:https://buyandsell.gc.ca"
+    },
+    "publishingMeta": {
+        "date": "constant:2014-07-26",
+        "license": "constant:http://data.gc.ca/eng/open-government-licence-canada"
+    },
+    "releases": [
+        {
+            "releaseMeta": {
+                "ocid": "reference_number",
+                "releaseID": "",
+                "releaseTag": "constant:contractAmendment",
+                "locale": ""
+            },
+            "buyer": {
+                "id": {
+                    "name": "end-user-entity_en",
+                    "scheme": "",
+                    "uid": "",
+                    "uri": ""
+                }
+            },
+            "planning": {},
+            "formation": {
+                "notice": {
+                    "id": "",
+                    "uri": "",
+                    "publishedDate": "",
+                    "isAmendment": false,
+                    "amendment": {
+                        "amendmentDate": "",
+                        "amendedFields": "",
+                        "justification": ""
+                    }
+                },
+                "itemsToBeProcured": [
+                    {
+                        "description": "",
+                        "classificationScheme": "CPV",
+                        "otherClassificationScheme": "",
+                        "classificationID": "",
+                        "classificationDescription": "",
+                        "unitOfMeasure": "",
+                        "quantity": 0,
+                        "valuePerUnit": {
+                            "amount": 0,
+                            "currency": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "amount": 0,
+                    "currency": ""
+                },
+                "method": "solicitation-procedure-description_en",
+                "methodJustification": "limited-tender-reason-description_en",
+                "selectionCriteria": "",
+                "selectionDetails": "",
+                "submissionMethod": "",
+                "submissionDetails": "",
+                "tenderPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "clarifications": false,
+                "awardPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBidders": 0,
+                "numberOfBids": 0,
+                "bidders": [
+                    {
+                        "id": {
+                            "name": "",
+                            "scheme": "",
+                            "uid": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "id": {
+                        "name": "procurement-entity-name_en",
+                        "scheme": "",
+                        "uid": "",
+                        "uri": ""
+                    }
+                },
+                "attachments": [
+                    {
+                        "description": "",
+                        "uri": "",
+                        "lastModified": ""
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "notice": {
+                        "id": "contract-number",
+                        "uri": "",
+                        "publishedDate": "",
+                        "isAmendment": "",
+                        "amendment": {
+                            "amendmentDate": "",
+                            "amendedFields": "",
+                            "justification": ""
+                        }
+                    },
+                    "awardDate": "award-date",
+                    "awardValue": {
+                        "amount": "",
+                        "currency": ""
+                    },
+                    "suppliers": [
+                        {
+                            "id": {
+                                "name": "supplier-operating-name",
+                                "scheme": "",
+                                "uid": "supplier-legal-name",
+                                "uri": ""
+                            }
+                            "address" {
+                                
+                            }
+                        }
+                    ],
+                    "itemsAwarded": [
+                        {
+                            "description": "",
+                            "classificationScheme": "GSIN",
+                            "otherClassificationScheme": "",
+                            "classificationID": "gsin",
+                            "classificationDescription": "gsin-description_en",
+                            "unitOfMeasure": "",
+                            "quantity": "",
+                            "valuePerUnit": {
+                                "amount": "",
+                                "currency": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": {
+                        "name": "contract-number",
+                        "scheme": "",
+                        "uid": "",
+                        "uri": ""
+                    },
+                    "awardNotice": {
+                        "id": "contract-number",
+                        "uri": ""
+                    },
+                    "contractPeriod": {
+                        "startDate": "",
+                        "endDate": "expiry-date"
+                    },
+                    "contractValue": {
+                        "amount": "contract-value",
+                        "currency": ""
+                    },
+                    "isAmendment": "amendment-number",
+                    "amendment": {
+                        "amendmentDate": "",
+                        "amendedFields": "",
+                        "justification": ""
+                    },
+                    "itemsContracted": [
+                        {
+                            "description": "",
+                            "classificationScheme": "",
+                            "otherClassificationScheme": "",
+                            "classificationID": "",
+                            "classificationDescription": "",
+                            "unitOfMeasure": "",
+                            "quantity": "",
+                            "valuePerUnit": {
+                                "amount": "",
+                                "currency": ""
+                            }
+                        }
+                    ],
+                    "deliverables": [
+                        {
+                            "description": "",
+                            "dueDate": "",
+                            "attachment": {
+                                "description": "",
+                                "uri": "",
+                                "lastModified": ""
+                            }
+                        }
+                    ],
+                    "signatureDate": "",
+                    "attachments": [
+                        {
+                            "description": "",
+                            "uri": "",
+                            "lastModified": ""
+                        }
+                    ]
+                }
+            ],
+            "performance": {}
+        }
+    ]
+}

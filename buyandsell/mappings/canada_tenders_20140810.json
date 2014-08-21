@@ -1,0 +1,112 @@
+{
+    "publisher": {
+        "name": "constant:Buyandsell.gc.ca",
+        "scheme": "",
+        "uid": "",
+        "uri": "constant:https://buyandsell.gc.ca"
+    },
+    "publishingMeta": {
+        "date": "constant:2014-07-26",
+        "license": "constant:http://data.gc.ca/eng/open-government-licence-canada"
+    },
+    "releases": [
+        {
+            "releaseMeta": {
+                "ocid": "reference_number",
+                "releaseID": "",
+                "releaseTag": "constant:tenderNotice",
+                "locale": "language"
+            },
+            "buyer": {
+                "id": {
+                    "name": "end_user_entity",
+                    "scheme": "",
+                    "uid": "",
+                    "uri": ""
+                }
+            },
+            "planning": {},
+            "formation": {
+                "notice": {
+                    "id": "solicitation_number",
+                    "uri": "",
+                    "publishedDate": "publication_date",
+                    "isAmendment": "amendment_number",
+                    "amendment": {
+                        "amendmentDate": "amendment_date",
+                        "amendedFields": "",
+                        "justification": ""
+                    }
+                },
+                "itemsToBeProcured": [
+                    {
+                        "description": "title",
+                        "classificationScheme": "constant:GSIN",
+                        "otherClassificationScheme": "",
+                        "classificationID": "",
+                        "classificationDescription": "gsin",
+                        "unitOfMeasure": "",
+                        "quantity": "",
+                        "valuePerUnit": {
+                            "amount": "",
+                            "currency": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "amount": "",
+                    "currency": ""
+                },
+                "method": "tendering_procedure",
+                "methodJustification": "",
+                "selectionCriteria": "competitive_procurement_strategy",
+                "selectionDetails": "",
+                "submissionMethod": "",
+                "submissionDetails": "",
+                "tenderPeriod": {
+                    "startDate": "",
+                    "endDate": "date_closing"
+                },
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "clarifications": false,
+                "awardPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBidders": "",
+                "numberOfBids": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "name": "",
+                            "scheme": "",
+                            "uid": "",
+                            "uri": ""
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "id": {
+                        "name": "procurement_entity",
+                        "scheme": "",
+                        "uid": "",
+                        "uri": ""
+                    }
+                },
+                "attachments": [
+                    {
+                        "description": "",
+                        "uri": "list:document",
+                        "lastModified": ""
+                    }
+                ]
+            },
+            "award": {},
+            "contract": {},
+            "performance": {}
+        }
+    ]
+}
