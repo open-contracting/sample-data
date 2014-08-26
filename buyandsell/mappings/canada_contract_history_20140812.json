@@ -13,7 +13,7 @@
         {
             "releaseMeta": {
                 "ocid": "reference_number",
-                "releaseID": "",
+                "releaseID": "contract_number",
                 "releaseTag": "constant:contractAmendment",
                 "locale": ""
             },
@@ -31,7 +31,7 @@
                     "id": "",
                     "uri": "",
                     "publishedDate": "",
-                    "isAmendment": false,
+                    "isAmendment": "",
                     "amendment": {
                         "amendmentDate": "",
                         "amendedFields": "",
@@ -41,20 +41,20 @@
                 "itemsToBeProcured": [
                     {
                         "description": "",
-                        "classificationScheme": "CPV",
+                        "classificationScheme": "",
                         "otherClassificationScheme": "",
                         "classificationID": "",
                         "classificationDescription": "",
                         "unitOfMeasure": "",
-                        "quantity": 0,
+                        "quantity": "",
                         "valuePerUnit": {
-                            "amount": 0,
+                            "amount": "",
                             "currency": ""
                         }
                     }
                 ],
                 "totalValue": {
-                    "amount": 0,
+                    "amount": "",
                     "currency": ""
                 },
                 "method": "solicitation-procedure-description_en",
@@ -71,13 +71,13 @@
                     "startDate": "",
                     "endDate": ""
                 },
-                "clarifications": false,
+                "clarifications": "",
                 "awardPeriod": {
                     "startDate": "",
                     "endDate": ""
                 },
-                "numberOfBidders": 0,
-                "numberOfBids": 0,
+                "numberOfBidders": "",
+                "numberOfBids": "",
                 "bidders": [
                     {
                         "id": {
@@ -107,7 +107,7 @@
             "awards": [
                 {
                     "notice": {
-                        "id": "contract-number",
+                        "id": "contract_number",
                         "uri": "",
                         "publishedDate": "",
                         "isAmendment": "",
@@ -169,7 +169,7 @@
                         "endDate": "expiry-date"
                     },
                     "contractValue": {
-                        "amount": "contract-value",
+                        "amount": "total-contract-value",
                         "currency": ""
                     },
                     "isAmendment": "amendment-number",
