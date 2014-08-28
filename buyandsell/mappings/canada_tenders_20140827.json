@@ -33,13 +33,13 @@
             "planning": {
                 "budgetDataPackageURI": "",
                 "budgetID": "",
-                "budgetAmount": 0,
+                "budgetAmount": "",
                 "publicHearingNotices": [
                     {
                         "id": "",
                         "uri": "",
                         "publishedDate": "",
-                        "isAmendment": false,
+                        "isAmendment": "",
                         "amendment": {
                             "amendmentDate": "",
                             "amendedFields": "",
@@ -52,7 +52,7 @@
                     {
                         "description": "",
                         "date": "",
-                        "dateType": "due",
+                        "dateType": "",
                         "attachments": [
                             {
                                 "description": "",
@@ -108,7 +108,7 @@
                     "startDate": "",
                     "endDate": ""
                 },
-                "clarifications": false,
+                "clarifications": "",
                 "awardPeriod": {
                     "startDate": "",
                     "endDate": ""
@@ -165,7 +165,7 @@
                         "id": "",
                         "uri": "",
                         "publishedDate": "",
-                        "isAmendment": false,
+                        "isAmendment": "",
                         "amendment": {
                             "amendmentDate": "",
                             "amendedFields": "",
@@ -174,7 +174,7 @@
                     },
                     "awardDate": "",
                     "awardValue": {
-                        "amount": 0,
+                        "amount": "",
                         "currency": ""
                     },
                     "suppliers": [
@@ -199,14 +199,14 @@
                     "itemsAwarded": [
                         {
                             "description": "",
-                            "classificationScheme": "CPV",
+                            "classificationScheme": "",
                             "otherClassificationScheme": "",
                             "classificationID": "",
                             "classificationDescription": "",
                             "unitOfMeasure": "",
-                            "quantity": 0,
+                            "quantity": "",
                             "valuePerUnit": {
-                                "amount": 0,
+                                "amount": "",
                                 "currency": ""
                             }
                         }
@@ -230,10 +230,10 @@
                         "endDate": ""
                     },
                     "contractValue": {
-                        "amount": 0,
+                        "amount": "",
                         "currency": ""
                     },
-                    "isAmendment": false,
+                    "isAmendment": "",
                     "amendment": {
                         "amendmentDate": "",
                         "amendedFields": "",
@@ -242,14 +242,14 @@
                     "itemsContracted": [
                         {
                             "description": "",
-                            "classificationScheme": "CPV",
+                            "classificationScheme": "",
                             "otherClassificationScheme": "",
                             "classificationID": "",
                             "classificationDescription": "",
                             "unitOfMeasure": "",
-                            "quantity": 0,
+                            "quantity": "",
                             "valuePerUnit": {
-                                "amount": 0,
+                                "amount": "",
                                 "currency": ""
                             }
                         }
@@ -281,7 +281,7 @@
                     {
                         "description": "",
                         "date": "",
-                        "dateType": "due",
+                        "dateType": "",
                         "attachments": [
                             {
                                 "description": "",
