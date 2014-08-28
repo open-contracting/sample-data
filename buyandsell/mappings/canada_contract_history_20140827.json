@@ -1,0 +1,304 @@
+{
+    "publisher": {
+        "name": "constant:Buyandsell.gc.ca",
+        "scheme": "",
+        "uid": "",
+        "uri": "constant:https://buyandsell.gc.ca"
+    },
+    "date": "constant:2014-07-26",
+    "license": "constant:http://data.gc.ca/eng/open-government-licence-canada",
+    "releases": [
+        {
+            "ocid": "reference_number",
+            "releaseID": "",
+            "releaseTag": "constant:contractAmendment",
+            "locale": "",
+            "buyer": {
+                "id": {
+                    "name": "end-user-entity_en",
+                    "scheme": "",
+                    "uid": "",
+                    "uri": ""
+                },
+                "address": {
+                    "post-office-box": "",
+                    "extended-address": "contracting-address-street-2",
+                    "street-address": "contracting-address-street-1",
+                    "locality": "contracting-address-city",
+                    "region": "contracting-address-prov-state",
+                    "postal-code": "contracting-address-postal-code",
+                    "country-name": "contracting-address-country"
+                }
+            },
+            "planning": {
+                "budgetDataPackageURI": "",
+                "budgetID": "",
+                "budgetAmount": "",
+                "publicHearingNotices": [
+                    {
+                        "id": "",
+                        "uri": "",
+                        "publishedDate": "",
+                        "isAmendment": "",
+                        "amendment": {
+                            "amendmentDate": "",
+                            "amendedFields": "",
+                            "justification": ""
+                        }
+                    }
+                ],
+                "strategicJustificiation": "",
+                "anticipatedMilestones": [
+                    {
+                        "description": "",
+                        "date": "",
+                        "dateType": "",
+                        "attachments": [
+                            {
+                                "description": "",
+                                "uri": "",
+                                "lastModified": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "formation": {
+                "notice": {
+                    "id": "",
+                    "uri": "",
+                    "publishedDate": "",
+                    "isAmendment": "",
+                    "amendment": {
+                        "amendmentDate": "",
+                        "amendedFields": "",
+                        "justification": ""
+                    }
+                },
+                "itemsToBeProcured": [
+                    {
+                        "description": "",
+                        "classificationScheme": "",
+                        "otherClassificationScheme": "",
+                        "classificationID": "",
+                        "classificationDescription": "",
+                        "unitOfMeasure": "",
+                        "quantity": "",
+                        "valuePerUnit": {
+                            "amount": "",
+                            "currency": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "amount": "",
+                    "currency": ""
+                },
+                "method": "solicitation-procedure-description_en",
+                "methodJustification": "limited-tender-reason-description_en",
+                "selectionCriteria": "",
+                "selectionDetails": "",
+                "submissionMethod": "",
+                "submissionDetails": "",
+                "tenderPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "clarificationPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "clarifications": "",
+                "awardPeriod": {
+                    "startDate": "",
+                    "endDate": ""
+                },
+                "numberOfBidders": "",
+                "numberOfBids": "",
+                "bidders": [
+                    {
+                        "id": {
+                            "name": "",
+                            "scheme": "",
+                            "uid": "",
+                            "uri": ""
+                        },
+                        "address": {
+                            "post-office-box": "",
+                            "extended-address": "",
+                            "street-address": "",
+                            "locality": "",
+                            "region": "",
+                            "postal-code": "",
+                            "country-name": ""
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "id": {
+                        "name": "procurement-entity-name_en",
+                        "scheme": "",
+                        "uid": "",
+                        "uri": ""
+                    },
+                    "address": {
+                        "post-office-box": "",
+                        "extended-address": "",
+                        "street-address": "",
+                        "locality": "",
+                        "region": "",
+                        "postal-code": "",
+                        "country-name": ""
+                    }
+                },
+                "attachments": [
+                    {
+                        "description": "",
+                        "uri": "",
+                        "lastModified": ""
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "notice": {
+                        "id": "contract_number",
+                        "uri": "",
+                        "publishedDate": "",
+                        "isAmendment": "",
+                        "amendment": {
+                            "amendmentDate": "",
+                            "amendedFields": "",
+                            "justification": ""
+                        }
+                    },
+                    "awardDate": "award-date",
+                    "awardValue": {
+                        "amount": "",
+                        "currency": ""
+                    },
+                    "suppliers": [
+                        {
+                            "id": {
+                                "name": "supplier-operating-name",
+                                "scheme": "",
+                                "uid": "supplier-legal-name",
+                                "uri": ""
+                            },
+                            "address": {
+                                "post-office-box": "",
+                                "extended-address": "",
+                                "street-address": "",
+                                "locality": "supplier-address-city",
+                                "region": "supplier-address-prov-state",
+                                "postal-code": "supplier-address-postal-code",
+                                "country-name": "supplier-address-country"
+                            }
+                        }
+                    ],
+                    "itemsAwarded": [
+                        {
+                            "description": "",
+                            "classificationScheme": "constant:GSIN",
+                            "otherClassificationScheme": "",
+                            "classificationID": "gsin",
+                            "classificationDescription": "gsin-description_en",
+                            "unitOfMeasure": "",
+                            "quantity": "",
+                            "valuePerUnit": {
+                                "amount": "",
+                                "currency": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": {
+                        "name": "contract_number",
+                        "scheme": "",
+                        "uid": "",
+                        "uri": ""
+                    },
+                    "awardNotice": {
+                        "id": "contract_number",
+                        "uri": ""
+                    },
+                    "contractPeriod": {
+                        "startDate": "",
+                        "endDate": "expiry-date"
+                    },
+                    "contractValue": {
+                        "amount": "total-contract-value",
+                        "currency": ""
+                    },
+                    "isAmendment": "amendment-number",
+                    "amendment": {
+                        "amendmentDate": "",
+                        "amendedFields": "",
+                        "justification": ""
+                    },
+                    "itemsContracted": [
+                        {
+                            "description": "",
+                            "classificationScheme": "",
+                            "otherClassificationScheme": "",
+                            "classificationID": "",
+                            "classificationDescription": "",
+                            "unitOfMeasure": "",
+                            "quantity": "",
+                            "valuePerUnit": {
+                                "amount": "",
+                                "currency": ""
+                            }
+                        }
+                    ],
+                    "deliverables": [
+                        {
+                            "description": "",
+                            "dueDate": "",
+                            "attachment": {
+                                "description": "",
+                                "uri": "",
+                                "lastModified": ""
+                            }
+                        }
+                    ],
+                    "signatureDate": "",
+                    "attachments": [
+                        {
+                            "description": "",
+                            "uri": "",
+                            "lastModified": ""
+                        }
+                    ]
+                }
+            ],
+            "performance": {
+                "transactions": [],
+                "milestones": [
+                    {
+                        "description": "",
+                        "date": "",
+                        "dateType": "",
+                        "attachments": [
+                            {
+                                "description": "",
+                                "uri": "",
+                                "lastModified": ""
+                            }
+                        ]
+                    }
+                ],
+                "reports": [
+                    {
+                        "description": "",
+                        "uri": "",
+                        "lastModified": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
