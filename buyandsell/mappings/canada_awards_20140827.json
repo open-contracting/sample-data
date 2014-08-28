@@ -33,13 +33,13 @@
             "planning": {
                 "budgetDataPackageURI": "",
                 "budgetID": "",
-                "budgetAmount": 0,
+                "budgetAmount": "",
                 "publicHearingNotices": [
                     {
                         "id": "",
                         "uri": "",
                         "publishedDate": "",
-                        "isAmendment": false,
+                        "isAmendment": "",
                         "amendment": {
                             "amendmentDate": "",
                             "amendedFields": "",
@@ -52,7 +52,7 @@
                     {
                         "description": "",
                         "date": "",
-                        "dateType": "due",
+                        "dateType": "",
                         "attachments": [
                             {
                                 "description": "",
@@ -174,7 +174,7 @@
                     },
                     "awardDate": "award_date",
                     "awardValue": {
-                        "amount": "contract_value,
+                        "amount": "contract_value",
                         "currency": "currency"
                     },
                     "suppliers": [
@@ -199,7 +199,7 @@
                     "itemsAwarded": [
                         {
                             "description": "title",
-                            "classificationScheme": "GSIN",
+                            "classificationScheme": "constant:GSIN",
                             "otherClassificationScheme": "",
                             "classificationID": "",
                             "classificationDescription": "gsin",
@@ -281,7 +281,7 @@
                     {
                         "description": "",
                         "date": "",
-                        "dateType": "due",
+                        "dateType": "",
                         "attachments": [
                             {
                                 "description": "",
