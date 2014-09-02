@@ -1,12 +1,12 @@
 {
     "publisher": {
-        "name": "constant:Buyandsell.gc.ca",
+        "name": "Buyandsell.gc.ca",
         "scheme": "",
         "uid": "",
-        "uri": "constant:https://buyandsell.gc.ca"
+        "uri": "https://buyandsell.gc.ca"
     },
-    "date": "constant:2014-07-26",
-    "license": "constant:http://data.gc.ca/eng/open-government-licence-canada",
+    "date": "2014-07-26",
+    "license": "http://data.gc.ca/eng/open-government-licence-canada",
     "releases": [
         {
             "ocid": "reference_number",
@@ -225,10 +225,10 @@
                         "endDate": "expiry-date"
                     },
                     "contractValue": {
-                        "amount": "total-contract-value",
+                        "amount": "number:total-contract-value",
                         "currency": ""
                     },
-                    "isAmendment": "amendment-number",
+                    "isAmendment": "boolean:amendment-number",
                     "amendment": {
                         "amendmentDate": "",
                         "amendedFields": "",
