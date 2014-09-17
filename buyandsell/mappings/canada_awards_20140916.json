@@ -1,0 +1,102 @@
+{
+    "publisher": {
+        "name": "Buyandsell.gc.ca",
+        "scheme": "",
+        "uid": "",
+        "uri": "https://buyandsell.gc.ca"
+    },
+    "date": "2014-07-26",
+    "license": "http://data.gc.ca/eng/open-government-licence-canada",
+    "releases": [
+        {
+            "ocid": "reference_number",
+			"releaseDate": "constant:2014-07-26",
+            "releaseTag": "constant:awardNotice",
+            "language": "language",
+            "buyer": {
+                "id": {
+                    "name": "customer_info",
+                    "scheme": "",
+                    "uid": "",
+                    "uri": ""
+                }
+            },
+            "formationType": "tender",
+            "tender": {
+                "tenderID": "reference_number",
+                "notice": {
+                    "id": "solicitation_number",
+                    "uri": "",
+                    "publishedDate": "",
+                    "isAmendment": ""
+                },
+                "method": "tendering_procedure",
+                "methodJustification": "",
+                "selectionCriteria": "contract_award_procedure",
+                "procuringEntity": {
+                    "id": {
+                        "name": "procurement_entity_name",
+                        "scheme": "",
+                        "uid": "",
+                        "uri": ""
+                    }
+                }
+            },
+            "awards": [
+                {
+                    "awardID": "contract_number",
+                    "notice": {
+                        "id": "contract_number",
+                        "uri": "",
+                        "publishedDate": "publication_date",
+                        "isAmendment": "",
+                        "amendment": {
+                            "amendmentDate": "amendment_date",
+                            "amendedFields": "",
+                            "justification": ""
+                        }
+                    },
+                    "awardDate": "award_date",
+                    "awardValue": {
+                        "amount": "number:contract_value",
+                        "currency": "currency"
+                    },
+                    "suppliers": [
+                        {
+                            "id": {
+                                "name": "supplier_info",
+                                "scheme": "",
+                                "uid": "",
+                                "uri": ""
+                            },
+                            "address": {
+                                "post-office-box": "",
+                                "extended-address": "",
+                                "street-address": "",
+                                "locality": "",
+                                "region": "",
+                                "postal-code": "",
+                                "country-name": ""
+                            }
+                        }
+                    ],
+                    "itemsAwarded": [
+                        {
+                            "description": "title",
+                            "classificationScheme": "constant:GSIN",
+                            "otherClassificationScheme": "",
+                            "classificationID": "",
+                            "classificationDescription": "gsin",
+                            "unitOfMeasure": "",
+                            "quantity": "",
+                            "valuePerUnit": {
+                                "amount": "",
+                                "currency": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
