@@ -1,0 +1,85 @@
+{
+    "publisher": {
+        "name": "Buyandsell.gc.ca",
+        "scheme": "",
+        "uid": "",
+        "uri": "https://buyandsell.gc.ca"
+    },
+    "date": "2014-07-26",
+    "license": "http://data.gc.ca/eng/open-government-licence-canada",
+    "releases": [
+        {
+            "ocid": "reference_number",
+			"releaseDate": "constant:2014-07-26",
+            "releaseTag": "constant:tenderNotice",
+            "language": "language",
+            "buyer": {
+                "id": {
+                    "name": "end_user_entity",
+                    "scheme": "",
+                    "uid": "",
+                    "uri": ""
+                },
+            },
+            "formationType": "tender",
+            "tender": {
+                "tenderID": "reference_number",
+                "notice": {
+                    "id": "solicitation_number",
+                    "uri": "",
+                    "publishedDate": "publication_date",
+                    "isAmendment": "boolean:amendment_number",
+                    "amendment": {
+                        "amendmentDate": "amendment_date",
+                        "amendedFields": "",
+                        "justification": ""
+                    }
+                },
+                "itemsToBeProcured": [
+                    {
+                        "description": "title",
+                        "classificationScheme": "constant:GSIN",
+                        "otherClassificationScheme": "",
+                        "classificationID": "",
+                        "classificationDescription": "gsin",
+                        "unitOfMeasure": "",
+                        "quantity": "",
+                        "valuePerUnit": {
+                            "amount": "",
+                            "currency": ""
+                        }
+                    }
+                ],
+                "totalValue": {
+                    "amount": "",
+                    "currency": ""
+                },
+                "method": "tendering_procedure",
+                "methodJustification": "",
+                "selectionCriteria": "competitive_procurement_strategy",
+                "selectionDetails": "",
+                "submissionMethod": "",
+                "submissionDetails": "",
+                "tenderPeriod": {
+                    "startDate": "",
+                    "endDate": "date_closing"
+                },
+                "procuringEntity": {
+                    "id": {
+                        "name": "procurement_entity",
+                        "scheme": "",
+                        "uid": "",
+                        "uri": ""
+                    },
+                },
+                "attachments": [
+                    {
+                        "description": "",
+                        "uri": "list:document",
+                        "lastModified": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
