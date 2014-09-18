@@ -1,11 +1,13 @@
 {
+    "uri": "https://github.com/open-contracting/sample-data/blob/master/buyandsell/ocds_data/award_releases.json.zip",
+    "$schema": "https://raw.githubusercontent.com/open-contracting/standard/master/standard/schema/release-package-schema.json",
     "publisher": {
         "name": "Buyandsell.gc.ca",
-        "scheme": "",
-        "uid": "",
+        "scheme": null,
+        "uid": null,
         "uri": "https://buyandsell.gc.ca"
     },
-    "date": "2014-07-26",
+    "publishedDate": "2014-07-26",
     "license": "http://data.gc.ca/eng/open-government-licence-canada",
     "releases": [
         {
@@ -16,29 +18,29 @@
             "buyer": {
                 "id": {
                     "name": "customer_info",
-                    "scheme": "",
-                    "uid": "",
-                    "uri": ""
+                    "scheme": null,
+                    "uid": null,
+                    "uri": null
                 }
             },
-            "formationType": "tender",
+            "formationType": "constant:tender",
             "tender": {
                 "tenderID": "reference_number",
                 "notice": {
                     "id": "solicitation_number",
-                    "uri": "",
-                    "publishedDate": "",
-                    "isAmendment": ""
+                    "uri": null,
+                    "publishedDate": null,
+                    "isAmendment": null
                 },
                 "method": "tendering_procedure",
-                "methodJustification": "",
-                "selectionCriteria": "contract_award_procedure",
+                "methodJustification": null,
+                "selectionDetails": "contract_award_procedure",
                 "procuringEntity": {
                     "id": {
                         "name": "procurement_entity_name",
-                        "scheme": "",
-                        "uid": "",
-                        "uri": ""
+                        "scheme": null,
+                        "uid": null,
+                        "uri": null
                     }
                 }
             },
@@ -47,13 +49,13 @@
                     "awardID": "contract_number",
                     "notice": {
                         "id": "contract_number",
-                        "uri": "",
+                        "uri": null,
                         "publishedDate": "publication_date",
-                        "isAmendment": "",
+                        "isAmendment": null,
                         "amendment": {
                             "amendmentDate": "amendment_date",
-                            "amendedFields": "",
-                            "justification": ""
+                            "amendedFields": null,
+                            "justification": null
                         }
                     },
                     "awardDate": "award_date",
@@ -65,18 +67,18 @@
                         {
                             "id": {
                                 "name": "supplier_info",
-                                "scheme": "",
-                                "uid": "",
-                                "uri": ""
+                                "scheme": null,
+                                "uid": null,
+                                "uri": null
                             },
                             "address": {
-                                "post-office-box": "",
-                                "extended-address": "",
-                                "street-address": "",
-                                "locality": "",
-                                "region": "",
-                                "postal-code": "",
-                                "country-name": ""
+                                "post-office-box": null,
+                                "extended-address": null,
+                                "street-address": null,
+                                "locality": null,
+                                "region": null,
+                                "postal-code": null,
+                                "country-name": null
                             }
                         }
                     ],
@@ -84,14 +86,14 @@
                         {
                             "description": "title",
                             "classificationScheme": "constant:GSIN",
-                            "otherClassificationScheme": "",
-                            "classificationID": "",
+                            "otherClassificationScheme": null,
+                            "classificationID": null,
                             "classificationDescription": "gsin",
-                            "unitOfMeasure": "",
-                            "quantity": "",
+                            "unitOfMeasure": null,
+                            "quantity": null,
                             "valuePerUnit": {
-                                "amount": "",
-                                "currency": ""
+                                "amount": null,
+                                "currency": null
                             }
                         }
                     ]

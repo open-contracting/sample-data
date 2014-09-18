@@ -1,22 +1,23 @@
 {
+    "uri": "https://github.com/open-contracting/sample-data/blob/master/buyandsell/ocds_data/contract_releases.json.zip",
     "publisher": {
         "name": "constant:Buyandsell.gc.ca",
         "uri": "constant:https://buyandsell.gc.ca"
     },
-    "date": "constant:2014-07-26",
+    "publishedDate": "2014-07-26",
     "license": "constant:http://data.gc.ca/eng/open-government-licence-canada",
     "releases": [
         {
             "ocid": "reference_number",
 			"releaseDate": "constant:2014-07-26",
             "releaseTag": "constant:contractAmendment",
-            "language": "",
+            "language": null,
             "buyer": {
                 "id": {
                     "name": "end-user-entity_en"
                 },
                 "address": {
-                    "post-office-box": "",
+                    "post-office-box": null,
                     "extended-address": "contracting-address-street-2",
                     "street-address": "contracting-address-street-1",
                     "locality": "contracting-address-city",
@@ -25,10 +26,10 @@
                     "country-name": "contracting-address-country"
                 }
             },
-            "formationType": "tender",
+            "formationType": "constant:tender",
             "tender": {
                 "tenderID": "reference_number",
-                "method": "solicitation-procedure-description_en",
+                "selectionDetails": "solicitation-procedure-description_en",
                 "methodJustification": "limited-tender-reason-description_en",
                 "procuringEntity": {
                     "id": {
@@ -41,32 +42,32 @@
                     "awardID": "contract_number",
                     "notice": {
                         "id": "contract_number",
-                        "uri": "",
-                        "publishedDate": "",
-                        "isAmendment": "",
+                        "uri": null,
+                        "publishedDate": null,
+                        "isAmendment": null,
                         "amendment": {
-                            "amendmentDate": "",
-                            "amendedFields": "",
-                            "justification": ""
+                            "amendmentDate": null,
+                            "amendedFields": null,
+                            "justification": null
                         }
                     },
                     "awardDate": "award-date",
                     "awardValue": {
-                        "amount": "",
-                        "currency": ""
+                        "amount": null,
+                        "currency": null
                     },
                     "suppliers": [
                         {
                             "id": {
                                 "name": "supplier-operating-name",
-                                "scheme": "",
+                                "scheme": null,
                                 "uid": "supplier-legal-name",
-                                "uri": ""
+                                "uri": null
                             },
                             "address": {
-                                "post-office-box": "",
-                                "extended-address": "",
-                                "street-address": "",
+                                "post-office-box": null,
+                                "extended-address": null,
+                                "street-address": null,
                                 "locality": "supplier-address-city",
                                 "region": "supplier-address-prov-state",
                                 "postal-code": "supplier-address-postal-code",
@@ -76,16 +77,16 @@
                     ],
                     "itemsAwarded": [
                         {
-                            "description": "",
+                            "description": null,
                             "classificationScheme": "constant:GSIN",
-                            "otherClassificationScheme": "",
+                            "otherClassificationScheme": null,
                             "classificationID": "gsin",
                             "classificationDescription": "gsin-description_en",
-                            "unitOfMeasure": "",
-                            "quantity": "",
+                            "unitOfMeasure": null,
+                            "quantity": null,
                             "valuePerUnit": {
-                                "amount": "",
-                                "currency": ""
+                                "amount": null,
+                                "currency": null
                             }
                         }
                     ]
@@ -96,51 +97,51 @@
                     "contractID": "contract_number",
                     "awardID": "contract_number",
                     "contractPeriod": {
-                        "startDate": "",
+                        "startDate": null,
                         "endDate": "expiry-date"
                     },
                     "contractValue": {
-                        "amount": "total-contract-value",
-                        "currency": ""
+                        "amount": "number:total-contract-value",
+                        "currency": null
                     },
-                    "isAmendment": "amendment-number",
+                    "isAmendment": null,
                     "amendment": {
-                        "amendmentDate": "",
-                        "amendedFields": "",
-                        "justification": ""
+                        "amendmentDate": null,
+                        "amendedFields": null,
+                        "justification": null
                     },
                     "itemsContracted": [
                         {
-                            "description": "",
-                            "classificationScheme": "",
-                            "otherClassificationScheme": "",
-                            "classificationID": "",
-                            "classificationDescription": "",
-                            "unitOfMeasure": "",
-                            "quantity": "",
+                            "description": null,
+                            "classificationScheme": null,
+                            "otherClassificationScheme": null,
+                            "classificationID": null,
+                            "classificationDescription": null,
+                            "unitOfMeasure": null,
+                            "quantity": null,
                             "valuePerUnit": {
-                                "amount": "",
-                                "currency": ""
+                                "amount": null,
+                                "currency": null
                             }
                         }
                     ],
                     "deliverables": [
                         {
-                            "description": "",
-                            "dueDate": "",
+                            "description": null,
+                            "dueDate": null,
                             "attachment": {
-                                "description": "",
-                                "uri": "",
-                                "lastModified": ""
+                                "description": null,
+                                "uri": null,
+                                "lastModified": null
                             }
                         }
                     ],
-                    "signatureDate": "",
+                    "signatureDate": null,
                     "attachments": [
                         {
-                            "description": "",
-                            "uri": "",
-                            "lastModified": ""
+                            "description": null,
+                            "uri": null,
+                            "lastModified": null
                         }
                     ]
                 }
