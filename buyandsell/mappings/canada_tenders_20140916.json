@@ -1,11 +1,12 @@
 {
+    "uri": "https://github.com/open-contracting/sample-data/blob/master/buyandsell/ocds_data/tender_releases.json.zip",
     "publisher": {
         "name": "Buyandsell.gc.ca",
-        "scheme": "",
-        "uid": "",
+        "scheme": null,
+        "uid": null,
         "uri": "https://buyandsell.gc.ca"
     },
-    "date": "2014-07-26",
+    "publishedDate": "2014-07-26",
     "license": "http://data.gc.ca/eng/open-government-licence-canada",
     "releases": [
         {
@@ -16,67 +17,67 @@
             "buyer": {
                 "id": {
                     "name": "end_user_entity",
-                    "scheme": "",
-                    "uid": "",
-                    "uri": ""
-                },
+                    "scheme": null,
+                    "uid": null,
+                    "uri": null
+                }
             },
-            "formationType": "tender",
+            "formationType": "constant:tender",
             "tender": {
                 "tenderID": "reference_number",
                 "notice": {
                     "id": "solicitation_number",
-                    "uri": "",
+                    "uri": null,
                     "publishedDate": "publication_date",
                     "isAmendment": "boolean:amendment_number",
                     "amendment": {
                         "amendmentDate": "amendment_date",
-                        "amendedFields": "",
-                        "justification": ""
+                        "amendedFields": null,
+                        "justification": null
                     }
                 },
                 "itemsToBeProcured": [
                     {
                         "description": "title",
                         "classificationScheme": "constant:GSIN",
-                        "otherClassificationScheme": "",
-                        "classificationID": "",
+                        "otherClassificationScheme": null,
+                        "classificationID": null,
                         "classificationDescription": "gsin",
-                        "unitOfMeasure": "",
-                        "quantity": "",
+                        "unitOfMeasure": null,
+                        "quantity": null,
                         "valuePerUnit": {
-                            "amount": "",
-                            "currency": ""
+                            "amount": null,
+                            "currency": null
                         }
                     }
                 ],
                 "totalValue": {
-                    "amount": "",
-                    "currency": ""
+                    "amount": null,
+                    "currency": null
                 },
-                "method": "tendering_procedure",
-                "methodJustification": "",
-                "selectionCriteria": "competitive_procurement_strategy",
-                "selectionDetails": "",
-                "submissionMethod": "",
-                "submissionDetails": "",
+                "method": null,
+                "methodJustification": "tendering_procedure",
+                "selectionCriteria": null, 
+                "selectionDetails": "competitive_procurement_strategy",
+                "submissionMethod": null,
+                "submissionDetails": null,
                 "tenderPeriod": {
-                    "startDate": "",
+                    "startDate": null,
                     "endDate": "date_closing"
                 },
                 "procuringEntity": {
                     "id": {
                         "name": "procurement_entity",
-                        "scheme": "",
-                        "uid": "",
-                        "uri": ""
-                    },
+                        "scheme": null,
+                        "uid": null,
+                        "uri": null
+                    }
                 },
                 "attachments": [
                     {
-                        "description": "",
+                        "description": null,
                         "uri": "list:document",
-                        "lastModified": ""
+                        "lastModified": null
                     }
                 ]
             }
