@@ -1,0 +1,91 @@
+{
+    "releaseTag": "awardNotice", 
+    "language": "English", 
+    "formationType": "tender", 
+    "ocid": "PW-$$BL-297-23584", 
+    "releaseDate": "2014-07-26", 
+    "releaseID": "Buyandsell.gc.ca-20140918-dc2d1b5d-cafb-4291-9329-0583adcb5223", 
+    "awards": [
+        {
+            "itemsAwarded": [
+                {
+                    "unitOfMeasure": null, 
+                    "description": "Spare Parts for the Leopard II (W8486-137717/003/BL)", 
+                    "valuePerUnit": {
+                        "currency": null, 
+                        "amount": null
+                    }, 
+                    "classificationID": null, 
+                    "classificationScheme": "GSIN", 
+                    "quantity": null, 
+                    "otherClassificationScheme": null, 
+                    "classificationDescription": "N2540: Vehicular Furniture and Accessories\n"
+                }
+            ], 
+            "notice": {
+                "amendment": {
+                    "amendmentDate": "None", 
+                    "justification": null, 
+                    "amendedFields": null
+                }, 
+                "isAmendment": null, 
+                "publishedDate": "2013-05-08", 
+                "uri": null, 
+                "id": "W8486-137717/003/BL"
+            }, 
+            "suppliers": [
+                {
+                    "id": {
+                        "scheme": null, 
+                        "uid": null, 
+                        "uri": null, 
+                        "name": "GUNTER LANGKOPF\nHARFFSTR.36\nDUSSELDORF\n40591\nGermany"
+                    }, 
+                    "address": {
+                        "locality": null, 
+                        "region": null, 
+                        "extended-address": null, 
+                        "post-office-box": null, 
+                        "street-address": null, 
+                        "postal-code": null, 
+                        "country-name": null
+                    }
+                }
+            ], 
+            "awardValue": {
+                "currency": "EUR", 
+                "amount": 24406.0
+            }, 
+            "awardDate": "2013-05-07", 
+            "awardID": "W8486-137717/003/BL"
+        }
+    ], 
+    "buyer": {
+        "id": {
+            "scheme": null, 
+            "uid": null, 
+            "uri": null, 
+            "name": "DEPARTMENT OF NATIONAL DEFENCE\n101 COLONEL BY DR.\nOTTAWA\nON\nK1A0K2\nCAN"
+        }
+    }, 
+    "tender": {
+        "notice": {
+            "isAmendment": null, 
+            "publishedDate": null, 
+            "uri": null, 
+            "id": "W8486-137717/A"
+        }, 
+        "methodJustification": null, 
+        "procuringEntity": {
+            "id": {
+                "scheme": null, 
+                "uid": null, 
+                "uri": null, 
+                "name": "Public Works and Government Services Canada"
+            }
+        }, 
+        "selectionDetails": null, 
+        "method": null, 
+        "tenderID": "PW-$$BL-297-23584"
+    }
+}

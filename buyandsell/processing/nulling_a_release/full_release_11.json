@@ -1,0 +1,141 @@
+{
+    "releaseTag": "contractAmendment", 
+    "language": null, 
+    "formationType": "tender", 
+    "ocid": "PW-$$BL-297-23584", 
+    "releaseDate": "2014-07-26", 
+    "releaseID": "Buyandsell.gc.ca-2014-07-26-c9da2ebb-8981-47a4-82c6-22ac6d4ed928", 
+    "awards": [
+        {
+            "itemsAwarded": [
+                {
+                    "unitOfMeasure": null, 
+                    "description": null, 
+                    "valuePerUnit": {
+                        "currency": null, 
+                        "amount": null
+                    }, 
+                    "classificationID": "N4140", 
+                    "classificationScheme": "GSIN", 
+                    "quantity": null, 
+                    "otherClassificationScheme": null, 
+                    "classificationDescription": "Fans, Air Circulators and Blower Equipment"
+                }
+            ], 
+            "notice": {
+                "amendment": {
+                    "amendmentDate": null, 
+                    "justification": null, 
+                    "amendedFields": null
+                }, 
+                "isAmendment": null, 
+                "publishedDate": null, 
+                "uri": null, 
+                "id": "W8486-137717/003/BL"
+            }, 
+            "suppliers": [
+                {
+                    "id": {
+                        "scheme": null, 
+                        "uid": "GUNTER LANGKOPF", 
+                        "uri": null, 
+                        "name": "GUNTER LANGKOPF MASCHINENBAU"
+                    }, 
+                    "address": {
+                        "locality": "DUSSELDORF", 
+                        "region": "Unknown", 
+                        "extended-address": null, 
+                        "post-office-box": null, 
+                        "street-address": null, 
+                        "postal-code": "40591", 
+                        "country-name": "DEU"
+                    }
+                }
+            ], 
+            "awardValue": {
+                "currency": null, 
+                "amount": null
+            }, 
+            "awardDate": "2013-05-07", 
+            "awardID": "W8486-137717/003/BL"
+        }
+    ], 
+    "contracts": [
+        {
+            "amendment": {
+                "amendmentDate": null, 
+                "justification": null, 
+                "amendedFields": null
+            }, 
+            "attachments": [
+                {
+                    "lastModified": null, 
+                    "description": null, 
+                    "uri": null
+                }
+            ], 
+            "signatureDate": null, 
+            "isAmendment": null, 
+            "deliverables": [
+                {
+                    "description": null, 
+                    "dueDate": null, 
+                    "attachment": {
+                        "lastModified": null, 
+                        "description": null, 
+                        "uri": null
+                    }
+                }
+            ], 
+            "itemsContracted": [
+                {
+                    "unitOfMeasure": null, 
+                    "description": null, 
+                    "valuePerUnit": {
+                        "currency": null, 
+                        "amount": null
+                    }, 
+                    "classificationID": null, 
+                    "classificationScheme": null, 
+                    "quantity": null, 
+                    "otherClassificationScheme": null, 
+                    "classificationDescription": null
+                }
+            ], 
+            "contractValue": {
+                "currency": null, 
+                "amount": 31774.0
+            }, 
+            "contractID": "W8486-137717/003/BL", 
+            "awardID": "W8486-137717/003/BL", 
+            "contractPeriod": {
+                "startDate": null, 
+                "endDate": "2014-02-10"
+            }
+        }
+    ], 
+    "tender": {
+        "methodJustification": null, 
+        "selectionDetails": "Open Bidding", 
+        "tenderID": "PW-$$BL-297-23584", 
+        "procuringEntity": {
+            "id": {
+                "name": "Public Works and Government Services Canada"
+            }
+        }
+    }, 
+    "buyer": {
+        "id": {
+            "name": "Department of National Defence"
+        }, 
+        "address": {
+            "locality": "MONTREAL", 
+            "region": "Quebec", 
+            "extended-address": "CFSD MONTREAL", 
+            "post-office-box": null, 
+            "street-address": "CFSD MONTREAL", 
+            "postal-code": "H1N2E9", 
+            "country-name": "Canada"
+        }
+    }
+}
