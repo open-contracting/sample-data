@@ -12,20 +12,16 @@
         {
             "ocid": "reference_number",
 			"date": "publication_date",
-            "tag": "constant:["tenderNotice"]",
-            "initiationType": "tender",
+            "tag": "constant:['tenderNotice']",
+            "initiationType": "constant:tender",
             "tender": {
                 "id": "reference_number",
-                "title": "string",
-                "description": "string",
                 "items": [
                     {
                         "description": "title",
                         "classification": {
                             "scheme": "constant:GSIN",
-                            "id": "string",
-                            "description": "gsin",
-                            "uri": "string"
+                            "description": "gsin"
                         }
                     }
                 ],
@@ -35,13 +31,13 @@
                     "endDate": "date_closing"
                 },
                 "procuringEntity": {
-                    "name": "procurement_entity",
+                    "name": "procurement_entity"
                 },
                 "documents": [
                     {
-                        "url": "list:document",
+                        "url": "list:document"
                     }
-                ],
+                ]
             },
             "buyer": {
                 "name": "end_user_entity"
