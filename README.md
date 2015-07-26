@@ -1,8 +1,10 @@
-A repository holding contracting data, re-organized into the new [Open Contracting Data Standard](http://ocds.open-contracting.org/standard/r/master/)
+# Sample Data
 
-The data was correct at the time of uploading, but should not be treated as an authoritive source of contracting data as the purpose of this repository is to investigate re-organizing existing contracting data into the open contracting data standard. As a result, **fields may have been misinterpreted and records may have become corrupted**. 
+This repository holds sample data represented using the the new [Open Contracting Data Standard](http://ocds.open-contracting.org/standard/)
 
-**Please return to the original data source for accurate contracting information from a specific publisher**.
+It should contain data aligned with the current version of the standard. Data aligned with previous versions of the standard may be found on named branches. 
+
+Pointers to externally available example data are found in the sources.md file. 
 
 Licenses
 --------
