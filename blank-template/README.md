@@ -10,4 +10,3 @@ This template was generated using the [Open Contracting fork of JSON-schema-rand
 ```
 node cli.js ../standard/standard/schema/release-schema.json --no-random --no-additional > ../sample-data/blank-template/release-template-1__0__0.json
 ```
-
