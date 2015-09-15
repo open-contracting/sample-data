@@ -147,7 +147,10 @@
             ],
             "amendment": {
                 "date": "2010-03-20",
-                "changes": ["documents","hasEnquiries"],
+                "changes": [
+                    {"property": "documents"},
+                    {"property": "hasEnquiries"}
+                ],
                 "rationale": "Following the enquiry period, enquiries were received and responses to questions asked have been published. No changes to the overall tender details were made."
             }
         }
