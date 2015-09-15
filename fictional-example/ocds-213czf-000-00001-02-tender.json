@@ -4,7 +4,7 @@
 "publisher": {
         "scheme": "GB-COH",
         "id": "09506232",
-        "legalName": "Open Data Services Co-operative Limited",
+        "name": "Open Data Services Co-operative Limited",
         "uri": "http://standard.open-contracting.org/examples/"
     },
 "license":"http://opendatacommons.org/licenses/pddl/1.0/",
@@ -62,35 +62,35 @@
                             "uri": "http://cpv.data.ac.uk/code-45233162.html"
                         }
                     ],
-                    "quantity": "08",
+                    "quantity": 8,
                     "unit": {
                         "name": "Miles",
                         "value": {
-                            "amount": "120000",
+                            "amount": 120000,
                             "currency": "GBP"
                         }
                     }
                 }
             ],
             "minValue": {
-                "amount": "600000",
+                "amount": 600000,
                 "currency": "GBP"
             },
             "value": {
-                "amount": "1100000",
+                "amount": 1100000,
                 "currency": "GBP"
             },
             "procurementMethod": "open",
             "procurementMethodRationale": "An open competitive tender is required by EU Rules",
             "awardCriteria": "bestProposal",
             "awardCriteriaDetails": "The best proposal, subject to value for money requirements, will be accepted.",
-            "submissionMethod": "electronicSubmission",
+            "submissionMethod": [ "electronicSubmission" ],
             "submissionMethodDetails": "Submit through the online portal at http://example.com/submissions/ocds-213czf-000-00001-01/",
             "enquiryPeriod": {
                     "startDate": "2010-03-01",
                     "endDate": "2010-03-14"
             },
-            "hasEnquiries": "false",
+            "hasEnquiries": false,
             "tenderPeriod": {
                 "startDate": "2010-03-01",
                 "endDate": "2011-04-01"

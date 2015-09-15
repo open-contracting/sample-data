@@ -4,7 +4,7 @@
 "publisher": {
         "scheme": "GB-COH",
         "id": "09506232",
-        "legalName": "Open Data Services Co-operative Limited",
+        "name": "Open Data Services Co-operative Limited",
         "uri": "http://standard.open-contracting.org/examples/"
     },
 "license":"http://opendatacommons.org/licenses/pddl/1.0/",
@@ -45,7 +45,7 @@
                 "id": "6801ad388f3a38b7740dde20108c58b35984ee91",
                 "description": "Budget allocation for highway maintenance, aligned with 2015 strategic plan. ",
                 "amount": {
-                    "amount": "6700000.00",
+                    "amount": 6700000.00,
                     "currency": "GBP"
                 },
                 "project": "Central Junction Cycle Scheme",
@@ -99,22 +99,22 @@
                             "uri": "http://cpv.data.ac.uk/code-45233162.html"
                         }
                     ],
-                    "quantity": "10",
+                    "quantity": 10,
                     "unit": {
                         "name": "Miles",
                         "value": {
-                            "amount": "100000",
+                            "amount": 100000,
                             "currency": "GBP"
                         }
                     }
                 }
             ],
             "minValue": {
-                "amount": "500000",
+                "amount": 500000,
                 "currency": "GBP"
             },
             "value": {
-                "amount": "1000000",
+                "amount": 1000000,
                 "currency": "GBP"
             },
             "procurementMethod": "open",
