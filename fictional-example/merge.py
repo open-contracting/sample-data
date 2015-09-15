@@ -8,7 +8,7 @@ with open('../../standard/standard/schema/release-schema.json', 'r') as f:
 contacting_processes = {}
 
 # Get all the JSON files in this directory
-for fname in os.listdir("."):
+for fname in sorted(os.listdir(".")):
     if fname.endswith('json'):
         print(fname)
         with open(fname, 'r') as jsonfile:
