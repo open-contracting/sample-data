@@ -22,8 +22,8 @@ for f in os.listdir("."):
                 except:
                     base = release
                     
-                base = jsonmerge.merge(base, release, release_schema)
+                base = jsonmerge.merge(base, release) #  ,release_schema
 
 
 with open("record/record.json", 'w') as f:
-    f.write(json.dumps(base,indent=3))
+    f.write(json.dumps(base,indent=3,sort_keys=True))
