@@ -62,22 +62,22 @@
                             "uri": "http://cpv.data.ac.uk/code-45233162.html"
                         }
                     ],
-                    "quantity": "08",
+                    "quantity": 8,
                     "unit": {
                         "name": "Miles",
                         "value": {
-                            "amount": "120000",
+                            "amount": 120000,
                             "currency": "GBP"
                         }
                     }
                 }
             ],
             "minValue": {
-                "amount": "600000",
+                "amount": 600000,
                 "currency": "GBP"
             },
             "value": {
-                "amount": "1100000",
+                "amount": 1100000,
                 "currency": "GBP"
             },
             "procurementMethod": "open",

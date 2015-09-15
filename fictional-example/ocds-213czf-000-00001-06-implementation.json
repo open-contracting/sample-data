@@ -47,7 +47,7 @@
                        "status": "active",
                        "date": "2010-05-10",
                        "value": {
-                           "amount": "11000000",
+                           "amount": 11000000,
                            "currency": "GBP"
                        },
                        "suppliers": [
@@ -98,11 +98,11 @@
                                        "uri": "http://cpv.data.ac.uk/code-45233162.html"
                                    }
                                ],
-                               "quantity": "08",
+                               "quantity": 8,
                                "unit": {
                                    "name": "Miles",
                                    "value": {
-                                       "amount": "137000",
+                                       "amount": 137000,
                                        "currency": "GBP"
                                    }
                                }
@@ -139,7 +139,7 @@
                   "endDate": "2011-08-01"
               },
               "value": {
-                     "amount": "11000000",
+                     "amount": 11000000,
                      "currency": "GBP"
               },
               "items": [
@@ -160,11 +160,11 @@
                              "uri": "http://cpv.data.ac.uk/code-45233162.html"
                          }
                      ],
-                     "quantity": "08",
+                     "quantity": 8,
                      "unit": {
                          "name": "Miles",
                          "value": {
-                             "amount": "137000",
+                             "amount": 137000,
                              "currency": "GBP"
                          }
                      }
@@ -190,7 +190,7 @@
                           "source": "https://openspending.org/uk-barnet-spending/",
                           "date": "2010-08-01",
                           "amount": {
-                              "amount": "500000",
+                              "amount": 500000,
                               "currency": "GBP"
                           },
                           "providerOrganization": {
@@ -212,7 +212,7 @@
                             "source": "https://openspending.org/uk-barnet-spending/",
                             "date": "2010-10-01",
                             "amount": {
-                                "amount": "100000",
+                                "amount": 100000,
                                 "currency": "GBP"
                             },
                             "providerOrganization": {
