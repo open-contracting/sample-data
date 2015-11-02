@@ -1,29 +1,39 @@
 import os
 import jsonmerge
 import json
-from jsonschema import validate
-from collections import defaultdict
-from operator import itemgetter
-from copy import deepcopy
 
 with open('../../standard/standard/schema/release-schema.json', 'r') as f:
-    release_schema = json.loads(f.read())
+    release_schema = json.load(f)
 
-contacting_processes = {}
+compiled_release = {}
+versioned_release = {}
+releases = []
+package = None
 
 # Get all the JSON files in this directory
-for f in os.listdir("."):
-    if f.endswith('json'):
-        with open(f,'r') as jsonfile:
-            package = json.loads(jsonfile.read())
+for fname in sorted(os.listdir(".")):
+    if fname.endswith('json'):
+        with open(fname, 'r') as jsonfile:
+            package = json.load(jsonfile)
             for release in package['releases']:
-                try:
-                    base
-                except:
-                    base = release
-                    
-                base = jsonmerge.merge(base, release, release_schema)
+                releases.append({
+                    'url': package['uri'] + '#' + release['id'],
+                    'date': release['date'],
+                    'tag': release['tag']
+                })
+                versioned_release = jsonmerge.merge(versioned_release, release, release_schema)
+                compiled_release = jsonmerge.merge(compiled_release, release)
 
-
-with open("record/record.json", 'w') as f:
-    f.write(json.dumps(base,indent=3))
+with open("record/ocds-213czf-000-00001.json", 'w') as f:
+    json.dump({
+        'uri': 'http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json',
+        'packages': [package['uri']],
+        'publisher': package['publisher'],
+        'publishedDate': '2009-03-15',
+        'records': [{
+            'ocid': 'ocds-213czf-000-00001',
+            'releases': releases,
+            'compiledRelease': compiled_release,
+            'versionedRelease': versioned_release,
+        }]
+    }, f, indent=3, sort_keys=True)
