@@ -2,7 +2,7 @@ import os
 import jsonmerge
 import json
 
-with open('../../standard/standard/schema/release-schema.json', 'r') as f:
+with open('../release-schema.json', 'r') as f:
     release_schema = json.load(f)
 
 compiled_release = {}
