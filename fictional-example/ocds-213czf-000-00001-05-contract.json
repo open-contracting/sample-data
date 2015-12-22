@@ -1,9 +1,9 @@
 {
 "uri":"http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-05-contract.json",
-"publishedDate":"2010-06-10",
+"publishedDate":"2010-06-10T10:30:00Z",
 "publisher": {
         "scheme": "GB-COH",
-        "id": "09506232",
+        "uid": "09506232",
         "name": "Open Data Services Co-operative Limited",
         "uri": "http://standard.open-contracting.org/examples/"
     },
@@ -13,7 +13,7 @@
         "language": "en",
         "ocid": "ocds-213czf-000-00001",
         "id": "ocds-213czf-000-00001-05-contract",
-        "date": "2010-05-10",
+        "date": "2010-05-10T10:30:00Z",
         "tag": ["contract"],
         "initiationType": "tender",
         "buyer": {
@@ -45,7 +45,7 @@
                    "title": "Award of contract to build new cycle lanes in the centre of town.",
                    "description": "AnyCorp Ltd has been awarded the contract to build new cycle lanes in the centre of town.",
                    "status": "active",
-                   "date": "2010-05-10",
+                   "date": "2010-05-10T10:30:00Z",
                    "value": {
                        "amount": 11000000,
                        "currency": "GBP"
@@ -109,8 +109,8 @@
                        }
                    ],
                    "contractPeriod": {
-                       "startDate": "2010-07-01",
-                       "endDate": "2011-08-01"
+                       "startDate": "2010-07-01T00:00:00Z",
+                       "endDate": "2011-08-01T23:59:00Z"
                    },
                    "documents": [
                        {
@@ -119,7 +119,7 @@
                            "title": "Award notice",
                            "description": "Award of contract to build new cycle lanes in the centre of town to AnyCorp Ltd.",
                            "url": "http://example.com/tender-notices/ocds-213czf-000-00001-04.html",
-                           "datePublished": "2010-05-10",
+                           "datePublished": "2010-05-10T10:30:00Z",
                            "format": "text/html",
                            "language": "en"
                        }
@@ -134,8 +134,8 @@
               "description": "A contract has been signed between the Council and AnyCorp Ltd for construction of new cycle lanes in the centre of town.",
               "status": "active",
               "period": {
-                  "startDate": "2010-07-01",
-                  "endDate": "2011-08-01"
+                  "startDate": "2010-07-01T00:00:00Z",
+                  "endDate": "2011-08-01T23:59:00Z"
               },
               "value": {
                      "amount": 11000000,
@@ -169,7 +169,7 @@
                      }
                  }
              ],
-              "dateSigned": "2015-06-10",
+              "dateSigned": "2015-06-10T14:23:12Z",
               "documents": [
                   {
                       "id": "0008",
@@ -177,7 +177,7 @@
                       "title": "Signed Contract",
                       "description": "The Signed Contract for Cycle Path Construction",
                       "url": "http://example.com/contracts/ocds-213czf-000-00001",
-                      "datePublished": "2015-06-10",
+                      "datePublished": "2015-06-10T16:43:12Z",
                       "format": "application/pdf",
                       "language": "en"
                   }

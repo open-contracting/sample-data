@@ -1,9 +1,9 @@
 {
 "uri":"http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-01-planning.json",
-"publishedDate":"2009-03-15",
+"publishedDate":"2009-03-15T14:45:00Z",
 "publisher": {
         "scheme": "GB-COH",
-        "id": "09506232",
+        "uid": "09506232",
         "name": "Open Data Services Co-operative Limited",
         "uri": "http://standard.open-contracting.org/examples/"
     },
@@ -13,7 +13,7 @@
         "language": "en",
         "ocid": "ocds-213czf-000-00001",
         "id": "ocds-213czf-000-00001-01-planning",
-        "date": "2009-03-15",
+        "date": "2009-03-15T14:45:00Z",
         "tag": ["planning"],
         "initiationType": "tender",
         "buyer": {
@@ -60,7 +60,7 @@
                     "title": "Area Wide Cycle Improvements - Procurement Plan",
                     "description": "The overall strategic framework for procurement to enhance cycle provision.",
                     "url": "http://example.com/opencontracting/documents/planning/highways/procurementPlan.pdf",
-                    "datePublished": "2009-01-05",
+                    "datePublished": "2009-01-05T00:00:00Z",
                     "format": "application/pdf",
                     "language": "en"
                 },
@@ -70,7 +70,7 @@
                     "title": "Cycle provision - Needs Assessment",
                     "description": "Needs assessment for provision for cyclists in the centre of town.",
                     "url": "http://example.com/opencontracting/documents/ocds-213czf-000-00001/needsAssessment.pdf",
-                    "datePublished": "2009-01-15",
+                    "datePublished": "2009-01-15T00:00:00Z",
                     "format": "application/pdf",
                     "language": "en"
                 }
@@ -122,11 +122,11 @@
             "awardCriteria": "bestProposal",
             "awardCriteriaDetails": "The best proposal, subject to value for money requirements, will be accepted.",
             "tenderPeriod": {
-                "startDate": "2010-02-01"
+                "startDate": "2010-02-01T00:00:00Z"
             },
             "awardPeriod": {
-                "startDate": "2010-06-01",
-                "endDate": "2011-06-01"
+                "startDate": "2010-06-01T00:00:00Z",
+                "endDate": "2011-06-01T23:59:59Z"
             },
             "procuringEntity": {
                 "identifier": {
@@ -158,8 +158,8 @@
                     "title": "Consultation on cycle provision",
                     "description": "A consultation document inviting citizen input into cycle provision.",
                     "url": "http://example.com/consultations/cycle-provision/",
-                    "datePublished": "2015-02-15",
-                    "dateModified": "2015-02-15",
+                    "datePublished": "2015-02-15T00:00:00Z",
+                    "dateModified": "2015-02-15T00:00:00Z",
                     "format": "text/html",
                     "language": "en"
                 },
@@ -168,7 +168,7 @@
                     "documentType": "x_map",
                     "title": "Map of affected areas",
                     "description": "A map showing areas affected by the planned highway updates. Available from local libraries.",
-                    "datePublished": "2015-02-15",
+                    "datePublished": "2015-02-15T00:00:00Z",
                     "format": "offline/print",
                     "language": "en"
                 }
@@ -178,7 +178,7 @@
                     "id": "0001",
                     "title": "Consultation Period",
                     "description": "A consultation period is open for citizen input to shape the final plans.",
-                    "dueDate": "2015=04-15"
+                    "dueDate": "2015-04-15T17:00:00Z"
                 }
             ]
         }
