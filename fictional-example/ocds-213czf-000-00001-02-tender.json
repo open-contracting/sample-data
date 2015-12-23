@@ -1,9 +1,9 @@
 {
 "uri":"http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-02-tender.json",
-"publishedDate":"2010-03-01",
+"publishedDate":"2010-03-01T09:30:00Z",
 "publisher": {
         "scheme": "GB-COH",
-        "id": "09506232",
+        "uid": "09506232",
         "name": "Open Data Services Co-operative Limited",
         "uri": "http://standard.open-contracting.org/examples/"
     },
@@ -13,7 +13,7 @@
         "language": "en",
         "ocid": "ocds-213czf-000-00001",
         "id": "ocds-213czf-000-00001-02-tender",
-        "date": "2010-03-15",
+        "date": "2010-03-15T09:30:00Z",
         "tag": ["tender"],
         "initiationType": "tender",
         "buyer": {
@@ -87,18 +87,18 @@
             "submissionMethod": [ "electronicSubmission" ],
             "submissionMethodDetails": "Submit through the online portal at http://example.com/submissions/ocds-213czf-000-00001-01/",
             "enquiryPeriod": {
-                    "startDate": "2010-03-01",
-                    "endDate": "2010-03-14"
+                    "startDate": "2010-03-01T09:00:00Z",
+                    "endDate": "2010-03-14T17:30:00Z"
             },
             "hasEnquiries": false,
             "tenderPeriod": {
-                "startDate": "2010-03-01",
-                "endDate": "2011-04-01"
+                "startDate": "2010-03-01T09:00:00Z",
+                "endDate": "2011-04-01T18:00:00Z"
                 
             },
             "awardPeriod": {
-                "startDate": "2010-06-01",
-                "endDate": "2011-08-01"
+                "startDate": "2010-06-01T00:00:00Z",
+                "endDate": "2011-08-01T23:59:59Z"
             },
             "procuringEntity": {
                 "identifier": {
@@ -130,7 +130,7 @@
                     "title": "Tender Notice",
                     "description": "Official tender notice.",
                     "url": "http://example.com/tender-notices/ocds-213czf-000-00001-01.html",
-                    "datePublished": "2010-03-01",
+                    "datePublished": "2010-03-01T09:00:00Z",
                     "format": "text/html",
                     "language": "en"
                 }
