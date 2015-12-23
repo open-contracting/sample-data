@@ -30,7 +30,7 @@ with open("record/ocds-213czf-000-00001.json", 'w') as f:
     json.dump({
         'uri': 'http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json',
         'packages': packages,
-        'publisher': package['publisher'],
+        'publisher': '2014-02-02T13:02:00Z',
         'publishedDate': datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
@@ -44,7 +44,7 @@ with open("record/ocds-213czf-000-00001-withversions.json", 'w') as f:
         'uri': 'http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json',
         'packages': packages,
         'publisher': package['publisher'],
-        'publishedDate': datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        'publishedDate': '2014-02-02T13:02:00Z',
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
             'releases': releases,
