@@ -1,0 +1,127 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Dawn Bonner", 
+          "email": "procurement@towerhamlets.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2cb4457c-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Contract Title: Leasehold Building Insurance Policy\nContract Reference: R4799\nThe London Borough of Tower Hamlets (LBTH) is seeking expressions of interest from interested organisations for the above services and / or goods.\nDescription:\nThe provision of Leasehold Building insurance for leaseholders as required by the lease agreement between the Leaseholder and the Council.\nThis contract is to cover the Leasehold buildings insurance that the Council has to pay as is required in the lease agreement between the Leaseholder and the Council. The value of the portfolio to be insured is between 1.5b- 2.6b.\nThe anticipated contract start date is: Wednesday, 01 April 2015\nFor a period of: 3 years (2 + 1)\nOrganisations wishing \nto express their \ninterest are requested to register \non the London Tenders Portal (\nwww.londontenders.org) where the tender documentation will be \navailable for download. You may be required to complete a Pre-Qualification \nQuestionnaire (PQQ). \nOrganisations must ensure that access to the system is available to their representatives dealing with the contract. The council will not be liable for the lack of delegated access within the organisation and will not send any documentation regarding the contract, which shall be exclusively available through the portal.\nTenderers are responsible for allowing sufficient time to submit their ITT/PQQ. The Council accepts no liability whatsoever for ITT/PQQs that are not submitted due tointernet connectivity issues, transmission delays or errors. \nDeadline for expression of interest and return of tender is:\nMonday 5January 2015by12 Midday\nLBTH is an Equal Opportunities Employer and a supporter of Ethical Governance, our protocol can be found here along with Or via:\nhttp://www.towerhamlets.gov.uk/ \nLBTH does not undertake to invite all applicants or bind itself to accept the lowest or any Tender. LBTH will not be liable for any costs incurred in tendering for this contract.\nIf you require any further information please contact:\nDawn Bonner\nat: procurement@towerhamlets.gov.uk\n", 
+        "title": " R4799 Leaseholders Building Insurance Policy", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "66000000", 
+              "uri": "http://cpv.data.ac.uk/code-66000000.html", 
+              "description": "Financial and insurance services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "66510000", 
+              "uri": "http://cpv.data.ac.uk/code-66510000.html", 
+              "description": "Insurance services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "66515200", 
+              "uri": "http://cpv.data.ac.uk/code-66515200.html", 
+              "description": "Property insurance services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 600000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2cb4457c-adc8-11e6-9901-0019b9f3037b-tower-9qmh-hn4lvy", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:06Z", 
+      "id": "ocds-b5fd17-2cb4457c-adc8-11e6-9901-0019b9f3037b-tower-9qmh-hn4lvy"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:06Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/4d1454c1-60cd-4251-8b78-3b8d7d807d7d.json"
+}

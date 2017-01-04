@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Croydon", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Sarah Reardon", 
+          "email": "sarah.reardon@croydon.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Croydon", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c83869b-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Contract: 414/2014CFL PARENT PARTNERSHIP SERVICE\nThe requirement London Borough of Croydon invites suitable expression of interest from suppliers for the provision of a Parent Partnership service which will provide: \nA preventative and solution focused service designed to meet the needs of children and young people aged 0- 25 years who have special educational needs and/or disabilities (SEND). This includes support to their parents and/or carers. The remit of the service will be to provide high quality information and advice, dispute resolution, mediation and tribunal support about matters relating to the child or young persons education, health and social care needs.\nThe service is to be commissioned for two years commencing April 2015 and will integrate numerous existing but separate services. The aim of bringing these services together is to enhance the focus of early intervention strategies and solution focussed approaches according to a staged intervention framework Early help pathways: operational guidance (June 2014). It is anticipated that this approach will secure positive engagement from families and young people, increase levels of satisfaction and reduce the number of cases which require resolution through the tribunal process. ", 
+        "title": " 414/2014 CFL-Parent Partnership Service", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 363844
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c83869b-adc8-11e6-9901-0019b9f3037b-croyd-9r8e-5bj4i8", 
+        "tenderPeriod": {
+          "startDate": "2015-05-01T00:00:00Z", 
+          "endDate": "2017-04-30T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:05Z", 
+      "id": "ocds-b5fd17-2c83869b-adc8-11e6-9901-0019b9f3037b-croyd-9r8e-5bj4i8"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:05Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/69341369-8195-4fb5-a091-0c1df5d79470.json"
+}

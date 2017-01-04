@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "London Borough of Redbridge", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Rishi Ruchaya", 
+          "email": "rishi.ruchaya@redbridge.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "London Borough of Redbridge", 
+        "address": {
+          "postalCode": "IG27QZ", 
+          "countryName": "GB", 
+          "streetAddress": "Redbridge Transport, ILFORD, IG27QZ, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c7b1669-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "  \nThe aim of the Concession Agreements is to:\n Provide high-quality day care and early education provision at Ray Lodge Childrens Centre Nursery and Hainault Childrens Centre Nursery;\n  Meet all the requirements of the Statutory Framework for the Early Years Foundation Stage setting the standards for Learning Development and Care for Children from Birth to Five;\n  Achieve commitment to a programme of continuous improvement through working with the Early Years and Childcare Improvement Team;\n  Work in partnership with the Authoritys Early Years Service to ensure that the day care and early education meets the needs of the children and their families and operates in a way that is complementary to the objectives of Integrated Family Services.\n ", 
+        "title": " Concession Agreements For Nursery Provision At Ray Lodge Childrens Centre Nursery And Hainault Childrens Centre Nursery", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "80110000", 
+              "uri": "http://cpv.data.ac.uk/code-80110000.html", 
+              "description": "Pre-school education services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 2062500
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c7b1669-adc8-11e6-9901-0019b9f3037b-redbr-9pxd-7d81nv", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2030-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:04Z", 
+      "id": "ocds-b5fd17-2c7b1669-adc8-11e6-9901-0019b9f3037b-redbr-9pxd-7d81nv"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:04Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/9fc76530-752f-46d4-b719-eb644f700855.json"
+}

@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Leicester City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Martin Wheatley", 
+          "email": "martin.wheatley@leicester.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Leicester City Council", 
+        "address": {
+          "postalCode": "LE11FZ", 
+          "countryName": "GB", 
+          "streetAddress": "115 Charles Street, Leicester, LE11FZ, GBR", 
+          "region": null, 
+          "locality": "Leicestershire"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d323b0d-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Bids are invited from suitably experienced Contractors wishing to be considered for inclusion on a list of approved contractors for the provision of insulation works for projects operated by Leicester City Council, generally subject to support funding and being undertaken within private dwellings within the city of Leicester.\n\nScope of works: Internal Insulation works comprising Loft and Cavity Wall insulation works.", 
+        "title": " Energy Savings Measures - Insulation (PAN0835)", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45320000", 
+              "uri": "http://cpv.data.ac.uk/code-45320000.html", 
+              "description": "Insulation work"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 222988
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d323b0d-adc8-11e6-9901-0019b9f3037b-leicscity-9rtj-2u3m3i", 
+        "tenderPeriod": {
+          "startDate": "2015-02-02T00:00:00Z", 
+          "endDate": "2017-02-01T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:15Z", 
+      "id": "ocds-b5fd17-2d323b0d-adc8-11e6-9901-0019b9f3037b-leicscity-9rtj-2u3m3i"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:15Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/a2e97d92-f9a3-4caa-b179-ae42080bba61.json"
+}

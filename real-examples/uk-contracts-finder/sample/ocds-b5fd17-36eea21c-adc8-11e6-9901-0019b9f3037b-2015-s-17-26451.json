@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Caerphilly County Borough Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Rhys James", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Caerphilly County Borough Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36eea21c-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Caerphilly County Borough Council requires suitable tenders for the replacement of its Highways Maintenance Management System and also Street Lighting Management System. The aim of this process is to procure an integrated solution to manage the highways maintenance, street-works, and street lighting functions that will integrate with current corporate solutions and provide a mobile platform working across all modules. Note: To register your interest in this notice and obtain any additional information please visit the Sell2Wales Web Site at http://www.sell2wales.gov.uk/Search/Search_Switch.aspx?ID=21131'", 
+        "title": "United Kingdom-Hengoed: Software package and information systems", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "48000000", 
+              "uri": "http://cpv.data.ac.uk/code-48000000.html", 
+              "description": "Software package and information systems"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 195833
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36eea21c-adc8-11e6-9901-0019b9f3037b-2015/s-17-26451", 
+        "tenderPeriod": {
+          "startDate": "2015-11-09T00:00:00Z", 
+          "endDate": "2020-01-09T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:24Z", 
+      "id": "ocds-b5fd17-36eea21c-adc8-11e6-9901-0019b9f3037b-2015-s-17-26451"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:24Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/49646789-af38-4b74-a6e8-afbad74722a7.json"
+}

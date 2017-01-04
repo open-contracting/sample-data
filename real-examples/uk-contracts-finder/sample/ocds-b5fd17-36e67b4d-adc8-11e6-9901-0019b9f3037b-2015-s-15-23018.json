@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Frimley Health NHS Foundation Trust", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Frimley Health NHS Foundation Trust", 
+        "address": {
+          "postalCode": "GU167UJ", 
+          "countryName": "GB", 
+          "streetAddress": "Portsmouth Road, Frimley, GU167UJ, GBR", 
+          "region": null, 
+          "locality": "Surrey"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36e67b4d-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Provision of a comprehensive and integrated system to collect, process and report on FFT feedback collected from multiple sites and locations within the Trust.'", 
+        "title": "United Kingdom-Slough: Survey services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79311000", 
+              "uri": "http://cpv.data.ac.uk/code-79311000.html", 
+              "description": "Survey services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 171000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36e67b4d-adc8-11e6-9901-0019b9f3037b-2015/s-15-23018", 
+        "tenderPeriod": {
+          "startDate": "2015-10-16T00:00:00Z", 
+          "endDate": "2018-10-16T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:22Z", 
+      "id": "ocds-b5fd17-36e67b4d-adc8-11e6-9901-0019b9f3037b-2015-s-15-23018"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:22Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/bb307aa8-33b4-42ea-b904-2e8a878be3d6.json"
+}

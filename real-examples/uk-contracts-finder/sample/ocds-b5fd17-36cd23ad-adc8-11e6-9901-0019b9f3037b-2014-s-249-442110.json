@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Warwickshire Police and West Mercia Police Procurement and Contracts Department N/A", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Wendy Hancock", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Warwickshire Police and West Mercia Police Procurement and Contracts Department N/A", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36cd23ad-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The West Mercia Police and Crime Commissioner (the PCC) is to invite tenders for provision of a Vehicle Body Repair Service for Warwickshire Police and West Mercia Police.'", 
+        "title": "United Kingdom-Worcester: Repair and maintenance services of motor vehicles and associated equipment", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50100000", 
+              "uri": "http://cpv.data.ac.uk/code-50100000.html", 
+              "description": "Repair, maintenance and associated services of vehicles and related equipment"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50110000", 
+              "uri": "http://cpv.data.ac.uk/code-50110000.html", 
+              "description": "Repair and maintenance services of motor vehicles and associated equipment"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 875000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36cd23ad-adc8-11e6-9901-0019b9f3037b-2014/s-249-442110", 
+        "tenderPeriod": {
+          "startDate": "2015-10-27T00:00:00Z", 
+          "endDate": "2019-04-27T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:18Z", 
+      "id": "ocds-b5fd17-36cd23ad-adc8-11e6-9901-0019b9f3037b-2014-s-249-442110"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:18Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/5b93a3da-9601-4200-88ae-cf988486bdc8.json"
+}

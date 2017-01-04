@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Shepway District Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Margaret Creed", 
+          "email": "margaret.creed@shepway.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Shepway District Council", 
+        "address": {
+          "postalCode": "CT202QY", 
+          "countryName": "GB", 
+          "streetAddress": "Civic Centre Castle Hill Avenue, FOLKESTONE, CT202QY, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d42fb8f-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "  \nShepway Lifeline is part of Shepway District Council, located in the civic centre in Folkestone. \nThey provide a 24/7 365 day a year monitoring service for our clients. In addition we provide the out of hours emergency call response for Shepway and Dover, along with various reporting lines. \nAll calls come through the alarm receiving equipment for the services listed above. We are now looking to replace the equipment that we have and invite companies to quote for new Alarm Receiving Equipment as specified in the attached documentation.\nPlease note that all clarification questions regarding the specification must be made via this business portal no later than 9th January 2015.\nFinal quotations must be uploaded to this business portal no later than 5pm on 16th January 2015.", 
+        "title": " Alarm Receiving Equipment", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "32000000", 
+              "uri": "http://cpv.data.ac.uk/code-32000000.html", 
+              "description": "Radio, television, communication, telecommunication and related equipment"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 504894
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d42fb8f-adc8-11e6-9901-0019b9f3037b-shepway-9rnj-tuysfe", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2020-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:16Z", 
+      "id": "ocds-b5fd17-2d42fb8f-adc8-11e6-9901-0019b9f3037b-shepway-9rnj-tuysfe"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:16Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/0eb47264-c319-4285-be00-cc3b08718737.json"
+}

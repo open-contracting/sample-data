@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "City of London Corporation", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Toni Peters", 
+          "email": "toni.peters@cityoflondon.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "City of London Corporation", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c7e9c36-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The works include:\n assessment of current wiring/cabling to determine that which can be left in-situ and continue to be used\n servicing of the door and closure/locking mechanisms\n replacement of necessary mechanical parts to ensure the ongoing functionality of the door including closure/locking mechanisms.\n replacement of component parts of the electronic aspect of the door entry system to ensure the ongoing functionality of the system, including the call panel and as required, wiring/cabling.\n replacement of the handsets within individual flats.\nThe project will take place at 3 residential housing estates in London owned by the City of London Corporation. The estates are Golden Lane Estate, London EC1; Holloway Estate, London N7 and the York Way Estate, London N7. The Golden Lane Estate is listed at Grade II, with one block  Crescent House listed at II*. ", 
+        "title": " Refubishment of electronic door entry systems at City of London Residential Housing Blocks", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45000000", 
+              "uri": "http://cpv.data.ac.uk/code-45000000.html", 
+              "description": "Construction work"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 195959
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c7e9c36-adc8-11e6-9901-0019b9f3037b-cityol-9rfh-qsbsbk", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2016-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:04Z", 
+      "id": "ocds-b5fd17-2c7e9c36-adc8-11e6-9901-0019b9f3037b-cityol-9rfh-qsbsbk"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:04Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/8b7891fa-7938-4bfb-9900-5387c615635a.json"
+}

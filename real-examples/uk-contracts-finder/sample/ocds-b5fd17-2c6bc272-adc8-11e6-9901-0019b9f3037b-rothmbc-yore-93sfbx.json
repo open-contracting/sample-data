@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "MS Helen Chambers", 
+          "email": "helen.chambers@rotherham.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c6bc272-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "cancelled", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Rotherham Metropolitan Borough Council, its partner Local Authority Doncaster Metropolitan Borough Council and other Public Body within the United Kingdom are inviting suitably qualified providers of various learning and development requirements to submit an indicative tender to be included on a Dynamic Purchasing System for the provision Learning and Development. Indicative tenders can be uploaded for evaluation at any time throughout the 4 year duration of the dynamic purchasing system. Phase One indicative tenders are required between 11th January 2013 and 11th March 2013.\n\nBy applying for inclusion to this notice, subject to meeting the minimum standards you will be invited to tender once a requirement arises. This will be subject to the placement of a Simplified Notice OJUE notice.\nAdmittance to the Dynamic Purchasing System will depend on providers meeting minimum criteria as stated in the indicative tender documentation.\nRequest for quotations will be issued to providers admitted to the DPS as and when required. The award criteria for this phase will be stipulated in the tender documentation. Rotherham Metropolitan Borough Council, its partner Local Authority Doncaster Metropolitan Borough Council reserves the right to use an electronic reverse auction for quotations.\nFurther details on the Dynamic Purchasing System and full instructions are given in the indicative tender document available to download from yortender.co.uk. Interested parties must register and download the indicative tender document via the supplier contract management system http://yortender.co.uk by the initial deadline of 12:00 noon at 11th March 2013\nAfter this deadline interested providers may apply and upload an indicative tender at any time throughout the duration of the Dynamic Purchasing System. Admittance to the DPS will depend on providers meeting the minimum criteria as stated in the indicative tender document.\nTenderers should be aware that although the contracting authority for the purposes of this procurement is Rotherham Metropolitan Borough Council one or more of the other 22 Local Authorities within the Yorkshire and Humber Region and other geographical areas within the UK may choose to access the concluded contract subject to the capacity of the tenderer, without creating any obligation on behalf of any of them to do so. Where any of the 22 Local Authorities within the Yorkshire and Humber Region or within the UK elects to do so a legally binding contract shall be created between the Contractor and that Local Authority on the terms and conditions contained herein. \n\nDetails of the Local Authorities can be found at \nhttp://local.direct.gov.uk/LDGRedirect/MapLocationSearch.do?mode=1.1& amp;map=4", 
+        "title": " Dynamic Purchasing System for the Provision Learning and Development.", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "80000000", 
+              "uri": "http://cpv.data.ac.uk/code-80000000.html", 
+              "description": "Education and training services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 519000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c6bc272-adc8-11e6-9901-0019b9f3037b-rothmbc-yore-93sfbx", 
+        "tenderPeriod": {
+          "startDate": "2013-05-01T00:00:00Z", 
+          "endDate": "2017-04-30T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:01Z", 
+      "id": "ocds-b5fd17-2c6bc272-adc8-11e6-9901-0019b9f3037b-rothmbc-yore-93sfbx"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:01Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/13ea31eb-19e4-403c-995c-84f8a3e31cef.json"
+}

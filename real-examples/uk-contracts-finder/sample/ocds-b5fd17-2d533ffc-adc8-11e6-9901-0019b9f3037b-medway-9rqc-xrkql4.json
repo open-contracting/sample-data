@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Medway Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Linda Jones", 
+          "email": "linda.jones@medway.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Medway Council", 
+        "address": {
+          "postalCode": "ME44TR", 
+          "countryName": "GB", 
+          "streetAddress": "Gun Wharf, CHATHAM, ME44TR, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d533ffc-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " \nMedway Council invites contractors to tender for the following opportunityrelating toHousing- Soffits, Fascias & AncillaryWorksincluding the following 9 no. addresses, which are as follows:\n\n\n25 Doddington Road, Gillingham, Kent\n\n\n\n4 & 5 Denbigh Avenue, Gillingham, Kent\n\n\n\n1 Hollingbourne Road, Gillingham, Kent\n\n\n\n47 Goudhurst Road, Gillingham, Kent\n\n\n\n13 & 15 Waltham Road, Gillingham, Kent\n\n\n\n11 Bloors Lane, Gillingham, Kent\n\n\n\n106 Cornwallis Avenue, Gillingham, Kent\n\n\n\n20 Wingham Close, Gillingham, Kent\n\n\n\n8 Selstead Close, Gillingham, Kent\n\n\nPlease note, further information is available with Appendix A - Specification.\n\nSite visits can be arranged either via the Kent Business Portal or, by contacting Linda Jones on 01634 332137\n", 
+        "title": " Housing - Soffits, Fascias & Ancillary Works (Various)", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "39000000", 
+              "uri": "http://cpv.data.ac.uk/code-39000000.html", 
+              "description": "Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 16666
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d533ffc-adc8-11e6-9901-0019b9f3037b-medway-9rqc-xrkql4", 
+        "tenderPeriod": {
+          "startDate": "2015-01-12T00:00:00Z", 
+          "endDate": "2015-03-20T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:17Z", 
+      "id": "ocds-b5fd17-2d533ffc-adc8-11e6-9901-0019b9f3037b-medway-9rqc-xrkql4"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:17Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/1f2ce013-3aca-4b82-b13f-5373f1803b41.json"
+}

@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Down District Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Veronica Keegan", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Down District Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36d5573e-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The Council will be obliged by law to notify the public of various activities and procedures. Public notice advertisements and other mediums of advertising will be required for a wide range of purposes. The majority of the Statutory Advertising Account will incorporate notice of: Public Holidays, Recruitment, Consultations, Tenders and General Public Notices. Specific advertising campaigns may be developed to help promote and communicate new services and facilities of the Council. On occasion advertising in a variety of formats, including broadcast, online, outdoor and ambient may also be considered. Note: To register your interest in this notice and obtain any additional information please visit the myTenders Web Site at http://www.myTenders.org/Search/Search_Switch.aspx?ID=146490'", 
+        "title": "United Kingdom-Downpatrick: Advertising services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79341000", 
+              "uri": "http://cpv.data.ac.uk/code-79341000.html", 
+              "description": "Advertising services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 335200
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36d5573e-adc8-11e6-9901-0019b9f3037b-2015/s-10-12873", 
+        "tenderPeriod": {
+          "startDate": "2015-11-09T00:00:00Z", 
+          "endDate": "2019-11-09T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:19Z", 
+      "id": "ocds-b5fd17-36d5573e-adc8-11e6-9901-0019b9f3037b-2015-s-10-12873"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:19Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/2ab08b83-05aa-49b3-b405-98a76a976bf2.json"
+}

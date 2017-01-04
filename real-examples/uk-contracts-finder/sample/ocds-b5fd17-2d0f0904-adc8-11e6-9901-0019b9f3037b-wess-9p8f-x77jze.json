@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "First Wessex", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Victoria Harfield", 
+          "email": "victoria.harfield@firstwessex.org"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "First Wessex", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d0f0904-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Provision of an out of hours telephone answering service & repair ordering service for clients ofFirst Wessex. Please see tender documentation for full details \nPreTender Phone calls:\nPlease do not phone to discuss this tender, for questions that you may have can be raised through the internal discussion board for audit purposes. If you have a technical difficulty with your login details, using the site or submitting your response; please raise these queries direct to the website hosts Due North on the following contact details.\nDue North Technical SupportEmail:support@due-north.comTelephone: 01670 597136\nSocial Media:\nPlease do not befriend individual members of the procurement or evaluation team such as LinkedIn, Twitter or Facebook to avoid potential challenge about collusion. \nSite meetings: are available upon request (where applicable and appropriate) but no later than 5 business days before the tender closing date.", 
+        "title": " First Wessex- Out of Hours Phone Service Contract", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79510000", 
+              "uri": "http://cpv.data.ac.uk/code-79510000.html", 
+              "description": "Telephone-answering services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 579000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d0f0904-adc8-11e6-9901-0019b9f3037b-wess-9p8f-x77jze", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:10Z", 
+      "id": "ocds-b5fd17-2d0f0904-adc8-11e6-9901-0019b9f3037b-wess-9p8f-x77jze"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:10Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/cfcbccfd-107d-4cbb-a0ab-a95834fff06a.json"
+}

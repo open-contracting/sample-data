@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Theresa Barwell-Ward", 
+          "email": "theresa.barwell-ward@kent.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d16bc06-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "   The Provision of a Dynamic Purchasing System for Older Persons Residential.  This opportunity will be open to Contractors offering Residential Care for Older Persons.  Kent County Council (the Council) is the largest local authority in England covering an area of over 3,500 square kilometres. It has an annual expenditure of over 1bn for goods and services and a population of 1.48m. The Council provides a wide range of services on behalf of its residents, operating in partnership with 12 district councils, 289 parish/town Councils and the NHS.  The Council is embarking on a journey to transform adult social care in Kent. (http://www.kent.gov.uk/adult_social_services/transforming_adult_ social _care.aspx). Focusing on:   Focus on prevention and targeted interventions.  Ensure that services respond rapidly and are more effective.  Supporting Carers and empowering individuals to do more for themselves. Residential Care will continue to be a vital part of the delivery of transformed services to our residents.  Residential Care is the provision of 24 hour care and support provided by professional carers to individuals living in regulated care homes and receiving continued support to maximise their independence in continuing to manage activities of daily living.  A good Residential care service supports individuals to maintain a good quality of life and helping them to maintain independent, fulfilling lives for as long as possible.  The Council are inviting Expressions of Interest from CQC registered providers for the provision of Older Persons Residential Care (without Nursing), who can supply services to the residents of Kent.  A number of other Public sector organisations will have access to the use of this DPS contract:   Kent Clinical Commissioning Groups (CCGs) o NHS Ashford CCG. o NHS Canterbury and Coastal CCG. o NHS Dartford, Gravesham and Swanley CCG. o NHS South Kent Cost CCG. o NHS Swale CCG. o NHS Thanet CCG. o NHS West Kent CCG. o NHS Medway  Kent and Medway Commissioning Support Unit (KMCS) Process:   The DPS contract opportunity will be open until the 28/10/2015. It is envisaged that a new contract opportunity will be let to commence from the 01/04/2016.   This will be a two stage process:  Stage 1  The Expression of Interest and Tender stage.  If the potential Provider wishes to apply then the tender documentation is available via the Kent Business portal (www.kentbusinessportal.org.uk). The documentation will need to be download and submitted back to the Council via the Kent Business Portal and Kent County Council Web link.  Information to be completed:   Completed cost model (submitted via the KCC Web link) https://kentcc.firmstep.com/default.aspx/RenderForm/?F.Name=febP RRUMdnh&HideAll=1.  A Pre-Qualification Questionnaire, including proof of CQC registration and latest inspection report.  Quality & Capability Questionnaire  Acceptance of Terms and Conditions.  Sub-Contracting and Account Management  Submitted Financial Accounts f", 
+        "title": " SS1331 - Older Person Residential Re-let", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "32000000", 
+              "uri": "http://cpv.data.ac.uk/code-32000000.html", 
+              "description": "Radio, television, communication, telecommunication and related equipment"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 151468
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d16bc06-adc8-11e6-9901-0019b9f3037b-kent-kent-9h7fdd", 
+        "tenderPeriod": {
+          "startDate": "2014-09-24T00:00:00Z", 
+          "endDate": "2016-04-01T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:11Z", 
+      "id": "ocds-b5fd17-2d16bc06-adc8-11e6-9901-0019b9f3037b-kent-kent-9h7fdd"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:11Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/f722405c-5c02-471f-84cf-1553fef1a29c.json"
+}

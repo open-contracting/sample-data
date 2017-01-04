@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Met Office", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Darren Ball", 
+          "email": "darren.ball@metoffice.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Met Office", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d5b6634-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " You are invited to submit a Tender for the supply, installation, commissioning, integration, acceptance and ongoing support and maintenance for the hardware, any required software, plus any training requirements for one or more of the Lots, which in combination with the existing HPSS data management software plus bespoke software developed separately by the Authority(called MOOSE) and a server estate for the MOOSE and HPSS services, will provide the enhanced storage facilities that are required to deliver a solution suitable for large scale archive data storage (MASS-4G) through to the end of the decade. Included in the scope of this procurement are:\n - Supply and installation of the systems comprising of hardware and any necessary firmware andsoftware.\n - Supply and installation of the network hardware and software required to interconnect the solution.\n - Commissioning and integration of the systems through to acceptance by the Authority.\n - Continued system support.\n - Provision of relevant staff training.", 
+        "title": " Met Office MASS-4G", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72000000", 
+              "uri": "http://cpv.data.ac.uk/code-72000000.html", 
+              "description": "IT services: consulting, software development, Internet and support"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 283630
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d5b6634-adc8-11e6-9901-0019b9f3037b-metofc-9kkd-7jm05v", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2020-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:17Z", 
+      "id": "ocds-b5fd17-2d5b6634-adc8-11e6-9901-0019b9f3037b-metofc-9kkd-7jm05v"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:17Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/a584d9f8-44ca-43a9-9f49-9f8458c89e0d.json"
+}

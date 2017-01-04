@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Metropolitan Housing Trust", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Joanna Anderson", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Metropolitan Housing Trust", 
+        "address": {
+          "postalCode": "NG73NN", 
+          "countryName": "GB", 
+          "streetAddress": "Raleigh House 68 84,Alfreton Road, NOTTINGHAM, NG73NN, GBR", 
+          "region": null, 
+          "locality": "NOTTINGHAMSHIRE"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36fdc7df-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Metropolitan has sites located within the boroughs of City of Derbyshire, North Eastern Derbyshire District, Amber Valley District, Erewash District, South Derbyshire District, East Staffordshire District, Lichfield District and Tamworth District. The concentration of the stock consists of medium/low rise flats, houses, sheltered accommodation, shared ownership, general needs, Leasehold.'", 
+        "title": "United Kingdom-London: Pest-control services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "90922000", 
+              "uri": "http://cpv.data.ac.uk/code-90922000.html", 
+              "description": "Pest-control services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 44000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36fdc7df-adc8-11e6-9901-0019b9f3037b-2015/s-19-30851", 
+        "tenderPeriod": {
+          "startDate": "2015-10-24T00:00:00Z", 
+          "endDate": "2017-10-24T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:27Z", 
+      "id": "ocds-b5fd17-36fdc7df-adc8-11e6-9901-0019b9f3037b-2015-s-19-30851"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:27Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/dcc1959e-2d98-4f7a-a865-48096c386a0c.json"
+}

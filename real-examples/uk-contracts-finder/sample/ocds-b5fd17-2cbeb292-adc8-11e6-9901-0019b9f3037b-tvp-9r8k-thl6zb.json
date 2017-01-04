@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Thames Valley Police", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Robert Turnbull", 
+          "email": "bob.turnbull@thamesvalley.pnn.police.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Thames Valley Police", 
+        "address": {
+          "postalCode": "OX51NZ", 
+          "countryName": "GB", 
+          "streetAddress": "Oxford Spires Business Park The Boulevard, KIDLINGTON, OX51NZ, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2cbeb292-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The Framework opportunity is for the provision of a Speech and Text Analytics solution initially for Thames Valley Police and Hampshire Constabulary as a requirement under the Contact Management Programme. The solution will be used to provide the forces with a Speech and Text Analytics Software package that will enhance both forces Contact Centre functionality, and create a more efficient service. Also, as part of this contract, we will be looking for not just software delivery, but also implementation services, and ongoing support/management of the system.", 
+        "title": " Speech and Text Analytics Framework", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "48000000", 
+              "uri": "http://cpv.data.ac.uk/code-48000000.html", 
+              "description": "Software package and information systems"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72000000", 
+              "uri": "http://cpv.data.ac.uk/code-72000000.html", 
+              "description": "IT services: consulting, software development, Internet and support"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 2968750
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2cbeb292-adc8-11e6-9901-0019b9f3037b-tvp-9r8k-thl6zb", 
+        "tenderPeriod": {
+          "startDate": "2015-01-30T00:00:00Z", 
+          "endDate": "2020-01-29T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:06Z", 
+      "id": "ocds-b5fd17-2cbeb292-adc8-11e6-9901-0019b9f3037b-tvp-9r8k-thl6zb"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:06Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/5314243c-3f9e-4933-9941-89a68d091cba.json"
+}

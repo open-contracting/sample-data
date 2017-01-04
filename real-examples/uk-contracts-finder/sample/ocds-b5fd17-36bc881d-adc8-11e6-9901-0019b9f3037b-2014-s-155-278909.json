@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Salford City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Deborah Derbyshire", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Salford City Council", 
+        "address": {
+          "postalCode": "M275AW", 
+          "countryName": "GB", 
+          "streetAddress": "Salford Civic Centre, Salford, M275AW, GBR", 
+          "region": null, 
+          "locality": "Greater Manchester"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36bc881d-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "active", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Advertising services. Under the Concession Agreement approved contractors may approach the Council(s) with advertising opportunities on Council land and the council will determine (by using pre set criteria) whether this can be progressed with that developer as proposed or whether a mini-competition will be required.'", 
+        "title": "United Kingdom-Salford: Advertising services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79341000", 
+              "uri": "http://cpv.data.ac.uk/code-79341000.html", 
+              "description": "Advertising services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 251400
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36bc881d-adc8-11e6-9901-0019b9f3037b-2014/s-155-278909", 
+        "tenderPeriod": {
+          "startDate": "2019-05-01T00:00:00Z", 
+          "endDate": "2022-05-01T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:14Z", 
+      "id": "ocds-b5fd17-36bc881d-adc8-11e6-9901-0019b9f3037b-2014-s-155-278909"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:14Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/fc9163d2-5d09-4b81-b9d5-6d68e87a555b.json"
+}

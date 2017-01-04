@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Mark Pearson", 
+          "email": "mark.pearson@kirklees.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c763307-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The Council has established a Standing List of Approved Window & Door Design, Fabricate, Supply & Install Contractors for the period 1 April 2013 to 30 September 2016. Applications should be made by means of the application form attached to this opportunity and the application form and supporting information should be posted as a response to this opportunity. Following a review of the submitted application form, applicants will be advised in writing of any successful appointment.\nPlease note that there are two categories of work that can be applied for:1) uPVC Windows & Doors2) Aluminium Doors\nThe second category (Aluminium Doors) is not stand-alone and will form part of any wider uPVC Window & Door tender. Applications should only be made for the Aluminium Door category as part of an application also for the uPVC Windows & Doors category.\nPlease also note that the end date for applications is set on YORtender as 31 May 2016. This is the last date by which applications can be received. Applications can be submitted at any time before this date.\nTender lists for future opportunities will be generated in accordance with the commissioning process which is available to download from this opportunity.\nFor technical support with the use of this portal, please contact the dedicated helpdesk on either yorkshiresupport@due-north.com or (01670) 597136.", 
+        "title": " KMCPRP-025 Standing List of Approved Window & Door Contractors 2013-16", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "44221000", 
+              "uri": "http://cpv.data.ac.uk/code-44221000.html", 
+              "description": "Windows, doors and related items"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45421100", 
+              "uri": "http://cpv.data.ac.uk/code-45421100.html", 
+              "description": "Installation of doors and windows and related components"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 1750000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c763307-adc8-11e6-9901-0019b9f3037b-kirkc-yore-95tdf3", 
+        "tenderPeriod": {
+          "startDate": "2013-04-01T00:00:00Z", 
+          "endDate": "2016-09-30T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:03Z", 
+      "id": "ocds-b5fd17-2c763307-adc8-11e6-9901-0019b9f3037b-kirkc-yore-95tdf3"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:03Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/eabe9ef2-dcaa-4a8f-94c8-5bc516abcb12.json"
+}

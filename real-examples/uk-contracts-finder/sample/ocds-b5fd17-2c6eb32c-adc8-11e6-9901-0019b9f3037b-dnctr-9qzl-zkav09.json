@@ -1,0 +1,157 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Nicky Dobson", 
+          "email": "nicky.dobson@doncaster.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c6eb32c-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " \nFramework to appoint a panel of extenal legal advisor to provide advice and support on commercial law matters and major projects in the following area's of law : \nCommercial Projects and Contracts Commercial Property (inc Planning)Commercial LitigationTrusts and Charity Law \nGovernance Advice/Local Authority LawEmployment LawChildcare Law ", 
+        "title": " Legal Services Framework 2015", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79100000", 
+              "uri": "http://cpv.data.ac.uk/code-79100000.html", 
+              "description": "Legal services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79110000", 
+              "uri": "http://cpv.data.ac.uk/code-79110000.html", 
+              "description": "Legal advisory and representation services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79111000", 
+              "uri": "http://cpv.data.ac.uk/code-79111000.html", 
+              "description": "Legal advisory services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 4, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79112000", 
+              "uri": "http://cpv.data.ac.uk/code-79112000.html", 
+              "description": "Legal representation services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 5, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79130000", 
+              "uri": "http://cpv.data.ac.uk/code-79130000.html", 
+              "description": "Legal documentation and certification services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 6, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79140000", 
+              "uri": "http://cpv.data.ac.uk/code-79140000.html", 
+              "description": "Legal advisory and information services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 6374999
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c6eb32c-adc8-11e6-9901-0019b9f3037b-dnctr-9qzl-zkav09", 
+        "tenderPeriod": {
+          "startDate": "2015-03-01T00:00:00Z", 
+          "endDate": "2018-02-28T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:02Z", 
+      "id": "ocds-b5fd17-2c6eb32c-adc8-11e6-9901-0019b9f3037b-dnctr-9qzl-zkav09"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:02Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/7cfbd33e-9d49-4eda-a618-65be623021cc.json"
+}

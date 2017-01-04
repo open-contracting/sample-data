@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Thames Valley Police", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Beverley Gerrard", 
+          "email": "beverley.gerrard@thamesvalley.pnn.police.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Thames Valley Police", 
+        "address": {
+          "postalCode": "OX51NZ", 
+          "countryName": "GB", 
+          "streetAddress": "Oxford Spires Business Park The Boulevard, KIDLINGTON, OX51NZ, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2cc058ab-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " To access tender documentation please visit the Supplier Opportunities page on the Blue Light ProContract portal.\nThe Police and Crime Commissioner (PCC) for Thames Valley intends to issue an invitation to tender (ITTs) for the supply of the following service for victims of crime:-\n\n\nA Victim-Initiated and Pre-Sentence Restorative Justice (RJ)Service (Victim-led RJ Service)\n\nThe Contract will last for a period of three years with an option to extend for a further 2 years. The option to extend will be at the sole discretion of the PCC for Thames Valley. Each Contract will be awarded to a single supplier or consortium. \n\nThe expectation is to provide and promote high quality specialist support service, tailored to individual needs that achieve improvements in every victims ability to cope and recover from the impact of crime. The service will be free, confidential, accessible and available to victims regardless of where the crime took place or whether or not the offence was reported to the police. Further details of the scope of each contract are provided below:-\n\nVictim-Led RJ Service \nThis contract shall meet the six National Restorative Justice Standards, provide leadership in promoting high and consistent standards of RJ across Thames Valley, and improve knowledge of, and access to, restorative justice initiated by victims of crime (including pre-sentence RJ). The service shall not stand-alone but shall link to, and support access into, other support services for victims in the wider community. \nPlease also forward via the Blue Light ProContract portal the last two years of your audited accounts. This can be uploaded/sent before the tender deadline. The audited accounts will not form part of the evaluation. This will allow the OPCC to gauge the financial situation of the tenderer, which can be backed up by the information given in the Tender Submission document Part 3 Funding Streams.", 
+        "title": " Police & Crime Commissioner for Thames Valley - Specialist Services for Victims - Victim-Led Restorative Justice Service", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85300000", 
+              "uri": "http://cpv.data.ac.uk/code-85300000.html", 
+              "description": "Social work and related services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 200000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2cc058ab-adc8-11e6-9901-0019b9f3037b-tvp-9q4j-vss8gw", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2017-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:06Z", 
+      "id": "ocds-b5fd17-2cc058ab-adc8-11e6-9901-0019b9f3037b-tvp-9q4j-vss8gw"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:06Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/f72a8568-a025-4167-8d40-e03716383fd7.json"
+}
