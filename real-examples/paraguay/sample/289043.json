@@ -1,0 +1,354 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/289043.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:03:41-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-et.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289043-consorcio-eht-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:03:41-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "JeMjKSojIvJg3mM07iELNw%3D%3D"
+              ],
+              "title": "LPI PARA LA FISCALIZACION DE LA CONSTRUCCION DE LA AVENIDA COSTANERA NORTE DE ASUNCION - SEGUNDA ETAPA Y CONEXION AVENIDA PRIMER PRESIDENTE CON LA RUTA NACIONAL Nº9",
+              "id": "tE8rVBKtPnk%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "clarifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/o0z6ZTfGrqw%253D",
+              "title": "Aclaraciones",
+              "id": "o0z6ZTfGrqw%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "clarifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Yy0YTsrJC3A%253D",
+              "title": "Aclaraciones",
+              "id": "Yy0YTsrJC3A%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/bKZrOqhJYvY%253D",
+              "title": "Adenda",
+              "id": "bKZrOqhJYvY%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Nota de Observacion",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/pARLsciAzMs%253D",
+              "title": "Nota de Observacion",
+              "id": "pARLsciAzMs%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/0g2ix7%252FayLk%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "0g2ix7%2FayLk%3D"
+            }
+          ],
+          "title": "LPI PARA LA FISCALIZACION DE LA CONSTRUCCION DE LA AVENIDA COSTANERA NORTE DE ASUNCION - SEGUNDA ETAPA Y CONEXION AVENIDA PRIMER PRESIDENTE CON LA RUTA NACIONAL Nº9",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1",
+          "tenderPeriod": {
+            "endDate": "2015-12-14T11:00:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Ministerio de Obras Públicas y Comunicaciones (MOPC)",
+            "contactPoint": {
+              "email": "uoc@mopc.gov.oy",
+              "name": "LILIAN PATRICIA CAÑETE MARECOS",
+              "telephone": "4149820"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2015-12-04T09:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad Medida Global"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81101508-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81101508-001"
+              },
+              "quantity": 1,
+              "description": "Fiscalizacion de obra",
+              "id": "JeMjKSojIvJg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2015-12-04T09:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-et",
+          "budget": {
+            "description": "LPI PARA LA FISCALIZACION DE LA CONSTRUCCION DE LA AVENIDA COSTANERA NORTE DE ASUNCION - SEGUNDA ETAPA Y CONEXION AVENIDA PRIMER PRESIDENTE CON LA RUTA NACIONAL Nº9",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 11318396672,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-06-30T12:17:17-04:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "CONSORCIO EHT",
+                  "id": "80093233-1"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "MCAL. ESTIGARRIBIA Nº 2153",
+                  "locality": "ASUNCION",
+                  "countryName": "Paraguay",
+                  "region": "Central"
+                },
+                "name": "CONSORCIO EHT",
+                "contactPoint": {
+                  "email": "ing.acaceres@consultoraelectropar.com",
+                  "faxNumber": "",
+                  "url": "",
+                  "name": "ALCIDES JOSE CACERES VARGAS",
+                  "telephone": "021 225 808"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1",
+            "title": "LPI PARA LA FISCALIZACION DE LA CONSTRUCCION DE LA AVENIDA COSTANERA NORTE DE ASUNCION - SEGUNDA ETAPA Y CONEXION AVENIDA PRIMER PRESIDENTE CON LA RUTA NACIONAL Nº9",
+            "id": "289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "CONSORCIO EHT",
+                "id": "80093233-1"
+              },
+              "name": "CONSORCIO EHT",
+              "identifiers": {
+                "key": "289043-consorcio-eht-1"
+              }
+            },
+            "dncpContractCode": "LI-12013-16-123288",
+            "lots": [
+              {
+                "items": [
+                  "C55Vac6cJJ0%3D"
+                ],
+                "title": "LPI PARA LA FISCALIZACION DE LA CONSTRUCCION DE LA AVENIDA COSTANERA NORTE DE ASUNCION - SEGUNDA ETAPA Y CONEXION AVENIDA PRIMER PRESIDENTE CON LA RUTA NACIONAL Nº9",
+                "id": "yvdNvRSOooM%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9EsWrwn5IEs%253D",
+                "title": "Acta de Apertura",
+                "id": "9EsWrwn5IEs%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/GXZrUoYzUVQ%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "GXZrUoYzUVQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/jjRr9LFTQkg%253D",
+                "title": "Informe de Evaluación",
+                "id": "jjRr9LFTQkg%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/cnOPKoHRyX0%253D",
+                "title": "Informe de Evaluación",
+                "id": "cnOPKoHRyX0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/6BmrkQaj44Y%253D",
+                "title": "Informe de Evaluación",
+                "id": "6BmrkQaj44Y%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/YD5ld%252BMWVWk%253D",
+                "title": "Informe de Evaluación",
+                "id": "YD5ld%2BMWVWk%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/AZtIOeR19Zg%253D",
+                "title": "Notificación al Oferente",
+                "id": "AZtIOeR19Zg%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/dqD4zB17FDw%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "dqD4zB17FDw%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/zeMfGjSIsyE%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "zeMfGjSIsyE%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289043-consorcio-eht-1",
+            "id": "289043-consorcio-eht-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 11318396672,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81101508-001",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81101508-001"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Fiscalizacion de obra",
+                "id": "C55Vac6cJJ0%3D"
+              }
+            ],
+            "awardID": "289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1",
+            "title": "LPI PARA LA FISCALIZACION DE LA CONSTRUCCION DE LA AVENIDA COSTANERA NORTE DE ASUNCION - SEGUNDA ETAPA Y CONEXION AVENIDA PRIMER PRESIDENTE CON LA RUTA NACIONAL Nº9",
+            "dateSigned": "2016-05-27T12:00:00-04:00"
+          }
+        ],
+        "buyer": {
+          "name": "Ministerio de Obras Públicas y Comunicaciones (MOPC)",
+          "contactPoint": {
+            "email": "uoc@mopc.gov.oy",
+            "name": "LILIAN PATRICIA CAÑETE MARECOS",
+            "telephone": "4149820"
+          }
+        },
+        "ocid": "ocds-03ad3f-289043",
+        "id": "289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-et.json",
+          "date": "2015-02-28T16:24:40-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1.json",
+          "date": "2015-10-29T16:15:40-04:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/289043-lpi-fiscalizacion-construccion-avenida-costanera-norte-asuncion-segunda-etapa-conexi-1.json",
+          "date": "2016-06-30T12:17:17-04:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289043-consorcio-eht-1.json",
+          "date": "2016-05-27T12:00:00-04:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-289043"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

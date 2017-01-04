@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Devon County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Miss Louise Baker", 
+          "email": "louise.k.baker@devon.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Devon County Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c44d7bf-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " As part of the requirementto comply with the Data Protection Act 1998 Devon CountyCouncil is seeking to form a secure confidential waste collection, shredding and disposal contract. For the purpose of this contract secure shall be defined as free from risk of being lost, intercepted or accessed by unauthorised persons\nDCC requires that all its confidential waste is securely shredded to mitigate the risk of an information security breach. There will be the requirement for shredding on-site at a DCC premise and shredding off-site at a premise of the Contractor. \nThe contract is anticipated to start on 1st April 2015 and will run for an initial period of three years until 31st March 2018. There is an option to extend the contract for a further one year period as from 1st April 2018 at the Council's discretion. \n\n\n", 
+        "title": " CP1089-14 Secure confidential waste collection, shredding and disposal service", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "90500000", 
+              "uri": "http://cpv.data.ac.uk/code-90500000.html", 
+              "description": "Refuse and waste related services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 120000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c44d7bf-adc8-11e6-9901-0019b9f3037b-dcc-9pxe-8fzca0", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:44:59Z", 
+      "id": "ocds-b5fd17-2c44d7bf-adc8-11e6-9901-0019b9f3037b-dcc-9pxe-8fzca0"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:44:59Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/9408697a-ecdd-41cf-8fb5-9b1fbf3ac42f.json"
+}

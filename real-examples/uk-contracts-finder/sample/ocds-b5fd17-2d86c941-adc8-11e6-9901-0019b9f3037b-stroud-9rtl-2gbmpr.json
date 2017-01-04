@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Stroud District Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Joe Gordon", 
+          "email": "joe.gordon@stroud.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Stroud District Council", 
+        "address": {
+          "postalCode": "GL54UB", 
+          "countryName": "GB", 
+          "streetAddress": "Ebley Mill, STROUD, GL54UB, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d86c941-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Stroud District Council wish to appoint a maximum of two organisations to provide Cost Management, Quantity surveying, and Procurement services. \nThere is a requirement for a comprehensive cost management service to assist in the successful delivery of projects across Asset management and related services.\n\nWe anticipate a minimum quarterly reconciliation of accounts, and the preparation of final accounts.\n\nWorks will consist of but will not be limited to;\n\n Retrospective auditing of final accounts\n Cost planning and forecasting\n Feasibility to final account\n Appraisal and advising on project financial control processes\n Advise on value engineering to maximise budgets\n\nValuations\nFinal Account Preparation\nContractor Claims Analysis and Settlement\nContribute to and preparation of management reports\nIn House Gas Provider Service Implementation\nContract document preparation and procurement\n", 
+        "title": " H1719 - Cost Management & Quantity Surveying Services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71000000", 
+              "uri": "http://cpv.data.ac.uk/code-71000000.html", 
+              "description": "Architectural, construction, engineering and inspection services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 450000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d86c941-adc8-11e6-9901-0019b9f3037b-stroud-9rtl-2gbmpr", 
+        "tenderPeriod": {
+          "startDate": "2015-03-02T00:00:00Z", 
+          "endDate": "2018-03-02T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:19Z", 
+      "id": "ocds-b5fd17-2d86c941-adc8-11e6-9901-0019b9f3037b-stroud-9rtl-2gbmpr"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:19Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/79ab74e3-4118-4b62-912f-7b53f580f802.json"
+}

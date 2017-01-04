@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Accord Housing Association Limited  Supply of Timber Materials", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Joanne Antcliff", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Accord Housing Association Limited  Supply of Timber Materials", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-3708da48-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Accord's LoCal Homes factory is based in Walsall and produces between 150 and 200 homes each year / LoCaL Homes manufactures high quality, environmentally-friendly homes, innovatively designed to provide an exciting new housing product that offers modern low carbon living.'", 
+        "title": "United Kingdom-West Bromwich: Timber", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "03419000", 
+              "uri": "http://cpv.data.ac.uk/code-03419000.html", 
+              "description": "Timber"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "03419100", 
+              "uri": "http://cpv.data.ac.uk/code-03419100.html", 
+              "description": "Timber products"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 180000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-3708da48-adc8-11e6-9901-0019b9f3037b-2015/s-21-33680", 
+        "tenderPeriod": {
+          "startDate": "2015-11-10T00:00:00Z", 
+          "endDate": "2018-11-10T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:28Z", 
+      "id": "ocds-b5fd17-3708da48-adc8-11e6-9901-0019b9f3037b-2015-s-21-33680"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:28Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/9e20d0d8-5e4e-4a36-8c98-4aaab2958ebf.json"
+}

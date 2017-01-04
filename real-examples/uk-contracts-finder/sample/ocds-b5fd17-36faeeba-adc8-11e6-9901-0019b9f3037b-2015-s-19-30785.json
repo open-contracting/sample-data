@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "The Riverside Group Ltd", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Steven Smith", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "The Riverside Group Ltd", 
+        "address": {
+          "postalCode": "L248RF", 
+          "countryName": "GB", 
+          "streetAddress": "2 Estuary Boulevard, LIVERPOOL, L248RF, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36faeeba-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Property, business interruption, liability, motor vehicle, engineering, personal accident, fidelity guarantee, professional indemnity, construction related and other insurances and insurance services as required by The Riverside Group Ltd, and as more fully detailed in the invitation to tender documents.'", 
+        "title": "United Kingdom-Liverpool: Insurance services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "66510000", 
+              "uri": "http://cpv.data.ac.uk/code-66510000.html", 
+              "description": "Insurance services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 148050
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36faeeba-adc8-11e6-9901-0019b9f3037b-2015/s-19-30785", 
+        "tenderPeriod": {
+          "startDate": "2015-11-23T00:00:00Z", 
+          "endDate": "2018-11-23T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:26Z", 
+      "id": "ocds-b5fd17-36faeeba-adc8-11e6-9901-0019b9f3037b-2015-s-19-30785"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:26Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/105eaf00-058e-4b45-a8c9-b0c49487a799.json"
+}

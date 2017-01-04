@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Leicestershire County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Charles Ellis", 
+          "email": "Charles.Ellis@leics.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Leicestershire County Council", 
+        "address": {
+          "postalCode": "LE38RA", 
+          "countryName": "GB", 
+          "streetAddress": "Leicester Road, LEICESTER, LE38RA, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2cddb436-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Leicestershire County Council's Property Services is seeking to appoint 3 Contractors on a select list forGlazing Services. \n\nThe contract term will be for a minimum period of 3 years commencing 1st April, 2015 with an option to extend for a further period or periods up to a total of 1 year taking the contract term to a maximum of 4 years with an end date of 31st March 2019. \n\nBuildings included within this contract comprise a range of building types including Schools, Academies, Libraries, Residential Care Homes, Offices, Registrars, Museums, Industrial Units, Caretakers Houses, and many more. \n\nAppointed contractors are to carry out allGlazing reactive maintenance as directed by the contracting authoritys Property helpdesk in a timely manner in accordance with the service levels and response times. The key objectives are to ensure that the buildings remain operational but above all are safe and secure with a comfortable environment for their occupants. \n\n", 
+        "title": " Reactive Maintenance: Glazing Services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50000000", 
+              "uri": "http://cpv.data.ac.uk/code-50000000.html", 
+              "description": "Repair and maintenance services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 214227
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2cddb436-adc8-11e6-9901-0019b9f3037b-leicscc-9rgf-exu51g", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:07Z", 
+      "id": "ocds-b5fd17-2cddb436-adc8-11e6-9901-0019b9f3037b-leicscc-9rgf-exu51g"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:07Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/1897ba50-97dd-47dc-a6f9-53a86af19afe.json"
+}

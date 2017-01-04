@@ -1,0 +1,338 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/288008.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:02:54-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/288008-servicio-mantenimiento-repacion-sistema-electrico-y-o-aparatos-electricos.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/288008-alberto-lesme-leon-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:02:54-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "w0FyxShgVThg3mM07iELNw%3D%3D"
+              ],
+              "title": "SERVICIO DE MANTENIMIENTO Y REPARACION DEL SISTEMA ELECTRICO Y/O APARATOS ELECTRICOS - AD REFERENDUM",
+              "id": "5NaHeQ9q7Eo%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Acta de Prórroga",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/JTKHcWiMYcs%253D",
+              "title": "Acta de Prórroga",
+              "id": "JTKHcWiMYcs%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/88R3at%252FVHXk%253D",
+              "title": "Adenda",
+              "id": "88R3at%2FVHXk%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "Carta de Invitación",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/S9JKLaPGclU%253D",
+              "title": "Carta de Invitación",
+              "id": "S9JKLaPGclU%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/LUIaVHJam9E%253D",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "id": "LUIaVHJam9E%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/yOA8UCdkKgw%253D",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios",
+              "id": "yOA8UCdkKgw%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Nota de Observacion",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/0PRQ8LsSI8Y%253D",
+              "title": "Nota de Observacion",
+              "id": "0PRQ8LsSI8Y%3D"
+            }
+          ],
+          "title": "SERVICIO DE MANTENIMIENTO Y REPARACION DEL SISTEMA ELECTRICO Y/O APARATOS ELECTRICOS - AD REFERENDUM",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1",
+          "tenderPeriod": {
+            "endDate": "2016-01-07T09:00:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Fondo Ganadero",
+            "contactPoint": {
+              "email": "mcasco@fondogan.gov.py",
+              "name": "Lic. MARIA CASCO LICHI",
+              "telephone": "227-288"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2016-01-04T09:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72102201-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "72102201-002"
+              },
+              "quantity": 1,
+              "description": "Mantenimiento y reparacion de instalaciones electricas",
+              "id": "w0FyxShgVThg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2016-01-04T09:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/288008-servicio-mantenimiento-repacion-sistema-electrico-y-o-aparatos-electricos",
+          "budget": {
+            "description": "SERVICIO DE MANTENIMIENTO Y REPACION DEL SISTEMA ELECTRICO Y/O APARATOS ELECTRICOS - AD REFERENDUM",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 30000000.0,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-02-17T09:15:29-05:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "Alberto Lesme Leon",
+                  "id": "2060228-6"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "Nico Gill e/ Sagrado Corazon de Jesus",
+                  "locality": "Luque",
+                  "countryName": "Paraguay",
+                  "region": "Central"
+                },
+                "name": "Alberto Lesme Leon",
+                "contactPoint": {
+                  "email": "alberto.lesme@gmail.com",
+                  "faxNumber": "",
+                  "url": "http://www.serviciosalltel.com.py",
+                  "name": "Alberto Lesme Leon",
+                  "telephone": "645310"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1",
+            "title": "SERVICIO DE MANTENIMIENTO Y REPARACION DEL SISTEMA ELECTRICO Y/O APARATOS ELECTRICOS - AD REFERENDUM",
+            "id": "288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "Alberto Lesme Leon",
+                "id": "2060228-6"
+              },
+              "name": "Alberto Lesme Leon",
+              "identifiers": {
+                "key": "288008-alberto-lesme-leon-1"
+              }
+            },
+            "dncpContractCode": "CD-27004-16-118990",
+            "lots": [
+              {
+                "items": [
+                  "m8THCGP4FgE%3D"
+                ],
+                "title": "SERVICIO DE MANTENIMIENTO Y REPARACION DEL SISTEMA ELECTRICO Y/O APARATOS ELECTRICOS - AD REFERENDUM",
+                "id": "EPWxRSCu5Xw%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/8sELFBQYlqc%253D",
+                "title": "Acta de Apertura",
+                "id": "8sELFBQYlqc%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/Ee42a%252BiKe%252B8%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "Ee42a%2BiKe%2B8%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/MJLX3c0MulI%253D",
+                "title": "Informe de Evaluación",
+                "id": "MJLX3c0MulI%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/3CNh%252Fi3XTTM%253D",
+                "title": "Notificación al Oferente",
+                "id": "3CNh%2Fi3XTTM%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/d6b%252BEg3uuHY%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "d6b%2BEg3uuHY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vU%252FYYK9pYlY%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "vU%2FYYK9pYlY%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/288008-alberto-lesme-leon-1",
+            "id": "288008-alberto-lesme-leon-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 30000000.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72102201-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "72102201-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de instalaciones electricas",
+                "id": "m8THCGP4FgE%3D"
+              }
+            ],
+            "awardID": "288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1",
+            "title": "SERVICIO DE MANTENIMIENTO Y REPARACION DEL SISTEMA ELECTRICO Y/O APARATOS ELECTRICOS - AD REFERENDUM",
+            "dateSigned": "2016-02-10T12:00:00-05:00"
+          }
+        ],
+        "buyer": {
+          "name": "Fondo Ganadero",
+          "contactPoint": {
+            "email": "mcasco@fondogan.gov.py",
+            "name": "Lic. MARIA CASCO LICHI",
+            "telephone": "227-288"
+          }
+        },
+        "ocid": "ocds-03ad3f-288008",
+        "id": "288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/288008-servicio-mantenimiento-repacion-sistema-electrico-y-o-aparatos-electricos.json",
+          "date": "2015-12-14T11:07:43-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1.json",
+          "date": "2015-12-23T23:02:47-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/288008-servicio-mantenimiento-reparacion-sistema-electrico-y-o-aparatos-electricos-ad-refer-1.json",
+          "date": "2016-02-17T09:15:29-05:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/288008-alberto-lesme-leon-1.json",
+          "date": "2016-02-10T12:00:00-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-288008"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

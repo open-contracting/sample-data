@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Nottingham City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Mabs Karim", 
+          "email": "mabs.karim@nottinghamcity.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Nottingham City Council", 
+        "address": {
+          "postalCode": "NG23NG", 
+          "countryName": "GB", 
+          "streetAddress": "Station Street, NOTTINGHAM, NG23NG, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2ce3f188-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Nottingham City Council is seeking to appoint an organisation to provide a Breastfeeding Peer Support Service to pregnant and breastfeeding women resident in Nottingham City or registered with a Nottingham City General Practitioner.\nThe Provider shall deliver a quality, easily accessible peer-support service that offers both:\n\nTargeted one to one support for women aged less than 25 years of age to address current age related inequalities in breastfeeding initiation and duration. \nGroup based peer support for all other pregnant and breastfeeding women, building on existing support groups and services including Sure Start Childrens Centres.\n", 
+        "title": " QC129 Breastfeeding Peer Support Service", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 125332
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2ce3f188-adc8-11e6-9901-0019b9f3037b-nottcity-9rhk-uuc0zl", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:08Z", 
+      "id": "ocds-b5fd17-2ce3f188-adc8-11e6-9901-0019b9f3037b-nottcity-9rhk-uuc0zl"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:08Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/3efbea18-f61d-43e9-8764-73f8eb8e697b.json"
+}

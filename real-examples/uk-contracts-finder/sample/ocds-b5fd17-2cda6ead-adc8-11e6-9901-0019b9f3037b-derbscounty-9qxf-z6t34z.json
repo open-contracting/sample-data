@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Alison Walbank", 
+          "email": "alison.walbank@derbyshire.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2cda6ead-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The Council intends to procure an external web\nbased Dynamic Learning Environment (DLE) with\neLearning Modules and Associated Support \nServices.\n\nThe purpose of the DLE is to drive the change towards a learning culture that maximises the potential of eLearning and other online resources.\n\nThe Solution should provide a platform that engages council staff and other partners, promoting and significantly increasing access to learning opportunities.\n\nAs part of the Solution, the Council should have access to a catalogue of e-Learning modules that can be tailored to meet its specific needs as required.\n\nThe Solution is expected to be in place for an initial period of 2 years, with options to extend for a further period of 12 months to take the term up to a maximum of 3 years depending on the budget available.\n\nIt is expected that the number of Users will be in the region of 8,000 to 12,000 per annum.", 
+        "title": " TS12021 - Dynamic Learning Environment eLearning and Associated Support Services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72000000", 
+              "uri": "http://cpv.data.ac.uk/code-72000000.html", 
+              "description": "IT services: consulting, software development, Internet and support"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 113452
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2cda6ead-adc8-11e6-9901-0019b9f3037b-derbscounty-9qxf-z6t34z", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2017-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:07Z", 
+      "id": "ocds-b5fd17-2cda6ead-adc8-11e6-9901-0019b9f3037b-derbscounty-9qxf-z6t34z"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:07Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/64534c94-dc35-460f-a6ea-7f482f1f8525.json"
+}

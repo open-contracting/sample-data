@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "ESPO", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Louis Blake", 
+          "email": "l.blake@espo.org"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "ESPO", 
+        "address": {
+          "postalCode": "LE191ES", 
+          "countryName": "GB", 
+          "streetAddress": "Barnsdale Way, LEICESTER, LE191ES, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2cf3253c-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " ESPO is seeking to procure a home to school transport service for Brooke Weston Trust. The service covers transport for students to and from Brooke Weston Academy, which is operated by the Trust. The service covers set routes and set pick-up/drop-off times that will be specified by the Trust.\nThe service will require a fleet of vehicles with a range of passenger capacities covering approximately 12 routes largely around Corby, but also covering areas further afield as required (for example, Rutland and Kettering). Exact routes and timings will be included in the tender documentation, but will include a service into the school in the morning and a return service in the evening.\nThe initial contract length required is likely to be 3 years, with an option to extend for a further two years in one year increments. The value of the contract is estimated at between 250,000 - 350,000 per annum. The contract must be in place for use in the new school year in 2015/16 and so will likely be awarded in April/May 2015.", 
+        "title": " 3162_15 Home to School Transport", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60170000", 
+              "uri": "http://cpv.data.ac.uk/code-60170000.html", 
+              "description": "Hire of passenger transport vehicles with driver"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60172000", 
+              "uri": "http://cpv.data.ac.uk/code-60172000.html", 
+              "description": "Hire of buses and coaches with driver"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 111642
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2cf3253c-adc8-11e6-9901-0019b9f3037b-espo-9qzg-8p3psa", 
+        "tenderPeriod": {
+          "startDate": "2015-08-01T00:00:00Z", 
+          "endDate": "2018-07-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:10Z", 
+      "id": "ocds-b5fd17-2cf3253c-adc8-11e6-9901-0019b9f3037b-espo-9qzg-8p3psa"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:10Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/4a77e11e-bbd9-4f97-8bd3-3077df4882ba.json"
+}

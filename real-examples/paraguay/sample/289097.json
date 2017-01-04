@@ -1,0 +1,3594 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/289097.json",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publishedDate": "2017-01-04T11:12:39-05:00",
+  "records": [
+    {
+      "releases": [
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/289097-adquisicion-menajes-cocina.json",
+          "date": "2015-03-11T14:47:53-04:00",
+          "tag": [
+            "planning"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-3.json",
+          "date": "2015-11-16T15:07:03-05:00",
+          "tag": [
+            "tender"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/award/289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1.json",
+          "date": "2016-05-10T17:25:01-04:00",
+          "tag": [
+            "award"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289097-contiparaguay-s-a-6.json",
+          "date": "2016-04-29T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289097-diego-gilberto-ramos-gonzalez-11.json",
+          "date": "2016-05-13T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289097-el-castillo-s-a-7.json",
+          "date": "2016-05-17T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289097-federico-ysaac-amarilla-bedoya-8.json",
+          "date": "2016-05-06T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289097-juan-braulio-perez-gutierrez-10.json",
+          "date": "2016-05-16T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289097-maria-mercedes-caballero-9.json",
+          "date": "2016-05-16T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ]
+        }
+      ],
+      "compiledRelease": {
+        "awards": [
+          {
+            "id": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "status": "active",
+            "suppliers": [
+              {
+                "address": {
+                  "streetAddress": "RUTA 2 MCAL. JOSE FELIX ESTIGARRIBIA KM 22",
+                  "countryName": "Paraguay",
+                  "region": "Central",
+                  "postalCode": "",
+                  "locality": "CAPIATA"
+                },
+                "name": "CONTIPARAGUAY S.A. ",
+                "identifier": {
+                  "legalName": "CONTIPARAGUAY S.A. ",
+                  "id": "80028142-0",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "contactPoint": {
+                  "email": "contiparaguay-licitaciones@contilatin.com",
+                  "url": "http://www.contiparaguay.com.py",
+                  "name": "MARCELO EDGARDO CARLOMAGNO",
+                  "faxNumber": "",
+                  "telephone": "0228/621000"
+                }
+              },
+              {
+                "address": {
+                  "streetAddress": "Augusto Roa Bastos (Ex Hernan Cortez) 1052",
+                  "countryName": "Paraguay",
+                  "region": "Central",
+                  "postalCode": "",
+                  "locality": "LAMBARE (DISTRITO)"
+                },
+                "name": "DIEGO GILBERTO RAMOS GONZALEZ",
+                "identifier": {
+                  "legalName": "DIEGO GILBERTO RAMOS GONZALEZ",
+                  "id": "3295034-9",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "contactPoint": {
+                  "email": "quinogus@gmail.com",
+                  "url": "",
+                  "name": "DIEGO GILBERTO RAMOS GONZALEZ",
+                  "faxNumber": "",
+                  "telephone": "550346"
+                }
+              },
+              {
+                "address": {
+                  "streetAddress": "DEFENSORES DEL CHACO Y PYCAZU - MERCADO DE ABASTO - BLOQUE B - LOCALES NRO. 04 Y 05",
+                  "countryName": "Paraguay",
+                  "region": "Asunción",
+                  "postalCode": "",
+                  "locality": "ASUNCION"
+                },
+                "name": "EL CASTILLO S.A.",
+                "identifier": {
+                  "legalName": "EL CASTILLO S.A.",
+                  "id": "80015104-6",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "contactPoint": {
+                  "email": "edgardo.gil@elcastillo.com.py",
+                  "url": "",
+                  "name": "EDGARDO EMILIANO GIL RODRIGUEZ",
+                  "faxNumber": "",
+                  "telephone": "501924"
+                }
+              },
+              {
+                "address": {
+                  "streetAddress": "finca 1184 tucangua cañada",
+                  "countryName": "Paraguay",
+                  "region": "Cordillera",
+                  "postalCode": "",
+                  "locality": "altos"
+                },
+                "name": "Federico Ysaac Amarilla Bedoya",
+                "identifier": {
+                  "legalName": "Federico Ysaac Amarilla Bedoya",
+                  "id": "2888119-2",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "contactPoint": {
+                  "email": "fedeamarilla@hotmail.com",
+                  "url": "",
+                  "name": "Federico Ysaac Amarilla Bedoya",
+                  "faxNumber": "",
+                  "telephone": "298686"
+                }
+              },
+              {
+                "address": {
+                  "streetAddress": "Tte.Benítez casi Saturio Ríos",
+                  "countryName": "Paraguay",
+                  "region": "Central",
+                  "postalCode": "",
+                  "locality": "San Lorenzo"
+                },
+                "name": "JUAN BRAULIO PEREZ GUTIERREZ",
+                "identifier": {
+                  "legalName": "JUAN BRAULIO PEREZ GUTIERREZ",
+                  "id": "1296453-0",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "contactPoint": {
+                  "email": "agsurco@gmail.com",
+                  "url": "",
+                  "name": "JUAN BRAULIO PEREZ GUTIERREZ",
+                  "faxNumber": "",
+                  "telephone": "570820"
+                }
+              },
+              {
+                "address": {
+                  "streetAddress": "BERTONI 1076 CASI GUILLERMO LEOZ",
+                  "countryName": "Paraguay",
+                  "region": "Central",
+                  "postalCode": "",
+                  "locality": "LUQUE"
+                },
+                "name": "MARIA MERCEDES CABALLERO",
+                "identifier": {
+                  "legalName": "MARIA MERCEDES CABALLERO",
+                  "id": "609639-5",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "contactPoint": {
+                  "email": "distribuidorarmb@yahoo.com.ar",
+                  "url": "",
+                  "name": "MARIA MERCEDES, CABALLERO",
+                  "faxNumber": "",
+                  "telephone": "647767"
+                }
+              }
+            ],
+            "date": "2016-05-10T17:25:01-04:00",
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "value": {
+              "currency": "PYG",
+              "amount": 2841175500.0
+            },
+            "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\""
+          }
+        ],
+        "id": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-3",
+        "tender": {
+          "tenderPeriod": {
+            "startDate": null,
+            "endDate": "2015-12-09T10:00:00-05:00"
+          },
+          "id": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-3",
+          "status": "complete",
+          "documents": [
+            {
+              "id": "8roQB8JkhVQ%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/8roQB8JkhVQ%253D",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios"
+            },
+            {
+              "id": "GQDPOjul5sU%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/GQDPOjul5sU%253D",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios"
+            },
+            {
+              "id": "1XpDV0Rnqnw%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/1XpDV0Rnqnw%253D",
+              "format": "application/zip",
+              "documentType": "biddingDocuments",
+              "title": "Pliego de bases y Condiciones"
+            }
+          ],
+          "items": [
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50151513-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50151513-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Litros"
+              },
+              "id": "5fgkfO%2FjWXJg3mM07iELNw%3D%3D",
+              "quantity": 5000.0,
+              "description": "Aceite vegetal comestibles de girasol"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50202310-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50202310-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "W6AatXJv6L9g3mM07iELNw%3D%3D",
+              "quantity": 50000.0,
+              "description": "Agua mineral sin gas"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50121538-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50121538-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "GHar%2BfiNTXJg3mM07iELNw%3D%3D",
+              "quantity": 3000.0,
+              "description": "Atun"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101542-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101542-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "yJ76mqZps5xg3mM07iELNw%3D%3D",
+              "quantity": 400.0,
+              "description": "Almidon de mandioca"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221101-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221101-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "41JN1nn0A%2BFg3mM07iELNw%3D%3D",
+              "quantity": 4000.0,
+              "description": "Arroz"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221001-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221001-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "Afc6ZO9S56lg3mM07iELNw%3D%3D",
+              "quantity": 2500.0,
+              "description": "Arveja en lata"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221102-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "b5sqOyjscsxg3mM07iELNw%3D%3D",
+              "quantity": 1000.0,
+              "description": "Avena arrollada"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161509-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50161509-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "LqrYdwRJRM9g3mM07iELNw%3D%3D",
+              "quantity": 5000.0,
+              "description": "Azucar blanca"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50201706-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50201706-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "Fbq0%2BSZSEA5g3mM07iELNw%3D%3D",
+              "quantity": 200.0,
+              "description": "Cafe Molido"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161511-011",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50161511-011",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "noThTbj%2BButg3mM07iELNw%3D%3D",
+              "quantity": 500.0,
+              "description": "Chocolate en Polvo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221201-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221201-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "cGSJDIRaon1g3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Preparado de cereal/cereales"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131702-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "RG6uHz5pwh1g3mM07iELNw%3D%3D",
+              "quantity": 3000.0,
+              "description": "Crema de leche"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161511-006",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50161511-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "C20j031PYmhg3mM07iELNw%3D%3D",
+              "quantity": 2500.0,
+              "description": "Dulce de durazno"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161511-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50161511-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "c2oHBO0GR15g3mM07iELNw%3D%3D",
+              "quantity": 500.0,
+              "description": "Dulce de leche"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161509-004",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50161509-004",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "X3lbJw8Vjslg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Edulcorante liquido"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221102-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "Kpc%2Beucjsexg3mM07iELNw%3D%3D",
+              "quantity": 400.0,
+              "description": "Fecula de maiz"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192902-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50192902-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "VGhJ1DYUD9Rg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Fideos"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192902-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50192902-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "8uyMrIGGac9g3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Fideos"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192902-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50192902-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "igUbrmraiBRg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Fideos"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192401-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50192401-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "32yeVZKLlnFg3mM07iELNw%3D%3D",
+              "quantity": 1000.0,
+              "description": "Gelatina polvo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192401-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50192401-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "938Yve0GEM1g3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Gelatina polvo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221102-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "ozfs5V0D2yhg3mM07iELNw%3D%3D",
+              "quantity": 3500.0,
+              "description": "Harina de maiz"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-004",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221102-004",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "PGcTJWayTltg3mM07iELNw%3D%3D",
+              "quantity": 1500.0,
+              "description": "Harina de trigo "
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-004",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221102-004",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "6H44YzT6QN1g3mM07iELNw%3D%3D",
+              "quantity": 24000.0,
+              "description": "Harina de trigo "
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131606-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131606-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "yXSpzSLd2BFg3mM07iELNw%3D%3D",
+              "quantity": 52000.0,
+              "description": "Huevo de gallina"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-010",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131702-010",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "z5U2%2BUkcCfhg3mM07iELNw%3D%3D",
+              "quantity": 12000.0,
+              "description": "Leche descremada en polvo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131702-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "lc5EJ1XWtBFg3mM07iELNw%3D%3D",
+              "quantity": 7000.0,
+              "description": "Leche de entera en polvo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221001-005",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221001-005",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "g6UDpCAWr45g3mM07iELNw%3D%3D",
+              "quantity": 300.0,
+              "description": "Lenteja"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50181709-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50181709-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "ImIsf67l1G5g3mM07iELNw%3D%3D",
+              "quantity": 800.0,
+              "description": "Levadura "
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221101-004",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221101-004",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "5STCyAeJPflg3mM07iELNw%3D%3D",
+              "quantity": 1000.0,
+              "description": "Locro"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-009",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131702-009",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "gQ3BZ8e2Ollg3mM07iELNw%3D%3D",
+              "quantity": 4000.0,
+              "description": "Manteca"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171832-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171832-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "mgluot96xrZg3mM07iELNw%3D%3D",
+              "quantity": 300.0,
+              "description": "Mayonesa"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192403-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50192403-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "GCeeMEskzftg3mM07iELNw%3D%3D",
+              "quantity": 200.0,
+              "description": "Miel negra"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192901-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50192901-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "UaP7WWj57E1g3mM07iELNw%3D%3D",
+              "quantity": 600.0,
+              "description": "Ñoquis"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171830-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171830-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "ozou0vT8GHZg3mM07iELNw%3D%3D",
+              "quantity": 200.0,
+              "description": "Mostaza"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50181709-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50181709-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "u7gyYbGaxhZg3mM07iELNw%3D%3D",
+              "quantity": 25,
+              "description": "Polvo para hornear"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221101-011",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50221101-011",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "RPpnmfNkUf1g3mM07iELNw%3D%3D",
+              "quantity": 1000.0,
+              "description": "Poroto San Francisco"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171831-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171831-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "Ml7veaH9SBlg3mM07iELNw%3D%3D",
+              "quantity": 10000.0,
+              "description": "Pure de tomate"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131802-007",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131802-007",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "3HaC%2B7gp2%2FRg3mM07iELNw%3D%3D",
+              "quantity": 1000.0,
+              "description": "Queso para sandwich"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131801-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131801-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "fQ1bnd5zBkBg3mM07iELNw%3D%3D",
+              "quantity": 4000.0,
+              "description": "Queso tipo Paraguay"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171551-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171551-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "mfSgvJ5NneRg3mM07iELNw%3D%3D",
+              "quantity": 700.0,
+              "description": "Sal fina "
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50181709-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50181709-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "dsA%2BoQ93Q5Bg3mM07iELNw%3D%3D",
+              "quantity": 30.0,
+              "description": "Sostenedor de punto para panaderia"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50201711-007",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50201711-007",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "ytur5sSSzcZg3mM07iELNw%3D%3D",
+              "quantity": 40000.0,
+              "description": "Te negro"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "Qt%2BOn88LwSdg3mM07iELNw%3D%3D",
+              "quantity": 20.0,
+              "description": "Vainilla"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171707-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171707-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "paj9cEScOY9g3mM07iELNw%3D%3D",
+              "quantity": 500.0,
+              "description": "Vinagre Blanco"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171549-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171549-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "nczFRy48Xx1g3mM07iELNw%3D%3D",
+              "quantity": 400.0,
+              "description": "Yerba mate "
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-014",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131702-014",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "4tlCfiO2E4xg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Yogurt dietetico"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-013",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50131702-013",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "rpgdFUaqHnVg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Yogurt no dietetico"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/51212011-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "51212011-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "Tcr6X8pCBi5g3mM07iELNw%3D%3D",
+              "quantity": 50.0,
+              "description": "Anis comun"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "W5tj6akSW%2Fxg3mM07iELNw%3D%3D",
+              "quantity": 25,
+              "description": "Canela"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-005",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-005",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "XvwyM%2FZ362Ng3mM07iELNw%3D%3D",
+              "quantity": 50.0,
+              "description": "Comino"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-016",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-016",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "sjdHccl1k2Zg3mM07iELNw%3D%3D",
+              "quantity": 30.0,
+              "description": "Curry"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-007",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-007",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "pnVz%2FUKaVLNg3mM07iELNw%3D%3D",
+              "quantity": 300.0,
+              "description": "Laurel de espana"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-004",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-004",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "oyP%2BF2zk2Jdg3mM07iELNw%3D%3D",
+              "quantity": 20.0,
+              "description": "Nuez moscada"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-009",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-009",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "V9njhzws%2BMVg3mM07iELNw%3D%3D",
+              "quantity": 80.0,
+              "description": "Oregano"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171550-010",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171550-010",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "K%2BbJXGmgHtVg3mM07iELNw%3D%3D",
+              "quantity": 20.0,
+              "description": "Pimienta"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171831-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50171831-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "tR7FJciYrZRg3mM07iELNw%3D%3D",
+              "quantity": 400.0,
+              "description": "Salsa de soja"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "dbiLiMFiOYxg3mM07iELNw%3D%3D",
+              "quantity": 300.0,
+              "description": "Ajo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-018",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-018",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "W9A8HxAu6JNg3mM07iELNw%3D%3D",
+              "quantity": 13000.0,
+              "description": "Cebolla"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-009",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-009",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "HVaoijX5SbZg3mM07iELNw%3D%3D",
+              "quantity": 6000.0,
+              "description": "Locote"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-011",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-011",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "4gy%2Badlb9XJg3mM07iELNw%3D%3D",
+              "quantity": 43000.0,
+              "description": "Papa"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-021",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-021",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "3vqFFKfOIBVg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Remolacha"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-023",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-023",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "ciZqE04BU%2Fhg3mM07iELNw%3D%3D",
+              "quantity": 15000.0,
+              "description": "Tomate"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-024",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-024",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "bexaKqcYeqNg3mM07iELNw%3D%3D",
+              "quantity": 18000.0,
+              "description": "Zanahoria"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-012",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-012",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "zIvbqTDJhFNg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Pepino"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-013",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-013",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "oQtAF3FYiY9g3mM07iELNw%3D%3D",
+              "quantity": 15000.0,
+              "description": "Acelga"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-008",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-008",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "3E%2BNrK1RjNRg3mM07iELNw%3D%3D",
+              "quantity": 12000.0,
+              "description": "Lechuga"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-022",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-022",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "sF9%2BhBC2cqtg3mM07iELNw%3D%3D",
+              "quantity": 3000.0,
+              "description": "Repollo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-010",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-010",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "mkRiWNjgtd9g3mM07iELNw%3D%3D",
+              "quantity": 10000.0,
+              "description": "Perejil"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-019",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "MoWhgPr5Q1Vg3mM07iELNw%3D%3D",
+              "quantity": 8000.0,
+              "description": "Cebollita en hoja"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "rWMMgtk00ldg3mM07iELNw%3D%3D",
+              "quantity": 2000.0,
+              "description": "Calabaza"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-026",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-026",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "sTsk%2BZxpG%2Bhg3mM07iELNw%3D%3D",
+              "quantity": 5000.0,
+              "description": "Zapallito"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-025",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101538-025",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "UPEvaUc9DkVg3mM07iELNw%3D%3D",
+              "quantity": 45000.0,
+              "description": "Zapallo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101634-006",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101634-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "Awu3%2F0zv2Odg3mM07iELNw%3D%3D",
+              "quantity": 10000.0,
+              "description": "Manzana"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101634-002",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101634-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "VnLsJ1URtANg3mM07iELNw%3D%3D",
+              "quantity": 3000.0,
+              "description": "Banana"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101634-008",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50101634-008",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "gOojofwk5aBg3mM07iELNw%3D%3D",
+              "quantity": 10000.0,
+              "description": "Naranja"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-029",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50112001-029",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "Cxwa6iJMMw1g3mM07iELNw%3D%3D",
+              "quantity": 10000.0,
+              "description": "Bola de Lomo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50111510-003",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50111510-003",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "k5Nony8R3KJg3mM07iELNw%3D%3D",
+              "quantity": 18000.0,
+              "description": "Pechuga de pollo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50111510-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50111510-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "cFq9avPg49dg3mM07iELNw%3D%3D",
+              "quantity": 18000.0,
+              "description": "Muslo de pollo"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-015",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50112001-015",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "1s6gOBiQ8hpg3mM07iELNw%3D%3D",
+              "quantity": 10000.0,
+              "description": "Rabadilla"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-012",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50112001-012",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "7d5z8Q1ZA3Zg3mM07iELNw%3D%3D",
+              "quantity": 5000.0,
+              "description": "Paleta"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-007",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50112001-007",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "kLHtss85i%2FJg3mM07iELNw%3D%3D",
+              "quantity": 5000.0,
+              "description": "Menudencia"
+            },
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-008",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "50112001-008",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Kilogramos"
+              },
+              "id": "I6edlnlkxilg3mM07iELNw%3D%3D",
+              "quantity": 5000.0,
+              "description": "Peceto"
+            }
+          ],
+          "submissionMethod": [
+            "written"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-3",
+          "value": {
+            "currency": "PYG",
+            "amount": null
+          },
+          "lots": [
+            {
+              "id": "nYZlDIKXpLc%3D",
+              "items": [
+                "5fgkfO%2FjWXJg3mM07iELNw%3D%3D",
+                "W6AatXJv6L9g3mM07iELNw%3D%3D",
+                "GHar%2BfiNTXJg3mM07iELNw%3D%3D",
+                "yJ76mqZps5xg3mM07iELNw%3D%3D",
+                "41JN1nn0A%2BFg3mM07iELNw%3D%3D",
+                "Afc6ZO9S56lg3mM07iELNw%3D%3D",
+                "b5sqOyjscsxg3mM07iELNw%3D%3D",
+                "LqrYdwRJRM9g3mM07iELNw%3D%3D",
+                "Fbq0%2BSZSEA5g3mM07iELNw%3D%3D",
+                "noThTbj%2BButg3mM07iELNw%3D%3D",
+                "cGSJDIRaon1g3mM07iELNw%3D%3D",
+                "RG6uHz5pwh1g3mM07iELNw%3D%3D",
+                "C20j031PYmhg3mM07iELNw%3D%3D",
+                "c2oHBO0GR15g3mM07iELNw%3D%3D",
+                "X3lbJw8Vjslg3mM07iELNw%3D%3D",
+                "Kpc%2Beucjsexg3mM07iELNw%3D%3D",
+                "VGhJ1DYUD9Rg3mM07iELNw%3D%3D",
+                "8uyMrIGGac9g3mM07iELNw%3D%3D",
+                "igUbrmraiBRg3mM07iELNw%3D%3D",
+                "32yeVZKLlnFg3mM07iELNw%3D%3D",
+                "938Yve0GEM1g3mM07iELNw%3D%3D",
+                "ozfs5V0D2yhg3mM07iELNw%3D%3D",
+                "PGcTJWayTltg3mM07iELNw%3D%3D",
+                "6H44YzT6QN1g3mM07iELNw%3D%3D",
+                "yXSpzSLd2BFg3mM07iELNw%3D%3D",
+                "z5U2%2BUkcCfhg3mM07iELNw%3D%3D",
+                "lc5EJ1XWtBFg3mM07iELNw%3D%3D",
+                "g6UDpCAWr45g3mM07iELNw%3D%3D",
+                "ImIsf67l1G5g3mM07iELNw%3D%3D",
+                "5STCyAeJPflg3mM07iELNw%3D%3D",
+                "gQ3BZ8e2Ollg3mM07iELNw%3D%3D",
+                "mgluot96xrZg3mM07iELNw%3D%3D",
+                "GCeeMEskzftg3mM07iELNw%3D%3D",
+                "UaP7WWj57E1g3mM07iELNw%3D%3D",
+                "ozou0vT8GHZg3mM07iELNw%3D%3D",
+                "u7gyYbGaxhZg3mM07iELNw%3D%3D",
+                "RPpnmfNkUf1g3mM07iELNw%3D%3D",
+                "Ml7veaH9SBlg3mM07iELNw%3D%3D",
+                "3HaC%2B7gp2%2FRg3mM07iELNw%3D%3D",
+                "fQ1bnd5zBkBg3mM07iELNw%3D%3D",
+                "mfSgvJ5NneRg3mM07iELNw%3D%3D",
+                "dsA%2BoQ93Q5Bg3mM07iELNw%3D%3D",
+                "ytur5sSSzcZg3mM07iELNw%3D%3D",
+                "Qt%2BOn88LwSdg3mM07iELNw%3D%3D",
+                "paj9cEScOY9g3mM07iELNw%3D%3D",
+                "nczFRy48Xx1g3mM07iELNw%3D%3D",
+                "4tlCfiO2E4xg3mM07iELNw%3D%3D",
+                "rpgdFUaqHnVg3mM07iELNw%3D%3D",
+                "Tcr6X8pCBi5g3mM07iELNw%3D%3D",
+                "W5tj6akSW%2Fxg3mM07iELNw%3D%3D",
+                "XvwyM%2FZ362Ng3mM07iELNw%3D%3D",
+                "sjdHccl1k2Zg3mM07iELNw%3D%3D",
+                "pnVz%2FUKaVLNg3mM07iELNw%3D%3D",
+                "oyP%2BF2zk2Jdg3mM07iELNw%3D%3D",
+                "V9njhzws%2BMVg3mM07iELNw%3D%3D",
+                "K%2BbJXGmgHtVg3mM07iELNw%3D%3D",
+                "tR7FJciYrZRg3mM07iELNw%3D%3D",
+                "dbiLiMFiOYxg3mM07iELNw%3D%3D",
+                "W9A8HxAu6JNg3mM07iELNw%3D%3D",
+                "HVaoijX5SbZg3mM07iELNw%3D%3D",
+                "4gy%2Badlb9XJg3mM07iELNw%3D%3D",
+                "3vqFFKfOIBVg3mM07iELNw%3D%3D",
+                "ciZqE04BU%2Fhg3mM07iELNw%3D%3D",
+                "bexaKqcYeqNg3mM07iELNw%3D%3D",
+                "zIvbqTDJhFNg3mM07iELNw%3D%3D",
+                "oQtAF3FYiY9g3mM07iELNw%3D%3D",
+                "3E%2BNrK1RjNRg3mM07iELNw%3D%3D",
+                "sF9%2BhBC2cqtg3mM07iELNw%3D%3D",
+                "mkRiWNjgtd9g3mM07iELNw%3D%3D",
+                "MoWhgPr5Q1Vg3mM07iELNw%3D%3D",
+                "rWMMgtk00ldg3mM07iELNw%3D%3D",
+                "sTsk%2BZxpG%2Bhg3mM07iELNw%3D%3D",
+                "UPEvaUc9DkVg3mM07iELNw%3D%3D",
+                "Awu3%2F0zv2Odg3mM07iELNw%3D%3D",
+                "VnLsJ1URtANg3mM07iELNw%3D%3D",
+                "gOojofwk5aBg3mM07iELNw%3D%3D",
+                "Cxwa6iJMMw1g3mM07iELNw%3D%3D",
+                "k5Nony8R3KJg3mM07iELNw%3D%3D",
+                "cFq9avPg49dg3mM07iELNw%3D%3D",
+                "1s6gOBiQ8hpg3mM07iELNw%3D%3D",
+                "7d5z8Q1ZA3Zg3mM07iELNw%3D%3D",
+                "kLHtss85i%2FJg3mM07iELNw%3D%3D",
+                "I6edlnlkxilg3mM07iELNw%3D%3D"
+              ],
+              "title": "Lote 1"
+            }
+          ],
+          "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\"",
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2015-12-01T13:00:00-05:00"
+          },
+          "procuringEntity": {
+            "name": "Hospital Nacional - Centro Medico Nacional / Ministerio de Salud Pública y Bienestar Social",
+            "contactPoint": {
+              "email": "licitaciones@hospitalnacional.gov.py",
+              "name": "Karina Valdovinos de Insaurralde",
+              "telephone": "0294-321661"
+            }
+          },
+          "hasEnquiries": false,
+          "enquiryPeriod": {
+            "endDate": "2015-12-01T13:00:00-05:00"
+          }
+        },
+        "tag": [
+          "compiled"
+        ],
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/289097-adquisicion-menajes-cocina",
+          "budget": {
+            "amount": {
+              "currency": "PYG",
+              "amount": null
+            },
+            "description": "Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referéndum"
+          }
+        },
+        "language": "es",
+        "initiationType": "tender",
+        "date": "2017-01-04T11:12:39-05:00",
+        "contract": [
+          {
+            "id": "289097-contiparaguay-s-a-6",
+            "status": "active",
+            "dateSigned": "2016-04-29T12:00:00-04:00",
+            "documents": [
+              {
+                "id": "1xAFBVCgliE%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1xAFBVCgliE%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "9ezS%2FwosG1s%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9ezS%252FwosG1s%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "hJMZcQ%2BQyYk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/hJMZcQ%252BQyYk%253D",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "vR34QUAO04Y%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vR34QUAO04Y%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "z2jELf5mKts%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/z2jELf5mKts%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "y6GzmYd5Ipw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/y6GzmYd5Ipw%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "YONBF6II47Q%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/YONBF6II47Q%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "ho6IiRNp7to%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ho6IiRNp7to%253D",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato"
+              },
+              {
+                "id": "PXd69YRCHtk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PXd69YRCHtk%253D",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              }
+            ],
+            "period": {
+              "startDate": "",
+              "endDate": ""
+            },
+            "awardID": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289097-contiparaguay-s-a-6",
+            "value": {
+              "currency": "PYG",
+              "amount": 75400000.0
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "items": [
+                  "4xKaqPKRhKY%3D",
+                  "6%2FilRn1SzMU%3D"
+                ],
+                "title": "Lote 1"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50151513-001",
+                  "id": "50151513-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "8600"
+                  },
+                  "name": "Litros"
+                },
+                "id": "4xKaqPKRhKY%3D",
+                "quantity": "5000",
+                "description": "Aceite vegetal comestibles de girasol"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-009",
+                  "id": "50131702-009",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "8100"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "6%2FilRn1SzMU%3D",
+                "quantity": "4000",
+                "description": "Manteca"
+              }
+            ],
+            "suppliers": {
+              "name": "CONTIPARAGUAY S.A. ",
+              "identifier": {
+                "legalName": "CONTIPARAGUAY S.A. ",
+                "id": "80028142-0",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "289097-contiparaguay-s-a-6"
+              }
+            },
+            "dncpContractCode": "LP-12008-16-121332",
+            "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\""
+          },
+          {
+            "id": "289097-diego-gilberto-ramos-gonzalez-11",
+            "status": "active",
+            "dateSigned": "2016-05-13T12:00:00-04:00",
+            "documents": [
+              {
+                "id": "1xAFBVCgliE%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1xAFBVCgliE%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "9ezS%2FwosG1s%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9ezS%252FwosG1s%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "hJMZcQ%2BQyYk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/hJMZcQ%252BQyYk%253D",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "vR34QUAO04Y%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vR34QUAO04Y%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "z2jELf5mKts%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/z2jELf5mKts%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "y6GzmYd5Ipw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/y6GzmYd5Ipw%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "YONBF6II47Q%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/YONBF6II47Q%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "eK%2F4cKZoGYM%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/eK%252F4cKZoGYM%253D",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato"
+              },
+              {
+                "id": "PXd69YRCHtk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PXd69YRCHtk%253D",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              }
+            ],
+            "period": {
+              "startDate": "",
+              "endDate": ""
+            },
+            "awardID": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289097-diego-gilberto-ramos-gonzalez-11",
+            "value": {
+              "currency": "PYG",
+              "amount": 741960000.0
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "items": [
+                  "YjbSrIOkF4Y%3D",
+                  "p120R8817tE%3D",
+                  "uZe0AoqyOho%3D",
+                  "WGpxwWBJzYk%3D",
+                  "Sd4qIsZFI9E%3D",
+                  "sLT2C9mqD3Y%3D",
+                  "fuyzprp1M3U%3D",
+                  "fyEB4xuS2Z4%3D",
+                  "8g3F83zp3VY%3D"
+                ],
+                "title": "Lote 1"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-003",
+                  "id": "50101538-003",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "10500"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "YjbSrIOkF4Y%3D",
+                "quantity": "300",
+                "description": "Ajo"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-018",
+                  "id": "50101538-018",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "4600"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "p120R8817tE%3D",
+                "quantity": "13000",
+                "description": "Cebolla"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-011",
+                  "id": "50101538-011",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3620"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "uZe0AoqyOho%3D",
+                "quantity": "43000",
+                "description": "Papa"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-023",
+                  "id": "50101538-023",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "4880"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "WGpxwWBJzYk%3D",
+                "quantity": "15000",
+                "description": "Tomate"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-024",
+                  "id": "50101538-024",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "2875"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "Sd4qIsZFI9E%3D",
+                "quantity": "18000",
+                "description": "Zanahoria"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-019",
+                  "id": "50101538-019",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "975"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "sLT2C9mqD3Y%3D",
+                "quantity": "8000",
+                "description": "Cebollita en hoja"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101634-006",
+                  "id": "50101634-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "6750"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "fuyzprp1M3U%3D",
+                "quantity": "10000",
+                "description": "Manzana"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50111510-003",
+                  "id": "50111510-003",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "8975"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "fyEB4xuS2Z4%3D",
+                "quantity": "18000",
+                "description": "Pechuga de pollo"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50111510-001",
+                  "id": "50111510-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "8975"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "8g3F83zp3VY%3D",
+                "quantity": "18000",
+                "description": "Muslo de pollo"
+              }
+            ],
+            "suppliers": {
+              "name": "DIEGO GILBERTO RAMOS GONZALEZ",
+              "identifier": {
+                "legalName": "DIEGO GILBERTO RAMOS GONZALEZ",
+                "id": "3295034-9",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "289097-diego-gilberto-ramos-gonzalez-11"
+              }
+            },
+            "dncpContractCode": "LP-12008-16-121566",
+            "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\""
+          },
+          {
+            "id": "289097-el-castillo-s-a-7",
+            "status": "active",
+            "dateSigned": "2016-05-17T12:00:00-04:00",
+            "documents": [
+              {
+                "id": "1xAFBVCgliE%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1xAFBVCgliE%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "9ezS%2FwosG1s%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9ezS%252FwosG1s%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "hJMZcQ%2BQyYk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/hJMZcQ%252BQyYk%253D",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "vR34QUAO04Y%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vR34QUAO04Y%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "z2jELf5mKts%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/z2jELf5mKts%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "y6GzmYd5Ipw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/y6GzmYd5Ipw%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "YONBF6II47Q%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/YONBF6II47Q%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "a5se4j5jZy0%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/a5se4j5jZy0%253D",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato"
+              },
+              {
+                "id": "PXd69YRCHtk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PXd69YRCHtk%253D",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              }
+            ],
+            "period": {
+              "startDate": "",
+              "endDate": ""
+            },
+            "awardID": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289097-el-castillo-s-a-7",
+            "value": {
+              "currency": "PYG",
+              "amount": 122920000.0
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "items": [
+                  "jNnLNxr6oqE%3D",
+                  "f4Gm8JgU%2Bn8%3D",
+                  "IUpPe5xWboA%3D",
+                  "Glgm7c9%2BLUQ%3D",
+                  "AkQdFkBG%2FLs%3D",
+                  "%2BgBr3IN7WbM%3D",
+                  "cSIpjXSU9X0%3D"
+                ],
+                "title": "Lote 1"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161509-002",
+                  "id": "50161509-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3850"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "jNnLNxr6oqE%3D",
+                "quantity": "5000",
+                "description": "Azucar blanca"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-002",
+                  "id": "50131702-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "10475"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "f4Gm8JgU%2Bn8%3D",
+                "quantity": "3000",
+                "description": "Crema de leche"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161511-003",
+                  "id": "50161511-003",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "15130"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "IUpPe5xWboA%3D",
+                "quantity": "500",
+                "description": "Dulce de leche"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192902-001",
+                  "id": "50192902-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3360"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "Glgm7c9%2BLUQ%3D",
+                "quantity": "2000",
+                "description": "Fideos"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192902-001",
+                  "id": "50192902-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3360"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "AkQdFkBG%2FLs%3D",
+                "quantity": "2000",
+                "description": "Fideos"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131802-007",
+                  "id": "50131802-007",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "39600"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "%2BgBr3IN7WbM%3D",
+                "quantity": "1000",
+                "description": "Queso para sandwich"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-013",
+                  "id": "50131702-013",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "5820"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "cSIpjXSU9X0%3D",
+                "quantity": "2000",
+                "description": "Yogurt no dietetico"
+              }
+            ],
+            "suppliers": {
+              "name": "EL CASTILLO S.A.",
+              "identifier": {
+                "legalName": "EL CASTILLO S.A.",
+                "id": "80015104-6",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "289097-el-castillo-s-a-7"
+              }
+            },
+            "dncpContractCode": "LP-12008-16-121677",
+            "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\""
+          },
+          {
+            "id": "289097-federico-ysaac-amarilla-bedoya-8",
+            "status": "active",
+            "dateSigned": "2016-05-06T12:00:00-04:00",
+            "documents": [
+              {
+                "id": "1xAFBVCgliE%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1xAFBVCgliE%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "9ezS%2FwosG1s%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9ezS%252FwosG1s%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "hJMZcQ%2BQyYk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/hJMZcQ%252BQyYk%253D",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "vR34QUAO04Y%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vR34QUAO04Y%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "z2jELf5mKts%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/z2jELf5mKts%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "y6GzmYd5Ipw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/y6GzmYd5Ipw%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "YONBF6II47Q%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/YONBF6II47Q%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "gnM7WBU6VGk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/gnM7WBU6VGk%253D",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato"
+              },
+              {
+                "id": "PXd69YRCHtk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PXd69YRCHtk%253D",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              }
+            ],
+            "period": {
+              "startDate": "",
+              "endDate": ""
+            },
+            "awardID": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289097-federico-ysaac-amarilla-bedoya-8",
+            "value": {
+              "currency": "PYG",
+              "amount": 182250000.0
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "items": [
+                  "26ZqDBzZBxE%3D",
+                  "Yrd1ibhMWP0%3D",
+                  "C45E4OaFJVs%3D",
+                  "9zqwvLehMWs%3D",
+                  "xotRqAFpVX8%3D",
+                  "bjVdPxRWLFc%3D",
+                  "OWPIqY7Xm54%3D"
+                ],
+                "title": "Lote 1"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-021",
+                  "id": "50101538-021",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "4900"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "26ZqDBzZBxE%3D",
+                "quantity": "2000",
+                "description": "Remolacha"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-012",
+                  "id": "50101538-012",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "4800"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "Yrd1ibhMWP0%3D",
+                "quantity": "2000",
+                "description": "Pepino"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-013",
+                  "id": "50101538-013",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "880"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "C45E4OaFJVs%3D",
+                "quantity": "15000",
+                "description": "Acelga"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-026",
+                  "id": "50101538-026",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "4780"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "9zqwvLehMWs%3D",
+                "quantity": "5000",
+                "description": "Zapallito"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-025",
+                  "id": "50101538-025",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "1940"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "xotRqAFpVX8%3D",
+                "quantity": "45000",
+                "description": "Zapallo"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101634-002",
+                  "id": "50101634-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "2350"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "bjVdPxRWLFc%3D",
+                "quantity": "3000",
+                "description": "Banana"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101634-008",
+                  "id": "50101634-008",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3140"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "OWPIqY7Xm54%3D",
+                "quantity": "10000",
+                "description": "Naranja"
+              }
+            ],
+            "suppliers": {
+              "name": "Federico Ysaac Amarilla Bedoya",
+              "identifier": {
+                "legalName": "Federico Ysaac Amarilla Bedoya",
+                "id": "2888119-2",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "289097-federico-ysaac-amarilla-bedoya-8"
+              }
+            },
+            "dncpContractCode": "LP-12008-16-121330",
+            "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\""
+          },
+          {
+            "id": "289097-juan-braulio-perez-gutierrez-10",
+            "status": "active",
+            "dateSigned": "2016-05-16T12:00:00-04:00",
+            "documents": [
+              {
+                "id": "1xAFBVCgliE%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1xAFBVCgliE%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "9ezS%2FwosG1s%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9ezS%252FwosG1s%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "hJMZcQ%2BQyYk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/hJMZcQ%252BQyYk%253D",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "vR34QUAO04Y%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vR34QUAO04Y%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "z2jELf5mKts%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/z2jELf5mKts%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "y6GzmYd5Ipw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/y6GzmYd5Ipw%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "YONBF6II47Q%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/YONBF6II47Q%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "%2FQSBY9mbJ8o%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/%252FQSBY9mbJ8o%253D",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato"
+              },
+              {
+                "id": "PXd69YRCHtk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PXd69YRCHtk%253D",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              }
+            ],
+            "period": {
+              "startDate": "",
+              "endDate": ""
+            },
+            "awardID": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289097-juan-braulio-perez-gutierrez-10",
+            "value": {
+              "currency": "PYG",
+              "amount": 98653000.0
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "items": [
+                  "rYv0duvtrdE%3D",
+                  "nbifRD1lolU%3D",
+                  "1SksnHmRR6I%3D",
+                  "PijCsnQLqn4%3D",
+                  "3pg63ANmPLw%3D",
+                  "2xaPEliKTJo%3D",
+                  "bwJhdxwgj%2FM%3D",
+                  "vB7h%2BGHxfSA%3D",
+                  "ii9HAmhsuOM%3D",
+                  "KQ4N%2BQsuUQ0%3D"
+                ],
+                "title": "Lote 1"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101542-002",
+                  "id": "50101542-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "7600"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "rYv0duvtrdE%3D",
+                "quantity": "400",
+                "description": "Almidon de mandioca"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221001-003",
+                  "id": "50221001-003",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3800"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "nbifRD1lolU%3D",
+                "quantity": "2500",
+                "description": "Arveja en lata"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50161511-006",
+                  "id": "50161511-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "10350"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "1SksnHmRR6I%3D",
+                "quantity": "2500",
+                "description": "Dulce de durazno"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-002",
+                  "id": "50221102-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "29000"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "PijCsnQLqn4%3D",
+                "quantity": "400",
+                "description": "Fecula de maiz"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50181709-001",
+                  "id": "50181709-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "12150"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "3pg63ANmPLw%3D",
+                "quantity": "800",
+                "description": "Levadura "
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171551-001",
+                  "id": "50171551-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "1380"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "2xaPEliKTJo%3D",
+                "quantity": "700",
+                "description": "Sal fina "
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50181709-002",
+                  "id": "50181709-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "32000"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "bwJhdxwgj%2FM%3D",
+                "quantity": "30",
+                "description": "Sostenedor de punto para panaderia"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171549-001",
+                  "id": "50171549-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "16580"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "vB7h%2BGHxfSA%3D",
+                "quantity": "400",
+                "description": "Yerba mate "
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-008",
+                  "id": "50101538-008",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "1380"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "ii9HAmhsuOM%3D",
+                "quantity": "12000",
+                "description": "Lechuga"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-010",
+                  "id": "50101538-010",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "1380"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "KQ4N%2BQsuUQ0%3D",
+                "quantity": "10000",
+                "description": "Perejil"
+              }
+            ],
+            "suppliers": {
+              "name": "JUAN BRAULIO PEREZ GUTIERREZ",
+              "identifier": {
+                "legalName": "JUAN BRAULIO PEREZ GUTIERREZ",
+                "id": "1296453-0",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "289097-juan-braulio-perez-gutierrez-10"
+              }
+            },
+            "dncpContractCode": "LP-12008-16-121678",
+            "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\""
+          },
+          {
+            "id": "289097-maria-mercedes-caballero-9",
+            "status": "active",
+            "dateSigned": "2016-05-16T12:00:00-04:00",
+            "documents": [
+              {
+                "id": "1xAFBVCgliE%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1xAFBVCgliE%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "9ezS%2FwosG1s%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9ezS%252FwosG1s%253D",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "hJMZcQ%2BQyYk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/hJMZcQ%252BQyYk%253D",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "vR34QUAO04Y%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vR34QUAO04Y%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "z2jELf5mKts%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/z2jELf5mKts%253D",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "y6GzmYd5Ipw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/y6GzmYd5Ipw%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "YONBF6II47Q%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/YONBF6II47Q%253D",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "ATN10Zzv9Uw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ATN10Zzv9Uw%253D",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato"
+              },
+              {
+                "id": "PXd69YRCHtk%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PXd69YRCHtk%253D",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              }
+            ],
+            "period": {
+              "startDate": "",
+              "endDate": ""
+            },
+            "awardID": "289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289097-maria-mercedes-caballero-9",
+            "value": {
+              "currency": "PYG",
+              "amount": 1619992500.0
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "items": [
+                  "8rOhigwEOuA%3D",
+                  "nYUggleMA2k%3D",
+                  "yKjHNjqJiQQ%3D",
+                  "FmVKkYvF%2FCc%3D",
+                  "WMblADyCYK4%3D",
+                  "tlp9c9wkC9E%3D",
+                  "PHh%2B3EHDSMs%3D",
+                  "lkuwWG1aCvo%3D",
+                  "VaYAWCOXsE8%3D",
+                  "dDuR4Fu%2BBq0%3D",
+                  "jxwRXM8A2t8%3D",
+                  "23ACcn6V7CI%3D",
+                  "9Nokqe69IvI%3D",
+                  "bJeKx%2FFitGY%3D",
+                  "gkkFzTFySQE%3D",
+                  "b503cWurpM8%3D",
+                  "XQpXPXrUZyw%3D",
+                  "%2B9v6pSAEg%2B0%3D"
+                ],
+                "title": "Lote 1"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50202310-002",
+                  "id": "50202310-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "1975"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "8rOhigwEOuA%3D",
+                "quantity": "50000",
+                "description": "Agua mineral sin gas"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221101-001",
+                  "id": "50221101-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "2890"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "nYUggleMA2k%3D",
+                "quantity": "4000",
+                "description": "Arroz"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50192902-001",
+                  "id": "50192902-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3580"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "yKjHNjqJiQQ%3D",
+                "quantity": "2000",
+                "description": "Fideos"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-003",
+                  "id": "50221102-003",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "4695"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "FmVKkYvF%2FCc%3D",
+                "quantity": "3500",
+                "description": "Harina de maiz"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50221102-004",
+                  "id": "50221102-004",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "2170"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "WMblADyCYK4%3D",
+                "quantity": "24000",
+                "description": "Harina de trigo "
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131606-002",
+                  "id": "50131606-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "545"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "tlp9c9wkC9E%3D",
+                "quantity": "52000",
+                "description": "Huevo de gallina"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-010",
+                  "id": "50131702-010",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "25900"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "PHh%2B3EHDSMs%3D",
+                "quantity": "12000",
+                "description": "Leche descremada en polvo"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-003",
+                  "id": "50131702-003",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "25900"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "lkuwWG1aCvo%3D",
+                "quantity": "7000",
+                "description": "Leche de entera en polvo"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50171831-002",
+                  "id": "50171831-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3630"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "VaYAWCOXsE8%3D",
+                "quantity": "10000",
+                "description": "Pure de tomate"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50131702-014",
+                  "id": "50131702-014",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "3375"
+                  },
+                  "name": "Unidad"
+                },
+                "id": "dDuR4Fu%2BBq0%3D",
+                "quantity": "2000",
+                "description": "Yogurt dietetico"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-009",
+                  "id": "50101538-009",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "6700"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "jxwRXM8A2t8%3D",
+                "quantity": "6000",
+                "description": "Locote"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-022",
+                  "id": "50101538-022",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "2790"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "23ACcn6V7CI%3D",
+                "quantity": "3000",
+                "description": "Repollo"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50101538-001",
+                  "id": "50101538-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "2400"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "9Nokqe69IvI%3D",
+                "quantity": "2000",
+                "description": "Calabaza"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-029",
+                  "id": "50112001-029",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "26450"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "bJeKx%2FFitGY%3D",
+                "quantity": "10000",
+                "description": "Bola de Lomo"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-015",
+                  "id": "50112001-015",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "27950"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "gkkFzTFySQE%3D",
+                "quantity": "10000",
+                "description": "Rabadilla"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-012",
+                  "id": "50112001-012",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "16830"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "b503cWurpM8%3D",
+                "quantity": "5000",
+                "description": "Paleta"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-007",
+                  "id": "50112001-007",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "12900"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "XQpXPXrUZyw%3D",
+                "quantity": "5000",
+                "description": "Menudencia"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/50112001-008",
+                  "id": "50112001-008",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "24900"
+                  },
+                  "name": "Kilogramos"
+                },
+                "id": "%2B9v6pSAEg%2B0%3D",
+                "quantity": "5000",
+                "description": "Peceto"
+              }
+            ],
+            "suppliers": {
+              "name": "MARIA MERCEDES CABALLERO",
+              "identifier": {
+                "legalName": "MARIA MERCEDES CABALLERO",
+                "id": "609639-5",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "289097-maria-mercedes-caballero-9"
+              }
+            },
+            "dncpContractCode": "LP-12008-16-121832",
+            "title": "LPN No. 06/15 \"Adquisición de Alimentos para Pacientes y Personal de Guardia - Plurianual - Ad Referendum\""
+          }
+        ],
+        "ocid": "ocds-03ad3f-289097",
+        "buyer": {
+          "name": "Hospital Nacional - Centro Medico Nacional / Ministerio de Salud Pública y Bienestar Social",
+          "contactPoint": {
+            "email": "licitaciones@hospitalnacional.gov.py",
+            "name": "Karina Valdovinos de Insaurralde",
+            "telephone": "0294-321661"
+          }
+        }
+      },
+      "ocid": "ocds-03ad3f-289097"
+    }
+  ],
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/289097-adquisicion-menajes-cocina.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-3.json",
+    "https://www.contrataciones.gov.py/datos/id/award/289097-lpn-no-06-15-adquisicion-alimentos-pacientes-personal-guardia-plurianual-ad-referend-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289097-contiparaguay-s-a-6.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289097-diego-gilberto-ramos-gonzalez-11.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289097-el-castillo-s-a-7.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289097-federico-ysaac-amarilla-bedoya-8.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289097-juan-braulio-perez-gutierrez-10.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289097-maria-mercedes-caballero-9.json"
+  ],
+  "publisher": {
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos",
+    "name": "DNCP - Paraguay"
+  }
+}

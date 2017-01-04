@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Newcastle City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Cathy Weaver", 
+          "email": "cathy.weaver@yhn.org.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Newcastle City Council", 
+        "address": {
+          "postalCode": "NE18QH", 
+          "countryName": "GB", 
+          "streetAddress": "Civic Centre, NEWCASTLE UPON TYNE, NE18QH, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d5e99e6-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Structural repairs to 79/81 Goldspink Lane and roof replacement.", 
+        "title": " P1288 - Goldspink Lane Structural Repairs and Roof Replacement", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72000000", 
+              "uri": "http://cpv.data.ac.uk/code-72000000.html", 
+              "description": "IT services: consulting, software development, Internet and support"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 9454
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d5e99e6-adc8-11e6-9901-0019b9f3037b-new-9rud-fu0xxi", 
+        "tenderPeriod": {
+          "startDate": "2015-02-16T00:00:00Z", 
+          "endDate": "2015-04-17T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:17Z", 
+      "id": "ocds-b5fd17-2d5e99e6-adc8-11e6-9901-0019b9f3037b-new-9rud-fu0xxi"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:17Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/17cd9f7f-950d-4d3c-b4a5-5540c41b31bf.json"
+}

@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Medway Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Morris Williams", 
+          "email": "morris.williams@medway.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Medway Council", 
+        "address": {
+          "postalCode": "ME44TR", 
+          "countryName": "GB", 
+          "streetAddress": "Gun Wharf, CHATHAM, ME44TR, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d44aae7-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Medway Council welcomes contractors to tender for the refurbishment and remodelling of 3 no. bathrooms within St Marks House, Saxtons Street, Gillingham, Kent, ME7 5TW.\nSt Marks currently has 3 no. bathrooms, one on each floor. The proposal is to refurbish 1 no. bathroom including the replacement of all sanitaryware and fixture and fittings. The other 2 no. bathrooms are to be converted into new stores.\nSite visits can be arranged via request via the Kent Business Portal or by contacting Morris Williams, Category Management on01634 331 042 \n", 
+        "title": " St Marks House- Bathroom Works", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "39000000", 
+              "uri": "http://cpv.data.ac.uk/code-39000000.html", 
+              "description": "Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 16666
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d44aae7-adc8-11e6-9901-0019b9f3037b-medway-9ruf-dqez6d", 
+        "tenderPeriod": {
+          "startDate": "2015-01-23T00:00:00Z", 
+          "endDate": "2015-03-20T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:17Z", 
+      "id": "ocds-b5fd17-2d44aae7-adc8-11e6-9901-0019b9f3037b-medway-9ruf-dqez6d"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:17Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/5b56eb2c-4a8c-4cc6-b6c9-d49bc77e48c9.json"
+}

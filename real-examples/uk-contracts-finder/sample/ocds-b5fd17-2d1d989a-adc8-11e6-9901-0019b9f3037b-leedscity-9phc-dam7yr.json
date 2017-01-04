@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Leeds City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Hilary Sedgwick", 
+          "email": "hilary.sedgwick@leeds.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Leeds City Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d1d989a-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Leeds has made support for those bereaved by suicide a priority area as part of the Suicide Prevention Action Plan that is part of the wider work captured in the Health and Wellbeing Strategy for Leeds.\nLeeds currently has no specialist provision for suicide survivors* leading to a patchy response to this vulnerable group.\nEvidence from elsewhere suggests that a timely and appropriate response to survivors has the potential to prevent prolonged suffering and is cost-effective.\n*Suicide survivor refers to those who have lost a significant other as a result of death by suicide\nThis tender is toenable the Council to contract with a provider to deliver this new service.", 
+        "title": " Postvention Bereavement Service in Leeds", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85312300", 
+              "uri": "http://cpv.data.ac.uk/code-85312300.html", 
+              "description": "Guidance and counselling services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 104062
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d1d989a-adc8-11e6-9901-0019b9f3037b-leedscity-9phc-dam7yr", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:13Z", 
+      "id": "ocds-b5fd17-2d1d989a-adc8-11e6-9901-0019b9f3037b-leedscity-9phc-dam7yr"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:13Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/c84fae8c-da0a-44c3-9198-27de1ff4ec0b.json"
+}

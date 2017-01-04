@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Bolsover District Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Joan Talbot", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Bolsover District Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36b67140-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Tenderers are required to base their quotations on compliance with the following Specification and the Conditions of Contract annexed hereto Bolsover District Council on behalf of Public Health in Bolsover High Peak South Derbyshire Amber Valley and Erewash wish to appoint an organisation or consortium of organisations that will co-ordinate and deliver activities with targeted communities and schools to raise aspirations of residents within these selected areas to address the wider determinants of health The appointed organisation will be expected to meet with Public Health Locality Leads to agree a localised strategy before commencing delivery. The appointed organisation or consortium, will require a solid understanding and demonstrable experience of working in communities, including partnership working with schools to actively engage residents with a variety of needs for example low academic attainment low confidence and self esteem family worklessness.'", 
+        "title": "United Kingdom-Clowne: Other community, social and personal services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98000000", 
+              "uri": "http://cpv.data.ac.uk/code-98000000.html", 
+              "description": "Other community, social and personal services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 15000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36b67140-adc8-11e6-9901-0019b9f3037b-2015/s-8-9474", 
+        "tenderPeriod": {
+          "startDate": "2015-10-16T00:00:00Z", 
+          "endDate": "2016-10-16T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:13Z", 
+      "id": "ocds-b5fd17-36b67140-adc8-11e6-9901-0019b9f3037b-2015-s-8-9474"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:13Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/ed6036ff-83cf-4ba8-b773-799b31e76321.json"
+}

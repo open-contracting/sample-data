@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "DRD Transport NI", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "DRD Transport NI", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-3687fec8-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'DRD TNI are seeking an experienced Marine Hydraulic Contractor to carry out maintenance and repairs of the hydraulic systems on the 2 ro-ro vessels of the Strangford Lough Ferry Service ensuring that all work and materials comply with The Pressure Equipment Regulations 1999 and The Pressure Systems Safety Regulations 2000.'", 
+        "title": "United Kingdom-Belfast: Repair, maintenance and associated services related to marine and other equipment", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50241200", 
+              "uri": "http://cpv.data.ac.uk/code-50241200.html", 
+              "description": "Ferry repair services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50240000", 
+              "uri": "http://cpv.data.ac.uk/code-50240000.html", 
+              "description": "Repair, maintenance and associated services related to marine and other equipment"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 100000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-3687fec8-adc8-11e6-9901-0019b9f3037b-2015/s-27-45321", 
+        "tenderPeriod": {
+          "startDate": "2015-11-18T00:00:00Z", 
+          "endDate": "2020-11-18T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:02Z", 
+      "id": "ocds-b5fd17-3687fec8-adc8-11e6-9901-0019b9f3037b-2015-s-27-45321"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:02Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/d5242540-547b-449a-b8b1-5d67742f4503.json"
+}

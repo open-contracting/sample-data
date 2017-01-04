@@ -1,0 +1,257 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/289110.json",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publishedDate": "2017-01-04T11:12:42-05:00",
+  "records": [
+    {
+      "releases": [
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/289110-adquisicion-insumos-imprenta.json",
+          "date": "2015-03-12T12:26:01-04:00",
+          "tag": [
+            "planning"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/289110-lco-09-2016-adquisicion-compresores-bombas-agua-3.json",
+          "date": "2016-11-04T16:11:06-04:00",
+          "tag": [
+            "tender"
+          ]
+        }
+      ],
+      "compiledRelease": {},
+      "versionedRelease": [
+        {
+          "awards": [],
+          "id": "289110-lco-09-2016-adquisicion-compresores-bombas-agua-3",
+          "tender": {
+            "tenderPeriod": {
+              "startDate": null,
+              "endDate": "2016-12-02T10:00:00-05:00"
+            },
+            "id": "289110-lco-09-2016-adquisicion-compresores-bombas-agua-3",
+            "status": "unsuccessful",
+            "documents": [
+              {
+                "id": "8yvOHFhjXm8%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/8yvOHFhjXm8%253D",
+                "format": "application/pdf",
+                "documentType": "clarifications",
+                "title": "Aclaraciones"
+              },
+              {
+                "id": "KKM7aRyaeDw%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/KKM7aRyaeDw%253D",
+                "format": "application/pdf",
+                "documentType": "Adenda",
+                "title": "Adenda"
+              },
+              {
+                "id": "CY0PMUZC7c4%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/CY0PMUZC7c4%253D",
+                "format": "application/pdf",
+                "documentType": "Adenda",
+                "title": "Adenda"
+              },
+              {
+                "id": "n4%2B4ERX0CQg%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/n4%252B4ERX0CQg%253D",
+                "format": "application/pdf",
+                "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+                "title": "Condiciones Generales del Contrato - Bienes y Servicios"
+              },
+              {
+                "id": "ufcJL64VjUo%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/ufcJL64VjUo%253D",
+                "format": "application/pdf",
+                "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+                "title": "Instrucción a los Oferentes - Bienes y Servicios"
+              },
+              {
+                "id": "lVPf%2FtHvy14%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/lVPf%252FtHvy14%253D",
+                "format": "application/zip",
+                "documentType": "biddingDocuments",
+                "title": "Pliego de bases y Condiciones"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/42191704-001",
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "42191704-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": null
+                  },
+                  "name": "Unidad"
+                },
+                "id": "L8FHQclL2sNg3mM07iELNw%3D%3D",
+                "quantity": 2,
+                "description": "Subsistema generador de aire comprimido"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/40151510-002",
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "40151510-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": null
+                  },
+                  "name": "Unidad"
+                },
+                "id": "tGgDUJw5Q9Zg3mM07iELNw%3D%3D",
+                "quantity": 1,
+                "description": "Electrobomba"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/40151510-007",
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "40151510-007",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": null
+                  },
+                  "name": "Unidad"
+                },
+                "id": "RwvjYcxvpxhg3mM07iELNw%3D%3D",
+                "quantity": 2,
+                "description": "Motobomba de agua"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/40151510-007",
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "40151510-007",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": null
+                  },
+                  "name": "Unidad"
+                },
+                "id": "yUzbAEP8iopg3mM07iELNw%3D%3D",
+                "quantity": 1,
+                "description": "Motobomba de agua"
+              },
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/40151510-002",
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "40151510-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": null
+                  },
+                  "name": "Unidad"
+                },
+                "id": "Mh1dYxvBexNg3mM07iELNw%3D%3D",
+                "quantity": 2,
+                "description": "Electrobomba"
+              }
+            ],
+            "submissionMethod": [
+              "written"
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/289110-lco-09-2016-adquisicion-compresores-bombas-agua-3",
+            "value": {
+              "currency": "PYG",
+              "amount": null
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "items": [
+                  "L8FHQclL2sNg3mM07iELNw%3D%3D",
+                  "tGgDUJw5Q9Zg3mM07iELNw%3D%3D",
+                  "RwvjYcxvpxhg3mM07iELNw%3D%3D",
+                  "yUzbAEP8iopg3mM07iELNw%3D%3D",
+                  "Mh1dYxvBexNg3mM07iELNw%3D%3D"
+                ],
+                "title": "Lote 1"
+              }
+            ],
+            "title": "LCO 09/2016 Adquisición de Compresores y Bombas de Agua",
+            "awardPeriod": {
+              "endDate": null,
+              "startDate": "2016-11-11T12:00:00-05:00"
+            },
+            "procuringEntity": {
+              "name": "Hospital Nacional - Centro Medico Nacional / Ministerio de Salud Pública y Bienestar Social",
+              "contactPoint": {
+                "email": "licitaciones@hospitalnacional.gov.py",
+                "name": "Brenda Delgadillo Vester",
+                "telephone": "0294-321661"
+              }
+            },
+            "hasEnquiries": false,
+            "enquiryPeriod": {
+              "endDate": "2016-11-11T12:00:00-05:00"
+            }
+          },
+          "tag": [
+            "compiled"
+          ],
+          "planning": {
+            "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/289110-adquisicion-insumos-imprenta",
+            "budget": {
+              "amount": {
+                "currency": "PYG",
+                "amount": null
+              },
+              "description": "Adquisición de compresores y bombas de agua. "
+            }
+          },
+          "language": "es",
+          "initiationType": "tender",
+          "date": "2017-01-04T11:12:42-05:00",
+          "contract": [],
+          "ocid": "ocds-03ad3f-289110",
+          "buyer": {
+            "name": "Hospital Nacional - Centro Medico Nacional / Ministerio de Salud Pública y Bienestar Social",
+            "contactPoint": {
+              "email": "licitaciones@hospitalnacional.gov.py",
+              "name": "Brenda Delgadillo Vester",
+              "telephone": "0294-321661"
+            }
+          }
+        }
+      ],
+      "ocid": "ocds-03ad3f-289110"
+    }
+  ],
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/289110-adquisicion-insumos-imprenta.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/289110-lco-09-2016-adquisicion-compresores-bombas-agua-3.json"
+  ],
+  "publisher": {
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos",
+    "name": "DNCP - Paraguay"
+  }
+}

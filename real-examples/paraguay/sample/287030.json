@@ -1,0 +1,324 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/287030.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:02:30-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/287030-construccion-obras-sistemas-abastecimiento-agua-potable-san-pedro-1.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/287030-construccion-obras-sistemas-abastecimiento-agua-potable-asentamientos-indert-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {},
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/287030-construccion-obras-sistemas-abastecimiento-agua-potable-san-pedro-1.json",
+          "date": "2015-03-24T11:27:59-04:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/287030-construccion-obras-sistemas-abastecimiento-agua-potable-asentamientos-indert-1.json",
+          "date": "2016-01-12T15:05:43-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-287030",
+      "versionedRelease": [
+        {
+          "tag": [
+            "compiled"
+          ],
+          "date": "2017-01-04T11:02:30-05:00",
+          "language": "es",
+          "tender": {
+            "status": "cancelled",
+            "lots": [
+              {
+                "items": [
+                  "F5jVZn%2F49BVg3mM07iELNw%3D%3D",
+                  "WPNUte6qmYxg3mM07iELNw%3D%3D",
+                  "pxKY8dAyRrZg3mM07iELNw%3D%3D",
+                  "S4LP9Ud9Q%2Fdg3mM07iELNw%3D%3D",
+                  "ld2lCRuKJ7Bg3mM07iELNw%3D%3D"
+                ],
+                "title": "LOTE I - GUAIRA PASO YOBAI",
+                "id": "Lg8eOp%2BxYxg%3D"
+              },
+              {
+                "items": [],
+                "title": "LOTE 2 - CAAZAPA - SAN JUAN NEPOMUCENO",
+                "id": "8D7OcPgVlDY%3D"
+              },
+              {
+                "items": [],
+                "title": "LOTE 3 - GUAIRA - PASO YOBAI",
+                "id": "S12h2o3Xdzs%3D"
+              },
+              {
+                "items": [],
+                "title": "LOTE 4 - SAN PEDRO - SAN PEDRO DEL YCUAMANDIYU",
+                "id": "uxoUThPAwvE%3D"
+              },
+              {
+                "items": [],
+                "title": "LOTE 5 - SAN PEDRO - GENERAL AQUINO",
+                "id": "39xD6hilKpk%3D"
+              },
+              {
+                "items": [],
+                "title": "LOTE 6 - SAN PEDRO - GRAL. RESQUIN",
+                "id": "h0euskGP4jc%3D"
+              },
+              {
+                "items": [],
+                "title": "LOTE 7 - CANINDEYU - PUENTE KYHA",
+                "id": "vuxnBW2r1JM%3D"
+              },
+              {
+                "items": [],
+                "title": "LOTE 8 - CANINDEYU - YASY CAÑY",
+                "id": "jkEI4oSDioI%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "clarifications",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/wsrZvZSG9dQ%253D",
+                "title": "Aclaraciones",
+                "id": "wsrZvZSG9dQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "Adenda",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/D69TXn0GYDs%253D",
+                "title": "Adenda",
+                "id": "D69TXn0GYDs%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Adenda",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/BRLBvf0DU%252Bk%253D",
+                "title": "Adenda",
+                "id": "BRLBvf0DU%2Bk%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Condiciones Generales del Contrato - Obras",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/3C6jS%252Ft806U%253D",
+                "title": "Condiciones Generales del Contrato - Obras",
+                "id": "3C6jS%2Ft806U%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Dictamen Justificativo de Cancelación Llamado",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/KU%252B20jJzzpA%253D",
+                "title": "Dictamen Justificativo de Cancelación Llamado",
+                "id": "KU%2B20jJzzpA%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Instrucción a los Oferentes - Obras",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/SWSr%252F%252BcbXtY%253D",
+                "title": "Instrucción a los Oferentes - Obras",
+                "id": "SWSr%2F%2BcbXtY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Nota de Observacion",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Psgh%252FKezI6s%253D",
+                "title": "Nota de Observacion",
+                "id": "Psgh%2FKezI6s%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "Plano de obra o cómputos métricos",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4IWP%252B3SXeA8%253D",
+                "title": "Plano de obra o cómputos métricos",
+                "id": "4IWP%2B3SXeA8%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "biddingDocuments",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/HZy5Bltlm5o%253D",
+                "title": "Pliego de bases y Condiciones",
+                "id": "HZy5Bltlm5o%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Resolución Cancelación Llamado",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/s2nHEFPxuW8%253D",
+                "title": "Resolución Cancelación Llamado",
+                "id": "s2nHEFPxuW8%3D"
+              }
+            ],
+            "title": "Construccion de Obras-Sistemas de Abastecimiento de Agua Potable en Asentamientos del INDERT",
+            "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/287030-construccion-obras-sistemas-abastecimiento-agua-potable-asentamientos-indert-1",
+            "tenderPeriod": {
+              "endDate": "2016-02-15T08:00:00-05:00",
+              "startDate": null
+            },
+            "procuringEntity": {
+              "name": "Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT)",
+              "contactPoint": {
+                "email": "julioc_ramos@hotmail.com",
+                "name": "JULIO CESAR RAMOS",
+                "telephone": "021443161"
+              }
+            },
+            "submissionMethod": [
+              "written"
+            ],
+            "value": {
+              "amount": null,
+              "currency": "PYG"
+            },
+            "enquiryPeriod": {
+              "endDate": "2016-02-08T10:00:00-05:00"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/83101504-984",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "83101504-984"
+                },
+                "quantity": 1,
+                "description": "PERFORACION DE POZO ARTESIANO",
+                "id": "F5jVZn%2F49BVg3mM07iELNw%3D%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/83101504-987",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "83101504-987"
+                },
+                "quantity": 1,
+                "description": "PROVISION Y MONTAJE DE TANQUE ELEVADO METALICO Y ACCESORIOS",
+                "id": "WPNUte6qmYxg3mM07iELNw%3D%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/83101504-999",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "83101504-999"
+                },
+                "quantity": 1,
+                "description": "PROVISION Y MONTAJE DE ELECTROBOMBA SUMERGIBLE, TUBERIA Y ACCESORIOS",
+                "id": "pxKY8dAyRrZg3mM07iELNw%3D%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": 28786142,
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/83101504-996",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "83101504-996"
+                },
+                "quantity": 1,
+                "description": "PROVISION Y MONTAJE DE CASETA DE OPERACIONES",
+                "id": "S4LP9Ud9Q%2Fdg3mM07iELNw%3D%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/83101504-990",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "83101504-990"
+                },
+                "quantity": 1,
+                "description": "PROVISION, INSTALACION Y MONTAJE DE CAÑOS PARA AGUA Y ACCESORIOS",
+                "id": "ld2lCRuKJ7Bg3mM07iELNw%3D%3D"
+              }
+            ],
+            "id": "287030-construccion-obras-sistemas-abastecimiento-agua-potable-asentamientos-indert-1",
+            "hasEnquiries": false,
+            "awardPeriod": {
+              "endDate": null,
+              "startDate": "2016-02-08T10:00:00-05:00"
+            }
+          },
+          "planning": {
+            "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/287030-construccion-obras-sistemas-abastecimiento-agua-potable-san-pedro-1",
+            "budget": {
+              "description": "Construccion de Obras-Sistemas de Abastecimiento de Agua Potable en Asentamientos del INDERT",
+              "amount": {
+                "amount": null,
+                "currency": "PYG"
+              }
+            }
+          },
+          "awards": [],
+          "contract": [],
+          "buyer": {
+            "name": "Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT)",
+            "contactPoint": {
+              "email": "julioc_ramos@hotmail.com",
+              "name": "JULIO CESAR RAMOS",
+              "telephone": "021443161"
+            }
+          },
+          "ocid": "ocds-03ad3f-287030",
+          "id": "287030-construccion-obras-sistemas-abastecimiento-agua-potable-asentamientos-indert-1",
+          "initiationType": "tender"
+        }
+      ]
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

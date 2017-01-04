@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Janice Llewellyn", 
+          "email": "janice.llewellyn@southglos.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "active", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " South Gloucestershire Council is establishing a newCommunity Based Support Services Framework from which to commission care and support services for service users in South Gloucestershire. The new Framework will include the provision of domiciliary care, supported living and live-in care and support to access the community for social, leisure and vocational activities.\nThe New Framework will commence on 1st February 2014 and the Council intends to commission all Community Based Support Services from Organisations within the Framework from this date. \nThe Framework will close to new applications on 31st December 2014.All applications received before this date will be processed.\nThe Council intends to reopen the Framework for new applications from 1st May to 31st July annually for the remainder of the framework term.", 
+        "title": " Framework for Provision of Community Based Services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98000000", 
+              "uri": "http://cpv.data.ac.uk/code-98000000.html", 
+              "description": "Other community, social and personal services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 9432500
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b-sougl-swce-9cch6u", 
+        "tenderPeriod": {
+          "startDate": "2014-02-01T00:00:00Z", 
+          "endDate": "2018-01-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:44:58Z", 
+      "id": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b-sougl-swce-9cch6u"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:44:58Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/59447062-5125-4d62-b917-af6ee9ffaf67.json"
+}

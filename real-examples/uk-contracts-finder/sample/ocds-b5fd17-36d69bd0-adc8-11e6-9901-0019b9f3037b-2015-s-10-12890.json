@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Durham County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ian Wilson", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Durham County Council", 
+        "address": {
+          "postalCode": "DH15UL", 
+          "countryName": "GB", 
+          "streetAddress": "COUNTY HALL, DURHAM, DH15UL, GBR", 
+          "region": null, 
+          "locality": "COUNTY DURHAM"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36d69bd0-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Servicing, Repair and Supply of Fire Extinguishers and Associated Equipment for Durham County Council establishments; Schools and Academies within County Durham.'", 
+        "title": "United Kingdom-Durham: Fire extinguishers", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "35111300", 
+              "uri": "http://cpv.data.ac.uk/code-35111300.html", 
+              "description": "Fire extinguishers"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 1440000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36d69bd0-adc8-11e6-9901-0019b9f3037b-2015/s-10-12890", 
+        "tenderPeriod": {
+          "startDate": "2015-10-11T00:00:00Z", 
+          "endDate": "2019-10-11T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:20Z", 
+      "id": "ocds-b5fd17-36d69bd0-adc8-11e6-9901-0019b9f3037b-2015-s-10-12890"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:20Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/256035cf-fe10-4844-bcb4-18c71b0a770c.json"
+}

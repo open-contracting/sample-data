@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Leicester City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Martin Wheatley", 
+          "email": "martin.wheatley@leicester.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Leicester City Council", 
+        "address": {
+          "postalCode": "LE11FZ", 
+          "countryName": "GB", 
+          "streetAddress": "115 Charles Street, Leicester, LE11FZ, GBR", 
+          "region": null, 
+          "locality": "Leicestershire"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d340419-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Leicester City Council is looking to refurbish the Childrens toilets at the Pindar Nursery, Pindar Road, Leicester, LE3 9RN to the specification below.\n \nSite visits are only available on 22nd, 23rd 24th of December or after January the 5th and subject to a prior arrangement with Nick Gilroy on 0116 454 4715\nDue to the location of the works, under NO circumstances should you turn up without an appointment.\n\nWorks must be completed between the 16th February 2015 and 20th February 2015", 
+        "title": " Refurbishment at Pindar Nursery (PAN0699)", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45000000", 
+              "uri": "http://cpv.data.ac.uk/code-45000000.html", 
+              "description": "Construction work"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 48989
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d340419-adc8-11e6-9901-0019b9f3037b-leicscity-9rpc-r8ctgs", 
+        "tenderPeriod": {
+          "startDate": "2015-02-16T00:00:00Z", 
+          "endDate": "2015-02-20T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:16Z", 
+      "id": "ocds-b5fd17-2d340419-adc8-11e6-9901-0019b9f3037b-leicscity-9rpc-r8ctgs"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:16Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/55a0ac41-e9ad-4f32-aea2-fd023d1a930c.json"
+}

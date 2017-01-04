@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Janice Llewellyn", 
+          "email": "janice.llewellyn@southglos.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c40364c-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "active", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " South Gloucestershire Council is creating a Recognised Provider List for the provision of Self Directed Support to individuals living in South Gloucestershire. \nThe List will include detailsof Organsations who provide services to individualsto help them arrange and manage self directed support. The list is intended fororganisationswho offerstand alone services in this areaand notwhere support is offered as part ofa general support service.\nThe list will be freely available to anyone who requires support to use a direct payment or personal budget, to purchase their own services, or services on behalf of others. Organisations who are listed will provide full details of the services they provide and their prices to enable individuals to make an informed choice when choosing a support provider.\nProviders wishing to be included on the list will be required to complete and return the application form and confirm their agreement to meet specific standards set by the Council.\nThe Council intends to launch the list in July 2014 and therefore Providers wishing to be listed from the start date must complete and return applications by 30th April 2014. \nThe List will remain open for new applicants after this date. \nAll queries relating to this opportunity should be posted through the portal.", 
+        "title": " Recognised Provider List for Provision of Direct Payment Support JL008", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98000000", 
+              "uri": "http://cpv.data.ac.uk/code-98000000.html", 
+              "description": "Other community, social and personal services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 908000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c40364c-adc8-11e6-9901-0019b9f3037b-sougl-swce-9h5elm", 
+        "tenderPeriod": {
+          "startDate": "2014-07-01T00:00:00Z", 
+          "endDate": "2018-06-30T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:44:58Z", 
+      "id": "ocds-b5fd17-2c40364c-adc8-11e6-9901-0019b9f3037b-sougl-swce-9h5elm"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:44:58Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/46b6ca53-80f3-47b1-9021-6238882852d4.json"
+}

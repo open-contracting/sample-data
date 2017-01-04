@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Derbyshire County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Debbie Wright", 
+          "email": "debbie.wright@derbyshire.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Derbyshire County Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36c770d4-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'For the purpose of this contract the county has been divided into 4 areas as shown in the map in Appendix D, an indication of the workshops covered by the 4 areas is as follows: Lot 1  North West, covering the workshops and surrounding area of Doveholes, Buxton.'", 
+        "title": "United Kingdom-Belper: Parts and accessories for vehicles and their engines", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "34300000", 
+              "uri": "http://cpv.data.ac.uk/code-34300000.html", 
+              "description": "Parts and accessories for vehicles and their engines"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 573333
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36c770d4-adc8-11e6-9901-0019b9f3037b-2014/s-248-438242", 
+        "tenderPeriod": {
+          "startDate": "2015-10-19T00:00:00Z", 
+          "endDate": "2019-10-19T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:16Z", 
+      "id": "ocds-b5fd17-36c770d4-adc8-11e6-9901-0019b9f3037b-2014-s-248-438242"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:16Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/d25cee5d-3184-46f9-be6e-ed71bee1cdd1.json"
+}

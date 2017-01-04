@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "The London Borough of Hillingdon on behalf of The Park Federation Academy Trust", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Bushell Tracie", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "The London Borough of Hillingdon on behalf of The Park Federation Academy Trust", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36f52eed-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Provision of a Fully Managed Catering Service for all Academies within The Park Federation Academy Trust. The initial contract period is 3 years which can be extended at the discretion of the Council by a 1 (one) plus 1 (one) year extension, giving a total contract duration of 5 years. The London Borough of Hillingdon requires a suitable and properly qualified service provider experienced in providing services similar to the services being let under this contract.'", 
+        "title": "United Kingdom-Uxbridge: Canteen and catering services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "55500000", 
+              "uri": "http://cpv.data.ac.uk/code-55500000.html", 
+              "description": "Canteen and catering services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 298348
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36f52eed-adc8-11e6-9901-0019b9f3037b-2015/s-17-27134", 
+        "tenderPeriod": {
+          "startDate": "2015-12-20T00:00:00Z", 
+          "endDate": "2020-12-20T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:25Z", 
+      "id": "ocds-b5fd17-36f52eed-adc8-11e6-9901-0019b9f3037b-2015-s-17-27134"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:25Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/c2c55943-3ae3-4c53-bf8b-d3f7b058da0d.json"
+}

@@ -1,0 +1,551 @@
+{
+  "publishedDate": "2017-01-04T10:50:24-05:00",
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/273638.json",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "records": [
+    {
+      "releases": [
+        {
+          "date": "2014-06-19T13:44:01-04:00",
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/273638-provision-uniformes-personal.json"
+        },
+        {
+          "date": "2014-07-18T11:45:34-04:00",
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/273638-provision-uniformes-personal.json"
+        },
+        {
+          "date": "2014-11-17T09:37:23-05:00",
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/273638-provision-uniformes-personal.json"
+        },
+        {
+          "date": "2014-10-29T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/273638-anibal-salvador-centurion-arzamendia-2.json"
+        },
+        {
+          "date": "2014-10-27T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/273638-margarita-gonzalez-rodriguez-3.json"
+        }
+      ],
+      "ocid": "ocds-03ad3f-273638",
+      "compiledRelease": {
+        "initiationType": "tender",
+        "tender": {
+          "documents": [
+            {
+              "documentType": "Carta de Invitación",
+              "language": "es",
+              "title": "Carta de Invitación",
+              "format": "application/pdf",
+              "id": "iOUbul9hgFo%3D",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/iOUbul9hgFo%253D"
+            },
+            {
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "language": "es",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "format": "application/pdf",
+              "id": "7vlU%2Fesxlgg%3D",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/7vlU%252Fesxlgg%253D"
+            },
+            {
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "language": "es",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios",
+              "format": "application/pdf",
+              "id": "p71UY4cEhaA%3D",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/p71UY4cEhaA%253D"
+            }
+          ],
+          "procuringEntity": {
+            "contactPoint": {
+              "email": "dmsugastti@cajaande.gov.py",
+              "name": "Diana Monserrat Sugastti Neira",
+              "telephone": "204-672"
+            },
+            "name": "Caja de Jubilaciones y Pensiones del Personal de la Ande"
+          },
+          "awardPeriod": {
+            "startDate": "2014-07-25T12:00:00-04:00",
+            "endDate": null
+          },
+          "hasEnquiries": false,
+          "lots": [
+            {
+              "title": "UNIFORME PARA DAMAS",
+              "items": [
+                "mtb58QRtBJc%3D",
+                "0Y0VocPWTXE%3D",
+                "Mjbny3FpOAY%3D"
+              ],
+              "id": "e2u%2FCFs9Q1M%3D"
+            },
+            {
+              "title": "UNIFORME PARA CABALLEROS",
+              "items": [],
+              "id": "PZ9A68znulw%3D"
+            }
+          ],
+          "enquiryPeriod": {
+            "endDate": "2014-07-25T12:00:00-04:00"
+          },
+          "title": "PROVISIÓN DE UNIFORMES PARA EL PERSONAL",
+          "status": "complete",
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "items": [
+            {
+              "description": "Uniforme para damas",
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001",
+                "id": "53102710-001"
+              },
+              "id": "mtb58QRtBJc%3D",
+              "quantity": 51
+            },
+            {
+              "description": "Uniforme para damas",
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001",
+                "id": "53102710-001"
+              },
+              "id": "0Y0VocPWTXE%3D",
+              "quantity": 51
+            },
+            {
+              "description": "Uniforme para damas",
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001",
+                "id": "53102710-001"
+              },
+              "id": "Mjbny3FpOAY%3D",
+              "quantity": 17
+            }
+          ],
+          "id": "273638-provision-uniformes-personal",
+          "tenderPeriod": {
+            "endDate": "2014-08-01T09:30:00-04:00",
+            "startDate": null
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/273638-provision-uniformes-personal"
+        },
+        "contract": [
+          {
+            "awardID": "273638-provision-uniformes-personal",
+            "dncpContractCode": "CD-24003-14-98475",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "lots": [
+              {
+                "title": "UNIFORME PARA DAMAS",
+                "items": [
+                  "TVyFEp%2FwVqc%3D",
+                  "SljJqn14wuY%3D",
+                  "roT5g3n34i0%3D"
+                ],
+                "id": "SioNeorl7Y8%3D"
+              }
+            ],
+            "title": "PROVISIÓN DE UNIFORMES PARA EL PERSONAL",
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "id": "1102121-7",
+                "legalName": "ANIBAL SALVADOR CENTURION ARZAMENDIA"
+              },
+              "name": "ANIBAL SALVADOR CENTURION ARZAMENDIA",
+              "identifiers": {
+                "key": "273638-anibal-salvador-centurion-arzamendia-2"
+              }
+            },
+            "dateSigned": "2014-10-29T12:00:00-04:00",
+            "documents": [
+              {
+                "documentType": "Acta de Apertura",
+                "language": "es",
+                "title": "Acta de Apertura",
+                "format": "application/pdf",
+                "id": "yyY4PlmwGqs%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/yyY4PlmwGqs%253D"
+              },
+              {
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "language": "es",
+                "title": "Cuadro Comparativo de Ofertas",
+                "format": "application/pdf",
+                "id": "iN4fH1aVPIc%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iN4fH1aVPIc%253D"
+              },
+              {
+                "documentType": "evaluationReports",
+                "language": "es",
+                "title": "Informe de Evaluación",
+                "format": "application/pdf",
+                "id": "%2Bpw2R%2F90K9c%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/%252Bpw2R%252F90K9c%253D"
+              },
+              {
+                "documentType": "Notificación al Oferente",
+                "language": "es",
+                "title": "Notificación al Oferente",
+                "format": "application/pdf",
+                "id": "sWe%2BTXeAz%2Fg%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/sWe%252BTXeAz%252Fg%253D"
+              },
+              {
+                "documentType": "Orden de Compra o Contrato",
+                "language": "es",
+                "title": "Orden de Compra o Contrato",
+                "format": "application/pdf",
+                "id": "fp9SgqnyrvY%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fp9SgqnyrvY%253D"
+              },
+              {
+                "documentType": "awardNotice",
+                "language": "es",
+                "title": "Resolución de Adjudicación",
+                "format": "application/pdf",
+                "id": "cBxzwhN3VQM%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/cBxzwhN3VQM%253D"
+              }
+            ],
+            "value": {
+              "amount": 10013000.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "description": "Uniforme para damas",
+                "unit": {
+                  "value": {
+                    "amount": "65000",
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "53102710-001",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001"
+                },
+                "id": "TVyFEp%2FwVqc%3D",
+                "quantity": "51"
+              },
+              {
+                "description": "Uniforme para damas",
+                "unit": {
+                  "value": {
+                    "amount": "78000",
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "53102710-001",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001"
+                },
+                "id": "SljJqn14wuY%3D",
+                "quantity": "51"
+              },
+              {
+                "description": "Uniforme para damas",
+                "unit": {
+                  "value": {
+                    "amount": "160000",
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "53102710-001",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001"
+                },
+                "id": "roT5g3n34i0%3D",
+                "quantity": "17"
+              }
+            ],
+            "id": "273638-anibal-salvador-centurion-arzamendia-2",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/273638-anibal-salvador-centurion-arzamendia-2"
+          },
+          {
+            "awardID": "273638-provision-uniformes-personal",
+            "dncpContractCode": "CD-24003-14-98476",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "lots": [
+              {
+                "title": "UNIFORME PARA CABALLEROS",
+                "items": [
+                  "eMjMuREdj7c%3D",
+                  "xZ%2FAheJq7CI%3D"
+                ],
+                "id": "pNsnxZBSORc%3D"
+              }
+            ],
+            "title": "PROVISIÓN DE UNIFORMES PARA EL PERSONAL",
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "id": "397288-7",
+                "legalName": "MARGARITA GONZALEZ DE RODRIGUEZ"
+              },
+              "name": "MARGARITA GONZALEZ DE RODRIGUEZ",
+              "identifiers": {
+                "key": "273638-margarita-gonzalez-rodriguez-3"
+              }
+            },
+            "dateSigned": "2014-10-27T12:00:00-04:00",
+            "documents": [
+              {
+                "documentType": "Acta de Apertura",
+                "language": "es",
+                "title": "Acta de Apertura",
+                "format": "application/pdf",
+                "id": "yyY4PlmwGqs%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/yyY4PlmwGqs%253D"
+              },
+              {
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "language": "es",
+                "title": "Cuadro Comparativo de Ofertas",
+                "format": "application/pdf",
+                "id": "iN4fH1aVPIc%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iN4fH1aVPIc%253D"
+              },
+              {
+                "documentType": "evaluationReports",
+                "language": "es",
+                "title": "Informe de Evaluación",
+                "format": "application/pdf",
+                "id": "%2Bpw2R%2F90K9c%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/%252Bpw2R%252F90K9c%253D"
+              },
+              {
+                "documentType": "Notificación al Oferente",
+                "language": "es",
+                "title": "Notificación al Oferente",
+                "format": "application/pdf",
+                "id": "sWe%2BTXeAz%2Fg%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/sWe%252BTXeAz%252Fg%253D"
+              },
+              {
+                "documentType": "Orden de Compra o Contrato",
+                "language": "es",
+                "title": "Orden de Compra o Contrato",
+                "format": "application/pdf",
+                "id": "rbxrYr5%2BaW0%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/rbxrYr5%252BaW0%253D"
+              },
+              {
+                "documentType": "awardNotice",
+                "language": "es",
+                "title": "Resolución de Adjudicación",
+                "format": "application/pdf",
+                "id": "cBxzwhN3VQM%3D",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/cBxzwhN3VQM%253D"
+              }
+            ],
+            "value": {
+              "amount": 9280800.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "description": "Uniforme para caballeros",
+                "unit": {
+                  "value": {
+                    "amount": "64450",
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "53102710-002",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-002"
+                },
+                "id": "eMjMuREdj7c%3D",
+                "quantity": "72"
+              },
+              {
+                "description": "Uniforme para caballeros",
+                "unit": {
+                  "value": {
+                    "amount": "64450",
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "53102710-002",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-002"
+                },
+                "id": "xZ%2FAheJq7CI%3D",
+                "quantity": "72"
+              }
+            ],
+            "id": "273638-margarita-gonzalez-rodriguez-3",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/273638-margarita-gonzalez-rodriguez-3"
+          }
+        ],
+        "language": "es",
+        "planning": {
+          "budget": {
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            },
+            "description": "PROVISIÓN DE UNIFORMES PARA EL PERSONAL"
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/273638-provision-uniformes-personal"
+        },
+        "date": "2017-01-04T10:50:24-05:00",
+        "tag": [
+          "compiled"
+        ],
+        "id": "273638-provision-uniformes-personal",
+        "ocid": "ocds-03ad3f-273638",
+        "awards": [
+          {
+            "title": "PROVISIÓN DE UNIFORMES PARA EL PERSONAL",
+            "status": "active",
+            "suppliers": [
+              {
+                "address": {
+                  "region": "Central",
+                  "streetAddress": "OLEARY 482 C/ OLIVA",
+                  "postalCode": "",
+                  "countryName": "Paraguay",
+                  "locality": "ASUNCION (DISTRITO)"
+                },
+                "contactPoint": {
+                  "faxNumber": "",
+                  "email": "normansastreria@hotmail.com",
+                  "name": "ANIBAL SALVADOR CENTURION ARZAMENDIA",
+                  "url": "",
+                  "telephone": "021/495-840"
+                },
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "id": "1102121-7",
+                  "legalName": "ANIBAL SALVADOR CENTURION ARZAMENDIA"
+                },
+                "name": "ANIBAL SALVADOR CENTURION ARZAMENDIA"
+              },
+              {
+                "address": {
+                  "region": "Asunción",
+                  "streetAddress": "TENIENTE ESCOBAR 3916 CASI JAPON",
+                  "postalCode": "",
+                  "countryName": "Paraguay",
+                  "locality": "ASUNCION"
+                },
+                "contactPoint": {
+                  "faxNumber": "",
+                  "email": "uniforms.py@gmail.com",
+                  "name": "MARGARITA GONZALEZ DE RODRIGUEZ",
+                  "url": "",
+                  "telephone": "333490"
+                },
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "id": "397288-7",
+                  "legalName": "MARGARITA GONZALEZ DE RODRIGUEZ"
+                },
+                "name": "MARGARITA GONZALEZ DE RODRIGUEZ"
+              }
+            ],
+            "date": "2014-11-17T09:37:23-05:00",
+            "value": {
+              "amount": 19293800.0,
+              "currency": "PYG"
+            },
+            "id": "273638-provision-uniformes-personal",
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/273638-provision-uniformes-personal"
+          }
+        ],
+        "buyer": {
+          "contactPoint": {
+            "email": "dmsugastti@cajaande.gov.py",
+            "name": "Diana Monserrat Sugastti Neira",
+            "telephone": "204-672"
+          },
+          "name": "Caja de Jubilaciones y Pensiones del Personal de la Ande"
+        }
+      }
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/273638-provision-uniformes-personal.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/273638-provision-uniformes-personal.json",
+    "https://www.contrataciones.gov.py/datos/id/award/273638-provision-uniformes-personal.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/273638-anibal-salvador-centurion-arzamendia-2.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/273638-margarita-gonzalez-rodriguez-3.json"
+  ],
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay"
+  }
+}
