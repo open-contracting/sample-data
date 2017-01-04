@@ -1,0 +1,147 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Gloucestershire County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Susan Stokes", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Gloucestershire County Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36926f13-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'NA'", 
+        "title": "United Kingdom-Gloucester: Public road transport services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60170000", 
+              "uri": "http://cpv.data.ac.uk/code-60170000.html", 
+              "description": "Hire of passenger transport vehicles with driver"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60140000", 
+              "uri": "http://cpv.data.ac.uk/code-60140000.html", 
+              "description": "Non-scheduled passenger transport"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60120000", 
+              "uri": "http://cpv.data.ac.uk/code-60120000.html", 
+              "description": "Taxi services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 4, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60130000", 
+              "uri": "http://cpv.data.ac.uk/code-60130000.html", 
+              "description": "Special-purpose road passenger-transport services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 5, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60112000", 
+              "uri": "http://cpv.data.ac.uk/code-60112000.html", 
+              "description": "Public road transport services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 9000000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36926f13-adc8-11e6-9901-0019b9f3037b-2015/s-27-45497", 
+        "tenderPeriod": {
+          "startDate": "2015-11-20T00:00:00Z", 
+          "endDate": "2019-11-20T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:04Z", 
+      "id": "ocds-b5fd17-36926f13-adc8-11e6-9901-0019b9f3037b-2015-s-27-45497"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:04Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/53dcd907-9816-4331-9c31-037c5afd6825.json"
+}

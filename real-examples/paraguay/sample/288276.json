@@ -1,0 +1,596 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/288276.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:03:25-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/288276-blanca-teodolina-marin-riquelme-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:03:25-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "DFiV%2B0P62htg3mM07iELNw%3D%3D",
+                "PkAO%2FOqwBGZg3mM07iELNw%3D%3D",
+                "xXAz0FzEUxBg3mM07iELNw%3D%3D",
+                "hU2Wiy3fMORg3mM07iELNw%3D%3D",
+                "VzERU0Ns4eZg3mM07iELNw%3D%3D",
+                "97%2B2YQoQGYpg3mM07iELNw%3D%3D",
+                "By3Ghu4ezAxg3mM07iELNw%3D%3D",
+                "veaJRdwa3Wxg3mM07iELNw%3D%3D"
+              ],
+              "title": "SERVICIO DE PUBLICACION Y PROPAGANDA EN MEDIOS DE PRENSA - AD REFERENDUM",
+              "id": "MMFy452PJ3E%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Acta de Prórroga",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/aQRf6yc0TAI%253D",
+              "title": "Acta de Prórroga",
+              "id": "aQRf6yc0TAI%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/JhTvCoyBtqk%253D",
+              "title": "Adenda",
+              "id": "JhTvCoyBtqk%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "Carta de Invitación",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/vQj6RH7DclY%253D",
+              "title": "Carta de Invitación",
+              "id": "vQj6RH7DclY%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/d452QbAIUlM%253D",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "id": "d452QbAIUlM%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/GeiTbeS7oGE%253D",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios",
+              "id": "GeiTbeS7oGE%3D"
+            }
+          ],
+          "title": "SERVICIO DE PUBLICACION Y PROPAGANDA EN MEDIOS DE PRENSA - AD REFERENDUM",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1",
+          "tenderPeriod": {
+            "endDate": "2016-01-07T14:00:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Fondo Ganadero",
+            "contactPoint": {
+              "email": "mcasco@fondogan.gov.py",
+              "name": "Lic. MARIA CASCO LICHI",
+              "telephone": "227-288"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2016-01-04T09:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-002"
+              },
+              "quantity": 1,
+              "description": "Publicacion en periodicos",
+              "id": "DFiV%2B0P62htg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-002"
+              },
+              "quantity": 1,
+              "description": "Publicacion en periodicos",
+              "id": "PkAO%2FOqwBGZg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-002"
+              },
+              "quantity": 1,
+              "description": "Publicacion en periodicos",
+              "id": "xXAz0FzEUxBg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-002"
+              },
+              "quantity": 1,
+              "description": "Publicacion en periodicos",
+              "id": "hU2Wiy3fMORg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-002"
+              },
+              "quantity": 1,
+              "description": "Publicacion en periodicos",
+              "id": "VzERU0Ns4eZg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-001"
+              },
+              "quantity": 1,
+              "description": "Publicidad en revistas",
+              "id": "97%2B2YQoQGYpg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-002"
+              },
+              "quantity": 1,
+              "description": "Publicacion en periodicos",
+              "id": "By3Ghu4ezAxg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "82101504-002"
+              },
+              "quantity": 1,
+              "description": "Publicacion en periodicos",
+              "id": "veaJRdwa3Wxg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2016-01-04T09:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum",
+          "budget": {
+            "description": "SERVICIO DE PUBLICACION Y PROPAGANDA EN MEDIOS DE PRENSA - AD REFERENDUM",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 60000000.0,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-02-18T08:58:42-05:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "BLANCA TEODOLINA MARIN RIQUELME",
+                  "id": "388022-2"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": " CORONEL GRACIA Nº 613 ESQ. CPTAN. MIRANDA ",
+                  "locality": "ASUNCION",
+                  "countryName": "Paraguay",
+                  "region": "Central"
+                },
+                "name": "BLANCA TEODOLINA MARIN RIQUELME",
+                "contactPoint": {
+                  "email": "blancamarin_17@hotmail.com",
+                  "faxNumber": "",
+                  "url": "http://www.bm.com.py",
+                  "name": "BLANCA MARÍN",
+                  "telephone": "021-424605"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1",
+            "title": "SERVICIO DE PUBLICACION Y PROPAGANDA EN MEDIOS DE PRENSA - AD REFERENDUM",
+            "id": "288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "BLANCA TEODOLINA MARIN RIQUELME",
+                "id": "388022-2"
+              },
+              "name": "BLANCA TEODOLINA MARIN RIQUELME",
+              "identifiers": {
+                "key": "288276-blanca-teodolina-marin-riquelme-1"
+              }
+            },
+            "dncpContractCode": "CD-27004-16-118697",
+            "lots": [
+              {
+                "items": [
+                  "i6S0L2OBovM%3D",
+                  "XsizpRH3eLg%3D",
+                  "zf6e%2FlOv2Wg%3D",
+                  "qPm8AWhWfbk%3D",
+                  "f8yz4GT01X8%3D",
+                  "Z6EY1FOJxDE%3D",
+                  "HXRI0Fxiu60%3D",
+                  "DT%2Ft0%2F3cHRs%3D"
+                ],
+                "title": "SERVICIO DE PUBLICACION Y PROPAGANDA EN MEDIOS DE PRENSA - AD REFERENDUM",
+                "id": "rtif%2Fn5oa%2BA%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/JBq8Jzg9auQ%253D",
+                "title": "Acta de Apertura",
+                "id": "JBq8Jzg9auQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/g4vxkrWlNZ0%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "g4vxkrWlNZ0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/tmGBTti1NL8%253D",
+                "title": "Informe de Evaluación",
+                "id": "tmGBTti1NL8%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/GzIE0EAtKEA%253D",
+                "title": "Notificación al Oferente",
+                "id": "GzIE0EAtKEA%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/NuTyn3dXt1Q%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "NuTyn3dXt1Q%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/V3NoPK1JoQ0%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "V3NoPK1JoQ0%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/288276-blanca-teodolina-marin-riquelme-1",
+            "id": "288276-blanca-teodolina-marin-riquelme-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 60000000.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicacion en periodicos",
+                "id": "i6S0L2OBovM%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicacion en periodicos",
+                "id": "XsizpRH3eLg%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicacion en periodicos",
+                "id": "zf6e%2FlOv2Wg%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicacion en periodicos",
+                "id": "qPm8AWhWfbk%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicacion en periodicos",
+                "id": "f8yz4GT01X8%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-001",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-001"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicidad en revistas",
+                "id": "Z6EY1FOJxDE%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicacion en periodicos",
+                "id": "HXRI0Fxiu60%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101504-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "82101504-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Publicacion en periodicos",
+                "id": "DT%2Ft0%2F3cHRs%3D"
+              }
+            ],
+            "awardID": "288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1",
+            "title": "SERVICIO DE PUBLICACION Y PROPAGANDA EN MEDIOS DE PRENSA - AD REFERENDUM",
+            "dateSigned": "2016-02-11T12:00:00-05:00"
+          }
+        ],
+        "buyer": {
+          "name": "Fondo Ganadero",
+          "contactPoint": {
+            "email": "mcasco@fondogan.gov.py",
+            "name": "Lic. MARIA CASCO LICHI",
+            "telephone": "227-288"
+          }
+        },
+        "ocid": "ocds-03ad3f-288276",
+        "id": "288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum.json",
+          "date": "2015-12-14T11:13:48-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1.json",
+          "date": "2015-12-22T09:40:43-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/288276-servicio-publicacion-propaganda-medios-prensa-ad-referendum-1.json",
+          "date": "2016-02-18T08:58:42-05:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/288276-blanca-teodolina-marin-riquelme-1.json",
+          "date": "2016-02-11T12:00:00-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-288276"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

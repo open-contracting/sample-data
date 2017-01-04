@@ -1,0 +1,400 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/284745.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:01:36-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/284745-estudios-factibilidad-proyectos.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/284745-ana-maria-alfonso-riveros-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:01:36-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "Gfe4wQ8oVXZg3mM07iELNw%3D%3D"
+              ],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN JOSÉ, FRACCION VILLA BANCARIA",
+              "id": "JfHB872zxZE%3D"
+            },
+            {
+              "items": [],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 10 ACARAY FRACCION SAN CARLOS",
+              "id": "rLWNYJp6mts%3D"
+            },
+            {
+              "items": [],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 10 ACARAY",
+              "id": "IRY1wq9fP1g%3D"
+            },
+            {
+              "items": [],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SANTA ANA 2º FRACCION",
+              "id": "ocDQLOTgLKY%3D"
+            },
+            {
+              "items": [],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO 23 DE OCTUBRE",
+              "id": "0fwPC34oQOw%3D"
+            },
+            {
+              "items": [],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 4,1/2 BARRIO MARIA AUXILIADORA",
+              "id": "GqjR0qncJv0%3D"
+            },
+            {
+              "items": [],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO FATIMA VILLA ITAIPU",
+              "id": "%2BC79%2BMW3rF8%3D"
+            },
+            {
+              "items": [],
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 7, 1/2 BARRIO CIUDAD NUEVA FRACCION CABALLERO",
+              "id": "%2BK7NZ9NNP0A%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Obras",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/OX7IsYYMd%252Fc%253D",
+              "title": "Condiciones Generales del Contrato - Obras",
+              "id": "OX7IsYYMd%2Fc%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Obras",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4ZGCHL0Nnbw%253D",
+              "title": "Instrucción a los Oferentes - Obras",
+              "id": "4ZGCHL0Nnbw%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "Plano de obra o cómputos métricos",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/X6U5TR7YBVs%253D",
+              "title": "Plano de obra o cómputos métricos",
+              "id": "X6U5TR7YBVs%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "Plano de obra o cómputos métricos",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/76U2fNl5%252B%252B4%253D",
+              "title": "Plano de obra o cómputos métricos",
+              "id": "76U2fNl5%2B%2B4%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/47R9GDSLGPY%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "47R9GDSLGPY%3D"
+            }
+          ],
+          "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+          "tenderPeriod": {
+            "endDate": "2015-12-28T10:00:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Municipalidad de Ciudad del Este",
+            "contactPoint": {
+              "email": "ceste@dncp.gov.py",
+              "name": "Econ. Cristian Gustavo Rolón Paredes ",
+              "telephone": "061-508700"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2015-12-18T10:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad Medida Global"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "72131701-002"
+              },
+              "quantity": 1,
+              "description": "Construcción de empedrado",
+              "id": "Gfe4wQ8oVXZg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2015-12-18T10:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/284745-estudios-factibilidad-proyectos",
+          "budget": {
+            "description": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 947354961,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-05-10T09:18:54-04:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "ANA MARIA ALFONSO RIVEROS",
+                  "id": "945999-5"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "BARRIO VIRGEN DE FATIMA CDE",
+                  "locality": "CIUDAD DEL ESTE",
+                  "countryName": "Paraguay",
+                  "region": "Alto Paraná"
+                },
+                "name": "ANA MARIA ALFONSO RIVEROS",
+                "contactPoint": {
+                  "email": "mariaana_construcciones@hotmail.com",
+                  "faxNumber": "",
+                  "url": "",
+                  "name": "ANA MARIA ALFONSO RIVEROS",
+                  "telephone": "503199"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
+            "id": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "ANA MARIA ALFONSO RIVEROS",
+                "id": "945999-5"
+              },
+              "name": "ANA MARIA ALFONSO RIVEROS",
+              "identifiers": {
+                "key": "284745-ana-maria-alfonso-riveros-1"
+              }
+            },
+            "dncpContractCode": "LP-30151-16-122694",
+            "lots": [
+              {
+                "items": [
+                  "0jXQEp%2B45C0%3D"
+                ],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN JOSÉ, FRACCION VILLA BANCARIA",
+                "id": "9%2B%2Bt%2Bmj3q9w%3D"
+              },
+              {
+                "items": [],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 10 ACARAY FRACCION SAN CARLOS",
+                "id": "QyKSFQ04ylY%3D"
+              },
+              {
+                "items": [],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 10 ACARAY",
+                "id": "F4QZwQpksGc%3D"
+              },
+              {
+                "items": [],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SANTA ANA 2º FRACCION",
+                "id": "Kl7Z6tAoAZc%3D"
+              },
+              {
+                "items": [],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO 23 DE OCTUBRE",
+                "id": "%2BPLoxDRQsDY%3D"
+              },
+              {
+                "items": [],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 4,1/2 BARRIO MARIA AUXILIADORA",
+                "id": "DT0hlItVCOk%3D"
+              },
+              {
+                "items": [],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO FATIMA VILLA ITAIPU",
+                "id": "hgKj91%2Bt98Y%3D"
+              },
+              {
+                "items": [],
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 7, 1/2 BARRIO CIUDAD NUEVA FRACCION CABALLERO",
+                "id": "p99vrRxR%2FmM%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/JUGCzlHjQbU%253D",
+                "title": "Acta de Apertura",
+                "id": "JUGCzlHjQbU%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/MA%252Fu6YIB4%252B4%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "MA%2Fu6YIB4%2B4%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/SDHw%252BiXpVk0%253D",
+                "title": "Informe de Evaluación",
+                "id": "SDHw%2BiXpVk0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/t2siSFfXlmw%253D",
+                "title": "Notificación al Oferente",
+                "id": "t2siSFfXlmw%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/imrMSc1gQeg%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "imrMSc1gQeg%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/pXjYQR93KrM%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "pXjYQR93KrM%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/284745-ana-maria-alfonso-riveros-1",
+            "id": "284745-ana-maria-alfonso-riveros-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 947354961,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "72131701-002"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Construcción de empedrado",
+                "id": "0jXQEp%2B45C0%3D"
+              }
+            ],
+            "awardID": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
+            "dateSigned": "2016-02-22T12:00:00-05:00"
+          }
+        ],
+        "buyer": {
+          "name": "Municipalidad de Ciudad del Este",
+          "contactPoint": {
+            "email": "ceste@dncp.gov.py",
+            "name": "Econ. Cristian Gustavo Rolón Paredes ",
+            "telephone": "061-508700"
+          }
+        },
+        "ocid": "ocds-03ad3f-284745",
+        "id": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/284745-estudios-factibilidad-proyectos.json",
+          "date": "2015-01-22T10:26:31-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json",
+          "date": "2015-12-01T10:39:17-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json",
+          "date": "2016-05-10T09:18:54-04:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/284745-ana-maria-alfonso-riveros-1.json",
+          "date": "2016-02-22T12:00:00-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-284745"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Devon County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Alan Palmer", 
+          "email": "alan.palmer@devon.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Devon County Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d836ecc-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Devon County Council, under the Bikeability standard, is seeking to appoint a suitably qualified and experienced cycle training provider who can offer best and added value and performance to the Council and to the people of Devon. \n\nThe Contractor shall be required to deliver training to the National Standard for Cycle Training (Levels 1, 2 & 3) to children who live or study in Devon (excluding those children residing and attending school in the administration boundaries of Plymouth City Council and Torbay Borough Council), and National Standard cycle training to adults (people of 18 years or older) in Devon (excluding Plymouth and Torbay)\n\nThe Council intends to award a contract for the delivery from 1st April 2015 to 31st March 2016. There may be opportunity for additional one year extensions for the financial years 2016-17, 2017-18 and 2018-19", 
+        "title": " CP1083-14 National Standard Cycle Training for Children (Bikeability) and Adults in Devon 2015-16", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "80550000", 
+              "uri": "http://cpv.data.ac.uk/code-80550000.html", 
+              "description": "Safety training services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 176370
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d836ecc-adc8-11e6-9901-0019b9f3037b-dcc-9rfg-3rxgy8", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2019-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:18Z", 
+      "id": "ocds-b5fd17-2d836ecc-adc8-11e6-9901-0019b9f3037b-dcc-9rfg-3rxgy8"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:18Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/852d76be-be83-4a4f-accc-8dbfa3d1809f.json"
+}

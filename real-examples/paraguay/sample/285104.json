@@ -1,0 +1,29 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/285104.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:01:50-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/285104-adquisicion-servicios-adecuacion-edilicia-hospital-regional-ciudad-este-sa.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {},
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/285104-adquisicion-servicios-adecuacion-edilicia-hospital-regional-ciudad-este-sa.json",
+          "date": "2014-12-05T08:27:22-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-285104"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

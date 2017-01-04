@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "London Borough of Southwark", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mike Green", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "London Borough of Southwark", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36f3f1db-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The London Borough of Southwark (the council) is seeking to appoint up to 3 contractors to provide a full and comprehensive enforcement agency service on behalf of the council's Parking Services Team. The services require the tracing of debtors and the collection of debt associated with unpaid Penalty Charge Notices (PCNs) issued under the Road Traffic Act 1991 (as amended) and the Traffic Management Act 2004. The council envisages appointing the three highest scoring tenderers to the framework once the evaluation process has been completed.'", 
+        "title": "United Kingdom-London: Bailiff services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "75242110", 
+              "uri": "http://cpv.data.ac.uk/code-75242110.html", 
+              "description": "Bailiff services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 2500000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36f3f1db-adc8-11e6-9901-0019b9f3037b-2015/s-17-27119", 
+        "tenderPeriod": {
+          "startDate": "2015-10-27T00:00:00Z", 
+          "endDate": "2019-10-27T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:25Z", 
+      "id": "ocds-b5fd17-36f3f1db-adc8-11e6-9901-0019b9f3037b-2015-s-17-27119"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:25Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/fc13aa40-3843-45a8-9e2b-5980db723d13.json"
+}

@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "University of Warwick", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Marie Hughes", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "University of Warwick", 
+        "address": {
+          "postalCode": "CV47AL", 
+          "countryName": "GB", 
+          "streetAddress": "Kirby Corner Road, Coventry, CV47AL, GBR", 
+          "region": null, 
+          "locality": "West Midlands"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-371ac24e-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The maintenance of office air conditioning equipment and small commercial refrigeration plant located on the campus. Various types and manufacturer are used throughout the site including split, packaged and ducted air conditioning units. To include some supply and installation works.'", 
+        "title": "United Kingdom-Coventry: Repair and maintenance services of mechanical building installations", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50712000", 
+              "uri": "http://cpv.data.ac.uk/code-50712000.html", 
+              "description": "Repair and maintenance services of mechanical building installations"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 545316
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-371ac24e-adc8-11e6-9901-0019b9f3037b-2015/s-22-36000", 
+        "tenderPeriod": {
+          "startDate": "2015-11-06T00:00:00Z", 
+          "endDate": "2019-11-06T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:31Z", 
+      "id": "ocds-b5fd17-371ac24e-adc8-11e6-9901-0019b9f3037b-2015-s-22-36000"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:31Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/3d21eda0-db71-4fdd-b021-5861003a7e95.json"
+}

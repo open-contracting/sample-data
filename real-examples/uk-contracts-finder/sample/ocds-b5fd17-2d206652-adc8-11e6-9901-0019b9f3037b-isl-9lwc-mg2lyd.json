@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Islington", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Jonathan Clarke", 
+          "email": "jonathan.clarke@islington.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Islington", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d206652-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The London Borough of Islington currently has contracts in place to service and maintain the lift stock which are due to expire March and April 2015. The Councils intention is to tender for two contracts: Lot 1 for all the housing lifts which accounts for 358 lifts, and Lot 2 for all the Public Building Lifts which accounts for 37 lifts. \nThe contract has requirements for the following elements:\n(1) A responsive repairs service to respond to and rectify any breakdown in or malfunction of any part of the lift equipment. The Contractors will be required to respond in accordance with the priority category allocated to each request in accordance with the priority response system 24/7. (2) A planned preventative maintenance service which takes into account economic life factors with regards to replacement of components that keeps all lifts in good working order and minimises breakdowns. (Definition of economic life factor: the estimated number of years until that item no longer represents the least expensive method of performing its function) \n", 
+        "title": " 1415-066 Lift repairs and maintenance  Lot 1 Housing; Lot 2 Public Buildings", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50750000", 
+              "uri": "http://cpv.data.ac.uk/code-50750000.html", 
+              "description": "Lift-maintenance services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 49448
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d206652-adc8-11e6-9901-0019b9f3037b-isl-9lwc-mg2lyd", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2017-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:13Z", 
+      "id": "ocds-b5fd17-2d206652-adc8-11e6-9901-0019b9f3037b-isl-9lwc-mg2lyd"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:13Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/e8218c6e-0eb8-4172-867a-048de642344d.json"
+}

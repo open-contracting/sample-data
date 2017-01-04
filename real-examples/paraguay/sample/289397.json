@@ -1,0 +1,346 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/289397.json",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publishedDate": "2017-01-04T11:12:46-05:00",
+  "records": [
+    {
+      "releases": [
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/289397-servicio-television-gestion-gobierno-municipal.json",
+          "date": "2015-02-23T12:47:03-05:00",
+          "tag": [
+            "planning"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/289397-servicio-television-gestion-gobierno-municipal-1.json",
+          "date": "2015-06-11T07:43:08-04:00",
+          "tag": [
+            "tender"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/award/289397-servicio-television-gestion-gobierno-municipal-1.json",
+          "date": "2016-05-11T09:28:50-04:00",
+          "tag": [
+            "award"
+          ]
+        },
+        {
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289397-brick-s-a-1.json",
+          "date": "2015-09-23T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ]
+        }
+      ],
+      "compiledRelease": {
+        "awards": [
+          {
+            "id": "289397-servicio-television-gestion-gobierno-municipal-1",
+            "status": "active",
+            "suppliers": [
+              {
+                "address": {
+                  "streetAddress": "MEXICO 845",
+                  "countryName": "Paraguay",
+                  "region": "Asunción",
+                  "postalCode": "",
+                  "locality": "ASUNCION"
+                },
+                "name": "BRICK S.A.",
+                "identifier": {
+                  "legalName": "BRICK S.A.",
+                  "id": "80024486-9",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "contactPoint": {
+                  "email": "info@brick.com.py",
+                  "url": "http://www.brick.com.py",
+                  "name": "WILMAR SAN MARTIN FERREIRA",
+                  "faxNumber": "",
+                  "telephone": "449788"
+                }
+              }
+            ],
+            "date": "2016-05-11T09:28:50-04:00",
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/289397-servicio-television-gestion-gobierno-municipal-1",
+            "value": {
+              "currency": "PYG",
+              "amount": 1500000000.0
+            },
+            "title": "SERVICIO DE TELEVISION PARA GESTION DE GOBIERNO MUNICIPAL"
+          }
+        ],
+        "id": "289397-servicio-television-gestion-gobierno-municipal-1",
+        "tender": {
+          "tenderPeriod": {
+            "startDate": null,
+            "endDate": "2015-07-17T09:00:00-04:00"
+          },
+          "id": "289397-servicio-television-gestion-gobierno-municipal-1",
+          "status": "complete",
+          "documents": [
+            {
+              "id": "VCMB%2B5qbMSo%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/VCMB%252B5qbMSo%253D",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "title": "Adenda"
+            },
+            {
+              "id": "m8eEf4SC6iI%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/m8eEf4SC6iI%253D",
+              "format": "application/pdf",
+              "documentType": "Carta de Invitación",
+              "title": "Carta de Invitación"
+            },
+            {
+              "id": "6ag3vziqcLg%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/6ag3vziqcLg%253D",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios"
+            },
+            {
+              "id": "geDOVng5NfI%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/geDOVng5NfI%253D",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios"
+            },
+            {
+              "id": "WAL1SizmAHk%3D",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/WAL1SizmAHk%253D",
+              "format": "application/pdf",
+              "documentType": "biddingDocuments",
+              "title": "Pliego de bases y Condiciones"
+            }
+          ],
+          "items": [
+            {
+              "classification": {
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101602-001",
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "82101602-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC"
+              },
+              "unit": {
+                "value": {
+                  "currency": "PYG",
+                  "amount": null
+                },
+                "name": "Unidad"
+              },
+              "id": "iOAxijuGszE%3D",
+              "quantity": 1,
+              "description": "Publicidad televisiva"
+            }
+          ],
+          "submissionMethod": [
+            "written"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/289397-servicio-television-gestion-gobierno-municipal-1",
+          "value": {
+            "currency": "PYG",
+            "amount": null
+          },
+          "lots": [
+            {
+              "id": "V0YEr3zSjhg%3D",
+              "items": [
+                "iOAxijuGszE%3D"
+              ],
+              "title": "SERVICIO DE TELEVISION PARA GESTION DE GOBIERNO MUNICIPAL"
+            }
+          ],
+          "title": "SERVICIO DE TELEVISION PARA GESTION DE GOBIERNO MUNICIPAL",
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2015-07-08T12:00:00-04:00"
+          },
+          "procuringEntity": {
+            "name": "Municipalidad de Asunción",
+            "contactPoint": {
+              "email": "uoc1@mca.gov.py",
+              "name": "Lic. Richard Oviedo Benitez",
+              "telephone": "663311"
+            }
+          },
+          "hasEnquiries": false,
+          "enquiryPeriod": {
+            "endDate": "2015-07-08T12:00:00-04:00"
+          }
+        },
+        "tag": [
+          "compiled"
+        ],
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/289397-servicio-television-gestion-gobierno-municipal",
+          "budget": {
+            "amount": {
+              "currency": "PYG",
+              "amount": null
+            },
+            "description": "SERVICIO DE TELEVISION PARA GESTION DE GOBIERNO MUNICIPAL"
+          }
+        },
+        "language": "es",
+        "initiationType": "tender",
+        "date": "2017-01-04T11:12:46-05:00",
+        "contract": [
+          {
+            "id": "289397-brick-s-a-1",
+            "status": "active",
+            "dateSigned": "2015-09-23T12:00:00-04:00",
+            "documents": [
+              {
+                "id": "B2vp1YnoyZE%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/B2vp1YnoyZE%253D",
+                "format": "text/plain",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura"
+              },
+              {
+                "id": "pECtKHcPBV4%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/pECtKHcPBV4%253D",
+                "format": "text/plain",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "iiZnBd0nKx8%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iiZnBd0nKx8%253D",
+                "format": "text/plain",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas"
+              },
+              {
+                "id": "TAE8PAdriHQ%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/TAE8PAdriHQ%253D",
+                "format": "text/plain",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación"
+              },
+              {
+                "id": "BRjSOGZJprg%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/BRjSOGZJprg%253D",
+                "format": "text/plain",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente"
+              },
+              {
+                "id": "tcVv%2F9o9b%2F4%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/tcVv%252F9o9b%252F4%253D",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato"
+              },
+              {
+                "id": "eQpS1uWIjUo%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/eQpS1uWIjUo%253D",
+                "format": "text/plain",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              },
+              {
+                "id": "%2FLaVCS2RSGA%3D",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/%252FLaVCS2RSGA%253D",
+                "format": "text/plain",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación"
+              }
+            ],
+            "period": {
+              "startDate": "",
+              "endDate": ""
+            },
+            "awardID": "289397-servicio-television-gestion-gobierno-municipal-1",
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289397-brick-s-a-1",
+            "value": {
+              "currency": "PYG",
+              "amount": 1500000000.0
+            },
+            "lots": [
+              {
+                "id": "Rv%2FFzGqiMzs%3D",
+                "items": [
+                  "ZueYsnpv6D0%3D"
+                ],
+                "title": "SERVICIO DE TELEVISION PARA GESTION DE GOBIERNO MUNICIPAL"
+              }
+            ],
+            "items": [
+              {
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/82101602-001",
+                  "id": "82101602-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay"
+                },
+                "unit": {
+                  "value": {
+                    "currency": "PYG",
+                    "amount": "_NO_APLICA_"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "id": "ZueYsnpv6D0%3D",
+                "quantity": "_NO_APLICA_",
+                "description": "Publicidad televisiva"
+              }
+            ],
+            "suppliers": {
+              "name": "BRICK S.A.",
+              "identifier": {
+                "legalName": "BRICK S.A.",
+                "id": "80024486-9",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "289397-brick-s-a-1"
+              }
+            },
+            "dncpContractCode": "LP-30001-16-121558",
+            "title": "SERVICIO DE TELEVISION PARA GESTION DE GOBIERNO MUNICIPAL"
+          }
+        ],
+        "ocid": "ocds-03ad3f-289397",
+        "buyer": {
+          "name": "Municipalidad de Asunción",
+          "contactPoint": {
+            "email": "uoc1@mca.gov.py",
+            "name": "Lic. Richard Oviedo Benitez",
+            "telephone": "663311"
+          }
+        }
+      },
+      "ocid": "ocds-03ad3f-289397"
+    }
+  ],
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/289397-servicio-television-gestion-gobierno-municipal.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/289397-servicio-television-gestion-gobierno-municipal-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/289397-servicio-television-gestion-gobierno-municipal-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289397-brick-s-a-1.json"
+  ],
+  "publisher": {
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos",
+    "name": "DNCP - Paraguay"
+  }
+}

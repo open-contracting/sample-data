@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Derby City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Eloise Keeble", 
+          "email": "procurement@derby.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Derby City Council", 
+        "address": {
+          "postalCode": "DE12FS", 
+          "countryName": "GB", 
+          "streetAddress": "Corporation Street, Derby, DE12FS, GBR", 
+          "region": null, 
+          "locality": "Derbyshire"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d2d7ad5-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Tenders are invited for the supply of Advocacy in respect of an Integrated Advocacy Service.\nThe contract is to deliver an Integrated Advocacy Service with a single point of entry for anybody requiring and who is eligible for advocacy support in Derby City. The service should be underpinned by:\n The use of a single point of contact to achieve effective signposting to appropriate advocacy services, this will create efficiencies in using professional advocates by targeting such advocacy where it will have the most impact and promoting the advocacy services of smaller specialist groups in the community\n The development of an infrastructure to support the advocacy service, providing a centre of excellence and to promote community resilience by developing and utilising volunteer and peer resources providing appropriate support and training .\nThe Commissioners are keen to promote personalisation with greater choice and control for clients and carers in the way in which health and social care services are delivered. This means providing a good quality advocacy service which will support people to make decisions about their treatment, care and support\nThe Independent Integrated Advocacy Service will provide:\n An IMHA service for eligible people with mental health problems, living or residing within the boundaries of Derbyshire and which is fully compliant with the Mental Health Act (1983) and the Code of Practice (MHA) for England for qualifying patients under the Act; An IMCA service for eligible people living or residing within the boundaries of Derbyshire, including DoLS Relevant Persons Representatives (Paid Representatives) for people who lack capacity under the Mental Capacity Act 2005 (MCA) and which is fully compliant with the MCA; An ICA service for people, living or residing within Derbyshire who wish to make a complaint about their NHS care or treatment, including any complaint against an organisation or service where the treatment is funded by the NHS; A specialist advocacy service\nThe provisions of duty for advocacy under the Care Act will require the provider to work closely with the Council to develop systems to meet the demands of this service.\nThe initial contract period is 2 years the contract is estimated to commence 01 April 2015 and expire 31 March 2017.\nThere will be an option to extend the contract for 2 years in annual increments, subject to satisfactory performance and business needs. Maximum contract period is 4 years.", 
+        "title": " TD0843 - For the provision of an Integrated Advocacy Service for Derby City Council", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98000000", 
+              "uri": "http://cpv.data.ac.uk/code-98000000.html", 
+              "description": "Other community, social and personal services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 454000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d2d7ad5-adc8-11e6-9901-0019b9f3037b-derbscity-9rlf-tlg92n", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2017-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:15Z", 
+      "id": "ocds-b5fd17-2d2d7ad5-adc8-11e6-9901-0019b9f3037b-derbscity-9rlf-tlg92n"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:15Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/b2c7fbc0-92e5-49bc-9ce6-6e5c926653ef.json"
+}

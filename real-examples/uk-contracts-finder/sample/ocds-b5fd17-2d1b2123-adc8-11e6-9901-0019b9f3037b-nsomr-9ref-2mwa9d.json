@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Nicola Scribens", 
+          "email": "Nicola.scribens@n-somerset.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d1b2123-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " North Somerset Council wish to appoint two separate suppliers to undertake Asbestos Removal Works and also Asbestos Surveying and Analytical Services across the North Somerset Council property estate, as required.\nThe contract will be let as two separate lots. While you may submit bids for both, due to industry standards, the same supplier cannot be awarded both lots.\nLot 1 - Asbestos Removal Works\nThis will include all elements of asbestos removal and disposal works. The form of contract to be used is the JCT 2011 Measured Term Contract.\nLot 2 - Asbestos Surveying and Analytical Services\nThis will include all elements of asbestos surveying and analytical services.\nThis contract is for a three year framework agreement with the possibility of an extension by one year. This framework agreement will be a call-off contract. The Council intends to use this arrangement for all of its schools and non-school premises.\nOnce you have registered your interest in the above contract you will be given automatic access via this portal to download the documents that you will need to submit a Tender.\nIf you have any questions during this process please use the Q&A section on the portal to log your query.", 
+        "title": " Asbestos Removal Works Lot 1 and Asbestos Surveying and Analytical Services Lot 2", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45262660", 
+              "uri": "http://cpv.data.ac.uk/code-45262660.html", 
+              "description": "Asbestos-removal work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "90650000", 
+              "uri": "http://cpv.data.ac.uk/code-90650000.html", 
+              "description": "Asbestos removal services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 550000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d1b2123-adc8-11e6-9901-0019b9f3037b-nsomr-9ref-2mwa9d", 
+        "tenderPeriod": {
+          "startDate": "2015-05-31T00:00:00Z", 
+          "endDate": "2019-05-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:12Z", 
+      "id": "ocds-b5fd17-2d1b2123-adc8-11e6-9901-0019b9f3037b-nsomr-9ref-2mwa9d"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:12Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/955ae7fb-dddb-4bd5-889d-5270c4f14c6a.json"
+}

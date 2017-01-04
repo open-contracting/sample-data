@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Bristol City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Matthew Roberts", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Bristol City Council", 
+        "address": {
+          "postalCode": "BS15TR", 
+          "countryName": "GB", 
+          "streetAddress": "Director Of Legal Services, City Hall, College Green, BRISTOL, BS15TR, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36ae934d-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The Council wishes to establish a framework agreement with a single provider under which up to 19 primary and nursery schools in the BCC area may enter into call-off contracts for the provision of school catering. The appointed Contractor would be an established professional catering contractor who can provide primary and nursery school meals and other catering requirements for schools.'", 
+        "title": "United Kingdom-Bristol: School catering services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "55524000", 
+              "uri": "http://cpv.data.ac.uk/code-55524000.html", 
+              "description": "School catering services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "55520000", 
+              "uri": "http://cpv.data.ac.uk/code-55520000.html", 
+              "description": "Catering services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 2000000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36ae934d-adc8-11e6-9901-0019b9f3037b-2015/s-5-5406", 
+        "tenderPeriod": {
+          "startDate": "2015-10-17T00:00:00Z", 
+          "endDate": "2019-10-17T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:10Z", 
+      "id": "ocds-b5fd17-36ae934d-adc8-11e6-9901-0019b9f3037b-2015-s-5-5406"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:10Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/052bf0ad-979c-4be3-8eb4-7c64f964d7e4.json"
+}

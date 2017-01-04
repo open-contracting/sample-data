@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "West Midlands Passenger Transport Executive (Centro)", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Jenkins Rachael", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "West Midlands Passenger Transport Executive (Centro)", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36b16b9b-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'This will be an annual policy on a 3 year deal. Please note that the above figures are estimated annual values. Open tender for the provision of insurance Cover for Centro House and Midland Metro for Property Damage and Business Interruption including money. Objectives are:  To ensure Midland Metro have the most comprehensive cover at the most competitive premium;  Tripartite relationships with underwriters;  Appoint a single supplier for a Long Term Agreement (3 years) with Long Term Agreement discounts;  Advantageous or interest free premium instalments;  Profit share/low claims discounts;  Risk Management Bursaries or Risk Management Offerings.'", 
+        "title": "United Kingdom-Birmingham: Insurance services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "66510000", 
+              "uri": "http://cpv.data.ac.uk/code-66510000.html", 
+              "description": "Insurance services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 200000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36b16b9b-adc8-11e6-9901-0019b9f3037b-2015/s-6-6689", 
+        "tenderPeriod": {
+          "startDate": "2015-10-23T00:00:00Z", 
+          "endDate": "2018-10-23T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:11Z", 
+      "id": "ocds-b5fd17-36b16b9b-adc8-11e6-9901-0019b9f3037b-2015-s-6-6689"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:11Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/4c009fab-5b54-4d34-85d1-91518359cfed.json"
+}

@@ -1,0 +1,127 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Environment Agency", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Russell Greenwood", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Environment Agency", 
+        "address": {
+          "postalCode": "SW1P2AL", 
+          "countryName": "GB", 
+          "streetAddress": "ERGON HOUSE, LONDON, SW1P2AL, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-3690fc14-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Delivery of a coaching programme and develop/ implement plans to boost involvement in angling. Provide anglers with skills and knowledge to fish with increasing confidence. Ensure the work is designed to be all inclusive. In particular there should be an emphasis on finding innovative and appropriate ways to encourage more junior anglers and in so doing address the recent decline in junior sales and participation. Create strong links with local clubs and fisheries and ensure anglers possess all the necessary information for them to continue fishing. Provide a successful angling communication network. Establish an effective structure for local consultation to enable effective engagement between anglers, Environment Agency staff and other interested parties. It is expected that new and innovate other ways of engaging with anglers will be identified and used, including alignment with existing social media routes. Provide a go to service for fisheries predation concerns such as otters and seals. Also using opportunities to raise awareness of invasive species risks and environmental stewardship, such as reducing the impact of angler litter on other wildlife and habitats.'", 
+        "title": "United Kingdom-Leeds: Recreational, cultural and sporting services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "90000000", 
+              "uri": "http://cpv.data.ac.uk/code-90000000.html", 
+              "description": "Sewage, refuse, cleaning and environmental services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "92000000", 
+              "uri": "http://cpv.data.ac.uk/code-92000000.html", 
+              "description": "Recreational, cultural and sporting services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "80000000", 
+              "uri": "http://cpv.data.ac.uk/code-80000000.html", 
+              "description": "Education and training services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 1400000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-3690fc14-adc8-11e6-9901-0019b9f3037b-2015/s-27-45475", 
+        "tenderPeriod": {
+          "startDate": "2015-11-04T00:00:00Z", 
+          "endDate": "2017-08-04T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:04Z", 
+      "id": "ocds-b5fd17-3690fc14-adc8-11e6-9901-0019b9f3037b-2015-s-27-45475"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:04Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/2f95cfe2-7410-486e-a83f-0be4c33fad74.json"
+}

@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Commercial Services", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Michael Smith", 
+          "email": "michael.smith@procurementservicesgroup.org.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Commercial Services", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d11e92f-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Commercial Services is one of the largest trading organisations of its kind in the UK with a turnover currently in excess of 600m pa and employing over 800 people from its base in Kent. With its Schools Supplies Division set up nearly 70 years ago by Kent County Council, it has grown organically since then to supply an ever-increasing range of best value goods and services to other publicly funded organisations. These include local government, education establishments, the care sector and emergency services. \n\nKCS is a trading unit of Commercial Services and provides a purchasing, warehousing and distribution service to a wide ranging customer base within local government and associated public bodies in Kent, neighbouring counties and across the UK. \n\nKent County Council (the Council) is the largest local authority in England covering an area of 3,500 square kilometres. It has an annual expenditure of over 1bn on goods and services and a population of 1.3m. The Council provides a wide range of personal and strategic services on behalf of its residents, operating in partnership with 12 district councils and 289 parish/town councils. \n\nThe Central Buying Consortium (CBC) is a group of County, Borough and City Councils. The purpose of which is to improve the effectiveness, by co-ordination, of local authority purchasing with the object of effecting savings in public expenditure for the benefit of its members. CBC procures approximately 750m goods and services per annum. \n In accordance with best procurement practice, EU and UK Procurement Directives and Regulations, the CBC, through KCS, wishes to create a Framework Agreement (the Agreement) for the supply and delivery of PVC Stationery and Zipped Wallets.", 
+        "title": " PVC Stationary and Zipped Wallets", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "34000000", 
+              "uri": "http://cpv.data.ac.uk/code-34000000.html", 
+              "description": "Transport equipment and auxiliary products to transportation"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 333333
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d11e92f-adc8-11e6-9901-0019b9f3037b-kentps-9qej-6kiyae", 
+        "tenderPeriod": {
+          "startDate": "2015-02-13T00:00:00Z", 
+          "endDate": "2019-02-13T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:11Z", 
+      "id": "ocds-b5fd17-2d11e92f-adc8-11e6-9901-0019b9f3037b-kentps-9qej-6kiyae"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:11Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/cf7107c6-ff35-4afd-af34-db7556714c4a.json"
+}

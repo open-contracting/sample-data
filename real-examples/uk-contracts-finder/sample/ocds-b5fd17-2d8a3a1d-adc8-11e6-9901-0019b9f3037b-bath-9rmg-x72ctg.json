@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Bath and North East Somerset Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Val Dawes", 
+          "email": "val_dawes@bathnes.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Bath and North East Somerset Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d8a3a1d-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " We are looking for a main contractor to provide construction services under a Design and Build contract fora new classroom block and internal works at Bishop Sutton Primary School. Please refer to the pre qualification questionnaire for full details.\nSuppliers interested in this opportunity should express their interest by clicking on the login and register interest button below. New users to the system must register first to obtain a user name and password before returning to this opportunity. Please refer to the suppliers guide Visiting Site for the First Time by clicking the Help button. Once suppliers have expressed their interest they can access the procurement documentation from My Opportunities on the home page. Upon registering interest and commencing the tendering process tenderers must not approach any member of the Authority directly or indirectly in relation to the tender. If clarification is required regarding this tender, all questions must be submitted via discussions on the Supplying the South West portal from where the tender documents were downloaded.\n", 
+        "title": " Main Contractor - Bishop Sutton Primary School", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45214200", 
+              "uri": "http://cpv.data.ac.uk/code-45214200.html", 
+              "description": "Construction work for school buildings"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 9394439
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d8a3a1d-adc8-11e6-9901-0019b9f3037b-bath-9rmg-x72ctg", 
+        "tenderPeriod": {
+          "startDate": "2015-04-30T00:00:00Z", 
+          "endDate": "2016-08-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:19Z", 
+      "id": "ocds-b5fd17-2d8a3a1d-adc8-11e6-9901-0019b9f3037b-bath-9rmg-x72ctg"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:19Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/1b1fd973-8dab-48f7-a8ee-82886efbfbd6.json"
+}

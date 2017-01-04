@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Financial Conduct Authority", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Kirsty Fincham", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Financial Conduct Authority", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36f00fbe-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The Financial Conduct Authority (the FCA) is seeking a Supplier to provide support with graduate and experienced hire recruitment marketing and employment branding, for a period of 3 years from May 2015 onwards. Any Contract awarded will have the option to extend for up to a further 2 years. Using a compelling, clear and concise employee value proposition known as our offer', we are aiming to make the FCA a destination employer in financial services. We want to create a positive external perception of the organisation that attracts new employees and builds our profile in the wider financial services industry. The Services required will include but not be limited to the following:  Creative and market leading articulation of the FCA employment brand, within the wider FCA brand guidelines, driving capability through branding,  Strategic management of resourcing and talent marketing activity to drive candidate attraction (to include digital marketing strategy),  Management of marketing for the graduate campaign, and other key employment campaigns as required.'", 
+        "title": "United Kingdom-London: Marketing services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79342000", 
+              "uri": "http://cpv.data.ac.uk/code-79342000.html", 
+              "description": "Marketing services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 1010000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36f00fbe-adc8-11e6-9901-0019b9f3037b-2015/s-17-27012", 
+        "tenderPeriod": {
+          "startDate": "2015-10-18T00:00:00Z", 
+          "endDate": "2019-10-18T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:24Z", 
+      "id": "ocds-b5fd17-36f00fbe-adc8-11e6-9901-0019b9f3037b-2015-s-17-27012"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:24Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/95c2b0a0-a900-4b9a-be3d-225bcd0b0173.json"
+}

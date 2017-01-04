@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Durham County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Janice Slater", 
+          "email": "janice.slater@durham.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Durham County Council", 
+        "address": {
+          "postalCode": "DH15UL", 
+          "countryName": "GB", 
+          "streetAddress": "COUNTY HALL, DURHAM, DH15UL, GBR", 
+          "region": null, 
+          "locality": "COUNTY DURHAM"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d7dc455-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Durham County Council, Children and Adults Services, is seeking a suitably experienced and competent organisation to provide a Domiciliary Care Package, including personal care, to a Service User in the Stanhope area of County Durham. The Provider of this care package must be registered appropriately with the Care Quality Commission. The package comprises 4 calls per day, seven days per week. More information can be found by registering your interest and accessing \"further detail\".", 
+        "title": " Individual Domiciliary Care Package - Stanhope", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 41777
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d7dc455-adc8-11e6-9901-0019b9f3037b-dcc-9rve-u4p9bq", 
+        "tenderPeriod": {
+          "startDate": "2014-12-24T00:00:00Z", 
+          "endDate": "2015-12-23T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:18Z", 
+      "id": "ocds-b5fd17-2d7dc455-adc8-11e6-9901-0019b9f3037b-dcc-9rve-u4p9bq"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:18Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/98a1040b-f357-4962-b2c3-6e8882283fc4.json"
+}

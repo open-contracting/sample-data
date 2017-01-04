@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "University Of Edinburgh", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Colin Miller", 
+          "email": "colin.miller@roslin.ed.ac.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "University Of Edinburgh", 
+        "address": {
+          "postalCode": "EH89YL", 
+          "countryName": "GB", 
+          "streetAddress": "OLD COLLEGE, Edinburgh, EH89YL, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36c8febc-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The University of Edinburgh is undertaking a phased programme of tenders with a view to renewing its current Life Sciences framework contract which expires in February 2015. It is envisaged that this will be done in a minimum of five stages with various Lots being covered at each stage. This stage, Phase A, will cover the core Lot of Protein Chemistry consumables. Other areas on our existing framework will be covered in subsequent phases along with new market areas that were not covered originally. There will also be a phase which will look specifically at scientific services and custom products. Note: The buyer is using PCS-Tender to carry out this procurement process. Please note this is a separate website and if you are not already registered, registration will be required. To access PCS-Tender, record your interest in this notice and access the tender documentation please visit https://www.publictendersscotland.publiccontractsscotland.gov.uk and search for project Code project_3332 under s Open to All Suppliers. Please use the Search/Filter function, then select Project Code from the drop-down. Please note that once you have expressed interest in the it will move to your My s area. For further information on using PCS-Tender, please read the Supplier Response Guide: https://www.publictendersscotland.publiccontractsscotland.gov.uk/esop/pts-host/public/pts/supplierhelppage/PCS-TSupplierResponseGuide.pdf If you have already registered on Public Contracts Scotland and PCS-Tender and paired your accounts you can access PCS-Tender through your Public Contracts Scotland Control Panel.'", 
+        "title": "United Kingdom-Edinburgh: Medical consumables", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "33140000", 
+              "uri": "http://cpv.data.ac.uk/code-33140000.html", 
+              "description": "Medical consumables"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 760000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36c8febc-adc8-11e6-9901-0019b9f3037b-2014/s-249-441112", 
+        "tenderPeriod": {
+          "startDate": "2015-10-12T00:00:00Z", 
+          "endDate": "2019-10-12T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:17Z", 
+      "id": "ocds-b5fd17-36c8febc-adc8-11e6-9901-0019b9f3037b-2014-s-249-441112"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:17Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/ea6c1401-2cbc-423a-9566-e6028c5b5196.json"
+}

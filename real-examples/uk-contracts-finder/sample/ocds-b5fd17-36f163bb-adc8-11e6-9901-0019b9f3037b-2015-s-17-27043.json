@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "University of York", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Rob Hunt", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "University of York", 
+        "address": {
+          "postalCode": "YO105DD", 
+          "countryName": "GB", 
+          "streetAddress": "Heslington, YORK, YO105DD, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36f163bb-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'2.1.1. The University has a vision for the development of an International Pathway Centre (IPC) which will eventually be housed in a multi-purpose building (provisionally called the Piazza Building) to be located close to the Ron Cooke Hub on the Heslington East campus. The intention of this programme is that it will help the University achieve its aspirations through measured growth. Moreover it is intended that the recruitment of international students to such a programme would be robust. The plan is to establish a programme that would be academically led and managed by the University and for an external partner to be co-opted to provide student marketing, recruitment, admissions and student support. The arrangement with an external partner within this IPC would be for a 10 year arrangement. The IPC has been approved by the University Council, subject to final confirmation of the timing and financing arrangements for the Piazza Building.'", 
+        "title": "United Kingdom-York: Higher education services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "80300000", 
+              "uri": "http://cpv.data.ac.uk/code-80300000.html", 
+              "description": "Higher education services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 1150000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36f163bb-adc8-11e6-9901-0019b9f3037b-2015/s-17-27043", 
+        "tenderPeriod": {
+          "startDate": "2015-11-02T00:00:00Z", 
+          "endDate": "2025-11-02T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:24Z", 
+      "id": "ocds-b5fd17-36f163bb-adc8-11e6-9901-0019b9f3037b-2015-s-17-27043"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:24Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/b09791bc-388f-484f-b558-1baa7abe8496.json"
+}

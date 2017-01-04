@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "ESPO", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr David Maylin", 
+          "email": "d.maylin@espo.org"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "ESPO", 
+        "address": {
+          "postalCode": "LE191ES", 
+          "countryName": "GB", 
+          "streetAddress": "Barnsdale Way, LEICESTER, LE191ES, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d2f0982-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " ESPO is seeking to establish a framework agreement to offer public sector customers access to a range of pre-approved Service Providers from whom they may appoint a Service Provider to deliver a managed service for temporary agency resources. \n Whilst initially for use by local authorities served by ESPO (see www.espo.org for further details), being a Central Purchasing Body as defined by the EU Combined Procurement Directive 2004/18/EC, the Framework Agreement may also be open for use by the following classifications of user throughout all administrative regions of the UK: Local Authority Councils; Educational Establishments (including Academies); Central Government Departments and their Agencies; Police, Fire & Rescue and Coastguard Emergency Services; NHS and HSC Bodies, including Ambulance Services; Registered Charities; Registered Social Landlords; Full details of the classification of end user establishments and geographical areas is available on: http://www.espo.org/About-us-%281%29/FAQs/Legal \n An eAuction process may be used to award subsequent call off contracts following the reopening of competition among the parties to the Framework Agreement.", 
+        "title": " 653F_15 Managed Services for Temporary Agency Resources (MSTAR2)", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79620000", 
+              "uri": "http://cpv.data.ac.uk/code-79620000.html", 
+              "description": "Supply services of personnel including temporary staff"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 500000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d2f0982-adc8-11e6-9901-0019b9f3037b-espo-9ral-c54x64", 
+        "tenderPeriod": {
+          "startDate": "2015-04-11T00:00:00Z", 
+          "endDate": "2017-04-10T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:15Z", 
+      "id": "ocds-b5fd17-2d2f0982-adc8-11e6-9901-0019b9f3037b-espo-9ral-c54x64"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:15Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/09ed0285-12ba-48d1-8214-6b112f4e7524.json"
+}

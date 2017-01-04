@@ -1,0 +1,157 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr David McDonald", 
+          "email": "d.r.mcdonald@dorsetcc.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c4c9ee5-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " DPS Gateway Period 7", 
+        "title": " Dynamic Purchasing System For Provision Of Passenger Transport", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60112000", 
+              "uri": "http://cpv.data.ac.uk/code-60112000.html", 
+              "description": "Public road transport services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60120000", 
+              "uri": "http://cpv.data.ac.uk/code-60120000.html", 
+              "description": "Taxi services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60140000", 
+              "uri": "http://cpv.data.ac.uk/code-60140000.html", 
+              "description": "Non-scheduled passenger transport"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 4, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60170000", 
+              "uri": "http://cpv.data.ac.uk/code-60170000.html", 
+              "description": "Hire of passenger transport vehicles with driver"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 5, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60171000", 
+              "uri": "http://cpv.data.ac.uk/code-60171000.html", 
+              "description": "Hire of passenger cars with driver"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 6, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60172000", 
+              "uri": "http://cpv.data.ac.uk/code-60172000.html", 
+              "description": "Hire of buses and coaches with driver"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 447225
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c4c9ee5-adc8-11e6-9901-0019b9f3037b-dorst-9r3h-wsuksv", 
+        "tenderPeriod": {
+          "startDate": "2015-03-02T00:00:00Z", 
+          "endDate": "2016-04-30T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:00Z", 
+      "id": "ocds-b5fd17-2c4c9ee5-adc8-11e6-9901-0019b9f3037b-dorst-9r3h-wsuksv"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:00Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/7f15feb9-6766-4b6c-bbb4-820472a4e6a7.json"
+}
