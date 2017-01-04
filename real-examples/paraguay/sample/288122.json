@@ -1,0 +1,462 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/288122.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:03:20-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/288122-auditoria-financiera-tecnica-elegibilidad.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/288122-audicon-auditores-contadores-consultores-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:03:20-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "D5a8mJpqJqJg3mM07iELNw%3D%3D",
+                "y1NaLfHN6RJg3mM07iELNw%3D%3D",
+                "bVrvMS1lInRg3mM07iELNw%3D%3D"
+              ],
+              "title": "Auditoria externa de los estados financieros y auditoria impositiva ejercicios 2015, 2016,2017",
+              "id": "yg7FZeovtww%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/QxFXpZ%252FW3sI%253D",
+              "title": "Adenda",
+              "id": "QxFXpZ%2FW3sI%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/LU3Jxg%252FoXYU%253D",
+              "title": "Adenda",
+              "id": "LU3Jxg%2FoXYU%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/zehlxeYtEOw%253D",
+              "title": "Adenda",
+              "id": "zehlxeYtEOw%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Nota de Observacion",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/X2S8G1BDcuk%253D",
+              "title": "Nota de Observacion",
+              "id": "X2S8G1BDcuk%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Nota de Suspensión",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/MsEokFhoOys%253D",
+              "title": "Nota de Suspensión",
+              "id": "MsEokFhoOys%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4GRcrviSBr0%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "4GRcrviSBr0%3D"
+            }
+          ],
+          "title": "Auditoria externa de los estados financieros y auditoria impositiva ejercicios 2015, 2016,2017",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1",
+          "tenderPeriod": {
+            "endDate": "2016-01-08T13:00:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Empresa de Servicios Sanitarios del Paraguay (ESSAP)",
+            "contactPoint": {
+              "email": "essapuoc@gmail.com",
+              "name": "Abog. Osmar Osorio",
+              "telephone": "204918"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2016-01-04T12:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/84111601-000",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "84111601-000"
+              },
+              "quantity": 1,
+              "description": "Auditorias de cierre del ejercicio",
+              "id": "D5a8mJpqJqJg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/84111601-000",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "84111601-000"
+              },
+              "quantity": 1,
+              "description": "Auditorias de cierre del ejercicio",
+              "id": "y1NaLfHN6RJg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/84111601-000",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "84111601-000"
+              },
+              "quantity": 1,
+              "description": "Auditorias de cierre del ejercicio",
+              "id": "bVrvMS1lInRg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2016-01-04T12:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/288122-auditoria-financiera-tecnica-elegibilidad",
+          "budget": {
+            "description": "Auditoria externa de los estados financieros y auditoria impositiva ejercicios 2015, 2016,2017",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 240000000.0,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-03-03T15:50:18-05:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "AUDICON AUDITORES CONTADORES & CONSULTORES",
+                  "id": "80019840-9"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "ALBERDI N° 1445.",
+                  "locality": "ASUNCIÓN.",
+                  "countryName": "Paraguay",
+                  "region": "Asunción"
+                },
+                "name": "AUDICON AUDITORES CONTADORES & CONSULTORES",
+                "contactPoint": {
+                  "email": "audicon@audicon.com.py",
+                  "faxNumber": "",
+                  "url": "http://www.audicon.com.py",
+                  "name": "EDGAR COLMÁN GÓMEZ / JACINTO SANTAMARÍA AMMATUNA.",
+                  "telephone": "021 445 770"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1",
+            "title": "Auditoria externa de los estados financieros y auditoria impositiva ejercicios 2015, 2016,2017",
+            "id": "288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "AUDICON AUDITORES CONTADORES & CONSULTORES",
+                "id": "80019840-9"
+              },
+              "name": "AUDICON AUDITORES CONTADORES & CONSULTORES",
+              "identifiers": {
+                "key": "288122-audicon-auditores-contadores-consultores-1"
+              }
+            },
+            "dncpContractCode": "CO-26002-16-119229",
+            "lots": [
+              {
+                "items": [
+                  "Gp8%2FCleiEoQ%3D",
+                  "yENZEjCkBbE%3D",
+                  "Q4Z6HuT6kpQ%3D"
+                ],
+                "title": "Auditoria externa de los estados financieros y auditoria impositiva ejercicios 2015, 2016,2017",
+                "id": "K2qjgFzXeC8%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/JFASexMshXc%253D",
+                "title": "Acta de Apertura",
+                "id": "JFASexMshXc%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/o3vvq5cMs68%253D",
+                "title": "Acta de Apertura",
+                "id": "o3vvq5cMs68%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/mCo2qRzPNEs%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "mCo2qRzPNEs%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/g39n0k5GiGo%253D",
+                "title": "Informe de Evaluación",
+                "id": "g39n0k5GiGo%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Nota de Aclaración",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/aRM2KbDX9p0%253D",
+                "title": "Nota de Aclaración",
+                "id": "aRM2KbDX9p0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/a%252F5%252Btw8OUsQ%253D",
+                "title": "Notificación al Oferente",
+                "id": "a%2F5%2Btw8OUsQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/60HwFyHkDzs%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "60HwFyHkDzs%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/HHBvP7OLwNU%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "HHBvP7OLwNU%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/288122-audicon-auditores-contadores-consultores-1",
+            "id": "288122-audicon-auditores-contadores-consultores-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 240000000.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/84111601-000",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "84111601-000"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Auditorias de cierre del ejercicio",
+                "id": "Gp8%2FCleiEoQ%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/84111601-000",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "84111601-000"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Auditorias de cierre del ejercicio",
+                "id": "yENZEjCkBbE%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/84111601-000",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "84111601-000"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Auditorias de cierre del ejercicio",
+                "id": "Q4Z6HuT6kpQ%3D"
+              }
+            ],
+            "awardID": "288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1",
+            "title": "Auditoria externa de los estados financieros y auditoria impositiva ejercicios 2015, 2016,2017",
+            "dateSigned": "2016-02-26T12:00:00-05:00"
+          },
+          {
+            "value": {
+              "amount": "_NO_APLICA_",
+              "currency": "PYG"
+            },
+            "status": "active",
+            "extendsContractID": "288122-audicon-auditores-contadores-consultores-1",
+            "dncpContractCode": "_NO_APLICA_",
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Adenda de Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/modificacion_contrato/%252BYbZhxg53%252Bw%253D",
+                "title": "Adenda de Contrato",
+                "id": "%2BYbZhxg53%2Bw%3D"
+              },
+              {
+                "language": "es",
+                "format": "text/plain",
+                "documentType": "Adenda de Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/modificacion_contrato/jyTo4949X3Q%253D",
+                "title": "Adenda de Contrato",
+                "id": "jyTo4949X3Q%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/modificaciones-contrato/288122-audicon-auditores-contadores-consultores-1-modificacion",
+            "title": "Contract Amendment: Auditoria externa de los estados financieros y auditoria impositiva ejercicios 2015, 2016,2017",
+            "dncpAmendmentType": "Otras Modificaciones",
+            "id": "288122-audicon-auditores-contadores-consultores-1-modificacion",
+            "dateSigned": "Pendiente de Emisión"
+          }
+        ],
+        "buyer": {
+          "name": "Empresa de Servicios Sanitarios del Paraguay (ESSAP)",
+          "contactPoint": {
+            "email": "essapuoc@gmail.com",
+            "name": "Abog. Osmar Osorio",
+            "telephone": "204918"
+          }
+        },
+        "ocid": "ocds-03ad3f-288122",
+        "id": "288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/288122-auditoria-financiera-tecnica-elegibilidad.json",
+          "date": "2015-02-26T17:34:24-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1.json",
+          "date": "2015-12-03T17:00:55-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/288122-auditoria-externa-estados-financieros-auditoria-impositiva-ejercicios-2015-2016-2017-1.json",
+          "date": "2016-03-03T15:50:18-05:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/288122-audicon-auditores-contadores-consultores-1.json",
+          "date": "2016-02-26T12:00:00-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-288122"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

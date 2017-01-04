@@ -6,6 +6,8 @@ cd fictional-example
 # Check that files validate
 for f in *.json; do echo $f; jsonschema ../release-package-schema.json -i  $f; done
 # Check that running merge.py produces the same output as what's curently in
-cp record/ocds-213czf-000-00001.json record/ocds-213czf-000-00001.json.OLD && python merge.py && diff record/ocds-213czf-000-00001.json.OLD record/ocds-213czf-000-00001.json
 # the repo
-rm *.OLD
+cp record/ocds-213czf-000-00001.json record/ocds-213czf-000-00001.json.OLD && python merge.py && diff record/ocds-213czf-000-00001.json.OLD record/ocds-213czf-000-00001.json
+# Clean up after ourselves
+cd ../
+rm *.json*

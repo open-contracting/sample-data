@@ -1,0 +1,419 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/286989.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:02:26-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/286989-adquisiciones-textiles-confecciones-varias-1.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/286989-adquisiciones-textiles-confecciones-varias-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/286989-adquisiciones-textiles-confecciones-varias-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/286989-bimbolin-sociedad-responsabilidad-limitada-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:02:26-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "93L8rdZ8edhg3mM07iELNw%3D%3D",
+                "dUJ7hRM45NRg3mM07iELNw%3D%3D",
+                "GhMNbMijrRhg3mM07iELNw%3D%3D"
+              ],
+              "title": "Lote 1",
+              "id": "nYZlDIKXpLc%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "clarifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/L6hgih6%252FQhI%253D",
+              "title": "Aclaraciones",
+              "id": "L6hgih6%2FQhI%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/l2EEx0qEETI%253D",
+              "title": "Adenda",
+              "id": "l2EEx0qEETI%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/9iw3sOWNEqI%253D",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "id": "9iw3sOWNEqI%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/XbE9LzWDP%252BQ%253D",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios",
+              "id": "XbE9LzWDP%2BQ%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/mcA1Caeo360%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "mcA1Caeo360%3D"
+            }
+          ],
+          "title": "Adquisiciones de Textiles y Confecciones Varias",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/286989-adquisiciones-textiles-confecciones-varias-1",
+          "tenderPeriod": {
+            "endDate": "2015-12-14T08:45:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Ministerio de Salud Pública y Bienestar Social (MSPBS)",
+            "contactPoint": {
+              "email": "gonzalezgalvan@gmail.com",
+              "name": "Arnaldo Ruben Gonzalez Galvan",
+              "telephone": "453571"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2015-12-02T15:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "53102710-001"
+              },
+              "quantity": 314,
+              "description": "Uniforme para damas",
+              "id": "93L8rdZ8edhg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "53102710-002"
+              },
+              "quantity": 230.0,
+              "description": "Uniforme para caballeros",
+              "id": "dUJ7hRM45NRg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53111501-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "53111501-002"
+              },
+              "quantity": 310.0,
+              "description": "Bota de cuero ",
+              "id": "GhMNbMijrRhg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "286989-adquisiciones-textiles-confecciones-varias-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2015-12-02T15:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/286989-adquisiciones-textiles-confecciones-varias-1",
+          "budget": {
+            "description": "Adquisiciones de Textiles y Confecciones Varias",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 141440000.0,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-10-31T10:22:14-04:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "BIMBOLIN SOCIEDAD DE RESPONSABILIDAD LIMITADA ",
+                  "id": "80033428-0"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "TTE. ENCISO C/ LEOPARDI",
+                  "locality": "FERNANDO DE LA MORA",
+                  "countryName": "Paraguay",
+                  "region": "Central"
+                },
+                "name": "BIMBOLIN SOCIEDAD DE RESPONSABILIDAD LIMITADA ",
+                "contactPoint": {
+                  "email": "irissanchez370@hotmail.com",
+                  "faxNumber": "",
+                  "url": "",
+                  "name": "Iris Gumercinda Sanchez Roa",
+                  "telephone": "510032"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/286989-adquisiciones-textiles-confecciones-varias-1",
+            "title": "Adquisiciones de Textiles y Confecciones Varias",
+            "id": "286989-adquisiciones-textiles-confecciones-varias-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "BIMBOLIN SOCIEDAD DE RESPONSABILIDAD LIMITADA ",
+                "id": "80033428-0"
+              },
+              "name": "BIMBOLIN SOCIEDAD DE RESPONSABILIDAD LIMITADA ",
+              "identifiers": {
+                "key": "286989-bimbolin-sociedad-responsabilidad-limitada-1"
+              }
+            },
+            "dncpContractCode": "CO-12008-16-129095",
+            "lots": [
+              {
+                "items": [
+                  "ilAHvajDqFo%3D",
+                  "hT0LprMDpUE%3D"
+                ],
+                "title": "Lote 1",
+                "id": "nYZlDIKXpLc%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/HFORYbpz6pI%253D",
+                "title": "Acta de Apertura",
+                "id": "HFORYbpz6pI%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/w7Ip4XRaC74%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "w7Ip4XRaC74%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/NtSW%252Fc62Pp4%253D",
+                "title": "Informe de Evaluación",
+                "id": "NtSW%2Fc62Pp4%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/7tJ8CoWEt54%253D",
+                "title": "Informe de Evaluación",
+                "id": "7tJ8CoWEt54%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Nota de Aclaración",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/wjjMJb3zGpQ%253D",
+                "title": "Nota de Aclaración",
+                "id": "wjjMJb3zGpQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/SpMjJP7vvDE%253D",
+                "title": "Notificación al Oferente",
+                "id": "SpMjJP7vvDE%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PfToYDOayuY%253D",
+                "title": "Notificación al Oferente",
+                "id": "PfToYDOayuY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/0pXmUf3hBrQ%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "0pXmUf3hBrQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/d2RX9D%252Bt0Wc%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "d2RX9D%2Bt0Wc%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/3avUKiWBjOI%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "3avUKiWBjOI%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/286989-bimbolin-sociedad-responsabilidad-limitada-1",
+            "id": "286989-bimbolin-sociedad-responsabilidad-limitada-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 141440000.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "260000",
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-001",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "53102710-001"
+                },
+                "quantity": "314",
+                "description": "Uniforme para damas",
+                "id": "ilAHvajDqFo%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "260000",
+                    "currency": "PYG"
+                  },
+                  "name": "Unidad"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/53102710-002",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "53102710-002"
+                },
+                "quantity": "230",
+                "description": "Uniforme para caballeros",
+                "id": "hT0LprMDpUE%3D"
+              }
+            ],
+            "awardID": "286989-adquisiciones-textiles-confecciones-varias-1",
+            "title": "Adquisiciones de Textiles y Confecciones Varias",
+            "dateSigned": "2016-07-19T12:00:00-04:00"
+          }
+        ],
+        "buyer": {
+          "name": "Ministerio de Salud Pública y Bienestar Social (MSPBS)",
+          "contactPoint": {
+            "email": "gonzalezgalvan@gmail.com",
+            "name": "Arnaldo Ruben Gonzalez Galvan",
+            "telephone": "453571"
+          }
+        },
+        "ocid": "ocds-03ad3f-286989",
+        "id": "286989-adquisiciones-textiles-confecciones-varias-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/286989-adquisiciones-textiles-confecciones-varias-1.json",
+          "date": "2015-03-17T15:23:06-04:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/286989-adquisiciones-textiles-confecciones-varias-1.json",
+          "date": "2015-11-27T14:50:38-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/286989-adquisiciones-textiles-confecciones-varias-1.json",
+          "date": "2016-10-31T10:22:14-04:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/286989-bimbolin-sociedad-responsabilidad-limitada-1.json",
+          "date": "2016-07-19T12:00:00-04:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-286989"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

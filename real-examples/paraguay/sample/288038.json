@@ -1,0 +1,590 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/288038.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:03:00-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/288038-mantenimiento-lectoclasificadoras-codificadoras.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-2.json",
+    "https://www.contrataciones.gov.py/datos/id/award/288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/288038-computer-plus-s-a-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:03:00-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "UMsebb0kPDdg3mM07iELNw%3D%3D",
+                "oG6s0ZDwdR1g3mM07iELNw%3D%3D",
+                "AqYW6dlylehg3mM07iELNw%3D%3D",
+                "LcPznbJBGDZg3mM07iELNw%3D%3D",
+                "G%2FqgsONoPzdg3mM07iELNw%3D%3D",
+                "wRmgKS0OYypg3mM07iELNw%3D%3D",
+                "WASo989mdwhg3mM07iELNw%3D%3D"
+              ],
+              "title": "Mantenimiento de Lectoclasificadoras y Codificadoras para el BNF - Ad Referendum ",
+              "id": "rZKIJn02Xx4%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/GWXKKxNKLNw%253D",
+              "title": "Adenda",
+              "id": "GWXKKxNKLNw%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Naqg4WgeW0Q%253D",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+              "id": "Naqg4WgeW0Q%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/mskn3ssx%252Bxc%253D",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+              "id": "mskn3ssx%2Bxc%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Qxc2HjMmuUk%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "Qxc2HjMmuUk%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/aQkJs59RBr4%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "aQkJs59RBr4%3D"
+            }
+          ],
+          "title": "Mantenimiento de Lectoclasificadoras y Codificadoras para el BNF - Ad Referendum ",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-2",
+          "tenderPeriod": {
+            "endDate": null,
+            "startDate": "2016-04-01T08:00:00-04:00"
+          },
+          "procuringEntity": {
+            "name": "Banco Nacional de Fomento  (BNF)",
+            "contactPoint": {
+              "email": "uoc@bnf.gov.py",
+              "name": "RUBÉN CENTURIÓN MENDEZ",
+              "telephone": "4191578 "
+            }
+          },
+          "submissionMethod": [
+            "electronicAuction"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2016-03-14T13:00:00-04:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81141804-019"
+              },
+              "quantity": 12,
+              "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+              "id": "UMsebb0kPDdg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81141804-019"
+              },
+              "quantity": 12,
+              "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+              "id": "oG6s0ZDwdR1g3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81141804-019"
+              },
+              "quantity": 12,
+              "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+              "id": "AqYW6dlylehg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81141804-019"
+              },
+              "quantity": 12,
+              "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+              "id": "LcPznbJBGDZg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81141804-019"
+              },
+              "quantity": 12,
+              "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+              "id": "G%2FqgsONoPzdg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81141804-019"
+              },
+              "quantity": 12,
+              "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+              "id": "wRmgKS0OYypg3mM07iELNw%3D%3D"
+            },
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "81141804-019"
+              },
+              "quantity": 12,
+              "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+              "id": "WASo989mdwhg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-2",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": "2016-04-04T09:15:58-04:00",
+            "startDate": "2016-03-14T13:00:00-04:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/288038-mantenimiento-lectoclasificadoras-codificadoras",
+          "budget": {
+            "description": "Mantenimiento de Lectoclasificadoras y Codificadoras ",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 220668000.0,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-09-02T09:24:43-04:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "COMPUTER PLUS S.A.",
+                  "id": "80017504-2"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "AVDA.GRAL.SANTOS NÂº 225",
+                  "locality": "ASUNCION",
+                  "countryName": "Paraguay",
+                  "region": "Asunción"
+                },
+                "name": "COMPUTER PLUS S.A.",
+                "contactPoint": {
+                  "email": "administracion@cplus.com.py",
+                  "faxNumber": "",
+                  "url": "",
+                  "name": "JOSE MIGUEL TOÑANEZ ALMADA",
+                  "telephone": "211474"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-1",
+            "title": "Mantenimiento de Lectoclasificadoras y Codificadoras para el BNF - Ad Referendum ",
+            "id": "288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "COMPUTER PLUS S.A.",
+                "id": "80017504-2"
+              },
+              "name": "COMPUTER PLUS S.A.",
+              "identifiers": {
+                "key": "288038-computer-plus-s-a-1"
+              }
+            },
+            "dncpContractCode": "CO-27001-16-126847",
+            "lots": [
+              {
+                "items": [
+                  "xUFEo0pPWH8%3D",
+                  "wqIOXzMLc8o%3D",
+                  "%2BS7WnOOxW3s%3D",
+                  "ykAL75%2FkAKA%3D",
+                  "umii%2FIDSEIY%3D",
+                  "3hpr2RPXjkY%3D",
+                  "0MPD7oJ9B5k%3D"
+                ],
+                "title": "Mantenimiento de Lectoclasificadoras y Codificadoras para el BNF - Ad Referendum ",
+                "id": "wrkRHcSK3lI%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/IwrbiVVagu4%253D",
+                "title": "Acta de Apertura",
+                "id": "IwrbiVVagu4%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/t0tfxxxsmXo%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "t0tfxxxsmXo%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ya2Qn%252FLt124%253D",
+                "title": "Informe de Evaluación",
+                "id": "ya2Qn%2FLt124%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/UzTnpf7gjDw%253D",
+                "title": "Informe de Evaluación",
+                "id": "UzTnpf7gjDw%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Nota de Aclaración",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/HpjRzDRnABA%253D",
+                "title": "Nota de Aclaración",
+                "id": "HpjRzDRnABA%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/3tQVwyDpWt0%253D",
+                "title": "Notificación al Oferente",
+                "id": "3tQVwyDpWt0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/9E2BHj3hArc%253D",
+                "title": "Notificación al Oferente",
+                "id": "9E2BHj3hArc%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/zQIP27DNzuI%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "zQIP27DNzuI%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/uxa9JTh9bTY%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "uxa9JTh9bTY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/C%252FqltqUwjEo%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "C%2FqltqUwjEo%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/288038-computer-plus-s-a-1",
+            "id": "288038-computer-plus-s-a-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 220668000.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81141804-019"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+                "id": "xUFEo0pPWH8%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81141804-019"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+                "id": "wqIOXzMLc8o%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81141804-019"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+                "id": "%2BS7WnOOxW3s%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81141804-019"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+                "id": "ykAL75%2FkAKA%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81141804-019"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+                "id": "umii%2FIDSEIY%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81141804-019"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+                "id": "3hpr2RPXjkY%3D"
+              },
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/81141804-019",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "81141804-019"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Mantenimiento y reparacion de equipos de tesoreria y financiera",
+                "id": "0MPD7oJ9B5k%3D"
+              }
+            ],
+            "awardID": "288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-1",
+            "title": "Mantenimiento de Lectoclasificadoras y Codificadoras para el BNF - Ad Referendum ",
+            "dateSigned": "2016-05-29T12:00:00-04:00"
+          }
+        ],
+        "buyer": {
+          "name": "Banco Nacional de Fomento  (BNF)",
+          "contactPoint": {
+            "email": "uoc@bnf.gov.py",
+            "name": "RUBÉN CENTURIÓN MENDEZ",
+            "telephone": "4191578 "
+          }
+        },
+        "ocid": "ocds-03ad3f-288038",
+        "id": "288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-2",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/288038-mantenimiento-lectoclasificadoras-codificadoras.json",
+          "date": "2015-02-20T09:28:56-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-2.json",
+          "date": "2016-03-08T07:41:13-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/288038-mantenimiento-lectoclasificadoras-codificadoras-bnf-ad-referendum-1.json",
+          "date": "2016-09-02T09:24:43-04:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/288038-computer-plus-s-a-1.json",
+          "date": "2016-05-29T12:00:00-04:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-288038"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
