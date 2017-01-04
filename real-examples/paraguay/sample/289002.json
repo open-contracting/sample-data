@@ -1,0 +1,594 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/289002.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:03:37-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/289002-cambio-seccion-alimentador-mes-02-construccion-nuevo-alimentador-mes-03-ad.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289002-dario-ramon-brun-vera-3.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/289002-empresa-servicios-tecnicos-s-a-2.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:03:37-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "8yQSxwLK2r9g3mM07iELNw%3D%3D"
+              ],
+              "title": "Lote 1",
+              "id": "Ba9bIoj1Zd8%3D"
+            },
+            {
+              "items": [],
+              "title": "Lote 2",
+              "id": "jvO7iAGH4DM%3D"
+            },
+            {
+              "items": [],
+              "title": "Lote 3",
+              "id": "q6TZwkiiZ%2BY%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "clarifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/qZRQny1Nemc%253D",
+              "title": "Aclaraciones",
+              "id": "qZRQny1Nemc%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "clarifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/cYQef5fcwT8%253D",
+              "title": "Aclaraciones",
+              "id": "cYQef5fcwT8%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Obras",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/HzqQpDhsL8g%253D",
+              "title": "Condiciones Generales del Contrato - Obras",
+              "id": "HzqQpDhsL8g%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "technicalSpecifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/oS55mzXh6OA%253D",
+              "title": "Especificaciones técnicas",
+              "id": "oS55mzXh6OA%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "technicalSpecifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/U42QE9KFVvQ%253D",
+              "title": "Especificaciones técnicas",
+              "id": "U42QE9KFVvQ%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "technicalSpecifications",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/tJXgMHx7pdg%253D",
+              "title": "Especificaciones técnicas",
+              "id": "tJXgMHx7pdg%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Obras",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/u7MT7NE0780%253D",
+              "title": "Instrucción a los Oferentes - Obras",
+              "id": "u7MT7NE0780%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Nota de Observacion",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/paap%252FlwgBRQ%253D",
+              "title": "Nota de Observacion",
+              "id": "paap%2FlwgBRQ%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "Plano de obra o cómputos métricos",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/rPSTJVz3ehY%253D",
+              "title": "Plano de obra o cómputos métricos",
+              "id": "rPSTJVz3ehY%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/d2sdq%252Bi5LKY%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "d2sdq%2Bi5LKY%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "biddingDocuments",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/cCl6bssDLCM%253D",
+              "title": "Pliego de bases y Condiciones",
+              "id": "cCl6bssDLCM%3D"
+            }
+          ],
+          "title": "Lp1172-15. Adecuación de Línea de MT y BT y Montaje de PD para Asentamientos de los Distritos de los Dptos. de Canindeyú, Pte. Hayes y Paraguarí - Ad Referéndum",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1",
+          "tenderPeriod": {
+            "endDate": "2015-12-07T09:00:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Administración Nacional de Electricidad (ANDE)",
+            "contactPoint": {
+              "email": "arnaldo_paiva@ande.gov.py",
+              "name": "Ing Arnaldo Paiva Torres",
+              "telephone": "2172948"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2015-11-30T15:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Unidad"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72102201-010",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "72102201-010"
+              },
+              "quantity": 1,
+              "description": "Ampliacion de red electrica",
+              "id": "8yQSxwLK2r9g3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2015-11-30T15:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/289002-cambio-seccion-alimentador-mes-02-construccion-nuevo-alimentador-mes-03-ad",
+          "budget": {
+            "description": "Ampliación de Línea de MT y BT y Montaje de PD para Asentamientos de los Distritos de Curuguaty, Ybypytá, Villa Ygatimí, Corpus Christi, Villa Hayes y Escobar, Dptos. de Canindeyú, Pte. Hayes y Paraguarí ",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 2921887028,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-04-04T07:47:23-04:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "DARIO RAMON BRUN VERA",
+                  "id": "567162-0"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "ruta transchaco km 23.5",
+                  "locality": "Remansito - Villa hayes",
+                  "countryName": "Paraguay",
+                  "region": "Presidente Hayes"
+                },
+                "name": "DARIO RAMON BRUN VERA",
+                "contactPoint": {
+                  "email": "tecmag@hotmail.com",
+                  "faxNumber": "",
+                  "url": "",
+                  "name": "DARIO RAMÃ?N BRUN VERA",
+                  "telephone": "390400"
+                }
+              },
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "EMPRESA DE SERVICIOS TECNICOS S A",
+                  "id": "80022477-9"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "SAMAKLAY Nº 1128 C/ ZAVALA CUÉ.",
+                  "locality": "FERNANDO DE LA MORA.",
+                  "countryName": "Paraguay",
+                  "region": "Central"
+                },
+                "name": "EMPRESA DE SERVICIOS TECNICOS S A",
+                "contactPoint": {
+                  "email": "estesa_1994@hotmail.com",
+                  "faxNumber": "",
+                  "url": "",
+                  "name": "PABLO JOVINO BENÍTEZ PAREDES.",
+                  "telephone": "021 526 543"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1",
+            "title": "Lp1172-15. Adecuación de Línea de MT y BT y Montaje de PD para Asentamientos de los Distritos de los Dptos. de Canindeyú, Pte. Hayes y Paraguarí - Ad Referéndum",
+            "id": "289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "DARIO RAMON BRUN VERA",
+                "id": "567162-0"
+              },
+              "name": "DARIO RAMON BRUN VERA",
+              "identifiers": {
+                "key": "289002-dario-ramon-brun-vera-3"
+              }
+            },
+            "dncpContractCode": "LP-25002-16-120927",
+            "lots": [
+              {
+                "items": [
+                  "2po8AJpbYzE%3D"
+                ],
+                "title": "Lote 3",
+                "id": "4PNqKtJd4hI%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/k7RCihe06jY%253D",
+                "title": "Acta de Apertura",
+                "id": "k7RCihe06jY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/qoY81%252BVyZzI%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "qoY81%2BVyZzI%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fc1zc%252B2aZo0%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "fc1zc%2B2aZo0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/upPWFUBWzRc%253D",
+                "title": "Informe de Evaluación",
+                "id": "upPWFUBWzRc%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/okP%252BPovYh1s%253D",
+                "title": "Informe de Evaluación",
+                "id": "okP%2BPovYh1s%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/msjeQICQ5cY%253D",
+                "title": "Informe de Evaluación",
+                "id": "msjeQICQ5cY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Nota de Aclaración",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/Zu7aj6RIe0Y%253D",
+                "title": "Nota de Aclaración",
+                "id": "Zu7aj6RIe0Y%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/L%252BeT7sshu1E%253D",
+                "title": "Notificación al Oferente",
+                "id": "L%2BeT7sshu1E%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/4C1GaWZ%252FftE%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "4C1GaWZ%2FftE%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/Crv%252FB0Nd%252Bsc%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "Crv%2FB0Nd%2Bsc%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289002-dario-ramon-brun-vera-3",
+            "id": "289002-dario-ramon-brun-vera-3",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 449388948,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72102201-010",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "72102201-010"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Ampliacion de red electrica",
+                "id": "2po8AJpbYzE%3D"
+              }
+            ],
+            "awardID": "289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1",
+            "title": "Lp1172-15. Adecuación de Línea de MT y BT y Montaje de PD para Asentamientos de los Distritos de los Dptos. de Canindeyú, Pte. Hayes y Paraguarí - Ad Referéndum",
+            "dateSigned": "2016-04-22T12:00:00-04:00"
+          },
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "EMPRESA DE SERVICIOS TECNICOS S A",
+                "id": "80022477-9"
+              },
+              "name": "EMPRESA DE SERVICIOS TECNICOS S A",
+              "identifiers": {
+                "key": "289002-empresa-servicios-tecnicos-s-a-2"
+              }
+            },
+            "dncpContractCode": "LP-25002-16-120929",
+            "lots": [
+              {
+                "items": [
+                  "A1%2FPwdpFQAc%3D"
+                ],
+                "title": "Lote 1",
+                "id": "tj0Y7CG%2FDss%3D"
+              },
+              {
+                "items": [],
+                "title": "Lote 2",
+                "id": "wmA63d0%2Fuwo%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/k7RCihe06jY%253D",
+                "title": "Acta de Apertura",
+                "id": "k7RCihe06jY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/qoY81%252BVyZzI%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "qoY81%2BVyZzI%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fc1zc%252B2aZo0%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "fc1zc%2B2aZo0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/upPWFUBWzRc%253D",
+                "title": "Informe de Evaluación",
+                "id": "upPWFUBWzRc%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/okP%252BPovYh1s%253D",
+                "title": "Informe de Evaluación",
+                "id": "okP%2BPovYh1s%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/msjeQICQ5cY%253D",
+                "title": "Informe de Evaluación",
+                "id": "msjeQICQ5cY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Nota de Aclaración",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/V%252BH2SkVykHk%253D",
+                "title": "Nota de Aclaración",
+                "id": "V%2BH2SkVykHk%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/L%252BeT7sshu1E%253D",
+                "title": "Notificación al Oferente",
+                "id": "L%2BeT7sshu1E%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/VzwBM6%252BP9so%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "VzwBM6%2BP9so%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/Crv%252FB0Nd%252Bsc%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "Crv%2FB0Nd%2Bsc%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/289002-empresa-servicios-tecnicos-s-a-2",
+            "id": "289002-empresa-servicios-tecnicos-s-a-2",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 2472498080.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72102201-010",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "72102201-010"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Ampliacion de red electrica",
+                "id": "A1%2FPwdpFQAc%3D"
+              }
+            ],
+            "awardID": "289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1",
+            "title": "Lp1172-15. Adecuación de Línea de MT y BT y Montaje de PD para Asentamientos de los Distritos de los Dptos. de Canindeyú, Pte. Hayes y Paraguarí - Ad Referéndum",
+            "dateSigned": "2016-04-12T12:00:00-04:00"
+          }
+        ],
+        "buyer": {
+          "name": "Administración Nacional de Electricidad (ANDE)",
+          "contactPoint": {
+            "email": "arnaldo_paiva@ande.gov.py",
+            "name": "Ing Arnaldo Paiva Torres",
+            "telephone": "2172948"
+          }
+        },
+        "ocid": "ocds-03ad3f-289002",
+        "id": "289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/289002-cambio-seccion-alimentador-mes-02-construccion-nuevo-alimentador-mes-03-ad.json",
+          "date": "2015-02-21T12:18:14-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1.json",
+          "date": "2015-11-05T18:19:35-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/289002-lp1172-15-adecuacion-linea-mt-bt-montaje-pd-asentamientos-distritos-dptos-canindeyu-1.json",
+          "date": "2016-04-04T07:47:23-04:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289002-dario-ramon-brun-vera-3.json",
+          "date": "2016-04-22T12:00:00-04:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/289002-empresa-servicios-tecnicos-s-a-2.json",
+          "date": "2016-04-12T12:00:00-04:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-289002"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

@@ -1,0 +1,378 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/288280.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:03:30-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-gana.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/288280-tecsel-srl-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {
+        "tag": [
+          "compiled"
+        ],
+        "date": "2017-01-04T11:03:30-05:00",
+        "language": "es",
+        "tender": {
+          "status": "complete",
+          "lots": [
+            {
+              "items": [
+                "elax3O%2FCswlg3mM07iELNw%3D%3D"
+              ],
+              "title": "SERVICIO DE MONITOREO DE ALARMA PARA LA OFICINA REGIONAL DE PEDRO JUAN CABALLERO DEL FONDO GANADERO - AD REFERENDUM",
+              "id": "L98lWDsO7a0%3D"
+            }
+          ],
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Acta de Prórroga",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/1Y1tCvBSZf8%253D",
+              "title": "Acta de Prórroga",
+              "id": "1Y1tCvBSZf8%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Adenda",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/gcUnKoeOabg%253D",
+              "title": "Adenda",
+              "id": "gcUnKoeOabg%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/zip",
+              "documentType": "Carta de Invitación",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/ZjHu1Lj4dmM%253D",
+              "title": "Carta de Invitación",
+              "id": "ZjHu1Lj4dmM%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/r1AC75aQp5g%253D",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "id": "r1AC75aQp5g%3D"
+            },
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/sSWfb8dNhXo%253D",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios",
+              "id": "sSWfb8dNhXo%3D"
+            }
+          ],
+          "title": "SERVICIO DE MONITOREO DE ALARMA PARA LA OFICINA REGIONAL DE PEDRO JUAN CABALLERO DEL FONDO GANADERO - AD REFERENDUM",
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1",
+          "tenderPeriod": {
+            "endDate": "2016-01-11T10:00:00-05:00",
+            "startDate": null
+          },
+          "procuringEntity": {
+            "name": "Fondo Ganadero",
+            "contactPoint": {
+              "email": "mcasco@fondogan.gov.py",
+              "name": "Lic. MARIA CASCO LICHI",
+              "telephone": "227-288"
+            }
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "value": {
+            "amount": null,
+            "currency": "PYG"
+          },
+          "enquiryPeriod": {
+            "endDate": "2016-01-08T09:00:00-05:00"
+          },
+          "items": [
+            {
+              "unit": {
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                },
+                "name": "Mes"
+              },
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/92121701-9998",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "id": "92121701-9998"
+              },
+              "quantity": 12,
+              "description": "Servicio de monitoreo de alarmas",
+              "id": "elax3O%2FCswlg3mM07iELNw%3D%3D"
+            }
+          ],
+          "id": "288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1",
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "endDate": null,
+            "startDate": "2016-01-08T09:00:00-05:00"
+          }
+        },
+        "planning": {
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-gana",
+          "budget": {
+            "description": "SERVICIO DE MONITOREO DE ALARMA PARA LA OFICINA REGIONAL DE PEDRO JUAN CABALLERO DEL FONDO GANADERO - AD REFERENDUM",
+            "amount": {
+              "amount": null,
+              "currency": "PYG"
+            }
+          }
+        },
+        "awards": [
+          {
+            "value": {
+              "amount": 2640000.0,
+              "currency": "PYG"
+            },
+            "status": "active",
+            "date": "2016-02-24T10:02:28-05:00",
+            "suppliers": [
+              {
+                "identifier": {
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "legalName": "TECSEL SRL ",
+                  "id": "80023375-1"
+                },
+                "address": {
+                  "postalCode": "",
+                  "streetAddress": "MCAL. LOPEZ C/ITURBE 1760",
+                  "locality": "PEDRO JUAN CABALLERO",
+                  "countryName": "Paraguay",
+                  "region": "Amambay"
+                },
+                "name": "TECSEL SRL ",
+                "contactPoint": {
+                  "email": "tecselseguridad@hotmail.com",
+                  "faxNumber": "",
+                  "url": "",
+                  "name": "PEDRO GORGONIO MORA ",
+                  "telephone": "271617"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1",
+            "title": "SERVICIO DE MONITOREO DE ALARMA PARA LA OFICINA REGIONAL DE PEDRO JUAN CABALLERO DEL FONDO GANADERO - AD REFERENDUM",
+            "id": "288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1"
+          }
+        ],
+        "contract": [
+          {
+            "status": "active",
+            "suppliers": {
+              "identifier": {
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "legalName": "TECSEL SRL ",
+                "id": "80023375-1"
+              },
+              "name": "TECSEL SRL ",
+              "identifiers": {
+                "key": "288280-tecsel-srl-1"
+              }
+            },
+            "dncpContractCode": "CD-27004-16-119029",
+            "lots": [
+              {
+                "items": [
+                  "Mvs7vlwmcqY%3D"
+                ],
+                "title": "SERVICIO DE MONITOREO DE ALARMA PARA LA OFICINA REGIONAL DE PEDRO JUAN CABALLERO DEL FONDO GANADERO - AD REFERENDUM",
+                "id": "FaaulDVp1l4%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/RaPZUgp0tvU%253D",
+                "title": "Acta de Apertura",
+                "id": "RaPZUgp0tvU%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/MGYSQNLABF0%253D",
+                "title": "Cuadro Comparativo de Ofertas",
+                "id": "MGYSQNLABF0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Dictamen de Rescisión",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/N1b2kUS9E8Q%253D",
+                "title": "Dictamen de Rescisión",
+                "id": "N1b2kUS9E8Q%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Documento Notificación",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/XrhYfd1fxXk%253D",
+                "title": "Documento Notificación",
+                "id": "XrhYfd1fxXk%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Documento Notificación",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/v98dQK%252FuRrc%253D",
+                "title": "Documento Notificación",
+                "id": "v98dQK%2FuRrc%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/dVQdLBAZpxo%253D",
+                "title": "Informe de Evaluación",
+                "id": "dVQdLBAZpxo%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Nota de Retención",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vbOWMX%252By49A%253D",
+                "title": "Nota de Retención",
+                "id": "vbOWMX%2By49A%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Notificación al Oferente",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/7QbYg1GjrRQ%253D",
+                "title": "Notificación al Oferente",
+                "id": "7QbYg1GjrRQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Orden de Compra o Contrato",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/JUME%252FToQYVo%253D",
+                "title": "Orden de Compra o Contrato",
+                "id": "JUME%2FToQYVo%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Poliza / Garantia",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/VOe%252BeLrWhKg%253D",
+                "title": "Poliza / Garantia",
+                "id": "VOe%2BeLrWhKg%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "awardNotice",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/8XKi2y2dafA%253D",
+                "title": "Resolución de Adjudicación",
+                "id": "8XKi2y2dafA%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "contractArrangements",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/xt0UXu7aiks%253D",
+                "title": "Resolución Rescisión",
+                "id": "xt0UXu7aiks%3D"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/288280-tecsel-srl-1",
+            "id": "288280-tecsel-srl-1",
+            "period": {
+              "endDate": "",
+              "startDate": ""
+            },
+            "value": {
+              "amount": 2200000.0,
+              "currency": "PYG"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": "_NO_APLICA_",
+                    "currency": "PYG"
+                  },
+                  "name": "_NO_APLICA_"
+                },
+                "classification": {
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/92121701-9998",
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "92121701-9998"
+                },
+                "quantity": "_NO_APLICA_",
+                "description": "Servicio de monitoreo de alarmas",
+                "id": "Mvs7vlwmcqY%3D"
+              }
+            ],
+            "awardID": "288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1",
+            "title": "SERVICIO DE MONITOREO DE ALARMA PARA LA OFICINA REGIONAL DE PEDRO JUAN CABALLERO DEL FONDO GANADERO - AD REFERENDUM",
+            "dateSigned": "2016-02-10T12:00:00-05:00"
+          }
+        ],
+        "buyer": {
+          "name": "Fondo Ganadero",
+          "contactPoint": {
+            "email": "mcasco@fondogan.gov.py",
+            "name": "Lic. MARIA CASCO LICHI",
+            "telephone": "227-288"
+          }
+        },
+        "ocid": "ocds-03ad3f-288280",
+        "id": "288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1",
+        "initiationType": "tender"
+      },
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-gana.json",
+          "date": "2015-12-14T11:02:40-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1.json",
+          "date": "2015-12-29T14:30:04-05:00"
+        },
+        {
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/288280-servicio-monitoreo-alarma-oficina-regional-pedro-juan-caballero-fondo-ganadero-ad-re-1.json",
+          "date": "2016-02-24T10:02:28-05:00"
+        },
+        {
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/288280-tecsel-srl-1.json",
+          "date": "2016-02-10T12:00:00-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-288280"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

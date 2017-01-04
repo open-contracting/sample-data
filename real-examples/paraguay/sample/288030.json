@@ -1,0 +1,253 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/288030.json",
+  "publisher": {
+    "uri": "https://contrataciones.gov.py/datos",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "name": "DNCP - Paraguay"
+  },
+  "publishedDate": "2017-01-04T11:02:57-05:00",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/288030-locacion-cajas-seguridad.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/288030-locacion-cajas-seguridad-1.json"
+  ],
+  "records": [
+    {
+      "compiledRelease": {},
+      "releases": [
+        {
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/288030-locacion-cajas-seguridad.json",
+          "date": "2015-02-20T09:45:12-05:00"
+        },
+        {
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/288030-locacion-cajas-seguridad-1.json",
+          "date": "2015-11-30T17:32:58-05:00"
+        }
+      ],
+      "ocid": "ocds-03ad3f-288030",
+      "versionedRelease": [
+        {
+          "tag": [
+            "compiled"
+          ],
+          "date": "2017-01-04T11:02:57-05:00",
+          "language": "es",
+          "tender": {
+            "status": "unsuccessful",
+            "lots": [
+              {
+                "items": [
+                  "IJzcl1TmmtJg3mM07iELNw%3D%3D"
+                ],
+                "title": "Locación de Cajas de Seguridad",
+                "id": "bw9UpvRMfZw%3D"
+              }
+            ],
+            "documents": [
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "clarifications",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/jiXhT1E3kv8%253D",
+                "title": "Aclaraciones",
+                "id": "jiXhT1E3kv8%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/zip",
+                "documentType": "clarifications",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/qhbamv7rDAs%253D",
+                "title": "Aclaraciones",
+                "id": "qhbamv7rDAs%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Apertura",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/YrjkbvwxRMQ%253D",
+                "title": "Acta de Apertura",
+                "id": "YrjkbvwxRMQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Acta de Prórroga",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/C6EzTycGHdE%253D",
+                "title": "Acta de Prórroga",
+                "id": "C6EzTycGHdE%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Adenda",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/YYCs4g36khw%253D",
+                "title": "Adenda",
+                "id": "YYCs4g36khw%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Adenda",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/e2HSH5ued4Y%253D",
+                "title": "Adenda",
+                "id": "e2HSH5ued4Y%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Adenda",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/s91Hb05gUl0%253D",
+                "title": "Adenda",
+                "id": "s91Hb05gUl0%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Adenda",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/O3gqzUyMIfk%253D",
+                "title": "Adenda",
+                "id": "O3gqzUyMIfk%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Carta de Invitación",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/jYGJFjlK9%252BY%253D",
+                "title": "Carta de Invitación",
+                "id": "jYGJFjlK9%2BY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/PQVQWYaaTVY%253D",
+                "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+                "id": "PQVQWYaaTVY%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "evaluationReports",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/teTVOxLu7AQ%253D",
+                "title": "Informe de Evaluación",
+                "id": "teTVOxLu7AQ%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/DNL4ixRGQFY%253D",
+                "title": "Instrucción a los Oferentes - Bienes y Servicios",
+                "id": "DNL4ixRGQFY%3D"
+              },
+              {
+                "language": "es",
+                "format": "text/plain",
+                "documentType": "Nota de Observacion",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/WE927wXAgNw%253D",
+                "title": "Nota de Observacion",
+                "id": "WE927wXAgNw%3D"
+              },
+              {
+                "language": "es",
+                "format": "text/plain",
+                "documentType": "Nota de Observacion",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/nlvZOoygNSg%253D",
+                "title": "Nota de Observacion",
+                "id": "nlvZOoygNSg%3D"
+              },
+              {
+                "language": "es",
+                "format": "application/pdf",
+                "documentType": "Resolución Declaración Desierta",
+                "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/SE2GTIxSDO0%253D",
+                "title": "Resolución Declaración Desierta",
+                "id": "SE2GTIxSDO0%3D"
+              }
+            ],
+            "title": "Locación de Cajas de Seguridad",
+            "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/288030-locacion-cajas-seguridad-1",
+            "tenderPeriod": {
+              "endDate": "2016-03-10T10:50:00-05:00",
+              "startDate": null
+            },
+            "procuringEntity": {
+              "name": "Banco Nacional de Fomento  (BNF)",
+              "contactPoint": {
+                "email": "uoc@bnf.gov.py",
+                "name": "RUBÉN CENTURIÓN MENDEZ",
+                "telephone": "4191578 "
+              }
+            },
+            "submissionMethod": [
+              "written"
+            ],
+            "value": {
+              "amount": null,
+              "currency": "PYG"
+            },
+            "enquiryPeriod": {
+              "endDate": "2016-02-24T12:00:00-05:00"
+            },
+            "items": [
+              {
+                "unit": {
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  },
+                  "name": "Año"
+                },
+                "classification": {
+                  "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/80161504-007",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "id": "80161504-007"
+                },
+                "quantity": 2,
+                "description": "Alquiler de boveda de seguridad",
+                "id": "IJzcl1TmmtJg3mM07iELNw%3D%3D"
+              }
+            ],
+            "id": "288030-locacion-cajas-seguridad-1",
+            "hasEnquiries": false,
+            "awardPeriod": {
+              "endDate": null,
+              "startDate": "2016-02-24T12:00:00-05:00"
+            }
+          },
+          "planning": {
+            "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/288030-locacion-cajas-seguridad",
+            "budget": {
+              "description": "Locación de Cajas de Seguridad",
+              "amount": {
+                "amount": null,
+                "currency": "PYG"
+              }
+            }
+          },
+          "awards": [],
+          "contract": [],
+          "buyer": {
+            "name": "Banco Nacional de Fomento  (BNF)",
+            "contactPoint": {
+              "email": "uoc@bnf.gov.py",
+              "name": "RUBÉN CENTURIÓN MENDEZ",
+              "telephone": "4191578 "
+            }
+          },
+          "ocid": "ocds-03ad3f-288030",
+          "id": "288030-locacion-cajas-seguridad-1",
+          "initiationType": "tender"
+        }
+      ]
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
