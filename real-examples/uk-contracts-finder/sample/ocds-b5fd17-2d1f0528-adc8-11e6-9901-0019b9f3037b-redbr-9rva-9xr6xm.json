@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "London Borough of Redbridge", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Eddie Cross", 
+          "email": "eddie.cross@redbridge.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "London Borough of Redbridge", 
+        "address": {
+          "postalCode": "IG27QZ", 
+          "countryName": "GB", 
+          "streetAddress": "Redbridge Transport, ILFORD, IG27QZ, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d1f0528-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " 2 x Vans\n3 x 4x4 pickups\n2 x Caged 4.7t tippers\n", 
+        "title": " Vehicles for Grounds Maintenance Services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "34000000", 
+              "uri": "http://cpv.data.ac.uk/code-34000000.html", 
+              "description": "Transport equipment and auxiliary products to transportation"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 9916
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d1f0528-adc8-11e6-9901-0019b9f3037b-redbr-9rva-9xr6xm", 
+        "tenderPeriod": {
+          "startDate": "2014-12-24T00:00:00Z", 
+          "endDate": "2015-02-28T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:13Z", 
+      "id": "ocds-b5fd17-2d1f0528-adc8-11e6-9901-0019b9f3037b-redbr-9rva-9xr6xm"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:13Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/c85922da-3e36-4d34-af94-8ca22e77f7e0.json"
+}

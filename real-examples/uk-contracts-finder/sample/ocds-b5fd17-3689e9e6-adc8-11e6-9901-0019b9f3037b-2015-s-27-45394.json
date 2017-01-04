@@ -1,0 +1,137 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Westcountry Housing Association", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Chris Davey", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Westcountry Housing Association", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-3689e9e6-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'To develop and introduce a unified communication system across all of our offices and project bases: Westward is seeking to develop alternative methods of communications with its partners, stakeholders, customers and staff. This project will replace the existing telephony system with a comprehensive contact centre service, including the capacity for Westward to provide a 24/7 service. Your solution will need to have the capacity to integrate with all back office software primarily Capita Open Housing but also including Microsoft office products (this is not an exhaustive list of software used by Westward). Your solution must support flexible staff working including mobile working, multi location, hot-desking and options on home-working. Your proposed system will help minimise call fall-outs, providing a flexibility to meet the changing demands of customers to offer improved customer experience.'", 
+        "title": "United Kingdom-Newton Abbot: Radio, television, communication, telecommunication and related equipment", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "64000000", 
+              "uri": "http://cpv.data.ac.uk/code-64000000.html", 
+              "description": "Postal and telecommunications services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "32000000", 
+              "uri": "http://cpv.data.ac.uk/code-32000000.html", 
+              "description": "Radio, television, communication, telecommunication and related equipment"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72000000", 
+              "uri": "http://cpv.data.ac.uk/code-72000000.html", 
+              "description": "IT services: consulting, software development, Internet and support"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 4, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "48000000", 
+              "uri": "http://cpv.data.ac.uk/code-48000000.html", 
+              "description": "Software package and information systems"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 200000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-3689e9e6-adc8-11e6-9901-0019b9f3037b-2015/s-27-45394", 
+        "tenderPeriod": {
+          "startDate": "2015-11-20T00:00:00Z", 
+          "endDate": "2018-11-20T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:02Z", 
+      "id": "ocds-b5fd17-3689e9e6-adc8-11e6-9901-0019b9f3037b-2015-s-27-45394"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:02Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/ed3f62a5-0f9a-4454-bda9-e324b0c43a10.json"
+}

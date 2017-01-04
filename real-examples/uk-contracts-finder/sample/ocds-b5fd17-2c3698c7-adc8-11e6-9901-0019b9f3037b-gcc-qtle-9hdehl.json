@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Graham Dunn", 
+          "email": "grahamdunn@gateshead.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c3698c7-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "active", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Gateshead Council hasimplemented a Standing List of Contractors and Sub-contractors for the purposes of the public works contracts to cover all works\n activity set out in the CDM Regulation 2007 valued at less than the EU threshold \n\n\n\nOrganisations wishing to be invited to tender for all future construction work opportunities under the EU threshold with Gateshead Council and The Gateshead Housing Company must be included on their Standing List of Contractors and Sub-contractors. \n\n\n\nTo be included on the list, Organisations MUST be registered within all relevant Work Categories on Constructionline. \n\n\n\nOrganisations MUST also be Safety Schemes in Procurement (SSIP) registered either on application for inclusion on the list or at the latest within 6 months of the date of inclusion on the list.\n", 
+        "title": " STANDING LIST OF CONSTRUCTION CONTRACTORS AND SUB-CONTRACTORS", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72000000", 
+              "uri": "http://cpv.data.ac.uk/code-72000000.html", 
+              "description": "IT services: consulting, software development, Internet and support"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 283630
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c3698c7-adc8-11e6-9901-0019b9f3037b-gcc-qtle-9hdehl", 
+        "tenderPeriod": {
+          "startDate": "2014-04-01T00:00:00Z", 
+          "endDate": "2020-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:44:57Z", 
+      "id": "ocds-b5fd17-2c3698c7-adc8-11e6-9901-0019b9f3037b-gcc-qtle-9hdehl"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:44:57Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/30fadbf7-3352-4ffc-b9e8-ca17e6ba5abd.json"
+}

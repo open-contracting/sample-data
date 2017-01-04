@@ -1,0 +1,127 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Kent County Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Ola Yerokun", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Kent County Council", 
+        "address": {
+          "postalCode": "ME141XQ", 
+          "countryName": "GB", 
+          "streetAddress": "Sessions House, County Road, MAIDSTONE, ME141XQ, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36945221-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Kent County Council, in partnership with NHS Commissioning Groups in Kent, is seeking to establish a more singular Integrated Community Equipment Service (please note this does not include the Medway Council and Medway Clinical Commissioning Group area). The Integrated Community Equipment Service will: Procure, store, deliver, demonstrate, install, de-install, maintain, refurbish, collect and recycle equipment for daily living, medical loan equipment, rehabilitation, mobility and specialist equipment. The service is available for citizens of Kent, of all ages, with health needs, physical and sensory impairments. The Integrated Community Equipment Service plays a crucial role in helping the most vulnerable people in Kent remain in their own home. Through the provision of equipment, people are enabled to carry out everyday activities, maximise their independence, or to be supported to be cared for at home. Equipment can reduce the likelihood of hospital admission and can assist in timely discharge from hospital. Children and young people are given the best opportunity to be as independent as possible, including accessing the curriculum in education, and their parents/carers supported to care for them. The effect of this is to increase the opportunity to be educated in a local school and increase educational attainments. Recognising the changing requirements in education, health and social care, the Commissioners are seeking to purchase services more innovatively through a single provider who has experience and expertise across the service range. The Commissioners recognise that, whilst some providers are able to provide the whole range of services, some providers may wish to work in partnership with other organisations. No matter what, the Commissioners expect the future service provider(s) to be able to demonstrate that they have a proven track record in all service areas.'", 
+        "title": "United Kingdom-Maidstone: Medical equipments, pharmaceuticals and personal care products", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "33100000", 
+              "uri": "http://cpv.data.ac.uk/code-33100000.html", 
+              "description": "Medical equipments"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "33000000", 
+              "uri": "http://cpv.data.ac.uk/code-33000000.html", 
+              "description": "Medical equipments, pharmaceuticals and personal care products"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 77000000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36945221-adc8-11e6-9901-0019b9f3037b-2015/s-27-45524", 
+        "tenderPeriod": {
+          "startDate": "2015-11-06T00:00:00Z", 
+          "endDate": "2015-11-06T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:04Z", 
+      "id": "ocds-b5fd17-36945221-adc8-11e6-9901-0019b9f3037b-2015-s-27-45524"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:04Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/cc47166b-b4de-41c8-8e01-0f2cd51dce6d.json"
+}

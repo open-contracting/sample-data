@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "London Borough of Redbridge", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Rishi Ruchaya", 
+          "email": "rishi.ruchaya@redbridge.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "London Borough of Redbridge", 
+        "address": {
+          "postalCode": "IG27QZ", 
+          "countryName": "GB", 
+          "streetAddress": "Redbridge Transport, ILFORD, IG27QZ, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c7ca862-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The overall aim of the Service is to improve the quality of life of Carers of people with Dementia/Mental Health Support needs by providing appropriate, flexible and person-centred Services from their care-giving duties to enhance their health and well being.\nThe objectives of the Service are to meet outcomes for Carers, by providing a short break service to Carers. These are:\n\nCarers will be respected as expert care partners and will have access to the integrated and personalised services they need to support them in their caring role;\nCarers will be able to have a life of their own alongside their caring role;\nCarers will be supported so that they are not forced into financial hardship by their caring role;\nCarers will be supported to stay mentally and physically well and treated with dignity;\nYoung Carers will be protected from inappropriate caring and have the support they need to learn, develop and thrive; and to enjoy positive childhoods. The Children and Families Bill also requires local services to adopt whole family approaches to supporting young Carers and their families.\n\n The Provider shall work within the aims, objectives and scope of the Service detailed in this Specification recognising, however, that with the implementation of Personalisation and Transformation of Adult Social Care agendas, services being delivered need to be flexible and Carers needs and choices must be at the heart of Service delivery.\n\n", 
+        "title": " Contract for the Provision of Short-Term Breaks for Carers of People with Dementia/Mental Health Support Needs", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 125332
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c7ca862-adc8-11e6-9901-0019b9f3037b-redbr-9qrr-xb8ecx", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:04Z", 
+      "id": "ocds-b5fd17-2c7ca862-adc8-11e6-9901-0019b9f3037b-redbr-9qrr-xb8ecx"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:04Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/d4075b4a-b0c3-48bb-8d94-5c8cb1825d8c.json"
+}

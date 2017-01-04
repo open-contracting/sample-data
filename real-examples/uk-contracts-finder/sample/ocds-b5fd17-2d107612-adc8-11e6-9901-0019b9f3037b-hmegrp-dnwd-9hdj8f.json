@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Home Group", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Johanna Venis", 
+          "email": "johanna.venis@homegroup.org.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Home Group", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d107612-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Home wishes to establish a preferred contractor for its commercial building cleaning services, cleaning consumables and sanitary provisions.\nHome currently operates in the region of 70 commercial buildings nationally. Home currently has some cleaning service contractual arrangements at some of its locations. It is likely that any current contractual arrangements will be run to the termination date and be picked up by the successful appointed provider following this procurement.\nIt is envisaged that TUPE will apply to this Contract.", 
+        "title": " Home Group - FM National Cleaning Contract", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "90000000", 
+              "uri": "http://cpv.data.ac.uk/code-90000000.html", 
+              "description": "Sewage, refuse, cleaning and environmental services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 109900
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d107612-adc8-11e6-9901-0019b9f3037b-hmegrp-dnwd-9hdj8f", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2017-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:11Z", 
+      "id": "ocds-b5fd17-2d107612-adc8-11e6-9901-0019b9f3037b-hmegrp-dnwd-9hdj8f"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:11Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/4c90cbf0-68aa-4173-a20a-50ce67ab397b.json"
+}

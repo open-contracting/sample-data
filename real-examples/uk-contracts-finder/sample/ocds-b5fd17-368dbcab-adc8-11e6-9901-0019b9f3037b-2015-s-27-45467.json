@@ -1,0 +1,427 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "London Borough of Waltham Forest", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Jody Adams", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "London Borough of Waltham Forest", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-368dbcab-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'The authority is seeking responses from suitably qualified organisations for the provision of a total facilities management service across the authority's estate. This will involve a range of Hard and Soft Facilities Management services as well as the management of these services across the authority. This is a competitive procurement conducted in accordance with the Competitive Dialogue procedure under Directive 2004/18/EC as implemented by the UK Public Contracts Regulations 2006 the authority is seeking to engage suppliers in dialogue to co-create a jointly beneficial solution with a focus on continuous improvement. For information, below is a list of services that the authority currently considers in scope of this tender. This is likely to be further refined and discussed during the competitive dialogue process: Cleaning, Mail Services, Security Services, Moves management/space planning, Porterage service, Furniture management, Grounds Maintenance, Catering, Cashier Collection, Reception services, Cyclical maintenance, Energy Management, Reactive repairs and maintenance and Help-desk and Customer Services.'", 
+        "title": "United Kingdom-London: Building and facilities management services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79993000", 
+              "uri": "http://cpv.data.ac.uk/code-79993000.html", 
+              "description": "Building and facilities management services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79520000", 
+              "uri": "http://cpv.data.ac.uk/code-79520000.html", 
+              "description": "Reprographic services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98341140", 
+              "uri": "http://cpv.data.ac.uk/code-98341140.html", 
+              "description": "Caretaker services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 4, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45112700", 
+              "uri": "http://cpv.data.ac.uk/code-45112700.html", 
+              "description": "Landscaping work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 5, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79992000", 
+              "uri": "http://cpv.data.ac.uk/code-79992000.html", 
+              "description": "Reception services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 6, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50610000", 
+              "uri": "http://cpv.data.ac.uk/code-50610000.html", 
+              "description": "Repair and maintenance services of security equipment"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 7, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79418000", 
+              "uri": "http://cpv.data.ac.uk/code-79418000.html", 
+              "description": "Procurement consultancy services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 8, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98391000", 
+              "uri": "http://cpv.data.ac.uk/code-98391000.html", 
+              "description": "Decommissioning services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 9, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72514000", 
+              "uri": "http://cpv.data.ac.uk/code-72514000.html", 
+              "description": "Computer facilities management services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 10, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71314000", 
+              "uri": "http://cpv.data.ac.uk/code-71314000.html", 
+              "description": "Energy and related services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 11, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71317200", 
+              "uri": "http://cpv.data.ac.uk/code-71317200.html", 
+              "description": "Health and safety services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 12, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98392000", 
+              "uri": "http://cpv.data.ac.uk/code-98392000.html", 
+              "description": "Relocation services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 13, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "90500000", 
+              "uri": "http://cpv.data.ac.uk/code-90500000.html", 
+              "description": "Refuse and waste related services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 14, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71315000", 
+              "uri": "http://cpv.data.ac.uk/code-71315000.html", 
+              "description": "Building services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 15, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98341130", 
+              "uri": "http://cpv.data.ac.uk/code-98341130.html", 
+              "description": "Janitorial services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 16, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98341120", 
+              "uri": "http://cpv.data.ac.uk/code-98341120.html", 
+              "description": "Portering services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 17, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98371111", 
+              "uri": "http://cpv.data.ac.uk/code-98371111.html", 
+              "description": "Cemetery maintenance services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 18, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50700000", 
+              "uri": "http://cpv.data.ac.uk/code-50700000.html", 
+              "description": "Repair and maintenance services of building installations"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 19, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "77310000", 
+              "uri": "http://cpv.data.ac.uk/code-77310000.html", 
+              "description": "Planting and maintenance services of green areas"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 20, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98310000", 
+              "uri": "http://cpv.data.ac.uk/code-98310000.html", 
+              "description": "Washing and dry-cleaning services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 21, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71540000", 
+              "uri": "http://cpv.data.ac.uk/code-71540000.html", 
+              "description": "Construction management services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 22, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71317210", 
+              "uri": "http://cpv.data.ac.uk/code-71317210.html", 
+              "description": "Health and safety consultancy services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 23, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50850000", 
+              "uri": "http://cpv.data.ac.uk/code-50850000.html", 
+              "description": "Repair and maintenance services of furniture"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 24, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98395000", 
+              "uri": "http://cpv.data.ac.uk/code-98395000.html", 
+              "description": "Locksmith services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 25, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "70332300", 
+              "uri": "http://cpv.data.ac.uk/code-70332300.html", 
+              "description": "Industrial property services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 26, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50500000", 
+              "uri": "http://cpv.data.ac.uk/code-50500000.html", 
+              "description": "Repair and maintenance services for pumps, valves, taps and metal containers and machinery"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 27, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "70332200", 
+              "uri": "http://cpv.data.ac.uk/code-70332200.html", 
+              "description": "Commercial property management services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 28, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50300000", 
+              "uri": "http://cpv.data.ac.uk/code-50300000.html", 
+              "description": "Repair, maintenance and associated services related to personal computers, office equipment, telecommunications and audio-visual equipment"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 29, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79415000", 
+              "uri": "http://cpv.data.ac.uk/code-79415000.html", 
+              "description": "Production management consultancy services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 30, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "30192000", 
+              "uri": "http://cpv.data.ac.uk/code-30192000.html", 
+              "description": "Office supplies"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 31, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79710000", 
+              "uri": "http://cpv.data.ac.uk/code-79710000.html", 
+              "description": "Security services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 32, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "90900000", 
+              "uri": "http://cpv.data.ac.uk/code-90900000.html", 
+              "description": "Cleaning and sanitation services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 33, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "64100000", 
+              "uri": "http://cpv.data.ac.uk/code-64100000.html", 
+              "description": "Post and courier services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 40000000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-368dbcab-adc8-11e6-9901-0019b9f3037b-2015/s-27-45467", 
+        "tenderPeriod": {
+          "startDate": "2015-11-02T00:00:00Z", 
+          "endDate": "2020-11-02T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:04Z", 
+      "id": "ocds-b5fd17-368dbcab-adc8-11e6-9901-0019b9f3037b-2015-s-27-45467"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:04Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/829b01d0-22a1-4ad2-b154-693493d61a99.json"
+}

@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Hertfordshire NHS Procurement", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Archie Patel", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Hertfordshire NHS Procurement", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-371d6d83-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Supply of Taxi Services for the conveyance of staff, patients, wheel chairs and light goods for both routine and ad hoc requirements.'", 
+        "title": "United Kingdom-Welwyn Garden City: Transport services (excl. Waste transport)", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "60000000", 
+              "uri": "http://cpv.data.ac.uk/code-60000000.html", 
+              "description": "Transport services (excl. Waste transport)"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 224041
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-371d6d83-adc8-11e6-9901-0019b9f3037b-2015/s-22-36077", 
+        "tenderPeriod": {
+          "startDate": "2015-10-27T00:00:00Z", 
+          "endDate": "2018-10-27T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:31Z", 
+      "id": "ocds-b5fd17-371d6d83-adc8-11e6-9901-0019b9f3037b-2015-s-22-36077"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:31Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/0f12f6b9-51d5-4718-9b25-23afc3b7f0db.json"
+}

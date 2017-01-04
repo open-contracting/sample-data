@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Eloise Keeble", 
+          "email": "procurement@derby.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2cecc050-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Derby City Council is seeking to award a contract for an NHS Health Check IT Software solution. This will involve a fully integrated IT solution to capture and link data through the NHS Health Check process (in GP practice and community settings), ensuring associated pathways and data transfers take place legally and efficiently. The software will support the operational process and monitor performance and effectiveness of this programme. This is designed to cover a software solution for both GP practices and third party health checks in the community. The solution will provide a comprehensive suite of reporting and analytical tools to support the information requirements both locally and nationally. \nThe successful bidder for the provision of the NHS Health Check software will be expected to work with all 30 practices and a community provider who supports the local delivery of health checks.\nThe NHS Health Check IT solution must support the following requirements: \n Identification of the eligible populations for Derby City (The software must have a function to categorise the eligible population by their status in the Health Check process) Assist GP practices and third party providers to deliver the programme, providing a solution to capture and link community health check data with GP practices  Invite eligible patients from practices who have opted out of the NHS Health Check Programme Provide programme activity and outcome reports for Derby City Council by registered practice.\nThe initial contract period is for two years the contract is estimated to commence on 1 April 2015 and expire on 31 March 2017.", 
+        "title": " TD0847 - For the provision of Derby City Health Checks IT Solution", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "48180000", 
+              "uri": "http://cpv.data.ac.uk/code-48180000.html", 
+              "description": "Medical software package"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 166501
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2cecc050-adc8-11e6-9901-0019b9f3037b-derbscity-9pgf-rw9hmq", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2017-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:09Z", 
+      "id": "ocds-b5fd17-2cecc050-adc8-11e6-9901-0019b9f3037b-derbscity-9pgf-rw9hmq"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:09Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/67f7d509-1b30-40e8-97f1-13222d48dbe6.json"
+}

@@ -1,0 +1,217 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Newcastle City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Rhonda Eagle", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Newcastle City Council", 
+        "address": {
+          "postalCode": "NE18QH", 
+          "countryName": "GB", 
+          "streetAddress": "Civic Centre, NEWCASTLE UPON TYNE, NE18QH, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-368b7307-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Newcastle City Council is acting as the lead authority on behalf of the North East Procurement Organisation (NEPO) in respect of the procurement of a Framework Agreement for the Provision of Legal Services. Also covered would be legal services in in other areas of expertise than those set out where arising out of or related to the service areas listed including but not limited to litigation and any other forms of dispute resolution. These will vary from requirement to requirement and be set out at the point of procurement. The main participating organisations in this tender are: Arch The Northumberland Development Company, Byker Trust, Cleveland Fire Brigade, City of Sunderland Council, County Durham and Darlington, Fire and Rescue Authority, Darlington Borough Council, Durham County Council, Gateshead Borough Council, Gateshead Housing Company, Gateshead Trading Company, Hartlepool Borough Council, Leazes Homes, Middlesbrough Council, Newcastle City Council, Newcastle University, Northern Education Trust, North Tyneside Council, Northumberland County Council, Northumbria University, Redcar and Cleveland Borough Council, South Tyneside Borough Council, Stockton-on-Tees Borough Council, Your Homes Newcastle. The Framework may also be utilised by any associated and also future successor bodies of the Contracting Bodies listed. This Contract involves the service category of Legal Services under schedule 3 of the Public Contracts Regulations 2006 and is therefore classified as a Part B Service Contract. This Contract is not subject to the full application of the Public Contracts Regulations 2006 or the Public Contracts (Amendment) Regulations 2009. Consequently this is a voluntary notice and the Council is not bound by many of the formalities of the Regulations and reserves the right to use such flexibilities in this procurement process.'", 
+        "title": "United Kingdom-Newcastle upon Tyne: Legal services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79132000", 
+              "uri": "http://cpv.data.ac.uk/code-79132000.html", 
+              "description": "Certification services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79121100", 
+              "uri": "http://cpv.data.ac.uk/code-79121100.html", 
+              "description": "Software copyright consultancy services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79111000", 
+              "uri": "http://cpv.data.ac.uk/code-79111000.html", 
+              "description": "Legal advisory services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 4, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79112000", 
+              "uri": "http://cpv.data.ac.uk/code-79112000.html", 
+              "description": "Legal representation services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 5, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79121000", 
+              "uri": "http://cpv.data.ac.uk/code-79121000.html", 
+              "description": "Copyright consultancy services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 6, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79110000", 
+              "uri": "http://cpv.data.ac.uk/code-79110000.html", 
+              "description": "Legal advisory and representation services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 7, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79120000", 
+              "uri": "http://cpv.data.ac.uk/code-79120000.html", 
+              "description": "Patent and copyright consultancy services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 8, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79100000", 
+              "uri": "http://cpv.data.ac.uk/code-79100000.html", 
+              "description": "Legal services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 9, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79140000", 
+              "uri": "http://cpv.data.ac.uk/code-79140000.html", 
+              "description": "Legal advisory and information services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 10, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79132100", 
+              "uri": "http://cpv.data.ac.uk/code-79132100.html", 
+              "description": "Electronic signature certification services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 11, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79131000", 
+              "uri": "http://cpv.data.ac.uk/code-79131000.html", 
+              "description": "Documentation services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 12, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79112100", 
+              "uri": "http://cpv.data.ac.uk/code-79112100.html", 
+              "description": "Stakeholders representation services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 7000000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-368b7307-adc8-11e6-9901-0019b9f3037b-2015/s-27-45436", 
+        "tenderPeriod": {
+          "startDate": "2015-11-16T00:00:00Z", 
+          "endDate": "2017-11-16T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:02Z", 
+      "id": "ocds-b5fd17-368b7307-adc8-11e6-9901-0019b9f3037b-2015-s-27-45436"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:02Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/3f6df1fb-cb26-41ef-8f57-f297f89df295.json"
+}

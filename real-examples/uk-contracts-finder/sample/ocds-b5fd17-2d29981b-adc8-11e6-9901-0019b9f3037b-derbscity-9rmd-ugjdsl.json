@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Derby City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Linda Spiby", 
+          "email": "procurement@derby.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Derby City Council", 
+        "address": {
+          "postalCode": "DE12FS", 
+          "countryName": "GB", 
+          "streetAddress": "Corporation Street, Derby, DE12FS, GBR", 
+          "region": null, 
+          "locality": "Derbyshire"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d29981b-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Tenders are invited for the cleaning and repairs of the bus stop infrastructure in Derby City and Erewash. This totals 426 bus shelters across the two authorities and 151 real time information signs in Derby City.", 
+        "title": " TD0890 - Bus Shelter Cleaning and Maintenance Services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "50000000", 
+              "uri": "http://cpv.data.ac.uk/code-50000000.html", 
+              "description": "Repair and maintenance services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 214227
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d29981b-adc8-11e6-9901-0019b9f3037b-derbscity-9rmd-ugjdsl", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2018-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:14Z", 
+      "id": "ocds-b5fd17-2d29981b-adc8-11e6-9901-0019b9f3037b-derbscity-9rmd-ugjdsl"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:14Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/561e17df-9714-4862-a0d8-5e31e2efbaf7.json"
+}

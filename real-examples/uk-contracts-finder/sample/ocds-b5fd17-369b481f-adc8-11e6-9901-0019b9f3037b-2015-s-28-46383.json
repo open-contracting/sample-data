@@ -1,0 +1,157 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "RCT Homes", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Robin Huw Roberts", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "RCT Homes", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-369b481f-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Works within the stated range of value.'", 
+        "title": "United Kingdom-Pontypridd: Construction work", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45400000", 
+              "uri": "http://cpv.data.ac.uk/code-45400000.html", 
+              "description": "Building completion work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45000000", 
+              "uri": "http://cpv.data.ac.uk/code-45000000.html", 
+              "description": "Construction work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 3, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45210000", 
+              "uri": "http://cpv.data.ac.uk/code-45210000.html", 
+              "description": "Building construction work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 4, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45211300", 
+              "uri": "http://cpv.data.ac.uk/code-45211300.html", 
+              "description": "Houses construction work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 5, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45300000", 
+              "uri": "http://cpv.data.ac.uk/code-45300000.html", 
+              "description": "Building installation work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 6, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45100000", 
+              "uri": "http://cpv.data.ac.uk/code-45100000.html", 
+              "description": "Site preparation work"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 100000000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-369b481f-adc8-11e6-9901-0019b9f3037b-2015/s-28-46383", 
+        "tenderPeriod": {
+          "startDate": "2015-11-25T00:00:00Z", 
+          "endDate": "2017-11-25T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:06Z", 
+      "id": "ocds-b5fd17-369b481f-adc8-11e6-9901-0019b9f3037b-2015-s-28-46383"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:06Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/2c0b9371-a9a1-4012-9412-c487f53a1d79.json"
+}

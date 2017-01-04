@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "NHS Brighton and Hove Clinical Commissioning Group", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Andrew Elliott", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "NHS Brighton and Hove Clinical Commissioning Group", 
+        "address": {
+          "postalCode": "BN14FU", 
+          "countryName": "GB", 
+          "streetAddress": "Level 3 Lanchester House, Brighton, BN14FU, GBR", 
+          "region": null, 
+          "locality": "East Sussex"
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36f2ae2c-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Provision of a Referral Management Service.'", 
+        "title": "United Kingdom-Brighton: Health services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85100000", 
+              "uri": "http://cpv.data.ac.uk/code-85100000.html", 
+              "description": "Health services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 310005
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36f2ae2c-adc8-11e6-9901-0019b9f3037b-2015/s-17-27065", 
+        "tenderPeriod": {
+          "startDate": "2015-11-13T00:00:00Z", 
+          "endDate": "2018-11-13T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:25Z", 
+      "id": "ocds-b5fd17-36f2ae2c-adc8-11e6-9901-0019b9f3037b-2015-s-17-27065"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:25Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/08a874d3-2c1e-481f-91ff-74439b455f60.json"
+}

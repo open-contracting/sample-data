@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "First Wessex", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Samantha Conway", 
+          "email": "Samantha.Conway@firstwessex.org"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "First Wessex", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d3f7519-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Please register your interest, an notification will then be sent when the documents are ready.\nFirst Wessex acting as the Central Purchasing Body on behalf of the Wayfarer Partnership (comprising Radian, First Wessex, Raven Housing Trust, Bracknell Forest Homes) and others noted as Registered Social Landlords operating in regions of Berkshire, Buckinghamshire, Dorset, Hampshire, Surrey, South London Boroughs, West Sussex, and Wiltshire that may join the Professional Services Framework.\nPlease register your interest, a notification will then be sent when the documents are ready.", 
+        "title": " The Wayfarer Consortium - Employer's Agents & Architects services Framework", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "45000000", 
+              "uri": "http://cpv.data.ac.uk/code-45000000.html", 
+              "description": "Construction work"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71000000", 
+              "uri": "http://cpv.data.ac.uk/code-71000000.html", 
+              "description": "Architectural, construction, engineering and inspection services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 10000000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d3f7519-adc8-11e6-9901-0019b9f3037b-wess-9quf-49flu3", 
+        "tenderPeriod": {
+          "startDate": "2015-04-19T00:00:00Z", 
+          "endDate": "2019-04-19T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:16Z", 
+      "id": "ocds-b5fd17-2d3f7519-adc8-11e6-9901-0019b9f3037b-wess-9quf-49flu3"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:16Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/48af9f18-b328-4edc-bc06-28ecd911debc.json"
+}

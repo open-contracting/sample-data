@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "London Borough of Richmond upon Thames", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Oliver Watling", 
+          "email": "oliver.watling@richmond.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "London Borough of Richmond upon Thames", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c8507c7-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "  \nThe London Borough of Richmond upon Thames (the Contracting Authority) is a host city for the Rugby World Cup 2015.\n\nIt is a requirement of Rugby World Cup 2015 (the RWC) that each host city, of which the Contracting Authority is one, provides at least one Fanzone which can accommodate up to 5,000 supporters. \nThe Contracting Authority is currently planning to have one official Fanzone site, the proposal is for it to be located in Old Deer Park, Richmond. \nThe Fanzone will be in place from approximately September 16th 2015 until the final at Twickenham Stadium on October 31st 2015. The Fanzone is likely to be a mixture of marquee and open spaces and on match days there will be entertainment, alcohol and food provision, toilets and large TV screens. Subject to relevant permissions and licensing arrangements, the Fanzone will be open for all England matches and for a minimum of 10 games. Whilst the final scheduling for the Fanzone has not yet been completed it is hoped that it would be open on match days for about 18 games in total.\nThe Contracting Authority is seeking to procure the event management and production services for the RWC Richmond Fanzone (the Richmond Fanzone Services), a public contract for event management and live production services for 6 months. In addition to the aforementioned services the Economic Operator will also be required to provide the necessary stewarding and security services.\n\nThe Economic Operator will be required to provide all elements associated with live production for the Fanzone including (but not limited to): \n\nAudio;\nVisual;\nPower;\nTemporary structures;\nStage management;\nRigging; and Communications.\n \nThe Contracting Authority wishes to work in partnership with the chosen Economic Operator to identify and maximize commercial opportunities on non RWC event days (the dark days). The Economic Operator will be responsible for engaging and/or managing third party operators to optimize income generation on the dark days. \n ", 
+        "title": " Fanzone for Rugby World Cup 2015", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "79952000", 
+              "uri": "http://cpv.data.ac.uk/code-79952000.html", 
+              "description": "Event services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 90000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c8507c7-adc8-11e6-9901-0019b9f3037b-richmond-9qlk-24f7th", 
+        "tenderPeriod": {
+          "startDate": "2015-04-15T00:00:00Z", 
+          "endDate": "2015-10-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:05Z", 
+      "id": "ocds-b5fd17-2c8507c7-adc8-11e6-9901-0019b9f3037b-richmond-9qlk-24f7th"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:05Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/25b6cd61-3cc0-48d3-95ae-b0e680504a0c.json"
+}

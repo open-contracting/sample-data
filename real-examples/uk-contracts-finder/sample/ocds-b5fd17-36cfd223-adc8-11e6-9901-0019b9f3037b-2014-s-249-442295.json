@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Scottish Enterprise", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Anne Marie Borman", 
+          "email": ""
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Scottish Enterprise", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-36cfd223-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": "'Scottish Enterprise (SE) requires a data tool to enable us to track and monitor investment projects and trends globally across all our key industries for a 2 year period, with the option for SE to extend for one additional year. Responses should include detailed description of the supplier's available data tool, research capacity/experience of the team, ability to provide accurate and up to date information on the global FDI market. It is envisaged that this contract will commence April 2015. NOTE: To register your interest in this notice and obtain any additional information please visit the Public Contracts Scotland Web Site at http://www.publiccontractsscotland.gov.uk/Search/Search_Switch.aspx?ID=331527 The buyer has indicated that it will accept electronic responses to this notice via the Postbox facility. A user guide is available at http://www.publiccontractsscotland.gov.uk/sitehelp/help_guides.aspx Suppliers are advised to allow adequate time for uploading documents and to dispatch the electronic response well in advance of the closing time to avoid any last minute problems.'", 
+        "title": "United Kingdom-Glasgow: Data services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "72300000", 
+              "uri": "http://cpv.data.ac.uk/code-72300000.html", 
+              "description": "Data services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 391130
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-36cfd223-adc8-11e6-9901-0019b9f3037b-2014/s-249-442295", 
+        "tenderPeriod": {
+          "startDate": "2015-10-16T00:00:00Z", 
+          "endDate": "2019-10-16T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2015-02-10T23:44:18Z", 
+      "id": "ocds-b5fd17-36cfd223-adc8-11e6-9901-0019b9f3037b-2014-s-249-442295"
+    }
+  ], 
+  "publishedDate": "2015-02-10T23:44:18Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/3aa7e499-17a5-4f4a-abd4-12b3442392e2.json"
+}

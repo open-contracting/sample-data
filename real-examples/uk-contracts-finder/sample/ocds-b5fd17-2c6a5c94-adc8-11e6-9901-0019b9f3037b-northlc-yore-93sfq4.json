@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Mandy Moore", 
+          "email": "mandy.moore@northlincs.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c6a5c94-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " North Lincolnshire Council seeks responses from suitably qualified individuals to provide Associate Educational Psychologist duties. The Approved List will provide specialist people with the necessary skills and expertise to deliver an Educational Psychology service as required. Inclusion onto the Approved List does not constitute or imply any agreement or guarantee regarding any quotation opportunities, any contract or any other form of agreement.\n\n\n\n\n\nPurpose and Aim\nThe role of the Associate Educational Psychologist is to;\ndeliver an educational psychology service to children and young people aged 0 to 19, their families, schools and educational settings and others who work to support their education and development, emotional well-being and positive mental health;\nprovide educational psychologist assessment, advice, consultation, intervention, training/staff development, project and/or research work as specified by the principal educational psychologist; and\ndeliver the service in line with North Lincolnshire policies, procedures and working practices, including participation in supervision arrangements.\nThe Local Authority will monitor the quality of the Associate Educational Psychologists work through evaluation processes and performance management arrangements that are in place within the educational psychology team. ", 
+        "title": " Provision of Associate Educational Psychologists - Open Approved List", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 125332
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c6a5c94-adc8-11e6-9901-0019b9f3037b-northlc-yore-93sfq4", 
+        "tenderPeriod": {
+          "startDate": "2012-10-31T00:00:00Z", 
+          "endDate": "2015-10-30T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:01Z", 
+      "id": "ocds-b5fd17-2c6a5c94-adc8-11e6-9901-0019b9f3037b-northlc-yore-93sfq4"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:01Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/b837c91d-b385-4284-b9fa-cfc46f56e4e0.json"
+}

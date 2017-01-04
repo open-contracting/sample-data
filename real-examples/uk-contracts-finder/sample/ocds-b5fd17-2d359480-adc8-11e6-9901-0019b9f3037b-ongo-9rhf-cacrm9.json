@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "ONGO", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mrs Holly Wilson", 
+          "email": "holly.wilson@ongo.co.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "ONGO", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2d359480-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " A 2 phaseProperty/Building ConsultancyProject:\nPhase1to provide consultancy for completing a review on the refurbishment requirements at theMarket Hill Tower Blocks, Scunthorpe.\nPhase 2 to provide the structural drawings, plans and procurement for the suggested changes at Market Hill, Scunthorpe. ", 
+        "title": " 0185/NLH Consultancy for Refurbishment Works at Market Hill", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "71000000", 
+              "uri": "http://cpv.data.ac.uk/code-71000000.html", 
+              "description": "Architectural, construction, engineering and inspection services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 75000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2d359480-adc8-11e6-9901-0019b9f3037b-ongo-9rhf-cacrm9", 
+        "tenderPeriod": {
+          "startDate": "2015-02-15T00:00:00Z", 
+          "endDate": "2016-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:16Z", 
+      "id": "ocds-b5fd17-2d359480-adc8-11e6-9901-0019b9f3037b-ongo-9rhf-cacrm9"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:16Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/c82cda15-5b29-49a4-87bc-7d08b1eda6e3.json"
+}

@@ -1,0 +1,117 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Spend Network", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "  Catherine Flint", 
+          "email": "Catherine.Flint@nottscc.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Spend Network", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2ceeb169-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The Council is seeking providers who are able to provide citizens who have a need for care & support with information and advice, including access to independent financial advice. This would for the Council be a signposting to appropriate services and or referral. This will ensure that the duty of care to the population of Nottinghamshire is delivered and therefore protects both users of these services and the reputation of Nottingham County Council.\nThe Council is to undertake a soft market testing exercise to canvass independent views to support and shape the specification.\nAdditional Information:\n An approach document is to be made available to all interested providers via the portal\n Nottinghamshire County Council is seeking to consult on the Financial Information & Advice Services via obtaining written feedback on the questions provided in the Approach document  \n Information and opinions on how the services may be delivered in the future can be provided via the Soft Market Testing Approach document (attached within the e-tendering portal). Please return these forms by 18th December 2014.\nNottinghamhire County Council is the sole participant for this prospective procurement process\nNeither the intention nor the purposes of this soft market testing exercise is to confer any advantage upon its participants in any future procurement process.\nThis PIN is NOT a call for tenders and responses.", 
+        "title": " Financial Information & Advice Services", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }, 
+          {
+            "id": 2, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "98000000", 
+              "uri": "http://cpv.data.ac.uk/code-98000000.html", 
+              "description": "Other community, social and personal services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 227000
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2ceeb169-adc8-11e6-9901-0019b9f3037b-nottscc-9rhh-qh3rbc", 
+        "tenderPeriod": {
+          "startDate": "2015-04-01T00:00:00Z", 
+          "endDate": "2016-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:09Z", 
+      "id": "ocds-b5fd17-2ceeb169-adc8-11e6-9901-0019b9f3037b-nottscc-9rhh-qh3rbc"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:09Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/7fb059b8-0a93-494e-b62d-4f1e67843e8c.json"
+}

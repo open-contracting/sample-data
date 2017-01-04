@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Bath and North East Somerset Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Mr Basil Wild", 
+          "email": "basil_wild@bathnes.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Bath and North East Somerset Council", 
+        "address": {
+          "postalCode": null, 
+          "countryName": null, 
+          "streetAddress": null, 
+          "region": null, 
+          "locality": null
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " NHS Bath & NE Somerset Clinical Commissioning Group and Bath & NE Somerset Council are seeking to shape new initiatives for the provision of an educative approach to delivering health, mental health, social and wellbeing interventions.\nThe Commissioners have established a Wellbeing College Pilot, using existing service and community resources, to test out this new concept of service delivery and its value and effectiveness in providing courses.\nThe aim of the pilot is to develop, alongside an independent evaluation organisation and commissioners, a comprehensive evaluation framework that will assess the impacts of the pilot and the possibilities for the long term sustainability of the concept/approach. This in turn will inform whether a business case, options paper and draft specification is developed to go ahead to full tender.Should the Commissioners agree to proceed with a full tender it is expected that the procurement process will commence during 2015/16.", 
+        "title": " Wellbeing College", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 909610
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-bath-swce-9fdjpf", 
+        "tenderPeriod": {
+          "startDate": "2016-04-01T00:00:00Z", 
+          "endDate": "2021-03-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:44:57Z", 
+      "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-bath-swce-9fdjpf"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:44:57Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/0298dfc7-5c3c-481a-8a0d-6ccc031580e8.json"
+}

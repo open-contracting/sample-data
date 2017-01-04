@@ -1,0 +1,107 @@
+{
+  "publisher": {
+    "scheme": "GB-GOVUK-crown_comercial_service", 
+    "name": "Nottingham City Council", 
+    "uri": "https://www.contractsfinder.service.gov.uk", 
+    "uid": null
+  }, 
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/", 
+  "publicationPolicy": "https://www.contractsfinder.service.gov.uk", 
+  "releases": [
+    {
+      "language": "en-GB", 
+      "buyer": {
+        "contactPoint": {
+          "telephone": "", 
+          "faxNumber": null, 
+          "name": "Ms Dawn Cafferty", 
+          "email": "dawn.cafferty@nottinghamcity.gov.uk"
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "name": "Nottingham City Council", 
+        "address": {
+          "postalCode": "NG23NG", 
+          "countryName": "GB", 
+          "streetAddress": "Station Street, NOTTINGHAM, NG23NG, GBR", 
+          "region": null, 
+          "locality": ""
+        }
+      }, 
+      "ocid": "ocds-b5fd17-2ce564d5-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Nottingham City Council is seeking to establish a supplementary framework agreement for specific alternative education provision for Key Stage 4 young people to support their progression into post 16 Education, Employment or Training (EET). \nOur existing framework agreement was awarded for provision of education for Key stage 4 permanently excluded Nottingham City resident pupils for the 2014/15 academic year; some subjects/lots however are not available from this group of providers, or the demand exceeds current availability. \nThis cohort of pupils may have specific high level behavioural, emotional, social or domestic needs and may not be able to access provision at specific providers due to various reasons. \nSuppliers shall offer part-time or full-time provision in the specified subject areas, preferably from the published list of approved qualifications for 14 to 16 year olds.\nIt is anticipated that the service will commence on 5th February 2015 until 24th July 2015. There will be no option to extend this agreement at the end of the cover period.", 
+        "title": " Off-Site Alternative Education Provision - Specialist Requirements Framework", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "80000000", 
+              "uri": "http://cpv.data.ac.uk/code-80000000.html", 
+              "description": "Education and training services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": null
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 46250
+        }, 
+        "milestones": [
+          {
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "title": "Contract start", 
+            "dateModified": null, 
+            "id": 1, 
+            "dueDate": null
+          }, 
+          {
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "title": "Contract end", 
+            "dateModified": null, 
+            "id": 2, 
+            "dueDate": null
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2ce564d5-adc8-11e6-9901-0019b9f3037b-nottcity-9rhe-4vaoh5", 
+        "tenderPeriod": {
+          "startDate": "2015-02-05T00:00:00Z", 
+          "endDate": "2015-07-24T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "date": "2014-12-17T16:45:08Z", 
+      "id": "ocds-b5fd17-2ce564d5-adc8-11e6-9901-0019b9f3037b-nottcity-9rhe-4vaoh5"
+    }
+  ], 
+  "publishedDate": "2014-12-17T16:45:08Z", 
+  "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/f4a64849-de78-47e1-8c62-e7501fc35662.json"
+}
