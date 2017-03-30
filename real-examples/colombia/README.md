@@ -10,3 +10,12 @@ API details: https://www.colombiacompra.gov.co/transparencia/ocds/api
 ### Known issues
 
 Not all data is included in the CSV files. 
+
+## Write a scraper!
+
+Could you write a simple python scraper that will:
+
+* Fetch 100 example releases or records;
+* Fetch the latest version of the full dataset;
+
+If so - we want your help. See [this post](https://groups.google.com/a/open-contracting.org/forum/#!topic/standard-discuss/HtSYpbH5QGY). 
