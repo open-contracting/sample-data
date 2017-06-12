@@ -1,8 +1,10 @@
 {
+   "extensions": [],
    "packages": [
       "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-01-planning.json#ocds-213czf-000-00001-01-planning",
       "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-02-tender.json#ocds-213czf-000-00001-02-tender",
       "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderAmendment",
+      "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderUpdate",
       "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-04-award.json#ocds-213czf-000-00001-04-award",
       "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-05-contract",
       "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-06-implementation"
@@ -69,31 +71,7 @@
                   "status": "active",
                   "suppliers": [
                      {
-                        "additionalIdentifiers": [
-                           {
-                              "id": "987654321",
-                              "scheme": "GB-VAT"
-                           }
-                        ],
-                        "address": {
-                           "countryName": "United Kingdom",
-                           "locality": "Anytown",
-                           "postalCode": "AN1 1TN",
-                           "region": "AnyCounty",
-                           "streetAddress": "100 Anytown Lane"
-                        },
-                        "contactPoint": {
-                           "email": "contracts@anycorp.example",
-                           "faxNumber": "12345 456 343",
-                           "name": "Contracts Team",
-                           "telephone": "12345 456 343"
-                        },
-                        "identifier": {
-                           "id": "1234567844",
-                           "legalName": "AnyCorp Ltd",
-                           "scheme": "GB-COH",
-                           "uri": "http://www.anycorp.example"
-                        },
+                        "id": "GB-COH-1234567844",
                         "name": "AnyCorp Cycle Provision"
                      }
                   ],
@@ -105,26 +83,7 @@
                }
             ],
             "buyer": {
-               "address": {
-                  "countryName": "United Kingdom",
-                  "locality": "London",
-                  "postalCode": "N11 1NP",
-                  "region": "London",
-                  "streetAddress": "4, North London Business Park, Oakleigh Rd S"
-               },
-               "contactPoint": {
-                  "email": "procurement-team@example.com",
-                  "faxNumber": "01234 345 345",
-                  "name": "Procurement Team",
-                  "telephone": "01234 345 346",
-                  "url": "http://example.com/contact/"
-               },
-               "identifier": {
-                  "id": "E09000003",
-                  "legalName": "London Borough of Barnet",
-                  "scheme": "GB-LAC",
-                  "uri": "http://www.barnet.gov.uk/"
-               },
+               "id": "GB-LAC-E09000003",
                "name": "London Borough of Barnet"
             },
             "contracts": [
@@ -158,48 +117,40 @@
                   "implementation": {
                      "transactions": [
                         {
-                           "amount": {
-                              "amount": 500000,
-                              "currency": "GBP"
-                           },
                            "date": "2010-08-01T00:00:00Z",
                            "id": "ocds-213czf-000-00001-1",
-                           "providerOrganization": {
-                              "id": "E09000003",
-                              "legalName": "London Borough of Barnet",
-                              "scheme": "GB-LAC",
-                              "uri": "http://www.barnet.gov.uk/"
+                           "payee": {
+                              "id": "GB-COH-1234567844",
+                              "name": "AnyCorp Ltd"
                            },
-                           "receiverOrganization": {
-                              "id": "1234567844",
-                              "legalName": "AnyCorp Ltd",
-                              "scheme": "GB-COH",
-                              "uri": "http://www.anycorp.example"
+                           "payer": {
+                              "id": "GB-LAC-E09000003",
+                              "name": "London Borough of Barnet"
                            },
                            "source": "https://openspending.org/uk-barnet-spending/",
-                           "uri": "https://openspending.org/uk-barnet-spending/transaction/asd9235qaghvs1059620ywhgai"
+                           "uri": "https://openspending.org/uk-barnet-spending/transaction/asd9235qaghvs1059620ywhgai",
+                           "value": {
+                              "amount": 500000,
+                              "currency": "GBP"
+                           }
                         },
                         {
-                           "amount": {
-                              "amount": 100000,
-                              "currency": "GBP"
-                           },
                            "date": "2010-10-01T00:00:00Z",
                            "id": "ocds-213czf-000-00001-2",
-                           "providerOrganization": {
-                              "id": "E09000003",
-                              "legalName": "London Borough of Barnet",
-                              "scheme": "GB-LAC",
-                              "uri": "http://www.barnet.gov.uk/"
+                           "payee": {
+                              "id": "GB-COH-1234567844",
+                              "name": "AnyCorp Ltd"
                            },
-                           "receiverOrganization": {
-                              "id": "1234567844",
-                              "legalName": "AnyCorp Ltd",
-                              "scheme": "GB-COH",
-                              "uri": "http://www.anycorp.example"
+                           "payer": {
+                              "id": "GB-LAC-E09000003",
+                              "name": "London Borough of Barnet"
                            },
                            "source": "https://openspending.org/uk-barnet-spending/",
-                           "uri": "https://openspending.org/uk-barnet-spending/transaction/asd9235qaghvs105962as0012"
+                           "uri": "https://openspending.org/uk-barnet-spending/transaction/asd9235qaghvs105962as0012",
+                           "value": {
+                              "amount": 100000,
+                              "currency": "GBP"
+                           }
                         }
                      ]
                   },
@@ -248,6 +199,68 @@
             "initiationType": "tender",
             "language": "en",
             "ocid": "ocds-213czf-000-00001",
+            "parties": [
+               {
+                  "address": {
+                     "countryName": "United Kingdom",
+                     "locality": "London",
+                     "postalCode": "N11 1NP",
+                     "region": "London",
+                     "streetAddress": "4, North London Business Park, Oakleigh Rd S"
+                  },
+                  "contactPoint": {
+                     "email": "procurement-team@example.com",
+                     "faxNumber": "01234 345 345",
+                     "name": "Procurement Team",
+                     "telephone": "01234 345 346",
+                     "url": "http://example.com/contact/"
+                  },
+                  "id": "GB-LAC-E09000003",
+                  "identifier": {
+                     "id": "E09000003",
+                     "legalName": "London Borough of Barnet",
+                     "scheme": "GB-LAC",
+                     "uri": "http://www.barnet.gov.uk/"
+                  },
+                  "name": "London Borough of Barnet",
+                  "roles": [
+                     "buyer",
+                     "buyer"
+                  ]
+               },
+               {
+                  "additionalIdentifiers": [
+                     {
+                        "id": "987654321",
+                        "scheme": "GB-VAT"
+                     }
+                  ],
+                  "address": {
+                     "countryName": "United Kingdom",
+                     "locality": "Anytown",
+                     "postalCode": "AN1 1TN",
+                     "region": "AnyCounty",
+                     "streetAddress": "100 Anytown Lane"
+                  },
+                  "contactPoint": {
+                     "email": "contracts@anycorp.example",
+                     "faxNumber": "12345 456 343",
+                     "name": "Contracts Team",
+                     "telephone": "12345 456 343"
+                  },
+                  "id": "GB-COH-1234567844",
+                  "identifier": {
+                     "id": "1234567844",
+                     "legalName": "AnyCorp Ltd",
+                     "scheme": "GB-COH",
+                     "uri": "http://www.anycorp.example"
+                  },
+                  "name": "AnyCorp Cycle Provision",
+                  "roles": [
+                     "supplier"
+                  ]
+               }
+            ],
             "planning": {
                "budget": {
                   "amount": {
@@ -289,18 +302,24 @@
                "compiled"
             ],
             "tender": {
-               "amendment": {
-                  "changes": [
-                     {
-                        "property": "documents"
-                     },
-                     {
-                        "property": "hasEnquiries"
-                     }
-                  ],
-                  "date": "2010-03-20T09:45:00Z",
-                  "rationale": "Following the enquiry period, enquiries were received and responses to questions asked have been published. No changes to the overall tender details were made."
-               },
+               "amendments": [
+                  {
+                     "amendsReleaseID": "ocds-213czf-000-00001-02-tender",
+                     "date": "2010-03-20T09:45:00Z",
+                     "description": "Following the enquiry period, enquiries were received and responses to questions asked have been published. No changes to the overall tender details were made.",
+                     "id": "update-1",
+                     "rationale": "Update following enquiries.",
+                     "releaseID": "ocds-213czf-000-00001-03-tenderUpdate"
+                  },
+                  {
+                     "amendsReleaseID": "ocds-213czf-000-00001-02-tender",
+                     "date": "2010-03-20T10:45:00Z",
+                     "description": "Following the enquiry period, a decision was made to increase the maximum value by 10%.",
+                     "id": "amendment-1",
+                     "rationale": "Revised value",
+                     "releaseID": "ocds-213czf-000-00001-03-tenderAmendment"
+                  }
+               ],
                "awardCriteria": "bestProposal",
                "awardCriteriaDetails": "The best proposal, subject to value for money requirements, will be accepted.",
                "awardPeriod": {
@@ -399,26 +418,7 @@
                "procurementMethod": "open",
                "procurementMethodRationale": "An open competitive tender is required by EU Rules",
                "procuringEntity": {
-                  "address": {
-                     "countryName": "United Kingdom",
-                     "locality": "London",
-                     "postalCode": "N11 1NP",
-                     "region": "London",
-                     "streetAddress": "4, North London Business Park, Oakleigh Rd S"
-                  },
-                  "contactPoint": {
-                     "email": "procurement-team@example.com",
-                     "faxNumber": "01234 345 345",
-                     "name": "Procurement Team",
-                     "telephone": "01234 345 346",
-                     "url": "http://example.com/contact/"
-                  },
-                  "identifier": {
-                     "id": "E09000003",
-                     "legalName": "London Borough of Barnet",
-                     "scheme": "GB-LAC",
-                     "uri": "http://www.barnet.gov.uk/"
-                  },
+                  "id": "GB-LAC-E09000003",
                   "name": "London Borough of Barnet"
                },
                "status": "active",
@@ -432,7 +432,7 @@
                },
                "title": "Planned cycle lane improvements",
                "value": {
-                  "amount": 1100000,
+                  "amount": 1210000,
                   "currency": "GBP"
                }
             }
@@ -454,11 +454,18 @@
                "url": "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-02-tender.json#ocds-213czf-000-00001-02-tender"
             },
             {
-               "date": "2010-03-20T09:45:00Z",
+               "date": "2010-03-20T10:45:00Z",
                "tag": [
                   "tenderAmendment"
                ],
                "url": "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderAmendment"
+            },
+            {
+               "date": "2010-03-20T09:45:00Z",
+               "tag": [
+                  "tenderUpdate"
+               ],
+               "url": "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderUpdate"
             },
             {
                "date": "2010-05-10T09:30:00Z",
@@ -764,31 +771,7 @@
                         ],
                         "value": [
                            {
-                              "additionalIdentifiers": [
-                                 {
-                                    "id": "987654321",
-                                    "scheme": "GB-VAT"
-                                 }
-                              ],
-                              "address": {
-                                 "countryName": "United Kingdom",
-                                 "locality": "Anytown",
-                                 "postalCode": "AN1 1TN",
-                                 "region": "AnyCounty",
-                                 "streetAddress": "100 Anytown Lane"
-                              },
-                              "contactPoint": {
-                                 "email": "contracts@anycorp.example",
-                                 "faxNumber": "12345 456 343",
-                                 "name": "Contracts Team",
-                                 "telephone": "12345 456 343"
-                              },
-                              "identifier": {
-                                 "id": "1234567844",
-                                 "legalName": "AnyCorp Ltd",
-                                 "scheme": "GB-COH",
-                                 "uri": "http://www.anycorp.example"
-                              },
+                              "id": "GB-COH-1234567844",
                               "name": "AnyCorp Cycle Provision"
                            }
                         ]
@@ -829,152 +812,16 @@
                }
             ],
             "buyer": {
-               "address": {
-                  "countryName": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "United Kingdom"
-                     }
-                  ],
-                  "locality": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "London"
-                     }
-                  ],
-                  "postalCode": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "N11 1NP"
-                     }
-                  ],
-                  "region": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "London"
-                     }
-                  ],
-                  "streetAddress": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "4, North London Business Park, Oakleigh Rd S"
-                     }
-                  ]
-               },
-               "contactPoint": {
-                  "email": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "procurement-team@example.com"
-                     }
-                  ],
-                  "faxNumber": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "01234 345 345"
-                     }
-                  ],
-                  "name": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "Procurement Team"
-                     }
-                  ],
-                  "telephone": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "01234 345 346"
-                     }
-                  ],
-                  "url": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "http://example.com/contact/"
-                     }
-                  ]
-               },
-               "identifier": {
-                  "id": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "E09000003"
-                     }
-                  ],
-                  "legalName": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "London Borough of Barnet"
-                     }
-                  ],
-                  "scheme": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "GB-LAC"
-                     }
-                  ],
-                  "uri": [
-                     {
-                        "releaseDate": "2009-03-15T14:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-01-planning",
-                        "releaseTag": [
-                           "planning"
-                        ],
-                        "value": "http://www.barnet.gov.uk/"
-                     }
-                  ]
-               },
+               "id": [
+                  {
+                     "releaseDate": "2009-03-15T14:45:00Z",
+                     "releaseID": "ocds-213czf-000-00001-01-planning",
+                     "releaseTag": [
+                        "planning"
+                     ],
+                     "value": "GB-LAC-E09000003"
+                  }
+               ],
                "name": [
                   {
                      "releaseDate": "2009-03-15T14:45:00Z",
@@ -1178,28 +1025,6 @@
                   "implementation": {
                      "transactions": [
                         {
-                           "amount": {
-                              "amount": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": 500000
-                                 }
-                              ],
-                              "currency": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "GBP"
-                                 }
-                              ]
-                           },
                            "date": [
                               {
                                  "releaseDate": "2011-01-10T09:30:00Z",
@@ -1211,7 +1036,7 @@
                               }
                            ],
                            "id": "ocds-213czf-000-00001-1",
-                           "providerOrganization": {
+                           "payee": {
                               "id": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
@@ -1219,52 +1044,10 @@
                                     "releaseTag": [
                                        "implementation"
                                     ],
-                                    "value": "E09000003"
+                                    "value": "GB-COH-1234567844"
                                  }
                               ],
-                              "legalName": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "London Borough of Barnet"
-                                 }
-                              ],
-                              "scheme": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "GB-LAC"
-                                 }
-                              ],
-                              "uri": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "http://www.barnet.gov.uk/"
-                                 }
-                              ]
-                           },
-                           "receiverOrganization": {
-                              "id": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "1234567844"
-                                 }
-                              ],
-                              "legalName": [
+                              "name": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
                                     "releaseID": "ocds-213czf-000-00001-06-implementation",
@@ -1273,25 +1056,27 @@
                                     ],
                                     "value": "AnyCorp Ltd"
                                  }
-                              ],
-                              "scheme": [
+                              ]
+                           },
+                           "payer": {
+                              "id": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
                                     "releaseID": "ocds-213czf-000-00001-06-implementation",
                                     "releaseTag": [
                                        "implementation"
                                     ],
-                                    "value": "GB-COH"
+                                    "value": "GB-LAC-E09000003"
                                  }
                               ],
-                              "uri": [
+                              "name": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
                                     "releaseID": "ocds-213czf-000-00001-06-implementation",
                                     "releaseTag": [
                                        "implementation"
                                     ],
-                                    "value": "http://www.anycorp.example"
+                                    "value": "London Borough of Barnet"
                                  }
                               ]
                            },
@@ -1314,10 +1099,8 @@
                                  ],
                                  "value": "https://openspending.org/uk-barnet-spending/transaction/asd9235qaghvs1059620ywhgai"
                               }
-                           ]
-                        },
-                        {
-                           "amount": {
+                           ],
+                           "value": {
                               "amount": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
@@ -1325,7 +1108,7 @@
                                     "releaseTag": [
                                        "implementation"
                                     ],
-                                    "value": 100000
+                                    "value": 500000
                                  }
                               ],
                               "currency": [
@@ -1338,7 +1121,9 @@
                                     "value": "GBP"
                                  }
                               ]
-                           },
+                           }
+                        },
+                        {
                            "date": [
                               {
                                  "releaseDate": "2011-01-10T09:30:00Z",
@@ -1350,7 +1135,7 @@
                               }
                            ],
                            "id": "ocds-213czf-000-00001-2",
-                           "providerOrganization": {
+                           "payee": {
                               "id": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
@@ -1358,52 +1143,10 @@
                                     "releaseTag": [
                                        "implementation"
                                     ],
-                                    "value": "E09000003"
+                                    "value": "GB-COH-1234567844"
                                  }
                               ],
-                              "legalName": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "London Borough of Barnet"
-                                 }
-                              ],
-                              "scheme": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "GB-LAC"
-                                 }
-                              ],
-                              "uri": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "http://www.barnet.gov.uk/"
-                                 }
-                              ]
-                           },
-                           "receiverOrganization": {
-                              "id": [
-                                 {
-                                    "releaseDate": "2011-01-10T09:30:00Z",
-                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
-                                    "releaseTag": [
-                                       "implementation"
-                                    ],
-                                    "value": "1234567844"
-                                 }
-                              ],
-                              "legalName": [
+                              "name": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
                                     "releaseID": "ocds-213czf-000-00001-06-implementation",
@@ -1412,25 +1155,27 @@
                                     ],
                                     "value": "AnyCorp Ltd"
                                  }
-                              ],
-                              "scheme": [
+                              ]
+                           },
+                           "payer": {
+                              "id": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
                                     "releaseID": "ocds-213czf-000-00001-06-implementation",
                                     "releaseTag": [
                                        "implementation"
                                     ],
-                                    "value": "GB-COH"
+                                    "value": "GB-LAC-E09000003"
                                  }
                               ],
-                              "uri": [
+                              "name": [
                                  {
                                     "releaseDate": "2011-01-10T09:30:00Z",
                                     "releaseID": "ocds-213czf-000-00001-06-implementation",
                                     "releaseTag": [
                                        "implementation"
                                     ],
-                                    "value": "http://www.anycorp.example"
+                                    "value": "London Borough of Barnet"
                                  }
                               ]
                            },
@@ -1453,7 +1198,29 @@
                                  ],
                                  "value": "https://openspending.org/uk-barnet-spending/transaction/asd9235qaghvs105962as0012"
                               }
-                           ]
+                           ],
+                           "value": {
+                              "amount": [
+                                 {
+                                    "releaseDate": "2011-01-10T09:30:00Z",
+                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
+                                    "releaseTag": [
+                                       "implementation"
+                                    ],
+                                    "value": 100000
+                                 }
+                              ],
+                              "currency": [
+                                 {
+                                    "releaseDate": "2011-01-10T09:30:00Z",
+                                    "releaseID": "ocds-213czf-000-00001-06-implementation",
+                                    "releaseTag": [
+                                       "implementation"
+                                    ],
+                                    "value": "GBP"
+                                 }
+                              ]
+                           }
                         }
                      ]
                   },
@@ -1662,6 +1429,373 @@
                }
             ],
             "ocid": "ocds-213czf-000-00001",
+            "parties": [
+               {
+                  "address": {
+                     "countryName": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "United Kingdom"
+                        }
+                     ],
+                     "locality": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "London"
+                        }
+                     ],
+                     "postalCode": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "N11 1NP"
+                        }
+                     ],
+                     "region": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "London"
+                        }
+                     ],
+                     "streetAddress": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "4, North London Business Park, Oakleigh Rd S"
+                        }
+                     ]
+                  },
+                  "contactPoint": {
+                     "email": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "procurement-team@example.com"
+                        }
+                     ],
+                     "faxNumber": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "01234 345 345"
+                        }
+                     ],
+                     "name": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "Procurement Team"
+                        }
+                     ],
+                     "telephone": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "01234 345 346"
+                        }
+                     ],
+                     "url": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "http://example.com/contact/"
+                        }
+                     ]
+                  },
+                  "id": "GB-LAC-E09000003",
+                  "identifier": {
+                     "id": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "E09000003"
+                        }
+                     ],
+                     "legalName": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "London Borough of Barnet"
+                        }
+                     ],
+                     "scheme": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "GB-LAC"
+                        }
+                     ],
+                     "uri": [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "http://www.barnet.gov.uk/"
+                        }
+                     ]
+                  },
+                  "name": [
+                     {
+                        "releaseDate": "2009-03-15T14:45:00Z",
+                        "releaseID": "ocds-213czf-000-00001-01-planning",
+                        "releaseTag": [
+                           "planning"
+                        ],
+                        "value": "London Borough of Barnet"
+                     }
+                  ],
+                  "roles": [
+                     [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "procuringEntity"
+                        },
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "buyer"
+                        }
+                     ],
+                     [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "buyer"
+                        }
+                     ]
+                  ]
+               },
+               {
+                  "additionalIdentifiers": [
+                     {
+                        "releaseDate": "2010-05-10T09:30:00Z",
+                        "releaseID": "ocds-213czf-000-00001-04-award",
+                        "releaseTag": [
+                           "award"
+                        ],
+                        "value": [
+                           {
+                              "id": "987654321",
+                              "scheme": "GB-VAT"
+                           }
+                        ]
+                     }
+                  ],
+                  "address": {
+                     "countryName": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "United Kingdom"
+                        }
+                     ],
+                     "locality": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "Anytown"
+                        }
+                     ],
+                     "postalCode": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "AN1 1TN"
+                        }
+                     ],
+                     "region": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "AnyCounty"
+                        }
+                     ],
+                     "streetAddress": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "100 Anytown Lane"
+                        }
+                     ]
+                  },
+                  "contactPoint": {
+                     "email": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "contracts@anycorp.example"
+                        }
+                     ],
+                     "faxNumber": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "12345 456 343"
+                        }
+                     ],
+                     "name": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "Contracts Team"
+                        }
+                     ],
+                     "telephone": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "12345 456 343"
+                        }
+                     ]
+                  },
+                  "id": "GB-COH-1234567844",
+                  "identifier": {
+                     "id": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "1234567844"
+                        }
+                     ],
+                     "legalName": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "AnyCorp Ltd"
+                        }
+                     ],
+                     "scheme": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "GB-COH"
+                        }
+                     ],
+                     "uri": [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "http://www.anycorp.example"
+                        }
+                     ]
+                  },
+                  "name": [
+                     {
+                        "releaseDate": "2010-05-10T09:30:00Z",
+                        "releaseID": "ocds-213czf-000-00001-04-award",
+                        "releaseTag": [
+                           "award"
+                        ],
+                        "value": "AnyCorp Cycle Provision"
+                     }
+                  ],
+                  "roles": [
+                     [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "supplier"
+                        }
+                     ]
+                  ]
+               }
+            ],
             "planning": {
                "budget": {
                   "amount": {
@@ -1907,45 +2041,114 @@
                ]
             },
             "tender": {
-               "amendment": {
-                  "changes": [
-                     {
-                        "releaseDate": "2010-03-20T09:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
-                        "releaseTag": [
-                           "tenderAmendment"
-                        ],
-                        "value": [
-                           {
-                              "property": "documents"
-                           },
-                           {
-                              "property": "hasEnquiries"
-                           }
-                        ]
-                     }
-                  ],
-                  "date": [
-                     {
-                        "releaseDate": "2010-03-20T09:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
-                        "releaseTag": [
-                           "tenderAmendment"
-                        ],
-                        "value": "2010-03-20T09:45:00Z"
-                     }
-                  ],
-                  "rationale": [
-                     {
-                        "releaseDate": "2010-03-20T09:45:00Z",
-                        "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
-                        "releaseTag": [
-                           "tenderAmendment"
-                        ],
-                        "value": "Following the enquiry period, enquiries were received and responses to questions asked have been published. No changes to the overall tender details were made."
-                     }
-                  ]
-               },
+               "amendments": [
+                  {
+                     "amendsReleaseID": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "ocds-213czf-000-00001-02-tender"
+                        }
+                     ],
+                     "date": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "2010-03-20T09:45:00Z"
+                        }
+                     ],
+                     "description": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Following the enquiry period, enquiries were received and responses to questions asked have been published. No changes to the overall tender details were made."
+                        }
+                     ],
+                     "id": "update-1",
+                     "rationale": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Update following enquiries."
+                        }
+                     ],
+                     "releaseID": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "ocds-213czf-000-00001-03-tenderUpdate"
+                        }
+                     ]
+                  },
+                  {
+                     "amendsReleaseID": [
+                        {
+                           "releaseDate": "2010-03-20T10:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseTag": [
+                              "tenderAmendment"
+                           ],
+                           "value": "ocds-213czf-000-00001-02-tender"
+                        }
+                     ],
+                     "date": [
+                        {
+                           "releaseDate": "2010-03-20T10:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseTag": [
+                              "tenderAmendment"
+                           ],
+                           "value": "2010-03-20T10:45:00Z"
+                        }
+                     ],
+                     "description": [
+                        {
+                           "releaseDate": "2010-03-20T10:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseTag": [
+                              "tenderAmendment"
+                           ],
+                           "value": "Following the enquiry period, a decision was made to increase the maximum value by 10%."
+                        }
+                     ],
+                     "id": "amendment-1",
+                     "rationale": [
+                        {
+                           "releaseDate": "2010-03-20T10:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseTag": [
+                              "tenderAmendment"
+                           ],
+                           "value": "Revised value"
+                        }
+                     ],
+                     "releaseID": [
+                        {
+                           "releaseDate": "2010-03-20T10:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseTag": [
+                              "tenderAmendment"
+                           ],
+                           "value": "ocds-213czf-000-00001-03-tenderAmendment"
+                        }
+                     ]
+                  }
+               ],
                "awardCriteria": [
                   {
                      "releaseDate": "2009-03-15T14:45:00Z",
@@ -2238,9 +2441,9 @@
                      "datePublished": [
                         {
                            "releaseDate": "2010-03-20T09:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                            "releaseTag": [
-                              "tenderAmendment"
+                              "tenderUpdate"
                            ],
                            "value": "2010-03-20T11:30:15Z"
                         }
@@ -2248,9 +2451,9 @@
                      "description": [
                         {
                            "releaseDate": "2010-03-20T09:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                            "releaseTag": [
-                              "tenderAmendment"
+                              "tenderUpdate"
                            ],
                            "value": "Responses to enquiries asked by interested parties."
                         }
@@ -2258,9 +2461,9 @@
                      "documentType": [
                         {
                            "releaseDate": "2010-03-20T09:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                            "releaseTag": [
-                              "tenderAmendment"
+                              "tenderUpdate"
                            ],
                            "value": "enquiryResponses"
                         }
@@ -2268,9 +2471,9 @@
                      "format": [
                         {
                            "releaseDate": "2010-03-20T09:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                            "releaseTag": [
-                              "tenderAmendment"
+                              "tenderUpdate"
                            ],
                            "value": "text/html"
                         }
@@ -2279,9 +2482,9 @@
                      "language": [
                         {
                            "releaseDate": "2010-03-20T09:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                            "releaseTag": [
-                              "tenderAmendment"
+                              "tenderUpdate"
                            ],
                            "value": "en"
                         }
@@ -2289,9 +2492,9 @@
                      "title": [
                         {
                            "releaseDate": "2010-03-20T09:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                            "releaseTag": [
-                              "tenderAmendment"
+                              "tenderUpdate"
                            ],
                            "value": "Enquiry Responses"
                         }
@@ -2299,9 +2502,9 @@
                      "url": [
                         {
                            "releaseDate": "2010-03-20T09:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                            "releaseTag": [
-                              "tenderAmendment"
+                              "tenderUpdate"
                            ],
                            "value": "http://example.com/enquiry-response/ocds-213czf-000-00001-01.html"
                         }
@@ -2341,9 +2544,9 @@
                   },
                   {
                      "releaseDate": "2010-03-20T09:45:00Z",
-                     "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                     "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
                      "releaseTag": [
-                        "tenderAmendment"
+                        "tenderUpdate"
                      ],
                      "value": true
                   }
@@ -2586,152 +2789,16 @@
                   }
                ],
                "procuringEntity": {
-                  "address": {
-                     "countryName": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "United Kingdom"
-                        }
-                     ],
-                     "locality": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "London"
-                        }
-                     ],
-                     "postalCode": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "N11 1NP"
-                        }
-                     ],
-                     "region": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "London"
-                        }
-                     ],
-                     "streetAddress": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "4, North London Business Park, Oakleigh Rd S"
-                        }
-                     ]
-                  },
-                  "contactPoint": {
-                     "email": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "procurement-team@example.com"
-                        }
-                     ],
-                     "faxNumber": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "01234 345 345"
-                        }
-                     ],
-                     "name": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "Procurement Team"
-                        }
-                     ],
-                     "telephone": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "01234 345 346"
-                        }
-                     ],
-                     "url": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "http://example.com/contact/"
-                        }
-                     ]
-                  },
-                  "identifier": {
-                     "id": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "E09000003"
-                        }
-                     ],
-                     "legalName": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "London Borough of Barnet"
-                        }
-                     ],
-                     "scheme": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "GB-LAC"
-                        }
-                     ],
-                     "uri": [
-                        {
-                           "releaseDate": "2009-03-15T14:45:00Z",
-                           "releaseID": "ocds-213czf-000-00001-01-planning",
-                           "releaseTag": [
-                              "planning"
-                           ],
-                           "value": "http://www.barnet.gov.uk/"
-                        }
-                     ]
-                  },
+                  "id": [
+                     {
+                        "releaseDate": "2009-03-15T14:45:00Z",
+                        "releaseID": "ocds-213czf-000-00001-01-planning",
+                        "releaseTag": [
+                           "planning"
+                        ],
+                        "value": "GB-LAC-E09000003"
+                     }
+                  ],
                   "name": [
                      {
                         "releaseDate": "2009-03-15T14:45:00Z",
@@ -2840,6 +2907,14 @@
                            "tender"
                         ],
                         "value": 1100000
+                     },
+                     {
+                        "releaseDate": "2010-03-20T10:45:00Z",
+                        "releaseID": "ocds-213czf-000-00001-03-tenderAmendment",
+                        "releaseTag": [
+                           "tenderAmendment"
+                        ],
+                        "value": 1210000
                      }
                   ],
                   "currency": [
@@ -2857,5 +2932,6 @@
          }
       }
    ],
-   "uri": "http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json"
+   "uri": "http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json",
+   "version": "1.1"
 }
