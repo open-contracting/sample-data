@@ -32,6 +32,8 @@ with open("record/ocds-213czf-000-00001.json", 'w') as f:
         'packages': packages,
         'publisher': package['publisher'],
         'publishedDate': '2014-02-02T13:02:00Z',
+        'version':'1.1',
+        'extensions':[],
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
             'releases': releases,
@@ -45,6 +47,8 @@ with open("record/ocds-213czf-000-00001-withversions.json", 'w') as f:
         'packages': packages,
         'publisher': package['publisher'],
         'publishedDate': '2014-02-02T13:02:00Z',
+        'version':'1.1',
+        'extensions':[],
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
             'releases': releases,
