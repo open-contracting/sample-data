@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e # exit on error
 wget "http://ocds.open-contracting.org/standard/r/1__0__2/release-package-schema.json"
+wget "http://ocds.open-contracting.org/standard/r/1__0__2/record-package-schema.json"
 wget "http://ocds.open-contracting.org/standard/r/1__0__2/release-schema.json"
 cd fictional-example
 # Check that files validate
