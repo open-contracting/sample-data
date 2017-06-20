@@ -1,0 +1,84 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+  "publishedDate": "2017-06-20T15:41:34-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-274744",
+      "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1-award",
+      "date": "2017-06-20T15:41:34-04:00",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "awards": [
+        {
+          "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+          "title": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+          "status": "active",
+          "date": "2016-07-14T17:40:06-04:00",
+          "value": {
+            "amount": 771657000.0,
+            "currency": "PYG"
+          },
+          "suppliers": [
+            {
+              "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+              "identifier": {
+                "id": "368894-1",
+                "legalName": "GUSTAVO ALBERTO AQUINO ALFIERI",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "274744-gustavo-alberto-aquino-alfieri-3"
+              },
+              "address": {
+                "streetAddress": "JUAN MAX BOETTNER 930",
+                "postalCode": "",
+                "locality": "ASUNCION (DISTRITO)",
+                "countryName": "Paraguay",
+                "region": "Central"
+              },
+              "contactPoint": {
+                "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+                "faxNumber": "",
+                "telephone": "611230",
+                "email": "gustaqui@pla.net.py",
+                "url": null
+              }
+            },
+            {
+              "name": "NELSON FRANCISCO VERA QUINTANA",
+              "identifier": {
+                "id": "855506-0",
+                "legalName": "NELSON FRANCISCO VERA QUINTANA",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "274744-nelson-francisco-vera-quintana-2"
+              },
+              "address": {
+                "streetAddress": "INGLATERRA N° 143 C/ ARTIGAS.",
+                "postalCode": "",
+                "locality": "ASUNCIÓN.",
+                "countryName": "Paraguay",
+                "region": "Asunción"
+              },
+              "contactPoint": {
+                "name": "NELSON FRANCISCO VERA QUINTANA.",
+                "faxNumber": "",
+                "telephone": "021 295 748/9",
+                "email": "lida.cuevas@pmc.com.py",
+                "url": null
+              }
+            }
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1"
+        }
+      ]
+    }
+  ]
+}

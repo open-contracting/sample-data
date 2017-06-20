@@ -1,0 +1,61 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/284462-construccion-pavimento-tipo-asfalto-distintos-puntos-ciudad-ad-referendum-ejercicio-1",
+  "publishedDate": "2017-06-20T15:44:52-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-284462",
+      "id": "284462-construccion-pavimento-tipo-asfalto-distintos-puntos-ciudad-ad-referendum-ejercicio-1-award",
+      "date": "2017-06-20T15:44:52-04:00",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "awards": [
+        {
+          "id": "284462-construccion-pavimento-tipo-asfalto-distintos-puntos-ciudad-ad-referendum-ejercicio-1",
+          "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO ASFALTO EN DISTINTOS PUNTOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016). Fuente de Financiamiento: ROYALTIES 2016.",
+          "status": "active",
+          "date": "2016-05-10T08:40:32-04:00",
+          "value": {
+            "amount": 670084116,
+            "currency": "PYG"
+          },
+          "suppliers": [
+            {
+              "name": "TECNOEDIL S.A. CONSTRUCTORA",
+              "identifier": {
+                "id": "80005531-4",
+                "legalName": "TECNOEDIL S.A. CONSTRUCTORA",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "284462-tecnoedil-s-a-constructora-1"
+              },
+              "address": {
+                "streetAddress": "TTE. ARAUJO MIÃ?O NÂº 107 ESQ SACRAMENTO",
+                "postalCode": "",
+                "locality": "ASUNCION",
+                "countryName": "Paraguay",
+                "region": "Central"
+              },
+              "contactPoint": {
+                "name": "ROLANDO RIOS TOMBOLY",
+                "faxNumber": "",
+                "telephone": "291947",
+                "email": "gcomercial@tecnoedil.com.py",
+                "url": null
+              }
+            }
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284462-construccion-pavimento-tipo-asfalto-distintos-puntos-ciudad-ad-referendum-ejercicio-1"
+        }
+      ]
+    }
+  ]
+}

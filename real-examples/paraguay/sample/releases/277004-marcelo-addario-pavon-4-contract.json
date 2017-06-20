@@ -1,0 +1,156 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/contratos/277004-marcelo-addario-pavon-4",
+  "publishedDate": "2017-06-20T15:42:23-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-277004",
+      "id": "277004-marcelo-addario-pavon-4-contract",
+      "date": "2017-06-20T15:42:23-04:00",
+      "tag": [
+        "contract"
+      ],
+      "initiationType": "tender",
+      "contracts": [
+        {
+          "id": "277004-marcelo-addario-pavon-4",
+          "awardID": "277004-adquisicion-equipos-e-insumos-informaticos-1",
+          "dncpContractCode": "LP-30001-16-123518",
+          "title": "ADQUISICION DE EQUIPOS E INSUMOS INFORMATICOS ",
+          "status": "active",
+          "value": {
+            "amount": 13500000.0,
+            "currency": "PYG"
+          },
+          "lots": [
+            {
+              "id": "nYZlDIKXpLc%3D",
+              "title": "Lote 1",
+              "items": [
+                "0YuZqwo6o%2Fc%3D"
+              ]
+            }
+          ],
+          "items": [
+            {
+              "description": "Gabinete",
+              "id": "0YuZqwo6o%2Fc%3D",
+              "classification": {
+                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43211601-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43211601-001"
+              },
+              "quantity": 60.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 225000.0,
+                  "currency": "PYG"
+                }
+              }
+            }
+          ],
+          "dateSigned": "2016-07-01T12:00:00-04:00",
+          "suppliers": {
+            "name": "MARCELO ADDARIO PAVON",
+            "identifier": {
+              "id": "754010-8",
+              "legalName": "MARCELO ADDARIO PAVON",
+              "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+            },
+            "identifiers": {
+              "key": "277004-marcelo-addario-pavon-4"
+            }
+          },
+          "documents": [
+            {
+              "id": "fl05nnbZd9k%3D",
+              "documentType": "Acta de Apertura",
+              "title": "Acta de Apertura",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fl05nnbZd9k%253D",
+              "format": "text/plain"
+            },
+            {
+              "id": "kSRIzDLBDNg%3D",
+              "documentType": "Cuadro Comparativo de Ofertas",
+              "title": "Cuadro Comparativo de Ofertas",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/kSRIzDLBDNg%253D",
+              "format": "text/plain"
+            },
+            {
+              "id": "PmuOgYcZ%2Bm4%3D",
+              "documentType": "evaluationReports",
+              "title": "Informe de Evaluación",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PmuOgYcZ%252Bm4%253D",
+              "format": "application/zip"
+            },
+            {
+              "id": "qNiJ62Lw6Jg%3D",
+              "documentType": "Notificación al Oferente",
+              "title": "Notificación al Oferente",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/qNiJ62Lw6Jg%253D",
+              "format": "text/plain"
+            },
+            {
+              "id": "5XnqHzJ6k4c%3D",
+              "documentType": "Notificación al Oferente",
+              "title": "Notificación al Oferente",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/5XnqHzJ6k4c%253D",
+              "format": "text/plain"
+            },
+            {
+              "id": "IvnjTpND9MM%3D",
+              "documentType": "Orden de Compra o Contrato",
+              "title": "Orden de Compra o Contrato",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/IvnjTpND9MM%253D",
+              "format": "text/plain"
+            },
+            {
+              "id": "iq7STG1pptg%3D",
+              "documentType": "awardNotice",
+              "title": "Resolución de Adjudicación",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iq7STG1pptg%253D",
+              "format": "application/zip"
+            },
+            {
+              "id": "yqYmkyHeu%2FY%3D",
+              "documentType": "awardNotice",
+              "title": "Resolución de Adjudicación",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/yqYmkyHeu%252FY%253D",
+              "format": "application/zip"
+            },
+            {
+              "id": "EhpIgByEU%2BA%3D",
+              "documentType": "awardNotice",
+              "title": "Resolución de Adjudicación",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/EhpIgByEU%252BA%253D",
+              "format": "application/zip"
+            }
+          ],
+          "period": {
+            "endDate": "2017-07-01T12:00:00-04:00",
+            "startDate": "2016-07-01T12:00:00-04:00"
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/contratos/277004-marcelo-addario-pavon-4"
+        }
+      ]
+    }
+  ]
+}

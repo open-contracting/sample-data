@@ -1,0 +1,183 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/contratos/283826-engineering-s-a-1",
+  "publishedDate": "2017-06-20T15:43:36-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-283826",
+      "id": "283826-engineering-s-a-1-contract",
+      "date": "2017-06-20T15:43:36-04:00",
+      "tag": [
+        "contract"
+      ],
+      "initiationType": "tender",
+      "contracts": [
+        {
+          "id": "283826-engineering-s-a-1",
+          "awardID": "283826-ampliacion-sala-internados-traumatologia-hospital-luque-1",
+          "dncpContractCode": "LP-12008-16-123692",
+          "title": "AMPLIACIÓN DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
+          "status": "active",
+          "value": {
+            "amount": 1842099456.0,
+            "currency": "PYG"
+          },
+          "lots": [
+            {
+              "id": "9ljjp1lUO%2BQ%3D",
+              "title": "AMPLIACIÓN DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
+              "items": [
+                "qt4j1aGLCA0%3D",
+                "u7RD6pvZdIg%3D"
+              ]
+            }
+          ],
+          "items": [
+            {
+              "description": "Preparacion de obra",
+              "id": "qt4j1aGLCA0%3D",
+              "classification": {
+                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "72131601-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131601-002"
+              },
+              "quantity": null,
+              "unit": {
+                "name": "_NO_APLICA_",
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Instalacion de sistema contra incendios",
+              "id": "u7RD6pvZdIg%3D",
+              "classification": {
+                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "92121702-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/92121702-002"
+              },
+              "quantity": null,
+              "unit": {
+                "name": "_NO_APLICA_",
+                "value": {
+                  "amount": null,
+                  "currency": "PYG"
+                }
+              }
+            }
+          ],
+          "dateSigned": "2016-05-25T12:00:00-04:00",
+          "suppliers": {
+            "name": "ENGINEERING S.A.",
+            "identifier": {
+              "id": "80047025-7",
+              "legalName": "ENGINEERING S.A.",
+              "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+            },
+            "identifiers": {
+              "key": "283826-engineering-s-a-1"
+            }
+          },
+          "documents": [
+            {
+              "id": "TInp6PG0rvw%3D",
+              "documentType": "Acta de Apertura",
+              "title": "Acta de Apertura",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/TInp6PG0rvw%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "R%2BOTP6gMkx8%3D",
+              "documentType": "Cuadro Comparativo de Ofertas",
+              "title": "Cuadro Comparativo de Ofertas",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/R%252BOTP6gMkx8%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "OUbPUiFCNtI%3D",
+              "documentType": "Cuadro Comparativo de Ofertas",
+              "title": "Cuadro Comparativo de Ofertas",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/OUbPUiFCNtI%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "ZJ7t3VzoNlw%3D",
+              "documentType": "evaluationReports",
+              "title": "Informe de Evaluación",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ZJ7t3VzoNlw%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "MW5A3pMAB2k%3D",
+              "documentType": "Nota de Aclaración",
+              "title": "Nota de Aclaración",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/MW5A3pMAB2k%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "BRN74mrJkIA%3D",
+              "documentType": "Notificación al Oferente",
+              "title": "Notificación al Oferente",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/BRN74mrJkIA%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "1G4X%2FxPS%2B%2Bc%3D",
+              "documentType": "Notificación al Oferente",
+              "title": "Notificación al Oferente",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1G4X%252FxPS%252B%252Bc%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "BDUeo5Kpbeo%3D",
+              "documentType": "Orden de Compra o Contrato",
+              "title": "Orden de Compra o Contrato",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/BDUeo5Kpbeo%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "c7InTrQ%2B3rw%3D",
+              "documentType": "awardNotice",
+              "title": "Resolución de Adjudicación",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/c7InTrQ%252B3rw%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "aV0hmUnUcJo%3D",
+              "documentType": "awardNotice",
+              "title": "Resolución de Adjudicación",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/aV0hmUnUcJo%253D",
+              "format": "application/pdf"
+            }
+          ],
+          "period": {
+            "endDate": "2017-11-25T12:00:00-05:00",
+            "startDate": "2016-05-25T12:00:00-04:00"
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/contratos/283826-engineering-s-a-1"
+        }
+      ]
+    }
+  ]
+}

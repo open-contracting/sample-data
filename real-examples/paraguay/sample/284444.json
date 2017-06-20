@@ -1,11 +1,12 @@
 {
   "uri": "https://www.contrataciones.gov.py/datos/record-package/284444.json",
+  "publishedDate": "2017-06-20T15:44:09-04:00",
   "publisher": {
-    "uri": "https://contrataciones.gov.py/datos",
+    "name": "DNCP - Paraguay",
     "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
-    "name": "DNCP - Paraguay"
+    "uri": "https://contrataciones.gov.py/datos"
   },
-  "publishedDate": "2017-01-04T11:01:20-05:00",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
   "packages": [
     "https://www.contrataciones.gov.py/datos/id/planning/284444-servicios-mantenimiento-reparacion-maquinarias-institucion-municipal.json",
@@ -15,414 +16,413 @@
   ],
   "records": [
     {
+      "ocid": "ocds-03ad3f-284444",
+      "releases": [
+        {
+          "date": "2015-01-22T10:32:11-05:00",
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/284444-servicios-mantenimiento-reparacion-maquinarias-institucion-municipal.json"
+        },
+        {
+          "date": "2015-12-01T10:00:06-05:00",
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json"
+        },
+        {
+          "date": "2016-05-10T09:24:45-04:00",
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json"
+        },
+        {
+          "date": "2016-02-26T12:00:00-05:00",
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/284444-miguel-martin-moreno-dominguez-1.json"
+        }
+      ],
       "compiledRelease": {
+        "language": "es",
+        "ocid": "ocds-03ad3f-284444",
+        "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+        "date": "2017-06-20T15:44:09-04:00",
         "tag": [
           "compiled"
         ],
-        "date": "2017-01-04T11:01:20-05:00",
-        "language": "es",
+        "initiationType": "tender",
+        "planning": {
+          "budget": {
+            "description": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
+            "amount": {
+              "amount": 1300000000.0,
+              "currency": "PYG"
+            }
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/284444-servicios-mantenimiento-reparacion-maquinarias-institucion-municipal"
+        },
         "tender": {
+          "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+          "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
           "status": "complete",
           "lots": [
             {
+              "id": "ZgQ7HiuT1jU%3D",
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN ALFREDO FRACCIÓN EL BOSQUE",
               "items": [
                 "kGfpbOX5cPhg3mM07iELNw%3D%3D"
-              ],
-              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN ALFREDO FRACCIÓN EL BOSQUE",
-              "id": "ZgQ7HiuT1jU%3D"
+              ]
             },
             {
-              "items": [],
+              "id": "SdBF0p%2FxYHo%3D",
               "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 8 1/2, FRACCIÓN JUAN PABLO II",
-              "id": "SdBF0p%2FxYHo%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "dROhS%2BSTtHw%3D",
               "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL KM 9 MONDAY, FRACCIÓN 8 DE DICIEMBRE",
-              "id": "dROhS%2BSTtHw%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "4z1Xc4cyZHc%3D",
               "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO DOM BOSCO CALLE 6 ACARAY",
-              "id": "4z1Xc4cyZHc%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "JtZYp6yXfgc%3D",
               "title": "CONSTRUCIÓN DE PAVIMENTO TIPO RIGIDO EN EL BARRIO SAN RAFAEL ",
-              "id": "JtZYp6yXfgc%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "uPehjAMgpSY%3D",
               "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA, FRACCIÓN PINO II ",
-              "id": "uPehjAMgpSY%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "dm%2F7CpmiknA%3D",
               "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO PABLO ROJAS FRACCIÓN SAN ANTONIO",
-              "id": "dm%2F7CpmiknA%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "lxKMu09vVnA%3D",
               "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN MIGUEL ",
-              "id": "lxKMu09vVnA%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "n3hSywjZBZI%3D",
               "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA",
-              "id": "n3hSywjZBZI%3D"
+              "items": []
             },
             {
-              "items": [],
+              "id": "dZ%2F6OYJeiQM%3D",
               "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO MARÍA AUXILIADORA",
-              "id": "dZ%2F6OYJeiQM%3D"
+              "items": []
             }
           ],
-          "documents": [
+          "items": [
             {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Adenda",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/xu9tTbtO4%252Fc%253D",
-              "title": "Adenda",
-              "id": "xu9tTbtO4%2Fc%3D"
-            },
-            {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Condiciones Generales del Contrato - Obras",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/vX20EMQmACQ%253D",
-              "title": "Condiciones Generales del Contrato - Obras",
-              "id": "vX20EMQmACQ%3D"
-            },
-            {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Instrucción a los Oferentes - Obras",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/DuJvRug9gpg%253D",
-              "title": "Instrucción a los Oferentes - Obras",
-              "id": "DuJvRug9gpg%3D"
-            },
-            {
-              "language": "es",
-              "format": "application/zip",
-              "documentType": "Plano de obra o cómputos métricos",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/6BOVXRHvzkc%253D",
-              "title": "Plano de obra o cómputos métricos",
-              "id": "6BOVXRHvzkc%3D"
-            },
-            {
-              "language": "es",
-              "format": "application/zip",
-              "documentType": "Plano de obra o cómputos métricos",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/UUTvUmbXicA%253D",
-              "title": "Plano de obra o cómputos métricos",
-              "id": "UUTvUmbXicA%3D"
-            },
-            {
-              "language": "es",
-              "format": "application/zip",
-              "documentType": "biddingDocuments",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/3mCg7Ij3rNY%253D",
-              "title": "Pliego de bases y Condiciones",
-              "id": "3mCg7Ij3rNY%3D"
+              "description": "Construcción de empedrado",
+              "id": "kGfpbOX5cPhg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "72131701-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002"
+              },
+              "quantity": 1.0,
+              "unit": {
+                "name": "Unidad Medida Global",
+                "value": {
+                  "amount": 94691496.0,
+                  "currency": "PYG"
+                }
+              }
             }
-          ],
-          "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
-          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-          "tenderPeriod": {
-            "endDate": "2015-12-29T10:00:00-05:00",
-            "startDate": null
-          },
-          "procuringEntity": {
-            "name": "Municipalidad de Ciudad del Este",
-            "contactPoint": {
-              "email": "ceste@dncp.gov.py",
-              "name": "Econ. Cristian Gustavo Rolón Paredes ",
-              "telephone": "061-508-700"
-            }
-          },
-          "submissionMethod": [
-            "written"
           ],
           "value": {
-            "amount": null,
-            "currency": "PYG"
+            "currency": "PYG",
+            "amount": 1300000000.0
           },
           "enquiryPeriod": {
             "endDate": "2015-12-21T10:00:00-05:00"
           },
-          "items": [
-            {
-              "unit": {
-                "value": {
-                  "amount": 94691493,
-                  "currency": "PYG"
-                },
-                "name": "Unidad Medida Global"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "72131701-002"
-              },
-              "quantity": 1,
-              "description": "Construcción de empedrado",
-              "id": "kGfpbOX5cPhg3mM07iELNw%3D%3D"
-            }
-          ],
-          "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
           "hasEnquiries": false,
           "awardPeriod": {
-            "endDate": null,
-            "startDate": "2015-12-21T10:00:00-05:00"
-          }
-        },
-        "planning": {
-          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/284444-servicios-mantenimiento-reparacion-maquinarias-institucion-municipal",
-          "budget": {
-            "description": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
-            "amount": {
-              "amount": null,
-              "currency": "PYG"
+            "startDate": "2015-12-21T10:00:00-05:00",
+            "endDate": null
+          },
+          "procuringEntity": {
+            "name": "Municipalidad de Ciudad del Este",
+            "contactPoint": {
+              "name": "Econ. Cristian Gustavo Rolón Paredes ",
+              "email": "ceste@dncp.gov.py",
+              "telephone": "061-508-700"
             }
+          },
+          "documents": [
+            {
+              "id": "xu9tTbtO4%2Fc%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/xu9tTbtO4%252Fc%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "vX20EMQmACQ%3D",
+              "documentType": "Condiciones Generales del Contrato - Obras",
+              "title": "Condiciones Generales del Contrato - Obras",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/vX20EMQmACQ%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "DuJvRug9gpg%3D",
+              "documentType": "Instrucción a los Oferentes - Obras",
+              "title": "Instrucción a los Oferentes - Obras",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/DuJvRug9gpg%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "6BOVXRHvzkc%3D",
+              "documentType": "Plano de obra o cómputos métricos",
+              "title": "Plano de obra o cómputos métricos",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/6BOVXRHvzkc%253D",
+              "format": "application/zip"
+            },
+            {
+              "id": "UUTvUmbXicA%3D",
+              "documentType": "Plano de obra o cómputos métricos",
+              "title": "Plano de obra o cómputos métricos",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/UUTvUmbXicA%253D",
+              "format": "application/zip"
+            },
+            {
+              "id": "3mCg7Ij3rNY%3D",
+              "documentType": "biddingDocuments",
+              "title": "Pliego de bases y Condiciones",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/3mCg7Ij3rNY%253D",
+              "format": "application/zip"
+            }
+          ],
+          "tenderPeriod": {
+            "endDate": "2015-12-29T10:00:00-05:00",
+            "startDate": null
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1"
+        },
+        "buyer": {
+          "name": "Municipalidad de Ciudad del Este",
+          "contactPoint": {
+            "name": "Econ. Cristian Gustavo Rolón Paredes ",
+            "email": "ceste@dncp.gov.py",
+            "telephone": "061-508-700"
           }
         },
         "awards": [
           {
+            "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
+            "status": "active",
+            "date": "2016-05-10T09:24:45-04:00",
             "value": {
               "amount": 1135850400.0,
               "currency": "PYG"
             },
-            "status": "active",
-            "date": "2016-05-10T09:24:45-04:00",
             "suppliers": [
               {
+                "name": "MIGUEL MARTIN MORENO DOMINGUEZ",
                 "identifier": {
-                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "id": "2896266-4",
                   "legalName": "MIGUEL MARTIN MORENO DOMINGUEZ",
-                  "id": "2896266-4"
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
                 },
                 "address": {
-                  "postalCode": "",
                   "streetAddress": "TTE RAMON ZAVALA E/CAP ELIAS AYALA",
+                  "postalCode": "",
                   "locality": "ASUNCION (DISTRITO)",
                   "countryName": "Paraguay",
                   "region": "Central"
                 },
-                "name": "MIGUEL MARTIN MORENO DOMINGUEZ",
                 "contactPoint": {
-                  "email": "miguelmoreno07@gmail.com",
-                  "faxNumber": "",
-                  "url": "",
                   "name": "MIGUEL MARTIN MORENO DOMINGUEZ",
-                  "telephone": "21662221"
+                  "faxNumber": "",
+                  "telephone": "21662221",
+                  "email": "miguelmoreno07@gmail.com",
+                  "url": null
                 }
               }
             ],
-            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
-            "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1"
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1"
           }
         ],
-        "contract": [
+        "contracts": [
           {
+            "id": "284444-miguel-martin-moreno-dominguez-1",
+            "awardID": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+            "dncpContractCode": "LP-30151-16-123501",
+            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
             "status": "active",
-            "suppliers": {
-              "identifier": {
-                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
-                "legalName": "MIGUEL MARTIN MORENO DOMINGUEZ",
-                "id": "2896266-4"
+            "value": {
+              "amount": 1135850368.0,
+              "currency": "PYG"
+            },
+            "lots": [
+              {
+                "id": "2IWqDWzMbPg%3D",
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN ALFREDO FRACCIÓN EL BOSQUE",
+                "items": [
+                  "TkeMhLsmpOQ%3D"
+                ]
               },
+              {
+                "id": "%2FlOQwR%2FR6eE%3D",
+                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 8 1/2, FRACCIÓN JUAN PABLO II",
+                "items": []
+              },
+              {
+                "id": "OybIqI4Yl00%3D",
+                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL KM 9 MONDAY, FRACCIÓN 8 DE DICIEMBRE",
+                "items": []
+              },
+              {
+                "id": "fAWh1GyRqVI%3D",
+                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO DOM BOSCO CALLE 6 ACARAY",
+                "items": []
+              },
+              {
+                "id": "ZOG0kwsZjnI%3D",
+                "title": "CONSTRUCIÓN DE PAVIMENTO TIPO RIGIDO EN EL BARRIO SAN RAFAEL ",
+                "items": []
+              },
+              {
+                "id": "cN%2BGUJX7DQY%3D",
+                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA, FRACCIÓN PINO II ",
+                "items": []
+              },
+              {
+                "id": "tqzNbVfWAT0%3D",
+                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO PABLO ROJAS FRACCIÓN SAN ANTONIO",
+                "items": []
+              },
+              {
+                "id": "drgvIq1HZ7s%3D",
+                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN MIGUEL ",
+                "items": []
+              },
+              {
+                "id": "n9fNLY95thU%3D",
+                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA",
+                "items": []
+              },
+              {
+                "id": "o7nxPO%2Fl8Po%3D",
+                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO MARÍA AUXILIADORA",
+                "items": []
+              }
+            ],
+            "items": [
+              {
+                "description": "Construcción de empedrado",
+                "id": "TkeMhLsmpOQ%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "72131701-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
+              }
+            ],
+            "dateSigned": "2016-02-26T12:00:00-05:00",
+            "suppliers": {
               "name": "MIGUEL MARTIN MORENO DOMINGUEZ",
+              "identifier": {
+                "id": "2896266-4",
+                "legalName": "MIGUEL MARTIN MORENO DOMINGUEZ",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
               "identifiers": {
                 "key": "284444-miguel-martin-moreno-dominguez-1"
               }
             },
-            "dncpContractCode": "LP-30151-16-123501",
-            "lots": [
-              {
-                "items": [
-                  "TkeMhLsmpOQ%3D"
-                ],
-                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN ALFREDO FRACCIÓN EL BOSQUE",
-                "id": "2IWqDWzMbPg%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 8 1/2, FRACCIÓN JUAN PABLO II",
-                "id": "%2FlOQwR%2FR6eE%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL KM 9 MONDAY, FRACCIÓN 8 DE DICIEMBRE",
-                "id": "OybIqI4Yl00%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO DOM BOSCO CALLE 6 ACARAY",
-                "id": "fAWh1GyRqVI%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCIÓN DE PAVIMENTO TIPO RIGIDO EN EL BARRIO SAN RAFAEL ",
-                "id": "ZOG0kwsZjnI%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA, FRACCIÓN PINO II ",
-                "id": "cN%2BGUJX7DQY%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO PABLO ROJAS FRACCIÓN SAN ANTONIO",
-                "id": "tqzNbVfWAT0%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN MIGUEL ",
-                "id": "drgvIq1HZ7s%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA",
-                "id": "n9fNLY95thU%3D"
-              },
-              {
-                "items": [],
-                "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO MARÍA AUXILIADORA",
-                "id": "o7nxPO%2Fl8Po%3D"
-              }
-            ],
             "documents": [
               {
-                "language": "es",
-                "format": "application/pdf",
+                "id": "fyjLQwOKQo4%3D",
                 "documentType": "Acta de Apertura",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fyjLQwOKQo4%253D",
                 "title": "Acta de Apertura",
-                "id": "fyjLQwOKQo4%3D"
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fyjLQwOKQo4%253D",
+                "format": "application/pdf"
               },
               {
-                "language": "es",
-                "format": "application/pdf",
+                "id": "UbInIQJN2H4%3D",
                 "documentType": "Cuadro Comparativo de Ofertas",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/UbInIQJN2H4%253D",
                 "title": "Cuadro Comparativo de Ofertas",
-                "id": "UbInIQJN2H4%3D"
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/UbInIQJN2H4%253D",
+                "format": "application/pdf"
               },
               {
-                "language": "es",
-                "format": "application/pdf",
+                "id": "fzjYbyVsmwM%3D",
                 "documentType": "evaluationReports",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fzjYbyVsmwM%253D",
                 "title": "Informe de Evaluación",
-                "id": "fzjYbyVsmwM%3D"
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fzjYbyVsmwM%253D",
+                "format": "application/pdf"
               },
               {
-                "language": "es",
-                "format": "application/pdf",
+                "id": "QgTdVruf3fs%3D",
                 "documentType": "Notificación al Oferente",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/QgTdVruf3fs%253D",
                 "title": "Notificación al Oferente",
-                "id": "QgTdVruf3fs%3D"
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/QgTdVruf3fs%253D",
+                "format": "application/pdf"
               },
               {
-                "language": "es",
-                "format": "application/pdf",
+                "id": "fFt1kYSLHB0%3D",
                 "documentType": "Orden de Compra o Contrato",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fFt1kYSLHB0%253D",
                 "title": "Orden de Compra o Contrato",
-                "id": "fFt1kYSLHB0%3D"
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/fFt1kYSLHB0%253D",
+                "format": "application/pdf"
               },
               {
-                "language": "es",
-                "format": "application/pdf",
+                "id": "MlXIyi1iQd8%3D",
                 "documentType": "awardNotice",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/MlXIyi1iQd8%253D",
                 "title": "Resolución de Adjudicación",
-                "id": "MlXIyi1iQd8%3D"
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/MlXIyi1iQd8%253D",
+                "format": "application/pdf"
               }
             ],
-            "url": "https://www.contrataciones.gov.py/datos/id/contratos/284444-miguel-martin-moreno-dominguez-1",
-            "id": "284444-miguel-martin-moreno-dominguez-1",
             "period": {
-              "endDate": "",
-              "startDate": ""
+              "endDate": "2016-12-26T12:00:00-05:00",
+              "startDate": "2016-02-26T12:00:00-05:00"
             },
-            "value": {
-              "amount": 1135850400.0,
-              "currency": "PYG"
-            },
-            "items": [
-              {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "72131701-002"
-                },
-                "quantity": "_NO_APLICA_",
-                "description": "Construcción de empedrado",
-                "id": "TkeMhLsmpOQ%3D"
-              }
-            ],
-            "awardID": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
-            "dateSigned": "2016-02-26T12:00:00-05:00"
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/284444-miguel-martin-moreno-dominguez-1"
           }
-        ],
-        "buyer": {
-          "name": "Municipalidad de Ciudad del Este",
-          "contactPoint": {
-            "email": "ceste@dncp.gov.py",
-            "name": "Econ. Cristian Gustavo Rolón Paredes ",
-            "telephone": "061-508-700"
-          }
-        },
-        "ocid": "ocds-03ad3f-284444",
-        "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-        "initiationType": "tender"
-      },
-      "releases": [
-        {
-          "tag": [
-            "planning"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/planning/284444-servicios-mantenimiento-reparacion-maquinarias-institucion-municipal.json",
-          "date": "2015-01-22T10:32:11-05:00"
-        },
-        {
-          "tag": [
-            "tender"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/tender/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json",
-          "date": "2015-12-01T10:00:06-05:00"
-        },
-        {
-          "tag": [
-            "award"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/award/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1.json",
-          "date": "2016-05-10T09:24:45-04:00"
-        },
-        {
-          "tag": [
-            "contract"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/contract/284444-miguel-martin-moreno-dominguez-1.json",
-          "date": "2016-02-26T12:00:00-05:00"
-        }
-      ],
-      "ocid": "ocds-03ad3f-284444"
+        ]
+      }
     }
-  ],
-  "license": "https://creativecommons.org/licenses/by/4.0/"
+  ]
 }

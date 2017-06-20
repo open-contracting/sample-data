@@ -1,0 +1,380 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/convocatorias/280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes",
+  "publishedDate": "2017-06-20T15:43:17-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-280555",
+      "id": "280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes-tender",
+      "date": "2017-06-20T15:43:17-04:00",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "tender": {
+        "id": "280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes",
+        "title": "Lp1045_2014 Ampliación de las Subestaciones Ayolas y Villa Hayes",
+        "status": "complete",
+        "lots": [
+          {
+            "id": "heRFVfFSfxs%3D",
+            "title": "Ampliación de la Subestación Ayolas",
+            "items": [
+              "LHvyvNUH8DU%3D"
+            ]
+          },
+          {
+            "id": "8PDsE%2BLw1as%3D",
+            "title": "Ampliación de la Subestación Villa Hayes",
+            "items": []
+          }
+        ],
+        "items": [
+          {
+            "description": "Ampliacion de red electrica",
+            "id": "LHvyvNUH8DU%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "72102201-010",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72102201-010"
+            },
+            "quantity": 1.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": null,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "value": {
+          "currency": "USD",
+          "amount": null
+        },
+        "enquiryPeriod": {
+          "endDate": "2015-06-01T15:00:00-04:00"
+        },
+        "hasEnquiries": false,
+        "awardPeriod": {
+          "startDate": "2015-06-01T15:00:00-04:00",
+          "endDate": null
+        },
+        "procuringEntity": {
+          "name": "Administración Nacional de Electricidad (ANDE)",
+          "contactPoint": {
+            "name": "Heddy Carolina Alegre Alonso",
+            "email": "carolina_alegre@ande.gov.py",
+            "telephone": "2172948"
+          }
+        },
+        "documents": [
+          {
+            "id": "ratu9pe3JzA%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/ratu9pe3JzA%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "nE6WtRN0TKk%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/nE6WtRN0TKk%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "4551fLaxHno%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4551fLaxHno%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "1jKvrOp96O4%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/1jKvrOp96O4%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "MlYIYrFXhxE%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/MlYIYrFXhxE%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "S%2BEXaa8qS3k%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/S%252BEXaa8qS3k%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "RU%2FVvTneTWk%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/RU%252FVvTneTWk%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "6SGbVJsoLmk%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/6SGbVJsoLmk%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "WyRrSiqT2oo%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/WyRrSiqT2oo%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "XDMYLU0Lfpk%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/XDMYLU0Lfpk%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "CzjKcOdZT9Y%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/CzjKcOdZT9Y%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "coWvTkfZ%2BJA%3D",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/coWvTkfZ%252BJA%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "y%2Bbm%2BQZzm%2FM%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/y%252Bbm%252BQZzm%252FM%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "8UYGxiL1Rh4%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/8UYGxiL1Rh4%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "Uhs%2F3Q7RaAM%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Uhs%252F3Q7RaAM%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "cQ82JLde0iw%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/cQ82JLde0iw%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "7JE0Dj81Vgw%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/7JE0Dj81Vgw%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "nQAMO2U2Y6Q%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/nQAMO2U2Y6Q%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "z21pcKmOFHA%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/z21pcKmOFHA%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "jSxZo9Ve5G0%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/jSxZo9Ve5G0%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "kCzT7GZ3OeE%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/kCzT7GZ3OeE%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "ONJpV7miYTU%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/ONJpV7miYTU%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "8fdQLT6bEv8%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/8fdQLT6bEv8%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "XzeaByGapS8%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/XzeaByGapS8%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "oEnZ5Qy%2Fdjk%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/oEnZ5Qy%252Fdjk%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "n1Fd8lhOV74%3D",
+            "documentType": "technicalSpecifications",
+            "title": "Especificaciones técnicas",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/n1Fd8lhOV74%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "31tIsvu7Yt0%3D",
+            "documentType": "technicalSpecifications",
+            "title": "Especificaciones técnicas",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/31tIsvu7Yt0%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "BzX%2BlyewpP8%3D",
+            "documentType": "technicalSpecifications",
+            "title": "Especificaciones técnicas",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/BzX%252BlyewpP8%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "VgTgCUacBGg%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/VgTgCUacBGg%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "AEyhYRB6IFI%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/AEyhYRB6IFI%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "zMdsIFuPNR4%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/zMdsIFuPNR4%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "T4BgB1mNHvg%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/T4BgB1mNHvg%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "mqUh0skz%2FA0%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/mqUh0skz%252FA0%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "qjbCYRBk46M%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/qjbCYRBk46M%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "RjRJY7QgsGs%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/RjRJY7QgsGs%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "koH%2BQHpEP%2BM%3D",
+            "documentType": "biddingDocuments",
+            "title": "Pliego de bases y Condiciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/koH%252BQHpEP%252BM%253D",
+            "format": "application/zip"
+          }
+        ],
+        "tenderPeriod": {
+          "endDate": "2015-07-06T09:00:00-04:00",
+          "startDate": null
+        },
+        "submissionMethod": [
+          "written"
+        ],
+        "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes"
+      }
+    }
+  ]
+}
