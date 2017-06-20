@@ -1,0 +1,154 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/convocatorias/283826-ampliacion-sala-internados-traumatologia-hospital-luque-1",
+  "publishedDate": "2017-06-20T15:43:31-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-283826",
+      "id": "283826-ampliacion-sala-internados-traumatologia-hospital-luque-1-tender",
+      "date": "2017-06-20T15:43:31-04:00",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "tender": {
+        "id": "283826-ampliacion-sala-internados-traumatologia-hospital-luque-1",
+        "title": "AMPLIACIÓN DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
+        "status": "complete",
+        "lots": [
+          {
+            "id": "g6CMpLuVFOI%3D",
+            "title": "AMPLIACIÓN DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
+            "items": [
+              "QcJSlkqVp%2F9g3mM07iELNw%3D%3D",
+              "pyvH0BTa6GVg3mM07iELNw%3D%3D"
+            ]
+          }
+        ],
+        "items": [
+          {
+            "description": "Preparacion de obra",
+            "id": "QcJSlkqVp%2F9g3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "72131601-002",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131601-002"
+            },
+            "quantity": 1.0,
+            "unit": {
+              "name": "Unidad Medida Global",
+              "value": {
+                "amount": 1884454912.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Instalacion de sistema contra incendios",
+            "id": "pyvH0BTa6GVg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "92121702-002",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/92121702-002"
+            },
+            "quantity": 1.0,
+            "unit": {
+              "name": "Unidad Medida Global",
+              "value": {
+                "amount": 46689500.0,
+                "currency": "PYG"
+              }
+            }
+          }
+        ],
+        "value": {
+          "currency": "PYG",
+          "amount": 1931144448.0
+        },
+        "enquiryPeriod": {
+          "endDate": "2016-03-04T08:00:00-05:00"
+        },
+        "hasEnquiries": false,
+        "awardPeriod": {
+          "startDate": "2016-03-04T08:00:00-05:00",
+          "endDate": "2016-03-14T08:05:41-04:00"
+        },
+        "procuringEntity": {
+          "name": "Ministerio de Salud Pública y Bienestar Social (MSPBS)",
+          "contactPoint": {
+            "name": "LIC. ANTONIO CARTES",
+            "email": "licitaciones.mspbs@gmail.com",
+            "telephone": "223-523"
+          }
+        },
+        "documents": [
+          {
+            "id": "60opphLn9b4%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/60opphLn9b4%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "4M71WqiwLtk%3D",
+            "documentType": "Condiciones Generales del Contrato - Obras por Subasta",
+            "title": "Condiciones Generales del Contrato - Obras por Subasta",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4M71WqiwLtk%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "jYdX49FCL%2F4%3D",
+            "documentType": "Instrucción a los Oferentes - Obras por Subasta",
+            "title": "Instrucción a los Oferentes - Obras por Subasta",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/jYdX49FCL%252F4%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "dwpfQEm9eUQ%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/dwpfQEm9eUQ%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "l99EWP0IM78%3D",
+            "documentType": "Plano de obra o cómputos métricos",
+            "title": "Plano de obra o cómputos métricos",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/l99EWP0IM78%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "BF%2Fp7DvhQFQ%3D",
+            "documentType": "biddingDocuments",
+            "title": "Pliego de bases y Condiciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/BF%252Fp7DvhQFQ%253D",
+            "format": "application/zip"
+          }
+        ],
+        "tenderPeriod": {
+          "endDate": null,
+          "startDate": "2016-03-11T08:00:00-05:00"
+        },
+        "submissionMethod": [
+          "electronicAuction"
+        ],
+        "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/283826-ampliacion-sala-internados-traumatologia-hospital-luque-1"
+      }
+    }
+  ]
+}

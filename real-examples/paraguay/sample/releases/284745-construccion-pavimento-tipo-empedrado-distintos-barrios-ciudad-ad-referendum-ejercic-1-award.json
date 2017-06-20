@@ -1,0 +1,61 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+  "publishedDate": "2017-06-20T15:45:08-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-284745",
+      "id": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1-award",
+      "date": "2017-06-20T15:45:08-04:00",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "awards": [
+        {
+          "id": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
+          "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
+          "status": "active",
+          "date": "2016-05-10T09:18:54-04:00",
+          "value": {
+            "amount": 947354961,
+            "currency": "PYG"
+          },
+          "suppliers": [
+            {
+              "name": "ANA MARIA ALFONSO RIVEROS",
+              "identifier": {
+                "id": "945999-5",
+                "legalName": "ANA MARIA ALFONSO RIVEROS",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "284745-ana-maria-alfonso-riveros-1"
+              },
+              "address": {
+                "streetAddress": "BARRIO VIRGEN DE FATIMA CDE",
+                "postalCode": "",
+                "locality": "CIUDAD DEL ESTE",
+                "countryName": "Paraguay",
+                "region": "Alto Paraná"
+              },
+              "contactPoint": {
+                "name": "ANA MARIA ALFONSO RIVEROS",
+                "faxNumber": "",
+                "telephone": "503199",
+                "email": "mariaana_construcciones@hotmail.com",
+                "url": null
+              }
+            }
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1"
+        }
+      ]
+    }
+  ]
+}

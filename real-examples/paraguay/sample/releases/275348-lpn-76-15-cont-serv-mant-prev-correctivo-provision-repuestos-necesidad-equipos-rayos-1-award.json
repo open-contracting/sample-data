@@ -1,0 +1,61 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
+  "publishedDate": "2017-06-20T15:41:53-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-275348",
+      "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1-award",
+      "date": "2017-06-20T15:41:53-04:00",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "awards": [
+        {
+          "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
+          "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
+          "status": "active",
+          "date": "2016-05-25T14:54:55-04:00",
+          "value": {
+            "amount": 2607178400.0,
+            "currency": "PYG"
+          },
+          "suppliers": [
+            {
+              "name": "EDUARDO ELIZECHE BENITEZ SAC",
+              "identifier": {
+                "id": "80002379-0",
+                "legalName": "EDUARDO ELIZECHE BENITEZ SAC",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "275348-eduardo-elizeche-benitez-sac-1"
+              },
+              "address": {
+                "streetAddress": "AVDA SACRAMENTO 2409",
+                "postalCode": "",
+                "locality": "ASUNCION",
+                "countryName": "Paraguay",
+                "region": "Central"
+              },
+              "contactPoint": {
+                "name": "PATRICIA GRANDA DE SERRATI, RICARDO CABALLERO, ADOLFO RAMIREZ, JOSE ROMUALDO GRANDA, EDUARDO GRANDA Y MAURICIO SERRATI GRANDA",
+                "faxNumber": "",
+                "telephone": "294349 - 282301/2",
+                "email": "maria.garay@elizechesac.com",
+                "url": "http://www.elizechesac.com"
+              }
+            }
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1"
+        }
+      ]
+    }
+  ]
+}

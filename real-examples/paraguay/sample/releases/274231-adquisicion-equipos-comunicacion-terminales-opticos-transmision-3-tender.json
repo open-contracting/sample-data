@@ -1,0 +1,181 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/convocatorias/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3",
+  "publishedDate": "2017-06-20T15:41:15-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-274231",
+      "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3-tender",
+      "date": "2017-06-20T15:41:15-04:00",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "tender": {
+        "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3",
+        "title": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIÓN Y TERMINALES ÓPTICOS DE TRANSMISIÓN",
+        "status": "complete",
+        "lots": [
+          {
+            "id": "CPBkrUbBsc4%3D",
+            "title": "LOTE 1",
+            "items": [
+              "gjnlKbLKPslg3mM07iELNw%3D%3D",
+              "%2FmoEy4QKUqJg3mM07iELNw%3D%3D",
+              "il%2BMyg277UZg3mM07iELNw%3D%3D",
+              "zrxiONSYvI5g3mM07iELNw%3D%3D"
+            ]
+          },
+          {
+            "id": "zPSfUMAKIJA%3D",
+            "title": "LOTE 2",
+            "items": []
+          }
+        ],
+        "items": [
+          {
+            "description": "Modems con interfaces",
+            "id": "gjnlKbLKPslg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "43221806-002",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+            },
+            "quantity": 20.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 3866947.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Modems con interfaces",
+            "id": "%2FmoEy4QKUqJg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "43221806-002",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+            },
+            "quantity": 20.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 3866947.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Modems con interfaces",
+            "id": "il%2BMyg277UZg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "43221806-002",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+            },
+            "quantity": 20.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 671272.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Modems con interfaces",
+            "id": "zrxiONSYvI5g3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "43221806-002",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+            },
+            "quantity": 20.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 671269.0,
+                "currency": "PYG"
+              }
+            }
+          }
+        ],
+        "value": {
+          "currency": "PYG",
+          "amount": 600000000.0
+        },
+        "enquiryPeriod": {
+          "endDate": "2016-03-08T09:00:00-05:00"
+        },
+        "hasEnquiries": false,
+        "awardPeriod": {
+          "startDate": "2016-03-08T09:00:00-05:00",
+          "endDate": "2016-03-16T10:42:48-04:00"
+        },
+        "procuringEntity": {
+          "name": "Compañía Paraguaya de Comunicaciones (COPACO)",
+          "contactPoint": {
+            "name": "Norma Beatriz Fernández de Burgos",
+            "email": "uoc@copaco.com.py",
+            "telephone": "021444142"
+          }
+        },
+        "documents": [
+          {
+            "id": "4oKav34L95Q%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4oKav34L95Q%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "5IK%2FfVdIC%2B0%3D",
+            "documentType": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+            "title": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/5IK%252FfVdIC%252B0%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "jA0K1qPWnpc%3D",
+            "documentType": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+            "title": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/jA0K1qPWnpc%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "mEoF1DkH3nY%3D",
+            "documentType": "biddingDocuments",
+            "title": "Pliego de bases y Condiciones",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/mEoF1DkH3nY%253D",
+            "format": "application/zip"
+          }
+        ],
+        "tenderPeriod": {
+          "endDate": null,
+          "startDate": "2016-03-15T07:30:00-04:00"
+        },
+        "submissionMethod": [
+          "electronicAuction"
+        ],
+        "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3"
+      }
+    }
+  ]
+}

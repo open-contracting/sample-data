@@ -1,0 +1,33 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/planificaciones/284453-adquisicion-bateria-nivel-central-mspbs",
+  "publishedDate": "2017-06-20T15:44:23-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-284453",
+      "id": "284453-adquisicion-bateria-nivel-central-mspbs-planning",
+      "date": "2017-06-20T15:44:23-04:00",
+      "tag": [
+        "planning"
+      ],
+      "initiationType": "tender",
+      "planning": {
+        "budget": {
+          "description": "ADQUISICION DE BATERIA PARA NIVEL CENTRAL DEL MSPBS",
+          "amount": {
+            "amount": 138000000.0,
+            "currency": "PYG"
+          }
+        },
+        "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/284453-adquisicion-bateria-nivel-central-mspbs"
+      }
+    }
+  ]
+}

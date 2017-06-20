@@ -1,0 +1,84 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/284182-adquisicion-articulos-ferreteria-nivel-central-msp-bs-1",
+  "publishedDate": "2017-06-20T15:43:52-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-284182",
+      "id": "284182-adquisicion-articulos-ferreteria-nivel-central-msp-bs-1-award",
+      "date": "2017-06-20T15:43:52-04:00",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "awards": [
+        {
+          "id": "284182-adquisicion-articulos-ferreteria-nivel-central-msp-bs-1",
+          "title": "ADQUISICION DE ARTÍCULOS DE FERRETERÍA PARA NIVEL CENTRAL DEL MSP Y BS",
+          "status": "active",
+          "date": "2016-03-31T08:23:12-04:00",
+          "value": {
+            "amount": 67885450.0,
+            "currency": "PYG"
+          },
+          "suppliers": [
+            {
+              "name": "EMPORIO FERRETERIA S.R.L.",
+              "identifier": {
+                "id": "80002756-6",
+                "legalName": "EMPORIO FERRETERIA S.R.L.",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "284182-emporio-ferreteria-s-r-l-2"
+              },
+              "address": {
+                "streetAddress": "PARAÍSO N° 999 ESQ. YUASY'Y.",
+                "postalCode": "",
+                "locality": "ASUNCIÓN.",
+                "countryName": "Paraguay",
+                "region": "Asunción"
+              },
+              "contactPoint": {
+                "name": "AXEL CORVALÁN AMIGO.",
+                "faxNumber": "",
+                "telephone": "021 560 220",
+                "email": "emporio.ferre@gmail.com",
+                "url": null
+              }
+            },
+            {
+              "name": "JUAN RODRIGUEZ",
+              "identifier": {
+                "id": "2514872-9",
+                "legalName": "JUAN RODRIGUEZ",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "284182-juan-rodriguez-1-3"
+              },
+              "address": {
+                "streetAddress": "CERRO CORA c/ TTE ROJAS SILVA",
+                "postalCode": "",
+                "locality": "ASUNCION",
+                "countryName": "Paraguay",
+                "region": "Asunción"
+              },
+              "contactPoint": {
+                "name": "JUAN RODRIGUEZ",
+                "faxNumber": "",
+                "telephone": "500-646",
+                "email": "licitacionescova@outlook.com",
+                "url": null
+              }
+            }
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284182-adquisicion-articulos-ferreteria-nivel-central-msp-bs-1"
+        }
+      ]
+    }
+  ]
+}

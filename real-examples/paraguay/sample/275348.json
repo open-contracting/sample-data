@@ -1,11 +1,12 @@
 {
   "uri": "https://www.contrataciones.gov.py/datos/record-package/275348.json",
+  "publishedDate": "2017-06-20T15:41:45-04:00",
   "publisher": {
-    "uri": "https://contrataciones.gov.py/datos",
+    "name": "DNCP - Paraguay",
     "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
-    "name": "DNCP - Paraguay"
+    "uri": "https://contrataciones.gov.py/datos"
   },
-  "publishedDate": "2017-01-04T11:00:45-05:00",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
   "packages": [
     "https://www.contrataciones.gov.py/datos/id/planning/275348-contratacion-servicios-mantenimiento-preventivo-correctivo-provision-repue.json",
@@ -15,16 +16,64 @@
   ],
   "records": [
     {
+      "ocid": "ocds-03ad3f-275348",
+      "releases": [
+        {
+          "date": "2014-03-05T07:45:54-05:00",
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/275348-contratacion-servicios-mantenimiento-preventivo-correctivo-provision-repue.json"
+        },
+        {
+          "date": "2016-01-21T11:58:17-05:00",
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5.json"
+        },
+        {
+          "date": "2016-05-25T14:54:55-04:00",
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1.json"
+        },
+        {
+          "date": "2016-05-19T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/275348-eduardo-elizeche-benitez-sac-1.json"
+        }
+      ],
       "compiledRelease": {
+        "language": "es",
+        "ocid": "ocds-03ad3f-275348",
+        "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5",
+        "date": "2017-06-20T15:41:45-04:00",
         "tag": [
           "compiled"
         ],
-        "date": "2017-01-04T11:00:45-05:00",
-        "language": "es",
+        "initiationType": "tender",
+        "planning": {
+          "budget": {
+            "description": "CONTRATACION DE SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
+            "amount": {
+              "amount": 2695171072.0,
+              "currency": "PYG"
+            }
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/275348-contratacion-servicios-mantenimiento-preventivo-correctivo-provision-repue"
+        },
         "tender": {
+          "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5",
+          "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
           "status": "complete",
           "lots": [
             {
+              "id": "hYJ2iCAqO%2FI%3D",
+              "title": "Mantenimiento Preventivo ",
               "items": [
                 "wRSoQdI30Ehg3mM07iELNw%3D%3D",
                 "Izu1maweSeRg3mM07iELNw%3D%3D",
@@ -51,621 +100,613 @@
                 "mg6enNTrVDtg3mM07iELNw%3D%3D",
                 "u0CpA%2FknJG1g3mM07iELNw%3D%3D",
                 "7FubTl2E48Fg3mM07iELNw%3D%3D"
-              ],
-              "title": "Mantenimiento Preventivo ",
-              "id": "hYJ2iCAqO%2FI%3D"
+              ]
             },
             {
-              "items": [],
+              "id": "9xZ%2BPwqUFxs%3D",
               "title": "Mantenimiento Correctivo",
-              "id": "9xZ%2BPwqUFxs%3D"
+              "items": []
             }
           ],
-          "documents": [
+          "items": [
             {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Adenda",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/fGiocRUzYKs%253D",
-              "title": "Adenda",
-              "id": "fGiocRUzYKs%3D"
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "wRSoQdI30Ehg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 4401500.0,
+                  "currency": "PYG"
+                }
+              }
             },
             {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Adenda",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/AETzPWBNLsA%253D",
-              "title": "Adenda",
-              "id": "AETzPWBNLsA%3D"
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "Izu1maweSeRg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2786100.0,
+                  "currency": "PYG"
+                }
+              }
             },
             {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Adenda",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Gs6RygwbW3I%253D",
-              "title": "Adenda",
-              "id": "Gs6RygwbW3I%3D"
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "IpI04kv4%2Bipg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 24.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 1900700.0,
+                  "currency": "PYG"
+                }
+              }
             },
             {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Adenda",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/NV5kktiiql0%253D",
-              "title": "Adenda",
-              "id": "NV5kktiiql0%3D"
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "AGz1kKZGrjZg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 12.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2786100.0,
+                  "currency": "PYG"
+                }
+              }
             },
             {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/%252FkGRF8qG43k%253D",
-              "title": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
-              "id": "%2FkGRF8qG43k%3D"
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "oHO7fkxwLrxg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2786100.0,
+                  "currency": "PYG"
+                }
+              }
             },
             {
-              "language": "es",
-              "format": "application/pdf",
-              "documentType": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/eIX0iKbj2eg%253D",
-              "title": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
-              "id": "eIX0iKbj2eg%3D"
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "vzaWAR1KY3Rg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2786100.0,
+                  "currency": "PYG"
+                }
+              }
             },
             {
-              "language": "es",
-              "format": "application/zip",
-              "documentType": "biddingDocuments",
-              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/umYMU35fhJg%253D",
-              "title": "Pliego de bases y Condiciones",
-              "id": "umYMU35fhJg%3D"
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "vwXMbOcicFNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 7323000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "8LYSRSF%2BVLJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2082200.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "gQRWcXt%2FD4Ng3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2011100.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "FE94LztIJsxg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 5990700.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "wEhDd7T51F5g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 6876000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "lJWhchFKhpRg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 3841900.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "SZqYyPLdGYpg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 7235600.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "Bn7H864mmgJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 7507700.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "eV%2BtrIpMrsNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 6622400.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "k1bRneOUWmtg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 5626700.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "umHMpYZBLfFg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2583900.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "RuyHJXdbO4Zg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2086500.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "SjlvbbumYihg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 4421200.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "8bilwzjQyqpg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 4751200.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "Z6GcLWrNlNpg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 3850600.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "ijPaqJsoql5g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 3850600.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "mg6enNTrVDtg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 4787300.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "u0CpA%2FknJG1g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 7532900.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
+              "id": "7FubTl2E48Fg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "73171602-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+              },
+              "quantity": 4.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 4445200.0,
+                  "currency": "PYG"
+                }
+              }
             }
-          ],
-          "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
-          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5",
-          "tenderPeriod": {
-            "endDate": null,
-            "startDate": "2016-03-14T08:00:00-04:00"
-          },
-          "procuringEntity": {
-            "name": "Instituto de Previsión Social (IPS)",
-            "contactPoint": {
-              "email": "scpaez@ips.gov.py",
-              "name": "Sonia Claret Páez Acosta",
-              "telephone": "021 201670"
-            }
-          },
-          "submissionMethod": [
-            "electronicAuction"
           ],
           "value": {
-            "amount": null,
-            "currency": "PYG"
+            "currency": "PYG",
+            "amount": 2597729024.0
           },
           "enquiryPeriod": {
             "endDate": "2016-03-07T10:00:00-05:00"
           },
-          "items": [
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "wRSoQdI30Ehg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "Izu1maweSeRg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 24,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "IpI04kv4%2Bipg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 12,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "AGz1kKZGrjZg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "oHO7fkxwLrxg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "vzaWAR1KY3Rg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "vwXMbOcicFNg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "8LYSRSF%2BVLJg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "gQRWcXt%2FD4Ng3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "FE94LztIJsxg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "wEhDd7T51F5g3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "lJWhchFKhpRg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "SZqYyPLdGYpg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "Bn7H864mmgJg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "eV%2BtrIpMrsNg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "k1bRneOUWmtg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "umHMpYZBLfFg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "RuyHJXdbO4Zg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "SjlvbbumYihg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "8bilwzjQyqpg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "Z6GcLWrNlNpg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "ijPaqJsoql5g3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "mg6enNTrVDtg3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "u0CpA%2FknJG1g3mM07iELNw%3D%3D"
-            },
-            {
-              "unit": {
-                "value": {
-                  "amount": null,
-                  "currency": "PYG"
-                },
-                "name": "Unidad"
-              },
-              "classification": {
-                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                "id": "73171602-006"
-              },
-              "quantity": 4,
-              "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-              "id": "7FubTl2E48Fg3mM07iELNw%3D%3D"
-            }
-          ],
-          "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5",
           "hasEnquiries": false,
           "awardPeriod": {
-            "endDate": "2016-03-15T08:42:11-04:00",
-            "startDate": "2016-03-07T10:00:00-05:00"
-          }
-        },
-        "planning": {
-          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/275348-contratacion-servicios-mantenimiento-preventivo-correctivo-provision-repue",
-          "budget": {
-            "description": "CONTRATACION DE SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
-            "amount": {
-              "amount": null,
-              "currency": "PYG"
+            "startDate": "2016-03-07T10:00:00-05:00",
+            "endDate": "2016-03-15T08:42:11-04:00"
+          },
+          "procuringEntity": {
+            "name": "Instituto de Previsión Social (IPS)",
+            "contactPoint": {
+              "name": "Sonia Claret Páez Acosta",
+              "email": "scpaez@ips.gov.py",
+              "telephone": "021 201670"
             }
+          },
+          "documents": [
+            {
+              "id": "fGiocRUzYKs%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/fGiocRUzYKs%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "AETzPWBNLsA%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/AETzPWBNLsA%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "Gs6RygwbW3I%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Gs6RygwbW3I%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "NV5kktiiql0%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/NV5kktiiql0%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "%2FkGRF8qG43k%3D",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/%252FkGRF8qG43k%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "eIX0iKbj2eg%3D",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/eIX0iKbj2eg%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "umYMU35fhJg%3D",
+              "documentType": "biddingDocuments",
+              "title": "Pliego de bases y Condiciones",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/umYMU35fhJg%253D",
+              "format": "application/zip"
+            }
+          ],
+          "tenderPeriod": {
+            "endDate": null,
+            "startDate": "2016-03-14T08:00:00-04:00"
+          },
+          "submissionMethod": [
+            "electronicAuction"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5"
+        },
+        "buyer": {
+          "name": "Instituto de Previsión Social (IPS)",
+          "contactPoint": {
+            "name": "Sonia Claret Páez Acosta",
+            "email": "scpaez@ips.gov.py",
+            "telephone": "021 201670"
           }
         },
         "awards": [
           {
+            "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
+            "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
+            "status": "active",
+            "date": "2016-05-25T14:54:55-04:00",
             "value": {
               "amount": 2607178400.0,
               "currency": "PYG"
             },
-            "status": "active",
-            "date": "2016-05-25T14:54:55-04:00",
             "suppliers": [
               {
+                "name": "EDUARDO ELIZECHE BENITEZ SAC",
                 "identifier": {
-                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                  "id": "80002379-0",
                   "legalName": "EDUARDO ELIZECHE BENITEZ SAC",
-                  "id": "80002379-0"
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
                 },
                 "address": {
-                  "postalCode": "",
                   "streetAddress": "AVDA SACRAMENTO 2409",
+                  "postalCode": "",
                   "locality": "ASUNCION",
                   "countryName": "Paraguay",
                   "region": "Central"
                 },
-                "name": "EDUARDO ELIZECHE BENITEZ SAC",
                 "contactPoint": {
-                  "email": "maria.garay@elizechesac.com",
-                  "faxNumber": "",
-                  "url": "http://www.elizechesac.com",
                   "name": "PATRICIA GRANDA DE SERRATI, RICARDO CABALLERO, ADOLFO RAMIREZ, JOSE ROMUALDO GRANDA, EDUARDO GRANDA Y MAURICIO SERRATI GRANDA",
-                  "telephone": "294349 - 282301/2"
+                  "faxNumber": "",
+                  "telephone": "294349 - 282301/2",
+                  "email": "maria.garay@elizechesac.com",
+                  "url": "http://www.elizechesac.com"
                 }
               }
             ],
-            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
-            "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
-            "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1"
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1"
           }
         ],
-        "contract": [
+        "contracts": [
           {
-            "status": "active",
-            "suppliers": {
-              "identifier": {
-                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
-                "legalName": "EDUARDO ELIZECHE BENITEZ SAC",
-                "id": "80002379-0"
-              },
-              "name": "EDUARDO ELIZECHE BENITEZ SAC",
-              "identifiers": {
-                "key": "275348-eduardo-elizeche-benitez-sac-1"
-              }
-            },
+            "id": "275348-eduardo-elizeche-benitez-sac-1",
+            "awardID": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
             "dncpContractCode": "LP-24001-16-124122",
+            "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
+            "status": "active",
+            "value": {
+              "amount": 2607178496.0,
+              "currency": "PYG"
+            },
             "lots": [
               {
+                "id": "1grNv0TaAdg%3D",
+                "title": "Mantenimiento Preventivo ",
                 "items": [
                   "qv0u00vKXRo%3D",
                   "8oif%2Bsx7pwc%3D",
@@ -692,617 +733,577 @@
                   "b66696mFAt4%3D",
                   "Y5UfAZet5H0%3D",
                   "Kuu0z3CIupg%3D"
-                ],
-                "title": "Mantenimiento Preventivo ",
-                "id": "1grNv0TaAdg%3D"
+                ]
               },
               {
-                "items": [],
+                "id": "c%2B7FOsAAauA%3D",
                 "title": "Mantenimiento Correctivo",
-                "id": "c%2B7FOsAAauA%3D"
+                "items": []
               }
             ],
-            "documents": [
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "Acta de Apertura",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/IwQ47qband8%253D",
-                "title": "Acta de Apertura",
-                "id": "IwQ47qband8%3D"
-              },
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "Cuadro Comparativo de Ofertas",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/x5GmudDgMQ4%253D",
-                "title": "Cuadro Comparativo de Ofertas",
-                "id": "x5GmudDgMQ4%3D"
-              },
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "Cuadro Comparativo de Ofertas",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/81g5Zu%252Bmt5M%253D",
-                "title": "Cuadro Comparativo de Ofertas",
-                "id": "81g5Zu%2Bmt5M%3D"
-              },
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "evaluationReports",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/BT2261UdlXI%253D",
-                "title": "Informe de Evaluación",
-                "id": "BT2261UdlXI%3D"
-              },
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "evaluationReports",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ao%252BgcXpmLT8%253D",
-                "title": "Informe de Evaluación",
-                "id": "ao%2BgcXpmLT8%3D"
-              },
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "Notificación al Oferente",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/7%252FonuvkWcpw%253D",
-                "title": "Notificación al Oferente",
-                "id": "7%2FonuvkWcpw%3D"
-              },
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "Orden de Compra o Contrato",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/tXjYT2iOi08%253D",
-                "title": "Orden de Compra o Contrato",
-                "id": "tXjYT2iOi08%3D"
-              },
-              {
-                "language": "es",
-                "format": "application/pdf",
-                "documentType": "awardNotice",
-                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/uKLFWD9Mu4A%253D",
-                "title": "Resolución de Adjudicación",
-                "id": "uKLFWD9Mu4A%3D"
-              }
-            ],
-            "url": "https://www.contrataciones.gov.py/datos/id/contratos/275348-eduardo-elizeche-benitez-sac-1",
-            "id": "275348-eduardo-elizeche-benitez-sac-1",
-            "period": {
-              "endDate": "",
-              "startDate": ""
-            },
-            "value": {
-              "amount": 2607178400.0,
-              "currency": "PYG"
-            },
             "items": [
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "qv0u00vKXRo%3D"
+                "id": "qv0u00vKXRo%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "8oif%2Bsx7pwc%3D"
+                "id": "8oif%2Bsx7pwc%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "E8C3Nocj%2BCw%3D"
+                "id": "E8C3Nocj%2BCw%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "hhz1nW2Hd9M%3D"
+                "id": "hhz1nW2Hd9M%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "pir5WysKk3s%3D"
+                "id": "pir5WysKk3s%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "0diP5vT%2FDDk%3D"
+                "id": "0diP5vT%2FDDk%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "E1HFJEIq9Nw%3D"
+                "id": "E1HFJEIq9Nw%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "bJjoEVq%2FHT8%3D"
+                "id": "bJjoEVq%2FHT8%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "QicVY%2BhgyhU%3D"
+                "id": "QicVY%2BhgyhU%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "k17EclsVwTQ%3D"
+                "id": "k17EclsVwTQ%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "iEywlSRMHE4%3D"
+                "id": "iEywlSRMHE4%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "McHb1LK3%2FUk%3D"
+                "id": "McHb1LK3%2FUk%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "d2t%2BfYw22OU%3D"
+                "id": "d2t%2BfYw22OU%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "SMWjF0LgD3k%3D"
+                "id": "SMWjF0LgD3k%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "JosIAHmhhR0%3D"
+                "id": "JosIAHmhhR0%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "G9JEYQunlOE%3D"
+                "id": "G9JEYQunlOE%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "cayJXdI8IyU%3D"
+                "id": "cayJXdI8IyU%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "LoPI6jYXkmM%3D"
+                "id": "LoPI6jYXkmM%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "cuijhmYgFcQ%3D"
+                "id": "cuijhmYgFcQ%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "rcCpxOJOQcs%3D"
+                "id": "rcCpxOJOQcs%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "5zprcLbQK6o%3D"
+                "id": "5zprcLbQK6o%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "DX0jZzTgorA%3D"
+                "id": "DX0jZzTgorA%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "b66696mFAt4%3D"
+                "id": "b66696mFAt4%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "Y5UfAZet5H0%3D"
+                "id": "Y5UfAZet5H0%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               },
               {
-                "unit": {
-                  "value": {
-                    "amount": "_NO_APLICA_",
-                    "currency": "PYG"
-                  },
-                  "name": "_NO_APLICA_"
-                },
-                "classification": {
-                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006",
-                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
-                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
-                  "id": "73171602-006"
-                },
-                "quantity": "_NO_APLICA_",
                 "description": "Servicio de Reparacion y Mantenimiento de Dispositivos Medicos",
-                "id": "Kuu0z3CIupg%3D"
+                "id": "Kuu0z3CIupg%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "73171602-006",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/73171602-006"
+                },
+                "quantity": null,
+                "unit": {
+                  "name": "_NO_APLICA_",
+                  "value": {
+                    "amount": null,
+                    "currency": "PYG"
+                  }
+                }
               }
             ],
-            "awardID": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
-            "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
-            "dateSigned": "2016-05-19T12:00:00-04:00"
-          },
-          {
-            "value": {
-              "amount": "_NO_APLICA_",
-              "currency": "PYG"
+            "dateSigned": "2016-05-19T12:00:00-04:00",
+            "suppliers": {
+              "name": "EDUARDO ELIZECHE BENITEZ SAC",
+              "identifier": {
+                "id": "80002379-0",
+                "legalName": "EDUARDO ELIZECHE BENITEZ SAC",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "275348-eduardo-elizeche-benitez-sac-1"
+              }
             },
-            "status": "active",
-            "extendsContractID": "275348-eduardo-elizeche-benitez-sac-1",
-            "dncpContractCode": "_NO_APLICA_",
             "documents": [
               {
+                "id": "IwQ47qband8%3D",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura",
                 "language": "es",
-                "format": "application/pdf",
-                "documentType": "Adenda de Contrato",
-                "url": "https://www.contrataciones.gov.py/documentos/download/modificacion_contrato/UcWsKOD3v8E%253D",
-                "title": "Adenda de Contrato",
-                "id": "UcWsKOD3v8E%3D"
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/IwQ47qband8%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "x5GmudDgMQ4%3D",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/x5GmudDgMQ4%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "81g5Zu%2Bmt5M%3D",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/81g5Zu%252Bmt5M%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "BT2261UdlXI%3D",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/BT2261UdlXI%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "ao%2BgcXpmLT8%3D",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ao%252BgcXpmLT8%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "7%2FonuvkWcpw%3D",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/7%252FonuvkWcpw%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "tXjYT2iOi08%3D",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/tXjYT2iOi08%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "uKLFWD9Mu4A%3D",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/uKLFWD9Mu4A%253D",
+                "format": "application/pdf"
               }
             ],
-            "url": "https://www.contrataciones.gov.py/datos/id/modificaciones-contrato/275348-eduardo-elizeche-benitez-sac-1-modificacion",
-            "title": "Contract Amendment: LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
-            "dncpAmendmentType": "Otras Modificaciones",
+            "period": {
+              "endDate": "2018-07-19T12:00:00-04:00",
+              "startDate": "2016-05-19T12:00:00-04:00"
+            },
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/275348-eduardo-elizeche-benitez-sac-1"
+          },
+          {
             "id": "275348-eduardo-elizeche-benitez-sac-1-modificacion",
-            "dateSigned": "Pendiente de Emisión"
+            "awardID": null,
+            "extendsContractID": "275348-eduardo-elizeche-benitez-sac-1",
+            "dncpContractCode": "_NO_APLICA_",
+            "dncpAmendmentType": "Otras Modificaciones",
+            "title": "Contract Amendment: LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
+            "status": "active",
+            "value": {
+              "amount": null,
+              "currency": "PYG"
+            },
+            "dateSigned": null,
+            "documents": [
+              {
+                "id": "UcWsKOD3v8E%3D",
+                "documentType": "Adenda de Contrato",
+                "title": "Adenda de Contrato",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/modificacion_contrato/UcWsKOD3v8E%253D",
+                "format": "application/pdf"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/modificaciones-contrato/275348-eduardo-elizeche-benitez-sac-1-modificacion"
           }
-        ],
-        "buyer": {
-          "name": "Instituto de Previsión Social (IPS)",
-          "contactPoint": {
-            "email": "scpaez@ips.gov.py",
-            "name": "Sonia Claret Páez Acosta",
-            "telephone": "021 201670"
-          }
-        },
-        "ocid": "ocds-03ad3f-275348",
-        "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5",
-        "initiationType": "tender"
-      },
-      "releases": [
-        {
-          "tag": [
-            "planning"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/planning/275348-contratacion-servicios-mantenimiento-preventivo-correctivo-provision-repue.json",
-          "date": "2014-03-05T07:45:54-05:00"
-        },
-        {
-          "tag": [
-            "tender"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/tender/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-5.json",
-          "date": "2016-01-21T11:58:17-05:00"
-        },
-        {
-          "tag": [
-            "award"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/award/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1.json",
-          "date": "2016-05-25T14:54:55-04:00"
-        },
-        {
-          "tag": [
-            "contract"
-          ],
-          "url": "https://www.contrataciones.gov.py/datos/id/contract/275348-eduardo-elizeche-benitez-sac-1.json",
-          "date": "2016-05-19T12:00:00-04:00"
-        }
-      ],
-      "ocid": "ocds-03ad3f-275348"
+        ]
+      }
     }
-  ],
-  "license": "https://creativecommons.org/licenses/by/4.0/"
+  ]
 }

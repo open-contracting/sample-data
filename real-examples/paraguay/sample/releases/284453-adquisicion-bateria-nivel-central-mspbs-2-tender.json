@@ -1,0 +1,222 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/convocatorias/284453-adquisicion-bateria-nivel-central-mspbs-2",
+  "publishedDate": "2017-06-20T15:44:30-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-284453",
+      "id": "284453-adquisicion-bateria-nivel-central-mspbs-2-tender",
+      "date": "2017-06-20T15:44:30-04:00",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "tender": {
+        "id": "284453-adquisicion-bateria-nivel-central-mspbs-2",
+        "title": "ADQUISICION DE BATERIA PARA NIVEL CENTRAL DEL MSPBS",
+        "status": "unsuccessful",
+        "lots": [
+          {
+            "id": "nYZlDIKXpLc%3D",
+            "title": "Lote 1",
+            "items": [
+              "5umDTimJERhg3mM07iELNw%3D%3D",
+              "R08Fyot3u51g3mM07iELNw%3D%3D",
+              "OZDtM09Q1JJg3mM07iELNw%3D%3D",
+              "m%2Fw2g2YmNFhg3mM07iELNw%3D%3D",
+              "Y1mnwgMEVONg3mM07iELNw%3D%3D",
+              "GqLnjYd1R%2BJg3mM07iELNw%3D%3D"
+            ]
+          }
+        ],
+        "items": [
+          {
+            "description": "Bateria para maquinaria pesada",
+            "id": "5umDTimJERhg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "26111703-005",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26111703-005"
+            },
+            "quantity": 30.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 270000.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Bateria para camioneta ",
+            "id": "R08Fyot3u51g3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "26111703-003",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26111703-003"
+            },
+            "quantity": 40.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 270000.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Bateria para camioneta ",
+            "id": "OZDtM09Q1JJg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "26111703-003",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26111703-003"
+            },
+            "quantity": 160.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 360000.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Bateria para maquinaria pesada",
+            "id": "m%2Fw2g2YmNFhg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "26111703-005",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26111703-005"
+            },
+            "quantity": 50.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 500000.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Bateria para maquinaria pesada",
+            "id": "Y1mnwgMEVONg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "26111703-005",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26111703-005"
+            },
+            "quantity": 30.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 650000.0,
+                "currency": "PYG"
+              }
+            }
+          },
+          {
+            "description": "Bateria para maquinaria pesada",
+            "id": "GqLnjYd1R%2BJg3mM07iELNw%3D%3D",
+            "classification": {
+              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "id": "26111703-005",
+              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26111703-005"
+            },
+            "quantity": 20.0,
+            "unit": {
+              "name": "Unidad",
+              "value": {
+                "amount": 850000.0,
+                "currency": "PYG"
+              }
+            }
+          }
+        ],
+        "value": {
+          "currency": "PYG",
+          "amount": 138000000.0
+        },
+        "enquiryPeriod": {
+          "endDate": "2016-03-15T13:00:00-04:00"
+        },
+        "hasEnquiries": false,
+        "awardPeriod": {
+          "startDate": "2016-03-15T13:00:00-04:00",
+          "endDate": null
+        },
+        "procuringEntity": {
+          "name": "Ministerio de Salud Pública y Bienestar Social (MSPBS)",
+          "contactPoint": {
+            "name": "FELICIANO MIRANDA",
+            "email": "rociosanchezaraujo3333@gmail.com",
+            "telephone": "021206086"
+          }
+        },
+        "documents": [
+          {
+            "id": "RNg6ExCm4jk%3D",
+            "documentType": "Adenda",
+            "title": "Adenda",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/RNg6ExCm4jk%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "NEjEnMfyvyg%3D",
+            "documentType": "Carta de Invitación",
+            "title": "Carta de Invitación",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/NEjEnMfyvyg%253D",
+            "format": "application/zip"
+          },
+          {
+            "id": "Om3SAY9wx2w%3D",
+            "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+            "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Om3SAY9wx2w%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "VQBRcf5nUm4%3D",
+            "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+            "title": "Instrucción a los Oferentes - Bienes y Servicios",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/VQBRcf5nUm4%253D",
+            "format": "application/pdf"
+          },
+          {
+            "id": "wPxgvINkGLw%3D",
+            "documentType": "Nota de Observacion",
+            "title": "Nota de Observacion",
+            "language": "es",
+            "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/wPxgvINkGLw%253D",
+            "format": "application/pdf"
+          }
+        ],
+        "tenderPeriod": {
+          "endDate": "2016-03-21T08:50:00-04:00",
+          "startDate": null
+        },
+        "submissionMethod": [
+          "written"
+        ],
+        "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/284453-adquisicion-bateria-nivel-central-mspbs-2"
+      }
+    }
+  ]
+}

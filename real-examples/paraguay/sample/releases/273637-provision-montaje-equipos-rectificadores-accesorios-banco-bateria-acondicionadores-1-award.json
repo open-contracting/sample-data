@@ -1,0 +1,61 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/273637-provision-montaje-equipos-rectificadores-accesorios-banco-bateria-acondicionadores-1",
+  "publishedDate": "2017-06-20T15:41:04-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "ocds-03ad3f-273637",
+      "id": "273637-provision-montaje-equipos-rectificadores-accesorios-banco-bateria-acondicionadores-1-award",
+      "date": "2017-06-20T15:41:04-04:00",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "awards": [
+        {
+          "id": "273637-provision-montaje-equipos-rectificadores-accesorios-banco-bateria-acondicionadores-1",
+          "title": "PROVISIÓN Y MONTAJE DE EQUIPOS RECTIFICADORES Y ACCESORIOS, BANCO DE BATERÍA Y ACONDICIONADORES DE AIRE EN VARIAS CENTRALES TELÉFONICAS DE LA COMPAÑÍA",
+          "status": "active",
+          "date": "2016-09-07T10:26:55-04:00",
+          "value": {
+            "amount": 2809999999,
+            "currency": "PYG"
+          },
+          "suppliers": [
+            {
+              "name": "INFOCENTER S.A",
+              "identifier": {
+                "id": "80023118-0",
+                "legalName": "INFOCENTER S.A",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+                "key": "273637-infocenter-s-a-1"
+              },
+              "address": {
+                "streetAddress": "ESPAÑA 2287 CASI VENEZUELA",
+                "postalCode": "",
+                "locality": "ASUNCION",
+                "countryName": "Paraguay",
+                "region": "Asunción"
+              },
+              "contactPoint": {
+                "name": "LIDA VERA, JUAN CARLOS PEDRAGLIO, BLANCA ORTIZ DE DE EGEA, CARLOS GALLARDO BARRANTES",
+                "faxNumber": "",
+                "telephone": "226016",
+                "email": "licitaciones@infocenter.com.py",
+                "url": "http://www.infocenter.com.py"
+              }
+            }
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/273637-provision-montaje-equipos-rectificadores-accesorios-banco-bateria-acondicionadores-1"
+        }
+      ]
+    }
+  ]
+}
