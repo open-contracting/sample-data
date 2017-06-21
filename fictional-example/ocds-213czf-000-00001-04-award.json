@@ -24,6 +24,9 @@
                 {
                     "id": "GB-LAC-E09000003",
                     "name": "London Borough of Barnet",
+                    "roles": [
+                        "buyer"
+                    ],
                     "identifier": {
                         "scheme": "GB-LAC",
                         "id": "E09000003",
@@ -47,6 +50,9 @@
                 {
                     "id": "GB-COH-11111111",
                     "name": "AnyCorp Cycle Provision",
+                    "roles": [
+                        "supplier"
+                    ],
                     "identifier": {
                         "scheme": "GB-COH",
                         "id": "11111111.0",
@@ -70,6 +76,9 @@
                 {
                     "id": "GB-COH-22222222",
                     "name": "Beta Corp Construction",
+                    "roles": [
+                        "tenderer"
+                    ],
                     "identifier": {
                         "scheme": "GB-COH",
                         "id": "22222222.0",
