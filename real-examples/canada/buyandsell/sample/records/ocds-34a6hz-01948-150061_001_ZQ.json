@@ -1,0 +1,603 @@
+{
+  "publisher": {
+    "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+    "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+    "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+    "uri_en": "https://buyandsell.gc.ca", 
+    "uri_fr": "https://achatsetventes.gc.ca"
+  }, 
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-150061/001/ZQ", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "en"
+      }
+    ], 
+    "contracts": [
+      {
+        "status": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "active"
+          }
+        ], 
+        "amendment": {
+          "date": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2015-04-27"
+            }
+          ], 
+          "rationale": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "amendmentNumber: 000, awardDate: 2014-12-18, expiryDate: 2015-11-15, value: 16555.00 | amendmentNumber: 001, awardDate: 2015-02-18, expiryDate: 2015-11-15, value: 0.00 | amendmentNumber: 002, awardDate: 2015-04-27, expiryDate: 2015-11-15, value: 0.00"
+            }
+          ]
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01948-150061/001/ZQ", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "GSIN"
+                }
+              ], 
+              "id": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01948-150061/001/ZQ", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "R010AG"
+                }
+              ]
+            }, 
+            "id": "R010AG", 
+            "description_en": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01948-150061/001/ZQ", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "Finance & Accounting Services Audits (Supply Arrangement PASS)"
+              }
+            ], 
+            "description_fr": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01948-150061/001/ZQ", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)"
+              }
+            ]
+          }
+        ], 
+        "title_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Finance & Accounting Services Audits (Supply Arrangement PASS)"
+          }
+        ], 
+        "period": {
+          "startDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2014-12-18"
+            }
+          ], 
+          "endDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2015-11-15"
+            }
+          ]
+        }, 
+        "value": {
+          "currency": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "CAD"
+            }
+          ], 
+          "amount": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": 16555
+            }
+          ]
+        }, 
+        "title_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)"
+          }
+        ], 
+        "awardID": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "01948-150061/001/ZQ"
+          }
+        ], 
+        "id": "01948-150061/001/ZQ"
+      }
+    ], 
+    "ocid": "ocds-34a6hz-01948-150061/001/ZQ", 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data"
+          }
+        ], 
+        "documentation_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo"
+          }
+        ], 
+        "name": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Buyandsell.gc.ca - Achatsetventes.gc.ca"
+          }
+        ], 
+        "uri_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca"
+          }
+        ], 
+        "uri_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca"
+          }
+        ]
+      }, 
+      "uri": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-150061/001/ZQ", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json"
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-150061/001/ZQ", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "2015-11-18T21:59:18Z"
+        }
+      ]
+    }, 
+    "initiationType": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-150061/001/ZQ", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-150061/001/ZQ", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-150061/001/ZQ", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": ""
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-150061/001/ZQ", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture et Agroalimentaire Canada"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Canada"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "K1A0C6"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Ontario"
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "BUILDING 74"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "OTTAWA"
+            }
+          ]
+        }, 
+        "name_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-150061/001/ZQ", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture and Agri-Food Canada"
+          }
+        ], 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "MISC-BUYANDSELLGCCA"
+            }
+          ], 
+          "legalName_en": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture and Agri-Food Canada"
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "01"
+            }
+          ], 
+          "legalName_fr": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-150061/001/ZQ", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture et Agroalimentaire Canada"
+            }
+          ]
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "validationErrors": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-150061/001/ZQ", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "properties/buyer/properties/name/minLength: '' is too short"
+      }
+    ]
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en", 
+      "contracts": [
+        {
+          "status": "active", 
+          "amendment": {
+            "date": "2015-04-27", 
+            "rationale": "amendmentNumber: 000, awardDate: 2014-12-18, expiryDate: 2015-11-15, value: 16555.00 | amendmentNumber: 001, awardDate: 2015-02-18, expiryDate: 2015-11-15, value: 0.00 | amendmentNumber: 002, awardDate: 2015-04-27, expiryDate: 2015-11-15, value: 0.00"
+          }, 
+          "items": [
+            {
+              "classification": {
+                "scheme": "GSIN", 
+                "id": "R010AG"
+              }, 
+              "id": "R010AG", 
+              "description_en": "Finance & Accounting Services Audits (Supply Arrangement PASS)", 
+              "description_fr": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)"
+            }
+          ], 
+          "title_en": "Finance & Accounting Services Audits (Supply Arrangement PASS)", 
+          "period": {
+            "startDate": "2014-12-18", 
+            "endDate": "2015-11-15"
+          }, 
+          "value": {
+            "currency": "CAD", 
+            "amount": 16555
+          }, 
+          "title_fr": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)", 
+          "awardID": "01948-150061/001/ZQ", 
+          "id": "01948-150061/001/ZQ"
+        }
+      ], 
+      "ocid": "ocds-34a6hz-01948-150061/001/ZQ", 
+      "packageInfo": {
+        "publisher": {
+          "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+          "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+          "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+          "uri_en": "https://buyandsell.gc.ca", 
+          "uri_fr": "https://achatsetventes.gc.ca"
+        }, 
+        "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+        "publishedDate": "2015-11-18T21:59:18Z"
+      }, 
+      "initiationType": "tender", 
+      "buyer": {
+        "id": "MISC-BUYANDSELLGCCA-01", 
+        "name": ""
+      }, 
+      "tag": [
+        "compiled"
+      ], 
+      "parties": [
+        {
+          "name_fr": "Agriculture et Agroalimentaire Canada", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": "K1A0C6", 
+            "countryName": "Canada", 
+            "streetAddress": "BUILDING 74", 
+            "region": "Ontario", 
+            "locality": "OTTAWA"
+          }, 
+          "name_en": "Agriculture and Agri-Food Canada", 
+          "identifier": {
+            "scheme": "MISC-BUYANDSELLGCCA", 
+            "legalName_en": "Agriculture and Agri-Food Canada", 
+            "id": "01", 
+            "legalName_fr": "Agriculture et Agroalimentaire Canada"
+          }, 
+          "id": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "date": "2015-10-29T17:47:12Z", 
+      "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+      "id": "01948-150061/001/ZQ"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en", 
+    "buyer": {
+      "id": "MISC-BUYANDSELLGCCA-01", 
+      "name": ""
+    }, 
+    "ocid": "ocds-34a6hz-01948-150061/001/ZQ", 
+    "contracts": [
+      {
+        "status": "active", 
+        "amendment": {
+          "date": "2015-04-27", 
+          "rationale": "amendmentNumber: 000, awardDate: 2014-12-18, expiryDate: 2015-11-15, value: 16555.00 | amendmentNumber: 001, awardDate: 2015-02-18, expiryDate: 2015-11-15, value: 0.00 | amendmentNumber: 002, awardDate: 2015-04-27, expiryDate: 2015-11-15, value: 0.00"
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": "GSIN", 
+              "id": "R010AG"
+            }, 
+            "id": "R010AG", 
+            "description_en": "Finance & Accounting Services Audits (Supply Arrangement PASS)", 
+            "description_fr": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)"
+          }
+        ], 
+        "title_en": "Finance & Accounting Services Audits (Supply Arrangement PASS)", 
+        "period": {
+          "startDate": "2014-12-18", 
+          "endDate": "2015-11-15"
+        }, 
+        "value": {
+          "currency": "CAD", 
+          "amount": 16555
+        }, 
+        "title_fr": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)", 
+        "awardID": "01948-150061/001/ZQ", 
+        "id": "01948-150061/001/ZQ"
+      }
+    ], 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+        "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+        "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+        "uri_en": "https://buyandsell.gc.ca", 
+        "uri_fr": "https://achatsetventes.gc.ca"
+      }, 
+      "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+      "publishedDate": "2015-11-18T21:59:18Z"
+    }, 
+    "initiationType": "tender", 
+    "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name_fr": "Agriculture et Agroalimentaire Canada", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": "Canada", 
+          "postalCode": "K1A0C6", 
+          "region": "Ontario", 
+          "streetAddress": "BUILDING 74", 
+          "locality": "OTTAWA"
+        }, 
+        "name_en": "Agriculture and Agri-Food Canada", 
+        "identifier": {
+          "scheme": "MISC-BUYANDSELLGCCA", 
+          "legalName_en": "Agriculture and Agri-Food Canada", 
+          "id": "01", 
+          "legalName_fr": "Agriculture et Agroalimentaire Canada"
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "date": "2015-10-29T17:47:12Z", 
+    "id": "01948-150061/001/ZQ"
+  }
+}
