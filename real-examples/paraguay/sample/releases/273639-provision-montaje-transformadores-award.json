@@ -1,0 +1,52 @@
+{
+  "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/273639-provision-montaje-transformadores",
+  "publishedDate": "2017-06-22T10:01:28-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
+  "releases": [
+    {
+      "ocid": "ocds-03ad3f-273639",
+      "id": "273639-provision-montaje-transformadores-award",
+      "date": "2017-06-22T10:01:28-04:00",
+      "language": "es",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "parties": [
+        {
+          "id": "d2ab17b4c4c35d9d5d0421e845d35ed9",
+          "name": "TRAFOSUR SA",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "awards": [
+        {
+          "id": "273639-provision-montaje-transformadores",
+          "title": "PROVISI\u00d3N Y MONTAJE DE TRANSFORMADORES",
+          "status": "active",
+          "date": "2015-02-10T15:45:18-05:00",
+          "value": {
+            "amount": 772150000.0,
+            "currency": "PYG"
+          },
+          "suppliers": [
+            {
+              "id": "d2ab17b4c4c35d9d5d0421e845d35ed9",
+              "name": "TRAFOSUR SA"
+            }
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/273639-provision-montaje-transformadores"
+        }
+      ]
+    }
+  ]
+}

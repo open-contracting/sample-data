@@ -1,23 +1,80 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/284456-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-  "publishedDate": "2017-06-20T15:35:52-04:00",
+  "publishedDate": "2017-06-29T04:31:58-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-284456",
       "id": "284456-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1-award",
-      "date": "2017-06-20T15:35:52-04:00",
+      "date": "2017-06-29T04:31:58-04:00",
+      "language": "es",
       "tag": [
         "award"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "ANA MARIA ALFONSO RIVEROS",
+          "identifier": {
+            "id": "945999-5",
+            "legalName": "ANA MARIA ALFONSO RIVEROS",
+            "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "key": "284456-ana-maria-alfonso-riveros-2"
+          },
+          "address": {
+            "streetAddress": "BARRIO VIRGEN DE FATIMA CDE",
+            "postalCode": "",
+            "locality": "CIUDAD DEL ESTE",
+            "countryName": "Paraguay",
+            "region": "Alto Paran\u00e1"
+          },
+          "contactPoint": {
+            "name": "ANA MARIA ALFONSO RIVEROS",
+            "faxNumber": "",
+            "telephone": "503199",
+            "email": "mariaana_construcciones@hotmail.com",
+            "url": null
+          },
+          "roles": [
+            "supplier"
+          ],
+          "id": "3d18104d0a1fba2776ac8a49eeac42be"
+        },
+        {
+          "name": "ECOSERVICE GROUP S.A ",
+          "identifier": {
+            "id": "80058998-0",
+            "legalName": "ECOSERVICE GROUP S.A ",
+            "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "key": "284456-ecoservice-group-s-a-3"
+          },
+          "address": {
+            "streetAddress": "Avda. San Jose esq.Juan Martincich",
+            "postalCode": "",
+            "locality": "Ciudad del Este",
+            "countryName": "Paraguay",
+            "region": "Alto Paran\u00e1"
+          },
+          "contactPoint": {
+            "name": "LUIS MIGUEL MARTINEZ VILLAR",
+            "faxNumber": "",
+            "telephone": "571049",
+            "email": "ecoservicepy@gmail.com",
+            "url": null
+          },
+          "roles": [
+            "supplier"
+          ],
+          "id": "70b47bec1ca8fc687cbb5784de695207"
+        }
+      ],
       "awards": [
         {
           "id": "284456-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
@@ -30,50 +87,12 @@
           },
           "suppliers": [
             {
-              "name": "ANA MARIA ALFONSO RIVEROS",
-              "identifier": {
-                "id": "945999-5",
-                "legalName": "ANA MARIA ALFONSO RIVEROS",
-                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
-                "key": "284456-ana-maria-alfonso-riveros-2"
-              },
-              "address": {
-                "streetAddress": "BARRIO VIRGEN DE FATIMA CDE",
-                "postalCode": "",
-                "locality": "CIUDAD DEL ESTE",
-                "countryName": "Paraguay",
-                "region": "Alto Paraná"
-              },
-              "contactPoint": {
-                "name": "ANA MARIA ALFONSO RIVEROS",
-                "faxNumber": "",
-                "telephone": "503199",
-                "email": "mariaana_construcciones@hotmail.com",
-                "url": null
-              }
+              "id": "3d18104d0a1fba2776ac8a49eeac42be",
+              "name": "ANA MARIA ALFONSO RIVEROS"
             },
             {
-              "name": "ECOSERVICE GROUP S.A ",
-              "identifier": {
-                "id": "80058998-0",
-                "legalName": "ECOSERVICE GROUP S.A ",
-                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
-                "key": "284456-ecoservice-group-s-a-3"
-              },
-              "address": {
-                "streetAddress": "Avda. San Jose esq.Juan Martincich",
-                "postalCode": "",
-                "locality": "Ciudad del Este",
-                "countryName": "Paraguay",
-                "region": "Alto Paraná"
-              },
-              "contactPoint": {
-                "name": "LUIS MIGUEL MARTINEZ VILLAR",
-                "faxNumber": "",
-                "telephone": "571049",
-                "email": "ecoservicepy@gmail.com",
-                "url": null
-              }
+              "id": "70b47bec1ca8fc687cbb5784de695207",
+              "name": "ECOSERVICE GROUP S.A "
             }
           ],
           "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284456-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1"

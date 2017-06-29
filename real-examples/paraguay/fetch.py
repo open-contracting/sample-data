@@ -51,7 +51,7 @@ def fetchRecords(id_list, folder, get_releases, page=0):
     url += 'datos/api/v2/doc/ocds/record-package/%s' % record_id
     print("Fetching record %s ID: %s > %s" % (page, record_id, url))
     r = requests.get(url)
-    writeFile('%s/%s.json' % (folder, record_id), r, url)
+    writeFile('%s/records/%s.json' % (folder, record_id), r, url)
     if get_releases:
         try:
             data = r.json()

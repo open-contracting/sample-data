@@ -1,26 +1,41 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/convocatorias/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3",
-  "publishedDate": "2017-06-20T15:41:15-04:00",
+  "publishedDate": "2017-06-29T04:29:45-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-274231",
       "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3-tender",
-      "date": "2017-06-20T15:41:15-04:00",
+      "date": "2017-06-29T04:29:45-04:00",
+      "language": "es",
       "tag": [
         "tender"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "Compa\u00f1\u00eda Paraguaya de Comunicaciones (COPACO)",
+          "contactPoint": {
+            "name": "Norma Beatriz Fern\u00e1ndez de Burgos",
+            "email": "uoc@copaco.com.py",
+            "telephone": "021444142"
+          },
+          "roles": [
+            "procuringEntity"
+          ],
+          "id": "fc158d1d9e0f146386cee4cfef68eea4"
+        }
+      ],
       "tender": {
         "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3",
-        "title": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIÓN Y TERMINALES ÓPTICOS DE TRANSMISIÓN",
+        "title": "ADQUISICI\u00d3N DE EQUIPOS DE COMUNICACI\u00d3N Y TERMINALES \u00d3PTICOS DE TRANSMISI\u00d3N",
         "status": "complete",
         "lots": [
           {
@@ -44,9 +59,9 @@
             "description": "Modems con interfaces",
             "id": "gjnlKbLKPslg3mM07iELNw%3D%3D",
             "classification": {
-              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "scheme": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
               "id": "43221806-002",
-              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
               "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
             },
             "quantity": 20.0,
@@ -62,9 +77,9 @@
             "description": "Modems con interfaces",
             "id": "%2FmoEy4QKUqJg3mM07iELNw%3D%3D",
             "classification": {
-              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "scheme": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
               "id": "43221806-002",
-              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
               "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
             },
             "quantity": 20.0,
@@ -80,9 +95,9 @@
             "description": "Modems con interfaces",
             "id": "il%2BMyg277UZg3mM07iELNw%3D%3D",
             "classification": {
-              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "scheme": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
               "id": "43221806-002",
-              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
               "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
             },
             "quantity": 20.0,
@@ -98,9 +113,9 @@
             "description": "Modems con interfaces",
             "id": "zrxiONSYvI5g3mM07iELNw%3D%3D",
             "classification": {
-              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "scheme": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
               "id": "43221806-002",
-              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
               "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
             },
             "quantity": 20.0,
@@ -126,12 +141,8 @@
           "endDate": "2016-03-16T10:42:48-04:00"
         },
         "procuringEntity": {
-          "name": "Compañía Paraguaya de Comunicaciones (COPACO)",
-          "contactPoint": {
-            "name": "Norma Beatriz Fernández de Burgos",
-            "email": "uoc@copaco.com.py",
-            "telephone": "021444142"
-          }
+          "id": "fc158d1d9e0f146386cee4cfef68eea4",
+          "name": "Compa\u00f1\u00eda Paraguaya de Comunicaciones (COPACO)"
         },
         "documents": [
           {
@@ -152,8 +163,8 @@
           },
           {
             "id": "jA0K1qPWnpc%3D",
-            "documentType": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
-            "title": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+            "documentType": "Instrucci\u00f3n a los Oferentes - Bienes y Servicios por Subasta",
+            "title": "Instrucci\u00f3n a los Oferentes - Bienes y Servicios por Subasta",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/jA0K1qPWnpc%253D",
             "format": "application/pdf"

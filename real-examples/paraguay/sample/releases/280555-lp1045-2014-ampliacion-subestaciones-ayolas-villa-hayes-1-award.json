@@ -1,27 +1,55 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes-1",
-  "publishedDate": "2017-06-20T15:43:18-04:00",
+  "publishedDate": "2017-06-29T04:30:54-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-280555",
       "id": "280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes-1-award",
-      "date": "2017-06-20T15:43:18-04:00",
+      "date": "2017-06-29T04:30:54-04:00",
+      "language": "es",
       "tag": [
         "award"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "CONSORCIO SIEMENS - RIEDER - 500 KV",
+          "identifier": {
+            "id": "null",
+            "legalName": "CONSORCIO SIEMENS - RIEDER - 500 KV",
+            "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "key": "280555-consorcio-siemens-rieder-500-kv-1"
+          },
+          "address": {
+            "streetAddress": null,
+            "locality": null,
+            "region": null,
+            "countryName": null
+          },
+          "contactPoint": {
+            "name": null,
+            "email": null,
+            "telephone": null,
+            "url": null
+          },
+          "roles": [
+            "supplier"
+          ],
+          "id": "a49b129cae84c3d2d3ceed0b0bdcf3a8"
+        }
+      ],
       "awards": [
         {
           "id": "280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes-1",
-          "title": "Lp1045_2014 Ampliación de las Subestaciones Ayolas y Villa Hayes",
+          "title": "Lp1045_2014 Ampliaci\u00f3n de las Subestaciones Ayolas y Villa Hayes",
           "status": "active",
           "date": "2016-02-09T11:33:46-05:00",
           "value": {
@@ -30,25 +58,8 @@
           },
           "suppliers": [
             {
-              "name": "CONSORCIO SIEMENS - RIEDER - 500 KV",
-              "identifier": {
-                "id": "null",
-                "legalName": "CONSORCIO SIEMENS - RIEDER - 500 KV",
-                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
-                "key": "280555-consorcio-siemens-rieder-500-kv-1"
-              },
-              "address": {
-                "streetAddress": null,
-                "locality": null,
-                "region": null,
-                "countryName": null
-              },
-              "contactPoint": {
-                "name": null,
-                "email": null,
-                "telephone": null,
-                "url": null
-              }
+              "id": "a49b129cae84c3d2d3ceed0b0bdcf3a8",
+              "name": "CONSORCIO SIEMENS - RIEDER - 500 KV"
             }
           ],
           "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/280555-lp1045-2014-ampliacion-subestaciones-ayolas-villa-hayes-1"
