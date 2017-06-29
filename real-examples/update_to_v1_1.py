@@ -62,7 +62,6 @@ def generate_party(parties, org, role=[]):
 def upgrade_parties(release):
     parties = {}
     try:
-        print('trying', release['buyer'])
         release['buyer'] = generate_party(parties, release['buyer'], ['buyer'])
     except Exception as err:
         pass
@@ -172,7 +171,7 @@ def main():
     usage = 'Usage: %prog [ --all --cont ]'
     parser = optparse.OptionParser(usage=usage)
     parser.add_option('-f', '--filepath', action='store', default=None,
-                      help='Path to files, e.g. paraguay/sample')
+                      help='Path to files, e.g. paraguay/sample/releases')
     (options, args) = parser.parse_args()
     if not options.filepath:
         parser.error('You must supply a filepath, using the -f argument')
@@ -180,25 +179,28 @@ def main():
         if not filename.endswith('.json'):
             print('Skipping non-JSON file %s' % filename)
             continue
-        try:
-            with open(filename, 'r') as file:
-                print('\n-------------')
-                print(filename)
-                data = json.loads(file.read())
-                data = remove_empty_arrays(data)
-                data = OrderedDict(data)
-                data.update({"version": "1.1"})
-                if 'releases' in data:
-                    data.move_to_end('releases', last=True)
-                    for i, release in enumerate(data['releases']):
-                        data['releases'][i] = upgrade(release)
-                else:
-                    print('Releases property missing, not updating')
-                with open(filename, 'w') as writefile:
-                    writefile.write(json.dumps(data, indent=2))
-        except Exception as e:
-            print("Problem updating " + filename)
-            print(e)
+        # try:
+        with open(filename, 'r') as file:
+            # print('\n-------------')
+            # print(filename)
+            data = json.loads(file.read())
+            data = remove_empty_arrays(data)
+            data = OrderedDict(data)
+            data.update({"version": "1.1"})
+            if 'records' in data:
+                # Handle record packages.
+                for record in data['records']:
+                    if 'compiledRelease' in record:
+                        record['compiledRelease'] = \
+                            upgrade(record['compiledRelease'])
+            else:
+                # Handle individual releases.
+                data = upgrade(data)
+            with open(filename, 'w') as writefile:
+                writefile.write(json.dumps(data, indent=2))
+        # except Exception as e:
+        #     print("Problem updating " + filename)
+        #     print(e)
 
 if __name__ == '__main__':
     main()
