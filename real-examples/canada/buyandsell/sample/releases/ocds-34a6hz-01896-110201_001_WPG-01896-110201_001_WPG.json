@@ -1,0 +1,82 @@
+{
+  "ocid": "ocds-34a6hz-01896-110201/001/WPG",
+  "id": "01896-110201/001/WPG",
+  "date": "2015-10-29T17:47:12Z",
+  "language": "en",
+  "tag": [
+    "compiled"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "MISC-BUYANDSELLGCCA",
+        "id": "01",
+        "legalName_en": "Agriculture and Agri-Food Canada",
+        "legalName_fr": "Agriculture et Agroalimentaire Canada"
+      },
+      "name_en": "Agriculture and Agri-Food Canada",
+      "name_fr": "Agriculture et Agroalimentaire Canada",
+      "address": {
+        "streetAddress": "400 - 300 MAIN STREET",
+        "locality": "WINNIPEG",
+        "region": "Manitoba",
+        "postalCode": "R3C3G7",
+        "countryName": "Canada"
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "MISC-BUYANDSELLGCCA-01"
+    }
+  ],
+  "buyer": {
+    "id": "MISC-BUYANDSELLGCCA-01",
+    "name": ""
+  },
+  "contracts": [
+    {
+      "id": "01896-110201/001/WPG",
+      "title_en": "Harvesting Equipment",
+      "title_fr": "\u00c9quipements pour moissonner",
+      "awardID": "01896-110201/001/WPG",
+      "status": "active",
+      "period": {
+        "startDate": "2011-08-12",
+        "endDate": "2016-07-31"
+      },
+      "value": {
+        "amount": 3800000,
+        "currency": "CAD"
+      },
+      "items": [
+        {
+          "id": "N3720",
+          "description_en": "Harvesting Equipment",
+          "description_fr": "\u00c9quipements pour moissonner",
+          "classification": {
+            "id": "N3720",
+            "scheme": "GSIN"
+          }
+        }
+      ],
+      "amendment": {
+        "rationale": "amendmentNumber: 000, awardDate: 2011-08-12, expiryDate: 2013-07-31, value: 2200000.00 | amendmentNumber: 001, awardDate: 2011-08-15, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 002, awardDate: 2011-08-18, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 003, awardDate: 2011-10-18, expiryDate: 2013-07-31, value: 600000.00 | amendmentNumber: 004, awardDate: 2013-07-16, expiryDate: 2014-07-31, value: 1000000.00 | amendmentNumber: 005, awardDate: 2013-07-18, expiryDate: 2014-07-31, value: 0.00 | amendmentNumber: 006, awardDate: 2014-07-16, expiryDate: 2015-07-31, value: 600000.00 | amendmentNumber: 007, awardDate: 2015-06-11, expiryDate: 2016-07-31, value: -600000.00",
+        "date": "2015-06-11"
+      }
+    }
+  ],
+  "packageInfo": {
+    "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json",
+    "publishedDate": "2015-11-18T21:59:18Z",
+    "publisher": {
+      "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca",
+      "uri_en": "https://buyandsell.gc.ca",
+      "uri_fr": "https://achatsetventes.gc.ca",
+      "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data",
+      "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/buyer/properties/name/minLength: '' is too short"
+}

@@ -1,0 +1,603 @@
+{
+  "publisher": {
+    "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+    "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+    "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+    "uri_en": "https://buyandsell.gc.ca", 
+    "uri_fr": "https://achatsetventes.gc.ca"
+  }, 
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01799-120105/001/PWB", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "en"
+      }
+    ], 
+    "contracts": [
+      {
+        "status": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "active"
+          }
+        ], 
+        "amendment": {
+          "date": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2015-07-03"
+            }
+          ], 
+          "rationale": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "amendmentNumber: 000, awardDate: 2011-08-15, expiryDate: 2014-08-15, value: 14726.00 | amendmentNumber: 001, awardDate: 2014-07-16, expiryDate: 2015-08-15, value: 5105.00 | amendmentNumber: 002, awardDate: 2015-07-03, expiryDate: 2015-08-15, value: 5309.00"
+            }
+          ]
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01799-120105/001/PWB", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "GSIN"
+                }
+              ], 
+              "id": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01799-120105/001/PWB", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "5169D"
+                }
+              ]
+            }, 
+            "id": "5169D", 
+            "description_en": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01799-120105/001/PWB", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "Other Installation Work"
+              }
+            ], 
+            "description_fr": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01799-120105/001/PWB", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "Autres travaux d'installation"
+              }
+            ]
+          }
+        ], 
+        "title_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Other Installation Work"
+          }
+        ], 
+        "period": {
+          "startDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2011-08-15"
+            }
+          ], 
+          "endDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2015-08-15"
+            }
+          ]
+        }, 
+        "value": {
+          "currency": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "CAD"
+            }
+          ], 
+          "amount": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": 25140
+            }
+          ]
+        }, 
+        "title_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Autres travaux d'installation"
+          }
+        ], 
+        "awardID": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "01799-120105/001/PWB"
+          }
+        ], 
+        "id": "01799-120105/001/PWB"
+      }
+    ], 
+    "ocid": "ocds-34a6hz-01799-120105/001/PWB", 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data"
+          }
+        ], 
+        "documentation_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo"
+          }
+        ], 
+        "name": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Buyandsell.gc.ca - Achatsetventes.gc.ca"
+          }
+        ], 
+        "uri_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca"
+          }
+        ], 
+        "uri_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca"
+          }
+        ]
+      }, 
+      "uri": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01799-120105/001/PWB", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json"
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01799-120105/001/PWB", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "2015-11-18T21:59:18Z"
+        }
+      ]
+    }, 
+    "initiationType": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01799-120105/001/PWB", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01799-120105/001/PWB", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01799-120105/001/PWB", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": ""
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01799-120105/001/PWB", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture et Agroalimentaire Canada"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Canada"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "E3B4Z7"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "New Brunswick"
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "RESEARCH STN"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "FREDERICTON"
+            }
+          ]
+        }, 
+        "name_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01799-120105/001/PWB", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture and Agri-Food Canada"
+          }
+        ], 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "MISC-BUYANDSELLGCCA"
+            }
+          ], 
+          "legalName_en": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture and Agri-Food Canada"
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "01"
+            }
+          ], 
+          "legalName_fr": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01799-120105/001/PWB", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture et Agroalimentaire Canada"
+            }
+          ]
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "validationErrors": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01799-120105/001/PWB", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "properties/buyer/properties/name/minLength: '' is too short"
+      }
+    ]
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en", 
+      "contracts": [
+        {
+          "status": "active", 
+          "amendment": {
+            "date": "2015-07-03", 
+            "rationale": "amendmentNumber: 000, awardDate: 2011-08-15, expiryDate: 2014-08-15, value: 14726.00 | amendmentNumber: 001, awardDate: 2014-07-16, expiryDate: 2015-08-15, value: 5105.00 | amendmentNumber: 002, awardDate: 2015-07-03, expiryDate: 2015-08-15, value: 5309.00"
+          }, 
+          "items": [
+            {
+              "classification": {
+                "scheme": "GSIN", 
+                "id": "5169D"
+              }, 
+              "id": "5169D", 
+              "description_en": "Other Installation Work", 
+              "description_fr": "Autres travaux d'installation"
+            }
+          ], 
+          "title_en": "Other Installation Work", 
+          "period": {
+            "startDate": "2011-08-15", 
+            "endDate": "2015-08-15"
+          }, 
+          "value": {
+            "currency": "CAD", 
+            "amount": 25140
+          }, 
+          "title_fr": "Autres travaux d'installation", 
+          "awardID": "01799-120105/001/PWB", 
+          "id": "01799-120105/001/PWB"
+        }
+      ], 
+      "ocid": "ocds-34a6hz-01799-120105/001/PWB", 
+      "packageInfo": {
+        "publisher": {
+          "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+          "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+          "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+          "uri_en": "https://buyandsell.gc.ca", 
+          "uri_fr": "https://achatsetventes.gc.ca"
+        }, 
+        "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+        "publishedDate": "2015-11-18T21:59:18Z"
+      }, 
+      "initiationType": "tender", 
+      "buyer": {
+        "id": "MISC-BUYANDSELLGCCA-01", 
+        "name": ""
+      }, 
+      "tag": [
+        "compiled"
+      ], 
+      "parties": [
+        {
+          "name_fr": "Agriculture et Agroalimentaire Canada", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": "E3B4Z7", 
+            "countryName": "Canada", 
+            "streetAddress": "RESEARCH STN", 
+            "region": "New Brunswick", 
+            "locality": "FREDERICTON"
+          }, 
+          "name_en": "Agriculture and Agri-Food Canada", 
+          "identifier": {
+            "scheme": "MISC-BUYANDSELLGCCA", 
+            "legalName_en": "Agriculture and Agri-Food Canada", 
+            "id": "01", 
+            "legalName_fr": "Agriculture et Agroalimentaire Canada"
+          }, 
+          "id": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "date": "2015-10-29T17:47:12Z", 
+      "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+      "id": "01799-120105/001/PWB"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en", 
+    "buyer": {
+      "id": "MISC-BUYANDSELLGCCA-01", 
+      "name": ""
+    }, 
+    "ocid": "ocds-34a6hz-01799-120105/001/PWB", 
+    "contracts": [
+      {
+        "status": "active", 
+        "amendment": {
+          "date": "2015-07-03", 
+          "rationale": "amendmentNumber: 000, awardDate: 2011-08-15, expiryDate: 2014-08-15, value: 14726.00 | amendmentNumber: 001, awardDate: 2014-07-16, expiryDate: 2015-08-15, value: 5105.00 | amendmentNumber: 002, awardDate: 2015-07-03, expiryDate: 2015-08-15, value: 5309.00"
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": "GSIN", 
+              "id": "5169D"
+            }, 
+            "id": "5169D", 
+            "description_en": "Other Installation Work", 
+            "description_fr": "Autres travaux d'installation"
+          }
+        ], 
+        "title_en": "Other Installation Work", 
+        "period": {
+          "startDate": "2011-08-15", 
+          "endDate": "2015-08-15"
+        }, 
+        "value": {
+          "currency": "CAD", 
+          "amount": 25140
+        }, 
+        "title_fr": "Autres travaux d'installation", 
+        "awardID": "01799-120105/001/PWB", 
+        "id": "01799-120105/001/PWB"
+      }
+    ], 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+        "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+        "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+        "uri_en": "https://buyandsell.gc.ca", 
+        "uri_fr": "https://achatsetventes.gc.ca"
+      }, 
+      "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+      "publishedDate": "2015-11-18T21:59:18Z"
+    }, 
+    "initiationType": "tender", 
+    "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name_fr": "Agriculture et Agroalimentaire Canada", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": "Canada", 
+          "postalCode": "E3B4Z7", 
+          "region": "New Brunswick", 
+          "streetAddress": "RESEARCH STN", 
+          "locality": "FREDERICTON"
+        }, 
+        "name_en": "Agriculture and Agri-Food Canada", 
+        "identifier": {
+          "scheme": "MISC-BUYANDSELLGCCA", 
+          "legalName_en": "Agriculture and Agri-Food Canada", 
+          "id": "01", 
+          "legalName_fr": "Agriculture et Agroalimentaire Canada"
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "date": "2015-10-29T17:47:12Z", 
+    "id": "01799-120105/001/PWB"
+  }
+}

@@ -55,7 +55,7 @@ def main():
                 ocids[ocid].append(release)
     for ocid in ocids:
         record = mergeReleases(ocids[ocid])
-        fname = '%s/%s.json' % (options.outfilepath, ocid)
+        fname = '%s/%s.json' % (options.outfilepath, ocid.replace('/', '_'))
         with open(fname, 'w') as writefile:
             writefile.write(json.dumps(record, indent=2))
 
