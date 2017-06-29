@@ -1,0 +1,1459 @@
+{
+  "compiledRelease": {
+    "tag": [
+      "compiled"
+    ],
+    "date": "2017-01-03T00:00:00.000Z",
+    "id": "16949496",
+    "initiationType": "tender",
+    "language": "md",
+    "ocid": "ocds-ngfbwp-16949496",
+    "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]",
+    "version": "1.1",
+    "buyer": {
+      "id": "5cb15dcd7f43ba4d54fc27debc647eca",
+      "name": "DETS  R\u00ce\u015eCANI"
+    },
+    "packageInfo": {
+      "publishedDate": "2016-11-07T00:00:00.00Z",
+      "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+      "publisher": {
+        "name": "Public Procurement Agency",
+        "scheme": null,
+        "uid": null,
+        "uri": "https://tender.gov.md"
+      }
+    },
+    "tender": {
+      "awardCriteria": "",
+      "awardCriteriaDetails": "",
+      "description": "",
+      "eligibilityCriteria": "",
+      "id": "16949496",
+      "numberOfTenders": "",
+      "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+      "procurementMethodRationale": "",
+      "status": "Executarea contractului",
+      "submissionMethodDetails": "",
+      "tenderers": [
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": ""
+        }
+      ],
+      "title": "Tender Ref 16/03822 Bulletin 1",
+      "amendment": {
+        "changes": {}
+      },
+      "procuringEntity": {
+        "id": "5cb15dcd7f43ba4d54fc27debc647eca",
+        "name": "DETS  R\u00ce\u015eCANI"
+      },
+      "submissionMethod": [
+        "written"
+      ],
+      "tenderPeriod": {
+        "endDate": "2017-01-17T10:00:00.000Z",
+        "startDate": "2017-01-03T00:00:00.000Z"
+      },
+      "value": {
+        "amount": "",
+        "currency": ""
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": "",
+          "format": "",
+          "title": "",
+          "url": ""
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": {}
+        }
+      ]
+    },
+    "awards": [
+      {
+        "id": "award-17956599",
+        "date": "",
+        "description": "",
+        "status": "",
+        "suppliers": [
+          {
+            "id": "278743719af1e3ddcee6593b28cec8ae",
+            "name": "S.C. ELINATCONS S.R.L."
+          }
+        ],
+        "title": "Award for Servicii de spalare si testare hidropneumatica a sistemelor de incalzire cu lichidarea eventuala a defectelor aparute pe a.2017",
+        "contractPeriod": {
+          "endDate": "2017-12-31T00:00:00.000Z",
+          "startDate": "2017-02-14T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 203179.71,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "items": [
+          {
+            "id": 51765,
+            "description": "",
+            "quantity": "",
+            "classification": {
+              "description": "Servicii de reparare si de intretinere a incalzirii centrale",
+              "id": "50720000-8",
+              "scheme": "CPV"
+            },
+            "unit": {
+              "name": "",
+              "value": {
+                "amount": "",
+                "currency": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "contracts": [
+      {
+        "id": "17956599",
+        "awardID": "award-17956599",
+        "dateSigned": "2017-02-14T00:00:00.000Z",
+        "description": "",
+        "status": "\u00cenregistrat(\u0103)",
+        "title": "16/03822/001 Servicii de spalare si testare hidropneumatica a sistemelor de incalzire cu lichidarea eventuala a defectelor aparute pe a.2017",
+        "amendment": {
+          "changes": []
+        },
+        "period": {
+          "endDate": "2017-12-31T00:00:00.000Z",
+          "startDate": "2017-02-14T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 203179.71,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": "",
+              "title": "",
+              "url": ""
+            }
+          ]
+        }
+      }
+    ],
+    "parties": [
+      {
+        "id": "5cb15dcd7f43ba4d54fc27debc647eca",
+        "name": "DETS  R\u00ce\u015eCANI",
+        "roles": [
+          "buyer",
+          "procuringEntity"
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": "",
+        "roles": [
+          "tenderer"
+        ]
+      },
+      {
+        "id": "278743719af1e3ddcee6593b28cec8ae",
+        "name": "S.C. ELINATCONS S.R.L.",
+        "roles": [
+          "supplier"
+        ]
+      }
+    ]
+  },
+  "versionedRelease": {
+    "ocid": "ocds-ngfbwp-16949496",
+    "initiationType": [
+      {
+        "releaseID": "16949496",
+        "releaseDate": "2017-01-03T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "tender"
+      }
+    ],
+    "language": [
+      {
+        "releaseID": "16949496",
+        "releaseDate": "2017-01-03T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "md"
+      }
+    ],
+    "validationErrors": [
+      {
+        "releaseID": "16949496",
+        "releaseDate": "2017-01-03T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+      }
+    ],
+    "version": [
+      {
+        "releaseID": "16949496",
+        "releaseDate": "2017-01-03T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "1.1"
+      }
+    ],
+    "buyer": {
+      "id": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "5cb15dcd7f43ba4d54fc27debc647eca"
+        }
+      ],
+      "name": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "DETS  R\u00ce\u015eCANI"
+        }
+      ]
+    },
+    "packageInfo": {
+      "publishedDate": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "2016-11-07T00:00:00.00Z"
+        }
+      ],
+      "uri": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "http://moldova-demo.yipl.com.np/ocds-api/year/2017"
+        }
+      ],
+      "publisher": {
+        "name": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Public Procurement Agency"
+          }
+        ],
+        "scheme": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uid": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uri": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "https://tender.gov.md"
+          }
+        ]
+      }
+    },
+    "tender": {
+      "awardCriteria": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "awardCriteriaDetails": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "description": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "eligibilityCriteria": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "id": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "16949496"
+        }
+      ],
+      "numberOfTenders": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "procurementMethod": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Cerere a ofertelor de pre\u0163uri"
+        }
+      ],
+      "procurementMethodRationale": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "status": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Executarea contractului"
+        }
+      ],
+      "submissionMethodDetails": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "tenderers": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": [
+            {
+              "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+              "name": ""
+            }
+          ]
+        }
+      ],
+      "title": [
+        {
+          "releaseID": "16949496",
+          "releaseDate": "2017-01-03T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Tender Ref 16/03822 Bulletin 1"
+        }
+      ],
+      "amendment": {
+        "changes": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": {}
+          }
+        ]
+      },
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "5cb15dcd7f43ba4d54fc27debc647eca"
+          }
+        ],
+        "name": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "DETS  R\u00ce\u015eCANI"
+          }
+        ]
+      },
+      "submissionMethod": [
+        [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "written"
+          }
+        ]
+      ],
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-01-17T10:00:00.000Z"
+          }
+        ],
+        "startDate": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-01-03T00:00:00.000Z"
+          }
+        ]
+      },
+      "value": {
+        "amount": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "currency": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ]
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "format": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "title": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "url": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": {}
+            }
+          ]
+        }
+      ]
+    },
+    "awards": [
+      {
+        "id": "award-17956599",
+        "date": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "suppliers": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": [
+              {
+                "id": "278743719af1e3ddcee6593b28cec8ae",
+                "name": "S.C. ELINATCONS S.R.L."
+              }
+            ]
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Award for Servicii de spalare si testare hidropneumatica a sistemelor de incalzire cu lichidarea eventuala a defectelor aparute pe a.2017"
+          }
+        ],
+        "contractPeriod": {
+          "endDate": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-12-31T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-02-14T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 203179.71
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 51765,
+            "description": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "quantity": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "classification": {
+              "description": [
+                {
+                  "releaseID": "16949496",
+                  "releaseDate": "2017-01-03T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "Servicii de reparare si de intretinere a incalzirii centrale"
+                }
+              ],
+              "id": [
+                {
+                  "releaseID": "16949496",
+                  "releaseDate": "2017-01-03T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "50720000-8"
+                }
+              ],
+              "scheme": [
+                {
+                  "releaseID": "16949496",
+                  "releaseDate": "2017-01-03T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "CPV"
+                }
+              ]
+            },
+            "unit": {
+              "name": [
+                {
+                  "releaseID": "16949496",
+                  "releaseDate": "2017-01-03T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "value": {
+                "amount": [
+                  {
+                    "releaseID": "16949496",
+                    "releaseDate": "2017-01-03T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ],
+                "currency": [
+                  {
+                    "releaseID": "16949496",
+                    "releaseDate": "2017-01-03T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "contracts": [
+      {
+        "id": "17956599",
+        "awardID": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "award-17956599"
+          }
+        ],
+        "dateSigned": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-02-14T00:00:00.000Z"
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "\u00cenregistrat(\u0103)"
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "16/03822/001 Servicii de spalare si testare hidropneumatica a sistemelor de incalzire cu lichidarea eventuala a defectelor aparute pe a.2017"
+          }
+        ],
+        "amendment": {
+          "changes": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ]
+        },
+        "period": {
+          "endDate": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-12-31T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-02-14T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 203179.71
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "16949496",
+                "releaseDate": "2017-01-03T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": [
+                {
+                  "releaseID": "16949496",
+                  "releaseDate": "2017-01-03T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "title": [
+                {
+                  "releaseID": "16949496",
+                  "releaseDate": "2017-01-03T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "url": [
+                {
+                  "releaseID": "16949496",
+                  "releaseDate": "2017-01-03T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "parties": [
+      {
+        "id": "5cb15dcd7f43ba4d54fc27debc647eca",
+        "name": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "DETS  R\u00ce\u015eCANI"
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "buyer"
+            }
+          ],
+          [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "procuringEntity"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "tenderer"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "278743719af1e3ddcee6593b28cec8ae",
+        "name": [
+          {
+            "releaseID": "16949496",
+            "releaseDate": "2017-01-03T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "S.C. ELINATCONS S.R.L."
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "16949496",
+              "releaseDate": "2017-01-03T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "supplier"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "releases": [
+    {
+      "ocid": "ocds-ngfbwp-16949496",
+      "id": "16949496",
+      "date": "2017-01-03T00:00:00.000Z",
+      "language": "md",
+      "tag": [
+        "tender",
+        "award",
+        "contract"
+      ],
+      "initiationType": "tender",
+      "parties": [
+        {
+          "id": "5cb15dcd7f43ba4d54fc27debc647eca",
+          "name": "DETS  R\u00ce\u015eCANI",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": "",
+          "roles": [
+            "tenderer"
+          ]
+        },
+        {
+          "id": "278743719af1e3ddcee6593b28cec8ae",
+          "name": "S.C. ELINATCONS S.R.L.",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tender": {
+        "id": "16949496",
+        "title": "Tender Ref 16/03822 Bulletin 1",
+        "description": "",
+        "status": "Executarea contractului",
+        "value": {
+          "amount": "",
+          "currency": ""
+        },
+        "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+        "procurementMethodRationale": "",
+        "awardCriteria": "",
+        "awardCriteriaDetails": "",
+        "submissionMethod": [
+          "written"
+        ],
+        "submissionMethodDetails": "",
+        "tenderPeriod": {
+          "startDate": "2017-01-03T00:00:00.000Z",
+          "endDate": "2017-01-17T10:00:00.000Z"
+        },
+        "eligibilityCriteria": "",
+        "numberOfTenders": "",
+        "tenderers": [
+          {
+            "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+            "name": ""
+          }
+        ],
+        "procuringEntity": {
+          "id": "5cb15dcd7f43ba4d54fc27debc647eca",
+          "name": "DETS  R\u00ce\u015eCANI"
+        },
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": "",
+            "format": ""
+          }
+        ],
+        "milestones": [
+          {
+            "documents": {}
+          }
+        ],
+        "amendment": {
+          "changes": {}
+        }
+      },
+      "awards": [
+        {
+          "id": "award-17956599",
+          "title": "Award for Servicii de spalare si testare hidropneumatica a sistemelor de incalzire cu lichidarea eventuala a defectelor aparute pe a.2017",
+          "description": "",
+          "status": "",
+          "date": "",
+          "value": {
+            "amount": 203179.71,
+            "currency": "mdl"
+          },
+          "suppliers": [
+            {
+              "id": "278743719af1e3ddcee6593b28cec8ae",
+              "name": "S.C. ELINATCONS S.R.L."
+            }
+          ],
+          "items": [
+            {
+              "id": 51765,
+              "description": "",
+              "classification": {
+                "scheme": "CPV",
+                "id": "50720000-8",
+                "description": "Servicii de reparare si de intretinere a incalzirii centrale"
+              },
+              "quantity": "",
+              "unit": {
+                "name": "",
+                "value": {
+                  "amount": "",
+                  "currency": ""
+                }
+              }
+            }
+          ],
+          "contractPeriod": {
+            "startDate": "2017-02-14T00:00:00.000Z",
+            "endDate": "2017-12-31T00:00:00.000Z"
+          },
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "17956599",
+          "awardID": "award-17956599",
+          "title": "16/03822/001 Servicii de spalare si testare hidropneumatica a sistemelor de incalzire cu lichidarea eventuala a defectelor aparute pe a.2017",
+          "description": "",
+          "status": "\u00cenregistrat(\u0103)",
+          "period": {
+            "startDate": "2017-02-14T00:00:00.000Z",
+            "endDate": "2017-12-31T00:00:00.000Z"
+          },
+          "value": {
+            "amount": 203179.71,
+            "currency": "mdl"
+          },
+          "dateSigned": "2017-02-14T00:00:00.000Z",
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ],
+          "amendment": {
+            "changes": []
+          },
+          "implementation": {
+            "documents": [
+              {
+                "id": "",
+                "title": "",
+                "url": "",
+                "datePublished": ""
+              }
+            ]
+          }
+        }
+      ],
+      "buyer": {
+        "id": "5cb15dcd7f43ba4d54fc27debc647eca",
+        "name": "DETS  R\u00ce\u015eCANI"
+      },
+      "packageInfo": {
+        "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+        "publishedDate": "2016-11-07T00:00:00.00Z",
+        "publisher": {
+          "scheme": null,
+          "name": "Public Procurement Agency",
+          "uri": "https://tender.gov.md",
+          "uid": null
+        }
+      },
+      "version": "1.1",
+      "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+    }
+  ],
+  "publisher": {
+    "scheme": null,
+    "name": "Public Procurement Agency",
+    "uri": "https://tender.gov.md",
+    "uid": null
+  }
+}

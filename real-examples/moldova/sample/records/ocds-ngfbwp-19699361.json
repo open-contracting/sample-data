@@ -1,0 +1,1459 @@
+{
+  "compiledRelease": {
+    "tag": [
+      "compiled"
+    ],
+    "date": "2017-05-30T00:00:00.000Z",
+    "id": "19699361",
+    "initiationType": "tender",
+    "language": "md",
+    "ocid": "ocds-ngfbwp-19699361",
+    "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]",
+    "version": "1.1",
+    "buyer": {
+      "id": "f7a93f59606341500740d800154631a4",
+      "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+    },
+    "packageInfo": {
+      "publishedDate": "2016-11-07T00:00:00.00Z",
+      "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+      "publisher": {
+        "name": "Public Procurement Agency",
+        "scheme": null,
+        "uid": null,
+        "uri": "https://tender.gov.md"
+      }
+    },
+    "tender": {
+      "awardCriteria": "",
+      "awardCriteriaDetails": "",
+      "description": "",
+      "eligibilityCriteria": "",
+      "id": "19699361",
+      "numberOfTenders": "",
+      "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+      "procurementMethodRationale": "",
+      "status": "Executarea contractului",
+      "submissionMethodDetails": "",
+      "tenderers": [
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": ""
+        }
+      ],
+      "title": "Tender Ref 17/01712 Bulletin 43",
+      "amendment": {
+        "changes": {}
+      },
+      "procuringEntity": {
+        "id": "f7a93f59606341500740d800154631a4",
+        "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+      },
+      "submissionMethod": [
+        "written"
+      ],
+      "tenderPeriod": {
+        "endDate": "2017-06-12T13:00:00.000Z",
+        "startDate": "2017-05-30T00:00:00.000Z"
+      },
+      "value": {
+        "amount": "",
+        "currency": ""
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": "",
+          "format": "",
+          "title": "",
+          "url": ""
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": {}
+        }
+      ]
+    },
+    "awards": [
+      {
+        "id": "award-20248160",
+        "date": "",
+        "description": "",
+        "status": "",
+        "suppliers": [
+          {
+            "id": "66eb4dd24c24389417c937f9154ca1a8",
+            "name": "S.C. NOUCONST S.R.L."
+          }
+        ],
+        "title": "Award for LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA",
+        "contractPeriod": {
+          "endDate": "2017-07-31T00:00:00.000Z",
+          "startDate": "2017-06-20T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 36136.58,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "items": [
+          {
+            "id": 50942,
+            "description": "",
+            "quantity": "",
+            "classification": {
+              "description": "Lucrari de imbracare, altele decat pentru drumuri",
+              "id": "45233250-6",
+              "scheme": "CPV"
+            },
+            "unit": {
+              "name": "",
+              "value": {
+                "amount": "",
+                "currency": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "contracts": [
+      {
+        "id": "20248160",
+        "awardID": "award-20248160",
+        "dateSigned": "2017-06-20T00:00:00.000Z",
+        "description": "",
+        "status": "\u00cenregistrat(\u0103)",
+        "title": "17/01712/001 LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA",
+        "amendment": {
+          "changes": []
+        },
+        "period": {
+          "endDate": "2017-07-31T00:00:00.000Z",
+          "startDate": "2017-06-20T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 36136.58,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": "",
+              "title": "",
+              "url": ""
+            }
+          ]
+        }
+      }
+    ],
+    "parties": [
+      {
+        "id": "f7a93f59606341500740d800154631a4",
+        "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M.",
+        "roles": [
+          "buyer",
+          "procuringEntity"
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": "",
+        "roles": [
+          "tenderer"
+        ]
+      },
+      {
+        "id": "66eb4dd24c24389417c937f9154ca1a8",
+        "name": "S.C. NOUCONST S.R.L.",
+        "roles": [
+          "supplier"
+        ]
+      }
+    ]
+  },
+  "versionedRelease": {
+    "ocid": "ocds-ngfbwp-19699361",
+    "initiationType": [
+      {
+        "releaseID": "19699361",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "tender"
+      }
+    ],
+    "language": [
+      {
+        "releaseID": "19699361",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "md"
+      }
+    ],
+    "validationErrors": [
+      {
+        "releaseID": "19699361",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+      }
+    ],
+    "version": [
+      {
+        "releaseID": "19699361",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "1.1"
+      }
+    ],
+    "buyer": {
+      "id": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "f7a93f59606341500740d800154631a4"
+        }
+      ],
+      "name": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+        }
+      ]
+    },
+    "packageInfo": {
+      "publishedDate": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "2016-11-07T00:00:00.00Z"
+        }
+      ],
+      "uri": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "http://moldova-demo.yipl.com.np/ocds-api/year/2017"
+        }
+      ],
+      "publisher": {
+        "name": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Public Procurement Agency"
+          }
+        ],
+        "scheme": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uid": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uri": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "https://tender.gov.md"
+          }
+        ]
+      }
+    },
+    "tender": {
+      "awardCriteria": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "awardCriteriaDetails": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "description": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "eligibilityCriteria": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "id": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "19699361"
+        }
+      ],
+      "numberOfTenders": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "procurementMethod": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Cerere a ofertelor de pre\u0163uri"
+        }
+      ],
+      "procurementMethodRationale": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "status": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Executarea contractului"
+        }
+      ],
+      "submissionMethodDetails": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "tenderers": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": [
+            {
+              "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+              "name": ""
+            }
+          ]
+        }
+      ],
+      "title": [
+        {
+          "releaseID": "19699361",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Tender Ref 17/01712 Bulletin 43"
+        }
+      ],
+      "amendment": {
+        "changes": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": {}
+          }
+        ]
+      },
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "f7a93f59606341500740d800154631a4"
+          }
+        ],
+        "name": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+          }
+        ]
+      },
+      "submissionMethod": [
+        [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "written"
+          }
+        ]
+      ],
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-06-12T13:00:00.000Z"
+          }
+        ],
+        "startDate": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-05-30T00:00:00.000Z"
+          }
+        ]
+      },
+      "value": {
+        "amount": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "currency": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ]
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "format": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "title": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "url": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": {}
+            }
+          ]
+        }
+      ]
+    },
+    "awards": [
+      {
+        "id": "award-20248160",
+        "date": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "suppliers": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": [
+              {
+                "id": "66eb4dd24c24389417c937f9154ca1a8",
+                "name": "S.C. NOUCONST S.R.L."
+              }
+            ]
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Award for LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA"
+          }
+        ],
+        "contractPeriod": {
+          "endDate": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-07-31T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-06-20T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 36136.58
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 50942,
+            "description": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "quantity": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "classification": {
+              "description": [
+                {
+                  "releaseID": "19699361",
+                  "releaseDate": "2017-05-30T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "Lucrari de imbracare, altele decat pentru drumuri"
+                }
+              ],
+              "id": [
+                {
+                  "releaseID": "19699361",
+                  "releaseDate": "2017-05-30T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "45233250-6"
+                }
+              ],
+              "scheme": [
+                {
+                  "releaseID": "19699361",
+                  "releaseDate": "2017-05-30T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "CPV"
+                }
+              ]
+            },
+            "unit": {
+              "name": [
+                {
+                  "releaseID": "19699361",
+                  "releaseDate": "2017-05-30T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "value": {
+                "amount": [
+                  {
+                    "releaseID": "19699361",
+                    "releaseDate": "2017-05-30T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ],
+                "currency": [
+                  {
+                    "releaseID": "19699361",
+                    "releaseDate": "2017-05-30T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "contracts": [
+      {
+        "id": "20248160",
+        "awardID": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "award-20248160"
+          }
+        ],
+        "dateSigned": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-06-20T00:00:00.000Z"
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "\u00cenregistrat(\u0103)"
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "17/01712/001 LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA"
+          }
+        ],
+        "amendment": {
+          "changes": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ]
+        },
+        "period": {
+          "endDate": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-07-31T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-06-20T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 36136.58
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "19699361",
+                "releaseDate": "2017-05-30T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": [
+                {
+                  "releaseID": "19699361",
+                  "releaseDate": "2017-05-30T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "title": [
+                {
+                  "releaseID": "19699361",
+                  "releaseDate": "2017-05-30T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "url": [
+                {
+                  "releaseID": "19699361",
+                  "releaseDate": "2017-05-30T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "parties": [
+      {
+        "id": "f7a93f59606341500740d800154631a4",
+        "name": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "buyer"
+            }
+          ],
+          [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "procuringEntity"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "tenderer"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "66eb4dd24c24389417c937f9154ca1a8",
+        "name": [
+          {
+            "releaseID": "19699361",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "S.C. NOUCONST S.R.L."
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "19699361",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "supplier"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "releases": [
+    {
+      "ocid": "ocds-ngfbwp-19699361",
+      "id": "19699361",
+      "date": "2017-05-30T00:00:00.000Z",
+      "language": "md",
+      "tag": [
+        "tender",
+        "award",
+        "contract"
+      ],
+      "initiationType": "tender",
+      "parties": [
+        {
+          "id": "f7a93f59606341500740d800154631a4",
+          "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M.",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": "",
+          "roles": [
+            "tenderer"
+          ]
+        },
+        {
+          "id": "66eb4dd24c24389417c937f9154ca1a8",
+          "name": "S.C. NOUCONST S.R.L.",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tender": {
+        "id": "19699361",
+        "title": "Tender Ref 17/01712 Bulletin 43",
+        "description": "",
+        "status": "Executarea contractului",
+        "value": {
+          "amount": "",
+          "currency": ""
+        },
+        "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+        "procurementMethodRationale": "",
+        "awardCriteria": "",
+        "awardCriteriaDetails": "",
+        "submissionMethod": [
+          "written"
+        ],
+        "submissionMethodDetails": "",
+        "tenderPeriod": {
+          "startDate": "2017-05-30T00:00:00.000Z",
+          "endDate": "2017-06-12T13:00:00.000Z"
+        },
+        "eligibilityCriteria": "",
+        "numberOfTenders": "",
+        "tenderers": [
+          {
+            "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+            "name": ""
+          }
+        ],
+        "procuringEntity": {
+          "id": "f7a93f59606341500740d800154631a4",
+          "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+        },
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": "",
+            "format": ""
+          }
+        ],
+        "milestones": [
+          {
+            "documents": {}
+          }
+        ],
+        "amendment": {
+          "changes": {}
+        }
+      },
+      "awards": [
+        {
+          "id": "award-20248160",
+          "title": "Award for LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA",
+          "description": "",
+          "status": "",
+          "date": "",
+          "value": {
+            "amount": 36136.58,
+            "currency": "mdl"
+          },
+          "suppliers": [
+            {
+              "id": "66eb4dd24c24389417c937f9154ca1a8",
+              "name": "S.C. NOUCONST S.R.L."
+            }
+          ],
+          "items": [
+            {
+              "id": 50942,
+              "description": "",
+              "classification": {
+                "scheme": "CPV",
+                "id": "45233250-6",
+                "description": "Lucrari de imbracare, altele decat pentru drumuri"
+              },
+              "quantity": "",
+              "unit": {
+                "name": "",
+                "value": {
+                  "amount": "",
+                  "currency": ""
+                }
+              }
+            }
+          ],
+          "contractPeriod": {
+            "startDate": "2017-06-20T00:00:00.000Z",
+            "endDate": "2017-07-31T00:00:00.000Z"
+          },
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "20248160",
+          "awardID": "award-20248160",
+          "title": "17/01712/001 LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA",
+          "description": "",
+          "status": "\u00cenregistrat(\u0103)",
+          "period": {
+            "startDate": "2017-06-20T00:00:00.000Z",
+            "endDate": "2017-07-31T00:00:00.000Z"
+          },
+          "value": {
+            "amount": 36136.58,
+            "currency": "mdl"
+          },
+          "dateSigned": "2017-06-20T00:00:00.000Z",
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ],
+          "amendment": {
+            "changes": []
+          },
+          "implementation": {
+            "documents": [
+              {
+                "id": "",
+                "title": "",
+                "url": "",
+                "datePublished": ""
+              }
+            ]
+          }
+        }
+      ],
+      "buyer": {
+        "id": "f7a93f59606341500740d800154631a4",
+        "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+      },
+      "packageInfo": {
+        "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+        "publishedDate": "2016-11-07T00:00:00.00Z",
+        "publisher": {
+          "scheme": null,
+          "name": "Public Procurement Agency",
+          "uri": "https://tender.gov.md",
+          "uid": null
+        }
+      },
+      "version": "1.1",
+      "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+    }
+  ],
+  "publisher": {
+    "scheme": null,
+    "name": "Public Procurement Agency",
+    "uri": "https://tender.gov.md",
+    "uid": null
+  }
+}
