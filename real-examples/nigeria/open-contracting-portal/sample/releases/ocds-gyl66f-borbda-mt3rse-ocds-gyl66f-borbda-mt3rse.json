@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-mt3rse",
+  "id": "ocds-gyl66f-borbda-mt3rse",
+  "date": "2014-12-23T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "82477261",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-82477261"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "74479057",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "54564046",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-54564046"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "021092977",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-021092977"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Richamen Ventures"
+        }
+      ],
+      "identifier": {
+        "id": "100712608",
+        "legalName": "richamen ventures",
+        "scheme": "NGA-RV"
+      },
+      "name": "richamen ventures",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-RV-100712608"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2014-12-23T00:00:00Z",
+      "description": "Rehabilitation of Access Road at Aisegba Dam",
+      "id": "ocds-gyl66f-borbda-mt3rse",
+      "items": [
+        {
+          "classification": {
+            "id": "101372323",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-mt3rse-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-RV-100712608",
+          "name": "richamen ventures"
+        }
+      ],
+      "title": "Rehabilitation of Access Road at Aisegba Dam",
+      "value": {
+        "amount": 4958814.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-82477261",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-mt3rse-award",
+      "description": "Rehabilitation of Access Road at Aisegba Dam",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-mt3rse",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-mt3rse",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-mt3rse",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2014-12-23T00:00:00Z",
+            "description": "1.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-mt3rse-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2014-12-23T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-mt3rse",
+            "status": "met",
+            "title": "rehabilitation of access road at aisegba dam-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 4958814.0,
+              "currency": "NGN"
+            },
+            "date": "2014-12-23T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-mt3rse-nga-contract-transactions-13855439",
+            "providerOrganization": {
+              "id": "38517962",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-38517962",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "17075250",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-mt3rse",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-mt3rse-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2014-12-23T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Rehabilitation Of Access Road At Aisegba Dam",
+      "value": {
+        "amount": 4958814.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Rehabilitation Of Access Road At Aisegba Dam",
+      "id": "ocds-gyl66f-borbda-mt3rse",
+      "project": "Rehabilitation Of Access Road At Aisegba Dam",
+      "value": {
+        "amount": 12000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-mt3rse",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2014-12-23T00:00:00Z",
+      "startDate": "2014-12-23T00:00:00Z"
+    },
+    "description": "rehabilitation of access road at aisegba dam",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-mt3rse",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": null,
+      "startDate": null
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-mt3rse",
+    "items": [
+      {
+        "classification": {
+          "id": "101372323",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-mt3rse-tender-item-101372323",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 4958814.0,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2014-12-23T00:00:00Z",
+        "description": "Rehabilitation Of Access Road At Aisegba Dam",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-mt3rse",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2014-12-23T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-mt3rse",
+        "status": "met",
+        "title": "Rehabilitation Of Access Road At Aisegba Dam"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-54564046",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "complete",
+    "tenderPeriod": {
+      "endDate": null,
+      "startDate": null
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-021092977",
+        "name": ""
+      }
+    ],
+    "title": "rehabilitation of access road at aisegba dam",
+    "value": {
+      "amount": 4958814.0,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-06-29T19:07:56Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short"
+}

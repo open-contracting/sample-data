@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-27yetd",
+  "id": "ocds-gyl66f-borbda-27yetd",
+  "date": "2013-09-27T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "866594103",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-866594103"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "777910569",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "316194103",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-316194103"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "861017035",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-861017035"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "DTEC Nigeria Limited"
+        }
+      ],
+      "identifier": {
+        "id": "22686163",
+        "legalName": "dtec nigeria limited",
+        "scheme": "NGA-DNL"
+      },
+      "name": "dtec nigeria limited",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-DNL-22686163"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2013-09-27T00:00:00Z",
+      "description": "Construction of Itapaji Small Hydro Power Project",
+      "id": "ocds-gyl66f-borbda-27yetd",
+      "items": [
+        {
+          "classification": {
+            "id": "09399855",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-27yetd-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-DNL-22686163",
+          "name": "dtec nigeria limited"
+        }
+      ],
+      "title": "Construction of Itapaji Small Hydro Power Project",
+      "value": {
+        "amount": 54389500.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-866594103",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-27yetd-award",
+      "description": "Construction of Itapaji Small Hydro Power Project",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-27yetd",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-27yetd",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-27yetd",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2013-09-27T00:00:00Z",
+            "description": "0.6",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-27yetd-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2013-09-27T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-27yetd",
+            "status": "partiallyMet",
+            "title": "construction of itapaji small hydro power project-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 54389500.0,
+              "currency": "NGN"
+            },
+            "date": "2013-09-27T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-27yetd-nga-contract-transactions-743210153",
+            "providerOrganization": {
+              "id": "475107557",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-475107557",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "286989310",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-27yetd",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-27yetd-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2013-09-29T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Construction Of Itapaji Small Hydro Power Project",
+      "value": {
+        "amount": 54389500.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Construction Of Itapaji Small Hydro Power Project",
+      "id": "ocds-gyl66f-borbda-27yetd",
+      "project": "Construction Of Itapaji Small Hydro Power Project",
+      "value": {
+        "amount": 16000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-27yetd",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2013-09-27T00:00:00Z",
+      "startDate": "2013-09-27T00:00:00Z"
+    },
+    "description": "construction of itapaji small hydro power project",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-27yetd",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2016-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-27yetd",
+    "items": [
+      {
+        "classification": {
+          "id": "09399855",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-27yetd-tender-item-09399855",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 54389500.0,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2013-09-27T00:00:00Z",
+        "description": "Construction Of Itapaji Small Hydro Power Project",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-27yetd",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2013-09-27T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-27yetd",
+        "status": "partiallyMet",
+        "title": "Construction Of Itapaji Small Hydro Power Project"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-316194103",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "active",
+    "tenderPeriod": {
+      "endDate": "2016-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-861017035",
+        "name": ""
+      }
+    ],
+    "title": "construction of itapaji small hydro power project",
+    "value": {
+      "amount": 54389500.0,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-06-29T19:07:56Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short"
+}

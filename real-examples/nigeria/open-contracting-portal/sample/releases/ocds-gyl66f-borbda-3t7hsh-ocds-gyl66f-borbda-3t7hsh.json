@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-3t7hsh",
+  "id": "ocds-gyl66f-borbda-3t7hsh",
+  "date": "2012-10-10T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "99122009",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-99122009"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "08343829",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "291021067",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-291021067"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "926172510",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-926172510"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Crest Line Services Limited"
+        }
+      ],
+      "identifier": {
+        "id": "44583138",
+        "legalName": "crest line services limited",
+        "scheme": "NGA-CLSL"
+      },
+      "name": "crest line services limited",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-CLSL-44583138"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2012-10-10T00:00:00Z",
+      "description": "Construction of Farm Access Road at Illah-Ebu Irrigation project",
+      "id": "ocds-gyl66f-borbda-3t7hsh",
+      "items": [
+        {
+          "classification": {
+            "id": "441055482",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-3t7hsh-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-CLSL-44583138",
+          "name": "crest line services limited"
+        }
+      ],
+      "title": "Construction of Farm Access Road at Illah-Ebu Irrigation project",
+      "value": {
+        "amount": 0.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-99122009",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-3t7hsh-award",
+      "description": "Construction of Farm Access Road at Illah-Ebu Irrigation project",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-3t7hsh",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-3t7hsh",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-3t7hsh",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2012-10-10T00:00:00Z",
+            "description": "1.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-3t7hsh-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2012-10-10T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-3t7hsh",
+            "status": "partiallyMet",
+            "title": "construction of farm access road at illah-ebu irrigation project-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 0.0,
+              "currency": "NGN"
+            },
+            "date": "2012-10-10T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-3t7hsh-nga-contract-transactions-8483106110",
+            "providerOrganization": {
+              "id": "101448804",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-101448804",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "4102855910",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-3t7hsh",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-3t7hsh-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2012-10-18T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Construction Of Farm Access Road At Illah-Ebu Irrigation Project",
+      "value": {
+        "amount": 0.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Construction Of Farm Access Road At Illah-Ebu Irrigation Project",
+      "id": "ocds-gyl66f-borbda-3t7hsh",
+      "project": "Construction Of Farm Access Road At Illah-Ebu Irrigation Project",
+      "value": {
+        "amount": 38000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-3t7hsh",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2012-10-10T00:00:00Z",
+      "startDate": "2012-10-10T00:00:00Z"
+    },
+    "description": "construction of farm access road at illah-ebu irrigation project",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-3t7hsh",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-3t7hsh",
+    "items": [
+      {
+        "classification": {
+          "id": "441055482",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-3t7hsh-tender-item-441055482",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 0.0,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2012-10-10T00:00:00Z",
+        "description": "Construction Of Farm Access Road At Illah-Ebu Irrigation Project",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-3t7hsh",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2012-10-10T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-3t7hsh",
+        "status": "partiallyMet",
+        "title": "Construction Of Farm Access Road At Illah-Ebu Irrigation Project"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-291021067",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "active",
+    "tenderPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-926172510",
+        "name": ""
+      }
+    ],
+    "title": "construction of farm access road at illah-ebu irrigation project",
+    "value": {
+      "amount": 0.0,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-06-29T19:07:56Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short"
+}
