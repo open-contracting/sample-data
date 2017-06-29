@@ -1,0 +1,112 @@
+{
+  "ocid": "ocds-ngfbwp-19750992",
+  "id": "19750992",
+  "date": "2017-06-09T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "fad22bbf29769222e7599232fccb3891",
+      "name": "CONSILIUL RAIONULUI S\u00ceNGEREI",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "19750992",
+    "title": "Tender Ref 17/01750 Bulletin 46",
+    "description": "",
+    "status": "Primirea ofertelor",
+    "items": [
+      {
+        "id": 19825083,
+        "description": "Lucr\u0103ri de repara\u021bie a drumului local L 274, S\u00eengerei - S\u00eengereii Noi, rnul S\u00eengerei (selectiv) Lista cu cantit\u0103\u021bi, conform Formularul nr. 1 (se anexeaz\u0103)",
+        "classification": {
+          "scheme": "CPV",
+          "id": "45233142-6",
+          "description": "Lucrari de reparare a drumurilor"
+        },
+        "additionalClassifications": [],
+        "quantity": 1,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      }
+    ],
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Licita\u0163ie public\u0103",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-06-09T00:00:00.000Z",
+      "endDate": "2017-06-30T10:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "fad22bbf29769222e7599232fccb3891",
+      "name": "CONSILIUL RAIONULUI S\u00ceNGEREI"
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "buyer": {
+    "id": "fad22bbf29769222e7599232fccb3891",
+    "name": "CONSILIUL RAIONULUI S\u00ceNGEREI"
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Primirea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}

@@ -1,0 +1,96 @@
+{
+  "ocid": "ocds-ngfbwp-19730763",
+  "id": "19730763",
+  "date": "2017-06-02T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "2adf977a333ce380838f15ec02cbdd3c",
+      "name": "INSPECTORATUL NA\u0162IONAL DE PROBA\u0162IUNE",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "19730763",
+    "title": "Tender Ref 17/01734 Bulletin 44",
+    "description": "",
+    "status": "Evaluarea ofertelor",
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-06-02T00:00:00.000Z",
+      "endDate": "2017-06-15T10:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "2adf977a333ce380838f15ec02cbdd3c",
+      "name": "INSPECTORATUL NA\u0162IONAL DE PROBA\u0162IUNE"
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "buyer": {
+    "id": "2adf977a333ce380838f15ec02cbdd3c",
+    "name": "INSPECTORATUL NA\u0162IONAL DE PROBA\u0162IUNE"
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Evaluarea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}

@@ -1,0 +1,192 @@
+{
+  "ocid": "ocds-ngfbwp-19699361",
+  "id": "19699361",
+  "date": "2017-05-30T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "f7a93f59606341500740d800154631a4",
+      "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M.",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "id": "66eb4dd24c24389417c937f9154ca1a8",
+      "name": "S.C. NOUCONST S.R.L.",
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "19699361",
+    "title": "Tender Ref 17/01712 Bulletin 43",
+    "description": "",
+    "status": "Executarea contractului",
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-05-30T00:00:00.000Z",
+      "endDate": "2017-06-12T13:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "f7a93f59606341500740d800154631a4",
+      "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "awards": [
+    {
+      "id": "award-20248160",
+      "title": "Award for LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA",
+      "description": "",
+      "status": "",
+      "date": "",
+      "value": {
+        "amount": 36136.58,
+        "currency": "mdl"
+      },
+      "suppliers": [
+        {
+          "id": "66eb4dd24c24389417c937f9154ca1a8",
+          "name": "S.C. NOUCONST S.R.L."
+        }
+      ],
+      "items": [
+        {
+          "id": 50942,
+          "description": "",
+          "classification": {
+            "scheme": "CPV",
+            "id": "45233250-6",
+            "description": "Lucrari de imbracare, altele decat pentru drumuri"
+          },
+          "quantity": "",
+          "unit": {
+            "name": "",
+            "value": {
+              "amount": "",
+              "currency": ""
+            }
+          }
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-06-20T00:00:00.000Z",
+        "endDate": "2017-07-31T00:00:00.000Z"
+      },
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "20248160",
+      "awardID": "award-20248160",
+      "title": "17/01712/001 LUCRARI DE REPARATIE A IMBRACAMINTEI ASFALTICE POARTA STR.ARMENEASCA",
+      "description": "",
+      "status": "\u00cenregistrat(\u0103)",
+      "period": {
+        "startDate": "2017-06-20T00:00:00.000Z",
+        "endDate": "2017-07-31T00:00:00.000Z"
+      },
+      "value": {
+        "amount": 36136.58,
+        "currency": "mdl"
+      },
+      "dateSigned": "2017-06-20T00:00:00.000Z",
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ],
+      "amendment": {
+        "changes": []
+      },
+      "implementation": {
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": ""
+          }
+        ]
+      }
+    }
+  ],
+  "buyer": {
+    "id": "f7a93f59606341500740d800154631a4",
+    "name": "PIA\u0162A CENTRAL\u0102 \u00ce.M."
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}

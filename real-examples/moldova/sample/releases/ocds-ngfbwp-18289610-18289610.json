@@ -1,0 +1,192 @@
+{
+  "ocid": "ocds-ngfbwp-18289610",
+  "id": "18289610",
+  "date": "2017-03-17T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "0dcef731c9c166f690a47a93c1a24e79",
+      "name": "CENTRUL PENTRU ACHIZI\u0162II PUBLICE CENTRALIZATE \u00ceN S\u0102N\u0102TATE",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "id": "af26020ea417de6b0ede734a93ecaec5",
+      "name": "IM Rihpangalfarma SRL",
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "18289610",
+    "title": "Tender Ref 17/00751 Bulletin 22",
+    "description": "",
+    "status": "Executarea contractului",
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-03-17T00:00:00.000Z",
+      "endDate": "2017-03-27T10:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "0dcef731c9c166f690a47a93c1a24e79",
+      "name": "CENTRUL PENTRU ACHIZI\u0162II PUBLICE CENTRALIZATE \u00ceN S\u0102N\u0102TATE"
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "awards": [
+    {
+      "id": "award-19467023",
+      "title": "Award for Achizi\u0163ionarea medicamentelor necesare IMSP Spitalul Raional Orhei  pentru anul 2017",
+      "description": "",
+      "status": "",
+      "date": "",
+      "value": {
+        "amount": 26647.5,
+        "currency": "mdl"
+      },
+      "suppliers": [
+        {
+          "id": "af26020ea417de6b0ede734a93ecaec5",
+          "name": "IM Rihpangalfarma SRL"
+        }
+      ],
+      "items": [
+        {
+          "id": 47319,
+          "description": "",
+          "classification": {
+            "scheme": "CPV",
+            "id": "33690000-3",
+            "description": "Diverse medicamente"
+          },
+          "quantity": "",
+          "unit": {
+            "name": "",
+            "value": {
+              "amount": "",
+              "currency": ""
+            }
+          }
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-05-07T00:00:00.000Z",
+        "endDate": "2017-12-31T00:00:00.000Z"
+      },
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "19467023",
+      "awardID": "award-19467023",
+      "title": "17/00751/001 Achizi\u0163ionarea medicamentelor necesare IMSP Spitalul Raional Orhei  pentru anul 2017",
+      "description": "",
+      "status": "\u00cenregistrat(\u0103)",
+      "period": {
+        "startDate": "2017-05-07T00:00:00.000Z",
+        "endDate": "2017-12-31T00:00:00.000Z"
+      },
+      "value": {
+        "amount": 26647.5,
+        "currency": "mdl"
+      },
+      "dateSigned": "2017-05-07T00:00:00.000Z",
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ],
+      "amendment": {
+        "changes": []
+      },
+      "implementation": {
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": ""
+          }
+        ]
+      }
+    }
+  ],
+  "buyer": {
+    "id": "0dcef731c9c166f690a47a93c1a24e79",
+    "name": "CENTRUL PENTRU ACHIZI\u0162II PUBLICE CENTRALIZATE \u00ceN S\u0102N\u0102TATE"
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}
