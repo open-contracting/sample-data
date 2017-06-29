@@ -9,7 +9,7 @@ from copy import deepcopy
 
 
 '''
-Script to transform JSON in OCDS schema v1.0 to v1.1
+Script to transform JSON releases in OCDS schema v1.0 to v1.1
 '''
 
 
@@ -98,11 +98,13 @@ def upgrade_parties(release):
     except Exception as err:
         pass
 
-    # Now format the parties into a simple array
+    # Now format the parties into a simple array. Get rid of
+    # empty arrays if needed.
     release['parties'] = []
     for key in parties:
         release['parties'].append(parties[key])
-
+    if not release['parties']:
+        del release['parties']
     return release
 
 
@@ -133,10 +135,30 @@ def upgrade_transactions(release):
     return release
 
 
+def remove_empty_arrays(data, keys=None):
+    '''
+    Drill doesn't cope well with empty arrays. Remove them.
+    '''
+    if not keys:
+        keys = data.keys()
+    keys_to_remove = []
+    for key in keys:
+        if isinstance(data[key], dict):
+            remove_empty_arrays(data[key])
+        else:
+            if isinstance(data[key], list) and len(data[key]) == 0:
+                keys_to_remove.append(key)
+    for key in keys_to_remove:
+        del data[key]
+    return data
+
+
 def upgrade(release):
+    release = OrderedDict(release)
     release = upgrade_parties(release)
     release = upgrade_transactions(release)
-    release.move_to_end('parties', last=False)
+    if 'parties' in release:
+        release.move_to_end('parties', last=False)
     release.move_to_end('initiationType', last=False)
     release.move_to_end('tag', last=False)
     release.move_to_end('language', last=False)
@@ -154,20 +176,22 @@ def main():
     (options, args) = parser.parse_args()
     if not options.filepath:
         parser.error('You must supply a filepath, using the -f argument')
-    print('%s.json' % options.filepath)
     for filename in glob.glob('%s/*.json' % options.filepath):
         if not filename.endswith('.json'):
             print('Skipping non-JSON file %s' % filename)
             continue
         try:
             with open(filename, 'r') as file:
-                data = json.loads(file.read(), object_pairs_hook=OrderedDict)
-                data.update({"version": "1.1"}),
-                data['extensions'] = []
+                print('\n-------------')
+                print(filename)
+                data = json.loads(file.read())
+                data = remove_empty_arrays(data)
+                data = OrderedDict(data)
+                data.update({"version": "1.1"})
                 if 'releases' in data:
                     data.move_to_end('releases', last=True)
-                    for release in data['releases']:
-                        release = upgrade(release)
+                    for i, release in enumerate(data['releases']):
+                        data['releases'][i] = upgrade(release)
                 else:
                     print('Releases property missing, not updating')
                 with open(filename, 'w') as writefile:
