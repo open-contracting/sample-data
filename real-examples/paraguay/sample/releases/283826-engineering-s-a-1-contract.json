@@ -1,19 +1,20 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/contratos/283826-engineering-s-a-1",
-  "publishedDate": "2017-06-20T15:43:36-04:00",
+  "publishedDate": "2017-06-29T04:31:10-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-283826",
       "id": "283826-engineering-s-a-1-contract",
-      "date": "2017-06-20T15:43:36-04:00",
+      "date": "2017-06-29T04:31:10-04:00",
+      "language": "es",
       "tag": [
         "contract"
       ],
@@ -23,7 +24,7 @@
           "id": "283826-engineering-s-a-1",
           "awardID": "283826-ampliacion-sala-internados-traumatologia-hospital-luque-1",
           "dncpContractCode": "LP-12008-16-123692",
-          "title": "AMPLIACIÓN DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
+          "title": "AMPLIACI\u00d3N DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
           "status": "active",
           "value": {
             "amount": 1842099456.0,
@@ -32,7 +33,7 @@
           "lots": [
             {
               "id": "9ljjp1lUO%2BQ%3D",
-              "title": "AMPLIACIÓN DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
+              "title": "AMPLIACI\u00d3N DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
               "items": [
                 "qt4j1aGLCA0%3D",
                 "u7RD6pvZdIg%3D"
@@ -44,9 +45,9 @@
               "description": "Preparacion de obra",
               "id": "qt4j1aGLCA0%3D",
               "classification": {
-                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
                 "id": "72131601-002",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
                 "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131601-002"
               },
               "quantity": null,
@@ -62,9 +63,9 @@
               "description": "Instalacion de sistema contra incendios",
               "id": "u7RD6pvZdIg%3D",
               "classification": {
-                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
                 "id": "92121702-002",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
                 "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/92121702-002"
               },
               "quantity": null,
@@ -83,7 +84,7 @@
             "identifier": {
               "id": "80047025-7",
               "legalName": "ENGINEERING S.A.",
-              "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
             },
             "identifiers": {
               "key": "283826-engineering-s-a-1"
@@ -117,31 +118,31 @@
             {
               "id": "ZJ7t3VzoNlw%3D",
               "documentType": "evaluationReports",
-              "title": "Informe de Evaluación",
+              "title": "Informe de Evaluaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ZJ7t3VzoNlw%253D",
               "format": "application/pdf"
             },
             {
               "id": "MW5A3pMAB2k%3D",
-              "documentType": "Nota de Aclaración",
-              "title": "Nota de Aclaración",
+              "documentType": "Nota de Aclaraci\u00f3n",
+              "title": "Nota de Aclaraci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/MW5A3pMAB2k%253D",
               "format": "application/pdf"
             },
             {
               "id": "BRN74mrJkIA%3D",
-              "documentType": "Notificación al Oferente",
-              "title": "Notificación al Oferente",
+              "documentType": "Notificaci\u00f3n al Oferente",
+              "title": "Notificaci\u00f3n al Oferente",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/BRN74mrJkIA%253D",
               "format": "application/pdf"
             },
             {
               "id": "1G4X%2FxPS%2B%2Bc%3D",
-              "documentType": "Notificación al Oferente",
-              "title": "Notificación al Oferente",
+              "documentType": "Notificaci\u00f3n al Oferente",
+              "title": "Notificaci\u00f3n al Oferente",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/1G4X%252FxPS%252B%252Bc%253D",
               "format": "application/pdf"
@@ -157,7 +158,7 @@
             {
               "id": "c7InTrQ%2B3rw%3D",
               "documentType": "awardNotice",
-              "title": "Resolución de Adjudicación",
+              "title": "Resoluci\u00f3n de Adjudicaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/c7InTrQ%252B3rw%253D",
               "format": "application/pdf"
@@ -165,7 +166,7 @@
             {
               "id": "aV0hmUnUcJo%3D",
               "documentType": "awardNotice",
-              "title": "Resolución de Adjudicación",
+              "title": "Resoluci\u00f3n de Adjudicaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/aV0hmUnUcJo%253D",
               "format": "application/pdf"

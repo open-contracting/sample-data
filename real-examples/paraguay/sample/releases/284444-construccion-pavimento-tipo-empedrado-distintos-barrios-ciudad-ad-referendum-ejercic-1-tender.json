@@ -1,89 +1,104 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/convocatorias/284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-  "publishedDate": "2017-06-20T15:44:13-04:00",
+  "publishedDate": "2017-06-29T04:31:37-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-284444",
       "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1-tender",
-      "date": "2017-06-20T15:44:13-04:00",
+      "date": "2017-06-29T04:31:37-04:00",
+      "language": "es",
       "tag": [
         "tender"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "Municipalidad de Ciudad del Este",
+          "contactPoint": {
+            "name": "Econ. Cristian Gustavo Rol\u00f3n Paredes ",
+            "email": "ceste@dncp.gov.py",
+            "telephone": "061-508-700"
+          },
+          "roles": [
+            "procuringEntity"
+          ],
+          "id": "1bc331ae5a692da0ac0a23fd50af99e9"
+        }
+      ],
       "tender": {
         "id": "284444-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-        "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
+        "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFER\u00c9NDUM EJERCICIO 2016) Fuente de Financiamiento: Recursos Propios y FONACIDE",
         "status": "complete",
         "lots": [
           {
             "id": "ZgQ7HiuT1jU%3D",
-            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN ALFREDO FRACCIÓN EL BOSQUE",
+            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN ALFREDO FRACCI\u00d3N EL BOSQUE",
             "items": [
               "kGfpbOX5cPhg3mM07iELNw%3D%3D"
             ]
           },
           {
             "id": "SdBF0p%2FxYHo%3D",
-            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 8 1/2, FRACCIÓN JUAN PABLO II",
+            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL KM 8 1/2, FRACCI\u00d3N JUAN PABLO II",
             "items": []
           },
           {
             "id": "dROhS%2BSTtHw%3D",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL KM 9 MONDAY, FRACCIÓN 8 DE DICIEMBRE",
+            "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN EL KM 9 MONDAY, FRACCI\u00d3N 8 DE DICIEMBRE",
             "items": []
           },
           {
             "id": "4z1Xc4cyZHc%3D",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO DOM BOSCO CALLE 6 ACARAY",
+            "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO DOM BOSCO CALLE 6 ACARAY",
             "items": []
           },
           {
             "id": "JtZYp6yXfgc%3D",
-            "title": "CONSTRUCIÓN DE PAVIMENTO TIPO RIGIDO EN EL BARRIO SAN RAFAEL ",
+            "title": "CONSTRUCI\u00d3N DE PAVIMENTO TIPO RIGIDO EN EL BARRIO SAN RAFAEL ",
             "items": []
           },
           {
             "id": "uPehjAMgpSY%3D",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA, FRACCIÓN PINO II ",
+            "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA, FRACCI\u00d3N PINO II ",
             "items": []
           },
           {
             "id": "dm%2F7CpmiknA%3D",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO PABLO ROJAS FRACCIÓN SAN ANTONIO",
+            "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO PABLO ROJAS FRACCI\u00d3N SAN ANTONIO",
             "items": []
           },
           {
             "id": "lxKMu09vVnA%3D",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN MIGUEL ",
+            "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN MIGUEL ",
             "items": []
           },
           {
             "id": "n3hSywjZBZI%3D",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA",
+            "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO CIUDAD NUEVA",
             "items": []
           },
           {
             "id": "dZ%2F6OYJeiQM%3D",
-            "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO MARÍA AUXILIADORA",
+            "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO MAR\u00cdA AUXILIADORA",
             "items": []
           }
         ],
         "items": [
           {
-            "description": "Construcción de empedrado",
+            "description": "Construcci\u00f3n de empedrado",
             "id": "kGfpbOX5cPhg3mM07iELNw%3D%3D",
             "classification": {
-              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "scheme": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
               "id": "72131701-002",
-              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
               "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002"
             },
             "quantity": 1.0,
@@ -109,12 +124,8 @@
           "endDate": null
         },
         "procuringEntity": {
-          "name": "Municipalidad de Ciudad del Este",
-          "contactPoint": {
-            "name": "Econ. Cristian Gustavo Rolón Paredes ",
-            "email": "ceste@dncp.gov.py",
-            "telephone": "061-508-700"
-          }
+          "id": "1bc331ae5a692da0ac0a23fd50af99e9",
+          "name": "Municipalidad de Ciudad del Este"
         },
         "documents": [
           {
@@ -135,24 +146,24 @@
           },
           {
             "id": "DuJvRug9gpg%3D",
-            "documentType": "Instrucción a los Oferentes - Obras",
-            "title": "Instrucción a los Oferentes - Obras",
+            "documentType": "Instrucci\u00f3n a los Oferentes - Obras",
+            "title": "Instrucci\u00f3n a los Oferentes - Obras",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/DuJvRug9gpg%253D",
             "format": "application/pdf"
           },
           {
             "id": "6BOVXRHvzkc%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/6BOVXRHvzkc%253D",
             "format": "application/zip"
           },
           {
             "id": "UUTvUmbXicA%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/UUTvUmbXicA%253D",
             "format": "application/zip"

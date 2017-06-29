@@ -1,0 +1,28 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/283906.json",
+  "publishedDate": "2017-06-29T04:28:58-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/283906-adquisicion-equipos-laboratorio-centro-nacional-toxicologia-ad-referendum.json"
+  ],
+  "records": [
+    {
+      "ocid": "ocds-03ad3f-283906",
+      "releases": [
+        {
+          "date": "2014-11-11T16:07:07-05:00",
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/283906-adquisicion-equipos-laboratorio-centro-nacional-toxicologia-ad-referendum.json"
+        }
+      ]
+    }
+  ]
+}

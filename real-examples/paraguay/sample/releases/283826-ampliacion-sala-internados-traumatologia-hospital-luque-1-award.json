@@ -1,27 +1,57 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/283826-ampliacion-sala-internados-traumatologia-hospital-luque-1",
-  "publishedDate": "2017-06-20T15:43:34-04:00",
+  "publishedDate": "2017-06-29T04:31:06-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-283826",
       "id": "283826-ampliacion-sala-internados-traumatologia-hospital-luque-1-award",
-      "date": "2017-06-20T15:43:34-04:00",
+      "date": "2017-06-29T04:31:06-04:00",
+      "language": "es",
       "tag": [
         "award"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "ENGINEERING S.A.",
+          "identifier": {
+            "id": "80047025-7",
+            "legalName": "ENGINEERING S.A.",
+            "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "key": "283826-engineering-s-a-1"
+          },
+          "address": {
+            "streetAddress": "RUTA CAP. ANDR\u00c9S INSFR\u00c1N N\u00b0 1570 C/ LARA CASTRO.",
+            "postalCode": "",
+            "locality": "LUQUE.",
+            "countryName": "Paraguay",
+            "region": "Central"
+          },
+          "contactPoint": {
+            "name": "JUAN ANDR\u00c9S EMILIO CAMPOS CERVERA ARROYO - EDUARDO DAVID CAMPOS CERVERA ARROYO.",
+            "faxNumber": "",
+            "telephone": "021 647 883",
+            "email": "andres@engineering.com.py",
+            "url": "http://www.engineering.com.py"
+          },
+          "roles": [
+            "supplier"
+          ],
+          "id": "dd07d76e609cb7ef8b02ffd714ea5057"
+        }
+      ],
       "awards": [
         {
           "id": "283826-ampliacion-sala-internados-traumatologia-hospital-luque-1",
-          "title": "AMPLIACIÓN DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
+          "title": "AMPLIACI\u00d3N DE LA SALA DE INTERNADOS DE TRAUMATOLOGIA DEL HOSPITAL DE LUQUE ",
           "status": "active",
           "date": "2016-06-30T11:19:17-04:00",
           "value": {
@@ -30,27 +60,8 @@
           },
           "suppliers": [
             {
-              "name": "ENGINEERING S.A.",
-              "identifier": {
-                "id": "80047025-7",
-                "legalName": "ENGINEERING S.A.",
-                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
-                "key": "283826-engineering-s-a-1"
-              },
-              "address": {
-                "streetAddress": "RUTA CAP. ANDRÉS INSFRÁN N° 1570 C/ LARA CASTRO.",
-                "postalCode": "",
-                "locality": "LUQUE.",
-                "countryName": "Paraguay",
-                "region": "Central"
-              },
-              "contactPoint": {
-                "name": "JUAN ANDRÉS EMILIO CAMPOS CERVERA ARROYO - EDUARDO DAVID CAMPOS CERVERA ARROYO.",
-                "faxNumber": "",
-                "telephone": "021 647 883",
-                "email": "andres@engineering.com.py",
-                "url": "http://www.engineering.com.py"
-              }
+              "id": "dd07d76e609cb7ef8b02ffd714ea5057",
+              "name": "ENGINEERING S.A."
             }
           ],
           "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/283826-ampliacion-sala-internados-traumatologia-hospital-luque-1"

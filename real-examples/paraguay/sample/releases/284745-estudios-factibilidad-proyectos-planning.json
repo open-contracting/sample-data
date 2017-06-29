@@ -1,26 +1,27 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/planificaciones/284745-estudios-factibilidad-proyectos",
-  "publishedDate": "2017-06-20T15:45:04-04:00",
+  "publishedDate": "2017-06-29T04:32:29-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-284745",
       "id": "284745-estudios-factibilidad-proyectos-planning",
-      "date": "2017-06-20T15:45:04-04:00",
+      "date": "2017-06-29T04:32:29-04:00",
+      "language": "es",
       "tag": [
         "planning"
       ],
       "initiationType": "tender",
       "planning": {
         "budget": {
-          "description": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
+          "description": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFER\u00c9NDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
           "amount": {
             "amount": 1057930176.0,
             "currency": "PYG"

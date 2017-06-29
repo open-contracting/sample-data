@@ -1,26 +1,27 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/planificaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa",
-  "publishedDate": "2017-06-20T15:41:30-04:00",
+  "publishedDate": "2017-06-29T04:30:00-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-274744",
       "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-planning",
-      "date": "2017-06-20T15:41:30-04:00",
+      "date": "2017-06-29T04:30:00-04:00",
+      "language": "es",
       "tag": [
         "planning"
       ],
       "initiationType": "tender",
       "planning": {
         "budget": {
-          "description": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA",
+          "description": "ADQUISICI\u00d3N DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA",
           "amount": {
             "amount": 1000000000.0,
             "currency": "PYG"

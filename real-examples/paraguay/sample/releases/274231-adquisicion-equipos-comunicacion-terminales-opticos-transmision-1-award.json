@@ -1,27 +1,57 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1",
-  "publishedDate": "2017-06-20T15:41:18-04:00",
+  "publishedDate": "2017-06-29T04:29:48-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-274231",
       "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1-award",
-      "date": "2017-06-20T15:41:18-04:00",
+      "date": "2017-06-29T04:29:48-04:00",
+      "language": "es",
       "tag": [
         "award"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "RIEDER Y CIA. SACI",
+          "identifier": {
+            "id": "80002612-8",
+            "legalName": "RIEDER Y CIA. SACI",
+            "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "key": "274231-rieder-cia-saci-2"
+          },
+          "address": {
+            "streetAddress": "AVDA.ARTIGAS 1945",
+            "postalCode": "",
+            "locality": "ASUNCION (DISTRITO)",
+            "countryName": "Paraguay",
+            "region": "Asunci\u00f3n"
+          },
+          "contactPoint": {
+            "name": "JUAN RODOLFO RIEDER CELLE JORGE OSCAR RIEDER SALVADOR MALDONADO DIAZ",
+            "faxNumber": "",
+            "telephone": "214 114",
+            "email": "licitaciones@rieder.com.py",
+            "url": "http://www.rieder.com.py"
+          },
+          "roles": [
+            "supplier"
+          ],
+          "id": "74d165a3baa0e36737493690b76e3790"
+        }
+      ],
       "awards": [
         {
           "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1",
-          "title": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIÓN Y TERMINALES ÓPTICOS DE TRANSMISIÓN",
+          "title": "ADQUISICI\u00d3N DE EQUIPOS DE COMUNICACI\u00d3N Y TERMINALES \u00d3PTICOS DE TRANSMISI\u00d3N",
           "status": "active",
           "date": "2016-10-27T16:58:21-04:00",
           "value": {
@@ -30,27 +60,8 @@
           },
           "suppliers": [
             {
-              "name": "RIEDER Y CIA. SACI",
-              "identifier": {
-                "id": "80002612-8",
-                "legalName": "RIEDER Y CIA. SACI",
-                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
-                "key": "274231-rieder-cia-saci-2"
-              },
-              "address": {
-                "streetAddress": "AVDA.ARTIGAS 1945",
-                "postalCode": "",
-                "locality": "ASUNCION (DISTRITO)",
-                "countryName": "Paraguay",
-                "region": "Asunción"
-              },
-              "contactPoint": {
-                "name": "JUAN RODOLFO RIEDER CELLE JORGE OSCAR RIEDER SALVADOR MALDONADO DIAZ",
-                "faxNumber": "",
-                "telephone": "214 114",
-                "email": "licitaciones@rieder.com.py",
-                "url": "http://www.rieder.com.py"
-              }
+              "id": "74d165a3baa0e36737493690b76e3790",
+              "name": "RIEDER Y CIA. SACI"
             }
           ],
           "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1"

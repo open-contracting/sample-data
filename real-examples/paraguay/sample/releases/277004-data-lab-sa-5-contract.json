@@ -1,19 +1,20 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/contratos/277004-data-lab-sa-5",
-  "publishedDate": "2017-06-20T15:42:17-04:00",
+  "publishedDate": "2017-06-29T04:30:36-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-277004",
       "id": "277004-data-lab-sa-5-contract",
-      "date": "2017-06-20T15:42:17-04:00",
+      "date": "2017-06-29T04:30:36-04:00",
+      "language": "es",
       "tag": [
         "contract"
       ],
@@ -46,9 +47,9 @@
               "description": "Computadoras personales (PC) de escritorio",
               "id": "OMzti1DeDzQ%3D",
               "classification": {
-                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
                 "id": "43211508-001",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
                 "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43211508-001"
               },
               "quantity": 240.0,
@@ -64,9 +65,9 @@
               "description": "Impresora laser color",
               "id": "PmZAp4vg3g4%3D",
               "classification": {
-                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
                 "id": "43212105-002",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
                 "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43212105-002"
               },
               "quantity": 2.0,
@@ -82,9 +83,9 @@
               "description": "Impresoras de chorro de tinta Color, negro y blanco",
               "id": "SedSfVq2%2BM0%3D",
               "classification": {
-                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
                 "id": "43212104-002",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
                 "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43212104-002"
               },
               "quantity": 90.0,
@@ -100,9 +101,9 @@
               "description": "Impresora multifuncion a chorro de tinta",
               "id": "p8iNriss0VM%3D",
               "classification": {
-                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
                 "id": "43212110-001",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
                 "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43212110-001"
               },
               "quantity": 16.0,
@@ -121,7 +122,7 @@
             "identifier": {
               "id": "80030218-4",
               "legalName": "DATA LAB SA",
-              "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
             },
             "identifiers": {
               "key": "277004-data-lab-sa-5"
@@ -147,23 +148,23 @@
             {
               "id": "PmuOgYcZ%2Bm4%3D",
               "documentType": "evaluationReports",
-              "title": "Informe de Evaluación",
+              "title": "Informe de Evaluaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PmuOgYcZ%252Bm4%253D",
               "format": "application/zip"
             },
             {
               "id": "qNiJ62Lw6Jg%3D",
-              "documentType": "Notificación al Oferente",
-              "title": "Notificación al Oferente",
+              "documentType": "Notificaci\u00f3n al Oferente",
+              "title": "Notificaci\u00f3n al Oferente",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/qNiJ62Lw6Jg%253D",
               "format": "text/plain"
             },
             {
               "id": "5XnqHzJ6k4c%3D",
-              "documentType": "Notificación al Oferente",
-              "title": "Notificación al Oferente",
+              "documentType": "Notificaci\u00f3n al Oferente",
+              "title": "Notificaci\u00f3n al Oferente",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/5XnqHzJ6k4c%253D",
               "format": "text/plain"
@@ -179,7 +180,7 @@
             {
               "id": "iq7STG1pptg%3D",
               "documentType": "awardNotice",
-              "title": "Resolución de Adjudicación",
+              "title": "Resoluci\u00f3n de Adjudicaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iq7STG1pptg%253D",
               "format": "application/zip"
@@ -187,7 +188,7 @@
             {
               "id": "yqYmkyHeu%2FY%3D",
               "documentType": "awardNotice",
-              "title": "Resolución de Adjudicación",
+              "title": "Resoluci\u00f3n de Adjudicaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/yqYmkyHeu%252FY%253D",
               "format": "application/zip"
@@ -195,7 +196,7 @@
             {
               "id": "EhpIgByEU%2BA%3D",
               "documentType": "awardNotice",
-              "title": "Resolución de Adjudicación",
+              "title": "Resoluci\u00f3n de Adjudicaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/EhpIgByEU%252BA%253D",
               "format": "application/zip"

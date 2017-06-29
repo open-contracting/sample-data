@@ -1,31 +1,46 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/convocatorias/284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-  "publishedDate": "2017-06-20T15:45:06-04:00",
+  "publishedDate": "2017-06-29T04:32:31-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-284745",
       "id": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1-tender",
-      "date": "2017-06-20T15:45:06-04:00",
+      "date": "2017-06-29T04:32:31-04:00",
+      "language": "es",
       "tag": [
         "tender"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "Municipalidad de Ciudad del Este",
+          "contactPoint": {
+            "name": "Econ. Cristian Gustavo Rol\u00f3n Paredes ",
+            "email": "ceste@dncp.gov.py",
+            "telephone": "061-508700"
+          },
+          "roles": [
+            "procuringEntity"
+          ],
+          "id": "b7bd3678510050c15bd6c8f115b748af"
+        }
+      ],
       "tender": {
         "id": "284745-construccion-pavimento-tipo-empedrado-distintos-barrios-ciudad-ad-referendum-ejercic-1",
-        "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
+        "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO EMPEDRADO EN DISTINTOS BARRIOS DE LA CIUDAD. (AD REFER\u00c9NDUM EJERCICIO 2016) Fuente de Financiamiento: ROYALTIES 2016",
         "status": "complete",
         "lots": [
           {
             "id": "JfHB872zxZE%3D",
-            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN JOSÉ, FRACCION VILLA BANCARIA",
+            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SAN JOS\u00c9, FRACCION VILLA BANCARIA",
             "items": [
               "Gfe4wQ8oVXZg3mM07iELNw%3D%3D"
             ]
@@ -42,7 +57,7 @@
           },
           {
             "id": "ocDQLOTgLKY%3D",
-            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SANTA ANA 2º FRACCION",
+            "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO EN EL BARRIO SANTA ANA 2\u00ba FRACCION",
             "items": []
           },
           {
@@ -68,12 +83,12 @@
         ],
         "items": [
           {
-            "description": "Construcción de empedrado",
+            "description": "Construcci\u00f3n de empedrado",
             "id": "Gfe4wQ8oVXZg3mM07iELNw%3D%3D",
             "classification": {
-              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "scheme": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
               "id": "72131701-002",
-              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
               "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-002"
             },
             "quantity": 1.0,
@@ -99,12 +114,8 @@
           "endDate": null
         },
         "procuringEntity": {
-          "name": "Municipalidad de Ciudad del Este",
-          "contactPoint": {
-            "name": "Econ. Cristian Gustavo Rolón Paredes ",
-            "email": "ceste@dncp.gov.py",
-            "telephone": "061-508700"
-          }
+          "id": "b7bd3678510050c15bd6c8f115b748af",
+          "name": "Municipalidad de Ciudad del Este"
         },
         "documents": [
           {
@@ -117,24 +128,24 @@
           },
           {
             "id": "4ZGCHL0Nnbw%3D",
-            "documentType": "Instrucción a los Oferentes - Obras",
-            "title": "Instrucción a los Oferentes - Obras",
+            "documentType": "Instrucci\u00f3n a los Oferentes - Obras",
+            "title": "Instrucci\u00f3n a los Oferentes - Obras",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4ZGCHL0Nnbw%253D",
             "format": "application/pdf"
           },
           {
             "id": "X6U5TR7YBVs%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/X6U5TR7YBVs%253D",
             "format": "application/zip"
           },
           {
             "id": "76U2fNl5%2B%2B4%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/76U2fNl5%252B%252B4%253D",
             "format": "application/zip"

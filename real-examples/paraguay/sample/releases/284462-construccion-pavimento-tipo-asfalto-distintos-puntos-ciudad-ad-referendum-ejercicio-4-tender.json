@@ -1,26 +1,41 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/convocatorias/284462-construccion-pavimento-tipo-asfalto-distintos-puntos-ciudad-ad-referendum-ejercicio-4",
-  "publishedDate": "2017-06-20T15:44:50-04:00",
+  "publishedDate": "2017-06-29T04:32:16-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-284462",
       "id": "284462-construccion-pavimento-tipo-asfalto-distintos-puntos-ciudad-ad-referendum-ejercicio-4-tender",
-      "date": "2017-06-20T15:44:50-04:00",
+      "date": "2017-06-29T04:32:16-04:00",
+      "language": "es",
       "tag": [
         "tender"
       ],
       "initiationType": "tender",
+      "parties": [
+        {
+          "name": "Municipalidad de Ciudad del Este",
+          "contactPoint": {
+            "name": "Econ. Cristian Gustavo Rol\u00f3n Paredes ",
+            "email": "ceste@dncp.gov.py",
+            "telephone": "061-508700"
+          },
+          "roles": [
+            "procuringEntity"
+          ],
+          "id": "b7bd3678510050c15bd6c8f115b748af"
+        }
+      ],
       "tender": {
         "id": "284462-construccion-pavimento-tipo-asfalto-distintos-puntos-ciudad-ad-referendum-ejercicio-4",
-        "title": "CONSTRUCCIÓN DE PAVIMENTO TIPO ASFALTO EN DISTINTOS PUNTOS DE LA CIUDAD. (AD REFERÉNDUM EJERCICIO 2016). Fuente de Financiamiento: ROYALTIES 2016.",
+        "title": "CONSTRUCCI\u00d3N DE PAVIMENTO TIPO ASFALTO EN DISTINTOS PUNTOS DE LA CIUDAD. (AD REFER\u00c9NDUM EJERCICIO 2016). Fuente de Financiamiento: ROYALTIES 2016.",
         "status": "complete",
         "lots": [
           {
@@ -51,9 +66,9 @@
             "description": "Servicio de construccion de asfaltado o pavimentacion",
             "id": "2jTIlVfpRDdg3mM07iELNw%3D%3D",
             "classification": {
-              "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+              "scheme": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
               "id": "72131701-004",
-              "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+              "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
               "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-004"
             },
             "quantity": 1.0,
@@ -79,12 +94,8 @@
           "endDate": null
         },
         "procuringEntity": {
-          "name": "Municipalidad de Ciudad del Este",
-          "contactPoint": {
-            "name": "Econ. Cristian Gustavo Rolón Paredes ",
-            "email": "ceste@dncp.gov.py",
-            "telephone": "061-508700"
-          }
+          "id": "b7bd3678510050c15bd6c8f115b748af",
+          "name": "Municipalidad de Ciudad del Este"
         },
         "documents": [
           {
@@ -105,48 +116,48 @@
           },
           {
             "id": "3rMDn0NNjQo%3D",
-            "documentType": "Instrucción a los Oferentes - Obras",
-            "title": "Instrucción a los Oferentes - Obras",
+            "documentType": "Instrucci\u00f3n a los Oferentes - Obras",
+            "title": "Instrucci\u00f3n a los Oferentes - Obras",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/3rMDn0NNjQo%253D",
             "format": "application/pdf"
           },
           {
             "id": "8G1jp7mW7uM%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/8G1jp7mW7uM%253D",
             "format": "application/zip"
           },
           {
             "id": "1GsDGhOX9zI%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/1GsDGhOX9zI%253D",
             "format": "application/zip"
           },
           {
             "id": "rYqCDw4Bsbo%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/rYqCDw4Bsbo%253D",
             "format": "application/zip"
           },
           {
             "id": "pibhZMZnbCE%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/pibhZMZnbCE%253D",
             "format": "application/zip"
           },
           {
             "id": "nXJIbh0AEdc%3D",
-            "documentType": "Plano de obra o cómputos métricos",
-            "title": "Plano de obra o cómputos métricos",
+            "documentType": "Plano de obra o c\u00f3mputos m\u00e9tricos",
+            "title": "Plano de obra o c\u00f3mputos m\u00e9tricos",
             "language": "es",
             "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/nXJIbh0AEdc%253D",
             "format": "application/zip"

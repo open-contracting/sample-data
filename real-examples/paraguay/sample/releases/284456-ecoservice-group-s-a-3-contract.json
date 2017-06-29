@@ -1,19 +1,20 @@
 {
   "uri": "https://contrataciones.gov.py/datos/id/contratos/284456-ecoservice-group-s-a-3",
-  "publishedDate": "2017-06-20T15:36:01-04:00",
+  "publishedDate": "2017-06-29T04:32:04-04:00",
   "publisher": {
     "name": "DNCP - Paraguay",
-    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "legalName": "Direcci\u00f3n Nacional de Contrataciones P\u00fablicas, Paraguay",
     "uri": "https://contrataciones.gov.py/datos"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "version": "1.1",
   "releases": [
     {
-      "language": "es",
       "ocid": "ocds-03ad3f-284456",
       "id": "284456-ecoservice-group-s-a-3-contract",
-      "date": "2017-06-20T15:36:01-04:00",
+      "date": "2017-06-29T04:32:04-04:00",
+      "language": "es",
       "tag": [
         "contract"
       ],
@@ -39,7 +40,7 @@
             },
             {
               "id": "Dj7wmZRnLXE%3D",
-              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO KM 9 MONDAY FRACCIÓN ISLA GUAZU",
+              "title": "CONSTRUCCION DE PAVIMENTO TIPO EMPEDRADO KM 9 MONDAY FRACCI\u00d3N ISLA GUAZU",
               "items": []
             },
             {
@@ -78,9 +79,9 @@
               "description": "Servicio de construccion de asfaltado o pavimentacion",
               "id": "UiQAnyhNniw%3D",
               "classification": {
-                "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
                 "id": "72131701-004",
-                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
                 "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/72131701-004"
               },
               "quantity": null,
@@ -99,7 +100,7 @@
             "identifier": {
               "id": "80058998-0",
               "legalName": "ECOSERVICE GROUP S.A ",
-              "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
             },
             "identifiers": {
               "key": "284456-ecoservice-group-s-a-3"
@@ -125,15 +126,15 @@
             {
               "id": "PSVRMl%2BYWsE%3D",
               "documentType": "evaluationReports",
-              "title": "Informe de Evaluación",
+              "title": "Informe de Evaluaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/PSVRMl%252BYWsE%253D",
               "format": "application/pdf"
             },
             {
               "id": "Q1yguJHs4qE%3D",
-              "documentType": "Notificación al Oferente",
-              "title": "Notificación al Oferente",
+              "documentType": "Notificaci\u00f3n al Oferente",
+              "title": "Notificaci\u00f3n al Oferente",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/Q1yguJHs4qE%253D",
               "format": "application/pdf"
@@ -149,7 +150,7 @@
             {
               "id": "Ass87uEArZY%3D",
               "documentType": "awardNotice",
-              "title": "Resolución de Adjudicación",
+              "title": "Resoluci\u00f3n de Adjudicaci\u00f3n",
               "language": "es",
               "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/Ass87uEArZY%253D",
               "format": "application/pdf"
