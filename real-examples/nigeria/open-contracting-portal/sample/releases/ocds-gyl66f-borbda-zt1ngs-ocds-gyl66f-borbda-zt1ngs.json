@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-zt1ngs",
+  "id": "ocds-gyl66f-borbda-zt1ngs",
+  "date": "2014-10-20T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "24524519",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-24524519"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "94309567",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "54230220",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-54230220"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "15201533",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-15201533"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Uniworld Integrated Services Limited"
+        }
+      ],
+      "identifier": {
+        "id": "942105023",
+        "legalName": "uniworld integrated services limited",
+        "scheme": "NGA-UISL"
+      },
+      "name": "uniworld integrated services limited",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-UISL-942105023"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2014-10-20T00:00:00Z",
+      "description": "Construction/Renovation Works at Illushi-Ega-Oria Irrigation Project",
+      "id": "ocds-gyl66f-borbda-zt1ngs",
+      "items": [
+        {
+          "classification": {
+            "id": "76220976",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-zt1ngs-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-UISL-942105023",
+          "name": "uniworld integrated services limited"
+        }
+      ],
+      "title": "Construction/Renovation Works at Illushi-Ega-Oria Irrigation Project",
+      "value": {
+        "amount": 28195733.06,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-24524519",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-zt1ngs-award",
+      "description": "Construction/Renovation Works at Illushi-Ega-Oria Irrigation Project",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-zt1ngs",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-zt1ngs",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-zt1ngs",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2014-10-20T00:00:00Z",
+            "description": "0.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-zt1ngs-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-zt1ngs",
+            "status": "partiallyMet",
+            "title": "construction/renovation works at illushi-ega-oria irrigation project-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 28195733.06,
+              "currency": "NGN"
+            },
+            "date": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-zt1ngs-nga-contract-transactions-2741081071",
+            "providerOrganization": {
+              "id": "69652338",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-69652338",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "16120002",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-zt1ngs",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-zt1ngs-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2014-10-28T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Construction/Renovation Works At Illushi-Ega-Oria Irrigation Project",
+      "value": {
+        "amount": 28195733.06,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Construction/Renovation Works At Illushi-Ega-Oria Irrigation Project",
+      "id": "ocds-gyl66f-borbda-zt1ngs",
+      "project": "Construction/Renovation Works At Illushi-Ega-Oria Irrigation Project",
+      "value": {
+        "amount": 34000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-zt1ngs",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2014-10-20T00:00:00Z",
+      "startDate": "2014-10-20T00:00:00Z"
+    },
+    "description": "construction/renovation works at illushi-ega-oria irrigation project",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-zt1ngs",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-zt1ngs",
+    "items": [
+      {
+        "classification": {
+          "id": "76220976",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-zt1ngs-tender-item-76220976",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 28195733.06,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2014-10-20T00:00:00Z",
+        "description": "Construction/Renovation Works At Illushi-Ega-Oria Irrigation Project",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-zt1ngs",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2014-10-20T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-zt1ngs",
+        "status": "partiallyMet",
+        "title": "Construction/Renovation Works At Illushi-Ega-Oria Irrigation Project"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-54230220",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "active",
+    "tenderPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-15201533",
+        "name": ""
+      }
+    ],
+    "title": "construction/renovation works at illushi-ega-oria irrigation project",
+    "value": {
+      "amount": 28195733.06,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-06-29T19:07:56Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short"
+}

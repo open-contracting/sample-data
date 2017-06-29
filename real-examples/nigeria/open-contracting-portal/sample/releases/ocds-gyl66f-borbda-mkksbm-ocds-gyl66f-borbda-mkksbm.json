@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-mkksbm",
+  "id": "ocds-gyl66f-borbda-mkksbm",
+  "date": "2014-10-20T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "87985357",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-87985357"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "77873343",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "8780310106",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-8780310106"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "38370751",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-38370751"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Expro Light Nigeria Limited"
+        }
+      ],
+      "identifier": {
+        "id": "5100311005",
+        "legalName": "expro light nigeria limited",
+        "scheme": "NGA-ELNL"
+      },
+      "name": "expro light nigeria limited",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-ELNL-5100311005"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2014-10-20T00:00:00Z",
+      "description": "Construction Works at Iju/Itaogbolu Project",
+      "id": "ocds-gyl66f-borbda-mkksbm",
+      "items": [
+        {
+          "classification": {
+            "id": "28034676",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-mkksbm-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-ELNL-5100311005",
+          "name": "expro light nigeria limited"
+        }
+      ],
+      "title": "Construction Works at Iju/Itaogbolu Project",
+      "value": {
+        "amount": 51689715.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-87985357",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-mkksbm-award",
+      "description": "Construction Works at Iju/Itaogbolu Project",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-mkksbm",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-mkksbm",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-mkksbm",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2014-10-20T00:00:00Z",
+            "description": "0.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-mkksbm-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-mkksbm",
+            "status": "partiallyMet",
+            "title": "construction works at iju/itaogbolu project-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 51689715.0,
+              "currency": "NGN"
+            },
+            "date": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-mkksbm-nga-contract-transactions-8085110102",
+            "providerOrganization": {
+              "id": "710127636",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-710127636",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "67346211",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-mkksbm",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-mkksbm-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2014-10-30T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Construction Works At Iju/Itaogbolu Project",
+      "value": {
+        "amount": 51689715.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Construction Works At Iju/Itaogbolu Project",
+      "id": "ocds-gyl66f-borbda-mkksbm",
+      "project": "Construction Works At Iju/Itaogbolu Project",
+      "value": {
+        "amount": 20000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-mkksbm",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2014-10-20T00:00:00Z",
+      "startDate": "2014-10-20T00:00:00Z"
+    },
+    "description": "construction works at iju/itaogbolu project",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-mkksbm",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-mkksbm",
+    "items": [
+      {
+        "classification": {
+          "id": "28034676",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-mkksbm-tender-item-28034676",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 51689715.0,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2014-10-20T00:00:00Z",
+        "description": "Construction Works At Iju/Itaogbolu Project",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-mkksbm",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2014-10-20T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-mkksbm",
+        "status": "partiallyMet",
+        "title": "Construction Works At Iju/Itaogbolu Project"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-8780310106",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "active",
+    "tenderPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-38370751",
+        "name": ""
+      }
+    ],
+    "title": "construction works at iju/itaogbolu project",
+    "value": {
+      "amount": 51689715.0,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-06-29T19:07:56Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short"
+}

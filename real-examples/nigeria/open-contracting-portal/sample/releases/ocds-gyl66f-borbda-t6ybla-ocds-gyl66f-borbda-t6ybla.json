@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-t6ybla",
+  "id": "ocds-gyl66f-borbda-t6ybla",
+  "date": "2013-06-06T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "26087461",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-26087461"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "541037767",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "100073410",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-100073410"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "410965931",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-410965931"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Aiyanyo Aigbekaen & Co."
+        }
+      ],
+      "identifier": {
+        "id": "216100934",
+        "legalName": "aiyanyo aigbekaen & co.",
+        "scheme": "NGA-AA&C"
+      },
+      "name": "aiyanyo aigbekaen & co.",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-AA&C-216100934"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2013-06-06T00:00:00Z",
+      "description": "Supply of 33,000 litres of diesel for Illushi Ega/Oria Irrigation Project. (Balance payment)",
+      "id": "ocds-gyl66f-borbda-t6ybla",
+      "items": [
+        {
+          "classification": {
+            "id": "051037428",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-t6ybla-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-AA&C-216100934",
+          "name": "aiyanyo aigbekaen & co."
+        }
+      ],
+      "title": "Supply of 33,000 litres of diesel for Illushi Ega/Oria Irrigation Project. (Balance payment)",
+      "value": {
+        "amount": 7796250.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-26087461",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-t6ybla-award",
+      "description": "Supply of 33,000 litres of diesel for Illushi Ega/Oria Irrigation Project. (Balance payment)",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-t6ybla",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-t6ybla",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-t6ybla",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2013-06-06T00:00:00Z",
+            "description": "1.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-t6ybla-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2013-06-06T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-t6ybla",
+            "status": "met",
+            "title": "supply of 33,000 litres of diesel for illushi ega/oria irrigation project. (balance payment)-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 7796250.0,
+              "currency": "NGN"
+            },
+            "date": "2013-06-06T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-t6ybla-nga-contract-transactions-43865822",
+            "providerOrganization": {
+              "id": "212668710",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-212668710",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "9010108967",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-t6ybla",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-t6ybla-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": null
+      },
+      "status": "active",
+      "title": "Supply Of 33,000 Litres Of Diesel For Illushi Ega/Oria Irrigation Project. (Balance Payment)",
+      "value": {
+        "amount": 7796250.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Supply Of 33,000 Litres Of Diesel For Illushi Ega/Oria Irrigation Project. (Balance Payment)",
+      "id": "ocds-gyl66f-borbda-t6ybla",
+      "project": "Supply Of 33,000 Litres Of Diesel For Illushi Ega/Oria Irrigation Project. (Balance Payment)",
+      "value": {
+        "amount": 34000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-t6ybla",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2013-06-06T00:00:00Z",
+      "startDate": "2013-06-06T00:00:00Z"
+    },
+    "description": "supply of 33,000 litres of diesel for illushi ega/oria irrigation project. (balance payment)",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-t6ybla",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-t6ybla",
+    "items": [
+      {
+        "classification": {
+          "id": "051037428",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-t6ybla-tender-item-051037428",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 7796250.0,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2013-06-06T00:00:00Z",
+        "description": "Supply Of 33,000 Litres Of Diesel For Illushi Ega/Oria Irrigation Project. (Balance Payment)",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-t6ybla",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2013-06-06T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-t6ybla",
+        "status": "met",
+        "title": "Supply Of 33,000 Litres Of Diesel For Illushi Ega/Oria Irrigation Project. (Balance Payment)"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-100073410",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "complete",
+    "tenderPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-410965931",
+        "name": ""
+      }
+    ],
+    "title": "supply of 33,000 litres of diesel for illushi ega/oria irrigation project. (balance payment)",
+    "value": {
+      "amount": 7796250.0,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-06-29T19:07:56Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short"
+}
