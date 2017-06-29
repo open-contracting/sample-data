@@ -1,0 +1,753 @@
+{
+  "compiledRelease": {
+    "tag": [
+      "compiled"
+    ],
+    "date": "2017-05-30T00:00:00.000Z",
+    "id": "19682624",
+    "initiationType": "tender",
+    "language": "md",
+    "ocid": "ocds-ngfbwp-19682624",
+    "validationErrors": "properties/tender/properties/status/enum: 'Evaluarea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]",
+    "version": "1.1",
+    "buyer": {
+      "id": "c2e9a457e1f3f9fac7952e3e03c6e7ef",
+      "name": "Centrul Na\u021bional Anticorup\u021bie"
+    },
+    "packageInfo": {
+      "publishedDate": "2016-11-07T00:00:00.00Z",
+      "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+      "publisher": {
+        "name": "Public Procurement Agency",
+        "scheme": null,
+        "uid": null,
+        "uri": "https://tender.gov.md"
+      }
+    },
+    "tender": {
+      "awardCriteria": "",
+      "awardCriteriaDetails": "",
+      "description": "",
+      "eligibilityCriteria": "",
+      "id": "19682624",
+      "numberOfTenders": "",
+      "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+      "procurementMethodRationale": "",
+      "status": "Evaluarea ofertelor",
+      "submissionMethodDetails": "",
+      "tenderers": [
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": ""
+        }
+      ],
+      "title": "Tender Ref 17/01695 Bulletin 43",
+      "amendment": {
+        "changes": {}
+      },
+      "procuringEntity": {
+        "id": "c2e9a457e1f3f9fac7952e3e03c6e7ef",
+        "name": "Centrul Na\u021bional Anticorup\u021bie"
+      },
+      "submissionMethod": [
+        "written"
+      ],
+      "tenderPeriod": {
+        "endDate": "2017-06-07T15:00:00.000Z",
+        "startDate": "2017-05-30T00:00:00.000Z"
+      },
+      "value": {
+        "amount": "",
+        "currency": ""
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": "",
+          "format": "",
+          "title": "",
+          "url": ""
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": {}
+        }
+      ]
+    },
+    "parties": [
+      {
+        "id": "c2e9a457e1f3f9fac7952e3e03c6e7ef",
+        "name": "Centrul Na\u021bional Anticorup\u021bie",
+        "roles": [
+          "buyer",
+          "procuringEntity"
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": "",
+        "roles": [
+          "tenderer"
+        ]
+      }
+    ]
+  },
+  "versionedRelease": {
+    "ocid": "ocds-ngfbwp-19682624",
+    "initiationType": [
+      {
+        "releaseID": "19682624",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "tender"
+      }
+    ],
+    "language": [
+      {
+        "releaseID": "19682624",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "md"
+      }
+    ],
+    "validationErrors": [
+      {
+        "releaseID": "19682624",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "properties/tender/properties/status/enum: 'Evaluarea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+      }
+    ],
+    "version": [
+      {
+        "releaseID": "19682624",
+        "releaseDate": "2017-05-30T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "1.1"
+      }
+    ],
+    "buyer": {
+      "id": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "c2e9a457e1f3f9fac7952e3e03c6e7ef"
+        }
+      ],
+      "name": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Centrul Na\u021bional Anticorup\u021bie"
+        }
+      ]
+    },
+    "packageInfo": {
+      "publishedDate": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "2016-11-07T00:00:00.00Z"
+        }
+      ],
+      "uri": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "http://moldova-demo.yipl.com.np/ocds-api/year/2017"
+        }
+      ],
+      "publisher": {
+        "name": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Public Procurement Agency"
+          }
+        ],
+        "scheme": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uid": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uri": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "https://tender.gov.md"
+          }
+        ]
+      }
+    },
+    "tender": {
+      "awardCriteria": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "awardCriteriaDetails": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "description": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "eligibilityCriteria": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "id": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "19682624"
+        }
+      ],
+      "numberOfTenders": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "procurementMethod": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Cerere a ofertelor de pre\u0163uri"
+        }
+      ],
+      "procurementMethodRationale": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "status": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Evaluarea ofertelor"
+        }
+      ],
+      "submissionMethodDetails": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "tenderers": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": [
+            {
+              "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+              "name": ""
+            }
+          ]
+        }
+      ],
+      "title": [
+        {
+          "releaseID": "19682624",
+          "releaseDate": "2017-05-30T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Tender Ref 17/01695 Bulletin 43"
+        }
+      ],
+      "amendment": {
+        "changes": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": {}
+          }
+        ]
+      },
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "c2e9a457e1f3f9fac7952e3e03c6e7ef"
+          }
+        ],
+        "name": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Centrul Na\u021bional Anticorup\u021bie"
+          }
+        ]
+      },
+      "submissionMethod": [
+        [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "written"
+          }
+        ]
+      ],
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-06-07T15:00:00.000Z"
+          }
+        ],
+        "startDate": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-05-30T00:00:00.000Z"
+          }
+        ]
+      },
+      "value": {
+        "amount": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "currency": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ]
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "format": [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "title": [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "url": [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": {}
+            }
+          ]
+        }
+      ]
+    },
+    "parties": [
+      {
+        "id": "c2e9a457e1f3f9fac7952e3e03c6e7ef",
+        "name": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Centrul Na\u021bional Anticorup\u021bie"
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "buyer"
+            }
+          ],
+          [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "procuringEntity"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": [
+          {
+            "releaseID": "19682624",
+            "releaseDate": "2017-05-30T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "19682624",
+              "releaseDate": "2017-05-30T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "tenderer"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "releases": [
+    {
+      "ocid": "ocds-ngfbwp-19682624",
+      "id": "19682624",
+      "date": "2017-05-30T00:00:00.000Z",
+      "language": "md",
+      "tag": [
+        "tender",
+        "award",
+        "contract"
+      ],
+      "initiationType": "tender",
+      "parties": [
+        {
+          "id": "c2e9a457e1f3f9fac7952e3e03c6e7ef",
+          "name": "Centrul Na\u021bional Anticorup\u021bie",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": "",
+          "roles": [
+            "tenderer"
+          ]
+        }
+      ],
+      "tender": {
+        "id": "19682624",
+        "title": "Tender Ref 17/01695 Bulletin 43",
+        "description": "",
+        "status": "Evaluarea ofertelor",
+        "value": {
+          "amount": "",
+          "currency": ""
+        },
+        "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+        "procurementMethodRationale": "",
+        "awardCriteria": "",
+        "awardCriteriaDetails": "",
+        "submissionMethod": [
+          "written"
+        ],
+        "submissionMethodDetails": "",
+        "tenderPeriod": {
+          "startDate": "2017-05-30T00:00:00.000Z",
+          "endDate": "2017-06-07T15:00:00.000Z"
+        },
+        "eligibilityCriteria": "",
+        "numberOfTenders": "",
+        "tenderers": [
+          {
+            "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+            "name": ""
+          }
+        ],
+        "procuringEntity": {
+          "id": "c2e9a457e1f3f9fac7952e3e03c6e7ef",
+          "name": "Centrul Na\u021bional Anticorup\u021bie"
+        },
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": "",
+            "format": ""
+          }
+        ],
+        "milestones": [
+          {
+            "documents": {}
+          }
+        ],
+        "amendment": {
+          "changes": {}
+        }
+      },
+      "buyer": {
+        "id": "c2e9a457e1f3f9fac7952e3e03c6e7ef",
+        "name": "Centrul Na\u021bional Anticorup\u021bie"
+      },
+      "packageInfo": {
+        "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+        "publishedDate": "2016-11-07T00:00:00.00Z",
+        "publisher": {
+          "scheme": null,
+          "name": "Public Procurement Agency",
+          "uri": "https://tender.gov.md",
+          "uid": null
+        }
+      },
+      "version": "1.1",
+      "validationErrors": "properties/tender/properties/status/enum: 'Evaluarea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+    }
+  ],
+  "publisher": {
+    "scheme": null,
+    "name": "Public Procurement Agency",
+    "uri": "https://tender.gov.md",
+    "uid": null
+  }
+}

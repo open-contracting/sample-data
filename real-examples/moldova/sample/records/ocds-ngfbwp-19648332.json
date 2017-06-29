@@ -1,0 +1,753 @@
+{
+  "compiledRelease": {
+    "tag": [
+      "compiled"
+    ],
+    "date": "2017-05-26T00:00:00.000Z",
+    "id": "19648332",
+    "initiationType": "tender",
+    "language": "md",
+    "ocid": "ocds-ngfbwp-19648332",
+    "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]",
+    "version": "1.1",
+    "buyer": {
+      "id": "4daff6d100b6f5dcc635a2f75751ebde",
+      "name": "Consiliul Raional Nisporeni"
+    },
+    "packageInfo": {
+      "publishedDate": "2016-11-07T00:00:00.00Z",
+      "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+      "publisher": {
+        "name": "Public Procurement Agency",
+        "scheme": null,
+        "uid": null,
+        "uri": "https://tender.gov.md"
+      }
+    },
+    "tender": {
+      "awardCriteria": "",
+      "awardCriteriaDetails": "",
+      "description": "",
+      "eligibilityCriteria": "",
+      "id": "19648332",
+      "numberOfTenders": "",
+      "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+      "procurementMethodRationale": "",
+      "status": "Executarea contractului",
+      "submissionMethodDetails": "",
+      "tenderers": [
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": ""
+        }
+      ],
+      "title": "Tender Ref 17/01661 Bulletin 42",
+      "amendment": {
+        "changes": {}
+      },
+      "procuringEntity": {
+        "id": "4daff6d100b6f5dcc635a2f75751ebde",
+        "name": "Consiliul Raional Nisporeni"
+      },
+      "submissionMethod": [
+        "written"
+      ],
+      "tenderPeriod": {
+        "endDate": "2017-06-02T10:00:00.000Z",
+        "startDate": "2017-05-26T00:00:00.000Z"
+      },
+      "value": {
+        "amount": "",
+        "currency": ""
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": "",
+          "format": "",
+          "title": "",
+          "url": ""
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": {}
+        }
+      ]
+    },
+    "parties": [
+      {
+        "id": "4daff6d100b6f5dcc635a2f75751ebde",
+        "name": "Consiliul Raional Nisporeni",
+        "roles": [
+          "buyer",
+          "procuringEntity"
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": "",
+        "roles": [
+          "tenderer"
+        ]
+      }
+    ]
+  },
+  "versionedRelease": {
+    "ocid": "ocds-ngfbwp-19648332",
+    "initiationType": [
+      {
+        "releaseID": "19648332",
+        "releaseDate": "2017-05-26T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "tender"
+      }
+    ],
+    "language": [
+      {
+        "releaseID": "19648332",
+        "releaseDate": "2017-05-26T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "md"
+      }
+    ],
+    "validationErrors": [
+      {
+        "releaseID": "19648332",
+        "releaseDate": "2017-05-26T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+      }
+    ],
+    "version": [
+      {
+        "releaseID": "19648332",
+        "releaseDate": "2017-05-26T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "1.1"
+      }
+    ],
+    "buyer": {
+      "id": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "4daff6d100b6f5dcc635a2f75751ebde"
+        }
+      ],
+      "name": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Consiliul Raional Nisporeni"
+        }
+      ]
+    },
+    "packageInfo": {
+      "publishedDate": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "2016-11-07T00:00:00.00Z"
+        }
+      ],
+      "uri": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "http://moldova-demo.yipl.com.np/ocds-api/year/2017"
+        }
+      ],
+      "publisher": {
+        "name": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Public Procurement Agency"
+          }
+        ],
+        "scheme": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uid": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uri": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "https://tender.gov.md"
+          }
+        ]
+      }
+    },
+    "tender": {
+      "awardCriteria": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "awardCriteriaDetails": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "description": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "eligibilityCriteria": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "id": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "19648332"
+        }
+      ],
+      "numberOfTenders": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "procurementMethod": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Cerere a ofertelor de pre\u0163uri"
+        }
+      ],
+      "procurementMethodRationale": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "status": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Executarea contractului"
+        }
+      ],
+      "submissionMethodDetails": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "tenderers": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": [
+            {
+              "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+              "name": ""
+            }
+          ]
+        }
+      ],
+      "title": [
+        {
+          "releaseID": "19648332",
+          "releaseDate": "2017-05-26T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Tender Ref 17/01661 Bulletin 42"
+        }
+      ],
+      "amendment": {
+        "changes": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": {}
+          }
+        ]
+      },
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "4daff6d100b6f5dcc635a2f75751ebde"
+          }
+        ],
+        "name": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Consiliul Raional Nisporeni"
+          }
+        ]
+      },
+      "submissionMethod": [
+        [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "written"
+          }
+        ]
+      ],
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-06-02T10:00:00.000Z"
+          }
+        ],
+        "startDate": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-05-26T00:00:00.000Z"
+          }
+        ]
+      },
+      "value": {
+        "amount": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "currency": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ]
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "format": [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "title": [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "url": [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": {}
+            }
+          ]
+        }
+      ]
+    },
+    "parties": [
+      {
+        "id": "4daff6d100b6f5dcc635a2f75751ebde",
+        "name": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Consiliul Raional Nisporeni"
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "buyer"
+            }
+          ],
+          [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "procuringEntity"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": [
+          {
+            "releaseID": "19648332",
+            "releaseDate": "2017-05-26T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "19648332",
+              "releaseDate": "2017-05-26T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "tenderer"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "releases": [
+    {
+      "ocid": "ocds-ngfbwp-19648332",
+      "id": "19648332",
+      "date": "2017-05-26T00:00:00.000Z",
+      "language": "md",
+      "tag": [
+        "tender",
+        "award",
+        "contract"
+      ],
+      "initiationType": "tender",
+      "parties": [
+        {
+          "id": "4daff6d100b6f5dcc635a2f75751ebde",
+          "name": "Consiliul Raional Nisporeni",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": "",
+          "roles": [
+            "tenderer"
+          ]
+        }
+      ],
+      "tender": {
+        "id": "19648332",
+        "title": "Tender Ref 17/01661 Bulletin 42",
+        "description": "",
+        "status": "Executarea contractului",
+        "value": {
+          "amount": "",
+          "currency": ""
+        },
+        "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+        "procurementMethodRationale": "",
+        "awardCriteria": "",
+        "awardCriteriaDetails": "",
+        "submissionMethod": [
+          "written"
+        ],
+        "submissionMethodDetails": "",
+        "tenderPeriod": {
+          "startDate": "2017-05-26T00:00:00.000Z",
+          "endDate": "2017-06-02T10:00:00.000Z"
+        },
+        "eligibilityCriteria": "",
+        "numberOfTenders": "",
+        "tenderers": [
+          {
+            "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+            "name": ""
+          }
+        ],
+        "procuringEntity": {
+          "id": "4daff6d100b6f5dcc635a2f75751ebde",
+          "name": "Consiliul Raional Nisporeni"
+        },
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": "",
+            "format": ""
+          }
+        ],
+        "milestones": [
+          {
+            "documents": {}
+          }
+        ],
+        "amendment": {
+          "changes": {}
+        }
+      },
+      "buyer": {
+        "id": "4daff6d100b6f5dcc635a2f75751ebde",
+        "name": "Consiliul Raional Nisporeni"
+      },
+      "packageInfo": {
+        "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+        "publishedDate": "2016-11-07T00:00:00.00Z",
+        "publisher": {
+          "scheme": null,
+          "name": "Public Procurement Agency",
+          "uri": "https://tender.gov.md",
+          "uid": null
+        }
+      },
+      "version": "1.1",
+      "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+    }
+  ],
+  "publisher": {
+    "scheme": null,
+    "name": "Public Procurement Agency",
+    "uri": "https://tender.gov.md",
+    "uid": null
+  }
+}
