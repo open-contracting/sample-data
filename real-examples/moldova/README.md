@@ -9,11 +9,11 @@ The process to obtain a sample:
 
     python3 fetch.py
 
-Or to obtain all records:
+Or to obtain all releases:
 
     python3 fetch.py --all
 
-There were 12,639 available records as of 2017/06/29.
+There were 12,639 available releases as of 2017/06/29.
 
 This publisher only publishes releases, so you will need to transform the releases for v1.1, then merge the transformed releases into records (TODO). You can then validate both records and releases, and upload them to S3.
 
