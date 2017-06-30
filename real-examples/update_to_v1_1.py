@@ -158,7 +158,8 @@ def upgrade(release):
     release = upgrade_transactions(release)
     if 'parties' in release:
         release.move_to_end('parties', last=False)
-    release.move_to_end('initiationType', last=False)
+    if 'initiationType' in release:
+        release.move_to_end('initiationType', last=False)
     release.move_to_end('tag', last=False)
     release.move_to_end('language', last=False)
     release.move_to_end('date', last=False)
