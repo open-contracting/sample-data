@@ -1,0 +1,2437 @@
+{
+  "publisher": "DSP,Inc.", 
+  "versionedRelease": {
+    "name": [
+      {
+        "releaseDate": "2014-02-10", 
+        "releaseID": "ocid-6as3t2-51181645", 
+        "releaseTag": "awardNotice", 
+        "value": "Case10302drugtender."
+      }
+    ], 
+    "language": [
+      {
+        "releaseDate": "2014-02-10", 
+        "releaseID": "ocid-6as3t2-51181645", 
+        "releaseTag": "awardNotice", 
+        "value": "zh"
+      }
+    ], 
+    "ocid": "ocid-6as3t2-51181645", 
+    "packageInfo": {
+      "publisher": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "DSP,Inc."
+        }
+      ], 
+      "uri": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02"
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "2015-12-01"
+        }
+      ]
+    }, 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "1c6ff661142ef0d7f93e753ca460d8b4"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": ""
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2014-02-10", 
+        "releaseID": "ocid-6as3t2-51181645", 
+        "releaseTag": "awardNotice", 
+        "value": "1.1"
+      }
+    ], 
+    "awards": {
+      "totalAwardValue": {
+        "currency": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "TWD"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": null
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "suppliers": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": [
+                {
+                  "employeeExceedOneHundred": true, 
+                  "contractPeriod": {
+                    "startDate": "2014-01-25", 
+                    "endDate": "2015-12-31"
+                  }, 
+                  "number": 1, 
+                  "minValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "awardValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "address": {
+                    "postalCode": "104", 
+                    "region": "\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u53f0\u5317\u5e02", 
+                    "streetAddress": "\u9f8d\u6c5f\u8def335\u865f3\u6a13", 
+                    "locality": null
+                  }, 
+                  "sme": "\u5426\uff0c\u9810\u4f30\u5206\u5305\u4e88\u4e2d\u5c0f\u4f01\u696d\u4e4b\u91d1\u984d 0 \u5143", 
+                  "identifier": {
+                    "id": "05071926", 
+                    "legalName": "\u4e45\u88d5\u4f01\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                  }, 
+                  "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                  "quantity": 1
+                }, 
+                {
+                  "employeeExceedOneHundred": true, 
+                  "contractPeriod": {
+                    "startDate": "2014-01-25", 
+                    "endDate": "2015-12-31"
+                  }, 
+                  "number": 2, 
+                  "minValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "awardValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "address": {
+                    "postalCode": "115", 
+                    "region": "\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u53f0\u5317\u5e02", 
+                    "streetAddress": "\u5824\u9802\u5927\u9053\u4e8c\u6bb5407\u5df722\u865f10\u6a13", 
+                    "locality": null
+                  }, 
+                  "sme": "\u5426\uff0c\u9810\u4f30\u5206\u5305\u4e88\u4e2d\u5c0f\u4f01\u696d\u4e4b\u91d1\u984d 0 \u5143", 
+                  "identifier": {
+                    "id": "70824858", 
+                    "legalName": "\u53f0\u7063\u5927\u660c\u83ef\u5609\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                  }, 
+                  "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                  "quantity": 1
+                }, 
+                {
+                  "employeeExceedOneHundred": true, 
+                  "contractPeriod": {
+                    "startDate": "2014-01-25", 
+                    "endDate": "2015-12-31"
+                  }, 
+                  "number": 3, 
+                  "minValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "awardValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "address": {
+                    "postalCode": "115", 
+                    "region": "\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u53f0\u5317\u5e02", 
+                    "streetAddress": "\u88573-1\u865f3\u6a13", 
+                    "locality": "\u5712\u5340"
+                  }, 
+                  "sme": "\u662f", 
+                  "identifier": {
+                    "id": "11821341", 
+                    "legalName": "\u53f0\u7063\u6771\u6d0b\u85e5\u54c1\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                  }, 
+                  "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                  "quantity": 1
+                }, 
+                {
+                  "employeeExceedOneHundred": false, 
+                  "contractPeriod": {
+                    "startDate": "2014-01-25", 
+                    "endDate": "2015-12-31"
+                  }, 
+                  "number": 4, 
+                  "minValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "awardValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "address": {
+                    "postalCode": "406", 
+                    "region": "\u81fa\u4e2d\u5e02\u5317\u5c6f\u5340\u53f0\u4e2d\u5e02", 
+                    "streetAddress": "\u7d8f\u9060\u8def\u4e8c\u6bb5216-5\u865f6\u6a13", 
+                    "locality": null
+                  }, 
+                  "sme": "\u662f", 
+                  "identifier": {
+                    "id": "16647167", 
+                    "legalName": "\u5409\u5e1d\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                  }, 
+                  "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                  "quantity": 1
+                }, 
+                {
+                  "employeeExceedOneHundred": false, 
+                  "contractPeriod": {
+                    "startDate": "2014-01-25", 
+                    "endDate": "2015-12-31"
+                  }, 
+                  "number": 5, 
+                  "minValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "awardValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "address": {
+                    "postalCode": "104", 
+                    "region": "\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u53f0\u5317\u5e02", 
+                    "streetAddress": "\u656c\u696d\u4e00\u8def139\u865f5\u6a13\u4e4b7", 
+                    "locality": null
+                  }, 
+                  "sme": "\u662f", 
+                  "identifier": {
+                    "id": "89626196", 
+                    "legalName": "\u5409\u7a0b\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                  }, 
+                  "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                  "quantity": 1
+                }, 
+                {
+                  "employeeExceedOneHundred": false, 
+                  "contractPeriod": {
+                    "startDate": "2014-01-25", 
+                    "endDate": "2015-12-31"
+                  }, 
+                  "number": 6, 
+                  "minValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "awardValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "address": {
+                    "postalCode": "105", 
+                    "region": "\u81fa\u5317\u5e02\u677e\u5c71\u5340\u53f0\u5317\u5e02", 
+                    "streetAddress": "\u5357\u4eac\u6771\u8def3\u6bb5338\u5df73\u865f6\u6a13", 
+                    "locality": null
+                  }, 
+                  "sme": "\u662f", 
+                  "identifier": {
+                    "id": "27554334", 
+                    "legalName": "\u6cdb\u6cf0\u91ab\u7642\u7522\u54c1\u6709\u9650\u516c\u53f8"
+                  }, 
+                  "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                  "quantity": 1
+                }, 
+                {
+                  "employeeExceedOneHundred": true, 
+                  "contractPeriod": {
+                    "startDate": "2014-01-25", 
+                    "endDate": "2015-12-31"
+                  }, 
+                  "number": 7, 
+                  "minValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "awardValue": {
+                    "currency": "TWD", 
+                    "amount": null
+                  }, 
+                  "address": {
+                    "postalCode": "105", 
+                    "region": "\u81fa\u5317\u5e02\u677e\u5c71\u5340\u53f0\u5317\u5e02", 
+                    "streetAddress": "\u6c11\u751f\u6771\u8def\u4e09\u6bb5134\u865f9\u6a13", 
+                    "locality": null
+                  }, 
+                  "sme": "\u662f", 
+                  "identifier": {
+                    "id": "23167467", 
+                    "legalName": "\u7f85\u6c0f\u5927\u85e5\u5ee0\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                  }, 
+                  "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                  "quantity": 1
+                }
+              ]
+            }
+          ], 
+          "withoutTenderer": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": []
+            }
+          ], 
+          "id": 0, 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "CPC"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "<\u8ca1\u7269\u985e>, \u91ab\u85e5\u7522\u54c1"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "352"
+              }
+            ]
+          }, 
+          "number": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": 7
+            }
+          ]
+        }
+      ], 
+      "awardCriteria": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "\u6700\u4f4e\u6a19"
+        }
+      ], 
+      "awardDate": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "2014-01-24"
+        }
+      ], 
+      "awardAnnounceDate": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "2014-02-10"
+        }
+      ], 
+      "id": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "ocid-6as3t2-51181645-awards"
+        }
+      ]
+    }, 
+    "committee": {
+      "id": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "ocid-6as3t2-51181645-committee"
+        }
+      ]
+    }, 
+    "parties": [
+      {
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "3.9.20.1"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+            }
+          ]
+        }, 
+        "id": "1c6ff661142ef0d7f93e753ca460d8b4", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "buyer"
+            }
+          ]
+        ]
+      }, 
+      {
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "3.9.20.1"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+            }
+          ]
+        }, 
+        "id": "d886c983644a0fd3f63d3ad66a9a142d", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "procuringEntity"
+            }
+          ]
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "05071926"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u4e45\u88d5\u4f01\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "8c29bb4b5c877dafea323f9e28046fba", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "11102308"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u5929\u884c\u8cbf\u6613\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "de23a3b7e50447d37c0058fbb5e6e999", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "70824858"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u53f0\u7063\u5927\u660c\u83ef\u5609\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "e931746e0506916a1fc869da4f563ef3", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "11821341"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u53f0\u7063\u6771\u6d0b\u85e5\u54c1\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "244316568a6118351ec61c27fa9ec9c0", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "16647167"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u5409\u5e1d\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "d7de6e5bf9d70df3b602a5b31c7d6b8e", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 5
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "89626196"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u5409\u7a0b\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "dd3da78e278d7d989eead736a7a53131", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 6
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "27554334"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u6cdb\u6cf0\u91ab\u7642\u7522\u54c1\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "73b4e2a1aebbae23c89d56f6dcfda51a", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 7
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "70374086"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u83ef\u5b89\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "dce458a425f293dac26f76888a9d5915", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "01010553"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u91ab\u7642\u8ca1\u5718\u6cd5\u4eba\u53f0\u7063\u8840\u6db2\u57fa\u91d1\u6703"
+            }
+          ]
+        }, 
+        "id": "ac80b283e5e1bb03b4dfa48b4ba8154f", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "organizationType": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "\u516c\u53f8\u767b\u8a18"
+          }
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "23167467"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u7f85\u6c0f\u5927\u85e5\u5ee0\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            }
+          ]
+        }, 
+        "id": "08fb12fdae3bcb717295c0f80501639c", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "tenderer"
+            }
+          ]
+        ], 
+        "number": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": 10
+          }
+        ]
+      }
+    ], 
+    "validationErrors": [
+      {
+        "releaseDate": "2014-02-10", 
+        "releaseID": "ocid-6as3t2-51181645", 
+        "releaseTag": "awardNotice", 
+        "value": "properties/tag/type: 'awardNotice' is not of type 'array'"
+      }
+    ], 
+    "tender": {
+      "numberOfBids": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": 10
+        }
+      ], 
+      "procurementMethod": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "\u9078\u64c7\u6027\u62db\u6a19(\u500b\u6848)"
+        }
+      ], 
+      "executingEntity": {
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "3.9.20.1"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u570b\u7acb\u81fa\u7063\u5927\u5b78\u91ab\u5b78\u9662\u9644\u8a2d\u91ab\u9662"
+            }
+          ]
+        }
+      }, 
+      "processMethod": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "\u81ea\u8fa6"
+        }
+      ], 
+      "items": [
+        {
+          "id": 0, 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "CPC"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "<\u8ca1\u7269\u985e>, \u91ab\u85e5\u7522\u54c1"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "352"
+              }
+            ]
+          }, 
+          "number": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": 1
+            }
+          ]
+        }
+      ], 
+      "deliveryAddress": {
+        "aboriginalRegion": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": false
+          }
+        ], 
+        "addresses": [
+          {
+            "region": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u81fa\u5317\u5e02"
+              }
+            ], 
+            "id": 0, 
+            "locality": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u4e2d\u6b63\u5340"
+              }
+            ]
+          }, 
+          {
+            "region": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u65b0\u5317\u5e02"
+              }
+            ], 
+            "id": 1, 
+            "locality": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u91d1\u5c71\u5340"
+              }
+            ]
+          }, 
+          {
+            "region": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u65b0\u7af9\u5e02"
+              }
+            ], 
+            "id": 2, 
+            "locality": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": null
+              }
+            ]
+          }, 
+          {
+            "region": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u65b0\u7af9\u7e23"
+              }
+            ], 
+            "id": 3, 
+            "locality": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u7af9\u6771"
+              }
+            ]
+          }, 
+          {
+            "region": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u96f2\u6797\u7e23"
+              }
+            ], 
+            "id": 4, 
+            "locality": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u864e\u5c3e"
+              }
+            ]
+          }, 
+          {
+            "region": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u96f2\u6797\u7e23"
+              }
+            ], 
+            "id": 5, 
+            "locality": [
+              {
+                "releaseDate": "2014-02-10", 
+                "releaseID": "ocid-6as3t2-51181645", 
+                "releaseTag": "awardNotice", 
+                "value": "\u6597\u516d"
+              }
+            ]
+          }
+        ]
+      }, 
+      "budget": {
+        "value": {
+          "currency": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "TWD"
+            }
+          ], 
+          "amount": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": 9404647864
+            }
+          ]
+        }
+      }, 
+      "procurementAmountRange": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "\u5de8\u984d"
+        }
+      ], 
+      "awardCriteria": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "\u6700\u4f4e\u6a19"
+        }
+      ], 
+      "tederPeriod": {
+        "endDate": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "2014-01-14"
+          }
+        ], 
+        "announceTimes": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "03"
+          }
+        ], 
+        "startDate": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "2013-12-26"
+          }
+        ]
+      }, 
+      "tenderers": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": [
+            {
+              "id": "8c29bb4b5c877dafea323f9e28046fba", 
+              "name": ""
+            }, 
+            {
+              "id": "de23a3b7e50447d37c0058fbb5e6e999", 
+              "name": ""
+            }, 
+            {
+              "id": "e931746e0506916a1fc869da4f563ef3", 
+              "name": ""
+            }, 
+            {
+              "id": "244316568a6118351ec61c27fa9ec9c0", 
+              "name": ""
+            }, 
+            {
+              "id": "d7de6e5bf9d70df3b602a5b31c7d6b8e", 
+              "name": ""
+            }, 
+            {
+              "id": "dd3da78e278d7d989eead736a7a53131", 
+              "name": ""
+            }, 
+            {
+              "id": "73b4e2a1aebbae23c89d56f6dcfda51a", 
+              "name": ""
+            }, 
+            {
+              "id": "dce458a425f293dac26f76888a9d5915", 
+              "name": ""
+            }, 
+            {
+              "id": "ac80b283e5e1bb03b4dfa48b4ba8154f", 
+              "name": ""
+            }, 
+            {
+              "id": "08fb12fdae3bcb717295c0f80501639c", 
+              "name": ""
+            }
+          ]
+        }
+      ], 
+      "identifier": {
+        "id": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "3.9.20.1"
+          }
+        ], 
+        "legalName": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+          }
+        ]
+      }, 
+      "id": [
+        {
+          "releaseDate": "2014-02-10", 
+          "releaseID": "ocid-6as3t2-51181645", 
+          "releaseTag": "awardNotice", 
+          "value": "ocid-6as3t2-51181645-tender"
+        }
+      ], 
+      "deliveryLocation": [
+        {
+          "id": 0, 
+          "description": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u81fa\u5317\u5e02, \u4e2d\u6b63\u5340"
+            }
+          ]
+        }, 
+        {
+          "id": 1, 
+          "description": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u65b0\u5317\u5e02, \u91d1\u5c71\u5340"
+            }
+          ]
+        }, 
+        {
+          "id": 2, 
+          "description": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": null
+            }
+          ]
+        }, 
+        {
+          "id": 3, 
+          "description": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u65b0\u7af9\u7e23, \u7af9\u6771"
+            }
+          ]
+        }, 
+        {
+          "id": 4, 
+          "description": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u96f2\u6797\u7e23, \u864e\u5c3e"
+            }
+          ]
+        }, 
+        {
+          "id": 5, 
+          "description": [
+            {
+              "releaseDate": "2014-02-10", 
+              "releaseID": "ocid-6as3t2-51181645", 
+              "releaseTag": "awardNotice", 
+              "value": "\u96f2\u6797\u7e23, \u6597\u516d"
+            }
+          ]
+        }
+      ], 
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": "d886c983644a0fd3f63d3ad66a9a142d"
+          }
+        ], 
+        "name": [
+          {
+            "releaseDate": "2014-02-10", 
+            "releaseID": "ocid-6as3t2-51181645", 
+            "releaseTag": "awardNotice", 
+            "value": ""
+          }
+        ]
+      }
+    }
+  }, 
+  "releases": [
+    {
+      "name": "Case10302drugtender.", 
+      "language": "zh", 
+      "ocid": "ocid-6as3t2-51181645", 
+      "version": "1.1", 
+      "packageInfo": {
+        "publisher": "DSP,Inc.", 
+        "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02", 
+        "publishedDate": "2015-12-01"
+      }, 
+      "buyer": {
+        "id": "1c6ff661142ef0d7f93e753ca460d8b4", 
+        "name": ""
+      }, 
+      "tag": "awardNotice", 
+      "awards": {
+        "totalAwardValue": {
+          "currency": "TWD", 
+          "amount": null
+        }, 
+        "items": [
+          {
+            "suppliers": [
+              {
+                "employeeExceedOneHundred": true, 
+                "contractPeriod": {
+                  "startDate": "2014-01-25", 
+                  "endDate": "2015-12-31"
+                }, 
+                "number": 1, 
+                "minValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "awardValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "address": {
+                  "postalCode": "104", 
+                  "region": "\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u53f0\u5317\u5e02", 
+                  "streetAddress": "\u9f8d\u6c5f\u8def335\u865f3\u6a13", 
+                  "locality": null
+                }, 
+                "sme": "\u5426\uff0c\u9810\u4f30\u5206\u5305\u4e88\u4e2d\u5c0f\u4f01\u696d\u4e4b\u91d1\u984d 0 \u5143", 
+                "identifier": {
+                  "id": "05071926", 
+                  "legalName": "\u4e45\u88d5\u4f01\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                }, 
+                "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                "quantity": 1
+              }, 
+              {
+                "employeeExceedOneHundred": true, 
+                "contractPeriod": {
+                  "startDate": "2014-01-25", 
+                  "endDate": "2015-12-31"
+                }, 
+                "number": 2, 
+                "minValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "awardValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "address": {
+                  "postalCode": "115", 
+                  "region": "\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u53f0\u5317\u5e02", 
+                  "streetAddress": "\u5824\u9802\u5927\u9053\u4e8c\u6bb5407\u5df722\u865f10\u6a13", 
+                  "locality": null
+                }, 
+                "sme": "\u5426\uff0c\u9810\u4f30\u5206\u5305\u4e88\u4e2d\u5c0f\u4f01\u696d\u4e4b\u91d1\u984d 0 \u5143", 
+                "identifier": {
+                  "id": "70824858", 
+                  "legalName": "\u53f0\u7063\u5927\u660c\u83ef\u5609\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                }, 
+                "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                "quantity": 1
+              }, 
+              {
+                "employeeExceedOneHundred": true, 
+                "contractPeriod": {
+                  "startDate": "2014-01-25", 
+                  "endDate": "2015-12-31"
+                }, 
+                "number": 3, 
+                "minValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "awardValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "address": {
+                  "postalCode": "115", 
+                  "region": "\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u53f0\u5317\u5e02", 
+                  "streetAddress": "\u88573-1\u865f3\u6a13", 
+                  "locality": "\u5712\u5340"
+                }, 
+                "sme": "\u662f", 
+                "identifier": {
+                  "id": "11821341", 
+                  "legalName": "\u53f0\u7063\u6771\u6d0b\u85e5\u54c1\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                }, 
+                "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                "quantity": 1
+              }, 
+              {
+                "employeeExceedOneHundred": false, 
+                "contractPeriod": {
+                  "startDate": "2014-01-25", 
+                  "endDate": "2015-12-31"
+                }, 
+                "number": 4, 
+                "minValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "awardValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "address": {
+                  "postalCode": "406", 
+                  "region": "\u81fa\u4e2d\u5e02\u5317\u5c6f\u5340\u53f0\u4e2d\u5e02", 
+                  "streetAddress": "\u7d8f\u9060\u8def\u4e8c\u6bb5216-5\u865f6\u6a13", 
+                  "locality": null
+                }, 
+                "sme": "\u662f", 
+                "identifier": {
+                  "id": "16647167", 
+                  "legalName": "\u5409\u5e1d\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                }, 
+                "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                "quantity": 1
+              }, 
+              {
+                "employeeExceedOneHundred": false, 
+                "contractPeriod": {
+                  "startDate": "2014-01-25", 
+                  "endDate": "2015-12-31"
+                }, 
+                "number": 5, 
+                "minValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "awardValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "address": {
+                  "postalCode": "104", 
+                  "region": "\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u53f0\u5317\u5e02", 
+                  "streetAddress": "\u656c\u696d\u4e00\u8def139\u865f5\u6a13\u4e4b7", 
+                  "locality": null
+                }, 
+                "sme": "\u662f", 
+                "identifier": {
+                  "id": "89626196", 
+                  "legalName": "\u5409\u7a0b\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                }, 
+                "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                "quantity": 1
+              }, 
+              {
+                "employeeExceedOneHundred": false, 
+                "contractPeriod": {
+                  "startDate": "2014-01-25", 
+                  "endDate": "2015-12-31"
+                }, 
+                "number": 6, 
+                "minValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "awardValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "address": {
+                  "postalCode": "105", 
+                  "region": "\u81fa\u5317\u5e02\u677e\u5c71\u5340\u53f0\u5317\u5e02", 
+                  "streetAddress": "\u5357\u4eac\u6771\u8def3\u6bb5338\u5df73\u865f6\u6a13", 
+                  "locality": null
+                }, 
+                "sme": "\u662f", 
+                "identifier": {
+                  "id": "27554334", 
+                  "legalName": "\u6cdb\u6cf0\u91ab\u7642\u7522\u54c1\u6709\u9650\u516c\u53f8"
+                }, 
+                "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                "quantity": 1
+              }, 
+              {
+                "employeeExceedOneHundred": true, 
+                "contractPeriod": {
+                  "startDate": "2014-01-25", 
+                  "endDate": "2015-12-31"
+                }, 
+                "number": 7, 
+                "minValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "awardValue": {
+                  "currency": "TWD", 
+                  "amount": null
+                }, 
+                "address": {
+                  "postalCode": "105", 
+                  "region": "\u81fa\u5317\u5e02\u677e\u5c71\u5340\u53f0\u5317\u5e02", 
+                  "streetAddress": "\u6c11\u751f\u6771\u8def\u4e09\u6bb5134\u865f9\u6a13", 
+                  "locality": null
+                }, 
+                "sme": "\u662f", 
+                "identifier": {
+                  "id": "23167467", 
+                  "legalName": "\u7f85\u6c0f\u5927\u85e5\u5ee0\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+                }, 
+                "organizationType": "\u516c\u53f8\u767b\u8a18", 
+                "quantity": 1
+              }
+            ], 
+            "withoutTenderer": [], 
+            "number": 7, 
+            "classification": {
+              "scheme": "CPC", 
+              "id": "352", 
+              "description": "<\u8ca1\u7269\u985e>, \u91ab\u85e5\u7522\u54c1"
+            }
+          }
+        ], 
+        "awardCriteria": "\u6700\u4f4e\u6a19", 
+        "awardDate": "2014-01-24", 
+        "awardAnnounceDate": "2014-02-10", 
+        "id": "ocid-6as3t2-51181645-awards"
+      }, 
+      "committee": {
+        "id": "ocid-6as3t2-51181645-committee"
+      }, 
+      "parties": [
+        {
+          "identifier": {
+            "id": "3.9.20.1", 
+            "legalName": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+          }, 
+          "id": "1c6ff661142ef0d7f93e753ca460d8b4", 
+          "roles": [
+            "buyer"
+          ]
+        }, 
+        {
+          "identifier": {
+            "id": "3.9.20.1", 
+            "legalName": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+          }, 
+          "id": "d886c983644a0fd3f63d3ad66a9a142d", 
+          "roles": [
+            "procuringEntity"
+          ]
+        }, 
+        {
+          "id": "8c29bb4b5c877dafea323f9e28046fba", 
+          "identifier": {
+            "id": "05071926", 
+            "legalName": "\u4e45\u88d5\u4f01\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 1
+        }, 
+        {
+          "id": "de23a3b7e50447d37c0058fbb5e6e999", 
+          "identifier": {
+            "id": "11102308", 
+            "legalName": "\u5929\u884c\u8cbf\u6613\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 2
+        }, 
+        {
+          "id": "e931746e0506916a1fc869da4f563ef3", 
+          "identifier": {
+            "id": "70824858", 
+            "legalName": "\u53f0\u7063\u5927\u660c\u83ef\u5609\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 3
+        }, 
+        {
+          "id": "244316568a6118351ec61c27fa9ec9c0", 
+          "identifier": {
+            "id": "11821341", 
+            "legalName": "\u53f0\u7063\u6771\u6d0b\u85e5\u54c1\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 4
+        }, 
+        {
+          "id": "d7de6e5bf9d70df3b602a5b31c7d6b8e", 
+          "identifier": {
+            "id": "16647167", 
+            "legalName": "\u5409\u5e1d\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 5
+        }, 
+        {
+          "id": "dd3da78e278d7d989eead736a7a53131", 
+          "identifier": {
+            "id": "89626196", 
+            "legalName": "\u5409\u7a0b\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 6
+        }, 
+        {
+          "id": "73b4e2a1aebbae23c89d56f6dcfda51a", 
+          "identifier": {
+            "id": "27554334", 
+            "legalName": "\u6cdb\u6cf0\u91ab\u7642\u7522\u54c1\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 7
+        }, 
+        {
+          "id": "dce458a425f293dac26f76888a9d5915", 
+          "identifier": {
+            "id": "70374086", 
+            "legalName": "\u83ef\u5b89\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 8
+        }, 
+        {
+          "id": "ac80b283e5e1bb03b4dfa48b4ba8154f", 
+          "identifier": {
+            "id": "01010553", 
+            "legalName": "\u91ab\u7642\u8ca1\u5718\u6cd5\u4eba\u53f0\u7063\u8840\u6db2\u57fa\u91d1\u6703"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 9
+        }, 
+        {
+          "id": "08fb12fdae3bcb717295c0f80501639c", 
+          "identifier": {
+            "id": "23167467", 
+            "legalName": "\u7f85\u6c0f\u5927\u85e5\u5ee0\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          }, 
+          "organizationType": "\u516c\u53f8\u767b\u8a18", 
+          "roles": [
+            "tenderer"
+          ], 
+          "number": 10
+        }
+      ], 
+      "date": "2014-02-10", 
+      "tender": {
+        "procurementMethod": "\u9078\u64c7\u6027\u62db\u6a19(\u500b\u6848)", 
+        "numberOfBids": 10, 
+        "awardCriteria": "\u6700\u4f4e\u6a19", 
+        "processMethod": "\u81ea\u8fa6", 
+        "items": [
+          {
+            "number": 1, 
+            "classification": {
+              "scheme": "CPC", 
+              "id": "352", 
+              "description": "<\u8ca1\u7269\u985e>, \u91ab\u85e5\u7522\u54c1"
+            }
+          }
+        ], 
+        "deliveryAddress": {
+          "aboriginalRegion": false, 
+          "addresses": [
+            {
+              "region": "\u81fa\u5317\u5e02", 
+              "locality": "\u4e2d\u6b63\u5340"
+            }, 
+            {
+              "region": "\u65b0\u5317\u5e02", 
+              "locality": "\u91d1\u5c71\u5340"
+            }, 
+            {
+              "region": "\u65b0\u7af9\u5e02", 
+              "locality": null
+            }, 
+            {
+              "region": "\u65b0\u7af9\u7e23", 
+              "locality": "\u7af9\u6771"
+            }, 
+            {
+              "region": "\u96f2\u6797\u7e23", 
+              "locality": "\u864e\u5c3e"
+            }, 
+            {
+              "region": "\u96f2\u6797\u7e23", 
+              "locality": "\u6597\u516d"
+            }
+          ]
+        }, 
+        "budget": {
+          "value": {
+            "currency": "TWD", 
+            "amount": 9404647864
+          }
+        }, 
+        "procurementAmountRange": "\u5de8\u984d", 
+        "deliveryLocation": [
+          {
+            "description": "\u81fa\u5317\u5e02, \u4e2d\u6b63\u5340"
+          }, 
+          {
+            "description": "\u65b0\u5317\u5e02, \u91d1\u5c71\u5340"
+          }, 
+          {
+            "description": null
+          }, 
+          {
+            "description": "\u65b0\u7af9\u7e23, \u7af9\u6771"
+          }, 
+          {
+            "description": "\u96f2\u6797\u7e23, \u864e\u5c3e"
+          }, 
+          {
+            "description": "\u96f2\u6797\u7e23, \u6597\u516d"
+          }
+        ], 
+        "tederPeriod": {
+          "startDate": "2013-12-26", 
+          "endDate": "2014-01-14", 
+          "announceTimes": "03"
+        }, 
+        "tenderers": [
+          {
+            "id": "8c29bb4b5c877dafea323f9e28046fba", 
+            "name": ""
+          }, 
+          {
+            "id": "de23a3b7e50447d37c0058fbb5e6e999", 
+            "name": ""
+          }, 
+          {
+            "id": "e931746e0506916a1fc869da4f563ef3", 
+            "name": ""
+          }, 
+          {
+            "id": "244316568a6118351ec61c27fa9ec9c0", 
+            "name": ""
+          }, 
+          {
+            "id": "d7de6e5bf9d70df3b602a5b31c7d6b8e", 
+            "name": ""
+          }, 
+          {
+            "id": "dd3da78e278d7d989eead736a7a53131", 
+            "name": ""
+          }, 
+          {
+            "id": "73b4e2a1aebbae23c89d56f6dcfda51a", 
+            "name": ""
+          }, 
+          {
+            "id": "dce458a425f293dac26f76888a9d5915", 
+            "name": ""
+          }, 
+          {
+            "id": "ac80b283e5e1bb03b4dfa48b4ba8154f", 
+            "name": ""
+          }, 
+          {
+            "id": "08fb12fdae3bcb717295c0f80501639c", 
+            "name": ""
+          }
+        ], 
+        "identifier": {
+          "id": "3.9.20.1", 
+          "legalName": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+        }, 
+        "id": "ocid-6as3t2-51181645-tender", 
+        "executingEntity": {
+          "identifier": {
+            "id": "3.9.20.1", 
+            "legalName": "\u570b\u7acb\u81fa\u7063\u5927\u5b78\u91ab\u5b78\u9662\u9644\u8a2d\u91ab\u9662"
+          }
+        }, 
+        "procuringEntity": {
+          "id": "d886c983644a0fd3f63d3ad66a9a142d", 
+          "name": ""
+        }
+      }, 
+      "validationErrors": "properties/tag/type: 'awardNotice' is not of type 'array'", 
+      "id": "ocid-6as3t2-51181645"
+    }
+  ], 
+  "compiledRelease": {
+    "name": "Case10302drugtender.", 
+    "language": "zh", 
+    "buyer": {
+      "id": "1c6ff661142ef0d7f93e753ca460d8b4", 
+      "name": ""
+    }, 
+    "ocid": "ocid-6as3t2-51181645", 
+    "committee": {
+      "id": "ocid-6as3t2-51181645-committee"
+    }, 
+    "packageInfo": {
+      "publisher": "DSP,Inc.", 
+      "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02", 
+      "publishedDate": "2015-12-01"
+    }, 
+    "validationErrors": "properties/tag/type: 'awardNotice' is not of type 'array'", 
+    "tag": [
+      "compiled"
+    ], 
+    "awards": {
+      "totalAwardValue": {
+        "currency": "TWD", 
+        "amount": null
+      }, 
+      "items": [
+        {
+          "suppliers": [
+            {
+              "employeeExceedOneHundred": true, 
+              "contractPeriod": {
+                "startDate": "2014-01-25", 
+                "endDate": "2015-12-31"
+              }, 
+              "number": 1, 
+              "minValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "awardValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "address": {
+                "postalCode": "104", 
+                "region": "\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u53f0\u5317\u5e02", 
+                "streetAddress": "\u9f8d\u6c5f\u8def335\u865f3\u6a13", 
+                "locality": null
+              }, 
+              "sme": "\u5426\uff0c\u9810\u4f30\u5206\u5305\u4e88\u4e2d\u5c0f\u4f01\u696d\u4e4b\u91d1\u984d 0 \u5143", 
+              "identifier": {
+                "id": "05071926", 
+                "legalName": "\u4e45\u88d5\u4f01\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+              }, 
+              "organizationType": "\u516c\u53f8\u767b\u8a18", 
+              "quantity": 1
+            }, 
+            {
+              "employeeExceedOneHundred": true, 
+              "contractPeriod": {
+                "startDate": "2014-01-25", 
+                "endDate": "2015-12-31"
+              }, 
+              "number": 2, 
+              "minValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "awardValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "address": {
+                "postalCode": "115", 
+                "region": "\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u53f0\u5317\u5e02", 
+                "streetAddress": "\u5824\u9802\u5927\u9053\u4e8c\u6bb5407\u5df722\u865f10\u6a13", 
+                "locality": null
+              }, 
+              "sme": "\u5426\uff0c\u9810\u4f30\u5206\u5305\u4e88\u4e2d\u5c0f\u4f01\u696d\u4e4b\u91d1\u984d 0 \u5143", 
+              "identifier": {
+                "id": "70824858", 
+                "legalName": "\u53f0\u7063\u5927\u660c\u83ef\u5609\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+              }, 
+              "organizationType": "\u516c\u53f8\u767b\u8a18", 
+              "quantity": 1
+            }, 
+            {
+              "employeeExceedOneHundred": true, 
+              "contractPeriod": {
+                "startDate": "2014-01-25", 
+                "endDate": "2015-12-31"
+              }, 
+              "number": 3, 
+              "minValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "awardValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "address": {
+                "postalCode": "115", 
+                "region": "\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u53f0\u5317\u5e02", 
+                "streetAddress": "\u88573-1\u865f3\u6a13", 
+                "locality": "\u5712\u5340"
+              }, 
+              "sme": "\u662f", 
+              "identifier": {
+                "id": "11821341", 
+                "legalName": "\u53f0\u7063\u6771\u6d0b\u85e5\u54c1\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+              }, 
+              "organizationType": "\u516c\u53f8\u767b\u8a18", 
+              "quantity": 1
+            }, 
+            {
+              "employeeExceedOneHundred": false, 
+              "contractPeriod": {
+                "startDate": "2014-01-25", 
+                "endDate": "2015-12-31"
+              }, 
+              "number": 4, 
+              "minValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "awardValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "address": {
+                "postalCode": "406", 
+                "region": "\u81fa\u4e2d\u5e02\u5317\u5c6f\u5340\u53f0\u4e2d\u5e02", 
+                "streetAddress": "\u7d8f\u9060\u8def\u4e8c\u6bb5216-5\u865f6\u6a13", 
+                "locality": null
+              }, 
+              "sme": "\u662f", 
+              "identifier": {
+                "id": "16647167", 
+                "legalName": "\u5409\u5e1d\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+              }, 
+              "organizationType": "\u516c\u53f8\u767b\u8a18", 
+              "quantity": 1
+            }, 
+            {
+              "employeeExceedOneHundred": false, 
+              "contractPeriod": {
+                "startDate": "2014-01-25", 
+                "endDate": "2015-12-31"
+              }, 
+              "number": 5, 
+              "minValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "awardValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "address": {
+                "postalCode": "104", 
+                "region": "\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u53f0\u5317\u5e02", 
+                "streetAddress": "\u656c\u696d\u4e00\u8def139\u865f5\u6a13\u4e4b7", 
+                "locality": null
+              }, 
+              "sme": "\u662f", 
+              "identifier": {
+                "id": "89626196", 
+                "legalName": "\u5409\u7a0b\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+              }, 
+              "organizationType": "\u516c\u53f8\u767b\u8a18", 
+              "quantity": 1
+            }, 
+            {
+              "employeeExceedOneHundred": false, 
+              "contractPeriod": {
+                "startDate": "2014-01-25", 
+                "endDate": "2015-12-31"
+              }, 
+              "number": 6, 
+              "minValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "awardValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "address": {
+                "postalCode": "105", 
+                "region": "\u81fa\u5317\u5e02\u677e\u5c71\u5340\u53f0\u5317\u5e02", 
+                "streetAddress": "\u5357\u4eac\u6771\u8def3\u6bb5338\u5df73\u865f6\u6a13", 
+                "locality": null
+              }, 
+              "sme": "\u662f", 
+              "identifier": {
+                "id": "27554334", 
+                "legalName": "\u6cdb\u6cf0\u91ab\u7642\u7522\u54c1\u6709\u9650\u516c\u53f8"
+              }, 
+              "organizationType": "\u516c\u53f8\u767b\u8a18", 
+              "quantity": 1
+            }, 
+            {
+              "employeeExceedOneHundred": true, 
+              "contractPeriod": {
+                "startDate": "2014-01-25", 
+                "endDate": "2015-12-31"
+              }, 
+              "number": 7, 
+              "minValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "awardValue": {
+                "currency": "TWD", 
+                "amount": null
+              }, 
+              "address": {
+                "postalCode": "105", 
+                "region": "\u81fa\u5317\u5e02\u677e\u5c71\u5340\u53f0\u5317\u5e02", 
+                "streetAddress": "\u6c11\u751f\u6771\u8def\u4e09\u6bb5134\u865f9\u6a13", 
+                "locality": null
+              }, 
+              "sme": "\u662f", 
+              "identifier": {
+                "id": "23167467", 
+                "legalName": "\u7f85\u6c0f\u5927\u85e5\u5ee0\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+              }, 
+              "organizationType": "\u516c\u53f8\u767b\u8a18", 
+              "quantity": 1
+            }
+          ], 
+          "withoutTenderer": [], 
+          "id": 0, 
+          "classification": {
+            "scheme": "CPC", 
+            "description": "<\u8ca1\u7269\u985e>, \u91ab\u85e5\u7522\u54c1", 
+            "id": "352"
+          }, 
+          "number": 7
+        }
+      ], 
+      "awardCriteria": "\u6700\u4f4e\u6a19", 
+      "awardDate": "2014-01-24", 
+      "awardAnnounceDate": "2014-02-10", 
+      "id": "ocid-6as3t2-51181645-awards"
+    }, 
+    "version": "1.1", 
+    "parties": [
+      {
+        "identifier": {
+          "id": "3.9.20.1", 
+          "legalName": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+        }, 
+        "id": "1c6ff661142ef0d7f93e753ca460d8b4", 
+        "roles": [
+          "buyer"
+        ]
+      }, 
+      {
+        "identifier": {
+          "id": "3.9.20.1", 
+          "legalName": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+        }, 
+        "id": "d886c983644a0fd3f63d3ad66a9a142d", 
+        "roles": [
+          "procuringEntity"
+        ]
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "05071926", 
+          "legalName": "\u4e45\u88d5\u4f01\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "8c29bb4b5c877dafea323f9e28046fba", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 1
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "11102308", 
+          "legalName": "\u5929\u884c\u8cbf\u6613\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "de23a3b7e50447d37c0058fbb5e6e999", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 2
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "70824858", 
+          "legalName": "\u53f0\u7063\u5927\u660c\u83ef\u5609\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "e931746e0506916a1fc869da4f563ef3", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 3
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "11821341", 
+          "legalName": "\u53f0\u7063\u6771\u6d0b\u85e5\u54c1\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "244316568a6118351ec61c27fa9ec9c0", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 4
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "16647167", 
+          "legalName": "\u5409\u5e1d\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "d7de6e5bf9d70df3b602a5b31c7d6b8e", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 5
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "89626196", 
+          "legalName": "\u5409\u7a0b\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "dd3da78e278d7d989eead736a7a53131", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 6
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "27554334", 
+          "legalName": "\u6cdb\u6cf0\u91ab\u7642\u7522\u54c1\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "73b4e2a1aebbae23c89d56f6dcfda51a", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 7
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "70374086", 
+          "legalName": "\u83ef\u5b89\u85e5\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "dce458a425f293dac26f76888a9d5915", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 8
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "01010553", 
+          "legalName": "\u91ab\u7642\u8ca1\u5718\u6cd5\u4eba\u53f0\u7063\u8840\u6db2\u57fa\u91d1\u6703"
+        }, 
+        "id": "ac80b283e5e1bb03b4dfa48b4ba8154f", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 9
+      }, 
+      {
+        "organizationType": "\u516c\u53f8\u767b\u8a18", 
+        "identifier": {
+          "id": "23167467", 
+          "legalName": "\u7f85\u6c0f\u5927\u85e5\u5ee0\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }, 
+        "id": "08fb12fdae3bcb717295c0f80501639c", 
+        "roles": [
+          "tenderer"
+        ], 
+        "number": 10
+      }
+    ], 
+    "date": "2014-02-10", 
+    "tender": {
+      "numberOfBids": 10, 
+      "procurementMethod": "\u9078\u64c7\u6027\u62db\u6a19(\u500b\u6848)", 
+      "executingEntity": {
+        "identifier": {
+          "id": "3.9.20.1", 
+          "legalName": "\u570b\u7acb\u81fa\u7063\u5927\u5b78\u91ab\u5b78\u9662\u9644\u8a2d\u91ab\u9662"
+        }
+      }, 
+      "processMethod": "\u81ea\u8fa6", 
+      "items": [
+        {
+          "id": 0, 
+          "classification": {
+            "scheme": "CPC", 
+            "description": "<\u8ca1\u7269\u985e>, \u91ab\u85e5\u7522\u54c1", 
+            "id": "352"
+          }, 
+          "number": 1
+        }
+      ], 
+      "deliveryAddress": {
+        "aboriginalRegion": false, 
+        "addresses": [
+          {
+            "region": "\u81fa\u5317\u5e02", 
+            "id": 0, 
+            "locality": "\u4e2d\u6b63\u5340"
+          }, 
+          {
+            "region": "\u65b0\u5317\u5e02", 
+            "id": 1, 
+            "locality": "\u91d1\u5c71\u5340"
+          }, 
+          {
+            "region": "\u65b0\u7af9\u5e02", 
+            "id": 2, 
+            "locality": null
+          }, 
+          {
+            "region": "\u65b0\u7af9\u7e23", 
+            "id": 3, 
+            "locality": "\u7af9\u6771"
+          }, 
+          {
+            "region": "\u96f2\u6797\u7e23", 
+            "id": 4, 
+            "locality": "\u864e\u5c3e"
+          }, 
+          {
+            "region": "\u96f2\u6797\u7e23", 
+            "id": 5, 
+            "locality": "\u6597\u516d"
+          }
+        ]
+      }, 
+      "budget": {
+        "value": {
+          "currency": "TWD", 
+          "amount": 9404647864
+        }
+      }, 
+      "procurementAmountRange": "\u5de8\u984d", 
+      "awardCriteria": "\u6700\u4f4e\u6a19", 
+      "tederPeriod": {
+        "endDate": "2014-01-14", 
+        "announceTimes": "03", 
+        "startDate": "2013-12-26"
+      }, 
+      "tenderers": [
+        {
+          "id": "8c29bb4b5c877dafea323f9e28046fba", 
+          "name": ""
+        }, 
+        {
+          "id": "de23a3b7e50447d37c0058fbb5e6e999", 
+          "name": ""
+        }, 
+        {
+          "id": "e931746e0506916a1fc869da4f563ef3", 
+          "name": ""
+        }, 
+        {
+          "id": "244316568a6118351ec61c27fa9ec9c0", 
+          "name": ""
+        }, 
+        {
+          "id": "d7de6e5bf9d70df3b602a5b31c7d6b8e", 
+          "name": ""
+        }, 
+        {
+          "id": "dd3da78e278d7d989eead736a7a53131", 
+          "name": ""
+        }, 
+        {
+          "id": "73b4e2a1aebbae23c89d56f6dcfda51a", 
+          "name": ""
+        }, 
+        {
+          "id": "dce458a425f293dac26f76888a9d5915", 
+          "name": ""
+        }, 
+        {
+          "id": "ac80b283e5e1bb03b4dfa48b4ba8154f", 
+          "name": ""
+        }, 
+        {
+          "id": "08fb12fdae3bcb717295c0f80501639c", 
+          "name": ""
+        }
+      ], 
+      "identifier": {
+        "id": "3.9.20.1", 
+        "legalName": "NATIONALTAIWANUNIVERSITYHOSPITAL"
+      }, 
+      "id": "ocid-6as3t2-51181645-tender", 
+      "deliveryLocation": [
+        {
+          "id": 0, 
+          "description": "\u81fa\u5317\u5e02, \u4e2d\u6b63\u5340"
+        }, 
+        {
+          "id": 1, 
+          "description": "\u65b0\u5317\u5e02, \u91d1\u5c71\u5340"
+        }, 
+        {
+          "id": 2, 
+          "description": null
+        }, 
+        {
+          "id": 3, 
+          "description": "\u65b0\u7af9\u7e23, \u7af9\u6771"
+        }, 
+        {
+          "id": 4, 
+          "description": "\u96f2\u6797\u7e23, \u864e\u5c3e"
+        }, 
+        {
+          "id": 5, 
+          "description": "\u96f2\u6797\u7e23, \u6597\u516d"
+        }
+      ], 
+      "procuringEntity": {
+        "id": "d886c983644a0fd3f63d3ad66a9a142d", 
+        "name": ""
+      }
+    }, 
+    "id": "ocid-6as3t2-51181645"
+  }
+}

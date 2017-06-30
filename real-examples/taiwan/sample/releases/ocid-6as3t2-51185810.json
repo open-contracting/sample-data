@@ -1,0 +1,203 @@
+{
+  "ocid": "ocid-6as3t2-51185810",
+  "id": "ocid-6as3t2-51185810",
+  "date": "2014-02-17",
+  "language": "zh",
+  "tag": "awardNotice",
+  "parties": [
+    {
+      "identifier": {
+        "id": "A.21.4",
+        "legalName": "\u885b\u751f\u798f\u5229\u90e8\u570b\u6c11\u5065\u5eb7\u7f72"
+      },
+      "id": "f6bab4a7f338486a7fa752620e6342f0",
+      "roles": [
+        "buyer"
+      ]
+    },
+    {
+      "identifier": {
+        "id": "A.21.4",
+        "legalName": "\u885b\u751f\u798f\u5229\u90e8\u570b\u6c11\u5065\u5eb7\u7f72"
+      },
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "0bc3b0da28cd5ba25358464868637c4a"
+    },
+    {
+      "identifier": {
+        "id": "21100531",
+        "legalName": "\u53f0\u7063\u516c\u5171\u885b\u751f\u5b78\u6703"
+      },
+      "organizationType": "\u5176\u4ed6",
+      "number": 1,
+      "roles": [
+        "tenderer"
+      ],
+      "id": "ac2cb721eb007d02b0fd4a31fcd4fc45"
+    }
+  ],
+  "name": "\u53f0\u7063\u51fa\u751f\u4e16\u4ee3\u7814\u7a76\u898f\u5283\u8a2d\u8a08\u8207\u7814\u7a76\u5206\u6790\u8a08\u756b",
+  "buyer": {
+    "id": "f6bab4a7f338486a7fa752620e6342f0",
+    "name": ""
+  },
+  "tender": {
+    "id": "ocid-6as3t2-51185810-tender",
+    "identifier": {
+      "id": "A.21.4",
+      "legalName": "\u885b\u751f\u798f\u5229\u90e8\u570b\u6c11\u5065\u5eb7\u7f72"
+    },
+    "procurementMethod": "\u9650\u5236\u6027\u62db\u6a19(\u7d93\u516c\u958b\u8a55\u9078\u6216\u516c\u958b\u5fb5\u6c42)",
+    "tenderers": [
+      {
+        "id": "ac2cb721eb007d02b0fd4a31fcd4fc45",
+        "name": ""
+      }
+    ],
+    "tederPeriod": {
+      "startDate": "2013-12-24",
+      "endDate": "2014-01-09",
+      "announceTimes": "01"
+    },
+    "numberOfBids": 1,
+    "processMethod": "\u81ea\u8fa6",
+    "deliveryAddress": {
+      "addresses": [
+        {
+          "region": "\u81fa\u4e2d\u5e02",
+          "locality": "\u897f\u5340"
+        }
+      ],
+      "aboriginalRegion": false
+    },
+    "executingEntity": {
+      "identifier": {
+        "id": "A.21.4",
+        "legalName": "\u885b\u751f\u798f\u5229\u90e8\u570b\u6c11\u5065\u5eb7\u7f72"
+      }
+    },
+    "deliveryLocation": [
+      {
+        "description": "\u81fa\u4e2d\u5e02, \u897f\u5340"
+      }
+    ],
+    "procuringEntity": {
+      "id": "0bc3b0da28cd5ba25358464868637c4a",
+      "name": ""
+    },
+    "budget": {
+      "value": {
+        "amount": 3000000,
+        "currency": "TWD"
+      }
+    },
+    "awardCriteria": "\u6e96\u7528\u6700\u6709\u5229\u6a19",
+    "procurementAmountRange": "\u67e5\u6838\u91d1\u984d\u4ee5\u4e0a\u672a\u9054\u5de8\u984d",
+    "items": [
+      {
+        "classification": {
+          "id": "85",
+          "description": "<\u52de\u52d9\u985e>, \u7814\u767c\u670d\u52d9",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ]
+  },
+  "awards": {
+    "awardAnnounceDate": "2014-02-17",
+    "awardDate": "2014-02-07",
+    "id": "ocid-6as3t2-51185810-awards",
+    "awardCriteria": "\u6e96\u7528\u6700\u6709\u5229\u6a19",
+    "totalAwardValue": {
+      "amount": 2750000,
+      "currency": "TWD"
+    },
+    "items": [
+      {
+        "withoutTenderer": [],
+        "classification": {
+          "id": "85",
+          "description": "<\u52de\u52d9\u985e>, \u7814\u767c\u670d\u52d9",
+          "scheme": "CPC"
+        },
+        "suppliers": [
+          {
+            "address": {
+              "region": "\u81fa\u5317\u5e02",
+              "postalCode": "100",
+              "locality": "\u4e2d\u6b63\u5340",
+              "streetAddress": "\u5f90\u5dde\u8def17\u865f"
+            },
+            "awardValue": {
+              "amount": 2750000,
+              "currency": "TWD"
+            },
+            "quantity": 1,
+            "employeeExceedOneHundred": false,
+            "number": 1,
+            "identifier": {
+              "id": "21100531",
+              "legalName": "\u53f0\u7063\u516c\u5171\u885b\u751f\u5b78\u6703"
+            },
+            "minValue": {
+              "amount": 2750000,
+              "currency": "TWD"
+            },
+            "contractPeriod": {
+              "startDate": "2014-02-07",
+              "endDate": "2014-12-31"
+            },
+            "organizationType": "\u5176\u4ed6",
+            "sme": "\u5426\uff0c\u9810\u4f30\u5206\u5305\u4e88\u4e2d\u5c0f\u4f01\u696d\u4e4b\u91d1\u984d 0 \u5143"
+          }
+        ],
+        "number": 1
+      }
+    ]
+  },
+  "committee": {
+    "id": "ocid-6as3t2-51185810-committee",
+    "member": [
+      {
+        "name": "\u9673\u9e97\u5a1f",
+        "number": 1,
+        "profession": "\u7d44\u9577",
+        "attend": false
+      },
+      {
+        "name": "\u6d2a\u767e\u85b0",
+        "number": 2,
+        "profession": "\u7d44\u9577",
+        "attend": true
+      },
+      {
+        "name": "\u5f35\u65b0\u5100",
+        "number": 3,
+        "profession": "\u570b\u5bb6\u885b\u751f\u7814\u7a76\u9662\u7fa4\u9ad4\u5065\u5eb7\u79d1\u5b78\u7814\u7a76\u6240\u7814\u7a76\u54e1",
+        "attend": true
+      },
+      {
+        "name": "\u8cf4\u5e7c\u73b2",
+        "number": 4,
+        "profession": "\u5df2\u9000\u4f11",
+        "attend": true
+      },
+      {
+        "name": "\u694a\u6587\u5c71",
+        "number": 5,
+        "profession": "\u4e2d\u592e\u7814\u7a76\u9662\u793e\u6703\u5b78\u7814\u7a76\u6240\u7814\u7a76\u54e1",
+        "attend": true
+      }
+    ]
+  },
+  "packageInfo": {
+    "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
+    "publishedDate": "2015-12-01",
+    "publisher": "DSP,Inc."
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tag/type: 'awardNotice' is not of type 'array'"
+}
