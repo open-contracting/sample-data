@@ -1,0 +1,170 @@
+{
+  "language": "uk",
+  "ocid": "ocds-be6bcu-UA-2016-06-07-000066-a",
+  "initiationType": "tender",
+  "date": "2016-11-04T21:59:24.591355+02:00",
+  "tag": [
+    "tender"
+  ],
+  "buyer": {
+    "contactPoint": {
+      "telephone": "380445644409",
+      "url": "http://www.e-tender.biz",
+      "email": "poliklinika_1@ukr.net",
+      "name": "Сіренко Ольга Володимирівна",
+      "faxNumber": "5645509"
+    },
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "26064374",
+      "legalName": "Комунальне некомерційне підприємство \"Консультативно-діагностичний центр №2 Дарницького району м. Києва\""
+    },
+    "name": "Комунальне некомерційне підприємство \"Консультативно-діагностичний центр №2 Дарницького району м. Києва\"",
+    "address": {
+      "countryName": "Україна",
+      "postalCode": "02091",
+      "region": "Київська область",
+      "streetAddress": "Харківське шосе, 121",
+      "locality": "Київ"
+    }
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "status": "unsuccessful",
+    "tenderPeriod": {
+      "startDate": "2016-06-10T07:22:00+00:00",
+      "endDate": "2016-06-15T07:22:00+00:00"
+    },
+    "documents": [
+      {
+        "documentScope": "tender",
+        "format": "text/plain",
+        "url": "https://public.docs.openprocurement.org/get/01721feaac304dd1b724954ff4d9e0ac?Prefix=00002ae3465a48a6a4e6deb82ca09294%2F92f03adf91264a51b7e38ecfe20b8835&KeyID=52462340&Signature=qnUTudLr36Sx%2FfIsdwfb5l%252BYUfyCaclHUY1%2FVpvJ41s%2FzWEHlmJc%2FEbOQ8MX7DAh7T57eg82bBn7m7xDmTFsBQ%253D%253D",
+        "title": "пропозиції фурнітура-стеля.doc",
+        "dateModified": "2016-06-07T10:14:19.389848+03:00",
+        "documentType": "technicalSpecifications",
+        "datePublished": "2016-06-07T10:14:19.389826+03:00",
+        "id": "92f03adf91264a51b7e38ecfe20b8835"
+      }
+    ],
+    "awardPeriod": {
+      "startDate": "2016-06-15T10:23:07.101384+03:00",
+      "endDate": "2016-06-15T10:23:07.101384+03:00"
+    },
+    "description": "Згідно додатку",
+    "title": "Профіль для стелі",
+    "lots": [
+      {
+        "status": "unsuccessful",
+        "title": "Профіль для стелі",
+        "description": "Згідно додатку",
+        "value": {
+          "currency": "UAH",
+          "amount": 3600.0,
+          "valueAddedTaxIncluded": true
+        },
+        "id": "3e95d39a7c054fecb4cd6f4523fe6a4d"
+      }
+    ],
+    "enquiryPeriod": {
+      "startDate": "2016-06-07T10:11:43.806339+03:00",
+      "endDate": "2016-06-10T07:21:00+00:00"
+    },
+    "procurementMethodType": "belowThreshold",
+    "value": {
+      "currency": "UAH",
+      "amount": 3600.0,
+      "valueAddedTaxIncluded": true
+    },
+    "submissionMethod": [
+      "electronicAuction"
+    ],
+    "currentStage": "unsuccessful",
+    "tenderID": "UA-2016-06-07-000066-a",
+    "awardCriteria": "lowestCost",
+    "auctions": [
+      {
+        "minimalStep": {
+          "currency": "UAH",
+          "amount": 36.0,
+          "valueAddedTaxIncluded": true
+        },
+        "relatedLot": "3e95d39a7c054fecb4cd6f4523fe6a4d"
+      },
+      {
+        "minimalStep": {
+          "currency": "UAH",
+          "amount": 36.0,
+          "valueAddedTaxIncluded": true
+        }
+      }
+    ],
+    "items": [
+      {
+        "relatedLot": "3e95d39a7c054fecb4cd6f4523fe6a4d",
+        "description": "Згідно додатку",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Будівельна фурнітура",
+          "id": "44115000-9"
+        },
+        "additionalClassifications": [
+          {
+            "scheme": "ДКПП",
+            "description": "Напівфабрикати з алюмінію та алюмінієвих сплавів",
+            "id": "24.42.2"
+          }
+        ],
+        "deliveryAddress": {
+          "postalCode": "02091",
+          "countryName": "Україна",
+          "streetAddress": "Харківське шосе, 121",
+          "region": "Київська область",
+          "locality": "Київ"
+        },
+        "deliveryDate": {
+          "startDate": "2016-06-16T21:00:00+00:00",
+          "endDate": "2016-07-17T21:00:00+00:00"
+        },
+        "id": "0886288f6ffd4cad8e469ce49ce144eb",
+        "unit": {
+          "scheme": "UNCEFACT",
+          "id": "H87",
+          "name": "piece"
+        },
+        "quantity": 300
+      }
+    ],
+    "id": "00002ae3465a48a6a4e6deb82ca09294",
+    "procuringEntity": {
+      "contactPoint": {
+        "telephone": "380445644409",
+        "url": "http://www.e-tender.biz",
+        "email": "poliklinika_1@ukr.net",
+        "name": "Сіренко Ольга Володимирівна",
+        "faxNumber": "5645509"
+      },
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "26064374",
+        "legalName": "Комунальне некомерційне підприємство \"Консультативно-діагностичний центр №2 Дарницького району м. Києва\""
+      },
+      "name": "Комунальне некомерційне підприємство \"Консультативно-діагностичний центр №2 Дарницького району м. Києва\"",
+      "address": {
+        "countryName": "Україна",
+        "postalCode": "02091",
+        "region": "Київська область",
+        "streetAddress": "Харківське шосе, 121",
+        "locality": "Київ"
+      }
+    }
+  },
+  "id": "23e4c420afc44d8fa2e68ada311a9fe3",
+  "packageInfo": {
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    }
+  }
+}
