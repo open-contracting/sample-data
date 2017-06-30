@@ -1,0 +1,112 @@
+{
+  "ocid": "ocds-a1234567-mt-e860097a1e95d17d137aa66745bca5e6359205d0",
+  "id": "e860097a1e95d17d137aa66745bca5e6359205d0",
+  "date": "2017-05-27T00:00:00-04:00",
+  "language": "fr",
+  "tag": "award",
+  "parties": [
+    {
+      "subOrganisationOf": {
+        "name": null
+      },
+      "identifier": {
+        "id": "ville-marie"
+      },
+      "name": "Ville-Marie",
+      "address": {
+        "countryName": "Canada",
+        "postalCode": "H2Y 1C6",
+        "region": "QC",
+        "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al",
+        "locality": "Montr\u00e9al"
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "3b79da5899a8ee74d4d65dd7b5711137"
+    },
+    {
+      "identifier": {
+        "id": "fonctionnaires"
+      },
+      "name": "Fonctionnaires",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "cd226ba9be78f6160996035e4980eafc"
+    },
+    {
+      "identifier": {
+        "id": "beaudoin-hurens-inc"
+      },
+      "name": "BEAUDOIN HURENS INC.",
+      "address": {},
+      "roles": [
+        "supplier"
+      ],
+      "id": "53fe9d80f666bc77ce91707fc960038c"
+    }
+  ],
+  "awards": [
+    {
+      "items": [
+        {
+          "description": "Honoraires en ing\u00e9nierie pour document pr\u00e9achat - Projet d'ajout de toilettes autonettoyantes. Exploitation des parcs et terrains de jeux. APPROUV\u00c9 PAR : CONVERSIONS, SIMON. ",
+          "id": "",
+          "quantity": 1
+        }
+      ],
+      "suppliers": [
+        {
+          "id": "53fe9d80f666bc77ce91707fc960038c",
+          "name": "BEAUDOIN HURENS INC."
+        }
+      ],
+      "repartition": null,
+      "value": {
+        "currency": "CAD",
+        "amount": 2208.41
+      },
+      "date": "2017-05-27T00:00:00-04:00",
+      "id": "1104570"
+    }
+  ],
+  "buyer": {
+    "id": "3b79da5899a8ee74d4d65dd7b5711137",
+    "name": "Ville-Marie"
+  },
+  "tender": {
+    "status": "complete",
+    "procurementMethodRationale": "contract",
+    "procuringEntity": {
+      "id": "cd226ba9be78f6160996035e4980eafc",
+      "name": "Fonctionnaires"
+    }
+  },
+  "subject": [
+    "Autres"
+  ],
+  "packageInfo": {
+    "uri": "http://ville.montreal.qc.ca/api/releases.json?limit=10",
+    "publishedDate": "2017-06-30T06:32:13.512560",
+    "publisher": {
+      "contactPoint": {
+        "telephone": "",
+        "url": "http://ville.montreal.qc.ca/",
+        "faxNumber": "",
+        "name": "Bureau de la Ville Intelligente",
+        "email": "villeintelligente@ville.montreal.qc.ca"
+      },
+      "name": "Ville de Montr\u00e9al",
+      "address": {
+        "postalCode": "H2Y1C6",
+        "countryName": "Canada",
+        "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al",
+        "region": "QC",
+        "locality": "Montr\u00e9al"
+      }
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tag/type: 'award' is not of type 'array'"
+}
