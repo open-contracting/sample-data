@@ -1,0 +1,112 @@
+{
+  "ocid": "ocds-a1234567-mt-cf3441e56f93ed8ba552e2d0494d24f45b1b4372",
+  "id": "cf3441e56f93ed8ba552e2d0494d24f45b1b4372",
+  "date": "2017-05-27T00:00:00-04:00",
+  "language": "fr",
+  "tag": "award",
+  "parties": [
+    {
+      "subOrganisationOf": {
+        "name": null
+      },
+      "identifier": {
+        "id": "grands-parcs-verdissement-et-mont-royal"
+      },
+      "name": "Grands parcs, verdissement et mont Royal",
+      "address": {
+        "countryName": "Canada",
+        "postalCode": "H2Y 1C6",
+        "region": "QC",
+        "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al",
+        "locality": "Montr\u00e9al"
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "44f5c74072ff6937fc42a29165dedb14"
+    },
+    {
+      "identifier": {
+        "id": "fonctionnaires"
+      },
+      "name": "Fonctionnaires",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "cd226ba9be78f6160996035e4980eafc"
+    },
+    {
+      "identifier": {
+        "id": "9341-9901-quebec-inc"
+      },
+      "name": "9341-9901 QUEBEC INC.",
+      "address": {},
+      "roles": [
+        "supplier"
+      ],
+      "id": "9216f7e9e92f36a6d3ab887921b60ccd"
+    }
+  ],
+  "awards": [
+    {
+      "items": [
+        {
+          "description": "16-1721: Services professionnels pour la r\u00e9alisation d\u00bfanalyses d\u00bfimpacts sur la circulation dans le cadre du r\u00e9am\u00e9nagement des \u00eelots I & II du square Viger. Charg\u00e9 de dossier: Wade Eide. Entretien et am\u00e9nag. des parcs et terrains de jeux. APPROUV\u00c9 PAR : CONVERSIONS, SIMON. ",
+          "id": "",
+          "quantity": 1
+        }
+      ],
+      "suppliers": [
+        {
+          "id": "9216f7e9e92f36a6d3ab887921b60ccd",
+          "name": "9341-9901 QUEBEC INC."
+        }
+      ],
+      "repartition": null,
+      "value": {
+        "currency": "CAD",
+        "amount": 2275.6
+      },
+      "date": "2017-05-27T00:00:00-04:00",
+      "id": "1155894"
+    }
+  ],
+  "buyer": {
+    "id": "44f5c74072ff6937fc42a29165dedb14",
+    "name": "Grands parcs, verdissement et mont Royal"
+  },
+  "tender": {
+    "status": "complete",
+    "procurementMethodRationale": "contract",
+    "procuringEntity": {
+      "id": "cd226ba9be78f6160996035e4980eafc",
+      "name": "Fonctionnaires"
+    }
+  },
+  "subject": [
+    "Autres"
+  ],
+  "packageInfo": {
+    "uri": "http://ville.montreal.qc.ca/api/releases.json?limit=10",
+    "publishedDate": "2017-06-30T06:32:13.512560",
+    "publisher": {
+      "contactPoint": {
+        "telephone": "",
+        "url": "http://ville.montreal.qc.ca/",
+        "faxNumber": "",
+        "name": "Bureau de la Ville Intelligente",
+        "email": "villeintelligente@ville.montreal.qc.ca"
+      },
+      "name": "Ville de Montr\u00e9al",
+      "address": {
+        "postalCode": "H2Y1C6",
+        "countryName": "Canada",
+        "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al",
+        "region": "QC",
+        "locality": "Montr\u00e9al"
+      }
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tag/type: 'award' is not of type 'array'"
+}
