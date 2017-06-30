@@ -40,7 +40,6 @@ def main():
                       help='Fetch all records, rather than a small extract')
     (options, args) = parser.parse_args()
     BASE = 'https://buyandsell.gc.ca'
-    '/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json'
     if options.all:
         # No new data is being published, so just get the four
         # years that exist.
