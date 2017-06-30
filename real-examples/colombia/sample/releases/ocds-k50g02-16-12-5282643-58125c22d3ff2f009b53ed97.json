@@ -1,0 +1,263 @@
+{
+  "ocid": "ocds-k50g02-16-12-5282643",
+  "id": "58125c22d3ff2f009b53ed97",
+  "date": "2016-06-30T15:24:39.000000Z",
+  "language": "es",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "NIT",
+        "legalName": "BOGOT\u00c1 D.C. - INSTITUTO DISTRITAL DE PARTICIPACION Y ACCION COMUNAL"
+      },
+      "name": "BOGOT\u00c1 D.C. - INSTITUTO DISTRITAL DE PARTICIPACION Y ACCION COMUNAL",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "locality": "Bogot\u00e1 D.C."
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "367a4892c83f9588662fc411bac60d07"
+    },
+    {
+      "identifier": {
+        "scheme": "C\u00e9dula de Ciudadan\u00eda",
+        "id": "79811536",
+        "legalName": "OSCAR JAVIER CASTEBLANCO BELTRAN"
+      },
+      "name": "OSCAR JAVIER CASTEBLANCO BELTRAN",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "streetAddress": "AV JIMENEZ No 8A-77"
+      },
+      "roles": [
+        "supplier"
+      ],
+      "id": "4d8dd6e5aeb92887be115c2117703bf8"
+    }
+  ],
+  "num_constancia": "16-12-5282643",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=16-12-5282643",
+  "publishedDate": "2016-06-30T15:24:39.000000Z",
+  "planning": {
+    "ocid": "ocds-k50g02-16-12-5282643",
+    "information_system": "SECOP I",
+    "budget": {
+      "source": "http://www.minhacienda.gov.co/HomeMinhacienda/siif",
+      "amount": {
+        "currency": "COP",
+        "amount": 5000000.0
+      },
+      "id": " 450 ",
+      "description": "  CDP"
+    },
+    "id": "16-12-5282643"
+  },
+  "tender": {
+    "id": "16-12-5282643",
+    "ocid": "ocds-k50g02-16-12-5282643",
+    "procurementMethod": "limited",
+    "title": "298-2016",
+    "description": "PRESTAR LOS SERVICIOS PROFESIONALES CON AUTONOM\u00cdA T\u00c9CNICA Y ADMINISTRATIVA PARA BRINDAR SOPORTE JUR\u00cdDICO EN LO RELACIONADO A LOS REQUERIMIENTOS Y PETICIONES PRESENTADAS POR LOS CIUDADANOS AL IDPAC.",
+    "enquiryPeriod": {},
+    "value": {
+      "currency": "COP",
+      "amount": 5000000.0
+    },
+    "status": "complete",
+    "items": [
+      {
+        "id": 801117,
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Reclutamiento de personal",
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+        },
+        "description": "Reclutamiento de personal"
+      }
+    ],
+    "submissionMethod": [
+      "written"
+    ],
+    "tenderPeriod": {}
+  },
+  "awards": [
+    {
+      "id": 4819170,
+      "ocid": "ocds-k50g02-16-12-5282643",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 5000000.0
+      },
+      "suppliers": [
+        {
+          "id": "4d8dd6e5aeb92887be115c2117703bf8",
+          "name": "OSCAR JAVIER CASTEBLANCO BELTRAN"
+        }
+      ],
+      "items": [
+        {
+          "id": 801117,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Reclutamiento de personal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Reclutamiento de personal"
+        }
+      ]
+    },
+    {
+      "id": 4819170,
+      "ocid": "ocds-k50g02-16-12-5282643",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 5000000.0
+      },
+      "suppliers": [
+        {
+          "id": "4d8dd6e5aeb92887be115c2117703bf8",
+          "name": "OSCAR JAVIER CASTEBLANCO BELTRAN"
+        }
+      ],
+      "items": [
+        {
+          "id": 801117,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Reclutamiento de personal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Reclutamiento de personal"
+        }
+      ]
+    },
+    {
+      "id": 4819170,
+      "ocid": "ocds-k50g02-16-12-5282643",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 5000000.0
+      },
+      "suppliers": [
+        {
+          "id": "4d8dd6e5aeb92887be115c2117703bf8",
+          "name": "OSCAR JAVIER CASTEBLANCO BELTRAN"
+        }
+      ],
+      "items": [
+        {
+          "id": 801117,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Reclutamiento de personal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Reclutamiento de personal"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "298-2016",
+      "ocid": "ocds-k50g02-16-12-5282643",
+      "awardID": "4819170",
+      "status": "active",
+      "period": {
+        "startDate": "2016-06-27T00:00:00.000000Z",
+        "endDate": "2016-07-27T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 5000000.0
+      },
+      "items": [
+        {
+          "id": 801117,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Reclutamiento de personal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Reclutamiento de personal"
+        }
+      ],
+      "dateSigned": "2016-06-27T00:00:00.000000Z",
+      "documents": [
+        {
+          "id": "20241468.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5282643_01002008_20241468.pdf",
+          "description": "298-2016",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002008/16-12-5282643/C_PROCESO_16-12-5282643_01002008_20241468.pdf",
+          "datePublished": "2016-06-30T15:26:53.000000Z",
+          "dateModified": "2016-06-30T15:26:53.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282643"
+        },
+        {
+          "id": "20241468.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5282643_01002008_20241468.pdf",
+          "description": "298-2016",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002008/16-12-5282643/C_PROCESO_16-12-5282643_01002008_20241468.pdf",
+          "datePublished": "2016-06-30T15:26:53.000000Z",
+          "dateModified": "2016-06-30T15:26:53.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282643"
+        }
+      ]
+    },
+    {
+      "id": "298-2016",
+      "ocid": "ocds-k50g02-16-12-5282643",
+      "awardID": "4819170",
+      "status": "active",
+      "period": {
+        "startDate": "2016-06-27T00:00:00.000000Z",
+        "endDate": "2016-07-27T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 5000000.0
+      },
+      "items": [
+        {
+          "id": 801117,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Reclutamiento de personal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Reclutamiento de personal"
+        }
+      ],
+      "dateSigned": "2016-06-27T00:00:00.000000Z"
+    }
+  ],
+  "buyer": {
+    "id": "367a4892c83f9588662fc411bac60d07",
+    "name": "BOGOT\u00c1 D.C. - INSTITUTO DISTRITAL DE PARTICIPACION Y ACCION COMUNAL"
+  },
+  "procurement_type": "Contrataci\u00f3n Directa (Ley 1150 de 2007)",
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": null,
+    "publisher": {
+      "name": "Colombia Compra",
+      "uri": "https://www.colombiacompra.gov.co/"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/awards/uniqueItems: [{'id': 4819170, 'ocid': 'ocds-k50g02-16-12-5282643', 'status': 'active', 'value': {'currency': 'COP', 'amount': 5000000.0}, 'suppliers': [{'id': '4d8dd6e5aeb92887be115c2117703bf8', 'name': 'OSCAR JAVIER CASTEBLANCO BELTRAN'}], 'items': [{'id': 801117, 'classification': {'scheme': 'UNSPSC', 'description': 'Reclutamiento de personal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Reclutamiento de personal'}]}, {'id': 4819170, 'ocid': 'ocds-k50g02-16-12-5282643', 'status': 'active', 'value': {'currency': 'COP', 'amount': 5000000.0}, 'suppliers': [{'id': '4d8dd6e5aeb92887be115c2117703bf8', 'name': 'OSCAR JAVIER CASTEBLANCO BELTRAN'}], 'items': [{'id': 801117, 'classification': {'scheme': 'UNSPSC', 'description': 'Reclutamiento de personal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Reclutamiento de personal'}]}, {'id': 4819170, 'ocid': 'ocds-k50g02-16-12-5282643', 'status': 'active', 'value': {'currency': 'COP', 'amount': 5000000.0}, 'suppliers': [{'id': '4d8dd6e5aeb92887be115c2117703bf8', 'name': 'OSCAR JAVIER CASTEBLANCO BELTRAN'}], 'items': [{'id': 801117, 'classification': {'scheme': 'UNSPSC', 'description': 'Reclutamiento de personal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Reclutamiento de personal'}]}] has non-unique elements"
+}

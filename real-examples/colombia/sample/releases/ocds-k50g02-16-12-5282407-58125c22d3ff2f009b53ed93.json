@@ -1,0 +1,353 @@
+{
+  "ocid": "ocds-k50g02-16-12-5282407",
+  "id": "58125c22d3ff2f009b53ed93",
+  "date": "2016-06-30T14:59:57.000000Z",
+  "language": "es",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "NIT",
+        "legalName": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR"
+      },
+      "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "locality": "Bogot\u00e1 D.C."
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "a9fc51f2884d432607e45adea02c893d"
+    },
+    {
+      "identifier": {
+        "scheme": "C\u00e9dula de Ciudadan\u00eda",
+        "id": "36302955",
+        "legalName": "M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf"
+      },
+      "name": "M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "streetAddress": "N.A"
+      },
+      "roles": [
+        "supplier"
+      ],
+      "id": "25bfcd672a0805be53e47d0ab8ebf6a7"
+    }
+  ],
+  "num_constancia": "16-12-5282407",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=16-12-5282407",
+  "publishedDate": "2016-06-30T14:59:57.000000Z",
+  "planning": {
+    "ocid": "ocds-k50g02-16-12-5282407",
+    "information_system": "SECOP I",
+    "budget": {
+      "source": "http://www.minhacienda.gov.co/HomeMinhacienda/siif",
+      "amount": {
+        "currency": "COP",
+        "amount": 45620550.0
+      },
+      "id": " 561 ",
+      "description": "  CDP"
+    },
+    "id": "16-12-5282407"
+  },
+  "tender": {
+    "id": "16-12-5282407",
+    "ocid": "ocds-k50g02-16-12-5282407",
+    "procurementMethod": "limited",
+    "title": "2214100-308-2016",
+    "description": "Prestaci\u00f3n de servicios profesionales en la gesti\u00f3n de la Direcci\u00f3n Jur\u00eddica Distrital y la Subdirecci\u00f3n de Estudios e Inform\u00e1tica Jur\u00eddica para realizar la compilaci\u00f3n normativa  doctrinal y jurisprudencial que contribuyan a la defensa de los intereses p\u00fablicos distritales\u00bf ",
+    "enquiryPeriod": {},
+    "value": {
+      "currency": "COP",
+      "amount": 45620550.0
+    },
+    "status": "complete",
+    "items": [
+      {
+        "id": 801116,
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Servicios de personal temporal",
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+        },
+        "description": "Servicios de personal temporal"
+      }
+    ],
+    "submissionMethod": [
+      "written"
+    ],
+    "tenderPeriod": {}
+  },
+  "awards": [
+    {
+      "id": 4818983,
+      "ocid": "ocds-k50g02-16-12-5282407",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 36302955.0
+      },
+      "suppliers": [
+        {
+          "id": "25bfcd672a0805be53e47d0ab8ebf6a7",
+          "name": "M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4818983,
+      "ocid": "ocds-k50g02-16-12-5282407",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 36302955.0
+      },
+      "suppliers": [
+        {
+          "id": "25bfcd672a0805be53e47d0ab8ebf6a7",
+          "name": "M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4818983,
+      "ocid": "ocds-k50g02-16-12-5282407",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 36302955.0
+      },
+      "suppliers": [
+        {
+          "id": "25bfcd672a0805be53e47d0ab8ebf6a7",
+          "name": "M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "2214100-308-2016",
+      "ocid": "ocds-k50g02-16-12-5282407",
+      "awardID": "4818983",
+      "status": "active",
+      "period": {
+        "startDate": "2016-05-31T00:00:00.000000Z",
+        "endDate": "2016-11-30T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 36302955.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z",
+      "documents": [
+        {
+          "id": "20240895.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5282407_01002003_20240895.pdf",
+          "description": "INFORME",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/DA/01002003/16-12-5282407/DA_PROCESO_16-12-5282407_01002003_20240895.pdf",
+          "datePublished": "2016-06-30T15:11:29.000000Z",
+          "dateModified": "2016-06-30T15:11:29.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        },
+        {
+          "id": "20240773.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5282407_01002003_20240773.pdf",
+          "description": "CONTRATO",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/DA/01002003/16-12-5282407/DA_PROCESO_16-12-5282407_01002003_20240773.pdf",
+          "datePublished": "2016-06-30T15:07:42.000000Z",
+          "dateModified": "2016-06-30T15:07:42.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        },
+        {
+          "id": "20240799.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5282407_01002003_20240799.pdf",
+          "description": "ACTA INICIO",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/DA/01002003/16-12-5282407/DA_PROCESO_16-12-5282407_01002003_20240799.pdf",
+          "datePublished": "2016-06-30T15:08:38.000000Z",
+          "dateModified": "2016-06-30T15:08:38.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        },
+        {
+          "id": "20240733.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5282407_01002003_20240733.pdf",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002003/16-12-5282407/C_PROCESO_16-12-5282407_01002003_20240733.pdf",
+          "datePublished": "2016-06-30T15:06:50.000000Z",
+          "dateModified": "2016-06-30T15:06:50.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        },
+        {
+          "id": "20240895.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5282407_01002003_20240895.pdf",
+          "description": "INFORME",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/DA/01002003/16-12-5282407/DA_PROCESO_16-12-5282407_01002003_20240895.pdf",
+          "datePublished": "2016-06-30T15:11:29.000000Z",
+          "dateModified": "2016-06-30T15:11:29.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        },
+        {
+          "id": "20240773.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5282407_01002003_20240773.pdf",
+          "description": "CONTRATO",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/DA/01002003/16-12-5282407/DA_PROCESO_16-12-5282407_01002003_20240773.pdf",
+          "datePublished": "2016-06-30T15:07:42.000000Z",
+          "dateModified": "2016-06-30T15:07:42.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        },
+        {
+          "id": "20240799.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5282407_01002003_20240799.pdf",
+          "description": "ACTA INICIO",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/DA/01002003/16-12-5282407/DA_PROCESO_16-12-5282407_01002003_20240799.pdf",
+          "datePublished": "2016-06-30T15:08:38.000000Z",
+          "dateModified": "2016-06-30T15:08:38.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        },
+        {
+          "id": "20240733.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5282407_01002003_20240733.pdf",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002003/16-12-5282407/C_PROCESO_16-12-5282407_01002003_20240733.pdf",
+          "datePublished": "2016-06-30T15:06:50.000000Z",
+          "dateModified": "2016-06-30T15:06:50.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5282407"
+        }
+      ]
+    },
+    {
+      "id": "2214100-308-2016",
+      "ocid": "ocds-k50g02-16-12-5282407",
+      "awardID": "4818983",
+      "status": "active",
+      "period": {
+        "startDate": "2016-05-31T00:00:00.000000Z",
+        "endDate": "2016-11-30T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 36302955.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z"
+    },
+    {
+      "id": "2214100-308-2016",
+      "ocid": "ocds-k50g02-16-12-5282407",
+      "awardID": "4818983",
+      "status": "active",
+      "period": {
+        "startDate": "2016-05-31T00:00:00.000000Z",
+        "endDate": "2016-11-30T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 36302955.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z"
+    }
+  ],
+  "buyer": {
+    "id": "a9fc51f2884d432607e45adea02c893d",
+    "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR"
+  },
+  "procurement_type": "Contrataci\u00f3n Directa (Ley 1150 de 2007)",
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": null,
+    "publisher": {
+      "name": "Colombia Compra",
+      "uri": "https://www.colombiacompra.gov.co/"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/awards/uniqueItems: [{'id': 4818983, 'ocid': 'ocds-k50g02-16-12-5282407', 'status': 'active', 'value': {'currency': 'COP', 'amount': 36302955.0}, 'suppliers': [{'id': '25bfcd672a0805be53e47d0ab8ebf6a7', 'name': 'M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4818983, 'ocid': 'ocds-k50g02-16-12-5282407', 'status': 'active', 'value': {'currency': 'COP', 'amount': 36302955.0}, 'suppliers': [{'id': '25bfcd672a0805be53e47d0ab8ebf6a7', 'name': 'M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4818983, 'ocid': 'ocds-k50g02-16-12-5282407', 'status': 'active', 'value': {'currency': 'COP', 'amount': 36302955.0}, 'suppliers': [{'id': '25bfcd672a0805be53e47d0ab8ebf6a7', 'name': 'M\u00d3NICA MAR\u00cdA CABRA BAUTISTA ..\u00bf'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}] has non-unique elements"
+}
