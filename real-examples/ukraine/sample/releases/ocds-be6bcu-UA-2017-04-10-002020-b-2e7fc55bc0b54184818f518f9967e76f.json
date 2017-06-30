@@ -1,0 +1,635 @@
+{
+  "language": "uk",
+  "contracts": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "format": "text/plain",
+          "url": "https://public.docs.openprocurement.org/get/f998ff5b16194efb99830dbc63aeec83?KeyID=52462340&Signature=SqyvnUnrm%2FRYO362vcTjHRhq870b0kAJ0CKLJVkU4fTgVZqkHRh%2FQV1zBG4oDc1F2eDmJp5vdYVsXWmd2tQZCg%253D%253D",
+          "title": "Ващилко.pdf",
+          "dateModified": "2017-05-04T15:48:57.942607+03:00",
+          "documentType": "contractSigned",
+          "datePublished": "2017-05-04T15:48:57.942586+03:00",
+          "id": "c7801cc43f5145ae97701fa6e3f817f3"
+        }
+      ],
+      "description": "Підписаний договір",
+      "items": [
+        {
+          "description": "Кава та чай",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Кава, чай та супутня продукція",
+            "id": "15860000-4"
+          },
+          "deliveryAddress": {
+            "postalCode": "01032",
+            "countryName": "Україна",
+            "streetAddress": "бульвар Т. Шевченка,56",
+            "region": "Київ",
+            "locality": "Київ"
+          },
+          "deliveryDate": {
+            "endDate": "2017-04-30T00:00:00+03:00"
+          },
+          "id": "69493ec2b62c458a93ecc3c90bddbea1",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "NMP",
+            "name": "number of packs"
+          },
+          "quantity": 156
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "380934770898, 380934770898",
+            "email": "sales3@avecoffee.ua",
+            "name": "Молотова Євгенія Олександрівна"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "1992916539",
+            "legalName": "Фізична особа підприємець Ващилко Олександр Петрович"
+          },
+          "name": "Фізична особа підприємець Ващилко Олександр Петрович",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "03191",
+            "region": "Київська область",
+            "streetAddress": "ВУЛИЦЯ ВІЛЬЯМСА, будинок 11, корпус 1, квартира 93",
+            "locality": "Київ"
+          }
+        }
+      ],
+      "contractNumber": "0305",
+      "period": {
+        "endDate": "2017-12-31T00:00:00+02:00"
+      },
+      "dateSigned": "2017-05-03T09:00:00+03:00",
+      "value": {
+        "currency": "UAH",
+        "amount": 8154.0,
+        "valueAddedTaxIncluded": true
+      },
+      "awardID": "efb6f4f12dfd41779404b3f25f70197a",
+      "id": "c1a89042b0854f4aa01916412d290ca2",
+      "contractID": "UA-2017-04-10-002020-b-a1"
+    }
+  ],
+  "ocid": "ocds-be6bcu-UA-2017-04-10-002020-b",
+  "bids": {
+    "details": [
+      {
+        "status": "active",
+        "documents": [
+          {
+            "documentScope": "tender",
+            "format": "text/plain",
+            "url": "https://public.docs.openprocurement.org/get/de20d6330ed64a2f8ae773bb3b65238c?KeyID=52462340&Signature=OdDow%2FB5EId5vDLYfGohgV6io33mGVv2lwyxMu83%2Fd4g7RGQKhimVjXCR1lNU%2Fga7fCBme0El859OP%2FUVWujBw%253D%253D",
+            "title": "Тендерна пропозиція.rar",
+            "dateModified": "2017-04-13T17:52:55.444265+03:00",
+            "documentType": "commercialProposal",
+            "datePublished": "2017-04-13T17:52:55.444244+03:00",
+            "id": "8c1c8c5c7e104b2292cfb57af8ab97e5"
+          }
+        ],
+        "value": {
+          "currency": "UAH",
+          "amount": 8154.0,
+          "valueAddedTaxIncluded": true
+        },
+        "tenderers": [
+          {
+            "contactPoint": {
+              "telephone": "380934770898, 380934770898",
+              "email": "sales3@avecoffee.ua",
+              "name": "Молотова Євгенія Олександрівна"
+            },
+            "identifier": {
+              "scheme": "UA-EDR",
+              "id": "1992916539",
+              "legalName": "Фізична особа підприємець Ващилко Олександр Петрович"
+            },
+            "name": "Фізична особа підприємець Ващилко Олександр Петрович",
+            "address": {
+              "countryName": "Україна",
+              "postalCode": "03191",
+              "region": "Київська область",
+              "streetAddress": "ВУЛИЦЯ ВІЛЬЯМСА, будинок 11, корпус 1, квартира 93",
+              "locality": "Київ"
+            }
+          }
+        ],
+        "date": "2017-04-13T17:51:31.981526+03:00",
+        "id": "1c86310391344b3a84efa5133e2fbf76",
+        "participationUrl": "https://auction.openprocurement.org/tenders/000103a836ea45ab8949cd6fbef95a09/login?bidder_id=1c86310391344b3a84efa5133e2fbf76&hash=f9be590b5de7fad92d518c32b3fa362ae3a72f6f"
+      },
+      {
+        "status": "active",
+        "documents": [
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 2c3f87a673adb01354d1af1e70b79081a10baccb",
+            "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "url": "https://public.docs.openprocurement.org/get/7077426779e24fee8fe66679480f2d6e?KeyID=52462340&Signature=x%252Bh8Cfhm7hN4X2uF8ga5iC54K1tApIAfC%2FzWLpvI7seP7sLnRyT5cVd2NHkii57kqRCFGCOHHS0QnXn4pMbhAg%253D%253D",
+            "title": "ПОЧАЙНА РЕКВІЗИТИ НОВІ.docx",
+            "dateModified": "2017-04-14T12:49:03.990439+03:00",
+            "datePublished": "2017-04-14T12:49:03.990418+03:00",
+            "id": "2a6dbef9a6c3421291e6c017b88e5bc3"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 11d5e5f390322a542af5f82562af48c9326c3139",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/d2d1a46432794453b1714b9efc1906de?KeyID=52462340&Signature=2lrH49k%252BoHjFhmAwxFn4sAcSXxhIjjrWHJ0ss0%2FW0nxghTIZJxetHQAxNKuv5DW2%2Fs0YwVMFB2vPoXrueJPMBA%253D%253D",
+            "title": "Витяг з ПДВ.JPG",
+            "dateModified": "2017-04-14T12:49:04.194314+03:00",
+            "datePublished": "2017-04-14T12:49:04.194293+03:00",
+            "id": "e7fb7d059f614145aeebff574faa30d5"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 8e15a25e0779fb2bbf7e1336d65c24012408d02a",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/bb1d8580de104664b8f7681deac92600?KeyID=52462340&Signature=5ZRDban6Kgovc01L4k1ECkGBjR4974auib%2FMS60XAsJhHbvv%252BCJ%252BywkiguetMXZ%2FViAHoyr7OyURSNywIo1tCg%253D%253D",
+            "title": "Vypyska1.JPG",
+            "dateModified": "2017-04-14T12:49:04.359924+03:00",
+            "datePublished": "2017-04-14T12:49:04.359903+03:00",
+            "id": "4a32108a9e184394bb7172c485f14f09"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 459465adfd6c8ad149ec206f4c8a5c996ae2ce9c",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/65a79a987a174bdcb686fb6cf954cf49?KeyID=52462340&Signature=RQXB%2FIHgTLq7Sm15R69q7rVR0RHIY5np%252BKtbKho%252Bf55qv%252BzMMjA9Ftyaw359ow%252BWvNMrUwMDd32Op8ZYr8MvBA%253D%253D",
+            "title": "vypyska2.JPG",
+            "dateModified": "2017-04-14T12:49:04.510419+03:00",
+            "datePublished": "2017-04-14T12:49:04.510398+03:00",
+            "id": "03f6b4bd953949b1988f3f2fb519ee6b"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 0af6bd4bbe20bde0963a860c32ecebcb1b9bcdc0",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/478f19404c4e4eb7840140aee84cd48a?KeyID=52462340&Signature=q%252BR8E3bqMIc9eP3Cpyp76AHdkTgTwhCStkBVilgewtMYDqeXrAJshSGri%252BXCbutQgiwTSkSFm4vtPt%252BwDzpCCg%253D%253D",
+            "title": "Amb зерно1.JPG",
+            "dateModified": "2017-04-14T12:49:04.662376+03:00",
+            "datePublished": "2017-04-14T12:49:04.662339+03:00",
+            "id": "4a2f2e7af9e04bef958a806ab90241bc"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 6fef7b94c5ba191e8986df6efe8883561abab77f",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/10f4ed4ac0b6418ca005aaa8594fb585?KeyID=52462340&Signature=wke1pSboUaY7v1wbrq6S4NMInyPtmDXLbKh%2FiZZZiXCsV4u4G9tOSSc3KqkZYGpcVjx77PfwVnFVjpCobNEfDg%253D%253D",
+            "title": "Amb зерно.JPG",
+            "dateModified": "2017-04-14T12:49:04.819533+03:00",
+            "datePublished": "2017-04-14T12:49:04.819498+03:00",
+            "id": "6ae675a75f4546dd928de9a889a6754c"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: b6789035d77624858b5615f7a626200a7226d9db",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/51e63b87082242fcb296688e314554db?KeyID=52462340&Signature=SzGRqnT4MBi1kbk5CCkcXvB9aUWq9WhdQya3zMG6AuNiG3GHesa4NwErwWKqE3TLy%252BCCvXKs29EPAGl3UGqZAQ%253D%253D",
+            "title": "додаток до сиртифіката (1).JPG",
+            "dateModified": "2017-04-14T12:49:04.967407+03:00",
+            "datePublished": "2017-04-14T12:49:04.967386+03:00",
+            "id": "08be8a660e684515ba4610914033a6eb"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 234e6b35c95aebf861ab312fe0af444c227841e4",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/e9f94fd703a44f91898f7a47c4dc2c8c?KeyID=52462340&Signature=TRpbu3fergvUYc%2FpMalV9t9g7f2oohG9J833v3M3E0d81jEa3vvQ0ATBHCSiPSvId1UZQLaGhTPKiZozBmNsBA%253D%253D",
+            "title": "сертифікат відповідності (1).JPG",
+            "dateModified": "2017-04-14T12:49:05.113769+03:00",
+            "datePublished": "2017-04-14T12:49:05.113733+03:00",
+            "id": "626f7f398cb0499e8fb949d741b67cd7"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 330bd03c40a88a000783ecd68706bcf7c17cb181",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/e8540441ad354fc79f26c65e64308b72?KeyID=52462340&Signature=BhJIPkHKlUGituOWxIbbvaLdWBFs9umSHFMdeMTP7rvxs81YTp8buc3Jwsl9qsLTb%252BIEJYAnS4POEfglEbdQDQ%253D%253D",
+            "title": "СЕС ДЖАФ стр1 до 07.10.19.JPG",
+            "dateModified": "2017-04-14T12:49:05.263839+03:00",
+            "datePublished": "2017-04-14T12:49:05.263807+03:00",
+            "id": "8b1225e33d8940eabbfd98c814e504e2"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 3c2c4dadd7395c1c59f10e05d2937ae49a712bb8",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/9136b7f121aa4d6897c6bc15dbf66ebd?KeyID=52462340&Signature=5seZrP1wXVP1ap0l41e9qfdzrW1JKhKDQkg9vT1niAfadnO2tWyv8I5cnxibCVaoZz647EbznRNqIaLLoKkLBg%253D%253D",
+            "title": "СЕС ДЖАФ стр2 до 07.10.19.JPG",
+            "dateModified": "2017-04-14T12:49:05.436636+03:00",
+            "datePublished": "2017-04-14T12:49:05.436615+03:00",
+            "id": "474ba1928d3d45deb5b3ccc4955e4f6c"
+          },
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 52043a55a8d1be50381fa3bf76845660d18460c7",
+            "format": "image/jpeg",
+            "url": "https://public.docs.openprocurement.org/get/fd5d9534425d4cb08acfb20d14f4b1e5?KeyID=52462340&Signature=JJn7Vb2KgKK0gNpW4ufzp5acdiyDIpySR%2FMv1UFvrD8th8SLkvAGI2kwpoP2PYuR6yGKShArmHOY0ZD6%2FnDFAA%253D%253D",
+            "title": "форма (1).JPG",
+            "dateModified": "2017-04-14T12:49:05.581475+03:00",
+            "datePublished": "2017-04-14T12:49:05.581455+03:00",
+            "id": "edbb5050c6d343e88a4c44cf229f1413"
+          }
+        ],
+        "value": {
+          "currency": "UAH",
+          "amount": 6708.37,
+          "valueAddedTaxIncluded": true
+        },
+        "tenderers": [
+          {
+            "contactPoint": {
+              "telephone": "+380672812503",
+              "email": "Bucci@ukr.net",
+              "name": "Биць Тарас Миронович"
+            },
+            "identifier": {
+              "scheme": "UA-EDR",
+              "id": "30374983",
+              "legalName": "ПП ПОЧАЙНА"
+            },
+            "name": "ПП ПОЧАЙНА",
+            "address": {
+              "countryName": "Україна",
+              "postalCode": "04128",
+              "region": "Київська область",
+              "streetAddress": "вул.Академіка Туполєва, 17 Ж",
+              "locality": "Київ"
+            }
+          }
+        ],
+        "date": "2017-04-14T12:48:27.692049+03:00",
+        "id": "93a9985727cb46969b69b4b9da183c16",
+        "participationUrl": "https://auction.openprocurement.org/tenders/000103a836ea45ab8949cd6fbef95a09/login?bidder_id=93a9985727cb46969b69b4b9da183c16&hash=19e94a90352bb71b95702794d345947fc3cc4d79"
+      }
+    ]
+  },
+  "initiationType": "tender",
+  "date": "2017-05-04T15:53:44.033852+03:00",
+  "tag": [
+    "tender",
+    "award",
+    "contract",
+    "bid"
+  ],
+  "awards": [
+    {
+      "status": "unsuccessful",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "format": "text/plain",
+          "url": "https://public.docs.openprocurement.org/get/de8462458b79440fa116d4a5197656a9?KeyID=52462340&Signature=bprjLxag9Jc6AlSSLMruvN19rpHhTKx8rkw3zFNzuyk9AC7LAgmuZh%252B0Vc%2FrLP75X5ul8P%2FgZvzpe5g8iMbRBg%253D%253D",
+          "title": "Почайна.pdf",
+          "dateModified": "2017-04-19T14:57:24.492862+03:00",
+          "documentType": "awardNotice",
+          "datePublished": "2017-04-19T14:57:24.492841+03:00",
+          "id": "6ec4976d64b14878ab44039f984ce35b"
+        }
+      ],
+      "complaintPeriod": {
+        "startDate": "2017-04-19T14:06:00.543946+03:00",
+        "endDate": "2017-04-21T15:00:48.931102+03:00"
+      },
+      "items": [
+        {
+          "description": "Кава та чай",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Кава, чай та супутня продукція",
+            "id": "15860000-4"
+          },
+          "deliveryAddress": {
+            "postalCode": "01032",
+            "countryName": "Україна",
+            "streetAddress": "бульвар Т. Шевченка,56",
+            "region": "Київ",
+            "locality": "Київ"
+          },
+          "deliveryDate": {
+            "endDate": "2017-04-30T00:00:00+03:00"
+          },
+          "id": "69493ec2b62c458a93ecc3c90bddbea1",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "NMP",
+            "name": "number of packs"
+          },
+          "quantity": 156
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "+380672812503",
+            "email": "Bucci@ukr.net",
+            "name": "Биць Тарас Миронович"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "30374983",
+            "legalName": "ПП ПОЧАЙНА"
+          },
+          "name": "ПП ПОЧАЙНА",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "04128",
+            "region": "Київська область",
+            "streetAddress": "вул.Академіка Туполєва, 17 Ж",
+            "locality": "Київ"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 6708.37,
+        "valueAddedTaxIncluded": true
+      },
+      "date": "2017-04-19T15:00:48.936400+03:00",
+      "id": "8dd13b39bd664853bc67e368b14104f7"
+    },
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "format": "text/plain",
+          "url": "https://public.docs.openprocurement.org/get/e7d6bce4a70f4f0ab78ab6b8cbebdc16?KeyID=52462340&Signature=z%252BZujkgLcweZXmbKzIItKTUmG6nfkDbHp8mpj8vnRB%252BEAgzawjmGzwAYH9nnRuq2QO6DjjEJBs19vTAzvPVSDw%253D%253D",
+          "title": "кава та чай.pdf",
+          "dateModified": "2017-04-21T15:21:16.118436+03:00",
+          "documentType": "awardNotice",
+          "datePublished": "2017-04-21T15:21:16.118400+03:00",
+          "id": "ac025aec9cae4e95aa1b2de6e23cd1ef"
+        }
+      ],
+      "complaintPeriod": {
+        "startDate": "2017-04-19T15:00:48.931649+03:00",
+        "endDate": "2017-04-25T15:23:01.351111+03:00"
+      },
+      "items": [
+        {
+          "description": "Кава та чай",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Кава, чай та супутня продукція",
+            "id": "15860000-4"
+          },
+          "deliveryAddress": {
+            "postalCode": "01032",
+            "countryName": "Україна",
+            "streetAddress": "бульвар Т. Шевченка,56",
+            "region": "Київ",
+            "locality": "Київ"
+          },
+          "deliveryDate": {
+            "endDate": "2017-04-30T00:00:00+03:00"
+          },
+          "id": "69493ec2b62c458a93ecc3c90bddbea1",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "NMP",
+            "name": "number of packs"
+          },
+          "quantity": 156
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "380934770898, 380934770898",
+            "email": "sales3@avecoffee.ua",
+            "name": "Молотова Євгенія Олександрівна"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "1992916539",
+            "legalName": "Фізична особа підприємець Ващилко Олександр Петрович"
+          },
+          "name": "Фізична особа підприємець Ващилко Олександр Петрович",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "03191",
+            "region": "Київська область",
+            "streetAddress": "ВУЛИЦЯ ВІЛЬЯМСА, будинок 11, корпус 1, квартира 93",
+            "locality": "Київ"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 8154.0,
+        "valueAddedTaxIncluded": true
+      },
+      "date": "2017-04-21T15:23:01.359682+03:00",
+      "id": "efb6f4f12dfd41779404b3f25f70197a"
+    }
+  ],
+  "buyer": {
+    "contactPoint": {
+      "telephone": "044235-22-62",
+      "email": "rfntxrf@ukr.net",
+      "name": "Плис Катерина Яківна",
+      "faxNumber": "044235-22-62"
+    },
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "05536797",
+      "legalName": "ДЕРЖАВНИЙ НАВЧАЛЬНИЙ ЗАКЛАД «КИЇВСЬКИЙ ПРОФЕСІЙНИЙ КОЛЕДЖ З ПОСИЛЕНОЮ ВІЙСЬКОВОЮ ТА ФІЗИЧНОЮ ПІДГОТОВКОЮ»"
+    },
+    "name": "ДЕРЖАВНИЙ НАВЧАЛЬНИЙ ЗАКЛАД «КИЇВСЬКИЙ ПРОФЕСІЙНИЙ КОЛЕДЖ З ПОСИЛЕНОЮ ВІЙСЬКОВОЮ ТА ФІЗИЧНОЮ ПІДГОТОВКОЮ»",
+    "address": {
+      "countryName": "Україна",
+      "postalCode": "01032",
+      "region": "Київська область",
+      "streetAddress": "бул. Т. Шевчека 56",
+      "locality": "Київ"
+    }
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "status": "complete",
+    "tenderPeriod": {
+      "startDate": "2017-04-13T09:00:00+03:00",
+      "endDate": "2017-04-14T17:00:00+03:00"
+    },
+    "documents": [
+      {
+        "documentScope": "tender",
+        "title": "Кава, чай.docx",
+        "url": "https://public.docs.openprocurement.org/get/485d175b18c947b5b45258d39e93963e?KeyID=52462340&Signature=nDImk1ogL5aK1PCxj3gV%2FBrelMAlCHBhFRK7jYvet81GweYB3BIFAPAEJlf6dMyYyYdcydEvUQQ0bmopIHl8Aw%253D%253D",
+        "format": "text/plain",
+        "dateModified": "2017-04-10T17:33:39.136578+03:00",
+        "datePublished": "2017-04-10T17:33:39.136557+03:00",
+        "id": "a768da3332624a6c839512682178a043"
+      },
+      {
+        "documentScope": "tender",
+        "title": "audit_000103a836ea45ab8949cd6fbef95a09.yaml",
+        "url": "https://public.docs.openprocurement.org/get/3c7969d1f2c7470a8f86bab8f888fa46?KeyID=52462340&Signature=gKEzRmVzLO4c31yIdvEID68uceRxbTOyytgwdGIF5lpz3RkwI8m20MzOUVE4OUYfcogEPvByIHJKJzOBjaESBA%253D%253D",
+        "format": "text/plain",
+        "dateModified": "2017-04-19T14:05:59.210195+03:00",
+        "datePublished": "2017-04-19T14:05:59.210173+03:00",
+        "id": "8832105a912d43ce8e9840c354775351-0"
+      },
+      {
+        "documentScope": "tender",
+        "title": "audit_000103a836ea45ab8949cd6fbef95a09.yaml",
+        "url": "https://public.docs.openprocurement.org/get/df82bd0f6ef84986843ef75ea5c4000a?KeyID=52462340&Signature=xDwRtJ4uBVdYHXEV%252BewNdpaYrfE4JC8R6KwwexbmkNNFQ49fUqgxOECnhv4ttiAZIe9TPCQhmGOE9f50T3jNCg%253D%253D",
+        "format": "text/plain",
+        "dateModified": "2017-04-19T14:06:00.708967+03:00",
+        "datePublished": "2017-04-19T14:05:59.210173+03:00",
+        "id": "8832105a912d43ce8e9840c354775351-1"
+      }
+    ],
+    "awardPeriod": {
+      "startDate": "2017-04-19T14:06:00.541956+03:00",
+      "endDate": "2017-04-21T15:23:01.351662+03:00"
+    },
+    "description": "Згідно додатку № 1",
+    "title": "Кава та чай",
+    "enquiryPeriod": {
+      "startDate": "2017-04-10T17:33:01.695700+03:00",
+      "endDate": "2017-04-12T17:00:00+03:00"
+    },
+    "tenderers": [
+      {
+        "contactPoint": {
+          "telephone": "380934770898, 380934770898",
+          "email": "sales3@avecoffee.ua",
+          "name": "Молотова Євгенія Олександрівна"
+        },
+        "identifier": {
+          "scheme": "UA-EDR",
+          "id": "1992916539",
+          "legalName": "Фізична особа підприємець Ващилко Олександр Петрович"
+        },
+        "name": "Фізична особа підприємець Ващилко Олександр Петрович",
+        "address": {
+          "countryName": "Україна",
+          "postalCode": "03191",
+          "region": "Київська область",
+          "streetAddress": "ВУЛИЦЯ ВІЛЬЯМСА, будинок 11, корпус 1, квартира 93",
+          "locality": "Київ"
+        }
+      },
+      {
+        "contactPoint": {
+          "telephone": "+380672812503",
+          "email": "Bucci@ukr.net",
+          "name": "Биць Тарас Миронович"
+        },
+        "identifier": {
+          "scheme": "UA-EDR",
+          "id": "30374983",
+          "legalName": "ПП ПОЧАЙНА"
+        },
+        "name": "ПП ПОЧАЙНА",
+        "address": {
+          "countryName": "Україна",
+          "postalCode": "04128",
+          "region": "Київська область",
+          "streetAddress": "вул.Академіка Туполєва, 17 Ж",
+          "locality": "Київ"
+        }
+      }
+    ],
+    "procurementMethodType": "belowThreshold",
+    "value": {
+      "currency": "UAH",
+      "amount": 8300.0,
+      "valueAddedTaxIncluded": true
+    },
+    "submissionMethod": [
+      "electronicAuction"
+    ],
+    "procuringEntity": {
+      "contactPoint": {
+        "telephone": "044235-22-62",
+        "email": "rfntxrf@ukr.net",
+        "name": "Плис Катерина Яківна",
+        "faxNumber": "044235-22-62"
+      },
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "05536797",
+        "legalName": "ДЕРЖАВНИЙ НАВЧАЛЬНИЙ ЗАКЛАД «КИЇВСЬКИЙ ПРОФЕСІЙНИЙ КОЛЕДЖ З ПОСИЛЕНОЮ ВІЙСЬКОВОЮ ТА ФІЗИЧНОЮ ПІДГОТОВКОЮ»"
+      },
+      "name": "ДЕРЖАВНИЙ НАВЧАЛЬНИЙ ЗАКЛАД «КИЇВСЬКИЙ ПРОФЕСІЙНИЙ КОЛЕДЖ З ПОСИЛЕНОЮ ВІЙСЬКОВОЮ ТА ФІЗИЧНОЮ ПІДГОТОВКОЮ»",
+      "address": {
+        "countryName": "Україна",
+        "postalCode": "01032",
+        "region": "Київська область",
+        "streetAddress": "бул. Т. Шевчека 56",
+        "locality": "Київ"
+      }
+    },
+    "currentStage": "complete",
+    "tenderID": "UA-2017-04-10-002020-b",
+    "awardCriteria": "lowestCost",
+    "auctions": [
+      {
+        "minimalStep": {
+          "currency": "UAH",
+          "amount": 41.5,
+          "valueAddedTaxIncluded": true
+        },
+        "url": "https://auction.openprocurement.org/tenders/000103a836ea45ab8949cd6fbef95a09",
+        "period": {
+          "startDate": "2017-04-19T13:44:59+03:00",
+          "endDate": "2017-04-19T14:06:00.514743+03:00"
+        }
+      }
+    ],
+    "items": [
+      {
+        "description": "Кава та чай",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Кава, чай та супутня продукція",
+          "id": "15860000-4"
+        },
+        "deliveryAddress": {
+          "postalCode": "01032",
+          "countryName": "Україна",
+          "streetAddress": "бульвар Т. Шевченка,56",
+          "region": "Київ",
+          "locality": "Київ"
+        },
+        "deliveryDate": {
+          "endDate": "2017-04-30T00:00:00+03:00"
+        },
+        "id": "69493ec2b62c458a93ecc3c90bddbea1",
+        "unit": {
+          "scheme": "UNCEFACT",
+          "id": "NMP",
+          "name": "number of packs"
+        },
+        "quantity": 156
+      }
+    ],
+    "id": "000103a836ea45ab8949cd6fbef95a09",
+    "numberOfTenderers": 2,
+    "guarantee": {
+      "currency": "UAH"
+    }
+  },
+  "id": "2e7fc55bc0b54184818f518f9967e76f",
+  "packageInfo": {
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "language": "uk",
+  "contracts": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "title": "sign.p7s",
+          "url": "https://public.docs.openprocurement.org/get/d27572da1bf640dc999f0100e664479f?KeyID=52462340&Signature=TzgdpRpinsRaNMHMak%252B0LGTWZe4dlU%2FoyqlhA7E39sVUowOZ%2FEo%252Bq3asKQXFZFXqwurUdc6o%2F%2F9ziVb9NRy1Dg%253D%253D",
+          "format": "application/pkcs7-signature",
+          "dateModified": "2017-01-31T13:56:34.787727+02:00",
+          "datePublished": "2017-01-31T13:56:34.787707+02:00",
+          "id": "21cb60812d794295a09d643b9f2d3a3c"
+        }
+      ],
+      "description": "постачання товару",
+      "items": [
+        {
+          "description": "Хлібобулочні вироби",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти",
+            "id": "15811000-6"
+          },
+          "deliveryAddress": {
+            "postalCode": "27100",
+            "countryName": "Україна",
+            "streetAddress": "Соборна, 174",
+            "region": "Кіровоградська область",
+            "locality": "Новоукраїнка"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-25T00:00:00+02:00",
+            "endDate": "2017-12-31T00:00:00+02:00"
+          },
+          "id": "e192f669ae79497786b97d64338286f8",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "H87",
+            "name": "piece"
+          },
+          "quantity": 2100
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "380525123671",
+            "email": "step_agro_buh@ukr.net",
+            "name": "Арсірій В. В."
+          },
+          "identifier": {
+            "scheme": "XM-EORI",
+            "id": "31411114",
+            "legalName": "СТОВ \"Степ-Агро\""
+          },
+          "name": "СТОВ \"Степ-Агро\"",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "27100",
+            "region": "Кіровоградська область",
+            "streetAddress": "М. Вороного, 76",
+            "locality": "Новоукраїнка"
+          }
+        }
+      ],
+      "contractNumber": "16/11",
+      "period": {
+        "startDate": "2017-01-25T00:00:00+02:00",
+        "endDate": "2017-12-31T00:00:00+02:00"
+      },
+      "dateSigned": "2017-01-25T00:00:00+02:00",
+      "value": {
+        "currency": "UAH",
+        "amount": 10000.0,
+        "valueAddedTaxIncluded": true
+      },
+      "awardID": "3452b930747f4779be5384d8a9f60fdc",
+      "id": "f2598fb22e9e40bf9e849a5b394aeef6",
+      "contractID": "UA-2017-01-31-001299-b-b1"
+    }
+  ],
+  "ocid": "ocds-be6bcu-UA-2017-01-31-001299-b",
+  "initiationType": "tender",
+  "date": "2017-01-31T13:56:19.496847+02:00",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "awards": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "title": "sign.p7s",
+          "url": "https://public.docs.openprocurement.org/get/bc070459b21d41c6a9d655ff5d2b572f?KeyID=52462340&Signature=HLpLcGGGIzxByidTM22p%252BFfJQPM8zXLZA38XQngYGr2iiq%252BsYmx9xasmZgx9uOqRv2Up9lp91Ouw4bQQcGMSCA%253D%253D",
+          "format": "application/pkcs7-signature",
+          "dateModified": "2017-01-31T13:49:18.339926+02:00",
+          "datePublished": "2017-01-31T13:49:18.339897+02:00",
+          "id": "ae63e26ebd42450890ead245c08cd607"
+        }
+      ],
+      "items": [
+        {
+          "description": "Хлібобулочні вироби",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти",
+            "id": "15811000-6"
+          },
+          "deliveryAddress": {
+            "postalCode": "27100",
+            "countryName": "Україна",
+            "streetAddress": "Соборна, 174",
+            "region": "Кіровоградська область",
+            "locality": "Новоукраїнка"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-25T00:00:00+02:00",
+            "endDate": "2017-12-31T00:00:00+02:00"
+          },
+          "id": "e192f669ae79497786b97d64338286f8",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "H87",
+            "name": "piece"
+          },
+          "quantity": 2100
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "380525123671",
+            "email": "step_agro_buh@ukr.net",
+            "name": "Арсірій В. В."
+          },
+          "identifier": {
+            "scheme": "XM-EORI",
+            "id": "31411114",
+            "legalName": "СТОВ \"Степ-Агро\""
+          },
+          "name": "СТОВ \"Степ-Агро\"",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "27100",
+            "region": "Кіровоградська область",
+            "streetAddress": "М. Вороного, 76",
+            "locality": "Новоукраїнка"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 10000.0,
+        "valueAddedTaxIncluded": true
+      },
+      "date": "2017-01-31T13:51:03.462803+02:00",
+      "id": "3452b930747f4779be5384d8a9f60fdc"
+    }
+  ],
+  "buyer": {
+    "contactPoint": {
+      "telephone": "380525122850",
+      "url": "http://ptu40novoyk.kirovedu.com",
+      "email": "ptu_40@i.ua",
+      "name": "Сербіна Наталія Іванівна",
+      "faxNumber": "0525122850"
+    },
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "03071271",
+      "legalName": "Державний навчальний заклад \"Професійно-технічне училище №40 м.Новоукраїнка\""
+    },
+    "name": "Державний навчальний заклад \"Професійно-технічне училище №40 м.Новоукраїнка\"",
+    "address": {
+      "countryName": "Україна",
+      "postalCode": "27100",
+      "region": "Кіровоградська область",
+      "streetAddress": "Соборна (Леніна) 174",
+      "locality": "Новоукраїнка"
+    }
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "status": "complete",
+    "documents": [
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/6f3eb9a181ff433c87d05c919692f1fb?KeyID=52462340&Signature=w5VrF8Olpf71oGxL1jxmEzxOEh5cDeDiR8fZ2cDuz4dcdOEzzrSzaedkmpOroWKd21ET%2F%2FCe3LgXUP%252BcuikEBQ%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2017-01-31T13:44:20.180835+02:00",
+        "datePublished": "2017-01-31T13:44:20.180794+02:00",
+        "id": "6323a76af0f846eebf38d6d3b8646c9a-0"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/9d5b3c752b0c4b819bc95e02fdead152?KeyID=52462340&Signature=UudPtNWvxozFas2exmnSqJW6MxbB04CcJfBjABCIAGQjvG2TRFl%252B5r%252BDmVDFItgr3E5sAjQjhOJYr%2FPqe%2FsWCg%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2017-01-31T13:50:44.975078+02:00",
+        "datePublished": "2017-01-31T13:44:20.180794+02:00",
+        "id": "6323a76af0f846eebf38d6d3b8646c9a-1"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/b56c12bdb82146f7ae75a4f130e3675b?KeyID=52462340&Signature=rHG8nPDavBkilixhi%2F2HQ%2F2mitU3ow%252BP44Ev0troJS74s1c7xaxtGP%252BnjjqFypC7uVUCTuTIye8GH7LPcv1QCA%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2017-01-31T13:54:23.586427+02:00",
+        "datePublished": "2017-01-31T13:44:20.180794+02:00",
+        "id": "6323a76af0f846eebf38d6d3b8646c9a-2"
+      }
+    ],
+    "description": "Хлібобулочні вироби",
+    "title": "Хлібобулочні вироби",
+    "items": [
+      {
+        "description": "Хлібобулочні вироби",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Хлібопродукти",
+          "id": "15811000-6"
+        },
+        "deliveryAddress": {
+          "postalCode": "27100",
+          "countryName": "Україна",
+          "streetAddress": "Соборна, 174",
+          "region": "Кіровоградська область",
+          "locality": "Новоукраїнка"
+        },
+        "deliveryDate": {
+          "startDate": "2017-01-25T00:00:00+02:00",
+          "endDate": "2017-12-31T00:00:00+02:00"
+        },
+        "id": "e192f669ae79497786b97d64338286f8",
+        "unit": {
+          "scheme": "UNCEFACT",
+          "id": "H87",
+          "name": "piece"
+        },
+        "quantity": 2100
+      }
+    ],
+    "procurementMethodType": "reporting",
+    "value": {
+      "currency": "UAH",
+      "amount": 10000.0,
+      "valueAddedTaxIncluded": true
+    },
+    "currentStage": "complete",
+    "procuringEntity": {
+      "contactPoint": {
+        "telephone": "380525122850",
+        "url": "http://ptu40novoyk.kirovedu.com",
+        "email": "ptu_40@i.ua",
+        "name": "Сербіна Наталія Іванівна",
+        "faxNumber": "0525122850"
+      },
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "03071271",
+        "legalName": "Державний навчальний заклад \"Професійно-технічне училище №40 м.Новоукраїнка\""
+      },
+      "name": "Державний навчальний заклад \"Професійно-технічне училище №40 м.Новоукраїнка\"",
+      "address": {
+        "countryName": "Україна",
+        "postalCode": "27100",
+        "region": "Кіровоградська область",
+        "streetAddress": "Соборна (Леніна) 174",
+        "locality": "Новоукраїнка"
+      }
+    },
+    "id": "000012a8e13d47a082c14c14f96d6678",
+    "tenderID": "UA-2017-01-31-001299-b"
+  },
+  "id": "3d6d6c5cb1834b8c99d086a82ed41ada",
+  "packageInfo": {
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    }
+  }
+}

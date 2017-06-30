@@ -1,0 +1,1236 @@
+{
+  "publisher": {
+    "name": "\u0414\u041f \"\u041f\u0440\u043e\u0437\u043e\u0440\u0440\u043e\""
+  }, 
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+        "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "uk"
+      }
+    ], 
+    "ocid": "ocds-be6bcu-UA-2016-06-07-000066-a", 
+    "packageInfo": {
+      "publisher": {
+        "name": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "\u0414\u041f \"\u041f\u0440\u043e\u0437\u043e\u0440\u0440\u043e\""
+          }
+        ]
+      }, 
+      "uri": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json"
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "2017-06-23T02:10:38.131336+00:00"
+        }
+      ]
+    }, 
+    "initiationType": [
+      {
+        "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+        "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "tender": {
+      "procurementMethod": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "open"
+        }
+      ], 
+      "status": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "unsuccessful"
+        }
+      ], 
+      "tenderPeriod": {
+        "startDate": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2016-06-10T07:22:00+00:00"
+          }
+        ], 
+        "endDate": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2016-06-15T07:22:00+00:00"
+          }
+        ]
+      }, 
+      "currentStage": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "unsuccessful"
+        }
+      ], 
+      "description": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443"
+        }
+      ], 
+      "title": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c \u0434\u043b\u044f \u0441\u0442\u0435\u043b\u0456"
+        }
+      ], 
+      "lots": [
+        {
+          "status": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "unsuccessful"
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c \u0434\u043b\u044f \u0441\u0442\u0435\u043b\u0456"
+            }
+          ], 
+          "id": "3e95d39a7c054fecb4cd6f4523fe6a4d", 
+          "value": {
+            "currency": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "UAH"
+              }
+            ], 
+            "amount": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": 3600.0
+              }
+            ], 
+            "valueAddedTaxIncluded": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": true
+              }
+            ]
+          }, 
+          "description": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443"
+            }
+          ]
+        }
+      ], 
+      "enquiryPeriod": {
+        "startDate": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2016-06-07T10:11:43.806339+03:00"
+          }
+        ], 
+        "endDate": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2016-06-10T07:21:00+00:00"
+          }
+        ]
+      }, 
+      "procurementMethodType": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "belowThreshold"
+        }
+      ], 
+      "value": {
+        "currency": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "UAH"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 3600.0
+          }
+        ], 
+        "valueAddedTaxIncluded": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": true
+          }
+        ]
+      }, 
+      "submissionMethod": [
+        [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "electronicAuction"
+          }
+        ]
+      ], 
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "UA-EDR-26064374"
+          }
+        ], 
+        "name": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+          }
+        ]
+      }, 
+      "awardPeriod": {
+        "startDate": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2016-06-15T10:23:07.101384+03:00"
+          }
+        ], 
+        "endDate": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2016-06-15T10:23:07.101384+03:00"
+          }
+        ]
+      }, 
+      "awardCriteria": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "lowestCost"
+        }
+      ], 
+      "auctions": [
+        {
+          "relatedLot": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "3e95d39a7c054fecb4cd6f4523fe6a4d"
+            }
+          ], 
+          "minimalStep": {
+            "currency": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "UAH"
+              }
+            ], 
+            "amount": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": 36.0
+              }
+            ], 
+            "valueAddedTaxIncluded": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": true
+              }
+            ]
+          }, 
+          "id": 0
+        }, 
+        {
+          "minimalStep": {
+            "currency": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "UAH"
+              }
+            ], 
+            "amount": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": 36.0
+              }
+            ], 
+            "valueAddedTaxIncluded": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": true
+              }
+            ]
+          }, 
+          "id": 1
+        }
+      ], 
+      "items": [
+        {
+          "relatedLot": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "3e95d39a7c054fecb4cd6f4523fe6a4d"
+            }
+          ], 
+          "description": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443"
+            }
+          ], 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "CPV"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "\u0411\u0443\u0434\u0456\u0432\u0435\u043b\u044c\u043d\u0430 \u0444\u0443\u0440\u043d\u0456\u0442\u0443\u0440\u0430"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "44115000-9"
+              }
+            ]
+          }, 
+          "additionalClassifications": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": [
+                {
+                  "scheme": "\u0414\u041a\u041f\u041f", 
+                  "description": "\u041d\u0430\u043f\u0456\u0432\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0442\u0438 \u0437 \u0430\u043b\u044e\u043c\u0456\u043d\u0456\u044e \u0442\u0430 \u0430\u043b\u044e\u043c\u0456\u043d\u0456\u0454\u0432\u0438\u0445 \u0441\u043f\u043b\u0430\u0432\u0456\u0432", 
+                  "id": "24.42.2"
+                }
+              ]
+            }
+          ], 
+          "deliveryAddress": {
+            "countryName": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+              }
+            ], 
+            "postalCode": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "02091"
+              }
+            ], 
+            "region": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+              }
+            ], 
+            "streetAddress": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0435 \u0448\u043e\u0441\u0435, 121"
+              }
+            ], 
+            "locality": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "\u041a\u0438\u0457\u0432"
+              }
+            ]
+          }, 
+          "deliveryDate": {
+            "startDate": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "2016-06-16T21:00:00+00:00"
+              }
+            ], 
+            "endDate": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "2016-07-17T21:00:00+00:00"
+              }
+            ]
+          }, 
+          "id": "0886288f6ffd4cad8e469ce49ce144eb", 
+          "unit": {
+            "scheme": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "UNCEFACT"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "H87"
+              }
+            ], 
+            "name": [
+              {
+                "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+                "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "piece"
+              }
+            ]
+          }, 
+          "quantity": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": 300
+            }
+          ]
+        }
+      ], 
+      "documents": [
+        {
+          "documentScope": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "tender"
+            }
+          ], 
+          "format": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "text/plain"
+            }
+          ], 
+          "url": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "https://public.docs.openprocurement.org/get/01721feaac304dd1b724954ff4d9e0ac?Prefix=00002ae3465a48a6a4e6deb82ca09294%2F92f03adf91264a51b7e38ecfe20b8835&KeyID=52462340&Signature=qnUTudLr36Sx%2FfIsdwfb5l%252BYUfyCaclHUY1%2FVpvJ41s%2FzWEHlmJc%2FEbOQ8MX7DAh7T57eg82bBn7m7xDmTFsBQ%253D%253D"
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u043f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u0457 \u0444\u0443\u0440\u043d\u0456\u0442\u0443\u0440\u0430-\u0441\u0442\u0435\u043b\u044f.doc"
+            }
+          ], 
+          "datePublished": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2016-06-07T10:14:19.389826+03:00"
+            }
+          ], 
+          "documentType": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "technicalSpecifications"
+            }
+          ], 
+          "dateModified": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2016-06-07T10:14:19.389848+03:00"
+            }
+          ], 
+          "id": "92f03adf91264a51b7e38ecfe20b8835"
+        }
+      ], 
+      "id": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "00002ae3465a48a6a4e6deb82ca09294"
+        }
+      ], 
+      "tenderID": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "UA-2016-06-07-000066-a"
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+        "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name": [
+          {
+            "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+            "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "buyer"
+            }
+          ], 
+          [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "procuringEntity"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "02091"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0435 \u0448\u043e\u0441\u0435, 121"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u041a\u0438\u0457\u0432"
+            }
+          ]
+        }, 
+        "contactPoint": {
+          "telephone": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "380445644409"
+            }
+          ], 
+          "url": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "http://www.e-tender.biz"
+            }
+          ], 
+          "email": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "poliklinika_1@ukr.net"
+            }
+          ], 
+          "name": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u0421\u0456\u0440\u0435\u043d\u043a\u043e \u041e\u043b\u044c\u0433\u0430 \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0456\u0432\u043d\u0430"
+            }
+          ], 
+          "faxNumber": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "5645509"
+            }
+          ]
+        }, 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "UA-EDR"
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "26064374"
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+              "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+            }
+          ]
+        }, 
+        "id": "UA-EDR-26064374"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "UA-EDR-26064374"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2016-11-04T21:59:24.591355+02:00", 
+          "releaseID": "23e4c420afc44d8fa2e68ada311a9fe3", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+        }
+      ]
+    }
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "uk", 
+      "ocid": "ocds-be6bcu-UA-2016-06-07-000066-a", 
+      "packageInfo": {
+        "publisher": {
+          "name": "\u0414\u041f \"\u041f\u0440\u043e\u0437\u043e\u0440\u0440\u043e\""
+        }, 
+        "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json", 
+        "publishedDate": "2017-06-23T02:10:38.131336+00:00"
+      }, 
+      "initiationType": "tender", 
+      "buyer": {
+        "id": "UA-EDR-26064374", 
+        "name": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "parties": [
+        {
+          "name": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\"", 
+          "roles": [
+            "buyer", 
+            "procuringEntity"
+          ], 
+          "address": {
+            "countryName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430", 
+            "postalCode": "02091", 
+            "region": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "streetAddress": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0435 \u0448\u043e\u0441\u0435, 121", 
+            "locality": "\u041a\u0438\u0457\u0432"
+          }, 
+          "contactPoint": {
+            "url": "http://www.e-tender.biz", 
+            "faxNumber": "5645509", 
+            "telephone": "380445644409", 
+            "name": "\u0421\u0456\u0440\u0435\u043d\u043a\u043e \u041e\u043b\u044c\u0433\u0430 \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0456\u0432\u043d\u0430", 
+            "email": "poliklinika_1@ukr.net"
+          }, 
+          "identifier": {
+            "scheme": "UA-EDR", 
+            "id": "26064374", 
+            "legalName": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+          }, 
+          "id": "UA-EDR-26064374"
+        }
+      ], 
+      "date": "2016-11-04T21:59:24.591355+02:00", 
+      "tender": {
+        "procurementMethod": "open", 
+        "status": "unsuccessful", 
+        "currentStage": "unsuccessful", 
+        "documents": [
+          {
+            "documentScope": "tender", 
+            "title": "\u043f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u0457 \u0444\u0443\u0440\u043d\u0456\u0442\u0443\u0440\u0430-\u0441\u0442\u0435\u043b\u044f.doc", 
+            "url": "https://public.docs.openprocurement.org/get/01721feaac304dd1b724954ff4d9e0ac?Prefix=00002ae3465a48a6a4e6deb82ca09294%2F92f03adf91264a51b7e38ecfe20b8835&KeyID=52462340&Signature=qnUTudLr36Sx%2FfIsdwfb5l%252BYUfyCaclHUY1%2FVpvJ41s%2FzWEHlmJc%2FEbOQ8MX7DAh7T57eg82bBn7m7xDmTFsBQ%253D%253D", 
+            "format": "text/plain", 
+            "datePublished": "2016-06-07T10:14:19.389826+03:00", 
+            "documentType": "technicalSpecifications", 
+            "id": "92f03adf91264a51b7e38ecfe20b8835", 
+            "dateModified": "2016-06-07T10:14:19.389848+03:00"
+          }
+        ], 
+        "awardCriteria": "lowestCost", 
+        "tenderPeriod": {
+          "startDate": "2016-06-10T07:22:00+00:00", 
+          "endDate": "2016-06-15T07:22:00+00:00"
+        }, 
+        "title": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c \u0434\u043b\u044f \u0441\u0442\u0435\u043b\u0456", 
+        "lots": [
+          {
+            "status": "unsuccessful", 
+            "id": "3e95d39a7c054fecb4cd6f4523fe6a4d", 
+            "description": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443", 
+            "value": {
+              "currency": "UAH", 
+              "amount": 3600.0, 
+              "valueAddedTaxIncluded": true
+            }, 
+            "title": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c \u0434\u043b\u044f \u0441\u0442\u0435\u043b\u0456"
+          }
+        ], 
+        "enquiryPeriod": {
+          "startDate": "2016-06-07T10:11:43.806339+03:00", 
+          "endDate": "2016-06-10T07:21:00+00:00"
+        }, 
+        "procurementMethodType": "belowThreshold", 
+        "value": {
+          "currency": "UAH", 
+          "amount": 3600.0, 
+          "valueAddedTaxIncluded": true
+        }, 
+        "submissionMethod": [
+          "electronicAuction"
+        ], 
+        "procuringEntity": {
+          "id": "UA-EDR-26064374", 
+          "name": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+        }, 
+        "awardPeriod": {
+          "startDate": "2016-06-15T10:23:07.101384+03:00", 
+          "endDate": "2016-06-15T10:23:07.101384+03:00"
+        }, 
+        "tenderID": "UA-2016-06-07-000066-a", 
+        "auctions": [
+          {
+            "minimalStep": {
+              "currency": "UAH", 
+              "amount": 36.0, 
+              "valueAddedTaxIncluded": true
+            }, 
+            "relatedLot": "3e95d39a7c054fecb4cd6f4523fe6a4d"
+          }, 
+          {
+            "minimalStep": {
+              "currency": "UAH", 
+              "amount": 36.0, 
+              "valueAddedTaxIncluded": true
+            }
+          }
+        ], 
+        "items": [
+          {
+            "relatedLot": "3e95d39a7c054fecb4cd6f4523fe6a4d", 
+            "description": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443", 
+            "classification": {
+              "scheme": "CPV", 
+              "description": "\u0411\u0443\u0434\u0456\u0432\u0435\u043b\u044c\u043d\u0430 \u0444\u0443\u0440\u043d\u0456\u0442\u0443\u0440\u0430", 
+              "id": "44115000-9"
+            }, 
+            "additionalClassifications": [
+              {
+                "scheme": "\u0414\u041a\u041f\u041f", 
+                "description": "\u041d\u0430\u043f\u0456\u0432\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0442\u0438 \u0437 \u0430\u043b\u044e\u043c\u0456\u043d\u0456\u044e \u0442\u0430 \u0430\u043b\u044e\u043c\u0456\u043d\u0456\u0454\u0432\u0438\u0445 \u0441\u043f\u043b\u0430\u0432\u0456\u0432", 
+                "id": "24.42.2"
+              }
+            ], 
+            "deliveryAddress": {
+              "postalCode": "02091", 
+              "countryName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430", 
+              "streetAddress": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0435 \u0448\u043e\u0441\u0435, 121", 
+              "region": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+              "locality": "\u041a\u0438\u0457\u0432"
+            }, 
+            "deliveryDate": {
+              "startDate": "2016-06-16T21:00:00+00:00", 
+              "endDate": "2016-07-17T21:00:00+00:00"
+            }, 
+            "id": "0886288f6ffd4cad8e469ce49ce144eb", 
+            "unit": {
+              "scheme": "UNCEFACT", 
+              "id": "H87", 
+              "name": "piece"
+            }, 
+            "quantity": 300
+          }
+        ], 
+        "id": "00002ae3465a48a6a4e6deb82ca09294", 
+        "description": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443"
+      }, 
+      "id": "23e4c420afc44d8fa2e68ada311a9fe3"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "uk", 
+    "ocid": "ocds-be6bcu-UA-2016-06-07-000066-a", 
+    "packageInfo": {
+      "publisher": {
+        "name": "\u0414\u041f \"\u041f\u0440\u043e\u0437\u043e\u0440\u0440\u043e\""
+      }, 
+      "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json", 
+      "publishedDate": "2017-06-23T02:10:38.131336+00:00"
+    }, 
+    "initiationType": "tender", 
+    "buyer": {
+      "id": "UA-EDR-26064374", 
+      "name": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+    }, 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\"", 
+        "roles": [
+          "buyer", 
+          "procuringEntity"
+        ], 
+        "address": {
+          "countryName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430", 
+          "postalCode": "02091", 
+          "region": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+          "streetAddress": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0435 \u0448\u043e\u0441\u0435, 121", 
+          "locality": "\u041a\u0438\u0457\u0432"
+        }, 
+        "contactPoint": {
+          "telephone": "380445644409", 
+          "url": "http://www.e-tender.biz", 
+          "email": "poliklinika_1@ukr.net", 
+          "name": "\u0421\u0456\u0440\u0435\u043d\u043a\u043e \u041e\u043b\u044c\u0433\u0430 \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0456\u0432\u043d\u0430", 
+          "faxNumber": "5645509"
+        }, 
+        "identifier": {
+          "scheme": "UA-EDR", 
+          "id": "26064374", 
+          "legalName": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+        }, 
+        "id": "UA-EDR-26064374"
+      }
+    ], 
+    "date": "2016-11-04T21:59:24.591355+02:00", 
+    "tender": {
+      "procurementMethod": "open", 
+      "status": "unsuccessful", 
+      "tenderPeriod": {
+        "startDate": "2016-06-10T07:22:00+00:00", 
+        "endDate": "2016-06-15T07:22:00+00:00"
+      }, 
+      "currentStage": "unsuccessful", 
+      "description": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443", 
+      "title": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c \u0434\u043b\u044f \u0441\u0442\u0435\u043b\u0456", 
+      "lots": [
+        {
+          "status": "unsuccessful", 
+          "title": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c \u0434\u043b\u044f \u0441\u0442\u0435\u043b\u0456", 
+          "id": "3e95d39a7c054fecb4cd6f4523fe6a4d", 
+          "value": {
+            "currency": "UAH", 
+            "amount": 3600.0, 
+            "valueAddedTaxIncluded": true
+          }, 
+          "description": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443"
+        }
+      ], 
+      "enquiryPeriod": {
+        "startDate": "2016-06-07T10:11:43.806339+03:00", 
+        "endDate": "2016-06-10T07:21:00+00:00"
+      }, 
+      "procurementMethodType": "belowThreshold", 
+      "value": {
+        "currency": "UAH", 
+        "amount": 3600.0, 
+        "valueAddedTaxIncluded": true
+      }, 
+      "submissionMethod": [
+        "electronicAuction"
+      ], 
+      "procuringEntity": {
+        "id": "UA-EDR-26064374", 
+        "name": "\u041a\u043e\u043c\u0443\u043d\u0430\u043b\u044c\u043d\u0435 \u043d\u0435\u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e \"\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e-\u0434\u0456\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u21162 \u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0443 \u043c. \u041a\u0438\u0454\u0432\u0430\""
+      }, 
+      "awardPeriod": {
+        "startDate": "2016-06-15T10:23:07.101384+03:00", 
+        "endDate": "2016-06-15T10:23:07.101384+03:00"
+      }, 
+      "awardCriteria": "lowestCost", 
+      "auctions": [
+        {
+          "relatedLot": "3e95d39a7c054fecb4cd6f4523fe6a4d", 
+          "minimalStep": {
+            "currency": "UAH", 
+            "amount": 36.0, 
+            "valueAddedTaxIncluded": true
+          }, 
+          "id": 0
+        }, 
+        {
+          "minimalStep": {
+            "currency": "UAH", 
+            "amount": 36.0, 
+            "valueAddedTaxIncluded": true
+          }, 
+          "id": 1
+        }
+      ], 
+      "items": [
+        {
+          "relatedLot": "3e95d39a7c054fecb4cd6f4523fe6a4d", 
+          "description": "\u0417\u0433\u0456\u0434\u043d\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443", 
+          "classification": {
+            "scheme": "CPV", 
+            "description": "\u0411\u0443\u0434\u0456\u0432\u0435\u043b\u044c\u043d\u0430 \u0444\u0443\u0440\u043d\u0456\u0442\u0443\u0440\u0430", 
+            "id": "44115000-9"
+          }, 
+          "additionalClassifications": [
+            {
+              "scheme": "\u0414\u041a\u041f\u041f", 
+              "description": "\u041d\u0430\u043f\u0456\u0432\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0442\u0438 \u0437 \u0430\u043b\u044e\u043c\u0456\u043d\u0456\u044e \u0442\u0430 \u0430\u043b\u044e\u043c\u0456\u043d\u0456\u0454\u0432\u0438\u0445 \u0441\u043f\u043b\u0430\u0432\u0456\u0432", 
+              "id": "24.42.2"
+            }
+          ], 
+          "deliveryAddress": {
+            "countryName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430", 
+            "postalCode": "02091", 
+            "region": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "streetAddress": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0435 \u0448\u043e\u0441\u0435, 121", 
+            "locality": "\u041a\u0438\u0457\u0432"
+          }, 
+          "deliveryDate": {
+            "startDate": "2016-06-16T21:00:00+00:00", 
+            "endDate": "2016-07-17T21:00:00+00:00"
+          }, 
+          "id": "0886288f6ffd4cad8e469ce49ce144eb", 
+          "unit": {
+            "scheme": "UNCEFACT", 
+            "id": "H87", 
+            "name": "piece"
+          }, 
+          "quantity": 300
+        }
+      ], 
+      "documents": [
+        {
+          "documentScope": "tender", 
+          "format": "text/plain", 
+          "url": "https://public.docs.openprocurement.org/get/01721feaac304dd1b724954ff4d9e0ac?Prefix=00002ae3465a48a6a4e6deb82ca09294%2F92f03adf91264a51b7e38ecfe20b8835&KeyID=52462340&Signature=qnUTudLr36Sx%2FfIsdwfb5l%252BYUfyCaclHUY1%2FVpvJ41s%2FzWEHlmJc%2FEbOQ8MX7DAh7T57eg82bBn7m7xDmTFsBQ%253D%253D", 
+          "title": "\u043f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u0457 \u0444\u0443\u0440\u043d\u0456\u0442\u0443\u0440\u0430-\u0441\u0442\u0435\u043b\u044f.doc", 
+          "datePublished": "2016-06-07T10:14:19.389826+03:00", 
+          "documentType": "technicalSpecifications", 
+          "dateModified": "2016-06-07T10:14:19.389848+03:00", 
+          "id": "92f03adf91264a51b7e38ecfe20b8835"
+        }
+      ], 
+      "id": "00002ae3465a48a6a4e6deb82ca09294", 
+      "tenderID": "UA-2016-06-07-000066-a"
+    }, 
+    "id": "23e4c420afc44d8fa2e68ada311a9fe3"
+  }
+}
