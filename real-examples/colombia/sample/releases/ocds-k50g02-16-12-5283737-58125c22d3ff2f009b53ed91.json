@@ -1,0 +1,309 @@
+{
+  "ocid": "ocds-k50g02-16-12-5283737",
+  "id": "58125c22d3ff2f009b53ed91",
+  "date": "2016-06-30T17:21:10.000000Z",
+  "language": "es",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "NIT",
+        "legalName": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR"
+      },
+      "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "locality": "Bogot\u00e1 D.C."
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "a9fc51f2884d432607e45adea02c893d"
+    },
+    {
+      "identifier": {
+        "scheme": "C\u00e9dula de Ciudadan\u00eda",
+        "id": "107368068",
+        "legalName": "LEIDY MARCELA PRIETO TORRES."
+      },
+      "name": "LEIDY MARCELA PRIETO TORRES.",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "streetAddress": "na"
+      },
+      "roles": [
+        "supplier"
+      ],
+      "id": "89478064009523b70a530d57d3afb0f4"
+    }
+  ],
+  "num_constancia": "16-12-5283737",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=16-12-5283737",
+  "publishedDate": "2016-06-30T17:21:10.000000Z",
+  "planning": {
+    "ocid": "ocds-k50g02-16-12-5283737",
+    "information_system": "SECOP I",
+    "budget": {
+      "source": "http://www.minhacienda.gov.co/HomeMinhacienda/siif",
+      "amount": {
+        "currency": "COP",
+        "amount": 3649644.0
+      },
+      "id": " 761 ",
+      "description": "  CDP"
+    },
+    "id": "16-12-5283737"
+  },
+  "tender": {
+    "id": "16-12-5283737",
+    "ocid": "ocds-k50g02-16-12-5283737",
+    "procurementMethod": "limited",
+    "title": "2212100-324-2016",
+    "description": "Prestar sus servicios de apoyo para garantizar la oportuna informaci\u00f3n y gu\u00eda a la ciudadan\u00eda que acude a los canales de interacci\u00f3n de la Red CADE de la Direcci\u00f3n Distrital de Servicio al Ciudadano  para la realizaci\u00f3n de sus tr\u00e1mites y servicios. ",
+    "enquiryPeriod": {},
+    "value": {
+      "currency": "COP",
+      "amount": 3649644.0
+    },
+    "status": "complete",
+    "items": [
+      {
+        "id": 801116,
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Servicios de personal temporal",
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+        },
+        "description": "Servicios de personal temporal"
+      }
+    ],
+    "submissionMethod": [
+      "written"
+    ],
+    "tenderPeriod": {}
+  },
+  "awards": [
+    {
+      "id": 4820126,
+      "ocid": "ocds-k50g02-16-12-5283737",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 3649644.0
+      },
+      "suppliers": [
+        {
+          "id": "89478064009523b70a530d57d3afb0f4",
+          "name": "LEIDY MARCELA PRIETO TORRES."
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4820126,
+      "ocid": "ocds-k50g02-16-12-5283737",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 3649644.0
+      },
+      "suppliers": [
+        {
+          "id": "89478064009523b70a530d57d3afb0f4",
+          "name": "LEIDY MARCELA PRIETO TORRES."
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4820126,
+      "ocid": "ocds-k50g02-16-12-5283737",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 3649644.0
+      },
+      "suppliers": [
+        {
+          "id": "89478064009523b70a530d57d3afb0f4",
+          "name": "LEIDY MARCELA PRIETO TORRES."
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "2212100-324-2016",
+      "ocid": "ocds-k50g02-16-12-5283737",
+      "awardID": "4820126",
+      "status": "active",
+      "period": {
+        "startDate": "2016-08-10T00:00:00.000000Z",
+        "endDate": "2017-02-10T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 3649644.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z",
+      "documents": [
+        {
+          "id": "20246491.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5283737_01002003_20246491.pdf",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002003/16-12-5283737/C_PROCESO_16-12-5283737_01002003_20246491.pdf",
+          "datePublished": "2016-06-30T17:26:09.000000Z",
+          "dateModified": "2016-06-30T17:26:09.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5283737"
+        },
+        {
+          "id": "20853751.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5283737_01002003_20853751.pdf",
+          "description": "ACTA DE INICIO",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q3/2016/DA/01002003/16-12-5283737/DA_PROCESO_16-12-5283737_01002003_20853751.pdf",
+          "datePublished": "2016-08-11T14:50:15.000000Z",
+          "dateModified": "2016-08-11T14:50:15.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5283737"
+        },
+        {
+          "id": "20246491.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5283737_01002003_20246491.pdf",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002003/16-12-5283737/C_PROCESO_16-12-5283737_01002003_20246491.pdf",
+          "datePublished": "2016-06-30T17:26:09.000000Z",
+          "dateModified": "2016-06-30T17:26:09.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5283737"
+        },
+        {
+          "id": "20853751.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5283737_01002003_20853751.pdf",
+          "description": "ACTA DE INICIO",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q3/2016/DA/01002003/16-12-5283737/DA_PROCESO_16-12-5283737_01002003_20853751.pdf",
+          "datePublished": "2016-08-11T14:50:15.000000Z",
+          "dateModified": "2016-08-11T14:50:15.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5283737"
+        }
+      ]
+    },
+    {
+      "id": "2212100-324-2016",
+      "ocid": "ocds-k50g02-16-12-5283737",
+      "awardID": "4820126",
+      "status": "active",
+      "period": {
+        "startDate": "2016-08-10T00:00:00.000000Z",
+        "endDate": "2017-02-10T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 3649644.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z"
+    },
+    {
+      "id": "2212100-324-2016",
+      "ocid": "ocds-k50g02-16-12-5283737",
+      "awardID": "4820126",
+      "status": "active",
+      "period": {
+        "startDate": "2016-08-10T00:00:00.000000Z",
+        "endDate": "2017-02-10T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 3649644.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z"
+    }
+  ],
+  "buyer": {
+    "id": "a9fc51f2884d432607e45adea02c893d",
+    "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR"
+  },
+  "procurement_type": "Contrataci\u00f3n Directa (Ley 1150 de 2007)",
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": null,
+    "publisher": {
+      "name": "Colombia Compra",
+      "uri": "https://www.colombiacompra.gov.co/"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/awards/uniqueItems: [{'id': 4820126, 'ocid': 'ocds-k50g02-16-12-5283737', 'status': 'active', 'value': {'currency': 'COP', 'amount': 3649644.0}, 'suppliers': [{'id': '89478064009523b70a530d57d3afb0f4', 'name': 'LEIDY MARCELA PRIETO TORRES.'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4820126, 'ocid': 'ocds-k50g02-16-12-5283737', 'status': 'active', 'value': {'currency': 'COP', 'amount': 3649644.0}, 'suppliers': [{'id': '89478064009523b70a530d57d3afb0f4', 'name': 'LEIDY MARCELA PRIETO TORRES.'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4820126, 'ocid': 'ocds-k50g02-16-12-5283737', 'status': 'active', 'value': {'currency': 'COP', 'amount': 3649644.0}, 'suppliers': [{'id': '89478064009523b70a530d57d3afb0f4', 'name': 'LEIDY MARCELA PRIETO TORRES.'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}] has non-unique elements"
+}

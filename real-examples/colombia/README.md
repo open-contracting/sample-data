@@ -3,19 +3,33 @@ Colombia > Colombia Compra
 
 OCDS data is available from the [Colombia Compra platform](https://www.colombiacompra.gov.co/transparencia/estandar-ocds) via a JSON API and as CSV.
 
-CSV files: https://www.colombiacompra.gov.co/transparencia/datos-csv
+CSV files: https://www.colombiacompra.gov.co/transparencia/datos-csv (not all data is included).
 
-API details: https://www.colombiacompra.gov.co/transparencia/ocds/api
+API details: https://www.colombiacompra.gov.co/transparencia/ocds/api - get all releases via https://api.colombiacompra.gov.co/releases/
 
-### Known issues
+The process to obtain a sample:
 
-Not all data is included in the CSV files. 
+    python3 fetch.py
 
-## Write a scraper!
+Or to obtain all releases:
 
-Could you write a simple python scraper that will:
+    python3 fetch.py --all
 
-* Fetch 100 example releases or records;
-* Fetch the latest version of the full dataset;
+There were 4,361,358 available releases as of 2017/06/29.
 
-If so - we want your help. See [this post](https://groups.google.com/a/open-contracting.org/forum/#!topic/standard-discuss/HtSYpbH5QGY). 
+This publisher only publishes releases, so you will first need to transform the releases for v1.1 and validate them, then merge the transformed releases into records:
+
+    python3 ../update_to_v1_1.py -f sample/releases
+    python3 ../validate.py -f sample/releases
+
+Currently they all fail with:
+
+    properties/awards/uniqueItems: ... has non-unique elements
+
+Then transform the releases into records:
+
+    python ../merge_releases.py -f sample/releases -o sample/records
+
+Finally you can upload all records to S3:
+
+    aws s3 sync sample/releases s3://ocds1/releases --exclude '.DS_Store' --exclude '.keep'

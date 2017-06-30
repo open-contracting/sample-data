@@ -1,0 +1,273 @@
+{
+  "ocid": "ocds-k50g02-16-12-5284180",
+  "id": "58125c22d3ff2f009b53ed90",
+  "date": "2016-06-30T18:58:00.000000Z",
+  "language": "es",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "NIT",
+        "legalName": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR"
+      },
+      "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "locality": "Bogot\u00e1 D.C."
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "a9fc51f2884d432607e45adea02c893d"
+    },
+    {
+      "identifier": {
+        "scheme": "C\u00e9dula de Ciudadan\u00eda",
+        "id": "79396575",
+        "legalName": "GERMAN ARTURO MEDINA \u00c1VILA"
+      },
+      "name": "GERMAN ARTURO MEDINA \u00c1VILA",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "streetAddress": "N.A"
+      },
+      "roles": [
+        "supplier"
+      ],
+      "id": "721b40f498398d6ce530f0a9bd3d3ad2"
+    }
+  ],
+  "num_constancia": "16-12-5284180",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=16-12-5284180",
+  "publishedDate": "2016-06-30T18:58:00.000000Z",
+  "tender": {
+    "id": "16-12-5284180",
+    "ocid": "ocds-k50g02-16-12-5284180",
+    "procurementMethod": "limited",
+    "title": "2214100-326-2016",
+    "description": "Prestaci\u00f3n de servicios profesionales en la gesti\u00f3n de la Direcci\u00f3n Jur\u00eddica Distrital y la Subdirecci\u00f3n de Estudios e Inform\u00e1tica Jur\u00eddica en lo relacionado con la realizaci\u00f3n de an\u00e1lisis normativos  doctrinales y jurisprudenciales en temas de impacto para el Distrito Capital  que contribuyan a la prevenci\u00f3n del da\u00f1o antijur\u00eddico. - ",
+    "enquiryPeriod": {},
+    "value": {
+      "currency": "COP",
+      "amount": 45620550.0
+    },
+    "status": "complete",
+    "items": [
+      {
+        "id": 801116,
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Servicios de personal temporal",
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+        },
+        "description": "Servicios de personal temporal"
+      }
+    ],
+    "submissionMethod": [
+      "written"
+    ],
+    "tenderPeriod": {}
+  },
+  "awards": [
+    {
+      "id": 4820510,
+      "ocid": "ocds-k50g02-16-12-5284180",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 45620550.0
+      },
+      "suppliers": [
+        {
+          "id": "721b40f498398d6ce530f0a9bd3d3ad2",
+          "name": "GERMAN ARTURO MEDINA \u00c1VILA"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4820510,
+      "ocid": "ocds-k50g02-16-12-5284180",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 45620550.0
+      },
+      "suppliers": [
+        {
+          "id": "721b40f498398d6ce530f0a9bd3d3ad2",
+          "name": "GERMAN ARTURO MEDINA \u00c1VILA"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4820510,
+      "ocid": "ocds-k50g02-16-12-5284180",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 45620550.0
+      },
+      "suppliers": [
+        {
+          "id": "721b40f498398d6ce530f0a9bd3d3ad2",
+          "name": "GERMAN ARTURO MEDINA \u00c1VILA"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "2214100-326-2016",
+      "ocid": "ocds-k50g02-16-12-5284180",
+      "awardID": "4820510",
+      "status": "active",
+      "period": {
+        "startDate": "2016-05-31T00:00:00.000000Z",
+        "endDate": "2016-08-31T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 45620550.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z",
+      "documents": [
+        {
+          "id": "20248724.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5284180_01002003_20248724.pdf",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002003/16-12-5284180/C_PROCESO_16-12-5284180_01002003_20248724.pdf",
+          "datePublished": "2016-06-30T19:03:46.000000Z",
+          "dateModified": "2016-06-30T19:03:46.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5284180"
+        },
+        {
+          "id": "20248724.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5284180_01002003_20248724.pdf",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002003/16-12-5284180/C_PROCESO_16-12-5284180_01002003_20248724.pdf",
+          "datePublished": "2016-06-30T19:03:46.000000Z",
+          "dateModified": "2016-06-30T19:03:46.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5284180"
+        }
+      ]
+    },
+    {
+      "id": "2214100-326-2016",
+      "ocid": "ocds-k50g02-16-12-5284180",
+      "awardID": "4820510",
+      "status": "active",
+      "period": {
+        "startDate": "2016-05-31T00:00:00.000000Z",
+        "endDate": "2016-08-31T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 45620550.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z"
+    },
+    {
+      "id": "2214100-326-2016",
+      "ocid": "ocds-k50g02-16-12-5284180",
+      "awardID": "4820510",
+      "status": "active",
+      "period": {
+        "startDate": "2016-05-31T00:00:00.000000Z",
+        "endDate": "2016-08-31T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 45620550.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-05-31T00:00:00.000000Z"
+    }
+  ],
+  "buyer": {
+    "id": "a9fc51f2884d432607e45adea02c893d",
+    "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA GENERAL ALCALD\u00cdA MAYOR"
+  },
+  "procurement_type": "Contrataci\u00f3n Directa (Ley 1150 de 2007)",
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": null,
+    "publisher": {
+      "name": "Colombia Compra",
+      "uri": "https://www.colombiacompra.gov.co/"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/awards/uniqueItems: [{'id': 4820510, 'ocid': 'ocds-k50g02-16-12-5284180', 'status': 'active', 'value': {'currency': 'COP', 'amount': 45620550.0}, 'suppliers': [{'id': '721b40f498398d6ce530f0a9bd3d3ad2', 'name': 'GERMAN ARTURO MEDINA \u00c1VILA'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4820510, 'ocid': 'ocds-k50g02-16-12-5284180', 'status': 'active', 'value': {'currency': 'COP', 'amount': 45620550.0}, 'suppliers': [{'id': '721b40f498398d6ce530f0a9bd3d3ad2', 'name': 'GERMAN ARTURO MEDINA \u00c1VILA'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4820510, 'ocid': 'ocds-k50g02-16-12-5284180', 'status': 'active', 'value': {'currency': 'COP', 'amount': 45620550.0}, 'suppliers': [{'id': '721b40f498398d6ce530f0a9bd3d3ad2', 'name': 'GERMAN ARTURO MEDINA \u00c1VILA'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}] has non-unique elements"
+}
