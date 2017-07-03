@@ -1,0 +1,779 @@
+{
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2014-12-17T16:44:56Z", 
+        "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "en-GB"
+      }
+    ], 
+    "ocid": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": [
+      {
+        "releaseDate": "2014-12-17T16:44:56Z", 
+        "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "8130c4404b180f94c332e29fd4de6c39"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Met Office"
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2014-12-17T16:44:56Z", 
+        "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Met Office"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " United Kingdom"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " EX1 3PB"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Fitzroy Road  Exeter"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " Exeter"
+            }
+          ]
+        }, 
+        "contactPoint": {
+          "telephone": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "email": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "trina.briers@metoffice.gov.uk"
+            }
+          ], 
+          "name": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Mrs Trina Briers"
+            }
+          ], 
+          "faxNumber": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "uri": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "id": "8130c4404b180f94c332e29fd4de6c39"
+      }
+    ], 
+    "tender": {
+      "procurementMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "status": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "unsuccessful"
+        }
+      ], 
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2015-02-27T00:00:00Z"
+          }
+        ]
+      }, 
+      "eligibilityCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "description": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " The Met Office has been selected as a Newton Fund Delivery Partner to deliver the Climate Science for Service Partnership.\r\nThe UK leads the world in climate science, and across the research community we have experience in applying climate science to deliver tangible benefits, supporting economic productivity, climate-resilient growth, developing resilience, preparedness and risk reduction.\r\nBy drawing on our National Climate Capability, we plan to keep the UK at the cutting edge and grow partnerships within China and the UK that leverage this leadership, not only for the benefit of UK/China science, but to build capacity in China to develop the services needed to combat the challenges associated with a variable and changing climate, and reduce the exposure of those most vulnerable to its impacts.\r\nThe CSSP-China project aims to build a strong strategic partnership between UK and Chinese climate scientists and through an accelerated and enhanced collaborative science programme develop climate services for China and Asia.\r\nThe partnership will focus on research and innovation, establishing a firm foundation of cutting-edge science that can underpin the development of climate services to support climate-resilient economic development and social welfare.\r\nThe science plan for the CSSP-China is based on existing collaborations over many years, and is consistent with the MOU signed between the Met Office and Institute of Atmospheric Physics (IAP) in January 2013, Met Office and Meteorological Administration (CMA) in March 2014, and builds on the joint research program developed during the Dartington Hall workshop January 2013 and the Guangzhou Workshop February 2014.\r\nWork is currently underway to scope the priority research areas and further details will be made available to all interested parties in due course, please visit our dedicated web page: http://www.metoffice.gov.uk/research/collaboration/cssp-china. \r\nIn advance of this information, the Met Office wish to invite expressions of interest from organisations who have the skills and experience to work with us on a range of prospective research opportunities in one or more of the following areas:\r\n1. Monitoring Attribution and reanalysis\r\n2. Global dynamics of climate and variability change\r\n3. East Asian variability and its predication\r\n4. Development of near-term climate projections\r\n5. Climate Services"
+        }
+      ], 
+      "title": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " Climate Science for Service Partnership (CSSP): Calls for Expressions of Interest "
+        }
+      ], 
+      "submissionMethodDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Please apply directly to the buyer using the contact details provided."
+        }
+      ], 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2014-12-17T16:44:56Z", 
+                "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "CPV"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2014-12-17T16:44:56Z", 
+                "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "Research and development services and related consultancy services"
+              }
+            ], 
+            "uri": [
+              {
+                "releaseDate": "2014-12-17T16:44:56Z", 
+                "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "http://cpv.data.ac.uk/code-73000000.html"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2014-12-17T16:44:56Z", 
+                "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "73000000"
+              }
+            ]
+          }, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "See description of related tender."
+            }
+          ]
+        }
+      ], 
+      "awardCriteriaDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "submissionMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "value": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 464500
+          }
+        ]
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ], 
+        "ojeuContractType": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Works"
+          }
+        ], 
+        "isSuitableForSme": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ]
+      }, 
+      "awardCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "milestones": [
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2015-04-01T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract start"
+            }
+          ], 
+          "id": 1, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract start date"
+            }
+          ]
+        }, 
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2016-03-31T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract end"
+            }
+          ], 
+          "id": 2, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:56Z", 
+              "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract end date"
+            }
+          ]
+        }
+      ], 
+      "procurementMethodRationale": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "minValue": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:56Z", 
+            "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 40676
+          }
+        ]
+      }, 
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-metofc-9mgh-ghl8ty"
+        }
+      ], 
+      "hasEnquiries": [
+        {
+          "releaseDate": "2014-12-17T16:44:56Z", 
+          "releaseID": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ]
+    }
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en-GB", 
+      "buyer": {
+        "id": "8130c4404b180f94c332e29fd4de6c39", 
+        "name": "Met Office"
+      }, 
+      "ocid": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " The Met Office has been selected as a Newton Fund Delivery Partner to deliver the Climate Science for Service Partnership.\r\nThe UK leads the world in climate science, and across the research community we have experience in applying climate science to deliver tangible benefits, supporting economic productivity, climate-resilient growth, developing resilience, preparedness and risk reduction.\r\nBy drawing on our National Climate Capability, we plan to keep the UK at the cutting edge and grow partnerships within China and the UK that leverage this leadership, not only for the benefit of UK/China science, but to build capacity in China to develop the services needed to combat the challenges associated with a variable and changing climate, and reduce the exposure of those most vulnerable to its impacts.\r\nThe CSSP-China project aims to build a strong strategic partnership between UK and Chinese climate scientists and through an accelerated and enhanced collaborative science programme develop climate services for China and Asia.\r\nThe partnership will focus on research and innovation, establishing a firm foundation of cutting-edge science that can underpin the development of climate services to support climate-resilient economic development and social welfare.\r\nThe science plan for the CSSP-China is based on existing collaborations over many years, and is consistent with the MOU signed between the Met Office and Institute of Atmospheric Physics (IAP) in January 2013, Met Office and Meteorological Administration (CMA) in March 2014, and builds on the joint research program developed during the Dartington Hall workshop January 2013 and the Guangzhou Workshop February 2014.\r\nWork is currently underway to scope the priority research areas and further details will be made available to all interested parties in due course, please visit our dedicated web page: http://www.metoffice.gov.uk/research/collaboration/cssp-china. \r\nIn advance of this information, the Met Office wish to invite expressions of interest from organisations who have the skills and experience to work with us on a range of prospective research opportunities in one or more of the following areas:\r\n1. Monitoring Attribution and reanalysis\r\n2. Global dynamics of climate and variability change\r\n3. East Asian variability and its predication\r\n4. Development of near-term climate projections\r\n5. Climate Services", 
+        "title": " Climate Science for Service Partnership (CSSP): Calls for Expressions of Interest ", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "73000000", 
+              "uri": "http://cpv.data.ac.uk/code-73000000.html", 
+              "description": "Research and development services and related consultancy services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": 464500
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 40676
+        }, 
+        "milestones": [
+          {
+            "dueDate": "2015-04-01T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "id": 1, 
+            "title": "Contract start"
+          }, 
+          {
+            "dueDate": "2016-03-31T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "id": 2, 
+            "title": "Contract end"
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-metofc-9mgh-ghl8ty", 
+        "tenderPeriod": {
+          "endDate": "2015-02-27T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "parties": [
+        {
+          "name": "Met Office", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": " EX1 3PB", 
+            "countryName": " United Kingdom", 
+            "streetAddress": "Fitzroy Road  Exeter", 
+            "region": null, 
+            "locality": " Exeter"
+          }, 
+          "contactPoint": {
+            "telephone": "", 
+            "faxNumber": null, 
+            "name": "Mrs Trina Briers", 
+            "email": "trina.briers@metoffice.gov.uk"
+          }, 
+          "identifier": {
+            "scheme": "", 
+            "id": "", 
+            "uri": null, 
+            "legalName": null
+          }, 
+          "id": "8130c4404b180f94c332e29fd4de6c39"
+        }
+      ], 
+      "date": "2014-12-17T16:44:56Z", 
+      "id": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en-GB", 
+    "ocid": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": "tender", 
+    "buyer": {
+      "id": "8130c4404b180f94c332e29fd4de6c39", 
+      "name": "Met Office"
+    }, 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name": "Met Office", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": " United Kingdom", 
+          "postalCode": " EX1 3PB", 
+          "region": null, 
+          "streetAddress": "Fitzroy Road  Exeter", 
+          "locality": " Exeter"
+        }, 
+        "contactPoint": {
+          "telephone": "", 
+          "email": "trina.briers@metoffice.gov.uk", 
+          "name": "Mrs Trina Briers", 
+          "faxNumber": null
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "id": "8130c4404b180f94c332e29fd4de6c39"
+      }
+    ], 
+    "date": "2014-12-17T16:44:56Z", 
+    "tender": {
+      "procurementMethod": null, 
+      "status": "unsuccessful", 
+      "tenderPeriod": {
+        "endDate": "2015-02-27T00:00:00Z"
+      }, 
+      "eligibilityCriteria": null, 
+      "description": " The Met Office has been selected as a Newton Fund Delivery Partner to deliver the Climate Science for Service Partnership.\r\nThe UK leads the world in climate science, and across the research community we have experience in applying climate science to deliver tangible benefits, supporting economic productivity, climate-resilient growth, developing resilience, preparedness and risk reduction.\r\nBy drawing on our National Climate Capability, we plan to keep the UK at the cutting edge and grow partnerships within China and the UK that leverage this leadership, not only for the benefit of UK/China science, but to build capacity in China to develop the services needed to combat the challenges associated with a variable and changing climate, and reduce the exposure of those most vulnerable to its impacts.\r\nThe CSSP-China project aims to build a strong strategic partnership between UK and Chinese climate scientists and through an accelerated and enhanced collaborative science programme develop climate services for China and Asia.\r\nThe partnership will focus on research and innovation, establishing a firm foundation of cutting-edge science that can underpin the development of climate services to support climate-resilient economic development and social welfare.\r\nThe science plan for the CSSP-China is based on existing collaborations over many years, and is consistent with the MOU signed between the Met Office and Institute of Atmospheric Physics (IAP) in January 2013, Met Office and Meteorological Administration (CMA) in March 2014, and builds on the joint research program developed during the Dartington Hall workshop January 2013 and the Guangzhou Workshop February 2014.\r\nWork is currently underway to scope the priority research areas and further details will be made available to all interested parties in due course, please visit our dedicated web page: http://www.metoffice.gov.uk/research/collaboration/cssp-china. \r\nIn advance of this information, the Met Office wish to invite expressions of interest from organisations who have the skills and experience to work with us on a range of prospective research opportunities in one or more of the following areas:\r\n1. Monitoring Attribution and reanalysis\r\n2. Global dynamics of climate and variability change\r\n3. East Asian variability and its predication\r\n4. Development of near-term climate projections\r\n5. Climate Services", 
+      "title": " Climate Science for Service Partnership (CSSP): Calls for Expressions of Interest ", 
+      "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": "CPV", 
+            "description": "Research and development services and related consultancy services", 
+            "uri": "http://cpv.data.ac.uk/code-73000000.html", 
+            "id": "73000000"
+          }, 
+          "description": "See description of related tender."
+        }
+      ], 
+      "awardCriteriaDetails": null, 
+      "submissionMethod": null, 
+      "value": {
+        "currency": "GBP", 
+        "amount": 464500
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": false, 
+        "ojeuContractType": "Works", 
+        "isSuitableForSme": false
+      }, 
+      "awardCriteria": null, 
+      "milestones": [
+        {
+          "dueDate": "2015-04-01T00:00:00Z", 
+          "status": null, 
+          "title": "Contract start", 
+          "id": 1, 
+          "description": "Anticipated contract start date"
+        }, 
+        {
+          "dueDate": "2016-03-31T00:00:00Z", 
+          "status": null, 
+          "title": "Contract end", 
+          "id": 2, 
+          "description": "Anticipated contract end date"
+        }
+      ], 
+      "procurementMethodRationale": null, 
+      "minValue": {
+        "currency": "GBP", 
+        "amount": 40676
+      }, 
+      "id": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-metofc-9mgh-ghl8ty", 
+      "hasEnquiries": null
+    }, 
+    "id": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty"
+  }
+}

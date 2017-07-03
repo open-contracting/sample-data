@@ -1,0 +1,779 @@
+{
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2014-12-17T16:44:58Z", 
+        "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "en-GB"
+      }
+    ], 
+    "ocid": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": [
+      {
+        "releaseDate": "2014-12-17T16:44:58Z", 
+        "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "097bc0f77778c8770d8d3c64822ffaaa"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Spend Network"
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2014-12-17T16:44:58Z", 
+        "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Spend Network"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "United Kingdom"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "BS37 5AF"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Council OfficesBadminton RoadYateGloucestershire "
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ]
+        }, 
+        "contactPoint": {
+          "telephone": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "email": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "andy.hichens@southglos.gov.uk"
+            }
+          ], 
+          "name": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Mr Andy Hichens"
+            }
+          ], 
+          "faxNumber": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "uri": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "id": "097bc0f77778c8770d8d3c64822ffaaa"
+      }
+    ], 
+    "tender": {
+      "procurementMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "status": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "unsuccessful"
+        }
+      ], 
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2014-12-31T00:00:00Z"
+          }
+        ]
+      }, 
+      "eligibilityCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "description": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " South Gloucestershire Councilis tendering for an external agency to deliver an independent housing advice service for the residents of South Gloucestershire to run for 3 years from 1 October 2014. \r\nSouth Gloucestershire is therefore inviting applications from suitably experienced Organisations to submit a Pre Qualifying questionnaire (PQQ) to be considered to tender for the service. \r\nIt is the responsibility ofthe Organisation to forward copies of the reference request form to suitable referees and ensure they are returned to South Gloucestershire Council by end of business on 31 January 2014. \r\nThe deadline for submittingquestions or requests for clarification in respect of thePQQ is also end of business on 31 January 2014. \r\nSuppliers mustsupply one printed copy of the completed PQQ together with an electronic copy in Microsoft Word or Adobe Acrobat format on CD-ROM. Deadline for return of the completed PQQ is 12 noon (BST) on 7 February 2014. "
+        }
+      ], 
+      "title": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " South Gloucestershire Council: Housing Advice Service (AH009)"
+        }
+      ], 
+      "submissionMethodDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Please apply directly to the buyer using the contact details provided."
+        }
+      ], 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2014-12-17T16:44:58Z", 
+                "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "CPV"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2014-12-17T16:44:58Z", 
+                "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "Health and social work services"
+              }
+            ], 
+            "uri": [
+              {
+                "releaseDate": "2014-12-17T16:44:58Z", 
+                "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "http://cpv.data.ac.uk/code-85000000.html"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2014-12-17T16:44:58Z", 
+                "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "85000000"
+              }
+            ]
+          }, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "See description of related tender."
+            }
+          ]
+        }
+      ], 
+      "awardCriteriaDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "submissionMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "value": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 918522
+          }
+        ]
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ], 
+        "ojeuContractType": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Works"
+          }
+        ], 
+        "isSuitableForSme": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ]
+      }, 
+      "awardCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "milestones": [
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2014-10-01T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract start"
+            }
+          ], 
+          "id": 1, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract start date"
+            }
+          ]
+        }, 
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2017-09-30T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract end"
+            }
+          ], 
+          "id": 2, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:58Z", 
+              "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract end date"
+            }
+          ]
+        }
+      ], 
+      "procurementMethodRationale": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "minValue": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:58Z", 
+            "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 125332
+          }
+        ]
+      }, 
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-sougl-swce-9ejbft"
+        }
+      ], 
+      "hasEnquiries": [
+        {
+          "releaseDate": "2014-12-17T16:44:58Z", 
+          "releaseID": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ]
+    }
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en-GB", 
+      "buyer": {
+        "id": "097bc0f77778c8770d8d3c64822ffaaa", 
+        "name": "Spend Network"
+      }, 
+      "ocid": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " South Gloucestershire Councilis tendering for an external agency to deliver an independent housing advice service for the residents of South Gloucestershire to run for 3 years from 1 October 2014. \r\nSouth Gloucestershire is therefore inviting applications from suitably experienced Organisations to submit a Pre Qualifying questionnaire (PQQ) to be considered to tender for the service. \r\nIt is the responsibility ofthe Organisation to forward copies of the reference request form to suitable referees and ensure they are returned to South Gloucestershire Council by end of business on 31 January 2014. \r\nThe deadline for submittingquestions or requests for clarification in respect of thePQQ is also end of business on 31 January 2014. \r\nSuppliers mustsupply one printed copy of the completed PQQ together with an electronic copy in Microsoft Word or Adobe Acrobat format on CD-ROM. Deadline for return of the completed PQQ is 12 noon (BST) on 7 February 2014. ", 
+        "title": " South Gloucestershire Council: Housing Advice Service (AH009)", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": 918522
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 125332
+        }, 
+        "milestones": [
+          {
+            "dueDate": "2014-10-01T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "id": 1, 
+            "title": "Contract start"
+          }, 
+          {
+            "dueDate": "2017-09-30T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "id": 2, 
+            "title": "Contract end"
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-sougl-swce-9ejbft", 
+        "tenderPeriod": {
+          "endDate": "2014-12-31T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "parties": [
+        {
+          "name": "Spend Network", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": "BS37 5AF", 
+            "countryName": "United Kingdom", 
+            "streetAddress": "Council OfficesBadminton RoadYateGloucestershire ", 
+            "region": null, 
+            "locality": ""
+          }, 
+          "contactPoint": {
+            "telephone": "", 
+            "faxNumber": null, 
+            "name": "Mr Andy Hichens", 
+            "email": "andy.hichens@southglos.gov.uk"
+          }, 
+          "identifier": {
+            "scheme": "", 
+            "id": "", 
+            "uri": null, 
+            "legalName": null
+          }, 
+          "id": "097bc0f77778c8770d8d3c64822ffaaa"
+        }
+      ], 
+      "date": "2014-12-17T16:44:58Z", 
+      "id": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en-GB", 
+    "ocid": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": "tender", 
+    "buyer": {
+      "id": "097bc0f77778c8770d8d3c64822ffaaa", 
+      "name": "Spend Network"
+    }, 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name": "Spend Network", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": "United Kingdom", 
+          "postalCode": "BS37 5AF", 
+          "region": null, 
+          "streetAddress": "Council OfficesBadminton RoadYateGloucestershire ", 
+          "locality": ""
+        }, 
+        "contactPoint": {
+          "telephone": "", 
+          "email": "andy.hichens@southglos.gov.uk", 
+          "name": "Mr Andy Hichens", 
+          "faxNumber": null
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "id": "097bc0f77778c8770d8d3c64822ffaaa"
+      }
+    ], 
+    "date": "2014-12-17T16:44:58Z", 
+    "tender": {
+      "procurementMethod": null, 
+      "status": "unsuccessful", 
+      "tenderPeriod": {
+        "endDate": "2014-12-31T00:00:00Z"
+      }, 
+      "eligibilityCriteria": null, 
+      "description": " South Gloucestershire Councilis tendering for an external agency to deliver an independent housing advice service for the residents of South Gloucestershire to run for 3 years from 1 October 2014. \r\nSouth Gloucestershire is therefore inviting applications from suitably experienced Organisations to submit a Pre Qualifying questionnaire (PQQ) to be considered to tender for the service. \r\nIt is the responsibility ofthe Organisation to forward copies of the reference request form to suitable referees and ensure they are returned to South Gloucestershire Council by end of business on 31 January 2014. \r\nThe deadline for submittingquestions or requests for clarification in respect of thePQQ is also end of business on 31 January 2014. \r\nSuppliers mustsupply one printed copy of the completed PQQ together with an electronic copy in Microsoft Word or Adobe Acrobat format on CD-ROM. Deadline for return of the completed PQQ is 12 noon (BST) on 7 February 2014. ", 
+      "title": " South Gloucestershire Council: Housing Advice Service (AH009)", 
+      "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": "CPV", 
+            "description": "Health and social work services", 
+            "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+            "id": "85000000"
+          }, 
+          "description": "See description of related tender."
+        }
+      ], 
+      "awardCriteriaDetails": null, 
+      "submissionMethod": null, 
+      "value": {
+        "currency": "GBP", 
+        "amount": 918522
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": false, 
+        "ojeuContractType": "Works", 
+        "isSuitableForSme": false
+      }, 
+      "awardCriteria": null, 
+      "milestones": [
+        {
+          "dueDate": "2014-10-01T00:00:00Z", 
+          "status": null, 
+          "title": "Contract start", 
+          "id": 1, 
+          "description": "Anticipated contract start date"
+        }, 
+        {
+          "dueDate": "2017-09-30T00:00:00Z", 
+          "status": null, 
+          "title": "Contract end", 
+          "id": 2, 
+          "description": "Anticipated contract end date"
+        }
+      ], 
+      "procurementMethodRationale": null, 
+      "minValue": {
+        "currency": "GBP", 
+        "amount": 125332
+      }, 
+      "id": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-sougl-swce-9ejbft", 
+      "hasEnquiries": null
+    }, 
+    "id": "ocds-b5fd17-2c3de2dc-adc8-11e6-9901-0019b9f3037b-59433-sougl-swce-9ejbft"
+  }
+}

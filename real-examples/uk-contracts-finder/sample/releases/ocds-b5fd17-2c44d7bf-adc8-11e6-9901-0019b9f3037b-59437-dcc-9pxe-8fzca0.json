@@ -1,0 +1,101 @@
+{
+  "ocid": "ocds-b5fd17-2c44d7bf-adc8-11e6-9901-0019b9f3037b",
+  "id": "ocds-b5fd17-2c44d7bf-adc8-11e6-9901-0019b9f3037b-59437-dcc-9pxe-8fzca0",
+  "date": "2014-12-17T16:44:59Z",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "",
+        "id": "",
+        "legalName": null,
+        "uri": null
+      },
+      "name": "Devon County Council",
+      "address": {
+        "streetAddress": "County Hall Room 120  Topsham Road",
+        "locality": " Exeter",
+        "region": null,
+        "postalCode": " EX2 4QD",
+        "countryName": " United Kingdom"
+      },
+      "contactPoint": {
+        "name": "Miss Louise Baker",
+        "email": "louise.k.baker@devon.gov.uk",
+        "telephone": "",
+        "faxNumber": null
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "098c30a2b4f40f0bb11071b7a5fab3d6"
+    }
+  ],
+  "tender": {
+    "id": "ocds-b5fd17-2c44d7bf-adc8-11e6-9901-0019b9f3037b-dcc-9pxe-8fzca0",
+    "title": " CP1089-14 Secure confidential waste collection, shredding and disposal service",
+    "description": " As part of the requirementto comply with the Data Protection Act 1998 Devon CountyCouncil is seeking to form a secure confidential waste collection, shredding and disposal contract. For the purpose of this contract secure shall be defined as free from risk of being lost, intercepted or accessed by unauthorised persons\r\nDCC requires that all its confidential waste is securely shredded to mitigate the risk of an information security breach. There will be the requirement for shredding on-site at a DCC premise and shredding off-site at a premise of the Contractor. \r\nThe contract is anticipated to start on 1st April 2015 and will run for an initial period of three years until 31st March 2018. There is an option to extend the contract for a further one year period as from 1st April 2018 at the Council's discretion. \r\n\r\n\r\n",
+    "status": "unsuccessful",
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "90500000",
+          "description": "Refuse and waste related services",
+          "uri": "http://cpv.data.ac.uk/code-90500000.html"
+        }
+      }
+    ],
+    "minValue": {
+      "amount": 120000,
+      "currency": "GBP"
+    },
+    "value": {
+      "amount": 600000,
+      "currency": "GBP"
+    },
+    "procurementMethod": null,
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "awardCriteriaDetails": null,
+    "submissionMethod": null,
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "tenderPeriod": {
+      "endDate": "2015-01-14T00:00:00Z"
+    },
+    "hasEnquiries": null,
+    "eligibilityCriteria": null,
+    "milestones": [
+      {
+        "id": 1,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2015-04-01T00:00:00Z",
+        "status": null
+      },
+      {
+        "id": 2,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2018-03-31T00:00:00Z",
+        "status": null
+      }
+    ],
+    "xClassifications": {
+      "isSuitableForVco": false,
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works"
+    }
+  },
+  "buyer": {
+    "id": "098c30a2b4f40f0bb11071b7a5fab3d6",
+    "name": "Devon County Council"
+  },
+  "version": "1.1"
+}

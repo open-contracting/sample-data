@@ -1,0 +1,121 @@
+{
+  "ocid": "ocds-b5fd17-2c470411-adc8-11e6-9901-0019b9f3037b",
+  "id": "ocds-b5fd17-2c470411-adc8-11e6-9901-0019b9f3037b-59438-dcc-9q5h-gs44aq",
+  "date": "2014-12-17T16:44:59Z",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "",
+        "id": "",
+        "legalName": null,
+        "uri": null
+      },
+      "name": "Devon County Council",
+      "address": {
+        "streetAddress": "County Hall Room 120  Topsham Road",
+        "locality": " Exeter",
+        "region": null,
+        "postalCode": " EX2 4QD",
+        "countryName": " United Kingdom"
+      },
+      "contactPoint": {
+        "name": "Mr Iain Perkins",
+        "email": "iain.perkins@devon.gov.uk",
+        "telephone": "",
+        "faxNumber": null
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "a9fc4dcadc2c2ac8e8288d4d40be31ff"
+    }
+  ],
+  "tender": {
+    "id": "ocds-b5fd17-2c470411-adc8-11e6-9901-0019b9f3037b-dcc-9q5h-gs44aq",
+    "title": " CP1093-14 Connecting Devon and Somerset Superfast Extension Programme",
+    "description": " Connecting Devon & Somerset  \r\nSUPERFAST EXTENSION PROGRAMME\r\nPlease find attached the slides and delegate list from the Bidder Information Day held on Thursday 13th November 2014.\r\n \r\n\r\n\r\n",
+    "status": "unsuccessful",
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "32000000",
+          "description": "Radio, television, communication, telecommunication and related equipment",
+          "uri": "http://cpv.data.ac.uk/code-32000000.html"
+        }
+      },
+      {
+        "id": 2,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "64000000",
+          "description": "Postal and telecommunications services",
+          "uri": "http://cpv.data.ac.uk/code-64000000.html"
+        }
+      },
+      {
+        "id": 3,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "72000000",
+          "description": "IT services: consulting, software development, Internet and support",
+          "uri": "http://cpv.data.ac.uk/code-72000000.html"
+        }
+      }
+    ],
+    "minValue": {
+      "amount": 600000,
+      "currency": "GBP"
+    },
+    "value": {
+      "amount": 600000,
+      "currency": "GBP"
+    },
+    "procurementMethod": null,
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "awardCriteriaDetails": null,
+    "submissionMethod": null,
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "tenderPeriod": {
+      "endDate": "2015-01-31T00:00:00Z"
+    },
+    "hasEnquiries": null,
+    "eligibilityCriteria": null,
+    "milestones": [
+      {
+        "id": 1,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2015-04-01T00:00:00Z",
+        "status": null
+      },
+      {
+        "id": 2,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2020-03-31T00:00:00Z",
+        "status": null
+      }
+    ],
+    "xClassifications": {
+      "isSuitableForVco": false,
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works"
+    }
+  },
+  "buyer": {
+    "id": "a9fc4dcadc2c2ac8e8288d4d40be31ff",
+    "name": "Devon County Council"
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,779 @@
+{
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2014-12-17T16:44:57Z", 
+        "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "en-GB"
+      }
+    ], 
+    "ocid": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": [
+      {
+        "releaseDate": "2014-12-17T16:44:57Z", 
+        "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "8c08e77d6f6bae4252c33af8fd703d0e"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Bath and North East Somerset Council"
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2014-12-17T16:44:57Z", 
+        "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Bath and North East Somerset Council"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " United Kingdom"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " BA2 5RP"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Supporting People  Communities Team  Trust HQ  St Martins Hospital"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " Bath"
+            }
+          ]
+        }, 
+        "contactPoint": {
+          "telephone": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "email": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "basil_wild@bathnes.gov.uk"
+            }
+          ], 
+          "name": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Mr Basil Wild"
+            }
+          ], 
+          "faxNumber": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "uri": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "id": "8c08e77d6f6bae4252c33af8fd703d0e"
+      }
+    ], 
+    "tender": {
+      "procurementMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "status": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "unsuccessful"
+        }
+      ], 
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2015-07-29T00:00:00Z"
+          }
+        ]
+      }, 
+      "eligibilityCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "description": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " NHS Bath & NE Somerset Clinical Commissioning Group and Bath & NE Somerset Council are seeking to shape new initiatives for the provision of an educative approach to delivering health, mental health, social and wellbeing interventions.\r\nThe Commissioners have established a Wellbeing College Pilot, using existing service and community resources, to test out this new concept of service delivery and its value and effectiveness in providing courses.\r\nThe aim of the pilot is to develop, alongside an independent evaluation organisation and commissioners, a comprehensive evaluation framework that will assess the impacts of the pilot and the possibilities for the long term sustainability of the concept/approach. This in turn will inform whether a business case, options paper and draft specification is developed to go ahead to full tender.Should the Commissioners agree to proceed with a full tender it is expected that the procurement process will commence during 2015/16."
+        }
+      ], 
+      "title": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " Wellbeing College"
+        }
+      ], 
+      "submissionMethodDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Please apply directly to the buyer using the contact details provided."
+        }
+      ], 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2014-12-17T16:44:57Z", 
+                "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "CPV"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2014-12-17T16:44:57Z", 
+                "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "Health and social work services"
+              }
+            ], 
+            "uri": [
+              {
+                "releaseDate": "2014-12-17T16:44:57Z", 
+                "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "http://cpv.data.ac.uk/code-85000000.html"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2014-12-17T16:44:57Z", 
+                "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "85000000"
+              }
+            ]
+          }, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "See description of related tender."
+            }
+          ]
+        }
+      ], 
+      "awardCriteriaDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "submissionMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "value": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 20000000
+          }
+        ]
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ], 
+        "ojeuContractType": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Works"
+          }
+        ], 
+        "isSuitableForSme": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ]
+      }, 
+      "awardCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "milestones": [
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2016-04-01T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract start"
+            }
+          ], 
+          "id": 1, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract start date"
+            }
+          ]
+        }, 
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2021-03-31T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract end"
+            }
+          ], 
+          "id": 2, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:57Z", 
+              "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract end date"
+            }
+          ]
+        }
+      ], 
+      "procurementMethodRationale": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "minValue": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:57Z", 
+            "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 909610
+          }
+        ]
+      }, 
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-bath-swce-9fdjpf"
+        }
+      ], 
+      "hasEnquiries": [
+        {
+          "releaseDate": "2014-12-17T16:44:57Z", 
+          "releaseID": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ]
+    }
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en-GB", 
+      "buyer": {
+        "id": "8c08e77d6f6bae4252c33af8fd703d0e", 
+        "name": "Bath and North East Somerset Council"
+      }, 
+      "ocid": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " NHS Bath & NE Somerset Clinical Commissioning Group and Bath & NE Somerset Council are seeking to shape new initiatives for the provision of an educative approach to delivering health, mental health, social and wellbeing interventions.\r\nThe Commissioners have established a Wellbeing College Pilot, using existing service and community resources, to test out this new concept of service delivery and its value and effectiveness in providing courses.\r\nThe aim of the pilot is to develop, alongside an independent evaluation organisation and commissioners, a comprehensive evaluation framework that will assess the impacts of the pilot and the possibilities for the long term sustainability of the concept/approach. This in turn will inform whether a business case, options paper and draft specification is developed to go ahead to full tender.Should the Commissioners agree to proceed with a full tender it is expected that the procurement process will commence during 2015/16.", 
+        "title": " Wellbeing College", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "85000000", 
+              "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+              "description": "Health and social work services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": 20000000
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 909610
+        }, 
+        "milestones": [
+          {
+            "dueDate": "2016-04-01T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "id": 1, 
+            "title": "Contract start"
+          }, 
+          {
+            "dueDate": "2021-03-31T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "id": 2, 
+            "title": "Contract end"
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-bath-swce-9fdjpf", 
+        "tenderPeriod": {
+          "endDate": "2015-07-29T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "parties": [
+        {
+          "name": "Bath and North East Somerset Council", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": " BA2 5RP", 
+            "countryName": " United Kingdom", 
+            "streetAddress": "Supporting People  Communities Team  Trust HQ  St Martins Hospital", 
+            "region": null, 
+            "locality": " Bath"
+          }, 
+          "contactPoint": {
+            "telephone": "", 
+            "faxNumber": null, 
+            "name": "Mr Basil Wild", 
+            "email": "basil_wild@bathnes.gov.uk"
+          }, 
+          "identifier": {
+            "scheme": "", 
+            "id": "", 
+            "uri": null, 
+            "legalName": null
+          }, 
+          "id": "8c08e77d6f6bae4252c33af8fd703d0e"
+        }
+      ], 
+      "date": "2014-12-17T16:44:57Z", 
+      "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en-GB", 
+    "ocid": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": "tender", 
+    "buyer": {
+      "id": "8c08e77d6f6bae4252c33af8fd703d0e", 
+      "name": "Bath and North East Somerset Council"
+    }, 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name": "Bath and North East Somerset Council", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": " United Kingdom", 
+          "postalCode": " BA2 5RP", 
+          "region": null, 
+          "streetAddress": "Supporting People  Communities Team  Trust HQ  St Martins Hospital", 
+          "locality": " Bath"
+        }, 
+        "contactPoint": {
+          "telephone": "", 
+          "email": "basil_wild@bathnes.gov.uk", 
+          "name": "Mr Basil Wild", 
+          "faxNumber": null
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "id": "8c08e77d6f6bae4252c33af8fd703d0e"
+      }
+    ], 
+    "date": "2014-12-17T16:44:57Z", 
+    "tender": {
+      "procurementMethod": null, 
+      "status": "unsuccessful", 
+      "tenderPeriod": {
+        "endDate": "2015-07-29T00:00:00Z"
+      }, 
+      "eligibilityCriteria": null, 
+      "description": " NHS Bath & NE Somerset Clinical Commissioning Group and Bath & NE Somerset Council are seeking to shape new initiatives for the provision of an educative approach to delivering health, mental health, social and wellbeing interventions.\r\nThe Commissioners have established a Wellbeing College Pilot, using existing service and community resources, to test out this new concept of service delivery and its value and effectiveness in providing courses.\r\nThe aim of the pilot is to develop, alongside an independent evaluation organisation and commissioners, a comprehensive evaluation framework that will assess the impacts of the pilot and the possibilities for the long term sustainability of the concept/approach. This in turn will inform whether a business case, options paper and draft specification is developed to go ahead to full tender.Should the Commissioners agree to proceed with a full tender it is expected that the procurement process will commence during 2015/16.", 
+      "title": " Wellbeing College", 
+      "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": "CPV", 
+            "description": "Health and social work services", 
+            "uri": "http://cpv.data.ac.uk/code-85000000.html", 
+            "id": "85000000"
+          }, 
+          "description": "See description of related tender."
+        }
+      ], 
+      "awardCriteriaDetails": null, 
+      "submissionMethod": null, 
+      "value": {
+        "currency": "GBP", 
+        "amount": 20000000
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": false, 
+        "ojeuContractType": "Works", 
+        "isSuitableForSme": false
+      }, 
+      "awardCriteria": null, 
+      "milestones": [
+        {
+          "dueDate": "2016-04-01T00:00:00Z", 
+          "status": null, 
+          "title": "Contract start", 
+          "id": 1, 
+          "description": "Anticipated contract start date"
+        }, 
+        {
+          "dueDate": "2021-03-31T00:00:00Z", 
+          "status": null, 
+          "title": "Contract end", 
+          "id": 2, 
+          "description": "Anticipated contract end date"
+        }
+      ], 
+      "procurementMethodRationale": null, 
+      "minValue": {
+        "currency": "GBP", 
+        "amount": 909610
+      }, 
+      "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-bath-swce-9fdjpf", 
+      "hasEnquiries": null
+    }, 
+    "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf"
+  }
+}
