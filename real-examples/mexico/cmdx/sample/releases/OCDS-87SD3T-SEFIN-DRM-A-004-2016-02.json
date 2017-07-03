@@ -1,0 +1,613 @@
+{
+  "ocid": "OCDS-87SD3T-SEFIN-DRM-A-004-2016",
+  "id": "02",
+  "date": "2017-03-27T00:00:00-06:00",
+  "language": "es",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "GDF9712054NA",
+        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+      },
+      "name": "SECRETAR\u00cdA DE FINANZAS",
+      "address": {
+        "streetAddress": "DR. LSVISTA",
+        "locality": "M\u00c9XICO D. F.",
+        "region": "DF",
+        "postalCode": "6720",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": "MIGUEL \u00c1NGEL VIDAL FRANCO",
+        "email": "mvidal@finanzas.df.gob.mx",
+        "telephone": "51342500",
+        "faxNumber": "5134-2500",
+        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "0e58ab5230986b71b4e27db7da39dc68"
+    },
+    {
+      "identifier": {
+        "id": "GDF9712054NA",
+        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+      },
+      "name": "SECRETAR\u00cdA DE FINANZAS",
+      "address": {
+        "streetAddress": "DR. LAVISTA",
+        "locality": "M\u00c9XICO D. F.",
+        "region": "DF",
+        "postalCode": "6720",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": "PEDRO JES\u00daS LARA LASTRA",
+        "email": "plara@finanzas.df.gob.mx",
+        "telephone": "51342500",
+        "faxNumber": "5134-2500",
+        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+      },
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "e70b6e69dae87f12b29d53fc9110e4da"
+    },
+    {
+      "identifier": {
+        "id": "TCM951030A17",
+        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+      },
+      "name": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+      "address": {
+        "streetAddress": "AV.REVOLUCION MODULO 2",
+        "locality": "BENITO JUAREZ",
+        "region": "DF",
+        "postalCode": "3730",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": "JUAN BLANCO FORTES",
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "be4ed5c8ddc4ac505913dfdacbc020f9"
+    },
+    {
+      "identifier": {
+        "id": "TCM951030A17",
+        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+      },
+      "name": "TIENDAS COMERCIAL MEXICANA S.A D",
+      "address": {
+        "streetAddress": "AV.REVOLUCION MODULO 2",
+        "locality": "BENITO JUAREZ",
+        "region": "DF",
+        "postalCode": "3730",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": "JUAN BLANCO FORTES",
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      },
+      "roles": [
+        "supplier"
+      ],
+      "id": "1440f557ccea38aea88718f7759fb371"
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": null,
+      "multiYear": false,
+      "amount": {
+        "amount": 643336.32,
+        "currency": "MXN"
+      },
+      "amountyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "project": "AUTORIZACI\u00d3N PRESUPUESTAL SPP/070/2016"
+    },
+    "documents": [
+      {
+        "id": "1",
+        "title": "AUTORIZACI\u00d3N PRESUPUESTAL SPP/070/2016",
+        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/a_004_2016_autorizacion_070_20160720_125315.pdf",
+        "datePublished": "2016-01-29T00:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      }
+    ]
+  },
+  "buyer": {
+    "id": "0e58ab5230986b71b4e27db7da39dc68",
+    "name": "SECRETAR\u00cdA DE FINANZAS"
+  },
+  "tender": {
+    "id": "OCDS-87SD3T-SEFIN-DRM-A-004-2016",
+    "title": "ARRENDAMIENTO INMUEBLES",
+    "description": "ARRENDAMIENTO DE INMUEBLE",
+    "status": "complete",
+    "items": [
+      {
+        "id": "1",
+        "description": "INMUEBLE CDA LA RONDA 88 DEL CUAUHTEMOC",
+        "quantity": 1,
+        "unit": {
+          "name": "SER"
+        }
+      },
+      {
+        "id": "2",
+        "description": "INMUEBLE CDA LA RONDA 88 DEL CUAUHTEMOC",
+        "quantity": 1,
+        "unit": {
+          "name": "SER"
+        }
+      }
+    ],
+    "value": {
+      "amount": 643336.32,
+      "currency": "MXN"
+    },
+    "procurementMethod": "limited",
+    "procurementMethodRationale": "Arrendamiento de bienes inmuebles por adjudicaci\u00f3n directa.",
+    "awardCriteria": "bestValueToGovernment",
+    "awardCriteriaDetails": "Conforme a las necesidades de las \u00e1reas que requieran el arrendamiento de un inmueble.",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionmethoddetails": "Para la debida integraci\u00f3n del expediente documental.",
+    "tenderPeriod": {
+      "startDate": "2016-01-01T00:00:00-06:00",
+      "endDate": "2016-01-01T00:00:00-06:00"
+    },
+    "enquiryPeriod": {
+      "startDate": null,
+      "endDate": null
+    },
+    "hasEnquiries": true,
+    "eligibilityCriteria": "Servicio,Condiciones,Precio",
+    "awardPeriod": {
+      "startDate": "2016-01-01T00:00:00-06:00",
+      "endDate": "2016-01-01T00:00:00-06:00"
+    },
+    "numberOfTenderers": 1,
+    "tenderers": [
+      {
+        "id": "be4ed5c8ddc4ac505913dfdacbc020f9",
+        "name": "TIENDAS COMERCIAL MEXICANA S.A DE C"
+      }
+    ],
+    "procuringEntity": {
+      "id": "e70b6e69dae87f12b29d53fc9110e4da",
+      "name": "SECRETAR\u00cdA DE FINANZAS"
+    },
+    "documents": [
+      {
+        "id": "2",
+        "title": "REQUISICION 053",
+        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/a_004_2016_requisicion_053_20160711_132937.pdf",
+        "datePublished": "2015-12-28T00:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      }
+    ]
+  },
+  "awards": [
+    {
+      "id": "1",
+      "title": "ARRENDAMIENTO INMUEBLES",
+      "description": "ARRENDAMIENTO DE INMUEBLE",
+      "status": "pending",
+      "multiYear": false,
+      "date": "2016-01-01T00:00:00-06:00",
+      "value": {
+        "amount": 554600.28,
+        "exchangeRate": 1,
+        "dateexchangeRate": "2016-03-11T00:00:00-06:00",
+        "currency": "MXN"
+      },
+      "valueyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "suppliers": [
+        {
+          "id": "1440f557ccea38aea88718f7759fb371",
+          "name": "TIENDAS COMERCIAL MEXICANA S.A D"
+        }
+      ],
+      "items": [
+        {
+          "id": "10",
+          "description": "INMUEBLE CDA LA RONDA 88 DEL CUAUHTEMOC",
+          "quantity": 1,
+          "unit": {
+            "name": "SER"
+          }
+        },
+        {
+          "id": "12",
+          "description": "INMUEBLE CDA LA RONDA 88 DEL CUAUHTEMOC",
+          "quantity": 1,
+          "unit": {
+            "name": "SER"
+          }
+        }
+      ],
+      "documents": []
+    }
+  ],
+  "contracts": [
+    {
+      "id": "1",
+      "awardID": "1",
+      "title": "A-009/2016",
+      "description": "ARRENDAMIENTO DE INMUEBLE",
+      "status": "active",
+      "multiYear": false,
+      "period": {
+        "startDate": "2016-01-01T00:00:00-06:00",
+        "endDate": "2016-06-30T00:00:00-06:00"
+      },
+      "value": {
+        "amount": 554600.28,
+        "dateexchangeRate": null,
+        "currency": "MXN"
+      },
+      "valueyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "items": [
+        {
+          "id": "10",
+          "description": "INMUEBLE CDA LA RONDA 88 DEL CUAUHTEMOC",
+          "quantity": 1,
+          "unit": {
+            "name": "SER"
+          }
+        },
+        {
+          "id": "12",
+          "description": "INMUEBLE CDA LA RONDA 88 DEL CUAUHTEMOC",
+          "quantity": 1,
+          "unit": {
+            "name": "SER"
+          }
+        }
+      ],
+      "dateSigned": "2015-12-31T00:00:00-06:00",
+      "documents": [
+        {
+          "id": "1",
+          "title": "CONTRATO A-009/2016",
+          "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/a-009-2016_20160713_103455.pdf",
+          "datePublished": "2015-12-31T00:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        }
+      ],
+      "implementation": {
+        "transactions": [
+          {
+            "id": "CLC0010000021-2016",
+            "date": "2016-04-05T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-04-05T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010000033-2016",
+            "date": "2016-04-05T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-04-05T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010000143-2016",
+            "date": "2016-05-04T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-05-04T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010000542-2016",
+            "date": "2016-06-08T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-06-08T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010001082-2016",
+            "date": "2016-07-08T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-07-08T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010001798-2016",
+            "date": "2016-08-08T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-08-08T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010003105-2016",
+            "date": "2016-09-08T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-09-08T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010004335-2016",
+            "date": "2016-10-11T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-10-11T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010006551-2016",
+            "date": "2016-12-06T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-12-06T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010006934-2016",
+            "date": "2016-12-13T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-12-13T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          },
+          {
+            "id": "CLC0010010543-2016",
+            "date": "2017-01-05T00:00:00-06:00",
+            "amount": {
+              "amount": 53611.36,
+              "dateexchangeRate": "2016-01-08T00:00:00-06:00",
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETAR\u00cdA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "TCM951030A17",
+              "legalName": "TIENDAS COMERCIAL MEXICANA S.A DE C",
+              "uri": null
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "id": "5000012564-00010-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-03-14T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000012595-00010-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-03-17T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000012673-00010-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-04-15T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000012849-00010-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-05-20T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000012923-00010-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-06-16T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000013072-00010-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-07-20T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000013175-00012-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-08-23T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000013416-00012-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-09-22T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000013692-00012-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-11-16T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000013745-00012-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-11-18T00:00:00-06:00",
+            "status": "partiallyMet"
+          },
+          {
+            "id": "5000014054-00012-2016",
+            "title": "Aceptaci\u00f3n de servicio",
+            "description": "Aceptaci\u00f3n de servicio",
+            "dueDate": "2016-12-15T00:00:00-06:00",
+            "status": "partiallyMet"
+          }
+        ],
+        "documents": []
+      }
+    }
+  ],
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": "2017-07-03T00:00:00-06:00",
+    "publisher": {
+      "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+      "name": "CDMX-SEFIN",
+      "uri": "http://www.finanzas.df.gob.mx/",
+      "uid": "0901"
+    }
+  },
+  "version": "1.1"
+}
