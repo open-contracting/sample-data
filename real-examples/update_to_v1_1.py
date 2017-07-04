@@ -176,7 +176,12 @@ def main():
     (options, args) = parser.parse_args()
     if not options.filepath:
         parser.error('You must supply a filepath, using the -f argument')
-    for filename in glob.glob('%s/*.json' % options.filepath):
+    files = glob.glob('%s/*.json' % options.filepath)
+    count = 0
+    for filename in files:
+        count += 1
+        if not count % 1000:
+            print('Updating file %s of %s' % (count, len(files)))
         if not filename.endswith('.json'):
             print('Skipping non-JSON file %s' % filename)
             continue
