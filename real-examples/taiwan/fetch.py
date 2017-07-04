@@ -1,42 +1,19 @@
 import json
 import optparse
+import os
 
 import requests
 
-
-def writeFile(fname, data, url):
-    try:
-        with open(fname, 'w', encoding='utf8') as f:
-            f.write(json.dumps(data, indent=2, ensure_ascii=False))
-    except Exception as e:
-        with open("errors.txt", 'a') as err:
-            print("Failed to write %s, %s" % (fname, e))
-            err.write(
-                "Failed to write %s, %s, %s\n" % (fname, e, url))
+from common import common
 
 
 def fetchReleases(data, folder, url):
     print('Fetching %s' % url)
-    unique_ocids = []
-    for i, r in enumerate(data['releases']):
-        r['packageInfo'] = {
-            'uri': data['uri'],
-            'publishedDate': data['publishedDate'],
-            'publisher': data['publisher']
-        }
-        # Usually the filename would be the OCID plus the ID, but here
-        # we just use the OCID, checking that OCIDs are unique.
-        # Also set the release ID here, to get them through update process.
-        if r['ocid'] in unique_ocids:
-            print('DUPLICATE OCID: %s' % r['ocid'])
-        else:
-            unique_ocids.append(r['ocid'])
+    for r in data['releases']:
+        # These releases are lacking IDs - set the ID to the OCID
+        # (which is unique).
         r['id'] = r['ocid']
-        fname = '%s/releases/%s.json' % \
-            (folder, r['ocid'].replace('/', '_'))
-        writeFile(fname, r, url)
-        if folder == 'sample' and i >= 9:
-            break
+    common.writeReleases(data['releases'], folder, data, url)
 
 
 def main():
@@ -48,14 +25,15 @@ def main():
     url = 'http://data.dsp.im/dataset/963c0c3d-49ac-4a66-b8fa-f56c8166bb91/'
     url += 'resource/0abbe767-c940-49fe-80d3-bd68268f508e'
     url += '/download/2014-02.json'
+    folder = os.path.dirname(os.path.realpath(__file__))
     if options.all:
         r = requests.get(url)
         data = r.json()
-        fetchReleases(data, 'all', url)
+        fetchReleases(data, '%s/all' % folder, url)
     else:
         r = requests.get(url)
         data = r.json()
-        fetchReleases(data, 'sample', url)
+        fetchReleases(data, '%s/sample' % folder, url)
 
 if __name__ == '__main__':
     main()
