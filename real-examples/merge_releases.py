@@ -1,20 +1,22 @@
 import glob
 import json
 import optparse
+import os
 from pprint import pprint
 
 import ocdsmerge
 
 '''
 For publishers that publish releases, but not records.
-Combine releases that share an OCID into records.
+Combine releases that share an OCID into records,
+then writes the records to files named by OCID.
 '''
 
 
 def mergeReleases(releases):
     record = {}
     # TODO: Clarify what to do about packages, publishedData,
-    # publisher and uri fields for the record.
+    # and uri fields for the record.
     record['compiledRelease'] = ocdsmerge.merge(releases)
     record['versionedRelease'] = ocdsmerge.merge_versioned(releases)
     record['releases'] = releases
@@ -41,8 +43,11 @@ def main():
     if not options.outfilepath:
         parser.error(
             'You must supply a destination filepath, using the -o argument')
+    if not os.path.exists(options.outfilepath):
+        os.makedirs(options.outfilepath)
     ocids = {}
-    for filename in glob.glob('%s/*.json' % options.filepath):
+    files = glob.glob('%s/*.json' % options.filepath)
+    for filename in files:
         if not filename.endswith('.json'):
             print('Skipping non-JSON file %s' % filename)
             continue
@@ -53,7 +58,12 @@ def main():
                 ocids[ocid] = [release]
             else:
                 ocids[ocid].append(release)
+    print('Consolidating %s OCIDs' % len(ocids))
+    count = 0
     for ocid in ocids:
+        count += 1
+        if not count % 1000:
+            print('Merging OCID %s of %s' % (count, len(ocids)))
         record = mergeReleases(ocids[ocid])
         fname = '%s/%s.json' % (options.outfilepath, ocid.replace('/', '_'))
         with open(fname, 'w') as writefile:
