@@ -1,35 +1,10 @@
 import json
 import optparse
+import os
 
 import requests
-from pprint import pprint
 
-
-def writeFile(fname, data, url):
-    try:
-        with open(fname, 'w', encoding='utf8') as f:
-            f.write(json.dumps(data, indent=2, ensure_ascii=False))
-    except Exception as e:
-        with open("errors.txt", 'a') as err:
-            print("Failed to write %s, %s" % (fname, e))
-            err.write(
-                "Failed to write %s, %s, %s\n" % (fname, e, url))
-
-
-def fetchReleases(url, folder):
-    print("Fetching releases for %s" % url)
-    r = requests.get(url)
-    data = r.json()
-    for i, r in enumerate(data['releases']):
-        r['packageInfo'] = {
-            'uri': data['uri'],
-            'publishedDate': data['publishedDate'],
-            'publisher': data['publisher']
-        }
-        fname = '%s/releases/%s-%s.json' % (folder, r['ocid'], r['id'])
-        writeFile(fname, r, url)
-        if folder == 'sample' and i >= 50:
-            break
+from common import common
 
 
 def fetchYears(url):
@@ -48,14 +23,21 @@ def main():
                       help='Fetch all records, rather than a small extract')
     (options, args) = parser.parse_args()
     BASE = 'http://moldova-ocds.yipl.com.np'
+    folder = os.path.dirname(os.path.realpath(__file__))
     if options.all:
+        folder += '/all'
         url = '%s/multiple-file-api/releases.json' % BASE
-        years = fetchYears(url)
-        for year in years:
-            fetchReleases(year, 'all')
+        year_urls = fetchYears(url)
+        for url in year_urls:
+            print('fetching %s' % url)
+            data = common.getUrlAndRetry(url, folder)
+            common.writeReleases(data['releases'], folder, data, url)
     else:
+        folder += '/all'
         url = '%s/ocds-api/year/2017' % BASE
-        fetchReleases(url, 'sample')
+        print('fetching %s' % url)
+        data = common.getUrlAndRetry(url, folder)
+        common.writeReleases(data['releases'], folder, data, url)
 
 if __name__ == '__main__':
     main()
