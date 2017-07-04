@@ -1,31 +1,9 @@
-import json
 import optparse
+import os
 
 import requests
 
-
-def writeFile(fname, data, url):
-    try:
-        with open(fname, 'w', encoding='utf8') as f:
-            f.write(json.dumps(data, indent=2, ensure_ascii=False))
-    except Exception as e:
-        with open("errors.txt", 'a') as err:
-            print("Failed to write %s, %s" % (fname, e))
-            err.write(
-                "Failed to write %s, %s, %s\n" % (fname, e, url))
-
-
-def writeReleases(releases, folder, data, url):
-    for i, r in enumerate(releases):
-        r['packageInfo'] = {
-            'uri': None,  # This publisher does not supply a URI.
-            'publishedDate': data['publishedDate'],
-            'publisher': data['publisher']
-        }
-        fname = '%s/releases/%s-%s.json' % (folder, r['ocid'], r['id'])
-        writeFile(fname, r, url)
-        if folder == 'sample' and i >= 10:
-            break
+from common import common
 
 
 def main():
@@ -37,19 +15,18 @@ def main():
     url = 'http://www.contratosabiertos.cdmx.gob.mx/api/contratos/todos'
     r = requests.get(url)
     data = r.json()
-    packages = [d['uri'] for d in data]
+    package_urls = [d['uri'] for d in data]
+    folder = os.path.dirname(os.path.realpath(__file__))
     if options.all:
-        for p in packages:
-            print('fetching', p)
-            r = requests.get(p)
-            data = r.json()
-            writeReleases(data['releases'], 'all', data, p)
+        folder += '/all'
     else:
-        for p in packages[:4]:
-            print('fetching', p)
-            r = requests.get(p)
-            data = r.json()
-            writeReleases(data['releases'], 'sample', data, p)
+        folder += '/sample'
+        package_urls = package_urls[:4]
+    for url in package_urls:
+        print('fetching', url)
+        data = common.getUrlAndRetry(url, folder)
+        common.writeReleases(data['releases'], folder, data, url)
+
 
 if __name__ == '__main__':
     main()
