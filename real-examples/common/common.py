@@ -43,8 +43,8 @@ def writeReleases(releases, folder, data, url):
         # which should guarantee uniqueness.
         # Replace characters (e.g. in timestamps) that cause problems.
         fname = '%s-%s.json' % (
-            r['ocid'], r['id'].replace(':', '_').replace('.', '_')
-            .replace('/', ''))
+            r['ocid'].replace('/', ''),
+            r['id'].replace(':', '_').replace('.', '_').replace('/', ''))
         writeFile(fname, folder, r, url)
         if folder.endswith('sample') and i >= 10:
             break
