@@ -3,7 +3,7 @@ import os
 
 
 def writeFile(fname, folder, data, url):
-    if not os.path.exists(folder):
+    if not os.path.exists(folder + '/releases/'):
         os.makedirs(folder + '/releases/')
     try:
         with open('%s/releases/%s' % (folder, fname),
