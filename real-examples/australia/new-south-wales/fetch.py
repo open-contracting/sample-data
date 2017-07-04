@@ -1,33 +1,12 @@
 import json
 import optparse
+import os
 from pprint import pprint
 
 from pyquery import PyQuery as pq
 import requests
 
-
-def writeFile(fname, data, url):
-    try:
-        with open(fname, 'w', encoding='utf8') as f:
-            f.write(json.dumps(data, indent=2, ensure_ascii=False))
-    except Exception as e:
-        with open("errors.txt", 'a') as err:
-            print("Failed to write %s, %s" % (fname, e))
-            err.write(
-                "Failed to write %s, %s, %s\n" % (fname, e, url))
-
-
-def writeReleases(releases, folder, data, url):
-    for i, r in enumerate(releases):
-        r['packageInfo'] = {
-            'uri': None,  # This publisher does not supply a URI.
-            'publishedDate': data['publishedDate'],
-            'publisher': data['publisher']
-        }
-        fname = '%s/releases/%s-%s.json' % (folder, r['ocid'], r['id'])
-        writeFile(fname, r, url)
-        if folder == 'sample' and i >= 10:
-            break
+from common import common
 
 
 def main():
@@ -38,7 +17,7 @@ def main():
     (options, args) = parser.parse_args()
     url = 'https://tenders.nsw.gov.au'
     url += '/?event=public.api.%s.search&ResultsPerPage=1000'
-    # planning, tender, contract
+    folder = os.path.dirname(os.path.realpath(__file__))
     if options.all:
         release_types = ['planning', 'tender', 'contract']
         for r in release_types:
@@ -47,16 +26,19 @@ def main():
                 print('fetching', next_url)
                 r = requests.get(next_url)
                 data = r.json()
-                writeReleases(data['releases'], 'all', data, next_url)
+                common.writeReleases(
+                    data['releases'], '%s/all' % folder, data, next_url)
                 if 'next' in data['links']:
                     next_url = data['links']['next']
                 else:
                     next_url = None
     else:
         next_url = url % 'planning'
+        print('fetching', next_url)
         r = requests.get(next_url)
         data = r.json()
-        writeReleases(data['releases'], 'sample', data, next_url)
+        common.writeReleases(
+            data['releases'], '%s/sample' % folder, data, next_url)
 
 if __name__ == '__main__':
     main()
