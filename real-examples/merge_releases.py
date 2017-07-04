@@ -33,7 +33,7 @@ def main():
         help='Path to release files, e.g. paraguay/sample/releases')
     parser.add_option(
         '-o', '--outfilepath', action='store', default=None,
-        help='Path to release files, e.g. paraguay/sample/releases')
+        help='Path to record files, e.g. paraguay/sample/records')
     (options, args) = parser.parse_args()
     if not options.filepath:
         parser.error(
