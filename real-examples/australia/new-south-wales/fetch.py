@@ -1,9 +1,7 @@
-import json
 import optparse
 import os
 from pprint import pprint
 
-from pyquery import PyQuery as pq
 import requests
 
 from common import common
@@ -19,26 +17,26 @@ def main():
     url += '/?event=public.api.%s.search&ResultsPerPage=1000'
     folder = os.path.dirname(os.path.realpath(__file__))
     if options.all:
+        folder += '/all'
         release_types = ['planning', 'tender', 'contract']
         for r in release_types:
             next_url = url % r
             while next_url:
                 print('fetching', next_url)
-                r = requests.get(next_url)
-                data = r.json()
+                data = common.getUrlAndRetry(next_url, folder)
                 common.writeReleases(
-                    data['releases'], '%s/all' % folder, data, next_url)
+                    data['releases'], folder, data, next_url)
                 if 'next' in data['links']:
                     next_url = data['links']['next']
                 else:
                     next_url = None
     else:
+        folder += '/sample'
         next_url = url % 'planning'
         print('fetching', next_url)
-        r = requests.get(next_url)
-        data = r.json()
+        data = common.getUrlAndRetry(next_url, folder)
         common.writeReleases(
-            data['releases'], '%s/sample' % folder, data, next_url)
+            data['releases'], folder, data, next_url)
 
 if __name__ == '__main__':
     main()
