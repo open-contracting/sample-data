@@ -1,8 +1,6 @@
 import optparse
 import os
 
-import requests
-
 from common import common
 
 
@@ -15,6 +13,7 @@ def main():
     BASE = 'https://buyandsell.gc.ca'
     folder = os.path.dirname(os.path.realpath(__file__))
     if options.all:
+        folder += '/all'
         # No new data is being published, so just get the four
         # years that exist.
         urls = []
@@ -22,19 +21,14 @@ def main():
             url = '%s/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-%s-%s.json' \
                 % (BASE, i, i+1)
             urls.append(url)
-        for url in urls:
-            print("Fetching releases for %s" % url)
-            r = requests.get(url)
-            data = r.json()
-            common.writeReleases(
-                data['releases'], '%s/all' % folder, data, url)
     else:
-        url = '%s/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json' % BASE
+        folder += '/sample'
+        urls = ['%s/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json' % BASE]
+    for url in urls:
         print("Fetching releases for %s" % url)
-        r = requests.get(url)
-        data = r.json()
+        data = common.getUrlAndRetry(url, folder)
         common.writeReleases(
-            data['releases'], '%s/sample' % folder, data, url)
+            data['releases'], folder, data, url)
 
 if __name__ == '__main__':
     main()
