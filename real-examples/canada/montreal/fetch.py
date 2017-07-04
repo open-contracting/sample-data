@@ -1,38 +1,7 @@
-import json
 import optparse
+import os
 
-import requests
-from pprint import pprint
-
-
-def writeFile(fname, data, url):
-    try:
-        with open(fname, 'w', encoding='utf8') as f:
-            f.write(json.dumps(data, indent=2, ensure_ascii=False))
-    except Exception as e:
-        with open("errors.txt", 'a') as err:
-            print("Failed to write %s, %s" % (fname, e))
-            err.write(
-                "Failed to write %s, %s, %s\n" % (fname, e, url))
-
-
-def fetchReleases(url, folder):
-    print("Fetching releases for %s" % url)
-    r = requests.get(url)
-    data = r.json()
-    releases = data['releases']
-    for i, r in enumerate(releases):
-        r['packageInfo'] = {
-            'uri': data['uri'],
-            'publishedDate': data['publishedDate'],
-            'publisher': data['publisher']
-        }
-        fname = '%s/releases/%s-%s.json' % \
-            (folder, r['ocid'].replace('/', '_'), r['id'].replace('/', '_'))
-        writeFile(fname, r, url)
-        if folder == 'sample' and i >= 10:
-            break
-    return releases
+from common import common
 
 
 def main():
@@ -42,16 +11,23 @@ def main():
                       help='Fetch all records, rather than a small extract')
     (options, args) = parser.parse_args()
     url = 'https://ville.montreal.qc.ca/vuesurlescontrats/api/releases.json'
+    folder = os.path.dirname(os.path.realpath(__file__))
     more_releases = True
-    offset = 0
     if options.all:
+        offset = 0
         while more_releases:
             next_url = url + '?limit=10000&offset=%s' % offset
-            more_releases = len(fetchReleases(next_url, 'all'))
+            print('fetching %s' % next_url)
+            data = common.getUrlAndRetry(next_url, folder)
+            more_releases = len(common.writeReleases(
+                data['releases'], '%s/all' % folder, data, next_url))
             offset += 10000
     else:
         url += '?limit=10'
-        fetchReleases(url, 'sample')
+        print('fetching %s' % url)
+        data = common.getUrlAndRetry(url, folder)
+        common.writeReleases(
+            data['releases'], '%s/sample' % folder, data, url)
 
 if __name__ == '__main__':
     main()
