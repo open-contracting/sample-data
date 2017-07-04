@@ -1,8 +1,7 @@
-import json
 import optparse
+import os
 
-import requests
-from pprint import pprint
+from common import common
 
 
 def writeFile(fname, data, url):
@@ -38,18 +37,21 @@ def main():
                       help='Fetch all records, rather than a small extract')
     (options, args) = parser.parse_args()
     url = 'https://api.colombiacompra.gov.co/releases/'
+    folder = os.path.dirname(os.path.realpath(__file__))
     if options.all:
         next_url = url
         while next_url:
-            # TODO: Add error handling, there are 400k pages to download.
-            r = requests.get(next_url)
-            data = r.json()
-            fetchReleases(data, 'all', next_url)
+            print('fetching %s' % next_url)
+            data = common.getUrlAndRetry(next_url, folder)
+            common.writeReleases(
+                data['releases'], '%s/all' % folder, data, next_url)
             next_url = data['links']['next']
     else:
-        r = requests.get(url)
-        data = r.json()
-        fetchReleases(data, 'sample', url)
+        print('fetching %s' % url)
+        data = common.getUrlAndRetry(url, folder)
+        common.writeReleases(
+            data['releases'], '%s/sample' % folder, data, url)
+
 
 if __name__ == '__main__':
     main()
