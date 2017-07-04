@@ -1,5 +1,8 @@
 import json
 import os
+import time
+
+import requests
 
 
 def writeFile(fname, folder, data, url):
@@ -48,3 +51,43 @@ def writeReleases(releases, folder, data, url):
         writeFile(fname, folder, r, url)
         if folder.endswith('sample') and i >= 10:
             break
+    return releases
+
+
+def getUrlAndRetry(url, folder, isJson=True, tries=1):
+    '''
+    Handle transient network errors, and URLs with
+    intermittent timeouts.
+    '''
+    if tries > 10:
+        err = 'Too many retries, giving up: %s' % url
+        print(err)
+        with open('%s/errors.txt' % folder, 'a') as err:
+            err.write(err)
+        return None
+    try:
+        r = requests.get(url)
+    except requests.exceptions.Timeout:
+        print('Request timeout (attempt %s), retrying %s' % (tries, url))
+        time.sleep(10)
+        return getUrlAndRetry(url, folder, isJson, tries+1)
+    except requests.ConnectionError:
+        print('Connection error (attempt %s), retrying %s' % (tries, url))
+        time.sleep(10)
+        return getUrlAndRetry(url, folder, isJson, tries+1)
+    except requests.exceptions.TooManyRedirects:
+        err = 'Too many redirects, giving up: %s' % url
+        print(err)
+        with open('%s/errors.txt' % folder, 'a') as err:
+            err.write(err)
+        return None
+    except requests.exceptions.RequestException as e:
+        err = 'Request exception %s, giving up: %s' % (e, url)
+        print(err)
+        with open('%s/errors.txt' % folder, 'a') as err:
+            err.write(err)
+        return None
+    if isJson:
+        return r.json()
+    else:
+        return r
