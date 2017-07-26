@@ -28,12 +28,10 @@ versioned_release = ocdsmerge.merge_versioned(release_list)
 
 with open("record/ocds-213czf-000-00001.json", 'w') as f:
     json.dump({
-        'uri': 'http://standard.open-contracting.org/examples/1.1/records/ocds-213czf-000-00001.json',
+        'uri': 'http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json',
         'packages': packages,
         'publisher': package['publisher'],
         'publishedDate': '2014-02-02T13:02:00Z',
-        'version':'1.1',
-        'extensions':[],
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
             'releases': releases,
@@ -43,12 +41,10 @@ with open("record/ocds-213czf-000-00001.json", 'w') as f:
 
 with open("record/ocds-213czf-000-00001-withversions.json", 'w') as f:
     json.dump({
-        'uri': 'http://standard.open-contracting.org/examples/1.1/records/ocds-213czf-000-00001.json',
+        'uri': 'http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json',
         'packages': packages,
         'publisher': package['publisher'],
         'publishedDate': '2014-02-02T13:02:00Z',
-        'version':'1.1',
-        'extensions':[],
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
             'releases': releases,
