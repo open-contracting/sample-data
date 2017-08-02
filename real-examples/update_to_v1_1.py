@@ -133,7 +133,28 @@ def upgrade_transactions(release):
 
     return release
 
+def upgrade_amendments(release):
+    try:
+        release['tender'] = upgrade_amendment(release['tender'])
+        for award in release['awards']:
+            award = upgrade_amendment(award)
+        for contract in release['contracts']:
+            contract = upgrade_amendment(contract)
+    except Exception as e:
+        pass
+    return release
 
+def upgrade_amendment(parent):
+    try:
+        amendment = {}
+        amendment['date'] = parent['amendment']['date']
+        amendment['rationale'] = parent['amendment']['rationale']
+        parent['amendments'] = []
+        parent['amendments'].append(amendment)
+    except Exception as e:
+        pass
+    return parent
+    
 def remove_empty_arrays(data, keys=None):
     '''
     Drill doesn't cope well with empty arrays. Remove them.
@@ -154,6 +175,7 @@ def remove_empty_arrays(data, keys=None):
 
 def upgrade(release):
     release = OrderedDict(release)
+    release = upgrade_amendments(release)
     release = upgrade_parties(release)
     release = upgrade_transactions(release)
     if 'parties' in release:
