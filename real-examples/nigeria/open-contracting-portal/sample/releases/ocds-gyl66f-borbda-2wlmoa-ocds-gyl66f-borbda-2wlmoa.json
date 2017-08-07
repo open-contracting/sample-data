@@ -9,68 +9,32 @@
   "initiationType": "tender",
   "parties": [
     {
-      "identifier": {
-        "id": "27089502",
-        "legalName": "benin-owena river basin development authority",
-        "scheme": "NGA-BRBDA"
-      },
+      "id": "7012a47472d96bcc5be07746bbafdb94",
       "name": "benin-owena river basin development authority",
       "roles": [
         "buyer"
-      ],
-      "id": "NGA-BRBDA-27089502"
+      ]
     },
     {
-      "additionalIdentifiers": [
-        {
-          "id": "42469649",
-          "legalName": "benin-owena river basin development authority",
-          "scheme": "NGA-BRBDA"
-        }
-      ],
-      "address": {
-        "countryName": "Nigeria"
-      },
-      "contactPoint": {},
-      "identifier": {
-        "id": "02143276",
-        "legalName": "benin-owena river basin development authority",
-        "scheme": "NGA-BRBDA"
-      },
+      "id": "dbe2d328f1f7a75e006f86424aa054c4",
       "name": "benin-owena river basin development authority",
       "roles": [
         "procuringEntity"
-      ],
-      "id": "NGA-BRBDA-02143276"
+      ]
     },
     {
-      "address": {},
-      "contactPoint": {},
-      "identifier": {
-        "id": "0510979101",
-        "scheme": "NGA-BPPNO"
-      },
+      "id": "57e677cd1da5f677437d4c7f8a6d33c4",
+      "name": "",
       "roles": [
         "tenderer"
-      ],
-      "id": "NGA-BPPNO-0510979101"
+      ]
     },
     {
-      "additionalIdentifiers": [
-        {
-          "legalName": "FIC Consultant Limited"
-        }
-      ],
-      "identifier": {
-        "id": "04011010",
-        "legalName": "fic consultant limited",
-        "scheme": "NGA-FCL"
-      },
+      "id": "efd41d2e119a25d4ce494126b3672862",
       "name": "fic consultant limited",
       "roles": [
         "supplier"
-      ],
-      "id": "NGA-FCL-04011010"
+      ]
     }
   ],
   "awards": [
@@ -98,7 +62,7 @@
       "status": "active",
       "suppliers": [
         {
-          "id": "NGA-FCL-04011010",
+          "id": "efd41d2e119a25d4ce494126b3672862",
           "name": "fic consultant limited"
         }
       ],
@@ -110,7 +74,7 @@
     }
   ],
   "buyer": {
-    "id": "NGA-BRBDA-27089502",
+    "id": "7012a47472d96bcc5be07746bbafdb94",
     "name": "benin-owena river basin development authority"
   },
   "contracts": [
@@ -281,7 +245,7 @@
     ],
     "procurementMethod": "open",
     "procuringEntity": {
-      "id": "NGA-BRBDA-02143276",
+      "id": "dbe2d328f1f7a75e006f86424aa054c4",
       "name": "benin-owena river basin development authority"
     },
     "status": "complete",
@@ -291,7 +255,7 @@
     },
     "tenderers": [
       {
-        "id": "NGA-BPPNO-0510979101",
+        "id": "57e677cd1da5f677437d4c7f8a6d33c4",
         "name": ""
       }
     ],
@@ -311,5 +275,5 @@
     }
   },
   "version": "1.1",
-  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short"
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short\n"
 }
