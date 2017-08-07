@@ -16,6 +16,4 @@ Once you have downloaded the publications, you can then transform to v1.1 of the
 * ```validate.py```: validates releases against the v1.1 schema. This script adds a new top-level property called `validationErrors` to each release, storing details of any validation errors. Run with `python validate.py -f path/to/releases`.
 * ```merge_releases.py```: merge releases into records. This script adds a new top-level property called `validationErrors` to each release, storing details of any validation errors. Run with `python merge_releases.py --filepath path/to/releases  --outfilepath path/to/records`.
 
-You can then upload your validated, updated releases and records to the OCDS AWS bucket, in order to run queries against them. For example:
-
-    aws s3 sync australia/new-south-wales/all/releases s3://ocds1/releases --exclude '.DS_Store' --exclude '.keep'
+You can then upload files to BigQuery, as described in the `tools` directory.
