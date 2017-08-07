@@ -3,7 +3,7 @@ import json
 import optparse
 
 import requests
-from jsonschema import validate
+from jsonschema import Draft3Validator
 
 '''
 Validate a set of JSON files against a given OCDS schema,
@@ -60,15 +60,15 @@ def main():
                 print('Problem loading', filename)
                 print(e)
                 continue
-            try:
-                validate(data, schema)
-            except Exception as e:
-                location = '/'.join(e.absolute_schema_path)
-                message = e.message
+            v = Draft3Validator(schema)
+            errors = sorted(v.iter_errors(data), key=str)
+            data['validationErrors'] = ''
+            for error in errors:
+                location = '/'.join(error.absolute_schema_path)
+                message = "%s: %s\n" % (location, error.message)
+                data['validationErrors'] += message
                 if options.verbose:
-                    print('\nProblem validating', filename)
-                    print("%s: %s" % (location, message))
-                data['validationErrors'] = str("%s: %s" % (location, message))
+                    print(message)
             with open(filename, 'w') as writefile:
                 writefile.write(json.dumps(data, indent=2))
 
