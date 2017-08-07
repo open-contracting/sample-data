@@ -8,7 +8,8 @@ Given a set of OCDS releases, fix problems that will stop them loading
 into BigQuery.
 Currently this file does the following:
 - Converts ID fields that are integers to string values
-- Removes various additional fields found in publisher files
+- Manually removes various additional fields in publisher files
+- Manually fixes various broken fields in publisher files
 - Prints converted data to a newline-delimited JSON output file.
 '''
 
@@ -50,6 +51,9 @@ def fix_uk_issues(data):
 
 
 def fix_mexico_grupo_issues(data):
+    '''
+    Remove extra field.
+    '''
     if 'tender' in data:
         if 'metodoDeAdquisicion' in data['tender']:
             del data['tender']['metodoDeAdquisicion']
@@ -58,7 +62,7 @@ def fix_mexico_grupo_issues(data):
 
 def fix_mexico_cdmx_issues(data):
     '''
-    Removes extra fields.
+    Remove extra fields, iteratively.
     '''
     for k, v in data.items():
         forbidden = [
@@ -89,7 +93,7 @@ def fix_moldova_issues(data):
 
 def fix_nsw_issues(data):
     '''
-    Fix typo'd field name.
+    Remove extra keys, fix string formatting.
     '''
     permitted_tender_keys = [
         u'procurementMethod', u'amendment',
@@ -109,18 +113,6 @@ def fix_nsw_issues(data):
                 forbidden_keys.append(k)
     for f in forbidden_keys:
         del data['tender'][f]
-        # if 'multiAgencyAccess' in data['tender']:
-        #     del data['tender']['multiAgencyAccess']
-        # if 'PPstatus' in data['tender']:
-        #     del data['tender']['PPstatus']
-        # if 'estimatedDateToMarket' in data['tender']:
-        #     del data['tender']['estimatedDateToMarket']
-        # if 'inheritanceType' in data['tender']:
-        #     del data['tender']['inheritanceType']
-        # if 'tenderType' in data['tender']:
-        #     del data['tender']['tenderType']
-        # if 'RFTUUID' in data['tender']:
-        #     del data['tender']['RFTUUID']
         if 'amendment' in data['tender'] and \
                 'changes' in data['tender']['amendment']:
             for c in data['tender']['amendment']['changes']:
@@ -136,16 +128,14 @@ def fix_nsw_issues(data):
             if 'title' in a and \
                     (type(a['title']) is int or type(a['title']) is float):
                 a['title'] = str(a['title'])
-            # if 'id' in a and \
-            #         (type(a['id']) is int or type(a['id']) is float):
-            #     a['id'] = str(a['id'])
 
     return data
 
 
 def fix_taiwan_issues(data):
     '''
-    Fix typo'd field name.
+    Remove additional top-level field, fix packageInfo publisher
+    and date fields.
     '''
     if 'name' in data:
         del data['name']
@@ -155,8 +145,6 @@ def fix_taiwan_issues(data):
     }
     data['packageInfo']['publishedDate'] = \
         data['packageInfo']['publishedDate'] + ' 00:00'
-    # TODO: Convert tag from string to array.
-    # Also, check how it passed validation?
     return data
 
 
