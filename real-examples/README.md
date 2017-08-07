@@ -37,6 +37,8 @@ You can then validate the transformed releases against the OCDS 1.1 schema, reco
 
 This script adds a new top-level property called `validationErrors` to each release, storing details of any validation errors.
 
+Append the `--verbose` argument if you want to see details of errors.
+
 Merge records to releases
 -------------------------
 
