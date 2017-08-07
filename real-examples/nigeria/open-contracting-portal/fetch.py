@@ -12,7 +12,7 @@ def main():
     parser.add_option('-a', '--all', action='store_true', default=False,
                       help='Fetch all records, rather than a small extract')
     (options, args) = parser.parse_args()
-    url = 'http://35.160.38.216/downloadSelected'
+    url = 'http://nigeriaoc.org/downloadSelected'
     r = requests.get(url)
     data = r.json()
     folder = os.path.dirname(os.path.realpath(__file__))
