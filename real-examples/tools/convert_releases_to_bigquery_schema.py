@@ -1,6 +1,7 @@
 import glob
 import json
 import optparse
+from datetime import datetime
 from pprint import pprint
 
 '''
@@ -139,12 +140,36 @@ def fix_taiwan_issues(data):
     '''
     if 'name' in data:
         del data['name']
-    name = data['packageInfo']['publisher']
-    data['packageInfo']['publisher'] = {
-        'name': name
-    }
-    data['packageInfo']['publishedDate'] = \
-        data['packageInfo']['publishedDate'] + ' 00:00'
+    if isinstance(data['packageInfo']['publisher'], str):
+        name = data['packageInfo']['publisher']
+        data['packageInfo']['publisher'] = {
+            'name': name
+        }
+    if len(data['packageInfo']['publishedDate']) < 17:
+        data['packageInfo']['publishedDate'] = \
+            data['packageInfo']['publishedDate'] + ' 00:00'
+    return data
+
+
+def fix_nigeria_issues(data):
+    '''
+    Fix misnamed property and date format, remove extra fields.
+    '''
+    if 'planning' in data and 'budget' in data['planning'] and \
+            'value' in data['planning']['budget']:
+        data['planning']['budget']['amount'] = \
+            data['planning']['budget']['value']
+        del data['planning']['budget']['value']
+    if 'packageInfo' in data and 'publishedDate' in data['packageInfo']:
+        d = datetime.strptime(
+            data['packageInfo']['publishedDate'], "%Y-%m-%dT%H:%M:%SZ")
+        data['packageInfo']['publishedDate'] = \
+            datetime.strftime(d, "%Y-%m-%d %H:%M")
+    # Remove extra fields.
+    if 'tender' in data and 'items' in data['tender']:
+        for i in data['tender']['items']:
+            del i['deliveryAddress']
+            del i['deliveryLocation']
     return data
 
 
@@ -160,9 +185,9 @@ def main():
     all_data = []
     files = glob.glob('%s*' % options.filepath)
     for i, filename in enumerate(files):
-        # print filename
+        print(filename)
         if not i % 1000:
-            print 'Processing file %s of %s' % (i, len(files))
+            print('Processing file %s of %s' % (i, len(files)))
         if not filename.endswith('.json'):
             print('Skipping non-JSON file %s' % filename)
             continue
@@ -180,6 +205,7 @@ def main():
             data = fix_moldova_issues(data)
             data = fix_nsw_issues(data)
             data = fix_taiwan_issues(data)
+            data = fix_nigeria_issues(data)
         all_data.append(data)
     with open('all-releases.json', 'w') as writefile:
         for d in all_data:
