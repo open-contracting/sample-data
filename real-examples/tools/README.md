@@ -9,6 +9,8 @@ The conversion script supplied will do this for you. To run it:
 
     python convert_releases_to_bigquery_schema.py -f ../mexico/grupo-aeroportuario/all/releases/
 
+This creates a new newline-delimited JSON file called `all-releases.json`, and does not change your original files.
+
 Upload files to BigQuery
 ------------------------
 
@@ -16,7 +18,9 @@ Now you can upload your releases to BigQuery. First install the [Cloud SDK tools
 
     bq load --source_format=NEWLINE_DELIMITED_JSON --schema=release-schema-bq.json --project_id ocds-172716 releases.mexico_grupo all-releases.json
 
-Note that this will *append* rows to existing tables - you therefore may want to delete the existing table before running this. You can delete tables in the BigQuery UI or via the command line.
+Change `releases.mexico_grupo` to the name of the table you want to create.
+
+If the table already exists, this will *append* rows - you therefore probably want to delete any existing table before running this. You can delete tables in the BigQuery UI or via the command line.
 
 If you are uploading records this for a new publisher, you may get BigQuery complaining about unknown columns, since it expects releases to conform exactly to the schema and does not like extra data. You should use the conversion script above to delete these columns from the source data.
 
