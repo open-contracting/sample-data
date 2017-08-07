@@ -1,7 +1,7 @@
 {
-  "ocid": "ocds-gyl66f-borbda-8w7obl",
-  "id": "ocds-gyl66f-borbda-8w7obl",
-  "date": "2011-11-30T00:00:00Z",
+  "ocid": "ocds-gyl66f-borbda-tm8tgr",
+  "id": "ocds-gyl66f-borbda-tm8tgr",
+  "date": "2014-10-20T00:00:00Z",
   "language": "EN",
   "tag": [
     "contract"
@@ -10,7 +10,7 @@
   "parties": [
     {
       "identifier": {
-        "id": "291028663",
+        "id": "5110926104",
         "legalName": "benin-owena river basin development authority",
         "scheme": "NGA-BRBDA"
       },
@@ -18,12 +18,12 @@
       "roles": [
         "buyer"
       ],
-      "id": "NGA-BRBDA-291028663"
+      "id": "NGA-BRBDA-5110926104"
     },
     {
       "additionalIdentifiers": [
         {
-          "id": "108886332",
+          "id": "105528059",
           "legalName": "benin-owena river basin development authority",
           "scheme": "NGA-BRBDA"
         }
@@ -33,7 +33,7 @@
       },
       "contactPoint": {},
       "identifier": {
-        "id": "1091011815",
+        "id": "024106151",
         "legalName": "benin-owena river basin development authority",
         "scheme": "NGA-BRBDA"
       },
@@ -41,50 +41,50 @@
       "roles": [
         "procuringEntity"
       ],
-      "id": "NGA-BRBDA-1091011815"
+      "id": "NGA-BRBDA-024106151"
     },
     {
       "address": {},
       "contactPoint": {},
       "identifier": {
-        "id": "321001230",
+        "id": "80702523",
         "scheme": "NGA-BPPNO"
       },
       "roles": [
         "tenderer"
       ],
-      "id": "NGA-BPPNO-321001230"
+      "id": "NGA-BPPNO-80702523"
     },
     {
       "additionalIdentifiers": [
         {
-          "legalName": "DTEC Nigeria Limited"
+          "legalName": "Kojo Motors Limited"
         }
       ],
       "identifier": {
-        "id": "17220017",
-        "legalName": "dtec nigeria limited",
-        "scheme": "NGA-DNL"
+        "id": "652390102",
+        "legalName": "kojo motors limited",
+        "scheme": "NGA-KML"
       },
-      "name": "dtec nigeria limited",
+      "name": "kojo motors limited",
       "roles": [
         "supplier"
       ],
-      "id": "NGA-DNL-17220017"
+      "id": "NGA-KML-652390102"
     }
   ],
   "awards": [
     {
-      "date": "2011-11-30T00:00:00Z",
-      "description": "Construction of Small Hydro Power Facilities at Okhunwon, Edo State.",
-      "id": "ocds-gyl66f-borbda-8w7obl",
+      "date": "2014-10-20T00:00:00Z",
+      "description": "Procurement of Toyota 2.7L Petrol Engine Project Vehicle",
+      "id": "ocds-gyl66f-borbda-tm8tgr",
       "items": [
         {
           "classification": {
-            "id": "147078107",
+            "id": "59408262",
             "scheme": "CPV"
           },
-          "id": "ocds-gyl66f-borbda-8w7obl-award-item",
+          "id": "ocds-gyl66f-borbda-tm8tgr-award-item",
           "quantity": 1,
           "unit": {
             "name": "Items",
@@ -98,70 +98,70 @@
       "status": "active",
       "suppliers": [
         {
-          "id": "NGA-DNL-17220017",
-          "name": "dtec nigeria limited"
+          "id": "NGA-KML-652390102",
+          "name": "kojo motors limited"
         }
       ],
-      "title": "Construction of Small Hydro Power Facilities at Okhunwon, Edo State.",
+      "title": "Procurement of Toyota 2.7L Petrol Engine Project Vehicle",
       "value": {
-        "amount": 156220610.1,
+        "amount": 13594736.84,
         "currency": "NGN"
       }
     }
   ],
   "buyer": {
-    "id": "NGA-BRBDA-291028663",
+    "id": "NGA-BRBDA-5110926104",
     "name": "benin-owena river basin development authority"
   },
   "contracts": [
     {
-      "awardID": "ocds-gyl66f-borbda-8w7obl-award",
-      "description": "Construction of Small Hydro Power Facilities at Okhunwon, Edo State.",
+      "awardID": "ocds-gyl66f-borbda-tm8tgr-award",
+      "description": "Procurement of Toyota 2.7L Petrol Engine Project Vehicle",
       "documents": [
         {
-          "id": "ocds-gyl66f-borbda-8w7obl",
+          "id": "ocds-gyl66f-borbda-tm8tgr",
           "language": "EN"
         }
       ],
-      "id": "ocds-gyl66f-borbda-8w7obl",
+      "id": "ocds-gyl66f-borbda-tm8tgr",
       "implementation": {
         "documents": [
           {
-            "id": "ocds-gyl66f-borbda-8w7obl",
+            "id": "ocds-gyl66f-borbda-tm8tgr",
             "language": "EN"
           }
         ],
         "milestones": [
           {
-            "dateModified": "2011-11-30T00:00:00Z",
-            "description": "0.7",
+            "dateModified": "2014-10-20T00:00:00Z",
+            "description": "1.0",
             "documents": [
               {
-                "id": "ocds-gyl66f-borbda-8w7obl-contract-implementation-document",
+                "id": "ocds-gyl66f-borbda-tm8tgr-contract-implementation-document",
                 "language": "EN"
               }
             ],
-            "dueDate": "2011-11-30T00:00:00Z",
-            "id": "ocds-gyl66f-borbda-8w7obl",
-            "status": "partiallyMet",
-            "title": "construction of small hydro power facilities at okhunwon, edo state.-implementation-progress"
+            "dueDate": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-tm8tgr",
+            "status": "met",
+            "title": "procurement of toyota 2.7l petrol engine project vehicle-implementation-progress"
           }
         ],
         "transactions": [
           {
             "amount": {
-              "amount": 156220610.1,
+              "amount": 13594736.84,
               "currency": "NGN"
             },
-            "date": "2011-11-30T00:00:00Z",
-            "id": "ocds-gyl66f-borbda-8w7obl-nga-contract-transactions-1081080107",
+            "date": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-tm8tgr-nga-contract-transactions-8610109809",
             "providerOrganization": {
-              "id": "118106556",
+              "id": "69286190",
               "legalName": "benin-owena river basin development authority",
               "scheme": "NGN-BRBDA"
             },
             "payer": {
-              "id": "NGN-BRBDA-118106556",
+              "id": "NGN-BRBDA-69286190",
               "name": "benin-owena river basin development authority"
             }
           }
@@ -170,13 +170,13 @@
       "items": [
         {
           "classification": {
-            "id": "31538370",
+            "id": "66615484",
             "scheme": "CPV"
           },
-          "id": "ocds-gyl66f-borbda-8w7obl",
+          "id": "ocds-gyl66f-borbda-tm8tgr",
           "quantity": 1,
           "unit": {
-            "name": "ocds-gyl66f-borbda-8w7obl-unit-item",
+            "name": "ocds-gyl66f-borbda-tm8tgr-unit-item",
             "value": {
               "amount": 0,
               "currency": "NGN"
@@ -186,55 +186,55 @@
       ],
       "period": {
         "endDate": "2014-12-15T00:00:00Z",
-        "startDate": null
+        "startDate": "2014-09-29T00:00:00Z"
       },
       "status": "active",
-      "title": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
+      "title": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
       "value": {
-        "amount": 156220610.1,
+        "amount": 13594736.84,
         "currency": "NGN"
       }
     }
   ],
   "planning": {
     "budget": {
-      "description": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
-      "id": "ocds-gyl66f-borbda-8w7obl",
-      "project": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
+      "description": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
+      "id": "ocds-gyl66f-borbda-tm8tgr",
+      "project": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
       "value": {
-        "amount": 20000000.0,
+        "amount": 50000000.0,
         "currency": "NGN"
       }
     },
     "documents": [
       {
-        "id": "ocds-gyl66f-borbda-8w7obl",
+        "id": "ocds-gyl66f-borbda-tm8tgr",
         "language": "EN"
       }
     ]
   },
   "tender": {
     "awardPeriod": {
-      "endDate": "2011-11-30T00:00:00Z",
-      "startDate": "2011-11-30T00:00:00Z"
+      "endDate": "2014-10-20T00:00:00Z",
+      "startDate": "2014-10-20T00:00:00Z"
     },
-    "description": "construction of small hydro power facilities at okhunwon, edo state.",
+    "description": "procurement of toyota 2.7l petrol engine project vehicle",
     "documents": [
       {
-        "id": "ocds-gyl66f-borbda-8w7obl",
+        "id": "ocds-gyl66f-borbda-tm8tgr",
         "language": "EN"
       }
     ],
     "enquiryPeriod": {
-      "endDate": "2015-08-21T00:00:00Z",
+      "endDate": "2014-08-21T00:00:00Z",
       "startDate": "2014-06-30T00:00:00Z"
     },
     "hasEnquiries": false,
-    "id": "ocds-gyl66f-borbda-8w7obl",
+    "id": "ocds-gyl66f-borbda-tm8tgr",
     "items": [
       {
         "classification": {
-          "id": "147078107",
+          "id": "59408262",
           "scheme": "CPV"
         },
         "deliveryAddress": {},
@@ -253,11 +253,11 @@
             "type": "Point"
           }
         },
-        "id": "ocds-gyl66f-borbda-8w7obl-tender-item-147078107",
+        "id": "ocds-gyl66f-borbda-tm8tgr-tender-item-59408262",
         "quantity": 1,
         "unit": {
           "value": {
-            "amount": 156220610.1,
+            "amount": 13594736.84,
             "currency": "NGN"
           }
         }
@@ -265,39 +265,39 @@
     ],
     "milestones": [
       {
-        "dateModified": "2011-11-30T00:00:00Z",
-        "description": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
+        "dateModified": "2014-10-20T00:00:00Z",
+        "description": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
         "documents": [
           {
-            "id": "ocds-gyl66f-borbda-8w7obl",
+            "id": "ocds-gyl66f-borbda-tm8tgr",
             "language": "EN"
           }
         ],
-        "dueDate": "2011-11-30T00:00:00Z",
-        "id": "ocds-gyl66f-borbda-8w7obl",
-        "status": "partiallyMet",
-        "title": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State."
+        "dueDate": "2014-10-20T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-tm8tgr",
+        "status": "met",
+        "title": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle"
       }
     ],
     "procurementMethod": "open",
     "procuringEntity": {
-      "id": "NGA-BRBDA-1091011815",
+      "id": "NGA-BRBDA-024106151",
       "name": "benin-owena river basin development authority"
     },
-    "status": "active",
+    "status": "complete",
     "tenderPeriod": {
-      "endDate": "2015-08-21T00:00:00Z",
+      "endDate": "2014-08-21T00:00:00Z",
       "startDate": "2014-06-30T00:00:00Z"
     },
     "tenderers": [
       {
-        "id": "NGA-BPPNO-321001230",
+        "id": "NGA-BPPNO-80702523",
         "name": ""
       }
     ],
-    "title": "construction of small hydro power facilities at okhunwon, edo state.",
+    "title": "procurement of toyota 2.7l petrol engine project vehicle",
     "value": {
-      "amount": 156220610.1,
+      "amount": 13594736.84,
       "currency": "NGN"
     }
   },
