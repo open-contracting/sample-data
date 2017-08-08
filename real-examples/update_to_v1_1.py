@@ -154,7 +154,8 @@ def upgrade_amendment(parent):
     except Exception as e:
         pass
     return parent
-    
+
+
 def remove_empty_arrays(data, keys=None):
     '''
     Drill doesn't cope well with empty arrays. Remove them.
@@ -211,7 +212,11 @@ def main():
         with open(filename, 'r') as file:
             # print('\n-------------')
             # print(filename)
-            data = json.loads(file.read())
+            try:
+                data = json.loads(file.read())
+            except json.decoder.JSONDecodeError:
+                print('JSON decode error! %s' % filename)
+                continue
             data = remove_empty_arrays(data)
             data = OrderedDict(data)
             data.update({"version": "1.1"})
@@ -222,8 +227,15 @@ def main():
                         record['compiledRelease'] = \
                             upgrade(record['compiledRelease'])
             else:
-                # Handle individual releases.
-                data = upgrade(data)
+                # Handle release packages.
+                if 'releases' in data:
+                    if len(data['releases']) > 1:
+                        print('PACKAGE WITH MULTIPLE RELEASES')
+                        sys.exit()
+                    data = upgrade(data['releases'][0])
+                else:
+                    # Handle releases.
+                    data = upgrade(data)
             with open(filename, 'w') as writefile:
                 writefile.write(json.dumps(data, indent=2))
         # except Exception as e:
