@@ -208,8 +208,21 @@ def fix_nigeria_issues(data):
                 data['packageInfo']['publishedDate'], "%Y-%m-%dT%H:%M:%SZ")
             data['packageInfo']['publishedDate'] = \
                 datetime.strftime(d, "%Y-%m-%d %H:%M")
-        except ValueError:
+        except (ValueError, TypeError) as e:
             pass
+    return data
+
+
+def fix_colombia_issues(data):
+    '''
+    Fix a one-off formatting error.
+    '''
+    if 'planning' in data and 'budget' in data['planning']:
+        budget = data['planning']['budget']
+        if 'amount' in budget and 'amount' in budget['amount']:
+            amount = budget['amount']['amount']
+            if amount.strip() == "450.000.000":
+                budget['amount']['amount'] = 450000000
     return data
 
 
@@ -402,6 +415,7 @@ def main():
             data = fix_nigeria_issues(data)
             data = fix_montreal_issues(data)
             data = fix_taiwan_issues(data)
+            data = fix_colombia_issues(data)
         all_data.append(data)
     with open('all-releases.json', 'w') as writefile:
         for d in all_data:
