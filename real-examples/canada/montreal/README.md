@@ -7,7 +7,7 @@ The data is accessible in OCDS format from the 'Export' button, or via the API e
 
 Note that there seem to be some duplicate release IDs: e.g. `f3c0841b7de8ff3e335518790948349e38091257` occurs more than once.
 
-There were 85,533 unique release IDs as of 2016/06/29.
+There were 89601 release files as of 2017/08/07.
 
 Currently the releases all fail validation with:
 
