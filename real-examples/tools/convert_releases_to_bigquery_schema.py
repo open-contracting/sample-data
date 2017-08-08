@@ -45,13 +45,14 @@ def fix_date_formats(mydict):
     for k, v in mydict.items():
         if k == 'date' or k == 'startDate' \
                 or k == 'endDate' or k == 'awardDate':
-            try:
-                d = datetime.strptime(
-                    mydict[k], "%Y-%m-%d")
-                mydict[k] = \
-                    datetime.strftime(d, "%Y-%m-%d %H:%M")
-            except ValueError:
-                pass
+            if mydict[k]:
+                try:
+                    d = datetime.strptime(
+                        mydict[k], "%Y-%m-%d")
+                    mydict[k] = \
+                        datetime.strftime(d, "%Y-%m-%d %H:%M")
+                except ValueError:
+                    pass
         elif type(v) is dict:
             mydict[k] = fix_date_formats(mydict[k])
         elif type(v) is list:
@@ -227,7 +228,7 @@ def fix_colombia_issues(data):
         budget = data['planning']['budget']
         if 'amount' in budget and 'amount' in budget['amount']:
             amount = budget['amount']['amount']
-            if amount.strip() == "450.000.000":
+            if amount and amount.strip() == "450.000.000":
                 budget['amount']['amount'] = 450000000
     return data
 
