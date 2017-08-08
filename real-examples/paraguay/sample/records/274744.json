@@ -1,0 +1,1821 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/274744.json",
+  "publishedDate": "2017-08-08T08:24:42-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/274744-adquisicion-materiales-mantenimiento-red-planta-externa.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1.json",
+    "https://www.contrataciones.gov.py/datos/id/award/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/274744-gustavo-alberto-aquino-alfieri-3.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/274744-nelson-francisco-vera-quintana-2.json"
+  ],
+  "records": [
+    {
+      "ocid": "ocds-03ad3f-274744",
+      "releases": [
+        {
+          "date": "2014-11-05T11:02:11-05:00",
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/274744-adquisicion-materiales-mantenimiento-red-planta-externa.json"
+        },
+        {
+          "date": "2015-12-21T16:01:29-05:00",
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1.json"
+        },
+        {
+          "date": "2016-07-14T17:40:06-04:00",
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1.json"
+        },
+        {
+          "date": "2016-05-26T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/274744-gustavo-alberto-aquino-alfieri-3.json"
+        },
+        {
+          "date": "2016-05-26T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/274744-nelson-francisco-vera-quintana-2.json"
+        }
+      ],
+      "compiledRelease": {
+        "language": "es",
+        "ocid": "ocds-03ad3f-274744",
+        "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+        "date": "2017-08-08T08:24:42-04:00",
+        "tag": [
+          "compiled"
+        ],
+        "initiationType": "tender",
+        "planning": {
+          "budget": {
+            "description": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA",
+            "amount": {
+              "amount": 1000000000.0,
+              "currency": "PYG"
+            }
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa"
+        },
+        "tender": {
+          "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+          "title": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+          "status": "complete",
+          "lots": [
+            {
+              "id": "nYZlDIKXpLc%3D",
+              "title": "Lote 1",
+              "items": [
+                "4ruk%2FtPXESNg3mM07iELNw%3D%3D",
+                "w7g3jd%2FRAsNg3mM07iELNw%3D%3D",
+                "okvgy2YVEJVg3mM07iELNw%3D%3D",
+                "TRF2gO%2BkGrlg3mM07iELNw%3D%3D",
+                "9K2r2yU3jURg3mM07iELNw%3D%3D",
+                "kl26gyNzSKFg3mM07iELNw%3D%3D",
+                "YyvSo6JGH3pg3mM07iELNw%3D%3D",
+                "nrfO75Zbl21g3mM07iELNw%3D%3D",
+                "5em1OLG1aDpg3mM07iELNw%3D%3D",
+                "KFtswxGOjLdg3mM07iELNw%3D%3D",
+                "OxSDU8hziCtg3mM07iELNw%3D%3D",
+                "u2Ed6DONw21g3mM07iELNw%3D%3D",
+                "ILXt%2BLHy0yJg3mM07iELNw%3D%3D",
+                "MLrv7mD2kz5g3mM07iELNw%3D%3D",
+                "yNfFLbAP53Bg3mM07iELNw%3D%3D",
+                "hbVOtNex%2FP5g3mM07iELNw%3D%3D",
+                "OHgEq3Xhth9g3mM07iELNw%3D%3D",
+                "oMrQJTbwkI1g3mM07iELNw%3D%3D",
+                "NKJr5TxzHx1g3mM07iELNw%3D%3D",
+                "4ROGiavwbbRg3mM07iELNw%3D%3D",
+                "9GNQoc0yZdVg3mM07iELNw%3D%3D",
+                "jRQTDVKt2Itg3mM07iELNw%3D%3D",
+                "0KCGTin%2BsNNg3mM07iELNw%3D%3D",
+                "7OfMVXLB6%2FNg3mM07iELNw%3D%3D",
+                "Z7tiaOHUdrFg3mM07iELNw%3D%3D",
+                "D%2FsA244J1fJg3mM07iELNw%3D%3D",
+                "Y7U7H9aYpgNg3mM07iELNw%3D%3D",
+                "oxOj7JBTbARg3mM07iELNw%3D%3D",
+                "JwGmWbsT1oBg3mM07iELNw%3D%3D",
+                "1L%2F14%2BQoalNg3mM07iELNw%3D%3D",
+                "KgoW%2BdSUda1g3mM07iELNw%3D%3D",
+                "DEjqXgqsp0Vg3mM07iELNw%3D%3D",
+                "KSORJTXQrwxg3mM07iELNw%3D%3D",
+                "ZoNQ0XzP6aNg3mM07iELNw%3D%3D",
+                "QmGBH2NIRXhg3mM07iELNw%3D%3D",
+                "c2451IOVFrJg3mM07iELNw%3D%3D",
+                "Jifn8OT9duNg3mM07iELNw%3D%3D",
+                "SIezvjJD%2Fztg3mM07iELNw%3D%3D",
+                "Sm1ksgmEW%2BFg3mM07iELNw%3D%3D",
+                "kywEJ%2B%2FG%2Fdlg3mM07iELNw%3D%3D",
+                "ULSLxhgb%2BHRg3mM07iELNw%3D%3D",
+                "BkH%2F40mblrNg3mM07iELNw%3D%3D",
+                "Hs0jNALrErRg3mM07iELNw%3D%3D",
+                "1UGYt%2BNOAOFg3mM07iELNw%3D%3D",
+                "YCt9AbOliPlg3mM07iELNw%3D%3D",
+                "jiyk5HJylfdg3mM07iELNw%3D%3D",
+                "AlNgXMgitgVg3mM07iELNw%3D%3D",
+                "DYfpugvFVaJg3mM07iELNw%3D%3D",
+                "DYnB13JUiVJg3mM07iELNw%3D%3D",
+                "dfgcKOBH%2B6dg3mM07iELNw%3D%3D",
+                "3Uew26jzdZhg3mM07iELNw%3D%3D",
+                "r%2F06Emgq7wRg3mM07iELNw%3D%3D",
+                "B4lrQXBcdUdg3mM07iELNw%3D%3D"
+              ]
+            }
+          ],
+          "items": [
+            {
+              "description": "Caja terminal",
+              "id": "4ruk%2FtPXESNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-002"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 163010.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Caja terminal",
+              "id": "w7g3jd%2FRAsNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-002"
+              },
+              "quantity": 400.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 138750.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Conector para cables multipares",
+              "id": "okvgy2YVEJVg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121409-014",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+              },
+              "quantity": 1000000.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 236.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Manguito",
+              "id": "TRF2gO%2BkGrlg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+              },
+              "quantity": 150.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 117850.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Manguito",
+              "id": "9K2r2yU3jURg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+              },
+              "quantity": 150.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 581026.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Manguito",
+              "id": "kl26gyNzSKFg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 747033.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Manguito",
+              "id": "YyvSo6JGH3pg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 747033.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Manguito",
+              "id": "nrfO75Zbl21g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 996044.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Manguito",
+              "id": "5em1OLG1aDpg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+              },
+              "quantity": 400.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 232943.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Manguito",
+              "id": "KFtswxGOjLdg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43222825-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 243243.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Espiral preformado",
+              "id": "OxSDU8hziCtg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121630-016",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-016"
+              },
+              "quantity": 300.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 190000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Espiral preformado",
+              "id": "u2Ed6DONw21g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121630-016",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-016"
+              },
+              "quantity": 300.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 18620.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Espiral preformado",
+              "id": "ILXt%2BLHy0yJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121630-016",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-016"
+              },
+              "quantity": 250.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 10100.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Espiral preformado",
+              "id": "MLrv7mD2kz5g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121630-016",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-016"
+              },
+              "quantity": 250.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 10100.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Espiral preformado",
+              "id": "yNfFLbAP53Bg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121630-016",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-016"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 23215.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Espiral preformado",
+              "id": "hbVOtNex%2FP5g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121630-016",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-016"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 12500.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Brida de suspension",
+              "id": "OHgEq3Xhth9g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121630-020",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-020"
+              },
+              "quantity": 1000.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 13260.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Ducto de acero ",
+              "id": "oMrQJTbwkI1g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121207-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121207-002"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 63050.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Guardacabo de acero",
+              "id": "NKJr5TxzHx1g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31162504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31162504-002"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 650.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Guardacabo de acero",
+              "id": "4ROGiavwbbRg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31162504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31162504-002"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 650.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Guardacabo de acero",
+              "id": "9GNQoc0yZdVg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31162504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31162504-002"
+              },
+              "quantity": 500.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 975.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Guardacabo de acero",
+              "id": "jRQTDVKt2Itg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31162504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31162504-002"
+              },
+              "quantity": 500.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 780.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Guardacabo de acero",
+              "id": "0KCGTin%2BsNNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31162504-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31162504-002"
+              },
+              "quantity": 500.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 1040.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Prensita para empalme",
+              "id": "7OfMVXLB6%2FNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121701-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121701-002"
+              },
+              "quantity": 1000.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 650.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Prensita para empalme",
+              "id": "Z7tiaOHUdrFg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121701-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121701-002"
+              },
+              "quantity": 1000.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 1300.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Prensita para empalme",
+              "id": "D%2FsA244J1fJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121701-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121701-002"
+              },
+              "quantity": 1000.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 1950.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Disco de corte para amoladora",
+              "id": "Y7U7H9aYpgNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "20101712-998",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/20101712-998"
+              },
+              "quantity": 20.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 18200.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Electrodo",
+              "id": "oxOj7JBTbARg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121436-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121436-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Kilogramos",
+                "value": {
+                  "amount": 23400.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Hoja de sierra",
+              "id": "JwGmWbsT1oBg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "27112802-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/27112802-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 6500.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Cable Telefonico (cruzada)",
+              "id": "1L%2F14%2BQoalNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121616-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121616-006"
+              },
+              "quantity": 500.0,
+              "unit": {
+                "name": "Metros",
+                "value": {
+                  "amount": 1794.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Cable Telefonico (cruzada)",
+              "id": "KgoW%2BdSUda1g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121616-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121616-006"
+              },
+              "quantity": 500.0,
+              "unit": {
+                "name": "Metros",
+                "value": {
+                  "amount": 2751.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Cable Telefonico (cruzada)",
+              "id": "DEjqXgqsp0Vg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "26121616-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121616-006"
+              },
+              "quantity": 500.0,
+              "unit": {
+                "name": "Metros",
+                "value": {
+                  "amount": 4545.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Cinta aisladora electrica autovulcanizante",
+              "id": "KSORJTXQrwxg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31201502-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31201502-001"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 3900.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Tinner",
+              "id": "ZoNQ0XzP6aNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31211803-005",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31211803-005"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 14300.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Lampara Halogena ",
+              "id": "QmGBH2NIRXhg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39101602-007",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39101602-007"
+              },
+              "quantity": 5.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 260000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Condensador",
+              "id": "c2451IOVFrJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121004-027",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121004-027"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 11050.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Condensador",
+              "id": "Jifn8OT9duNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121004-027",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121004-027"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 910.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Condensador",
+              "id": "SIezvjJD%2Fztg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121004-027",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121004-027"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 2600.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Condensador",
+              "id": "Sm1ksgmEW%2BFg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121004-027",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121004-027"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 910.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Circuito intregrado para redes",
+              "id": "kywEJ%2B%2FG%2Fdlg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "32101620-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/32101620-002"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 13000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Transistor de efecto de campo (FET)",
+              "id": "ULSLxhgb%2BHRg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "32111602-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/32111602-001"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 13000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Resistencia electrica",
+              "id": "BkH%2F40mblrNg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "41111943-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/41111943-001"
+              },
+              "quantity": 200.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 50.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Transistor de efecto de campo (FET)",
+              "id": "Hs0jNALrErRg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "32111602-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/32111602-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 1800.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Transistor de efecto de campo (FET)",
+              "id": "1UGYt%2BNOAOFg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "32111602-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/32111602-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 1300.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Transistor de efecto de campo (FET)",
+              "id": "YCt9AbOliPlg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "32111602-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/32111602-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 1300.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Diodo",
+              "id": "jiyk5HJylfdg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "32111511-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/32111511-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 40000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Pintura sintetica",
+              "id": "AlNgXMgitgVg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31211508-001",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31211508-001"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Litros",
+                "value": {
+                  "amount": 39000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Pintura antioxido",
+              "id": "DYfpugvFVaJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "31211508-006",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/31211508-006"
+              },
+              "quantity": 50.0,
+              "unit": {
+                "name": "Litros",
+                "value": {
+                  "amount": 26000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Caja de conexion para modulos LSA ",
+              "id": "DYnB13JUiVJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43211601-008",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43211601-008"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 400000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Caja de conexion para modulos LSA ",
+              "id": "dfgcKOBH%2B6dg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43211601-008",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43211601-008"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 350000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Conector para cables multipares",
+              "id": "3Uew26jzdZhg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121409-014",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 35000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Conector para cables multipares",
+              "id": "r%2F06Emgq7wRg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121409-014",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 35000.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Conector para cables multipares",
+              "id": "B4lrQXBcdUdg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "39121409-014",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+              },
+              "quantity": 100.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 35000.0,
+                  "currency": "PYG"
+                }
+              }
+            }
+          ],
+          "value": {
+            "currency": "PYG",
+            "amount": 940600832.0
+          },
+          "enquiryPeriod": {
+            "endDate": "2016-01-19T09:00:00-05:00"
+          },
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "startDate": "2016-01-19T09:00:00-05:00",
+            "endDate": null
+          },
+          "procuringEntity": {
+            "name": "Compañía Paraguaya de Comunicaciones (COPACO)",
+            "contactPoint": {
+              "name": "Norma Beatriz Fernández de Burgos",
+              "email": "uoc@copaco.com.py",
+              "telephone": "021444142"
+            }
+          },
+          "documents": [
+            {
+              "id": "IWib5gS3rac%3D",
+              "documentType": "clarifications",
+              "title": "Aclaraciones",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/IWib5gS3rac%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "ZcNbzUDA5hg%3D",
+              "documentType": "clarifications",
+              "title": "Aclaraciones",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/ZcNbzUDA5hg%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "E1vYTclO%2Bxc%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/E1vYTclO%252Bxc%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "6VFY4aJOUS4%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/6VFY4aJOUS4%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "Rbg4VdP2zw0%3D",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/Rbg4VdP2zw0%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "WA9bsqdhao0%3D",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/WA9bsqdhao0%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "OlROlefpxVs%3D",
+              "documentType": "Nota de Observacion",
+              "title": "Nota de Observacion",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/OlROlefpxVs%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "BHwD2%2BN6fZo%3D",
+              "documentType": "biddingDocuments",
+              "title": "Pliego de bases y Condiciones",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/BHwD2%252BN6fZo%253D",
+              "format": "application/zip"
+            },
+            {
+              "id": "%2FEIAW%2Fw5oXI%3D",
+              "documentType": "Publicación en periódicos",
+              "title": "Publicación en periódicos",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/%252FEIAW%252Fw5oXI%253D",
+              "format": "application/pdf"
+            }
+          ],
+          "tenderPeriod": {
+            "endDate": "2016-01-26T09:00:00-05:00",
+            "startDate": null
+          },
+          "submissionMethod": [
+            "written"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1"
+        },
+        "buyer": {
+          "name": "Compañía Paraguaya de Comunicaciones (COPACO)",
+          "contactPoint": {
+            "name": "Norma Beatriz Fernández de Burgos",
+            "email": "uoc@copaco.com.py",
+            "telephone": "021444142"
+          }
+        },
+        "awards": [
+          {
+            "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+            "title": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+            "status": "active",
+            "date": "2016-07-14T17:40:06-04:00",
+            "value": {
+              "amount": 771657000.0,
+              "currency": "PYG"
+            },
+            "suppliers": [
+              {
+                "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+                "identifier": {
+                  "id": "368894-1",
+                  "legalName": "GUSTAVO ALBERTO AQUINO ALFIERI",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "address": {
+                  "streetAddress": "JUAN MAX BOETTNER 930",
+                  "postalCode": "",
+                  "locality": "ASUNCION (DISTRITO)",
+                  "countryName": "Paraguay",
+                  "region": "Central"
+                },
+                "contactPoint": {
+                  "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+                  "faxNumber": "",
+                  "telephone": "611230",
+                  "email": "gustaqui@pla.net.py",
+                  "url": null
+                }
+              },
+              {
+                "name": "NELSON FRANCISCO VERA QUINTANA",
+                "identifier": {
+                  "id": "855506-0",
+                  "legalName": "NELSON FRANCISCO VERA QUINTANA",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "address": {
+                  "streetAddress": "INGLATERRA N° 143 C/ ARTIGAS.",
+                  "postalCode": "",
+                  "locality": "ASUNCIÓN.",
+                  "countryName": "Paraguay",
+                  "region": "Asunción"
+                },
+                "contactPoint": {
+                  "name": "NELSON FRANCISCO VERA QUINTANA.",
+                  "faxNumber": "",
+                  "telephone": "021 295 748/9",
+                  "email": "lida.cuevas@pmc.com.py",
+                  "url": null
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1"
+          }
+        ],
+        "contracts": [
+          {
+            "id": "274744-gustavo-alberto-aquino-alfieri-3",
+            "awardID": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+            "dncpContractCode": "LP-40001-16-123961",
+            "title": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+            "status": "active",
+            "value": {
+              "amount": 548825024.0,
+              "currency": "PYG"
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "title": "Lote 1",
+                "items": [
+                  "3xzWw1AEDSM%3D",
+                  "GycBT9vlkSs%3D",
+                  "%2Buq8jkokrXg%3D",
+                  "L%2Bbz8acj7yA%3D",
+                  "KlDPdj6lQbY%3D",
+                  "xyQX4Ef5njo%3D",
+                  "2HFFCf%2B122A%3D",
+                  "A5PvTlytSnA%3D",
+                  "wi3caj6Jbw0%3D",
+                  "O4yFAAtK5Cs%3D"
+                ]
+              }
+            ],
+            "items": [
+              {
+                "description": "Conector para cables multipares",
+                "id": "3xzWw1AEDSM%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "39121409-014",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+                },
+                "quantity": 1000000.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 231.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Manguito",
+                "id": "GycBT9vlkSs%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+                },
+                "quantity": 150.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 146500.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Manguito",
+                "id": "%2Buq8jkokrXg%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+                },
+                "quantity": 150.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 165500.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Manguito",
+                "id": "L%2Bbz8acj7yA%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+                },
+                "quantity": 100.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 722500.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Manguito",
+                "id": "KlDPdj6lQbY%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+                },
+                "quantity": 50.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 929000.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Manguito",
+                "id": "xyQX4Ef5njo%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+                },
+                "quantity": 50.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 1042500.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Caja de conexion para modulos LSA ",
+                "id": "2HFFCf%2B122A%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43211601-008",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43211601-008"
+                },
+                "quantity": 100.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 475000.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Caja de conexion para modulos LSA ",
+                "id": "A5PvTlytSnA%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43211601-008",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43211601-008"
+                },
+                "quantity": 100.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 419000.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Conector para cables multipares",
+                "id": "wi3caj6Jbw0%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "39121409-014",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+                },
+                "quantity": 100.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 54000.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Conector para cables multipares",
+                "id": "O4yFAAtK5Cs%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "39121409-014",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+                },
+                "quantity": 100.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 54000.0,
+                    "currency": "PYG"
+                  }
+                }
+              }
+            ],
+            "dateSigned": "2016-05-26T12:00:00-04:00",
+            "suppliers": {
+              "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+              "identifier": {
+                "id": "368894-1",
+                "legalName": "GUSTAVO ALBERTO AQUINO ALFIERI",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "274744-gustavo-alberto-aquino-alfieri-3"
+              }
+            },
+            "documents": [
+              {
+                "id": "5nVp4twr1OI%3D",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/5nVp4twr1OI%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "SNqBkMQdlPo%3D",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/SNqBkMQdlPo%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "p07gLixAo2U%3D",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/p07gLixAo2U%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "ma2bkpn3keI%3D",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ma2bkpn3keI%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "iXloWlrOxuQ%3D",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iXloWlrOxuQ%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "ZemDiFuxozc%3D",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ZemDiFuxozc%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "S69AX5nt3zo%3D",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/S69AX5nt3zo%253D",
+                "format": "application/pdf"
+              }
+            ],
+            "period": {
+              "endDate": "2017-04-26T12:00:00-04:00",
+              "startDate": "2016-05-26T12:00:00-04:00"
+            },
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/274744-gustavo-alberto-aquino-alfieri-3"
+          },
+          {
+            "id": "274744-nelson-francisco-vera-quintana-2",
+            "awardID": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+            "dncpContractCode": "LP-40001-16-123962",
+            "title": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+            "status": "active",
+            "value": {
+              "amount": 222832000.0,
+              "currency": "PYG"
+            },
+            "lots": [
+              {
+                "id": "nYZlDIKXpLc%3D",
+                "title": "Lote 1",
+                "items": [
+                  "yWlMMjl%2Ft9U%3D",
+                  "eBWjiICSWz0%3D",
+                  "1eZiY1phyuE%3D",
+                  "4BPlsDfFsZ4%3D",
+                  "IUHj1QnFFnU%3D",
+                  "p9YzlRPdffc%3D",
+                  "u0P39dRD0lE%3D"
+                ]
+              }
+            ],
+            "items": [
+              {
+                "description": "Caja terminal",
+                "id": "yWlMMjl%2Ft9U%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-002"
+                },
+                "quantity": 200.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 181100.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Caja terminal",
+                "id": "eBWjiICSWz0%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-002"
+                },
+                "quantity": 400.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 152450.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Manguito",
+                "id": "1eZiY1phyuE%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+                },
+                "quantity": 400.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 165700.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Manguito",
+                "id": "4BPlsDfFsZ4%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43222825-001",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+                },
+                "quantity": 200.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 175060.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Brida de suspension",
+                "id": "IUHj1QnFFnU%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "26121630-020",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-020"
+                },
+                "quantity": 1000.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 13200.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Ducto de acero ",
+                "id": "p9YzlRPdffc%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "39121207-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121207-002"
+                },
+                "quantity": 100.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 63400.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Conector para cables multipares",
+                "id": "u0P39dRD0lE%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "39121409-014",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+                },
+                "quantity": 100.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 48000.0,
+                    "currency": "PYG"
+                  }
+                }
+              }
+            ],
+            "dateSigned": "2016-05-26T12:00:00-04:00",
+            "suppliers": {
+              "name": "NELSON FRANCISCO VERA QUINTANA",
+              "identifier": {
+                "id": "855506-0",
+                "legalName": "NELSON FRANCISCO VERA QUINTANA",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "274744-nelson-francisco-vera-quintana-2"
+              }
+            },
+            "documents": [
+              {
+                "id": "5nVp4twr1OI%3D",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/5nVp4twr1OI%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "SNqBkMQdlPo%3D",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/SNqBkMQdlPo%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "p07gLixAo2U%3D",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/p07gLixAo2U%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "ma2bkpn3keI%3D",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ma2bkpn3keI%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "iXloWlrOxuQ%3D",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iXloWlrOxuQ%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "95wH3N9KvdE%3D",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/95wH3N9KvdE%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "S69AX5nt3zo%3D",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/S69AX5nt3zo%253D",
+                "format": "application/pdf"
+              }
+            ],
+            "period": {
+              "endDate": "2017-04-26T12:00:00-04:00",
+              "startDate": "2016-05-26T12:00:00-04:00"
+            },
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/274744-nelson-francisco-vera-quintana-2"
+          },
+          {
+            "id": "274744-nelson-francisco-vera-quintana-2-ampliacion",
+            "awardID": null,
+            "extendsContractID": "274744-nelson-francisco-vera-quintana-2",
+            "dncpContractCode": "_NO_APLICA_",
+            "dncpAmendmentType": "Ampliación de Plazo",
+            "title": "Contract Amendment: ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+            "status": "active",
+            "value": {
+              "amount": null,
+              "currency": "PYG"
+            },
+            "dateSigned": null,
+            "documents": [
+              {
+                "id": "VyxRv5u5FaE%3D",
+                "documentType": "Adenda de Ampliación",
+                "title": "Adenda de Ampliación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/modificacion_contrato/VyxRv5u5FaE%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "nzwg5Pwcg5Q%3D",
+                "documentType": "Resolución de Ampliación",
+                "title": "Resolución de Ampliación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/modificacion_contrato/nzwg5Pwcg5Q%253D",
+                "format": "application/pdf"
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/modificaciones-contrato/274744-nelson-francisco-vera-quintana-2-ampliacion"
+          }
+        ]
+      }
+    }
+  ]
+}

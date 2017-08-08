@@ -1,0 +1,51 @@
+{
+  "ocid": "ocds-03ad3f-274744",
+  "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1-award",
+  "date": "2017-08-08T08:24:50-04:00",
+  "language": "es",
+  "tag": [
+    "award"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "7db482aea1bb506412137d436bc02696",
+      "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "da63064d4dac9bad5e92333ab4527d85",
+      "name": "NELSON FRANCISCO VERA QUINTANA",
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+      "title": "ADQUISICI\u00d3N DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+      "status": "active",
+      "date": "2016-07-14T17:40:06-04:00",
+      "value": {
+        "amount": 771657000.0,
+        "currency": "PYG"
+      },
+      "suppliers": [
+        {
+          "id": "7db482aea1bb506412137d436bc02696",
+          "name": "GUSTAVO ALBERTO AQUINO ALFIERI"
+        },
+        {
+          "id": "da63064d4dac9bad5e92333ab4527d85",
+          "name": "NELSON FRANCISCO VERA QUINTANA"
+        }
+      ],
+      "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1"
+    }
+  ],
+  "version": "1.1",
+  "validationErrors": ""
+}
