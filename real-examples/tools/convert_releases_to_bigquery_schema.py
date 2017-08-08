@@ -12,8 +12,9 @@ Given a set of OCDS releases, fix problems that will stop them loading
 into BigQuery.
 Currently this file does the following:
 - Converts ID fields that are integers to string values
-- Manually removes various additional fields in publisher files
-- Manually fixes various broken fields in publisher files
+- Converts date formats to those expected by BigQuery
+- Automatically removes additional fields in publisher files
+- Manually fixes various non-schema-compliant fields in publisher files
 - Prints converted data to a newline-delimited JSON output file.
 '''
 
@@ -192,9 +193,14 @@ def fix_taiwan_issues(data):
         data['packageInfo']['publisher'] = {
             'name': name
         }
-    if len(data['packageInfo']['publishedDate']) < 17:
-        data['packageInfo']['publishedDate'] = \
-            data['packageInfo']['publishedDate'] + ' 00:00'
+    if 'packageInfo' in data and 'publishedDate' in data['packageInfo']:
+        try:
+            d = datetime.strptime(
+                data['packageInfo']['publishedDate'], "%Y-%m-%d")
+            data['packageInfo']['publishedDate'] = \
+                datetime.strftime(d, "%Y-%m-%d %H:%M")
+        except (ValueError, TypeError) as e:
+            pass
     return data
 
 
