@@ -1,8 +1,11 @@
 import glob
 import json
 import optparse
+import re
 from datetime import datetime
 from pprint import pprint
+
+from jsonschema import Draft3Validator
 
 '''
 Given a set of OCDS releases, fix problems that will stop them loading
@@ -17,8 +20,7 @@ Currently this file does the following:
 
 def ids_to_string(mydict):
     '''
-    Given a dictionary, look for any integer ID properties,
-    and convert them to strings. This is because IDs in the
+    Recursively make all IDs strings. This is because IDs in the
     OCDS definition can be either integers or strings, but
     BigQuery can't cope with mixed types.
     '''
@@ -31,6 +33,30 @@ def ids_to_string(mydict):
             for i, item in enumerate(v):
                 if type(v[i]) is dict:
                     v[i] = ids_to_string(v[i])
+    return mydict
+
+
+def fix_date_formats(mydict):
+    '''
+    Recursively fix date formats - this is a problem for the
+    Canada "buyandsell" publisher.
+    '''
+    for k, v in mydict.items():
+        if k == 'date' or k == 'startDate' \
+                or k == 'endDate' or k == 'awardDate':
+            try:
+                d = datetime.strptime(
+                    mydict[k], "%Y-%m-%d")
+                mydict[k] = \
+                    datetime.strftime(d, "%Y-%m-%d %H:%M")
+            except ValueError:
+                pass
+        elif type(v) is dict:
+            mydict[k] = fix_date_formats(mydict[k])
+        elif type(v) is list:
+            for i, item in enumerate(v):
+                if type(v[i]) is dict:
+                    v[i] = fix_date_formats(v[i])
     return mydict
 
 
@@ -54,6 +80,8 @@ def fix_uk_issues(data):
 def fix_mexico_grupo_issues(data):
     '''
     Remove extra field.
+    NB: It's possible the manual deletion of extra keys
+    is no longer required, now we have the jsonschema step.
     '''
     if 'tender' in data:
         if 'metodoDeAdquisicion' in data['tender']:
@@ -64,6 +92,8 @@ def fix_mexico_grupo_issues(data):
 def fix_mexico_cdmx_issues(data):
     '''
     Remove extra fields, iteratively.
+    NB: It's possible the manual deletion of extra keys
+    is no longer required, now we have the jsonschema step.
     '''
     for k, v in data.items():
         forbidden = [
@@ -95,6 +125,8 @@ def fix_moldova_issues(data):
 def fix_nsw_issues(data):
     '''
     Remove extra keys, fix string formatting.
+    NB: It's possible the manual deletion of extra keys
+    is no longer required, now we have the jsonschema step.
     '''
     permitted_tender_keys = [
         u'procurementMethod', u'amendment',
@@ -110,7 +142,7 @@ def fix_nsw_issues(data):
     forbidden_keys = []
     if 'tender' in data:
         for k in data['tender']:
-            if unicode(k) not in permitted_tender_keys:
+            if k not in permitted_tender_keys:
                 forbidden_keys.append(k)
     for f in forbidden_keys:
         del data['tender'][f]
@@ -135,11 +167,26 @@ def fix_nsw_issues(data):
 
 def fix_taiwan_issues(data):
     '''
-    Remove additional top-level field, fix packageInfo publisher
+    Fix extra fields, fix packageInfo publisher
     and date fields.
     '''
-    if 'name' in data:
-        del data['name']
+    if 'awards' in data and isinstance(data['awards'], dict):
+        data['awards'] = [data['awards']]
+        for a in data['awards']:
+            # I don't understand why jsonschema isn't picking up
+            # these extra fields - additionalProperties is set
+            # to false on awards and items. Anyway, delete them.
+            extra_fields = ['awardAnnounceDate', 'totalAwardValue',
+                            'awardCriteria', 'awardDate']
+            for e in extra_fields:
+                if e in a:
+                    del a[e]
+            if 'items' in a:
+                for i in a['items']:
+                    extra_fields = ['withoutTenderer', 'suppliers', 'number']
+                    for e in extra_fields:
+                        if e in i:
+                            del i[e]
     if isinstance(data['packageInfo']['publisher'], str):
         name = data['packageInfo']['publisher']
         data['packageInfo']['publisher'] = {
@@ -153,24 +200,159 @@ def fix_taiwan_issues(data):
 
 def fix_nigeria_issues(data):
     '''
-    Fix misnamed property and date format, remove extra fields.
+    Fix date format.
     '''
-    if 'planning' in data and 'budget' in data['planning'] and \
-            'value' in data['planning']['budget']:
-        data['planning']['budget']['amount'] = \
-            data['planning']['budget']['value']
-        del data['planning']['budget']['value']
     if 'packageInfo' in data and 'publishedDate' in data['packageInfo']:
-        d = datetime.strptime(
-            data['packageInfo']['publishedDate'], "%Y-%m-%dT%H:%M:%SZ")
-        data['packageInfo']['publishedDate'] = \
-            datetime.strftime(d, "%Y-%m-%d %H:%M")
-    # Remove extra fields.
-    if 'tender' in data and 'items' in data['tender']:
-        for i in data['tender']['items']:
-            del i['deliveryAddress']
-            del i['deliveryLocation']
+        try:
+            d = datetime.strptime(
+                data['packageInfo']['publishedDate'], "%Y-%m-%dT%H:%M:%SZ")
+            data['packageInfo']['publishedDate'] = \
+                datetime.strftime(d, "%Y-%m-%d %H:%M")
+        except ValueError:
+            pass
     return data
+
+
+def fix_montreal_issues(data):
+    '''
+    Fix tags: they should be arrays, not strings.
+    '''
+    if 'tag' in data and isinstance(data['tag'], str):
+        data['tag'] = [data['tag']]
+    return data
+
+
+def remove_extra_fields(data, schema, IS_VERBOSE):
+    '''
+    Delete extra fields reported by jsonschema.
+    This is pretty inelegant, and jsonschema is a bit unpredictable
+    about what it reports, see e.g. https://goo.gl/yCNGMw
+    I think personally I'd ditch this code and just delete
+    fields manually, given that (a) it's actually helpful to examine
+    what publishers have supplied - often they just misname fields,
+    which can usefully be renamed rather than deleted (b) almost
+    always, other manual tweaks are required to get the data into shape,
+    so it's never going to be a fully automated process anyway
+    (c) there aren't many publishers, so it's not much of an overhead.
+    '''
+    has_extra_fields = False
+    v = Draft3Validator(schema)
+    errors = sorted(v.iter_errors(data), key=str)
+    for error in errors:
+        temp = data
+        error_path = error.absolute_schema_path
+
+        # Ignore all errors apart from extra properties.
+        if error_path[-1] == 'additionalProperties':
+            has_extra_fields = True
+            # Hacky way to get property names, but seems to be
+            # the best offered by jsonschema.
+            unwanted_properties = re.findall(r"'(\w+)'", error.message)
+            path_expression = []
+            for i, e in enumerate(error_path):
+                if e == 'additionalProperties':
+                    continue
+                if e == 'properties':
+                    i += 1
+                    path_expression.append(error_path[i])
+            if IS_VERBOSE:
+                print('\nJSONSchema raw error path: %s' % error_path)
+                print('Processed error path: %s' % path_expression)
+                print('Unwanted properties: %s' % unwanted_properties)
+
+            # We now have details of the unwanted properties: remove them
+            # from the data object.
+            # First retrieve the relevant part of the data. We can't predict
+            # whether this will be a dict or a list.
+            for p in path_expression:
+                if p in temp:
+                    temp = temp[p]
+                elif isinstance(temp, list):
+                    temp_x = []
+                    for t in temp:
+                        if isinstance(t, dict) and p in t:
+                            temp_x.append(t[p])
+                    if temp_x:
+                        temp = temp_x
+            # Now iterate over the relevant part of the data, and remove
+            # the unwanted property.
+            if isinstance(temp, list):
+                # Flatten lists of lists.
+                if any(isinstance(el, list) for el in temp):
+                    flat_list = [item for sublist in temp for item in sublist]
+                    temp = flat_list
+                for d in temp:
+                    for unwanted_property in unwanted_properties:
+                        if unwanted_property in d:
+                            del d[unwanted_property]
+                        else:
+                            # Use the last property in the path if required.
+                            if path_expression[-1] in d:
+                                t = d[path_expression[-1]]
+                                if isinstance(t, list):
+                                    for s in t:
+                                        if unwanted_property in s:
+                                            del s[unwanted_property]
+                                else:
+                                    if unwanted_property in t:
+                                        del t[unwanted_property]
+            else:
+                for unwanted_property in unwanted_properties:
+                    if unwanted_property in temp:
+                        del temp[unwanted_property]
+
+    return data, has_extra_fields
+
+
+def add_additionalProperties_to_schema(schema_obj):
+    '''
+    We need to remove any fields not explicitly listed in the schema,
+    because BigQuery can't cope with extra fields.
+    To do this, we specify additionalProperties=false explicitly
+    on every object. Walk the schema and add this property to every object.
+    '''
+    if 'type' in schema_obj and schema_obj['type'] == 'object':
+        schema_obj['additionalProperties'] = False
+        # Remove patternProperties, as it seems to interact badly with
+        # additionalProperties: https://goo.gl/yCNGMw
+        if 'patternProperties' in schema_obj:
+            del schema_obj['patternProperties']
+        # Handle the special case of definitions,
+        # which don't have the "type: object" property.
+        if 'definitions' in schema_obj:
+            for d in schema_obj['definitions']:
+                add_additionalProperties_to_schema(
+                    schema_obj['definitions'][d])
+        props = schema_obj['properties']
+        for p in props:
+            add_additionalProperties_to_schema(props[p])
+    return schema_obj
+
+
+def add_permitted_values(schema):
+    '''
+    We have added some useful properties to our data that aren't in the
+    OCDS schema. Add these explicitly here so they don't get deleted.
+    '''
+    schema['properties']['version'] = {"type": "string"}
+    schema['properties']['validationErrors'] = {"type": "string"}
+    schema['properties']['packageInfo'] = {
+        "type": "object",
+        "properties": {
+            "uri": {"type": "string"},
+            "publishedDate": {"type": "string"},
+            "publisher": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "scheme": {"type": "string"},
+                    "uri": {"type": "string"},
+                    "uid": {"type": "string"}
+                }
+            }
+            }
+    }
+    return schema
 
 
 def main():
@@ -178,14 +360,22 @@ def main():
     parser = optparse.OptionParser(usage=usage)
     parser.add_option('-f', '--filepath', action='store', default=None,
                       help='Path to files, e.g. parguay/sample')
+    parser.add_option('-V', '--verbose', action='store_true', default=False,
+                      help='Print verbose output')
     (options, args) = parser.parse_args()
     if not options.filepath:
         parser.error('You must supply a filepath, using the -f argument')
 
     all_data = []
     files = glob.glob('%s*' % options.filepath)
+    schema = json.load(open('release-schema.json'))
+    schema = add_permitted_values(schema)
+    schema = add_additionalProperties_to_schema(schema)
+    # with open('schema_with_additionalproperties.json', 'w') as outfile:
+    #     json.dump(schema, outfile)
     for i, filename in enumerate(files):
-        print(filename)
+        if options.verbose:
+            print(filename)
         if not i % 1000:
             print('Processing file %s of %s' % (i, len(files)))
         if not filename.endswith('.json'):
@@ -198,14 +388,20 @@ def main():
                 print('Problem loading', filename)
                 print(e)
                 continue
+            has_extra_fields = True
+            while has_extra_fields:
+                data, has_extra_fields = remove_extra_fields(
+                    data, schema, options.verbose)
             data = ids_to_string(data)
+            data = fix_date_formats(data)
             data = fix_uk_issues(data)
             data = fix_mexico_grupo_issues(data)
             data = fix_mexico_cdmx_issues(data)
             data = fix_moldova_issues(data)
             data = fix_nsw_issues(data)
-            data = fix_taiwan_issues(data)
             data = fix_nigeria_issues(data)
+            data = fix_montreal_issues(data)
+            data = fix_taiwan_issues(data)
         all_data.append(data)
     with open('all-releases.json', 'w') as writefile:
         for d in all_data:
