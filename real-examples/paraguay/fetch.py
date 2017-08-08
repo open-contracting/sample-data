@@ -28,7 +28,7 @@ def updateReleaseUrl(url):
     return url
 
 
-@rate_limited(3)
+@rate_limited(0.3)
 def fetchRelease(folder, url):
     '''
     Given a release URL, save it locally.
@@ -41,7 +41,7 @@ def fetchRelease(folder, url):
     writeFile('%s/releases/%s.json' % (folder, fname), r, url)
 
 
-@rate_limited(3)
+@rate_limited(0.3)
 def fetchRecords(id_list, folder, get_releases, page=0):
     '''
     Given a record ID, construct the package URL and save locally.
@@ -77,7 +77,7 @@ def fetchRecords(id_list, folder, get_releases, page=0):
             n.write(str("0"))
 
 
-@rate_limited(1)
+@rate_limited(0.3)
 def fetchList(year):
     '''
     Download the CSV file for a particular year, and
