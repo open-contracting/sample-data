@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e # exit on error
+
 wget "http://ocds.open-contracting.org/standard/r/1__0__2/release-package-schema.json"
 wget "http://ocds.open-contracting.org/standard/r/1__0__2/record-package-schema.json"
 wget "http://ocds.open-contracting.org/standard/r/1__0__2/release-schema.json"
@@ -12,4 +13,3 @@ cp record/ocds-213czf-000-00001.json record/ocds-213czf-000-00001.json.OLD && py
 # Clean up after ourselves
 cd ../../
 rm *.json*
-

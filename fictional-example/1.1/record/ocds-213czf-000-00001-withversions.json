@@ -4,11 +4,12 @@
       "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-01-planning.json#ocds-213czf-000-00001-01-planning",
       "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-02-tender.json#ocds-213czf-000-00001-02-tender",
       "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderAmendment",
+      "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderUpdate",
       "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-04-award.json#ocds-213czf-000-00001-04-award",
       "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-05-contract",
       "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-06-implementation.json#ocds-213czf-000-00001-06-implementation"
    ],
-   "publishedDate": "2017-06-14T13:29:00Z",
+   "publishedDate": "2014-02-02T13:02:00Z",
    "publisher": {
       "name": "Open Data Services Co-operative Limited",
       "scheme": "GB-COH",
@@ -238,9 +239,14 @@
                   "identifier": {
                      "id": "E09000003",
                      "legalName": "London Borough of Barnet",
-                     "scheme": "GB-LAC"
+                     "scheme": "GB-LAC",
+                     "uri": "http://www.barnet.gov.uk/"
                   },
-                  "name": "London Borough of Barnet"
+                  "name": "London Borough of Barnet",
+                  "roles": [
+                     "buyer",
+                     "buyer"
+                  ]
                },
                {
                   "address": {
@@ -263,7 +269,10 @@
                      "legalName": "AnyCorp Ltd",
                      "scheme": "GB-COH"
                   },
-                  "name": "AnyCorp Cycle Provision"
+                  "name": "AnyCorp Cycle Provision",
+                  "roles": [
+                     "supplier"
+                  ]
                },
                {
                   "address": {
@@ -286,7 +295,10 @@
                      "legalName": "Beta Corp Ltd",
                      "scheme": "GB-COH"
                   },
-                  "name": "Beta Corp Construction"
+                  "name": "Beta Corp Construction",
+                  "roles": [
+                     "tenderer"
+                  ]
                }
             ],
             "planning": {
@@ -356,13 +368,21 @@
                      "id": "1.0",
                      "rationale": "The tender period has been extended in accordance with council guidelines",
                      "releaseID": "ocds-213czf-000-00001-03-tenderAmendment"
+                  },
+                  {
+                     "amendsReleaseID": "ocds-213czf-000-00001-02-tender",
+                     "date": "2010-03-20T09:45:00Z",
+                     "description": "Following the enquiry period, enquiries were received and responses to questions asked have been published. No changes to the overall tender details were made.",
+                     "id": "update-1",
+                     "rationale": "Update following enquiries.",
+                     "releaseID": "ocds-213czf-000-00001-03-tenderUpdate"
                   }
                ],
                "awardCriteria": "bestProposal",
                "awardCriteriaDetails": "The best proposal, subject to value for money requirements, will be accepted.",
                "awardPeriod": {
-                  "endDate": "2010-05-01T18:00:00Z",
-                  "startDate": "2010-04-02T09:00:00Z"
+                  "endDate": "2011-08-01T23:59:59Z",
+                  "startDate": "2010-06-01T00:00:00Z"
                },
                "contractPeriod": {
                   "durationInDays": 365,
@@ -409,6 +429,26 @@
                      "language": "en",
                      "title": "Enquiry Responses",
                      "url": "http://example.com/enquiry-response/ocds-213czf-000-00001-01.html"
+                  },
+                  {
+                     "datePublished": "2010-03-01T09:00:00Z",
+                     "description": "Official tender notice.",
+                     "documentType": "notice",
+                     "format": "text/html",
+                     "id": "0005",
+                     "language": "en",
+                     "title": "Tender Notice",
+                     "url": "http://example.com/tender-notices/ocds-213czf-000-00001-01.html"
+                  },
+                  {
+                     "datePublished": "2010-03-20T11:30:15Z",
+                     "description": "Responses to enquiries asked by interested parties.",
+                     "documentType": "enquiryResponses",
+                     "format": "text/html",
+                     "id": "0006",
+                     "language": "en",
+                     "title": "Enquiry Responses",
+                     "url": "http://example.com/enquiry-response/ocds-213czf-000-00001-01.html"
                   }
                ],
                "enquiryPeriod": {
@@ -446,6 +486,32 @@
                            "currency": "GBP"
                         }
                      }
+                  },
+                  {
+                     "additionalClassifications": [
+                        {
+                           "description": "Cycle path construction work",
+                           "id": "45233162-2",
+                           "scheme": "CPV",
+                           "uri": "http://cpv.data.ac.uk/code-45233162.html"
+                        }
+                     ],
+                     "classification": {
+                        "description": "Construction work for highways",
+                        "id": "45233130",
+                        "scheme": "CPV",
+                        "uri": "http://cpv.data.ac.uk/code-45233130"
+                     },
+                     "description": "string",
+                     "id": "0001",
+                     "quantity": 8,
+                     "unit": {
+                        "name": "Miles",
+                        "value": {
+                           "amount": 120000,
+                           "currency": "GBP"
+                        }
+                     }
                   }
                ],
                "mainProcurementCategory": "works",
@@ -468,7 +534,7 @@
                "submissionMethodDetails": "Submit through the online portal at http://example.com/submissions/ocds-213czf-000-00001-01/",
                "tenderPeriod": {
                   "durationInDays": 31,
-                  "endDate": "2010-04-08T18:00:00Z",
+                  "endDate": "2011-04-01T18:00:00Z",
                   "startDate": "2010-03-01T09:00:00Z"
                },
                "tenderers": [
@@ -510,6 +576,13 @@
                   "tenderAmendment"
                ],
                "url": "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderAmendment"
+            },
+            {
+               "date": "2010-03-20T09:45:00Z",
+               "tag": [
+                  "tenderUpdate"
+               ],
+               "url": "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderUpdate"
             },
             {
                "date": "2010-05-10T09:30:00Z",
@@ -1721,6 +1794,16 @@
                            ],
                            "value": "GB-LAC"
                         }
+                     ],
+                     "uri": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "http://www.barnet.gov.uk/"
+                        }
                      ]
                   },
                   "name": [
@@ -1732,6 +1815,44 @@
                         ],
                         "value": "London Borough of Barnet"
                      }
+                  ],
+                  "roles": [
+                     [
+                        {
+                           "releaseDate": "2009-03-15T14:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-01-planning",
+                           "releaseTag": [
+                              "planning"
+                           ],
+                           "value": "buyer"
+                        },
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "procuringEntity"
+                        },
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "buyer"
+                        }
+                     ],
+                     [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "buyer"
+                        }
+                     ]
                   ]
                },
                {
@@ -1881,6 +2002,18 @@
                         ],
                         "value": "AnyCorp Cycle Provision"
                      }
+                  ],
+                  "roles": [
+                     [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "supplier"
+                        }
+                     ]
                   ]
                },
                {
@@ -2030,6 +2163,18 @@
                         ],
                         "value": "Beta Corp Construction"
                      }
+                  ],
+                  "roles": [
+                     [
+                        {
+                           "releaseDate": "2010-05-10T09:30:00Z",
+                           "releaseID": "ocds-213czf-000-00001-04-award",
+                           "releaseTag": [
+                              "award"
+                           ],
+                           "value": "tenderer"
+                        }
+                     ]
                   ]
                }
             ],
@@ -2439,6 +2584,59 @@
                            "value": "ocds-213czf-000-00001-03-tenderAmendment"
                         }
                      ]
+                  },
+                  {
+                     "amendsReleaseID": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "ocds-213czf-000-00001-02-tender"
+                        }
+                     ],
+                     "date": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "2010-03-20T09:45:00Z"
+                        }
+                     ],
+                     "description": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Following the enquiry period, enquiries were received and responses to questions asked have been published. No changes to the overall tender details were made."
+                        }
+                     ],
+                     "id": "update-1",
+                     "rationale": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Update following enquiries."
+                        }
+                     ],
+                     "releaseID": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "ocds-213czf-000-00001-03-tenderUpdate"
+                        }
+                     ]
                   }
                ],
                "awardCriteria": [
@@ -2470,6 +2668,14 @@
                            "tender"
                         ],
                         "value": "2010-05-01T18:00:00Z"
+                     },
+                     {
+                        "releaseDate": "2010-03-20T09:45:00Z",
+                        "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                        "releaseTag": [
+                           "tenderUpdate"
+                        ],
+                        "value": "2011-08-01T23:59:59Z"
                      }
                   ],
                   "startDate": [
@@ -2480,6 +2686,14 @@
                            "tender"
                         ],
                         "value": "2010-04-02T09:00:00Z"
+                     },
+                     {
+                        "releaseDate": "2010-03-20T09:45:00Z",
+                        "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                        "releaseTag": [
+                           "tenderUpdate"
+                        ],
+                        "value": "2010-06-01T00:00:00Z"
                      }
                   ]
                },
@@ -2831,6 +3045,152 @@
                            "value": "http://example.com/enquiry-response/ocds-213czf-000-00001-01.html"
                         }
                      ]
+                  },
+                  {
+                     "datePublished": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "2010-03-01T09:00:00Z"
+                        }
+                     ],
+                     "description": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Official tender notice."
+                        }
+                     ],
+                     "documentType": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "notice"
+                        }
+                     ],
+                     "format": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "text/html"
+                        }
+                     ],
+                     "id": "0005",
+                     "language": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "en"
+                        }
+                     ],
+                     "title": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Tender Notice"
+                        }
+                     ],
+                     "url": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "http://example.com/tender-notices/ocds-213czf-000-00001-01.html"
+                        }
+                     ]
+                  },
+                  {
+                     "datePublished": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "2010-03-20T11:30:15Z"
+                        }
+                     ],
+                     "description": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Responses to enquiries asked by interested parties."
+                        }
+                     ],
+                     "documentType": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "enquiryResponses"
+                        }
+                     ],
+                     "format": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "text/html"
+                        }
+                     ],
+                     "id": "0006",
+                     "language": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "en"
+                        }
+                     ],
+                     "title": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "Enquiry Responses"
+                        }
+                     ],
+                     "url": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "http://example.com/enquiry-response/ocds-213czf-000-00001-01.html"
+                        }
+                     ]
                   }
                ],
                "enquiryPeriod": {
@@ -3053,6 +3413,122 @@
                            ]
                         }
                      }
+                  },
+                  {
+                     "additionalClassifications": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": [
+                              {
+                                 "description": "Cycle path construction work",
+                                 "id": "45233162-2",
+                                 "scheme": "CPV",
+                                 "uri": "http://cpv.data.ac.uk/code-45233162.html"
+                              }
+                           ]
+                        }
+                     ],
+                     "classification": {
+                        "description": [
+                           {
+                              "releaseDate": "2010-03-20T09:45:00Z",
+                              "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                              "releaseTag": [
+                                 "tenderUpdate"
+                              ],
+                              "value": "Construction work for highways"
+                           }
+                        ],
+                        "id": [
+                           {
+                              "releaseDate": "2010-03-20T09:45:00Z",
+                              "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                              "releaseTag": [
+                                 "tenderUpdate"
+                              ],
+                              "value": "45233130"
+                           }
+                        ],
+                        "scheme": [
+                           {
+                              "releaseDate": "2010-03-20T09:45:00Z",
+                              "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                              "releaseTag": [
+                                 "tenderUpdate"
+                              ],
+                              "value": "CPV"
+                           }
+                        ],
+                        "uri": [
+                           {
+                              "releaseDate": "2010-03-20T09:45:00Z",
+                              "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                              "releaseTag": [
+                                 "tenderUpdate"
+                              ],
+                              "value": "http://cpv.data.ac.uk/code-45233130"
+                           }
+                        ]
+                     },
+                     "description": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": "string"
+                        }
+                     ],
+                     "id": "0001",
+                     "quantity": [
+                        {
+                           "releaseDate": "2010-03-20T09:45:00Z",
+                           "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                           "releaseTag": [
+                              "tenderUpdate"
+                           ],
+                           "value": 8
+                        }
+                     ],
+                     "unit": {
+                        "name": [
+                           {
+                              "releaseDate": "2010-03-20T09:45:00Z",
+                              "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                              "releaseTag": [
+                                 "tenderUpdate"
+                              ],
+                              "value": "Miles"
+                           }
+                        ],
+                        "value": {
+                           "amount": [
+                              {
+                                 "releaseDate": "2010-03-20T09:45:00Z",
+                                 "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                                 "releaseTag": [
+                                    "tenderUpdate"
+                                 ],
+                                 "value": 120000
+                              }
+                           ],
+                           "currency": [
+                              {
+                                 "releaseDate": "2010-03-20T09:45:00Z",
+                                 "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                                 "releaseTag": [
+                                    "tenderUpdate"
+                                 ],
+                                 "value": "GBP"
+                              }
+                           ]
+                        }
+                     }
                   }
                ],
                "mainProcurementCategory": [
@@ -3232,6 +3708,14 @@
                            "tenderAmendment"
                         ],
                         "value": "2010-04-08T18:00:00Z"
+                     },
+                     {
+                        "releaseDate": "2010-03-20T09:45:00Z",
+                        "releaseID": "ocds-213czf-000-00001-03-tenderUpdate",
+                        "releaseTag": [
+                           "tenderUpdate"
+                        ],
+                        "value": "2011-04-01T18:00:00Z"
                      }
                   ],
                   "startDate": [
@@ -3316,6 +3800,6 @@
          }
       }
    ],
-   "uri": "http://standard.open-contracting.org/examples/records/ocds-213czf-000-00001.json",
+   "uri": "http://standard.open-contracting.org/examples/1.1/records/ocds-213czf-000-00001.json",
    "version": "1.1"
 }
