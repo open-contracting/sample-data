@@ -1,0 +1,51 @@
+{
+  "ocid": "ocds-03ad3f-284182",
+  "id": "284182-adquisicion-articulos-ferreteria-nivel-central-msp-bs-1-award",
+  "date": "2017-08-08T08:26:20-04:00",
+  "language": "es",
+  "tag": [
+    "award"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "f7f2ef80b411273a90f5f75a732e7754",
+      "name": "EMPORIO FERRETERIA S.R.L.",
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "bdd03555d24460136e746d63f8a43cb9",
+      "name": "JUAN RODRIGUEZ",
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "id": "284182-adquisicion-articulos-ferreteria-nivel-central-msp-bs-1",
+      "title": "ADQUISICION DE ART\u00cdCULOS DE FERRETER\u00cdA PARA NIVEL CENTRAL DEL MSP Y BS",
+      "status": "active",
+      "date": "2016-03-31T08:23:12-04:00",
+      "value": {
+        "amount": 67885450.0,
+        "currency": "PYG"
+      },
+      "suppliers": [
+        {
+          "id": "f7f2ef80b411273a90f5f75a732e7754",
+          "name": "EMPORIO FERRETERIA S.R.L."
+        },
+        {
+          "id": "bdd03555d24460136e746d63f8a43cb9",
+          "name": "JUAN RODRIGUEZ"
+        }
+      ],
+      "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/284182-adquisicion-articulos-ferreteria-nivel-central-msp-bs-1"
+    }
+  ],
+  "version": "1.1",
+  "validationErrors": ""
+}
