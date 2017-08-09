@@ -1,0 +1,2153 @@
+{
+  "compiledRelease": {
+    "tag": [
+      "compiled"
+    ],
+    "date": "2017-02-14T00:00:00.000Z",
+    "id": "17180016",
+    "initiationType": "tender",
+    "language": "md",
+    "ocid": "ocds-ngfbwp-17180016",
+    "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]",
+    "version": "1.1",
+    "buyer": {
+      "id": "e136778b5dcc797d9cfe89628271813a",
+      "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+    },
+    "packageInfo": {
+      "publishedDate": "2016-11-07T00:00:00.00Z",
+      "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+      "publisher": {
+        "name": "Public Procurement Agency",
+        "scheme": null,
+        "uid": null,
+        "uri": "https://tender.gov.md"
+      }
+    },
+    "tender": {
+      "awardCriteria": "",
+      "awardCriteriaDetails": "",
+      "description": "",
+      "eligibilityCriteria": "",
+      "id": "17180016",
+      "numberOfTenders": "",
+      "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+      "procurementMethodRationale": "",
+      "status": "Executarea contractului",
+      "submissionMethodDetails": "",
+      "tenderers": [
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": ""
+        }
+      ],
+      "title": "Tender Ref 17/00054 Bulletin 13",
+      "amendment": {
+        "changes": {}
+      },
+      "procuringEntity": {
+        "id": "e136778b5dcc797d9cfe89628271813a",
+        "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+      },
+      "submissionMethod": [
+        "written"
+      ],
+      "tenderPeriod": {
+        "endDate": "2017-02-22T11:00:00.000Z",
+        "startDate": "2017-02-14T00:00:00.000Z"
+      },
+      "value": {
+        "amount": "",
+        "currency": ""
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": "",
+          "format": "",
+          "title": "",
+          "url": ""
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": {}
+        }
+      ]
+    },
+    "awards": [
+      {
+        "id": "award-18741041",
+        "date": "",
+        "description": "",
+        "status": "",
+        "suppliers": [
+          {
+            "id": "3b188361e1e3120bb81b6d821cced2c5",
+            "name": "MOLDAN-SERVICE S.R.L."
+          }
+        ],
+        "title": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+        "contractPeriod": {
+          "endDate": "2017-12-30T00:00:00.000Z",
+          "startDate": "2017-03-30T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 144708,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "items": [
+          {
+            "id": 48616,
+            "description": "",
+            "quantity": "",
+            "classification": {
+              "description": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor",
+              "id": "38420000-5",
+              "scheme": "CPV"
+            },
+            "unit": {
+              "name": "",
+              "value": {
+                "amount": "",
+                "currency": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "award-18741163",
+        "date": "",
+        "description": "",
+        "status": "",
+        "suppliers": [
+          {
+            "id": "aee62aad7ccd01b62bc63c69f8238786",
+            "name": "\u00ce.C.S. EYECON MEDICAL S.R.L."
+          }
+        ],
+        "title": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+        "contractPeriod": {
+          "endDate": "2017-12-30T00:00:00.000Z",
+          "startDate": "2017-03-30T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 53922,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "items": [
+          {
+            "id": 48616,
+            "description": "",
+            "quantity": "",
+            "classification": {
+              "description": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor",
+              "id": "38420000-5",
+              "scheme": "CPV"
+            },
+            "unit": {
+              "name": "",
+              "value": {
+                "amount": "",
+                "currency": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "contracts": [
+      {
+        "id": "18741041",
+        "awardID": "award-18741041",
+        "dateSigned": "2017-03-30T00:00:00.000Z",
+        "description": "",
+        "status": "\u00cenregistrat(\u0103)",
+        "title": "17/00054/001 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+        "amendment": {
+          "changes": []
+        },
+        "period": {
+          "endDate": "2017-12-30T00:00:00.000Z",
+          "startDate": "2017-03-30T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 144708,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": "",
+              "title": "",
+              "url": ""
+            }
+          ]
+        }
+      },
+      {
+        "id": "18741163",
+        "awardID": "award-18741163",
+        "dateSigned": "2017-03-30T00:00:00.000Z",
+        "description": "",
+        "status": "\u00cenregistrat(\u0103)",
+        "title": "17/00054/002 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+        "amendment": {
+          "changes": []
+        },
+        "period": {
+          "endDate": "2017-12-30T00:00:00.000Z",
+          "startDate": "2017-03-30T00:00:00.000Z"
+        },
+        "value": {
+          "amount": 53922,
+          "currency": "mdl"
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": "",
+            "title": "",
+            "url": ""
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": "",
+              "title": "",
+              "url": ""
+            }
+          ]
+        }
+      }
+    ],
+    "parties": [
+      {
+        "id": "e136778b5dcc797d9cfe89628271813a",
+        "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI",
+        "roles": [
+          "buyer",
+          "procuringEntity"
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": "",
+        "roles": [
+          "tenderer"
+        ]
+      },
+      {
+        "id": "3b188361e1e3120bb81b6d821cced2c5",
+        "name": "MOLDAN-SERVICE S.R.L.",
+        "roles": [
+          "supplier"
+        ]
+      },
+      {
+        "id": "aee62aad7ccd01b62bc63c69f8238786",
+        "name": "\u00ce.C.S. EYECON MEDICAL S.R.L.",
+        "roles": [
+          "supplier"
+        ]
+      }
+    ]
+  },
+  "versionedRelease": {
+    "ocid": "ocds-ngfbwp-17180016",
+    "initiationType": [
+      {
+        "releaseID": "17180016",
+        "releaseDate": "2017-02-14T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "tender"
+      }
+    ],
+    "language": [
+      {
+        "releaseID": "17180016",
+        "releaseDate": "2017-02-14T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "md"
+      }
+    ],
+    "validationErrors": [
+      {
+        "releaseID": "17180016",
+        "releaseDate": "2017-02-14T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+      }
+    ],
+    "version": [
+      {
+        "releaseID": "17180016",
+        "releaseDate": "2017-02-14T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "1.1"
+      }
+    ],
+    "buyer": {
+      "id": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "e136778b5dcc797d9cfe89628271813a"
+        }
+      ],
+      "name": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+        }
+      ]
+    },
+    "packageInfo": {
+      "publishedDate": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "2016-11-07T00:00:00.00Z"
+        }
+      ],
+      "uri": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "http://moldova-demo.yipl.com.np/ocds-api/year/2017"
+        }
+      ],
+      "publisher": {
+        "name": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Public Procurement Agency"
+          }
+        ],
+        "scheme": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uid": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uri": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "https://tender.gov.md"
+          }
+        ]
+      }
+    },
+    "tender": {
+      "awardCriteria": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "awardCriteriaDetails": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "description": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "eligibilityCriteria": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "id": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "17180016"
+        }
+      ],
+      "numberOfTenders": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "procurementMethod": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Cerere a ofertelor de pre\u0163uri"
+        }
+      ],
+      "procurementMethodRationale": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "status": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Executarea contractului"
+        }
+      ],
+      "submissionMethodDetails": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "tenderers": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": [
+            {
+              "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+              "name": ""
+            }
+          ]
+        }
+      ],
+      "title": [
+        {
+          "releaseID": "17180016",
+          "releaseDate": "2017-02-14T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Tender Ref 17/00054 Bulletin 13"
+        }
+      ],
+      "amendment": {
+        "changes": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": {}
+          }
+        ]
+      },
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "e136778b5dcc797d9cfe89628271813a"
+          }
+        ],
+        "name": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+          }
+        ]
+      },
+      "submissionMethod": [
+        [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "written"
+          }
+        ]
+      ],
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-02-22T11:00:00.000Z"
+          }
+        ],
+        "startDate": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-02-14T00:00:00.000Z"
+          }
+        ]
+      },
+      "value": {
+        "amount": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "currency": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ]
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "format": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "title": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "url": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": {}
+            }
+          ]
+        }
+      ]
+    },
+    "awards": [
+      {
+        "id": "award-18741041",
+        "date": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "suppliers": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": [
+              {
+                "id": "3b188361e1e3120bb81b6d821cced2c5",
+                "name": "MOLDAN-SERVICE S.R.L."
+              }
+            ]
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V"
+          }
+        ],
+        "contractPeriod": {
+          "endDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-12-30T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-03-30T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 144708
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 48616,
+            "description": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "quantity": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "classification": {
+              "description": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor"
+                }
+              ],
+              "id": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "38420000-5"
+                }
+              ],
+              "scheme": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "CPV"
+                }
+              ]
+            },
+            "unit": {
+              "name": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "value": {
+                "amount": [
+                  {
+                    "releaseID": "17180016",
+                    "releaseDate": "2017-02-14T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ],
+                "currency": [
+                  {
+                    "releaseID": "17180016",
+                    "releaseDate": "2017-02-14T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "award-18741163",
+        "date": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "suppliers": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": [
+              {
+                "id": "aee62aad7ccd01b62bc63c69f8238786",
+                "name": "\u00ce.C.S. EYECON MEDICAL S.R.L."
+              }
+            ]
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V"
+          }
+        ],
+        "contractPeriod": {
+          "endDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-12-30T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-03-30T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 53922
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 48616,
+            "description": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "quantity": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "classification": {
+              "description": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor"
+                }
+              ],
+              "id": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "38420000-5"
+                }
+              ],
+              "scheme": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": "CPV"
+                }
+              ]
+            },
+            "unit": {
+              "name": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "value": {
+                "amount": [
+                  {
+                    "releaseID": "17180016",
+                    "releaseDate": "2017-02-14T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ],
+                "currency": [
+                  {
+                    "releaseID": "17180016",
+                    "releaseDate": "2017-02-14T00:00:00.000Z",
+                    "releaseTag": [
+                      "tender",
+                      "award",
+                      "contract"
+                    ],
+                    "value": ""
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "contracts": [
+      {
+        "id": "18741041",
+        "awardID": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "award-18741041"
+          }
+        ],
+        "dateSigned": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-03-30T00:00:00.000Z"
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "\u00cenregistrat(\u0103)"
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "17/00054/001 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V"
+          }
+        ],
+        "amendment": {
+          "changes": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ]
+        },
+        "period": {
+          "endDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-12-30T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-03-30T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 144708
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "title": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "url": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "18741163",
+        "awardID": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "award-18741163"
+          }
+        ],
+        "dateSigned": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-03-30T00:00:00.000Z"
+          }
+        ],
+        "description": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "status": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "\u00cenregistrat(\u0103)"
+          }
+        ],
+        "title": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "17/00054/002 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V"
+          }
+        ],
+        "amendment": {
+          "changes": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ]
+        },
+        "period": {
+          "endDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-12-30T00:00:00.000Z"
+            }
+          ],
+          "startDate": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "2017-03-30T00:00:00.000Z"
+            }
+          ]
+        },
+        "value": {
+          "amount": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 53922
+            }
+          ],
+          "currency": [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "mdl"
+            }
+          ]
+        },
+        "documents": [
+          {
+            "id": "",
+            "datePublished": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "title": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ],
+            "url": [
+              {
+                "releaseID": "17180016",
+                "releaseDate": "2017-02-14T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": ""
+              }
+            ]
+          }
+        ],
+        "implementation": {
+          "documents": [
+            {
+              "id": "",
+              "datePublished": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "title": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ],
+              "url": [
+                {
+                  "releaseID": "17180016",
+                  "releaseDate": "2017-02-14T00:00:00.000Z",
+                  "releaseTag": [
+                    "tender",
+                    "award",
+                    "contract"
+                  ],
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "parties": [
+      {
+        "id": "e136778b5dcc797d9cfe89628271813a",
+        "name": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "buyer"
+            }
+          ],
+          [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "procuringEntity"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "tenderer"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "3b188361e1e3120bb81b6d821cced2c5",
+        "name": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "MOLDAN-SERVICE S.R.L."
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "supplier"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "aee62aad7ccd01b62bc63c69f8238786",
+        "name": [
+          {
+            "releaseID": "17180016",
+            "releaseDate": "2017-02-14T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "\u00ce.C.S. EYECON MEDICAL S.R.L."
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "17180016",
+              "releaseDate": "2017-02-14T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "supplier"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "releases": [
+    {
+      "ocid": "ocds-ngfbwp-17180016",
+      "id": "17180016",
+      "date": "2017-02-14T00:00:00.000Z",
+      "language": "md",
+      "tag": [
+        "tender",
+        "award",
+        "contract"
+      ],
+      "initiationType": "tender",
+      "parties": [
+        {
+          "id": "e136778b5dcc797d9cfe89628271813a",
+          "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": "",
+          "roles": [
+            "tenderer"
+          ]
+        },
+        {
+          "id": "3b188361e1e3120bb81b6d821cced2c5",
+          "name": "MOLDAN-SERVICE S.R.L.",
+          "roles": [
+            "supplier"
+          ]
+        },
+        {
+          "id": "aee62aad7ccd01b62bc63c69f8238786",
+          "name": "\u00ce.C.S. EYECON MEDICAL S.R.L.",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tender": {
+        "id": "17180016",
+        "title": "Tender Ref 17/00054 Bulletin 13",
+        "description": "",
+        "status": "Executarea contractului",
+        "value": {
+          "amount": "",
+          "currency": ""
+        },
+        "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+        "procurementMethodRationale": "",
+        "awardCriteria": "",
+        "awardCriteriaDetails": "",
+        "submissionMethod": [
+          "written"
+        ],
+        "submissionMethodDetails": "",
+        "tenderPeriod": {
+          "startDate": "2017-02-14T00:00:00.000Z",
+          "endDate": "2017-02-22T11:00:00.000Z"
+        },
+        "eligibilityCriteria": "",
+        "numberOfTenders": "",
+        "tenderers": [
+          {
+            "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+            "name": ""
+          }
+        ],
+        "procuringEntity": {
+          "id": "e136778b5dcc797d9cfe89628271813a",
+          "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+        },
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": "",
+            "format": ""
+          }
+        ],
+        "milestones": [
+          {
+            "documents": {}
+          }
+        ],
+        "amendment": {
+          "changes": {}
+        }
+      },
+      "awards": [
+        {
+          "id": "award-18741041",
+          "title": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+          "description": "",
+          "status": "",
+          "date": "",
+          "value": {
+            "amount": 144708,
+            "currency": "mdl"
+          },
+          "suppliers": [
+            {
+              "id": "3b188361e1e3120bb81b6d821cced2c5",
+              "name": "MOLDAN-SERVICE S.R.L."
+            }
+          ],
+          "items": [
+            {
+              "id": 48616,
+              "description": "",
+              "classification": {
+                "scheme": "CPV",
+                "id": "38420000-5",
+                "description": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor"
+              },
+              "quantity": "",
+              "unit": {
+                "name": "",
+                "value": {
+                  "amount": "",
+                  "currency": ""
+                }
+              }
+            }
+          ],
+          "contractPeriod": {
+            "startDate": "2017-03-30T00:00:00.000Z",
+            "endDate": "2017-12-30T00:00:00.000Z"
+          },
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ]
+        },
+        {
+          "id": "award-18741163",
+          "title": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+          "description": "",
+          "status": "",
+          "date": "",
+          "value": {
+            "amount": 53922,
+            "currency": "mdl"
+          },
+          "suppliers": [
+            {
+              "id": "aee62aad7ccd01b62bc63c69f8238786",
+              "name": "\u00ce.C.S. EYECON MEDICAL S.R.L."
+            }
+          ],
+          "items": [
+            {
+              "id": 48616,
+              "description": "",
+              "classification": {
+                "scheme": "CPV",
+                "id": "38420000-5",
+                "description": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor"
+              },
+              "quantity": "",
+              "unit": {
+                "name": "",
+                "value": {
+                  "amount": "",
+                  "currency": ""
+                }
+              }
+            }
+          ],
+          "contractPeriod": {
+            "startDate": "2017-03-30T00:00:00.000Z",
+            "endDate": "2017-12-30T00:00:00.000Z"
+          },
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "18741041",
+          "awardID": "award-18741041",
+          "title": "17/00054/001 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+          "description": "",
+          "status": "\u00cenregistrat(\u0103)",
+          "period": {
+            "startDate": "2017-03-30T00:00:00.000Z",
+            "endDate": "2017-12-30T00:00:00.000Z"
+          },
+          "value": {
+            "amount": 144708,
+            "currency": "mdl"
+          },
+          "dateSigned": "2017-03-30T00:00:00.000Z",
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ],
+          "amendment": {
+            "changes": []
+          },
+          "implementation": {
+            "documents": [
+              {
+                "id": "",
+                "title": "",
+                "url": "",
+                "datePublished": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "18741163",
+          "awardID": "award-18741163",
+          "title": "17/00054/002 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+          "description": "",
+          "status": "\u00cenregistrat(\u0103)",
+          "period": {
+            "startDate": "2017-03-30T00:00:00.000Z",
+            "endDate": "2017-12-30T00:00:00.000Z"
+          },
+          "value": {
+            "amount": 53922,
+            "currency": "mdl"
+          },
+          "dateSigned": "2017-03-30T00:00:00.000Z",
+          "documents": [
+            {
+              "id": "",
+              "title": "",
+              "url": "",
+              "datePublished": ""
+            }
+          ],
+          "amendment": {
+            "changes": []
+          },
+          "implementation": {
+            "documents": [
+              {
+                "id": "",
+                "title": "",
+                "url": "",
+                "datePublished": ""
+              }
+            ]
+          }
+        }
+      ],
+      "buyer": {
+        "id": "e136778b5dcc797d9cfe89628271813a",
+        "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+      },
+      "packageInfo": {
+        "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+        "publishedDate": "2016-11-07T00:00:00.00Z",
+        "publisher": {
+          "scheme": null,
+          "name": "Public Procurement Agency",
+          "uri": "https://tender.gov.md",
+          "uid": null
+        }
+      },
+      "version": "1.1",
+      "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+    }
+  ],
+  "publisher": {
+    "scheme": null,
+    "name": "Public Procurement Agency",
+    "uri": "https://tender.gov.md",
+    "uid": null
+  }
+}

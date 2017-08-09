@@ -1,0 +1,279 @@
+{
+  "ocid": "ocds-gyl66f-borbda-2wlmoa",
+  "id": "ocds-gyl66f-borbda-2wlmoa",
+  "date": "2014-10-20T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "7012a47472d96bcc5be07746bbafdb94",
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ]
+    },
+    {
+      "id": "dbe2d328f1f7a75e006f86424aa054c4",
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "57e677cd1da5f677437d4c7f8a6d33c4",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "id": "efd41d2e119a25d4ce494126b3672862",
+      "name": "fic consultant limited",
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "date": "2014-10-20T00:00:00Z",
+      "description": "Part payment for the supervision of Construction of Irrigation Facilities at Erusu Arigidi Earth Dam.",
+      "id": "ocds-gyl66f-borbda-2wlmoa",
+      "items": [
+        {
+          "classification": {
+            "id": "13470098",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-2wlmoa-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "efd41d2e119a25d4ce494126b3672862",
+          "name": "fic consultant limited"
+        }
+      ],
+      "title": "Part payment for the supervision of Construction of Irrigation Facilities at Erusu Arigidi Earth Dam.",
+      "value": {
+        "amount": 2811492.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "7012a47472d96bcc5be07746bbafdb94",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-2wlmoa-award",
+      "description": "Part payment for the supervision of Construction of Irrigation Facilities at Erusu Arigidi Earth Dam.",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-2wlmoa",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-2wlmoa",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-2wlmoa",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2014-10-20T00:00:00Z",
+            "description": "1.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-2wlmoa-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-2wlmoa",
+            "status": "met",
+            "title": "part payment for the supervision of construction of irrigation facilities at erusu arigidi earth dam.-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 2811492.0,
+              "currency": "NGN"
+            },
+            "date": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-2wlmoa-nga-contract-transactions-068310727",
+            "providerOrganization": {
+              "id": "3210104188",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-3210104188",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "60337608",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-2wlmoa",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-2wlmoa-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": null
+      },
+      "status": "active",
+      "title": "Part Payment For The Supervision Of Construction Of Irrigation Facilities At Erusu Arigidi Earth Dam.",
+      "value": {
+        "amount": 2811492.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Part Payment For The Supervision Of Construction Of Irrigation Facilities At Erusu Arigidi Earth Dam.",
+      "id": "ocds-gyl66f-borbda-2wlmoa",
+      "project": "Part Payment For The Supervision Of Construction Of Irrigation Facilities At Erusu Arigidi Earth Dam.",
+      "value": {
+        "amount": 50000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-2wlmoa",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2014-10-20T00:00:00Z",
+      "startDate": "2014-10-20T00:00:00Z"
+    },
+    "description": "part payment for the supervision of construction of irrigation facilities at erusu arigidi earth dam.",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-2wlmoa",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-2wlmoa",
+    "items": [
+      {
+        "classification": {
+          "id": "13470098",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-2wlmoa-tender-item-13470098",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 2811492.0,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2014-10-20T00:00:00Z",
+        "description": "Part Payment For The Supervision Of Construction Of Irrigation Facilities At Erusu Arigidi Earth Dam.",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-2wlmoa",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2014-10-20T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-2wlmoa",
+        "status": "met",
+        "title": "Part Payment For The Supervision Of Construction Of Irrigation Facilities At Erusu Arigidi Earth Dam."
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "dbe2d328f1f7a75e006f86424aa054c4",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "complete",
+    "tenderPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "57e677cd1da5f677437d4c7f8a6d33c4",
+        "name": ""
+      }
+    ],
+    "title": "part payment for the supervision of construction of irrigation facilities at erusu arigidi earth dam.",
+    "value": {
+      "amount": 2811492.0,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-06-29T19:07:56Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short\n"
+}

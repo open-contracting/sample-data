@@ -1,0 +1,145 @@
+{
+  "tag": "awardNotice",
+  "name": "鹽水排水菜寮橋段護岸改善應急工程第一次變更設計",
+  "date": "2014-02-20",
+  "ocid": "ocid-6as3t2-51188678",
+  "buyer": {
+    "identifier": {
+      "id": "3.95.25",
+      "legalName": "臺南市政府水利局"
+    },
+    "id": "ocid-6as3t2-51188678-buyer"
+  },
+  "tender": {
+    "id": "ocid-6as3t2-51188678-tender",
+    "identifier": {
+      "id": "3.95.25",
+      "legalName": "臺南市政府水利局"
+    },
+    "procurementMethod": "限制性招標(未經公開評選或公開徵求)",
+    "tenderers": [
+      {
+        "identifier": {
+          "id": "16708558",
+          "legalName": "集揚營造有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 1
+      }
+    ],
+    "tederPeriod": {
+      "startDate": null,
+      "endDate": "2014-01-07",
+      "announceTimes": "00"
+    },
+    "numberOfBids": 1,
+    "processMethod": "自辦",
+    "deliveryAddress": {
+      "addresses": [
+        {
+          "region": "臺南市",
+          "locality": "鹽水區"
+        }
+      ],
+      "aboriginalRegion": false
+    },
+    "executingEntity": {
+      "identifier": {
+        "id": "3.95.25",
+        "legalName": "臺南市政府水利局"
+      }
+    },
+    "deliveryLocation": [
+      {
+        "description": "臺南市, 鹽水區"
+      }
+    ],
+    "procuringEntity": {
+      "identifier": {
+        "id": "3.95.25",
+        "legalName": "臺南市政府水利局"
+      }
+    },
+    "budget": {
+      "value": {
+        "amount": 789719,
+        "currency": "TWD"
+      }
+    },
+    "awardCriteria": "最低標",
+    "procurementAmountRange": "未達公告金額",
+    "items": [
+      {
+        "classification": {
+          "id": "5133",
+          "description": "<工程類>, 水道、海港、水壩及其他水利工程",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ]
+  },
+  "awards": {
+    "awardAnnounceDate": "2014-02-20",
+    "awardDate": "2014-01-07",
+    "id": "ocid-6as3t2-51188678-awards",
+    "awardCriteria": "最低標",
+    "totalAwardValue": {
+      "amount": 687000,
+      "currency": "TWD"
+    },
+    "items": [
+      {
+        "withoutTenderer": [],
+        "classification": {
+          "id": "5133",
+          "description": "<工程類>, 水道、海港、水壩及其他水利工程",
+          "scheme": "CPC"
+        },
+        "suppliers": [
+          {
+            "address": {
+              "region": "嘉義縣朴子市",
+              "postalCode": "613",
+              "locality": null,
+              "streetAddress": "竹圍里大同路316號"
+            },
+            "awardValue": {
+              "amount": 687000,
+              "currency": "TWD"
+            },
+            "quantity": 1,
+            "employeeExceedOneHundred": false,
+            "number": 1,
+            "identifier": {
+              "id": "16708558",
+              "legalName": "集揚營造有限公司"
+            },
+            "minValue": {
+              "amount": 687000,
+              "currency": "TWD"
+            },
+            "contractPeriod": {
+              "startDate": "2014-01-07",
+              "endDate": "2014-04-28"
+            },
+            "organizationType": "公司登記",
+            "sme": "是"
+          }
+        ],
+        "number": 1
+      }
+    ]
+  },
+  "language": "zh",
+  "committee": {
+    "id": "ocid-6as3t2-51188678-committee",
+    "member": []
+  },
+  "id": "ocid-6as3t2-51188678",
+  "packageInfo": {
+    "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
+    "publishedDate": "2015-12-01",
+    "publisher": "DSP,Inc."
+  }
+}

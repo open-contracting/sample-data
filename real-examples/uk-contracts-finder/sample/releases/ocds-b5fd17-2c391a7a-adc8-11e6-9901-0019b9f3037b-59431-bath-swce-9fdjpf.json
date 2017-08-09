@@ -1,0 +1,101 @@
+{
+  "ocid": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b",
+  "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-59431-bath-swce-9fdjpf",
+  "date": "2014-12-17T16:44:57Z",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "",
+        "id": "",
+        "legalName": null,
+        "uri": null
+      },
+      "name": "Bath and North East Somerset Council",
+      "address": {
+        "streetAddress": "Supporting People  Communities Team  Trust HQ  St Martins Hospital",
+        "locality": " Bath",
+        "region": null,
+        "postalCode": " BA2 5RP",
+        "countryName": " United Kingdom"
+      },
+      "contactPoint": {
+        "name": "Mr Basil Wild",
+        "email": "basil_wild@bathnes.gov.uk",
+        "telephone": "",
+        "faxNumber": null
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "8c08e77d6f6bae4252c33af8fd703d0e"
+    }
+  ],
+  "tender": {
+    "id": "ocds-b5fd17-2c391a7a-adc8-11e6-9901-0019b9f3037b-bath-swce-9fdjpf",
+    "title": " Wellbeing College",
+    "description": " NHS Bath & NE Somerset Clinical Commissioning Group and Bath & NE Somerset Council are seeking to shape new initiatives for the provision of an educative approach to delivering health, mental health, social and wellbeing interventions.\r\nThe Commissioners have established a Wellbeing College Pilot, using existing service and community resources, to test out this new concept of service delivery and its value and effectiveness in providing courses.\r\nThe aim of the pilot is to develop, alongside an independent evaluation organisation and commissioners, a comprehensive evaluation framework that will assess the impacts of the pilot and the possibilities for the long term sustainability of the concept/approach. This in turn will inform whether a business case, options paper and draft specification is developed to go ahead to full tender.Should the Commissioners agree to proceed with a full tender it is expected that the procurement process will commence during 2015/16.",
+    "status": "unsuccessful",
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "85000000",
+          "description": "Health and social work services",
+          "uri": "http://cpv.data.ac.uk/code-85000000.html"
+        }
+      }
+    ],
+    "minValue": {
+      "amount": 909610,
+      "currency": "GBP"
+    },
+    "value": {
+      "amount": 20000000,
+      "currency": "GBP"
+    },
+    "procurementMethod": null,
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "awardCriteriaDetails": null,
+    "submissionMethod": null,
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "tenderPeriod": {
+      "endDate": "2015-07-29T00:00:00Z"
+    },
+    "hasEnquiries": null,
+    "eligibilityCriteria": null,
+    "milestones": [
+      {
+        "id": 1,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2016-04-01T00:00:00Z",
+        "status": null
+      },
+      {
+        "id": 2,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2021-03-31T00:00:00Z",
+        "status": null
+      }
+    ],
+    "xClassifications": {
+      "isSuitableForVco": false,
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works"
+    }
+  },
+  "buyer": {
+    "id": "8c08e77d6f6bae4252c33af8fd703d0e",
+    "name": "Bath and North East Somerset Council"
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,82 @@
+{
+  "ocid": "ocds-34a6hz-01948-150061/001/ZQ",
+  "id": "01948-150061/001/ZQ",
+  "date": "2015-10-29T17:47:12Z",
+  "language": "en",
+  "tag": [
+    "compiled"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "MISC-BUYANDSELLGCCA",
+        "id": "01",
+        "legalName_en": "Agriculture and Agri-Food Canada",
+        "legalName_fr": "Agriculture et Agroalimentaire Canada"
+      },
+      "name_en": "Agriculture and Agri-Food Canada",
+      "name_fr": "Agriculture et Agroalimentaire Canada",
+      "address": {
+        "streetAddress": "BUILDING 74",
+        "locality": "OTTAWA",
+        "region": "Ontario",
+        "postalCode": "K1A0C6",
+        "countryName": "Canada"
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "MISC-BUYANDSELLGCCA-01"
+    }
+  ],
+  "buyer": {
+    "id": "MISC-BUYANDSELLGCCA-01",
+    "name": ""
+  },
+  "contracts": [
+    {
+      "id": "01948-150061/001/ZQ",
+      "title_en": "Finance & Accounting Services Audits (Supply Arrangement PASS)",
+      "title_fr": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)",
+      "awardID": "01948-150061/001/ZQ",
+      "status": "active",
+      "period": {
+        "startDate": "2014-12-18",
+        "endDate": "2015-11-15"
+      },
+      "value": {
+        "amount": 16555,
+        "currency": "CAD"
+      },
+      "items": [
+        {
+          "id": "R010AG",
+          "description_en": "Finance & Accounting Services Audits (Supply Arrangement PASS)",
+          "description_fr": "V\u00e9rification des services financiers et de comptabilit\u00e9 (Arrangement en mati\u00e8re d'approvisionnement pour des services professionnels de soutien \u00e0 la v\u00e9rification)",
+          "classification": {
+            "id": "R010AG",
+            "scheme": "GSIN"
+          }
+        }
+      ],
+      "amendment": {
+        "rationale": "amendmentNumber: 000, awardDate: 2014-12-18, expiryDate: 2015-11-15, value: 16555.00 | amendmentNumber: 001, awardDate: 2015-02-18, expiryDate: 2015-11-15, value: 0.00 | amendmentNumber: 002, awardDate: 2015-04-27, expiryDate: 2015-11-15, value: 0.00",
+        "date": "2015-04-27"
+      }
+    }
+  ],
+  "packageInfo": {
+    "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json",
+    "publishedDate": "2015-11-18T21:59:18Z",
+    "publisher": {
+      "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca",
+      "uri_en": "https://buyandsell.gc.ca",
+      "uri_fr": "https://achatsetventes.gc.ca",
+      "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data",
+      "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/buyer/properties/name/minLength: '' is too short"
+}

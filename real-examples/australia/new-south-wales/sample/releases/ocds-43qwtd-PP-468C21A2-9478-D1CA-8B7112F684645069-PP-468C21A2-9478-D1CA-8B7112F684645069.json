@@ -1,0 +1,70 @@
+{
+  "ocid": "ocds-43qwtd-PP-468C21A2-9478-D1CA-8B7112F684645069",
+  "id": "PP-468C21A2-9478-D1CA-8B7112F684645069",
+  "date": "2017-07-03T06:05:49Z",
+  "language": "EN",
+  "tag": [
+    "planning"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "contactPoint": {
+        "telephone": " 1300 132 136",
+        "email": "tss.procurement@transport.nsw.gov.au",
+        "name": "TSS Procurement Service Desk"
+      },
+      "name": "Transport NSW - Corporate",
+      "roles": [
+        "buyer"
+      ],
+      "id": "6e922bf0dd102005d307638f310e6b8b"
+    }
+  ],
+  "tender": {
+    "status": "planned",
+    "PPstatus": "Amended",
+    "description": "HVAC Maintenance",
+    "estimatedDateToMarket": "Future/Beyond this FY",
+    "amendment": {
+      "date": "2017-07-03T06:05:49Z",
+      "rationale": "Updated Category Code.",
+      "changes": [
+        {
+          "property": "items.classification.id",
+          "former_value": 80000000
+        },
+        {
+          "property": "items.classification.description",
+          "former_value": "Management and Business Professionals and Administrative Services"
+        }
+      ]
+    },
+    "id": "2018TfNSW62",
+    "items": [
+      {
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Events management",
+          "id": " 80141607"
+        },
+        "id": " 80141607"
+      }
+    ],
+    "multiAgencyAccess": false,
+    "plannedProcurementUUID": "468C21A2-9478-D1CA-8B7112F684645069"
+  },
+  "buyer": {
+    "id": "6e922bf0dd102005d307638f310e6b8b",
+    "name": "Transport NSW - Corporate"
+  },
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": "2017-07-03T12:27:06Z",
+    "publisher": {
+      "uri": "https://tenders.nsw.gov.au",
+      "name": "NSW office of Procurement - eTendering"
+    }
+  },
+  "version": "1.1"
+}

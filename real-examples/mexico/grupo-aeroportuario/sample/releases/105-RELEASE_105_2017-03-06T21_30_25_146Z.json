@@ -1,0 +1,329 @@
+{
+  "ocid": "105",
+  "id": "RELEASE_105_2017-03-06T21:30:25.146Z",
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "id": "OTROS SERVICIOS RELACIONADOS CON OBRAS PUBLICAS",
+      "description": "RECURSOS FISCALES",
+      "amount": {
+        "amount": 726064480.49,
+        "currency": "MXN"
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "projectID": "46101",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "rationale": "Servicios Especializados en el suministro de personal tecnico y administrativo para proyectos de infraestructura aeroportuaria",
+    "documents": [
+      {
+        "id": "doc-1889cafc-ae37-4a92-a6cd-e1780fccc4b8",
+        "documentType": "projectPlan",
+        "title": "Proyecto ejecutivo de la obra",
+        "description": "Terminos de referencia",
+        "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "format": "html",
+        "language": "es"
+      }
+    ]
+  },
+  "tender": {
+    "id": "1008381",
+    "title": "Servicios Especializados en el suministro de personal tecnico y administrativo para proyectos de infraestructura aeroportuaria",
+    "description": "Servicios Especializados en el suministro de personal tecnico y administrativo para proyectos de infraestructura aeroportuaria",
+    "status": "active",
+    "items": [
+      {
+        "id": "item-d044dc85-3b6b-4355-8cf6-a45fb3d770fc",
+        "description": "Servicios Especializados en el suministro de personal tecnico y administrativo para proyectos de infraestructura aeroportuaria",
+        "classification": {
+          "scheme": "TRABAJOS DE ACABADOS EN EDIFICACIONES Y OTROS TRABAJOS ESPECIALIZADOS",
+          "id": "6290"
+        },
+        "quantity": 1,
+        "unit": {
+          "name": "sop",
+          "value": {
+            "amount": 625917655.58,
+            "currency": "MXN"
+          }
+        }
+      }
+    ],
+    "value": {
+      "amount": 726064480.49,
+      "currency": "MXN"
+    },
+    "procurementMethod": "open",
+    "procurementMethodRationale": "No aplica",
+    "metodoDeAdquisicion": "LicitaciÃ³n pÃºblica",
+    "awardCriteria": "bestValueToGoverment",
+    "awardCriteriaDetails": "No aplica",
+    "submissionMethod": [
+      "No aplica"
+    ],
+    "eligibilityCriteria": "Ver documento adjunto",
+    "documents": [
+      {
+        "id": "doc-51a71292-2b65-40c2-81c9-c6fa0b7a4ec6",
+        "documentType": "Clarifications",
+        "title": "Actas de la junta de aclaraciones",
+        "description": "Actas de la junta de aclaraciones",
+        "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "format": "html",
+        "language": "es"
+      },
+      {
+        "id": "doc-ce293f9f-f41b-4514-843c-b071f23e0e8d",
+        "documentType": "Tender Notice",
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "format": "html",
+        "language": "es"
+      },
+      {
+        "id": "doc-e134d18b-c639-43bc-9b39-1a58fccd82ac",
+        "documentType": "Tender Notice",
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "format": "html",
+        "language": "es"
+      },
+      {
+        "id": "doc-b5819baa-6eb4-4fec-a941-4fcd46ab1af1",
+        "documentType": "Tender Notice",
+        "title": "Documento que contiene las especificaicones t?cnicas de la obra",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "format": "html",
+        "language": "es"
+      },
+      {
+        "id": "doc-0fc2aba5-5d72-4f3d-ba61-ffde73e8b6ba",
+        "documentType": "Tender Notice",
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "format": "html",
+        "language": "es"
+      },
+      {
+        "id": "doc-67290a4b-568c-4745-a778-64101e55b5dc",
+        "documentType": "Tender Notice",
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "format": "html",
+        "language": "es"
+      }
+    ]
+  },
+  "buyer": {
+    "identifier": {
+      "scheme": "MK-009KDH999",
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+    "address": {
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "locality": "COL. TIZAPAN",
+      "region": "DEL. ALVARO OBREGON",
+      "postalCode": "01090",
+      "countryName": "Mexico"
+    },
+    "contactPoint": {
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA",
+      "url": "http://www.aeropuerto.gob.mx/"
+    }
+  },
+  "awards": [
+    {
+      "id": "AA-009KDH999-E19-2016",
+      "title": "Contrato abierto plurianual de prestacion de servicios especializados en el suministro de terceros.",
+      "description": "Ver documento adjunto",
+      "status": "active",
+      "value": {
+        "amount": 625917655.58,
+        "currency": "MXN"
+      },
+      "suppliers": [
+        {
+          "identifier": {
+            "id": "CEA140128UI3",
+            "legalName": "CONSORCIO EMPRESARIAL ADPER S.A. DE C.V."
+          },
+          "name": "CONSORCIO EMPRESARIAL ADPER S.A. DE C.V.",
+          "address": {
+            "streetAddress": "Manuel Avila Camacho 1903 int 600 A",
+            "locality": "Satelite",
+            "region": "Naucalpan de Jaurez",
+            "postalCode": "53100",
+            "countryName": "Mexico"
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "item-8ae3ddb2-821c-4762-a517-9cb41bff57f3",
+          "description": "Servicios Especializados en el suministro de personal tecnico y administrativo para proyectos de infraestructura aeroportuaria",
+          "classification": {
+            "scheme": "TRABAJOS DE ACABADOS EN EDIFICACIONES Y OTROS TRABAJOS ESPECIALIZADOS",
+            "id": "6290"
+          },
+          "quantity": 1,
+          "unit": {
+            "name": "sop",
+            "value": {
+              "amount": 625917655.58,
+              "currency": "MXN"
+            }
+          }
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2018-12-31T06:00:00.000Z"
+      },
+      "documents": [
+        {
+          "id": "doc-c72dbd35-d88f-4615-a1d1-de042c98ca4a",
+          "documentType": "Award Notice",
+          "title": "Fallo",
+          "description": "Acta de Fallo",
+          "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "format": "html",
+          "language": "es"
+        },
+        {
+          "id": "doc-1252fba3-9aeb-44c2-aeb4-35ccfdd78d91",
+          "documentType": "Award Notice",
+          "title": "Fallo",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "format": "html",
+          "language": "es"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "AD-AS-DCAGI-SC-102/15",
+      "awardID": "AA-009KDH999-E19-2016",
+      "title": "Contrato abierto plurianual de prestacion de servicios especializados en el suministro de terceros.",
+      "description": "Ver documento adjunto",
+      "status": "active",
+      "period": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2018-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "amount": 625917655.58,
+        "currency": "MXN"
+      },
+      "items": [
+        {
+          "id": "item-0fa5ad28-6889-4f49-a768-c4ebaa07fa54",
+          "description": "Servicios Especializados en el suministro de personal tecnico y administrativo para proyectos de infraestructura aeroportuaria",
+          "classification": {
+            "scheme": "TRABAJOS DE ACABADOS EN EDIFICACIONES Y OTROS TRABAJOS ESPECIALIZADOS",
+            "id": "6290"
+          },
+          "quantity": 1,
+          "unit": {
+            "name": "sop",
+            "value": {
+              "amount": 625917655.58,
+              "currency": "MXN"
+            }
+          }
+        }
+      ],
+      "dateSigned": "2015-12-01T06:00:00.000Z",
+      "documents": [
+        {
+          "id": "doc-d733e10a-dfff-44b5-a86a-f42ccda0b93c",
+          "documentType": "Contract Signed",
+          "title": "Contrato firmado",
+          "description": "Contrato firmado",
+          "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "format": "html",
+          "language": "es"
+        },
+        {
+          "id": "doc-a2e04707-858d-41d1-8cd7-fdb9f4be5df5",
+          "documentType": "Contract Signed",
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "description": "Contrato firmado",
+          "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "format": "html",
+          "language": "es"
+        },
+        {
+          "id": "doc-2686ff97-6178-4d1d-bb0e-84f55f8350a2",
+          "documentType": "Contract Guarantees",
+          "title": "Fianza de anticipo",
+          "description": "Garantia sobre el anticipo",
+          "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "format": "html",
+          "language": "es"
+        },
+        {
+          "id": "doc-87cd1a3c-6ad4-4132-bc58-828ec8fbd487",
+          "documentType": "Contract Guarantees",
+          "title": "Fianza de cumplimiento",
+          "description": "Garantias de cumplimiento",
+          "url": "http://189.211.120.220:8880/files/opendata/15102-AD-AS-DCAGI-SC-102-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "format": "html",
+          "language": "es"
+        }
+      ]
+    }
+  ],
+  "language": "es",
+  "packageInfo": {
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm",
+    "publishedDate": "2017-03-06T21:30:25.146Z",
+    "publisher": {
+      "name": "GACM",
+      "scheme": "SERVICIO",
+      "uid": "AS",
+      "uri": "http://www.aeropuerto.gob.mx/"
+    }
+  }
+}

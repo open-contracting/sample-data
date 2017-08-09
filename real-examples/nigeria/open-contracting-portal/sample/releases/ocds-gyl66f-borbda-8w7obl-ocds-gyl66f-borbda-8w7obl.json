@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-8w7obl",
+  "id": "ocds-gyl66f-borbda-8w7obl",
+  "date": "2011-11-30T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "291028663",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-291028663"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "108886332",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "1091011815",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-1091011815"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "321001230",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-321001230"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "DTEC Nigeria Limited"
+        }
+      ],
+      "identifier": {
+        "id": "17220017",
+        "legalName": "dtec nigeria limited",
+        "scheme": "NGA-DNL"
+      },
+      "name": "dtec nigeria limited",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-DNL-17220017"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2011-11-30T00:00:00Z",
+      "description": "Construction of Small Hydro Power Facilities at Okhunwon, Edo State.",
+      "id": "ocds-gyl66f-borbda-8w7obl",
+      "items": [
+        {
+          "classification": {
+            "id": "147078107",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-8w7obl-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-DNL-17220017",
+          "name": "dtec nigeria limited"
+        }
+      ],
+      "title": "Construction of Small Hydro Power Facilities at Okhunwon, Edo State.",
+      "value": {
+        "amount": 156220610.1,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-291028663",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-8w7obl-award",
+      "description": "Construction of Small Hydro Power Facilities at Okhunwon, Edo State.",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-8w7obl",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-8w7obl",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-8w7obl",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2011-11-30T00:00:00Z",
+            "description": "0.7",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-8w7obl-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2011-11-30T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-8w7obl",
+            "status": "partiallyMet",
+            "title": "construction of small hydro power facilities at okhunwon, edo state.-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 156220610.1,
+              "currency": "NGN"
+            },
+            "date": "2011-11-30T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-8w7obl-nga-contract-transactions-1081080107",
+            "providerOrganization": {
+              "id": "118106556",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-118106556",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "31538370",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-8w7obl",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-8w7obl-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": null
+      },
+      "status": "active",
+      "title": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
+      "value": {
+        "amount": 156220610.1,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
+      "id": "ocds-gyl66f-borbda-8w7obl",
+      "project": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
+      "value": {
+        "amount": 20000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-8w7obl",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2011-11-30T00:00:00Z",
+      "startDate": "2011-11-30T00:00:00Z"
+    },
+    "description": "construction of small hydro power facilities at okhunwon, edo state.",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-8w7obl",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2015-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-8w7obl",
+    "items": [
+      {
+        "classification": {
+          "id": "147078107",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-8w7obl-tender-item-147078107",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 156220610.1,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2011-11-30T00:00:00Z",
+        "description": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State.",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-8w7obl",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2011-11-30T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-8w7obl",
+        "status": "partiallyMet",
+        "title": "Construction Of Small Hydro Power Facilities At Okhunwon, Edo State."
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-1091011815",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "active",
+    "tenderPeriod": {
+      "endDate": "2015-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-321001230",
+        "name": ""
+      }
+    ],
+    "title": "construction of small hydro power facilities at okhunwon, edo state.",
+    "value": {
+      "amount": 156220610.1,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-08-07T13:04:04Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short\n"
+}

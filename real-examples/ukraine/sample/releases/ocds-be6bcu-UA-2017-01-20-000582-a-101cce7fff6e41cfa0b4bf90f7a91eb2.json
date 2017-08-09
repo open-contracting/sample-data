@@ -1,0 +1,458 @@
+{
+  "language": "uk",
+  "contracts": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "description": "SHA1: d358f241d7cb43a3e669a101011858a375c50859",
+          "format": "image/jpeg",
+          "url": "https://public.docs.openprocurement.org/get/3cca894fbdd6422180575ff490b8900f?KeyID=52462340&Signature=1vLqFJVW6luMeNeC6FbFoX1qBgWR4mv4tbHF58q5BhJuQ1xOPOR70n6q9wHOkCx8xiO%2FC1CyyCDe2Seu3PtZBQ%253D%253D",
+          "title": "Договір",
+          "datePublished": "2017-01-23T10:36:42.415780+02:00",
+          "documentType": "contractSigned",
+          "id": "e670e27903c8480893998879a518809c",
+          "dateModified": "2017-01-23T10:36:42.415810+02:00"
+        },
+        {
+          "documentScope": "tender",
+          "description": "SHA1: a257278941d25bffb15e10e0ebfb32a4370b7cf7",
+          "format": "image/jpeg",
+          "url": "https://public.docs.openprocurement.org/get/ec46768aadee4b0c8d994578c73a2dd7?KeyID=52462340&Signature=QUAoBls7LM1olxZYnBpi9DTJAxsr1nUrvFoi%2FdaK%252BUNuCbHdN6SDFWQEvPrCaxF6%2FNhXt1MDvdepP8xHoyjFAQ%253D%253D",
+          "title": "Договір 2 ст",
+          "datePublished": "2017-01-23T10:36:42.416527+02:00",
+          "documentType": "contractSigned",
+          "id": "55b5a50c28a042b4a5dc6f9152695ced",
+          "dateModified": "2017-01-23T10:36:42.416562+02:00"
+        },
+        {
+          "documentScope": "tender",
+          "description": "SHA1: c63fa8de1d39c0215158ca8c699fe11fd6fc7462",
+          "format": "image/jpeg",
+          "url": "https://public.docs.openprocurement.org/get/25296ca9d2344e41928c88b80a6acd2c?KeyID=52462340&Signature=0X%2F6jaBusDpChyGqH4e8X7M%252BbI3XBNShzCz0ZyxuySJmnteMCKsXmlJCM4vwTQIbXYm%2FR1LKk5YGb%2F5lN4hCAw%253D%253D",
+          "title": "специфікація",
+          "datePublished": "2017-01-23T10:36:42.417343+02:00",
+          "documentType": "contractAnnexe",
+          "id": "a3004c21176c458189bd334ee7b2691b",
+          "dateModified": "2017-01-23T10:36:42.417373+02:00"
+        },
+        {
+          "documentScope": "tender",
+          "description": "SHA1: c550658dcfb8efd513d4e47b328b1219204cc869",
+          "format": "image/jpeg",
+          "url": "https://public.docs.openprocurement.org/get/e60cc316baf0486899d2f27a58652490?KeyID=52462340&Signature=1COkw9UU0iWpxcxV1xkw8u0PXP5TuvnH5RDSabZerW%252BXWzEkKPVwKtY87AZbsOEmZcV6zSq5WFB67BgKG7SaBw%253D%253D",
+          "title": "специфікація 2 ст",
+          "datePublished": "2017-01-23T10:36:42.418032+02:00",
+          "documentType": "contractAnnexe",
+          "id": "aee3d3d5b2444463bc0aee86be1b61db",
+          "dateModified": "2017-01-23T10:36:42.418052+02:00"
+        },
+        {
+          "documentScope": "tender",
+          "description": "SHA1: 561026116a6ab8b40e2b3ae79968937be46a6728",
+          "format": "application/pkcs7-signature",
+          "url": "https://public.docs.openprocurement.org/get/f9cca8d48fe3472bb5469afa2b5a7f99?KeyID=52462340&Signature=Tef7mFhAySUTGZ3bThe%2FzsOQuzsec%252BynMJYa1gJKjyINIWYHxYfyMcwbNYNoAkMDqS4oGiweJcyxYXTOIZFWDw%253D%253D",
+          "title": "sign.p7s",
+          "dateModified": "2017-01-23T10:36:42.418534+02:00",
+          "datePublished": "2017-01-23T10:36:42.418515+02:00",
+          "id": "20c4dfaf764c491d9b6502affdf9dfdd"
+        }
+      ],
+      "items": [
+        {
+          "description": "Хліб, батон пшеничний вищого ґатунку",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+            "id": "15810000-9"
+          },
+          "deliveryAddress": {
+            "postalCode": "81200",
+            "countryName": "Україна",
+            "streetAddress": "вул. Привокзальна, 4",
+            "region": "Львівська область",
+            "locality": "м. Перемишляни"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-17T13:15:16+02:00",
+            "endDate": "2017-12-31T13:15:16+02:00"
+          },
+          "id": "707f5aabd04d9256d97609925f736a53",
+          "unit": {
+            "symbol": "kg",
+            "scheme": "UNCEFACT",
+            "id": "KGM",
+            "name": "kilogram"
+          },
+          "quantity": 4301
+        },
+        {
+          "description": "Булка в асортименті",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+            "id": "15810000-9"
+          },
+          "deliveryAddress": {
+            "postalCode": "81200",
+            "countryName": "Україна",
+            "streetAddress": "вул. Привокзальна, 4",
+            "region": "Львівська область",
+            "locality": "м. Перемишляни"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-17T13:15:16+02:00",
+            "endDate": "2017-12-31T13:15:16+02:00"
+          },
+          "id": "0f4870d072f6799b497b8ecfa8ab5850",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "H87",
+            "name": "piece"
+          },
+          "quantity": 4745
+        },
+        {
+          "description": "Хліб житньо-пшеничний",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+            "id": "15810000-9"
+          },
+          "deliveryAddress": {
+            "postalCode": "81200",
+            "countryName": "Україна",
+            "streetAddress": "вул. Привокзальна, 4",
+            "region": "Львівська область",
+            "locality": "м. Перемишляни"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-17T13:15:16+02:00",
+            "endDate": "2017-12-31T13:15:16+02:00"
+          },
+          "id": "d78519e5ab6d81bf0742f26d28431750",
+          "unit": {
+            "symbol": "kg",
+            "scheme": "UNCEFACT",
+            "id": "KGM",
+            "name": "kilogram"
+          },
+          "quantity": 1293
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "name": "Келестин Василь Іванович",
+            "telephone": "0984356046"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "31755529"
+          },
+          "name": "ПП \"Добробут\"",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "81200",
+            "region": "Львівська область",
+            "streetAddress": "вул. Зелена, 4",
+            "locality": "м. Перемишляни"
+          }
+        }
+      ],
+      "contractNumber": "1",
+      "period": {
+        "startDate": "2017-01-17T23:59:59+02:00",
+        "endDate": "2017-12-31T23:59:59+02:00"
+      },
+      "dateSigned": "2017-01-17T23:59:59+02:00",
+      "value": {
+        "currency": "UAH",
+        "amount": 84543.83
+      },
+      "awardID": "f5b3bb67ac524f40a90180725b431753",
+      "id": "6f39a38562744c11a353a5440abd6ed5",
+      "contractID": "UA-2017-01-20-000582-a-b1"
+    }
+  ],
+  "ocid": "ocds-be6bcu-UA-2017-01-20-000582-a",
+  "initiationType": "tender",
+  "date": "2017-01-23T10:36:34.344187+02:00",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "awards": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "description": "SHA1: 079b7a046898676c4d549b02319de9a86c01fde5",
+          "format": "application/pkcs7-signature",
+          "url": "https://public.docs.openprocurement.org/get/476fe704125d43d1b3a05027b88669e6?KeyID=52462340&Signature=QpG4mpphdfZhr0MgqnoT6GdEuJXR5FrGtkNFKkbJtwHjjaUAhsU2rDriHAY3bmBBXeKNREVIUZMrng%2FgpZ1uBA%253D%253D",
+          "title": "sign.p7s",
+          "dateModified": "2017-01-20T13:31:51.692010+02:00",
+          "datePublished": "2017-01-20T13:31:51.691974+02:00",
+          "id": "c2d75cbb11c84641aa2247d9e753e9e5"
+        }
+      ],
+      "items": [
+        {
+          "description": "Хліб, батон пшеничний вищого ґатунку",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+            "id": "15810000-9"
+          },
+          "deliveryAddress": {
+            "postalCode": "81200",
+            "countryName": "Україна",
+            "streetAddress": "вул. Привокзальна, 4",
+            "region": "Львівська область",
+            "locality": "м. Перемишляни"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-17T13:15:16+02:00",
+            "endDate": "2017-12-31T13:15:16+02:00"
+          },
+          "id": "707f5aabd04d9256d97609925f736a53",
+          "unit": {
+            "symbol": "kg",
+            "scheme": "UNCEFACT",
+            "id": "KGM",
+            "name": "kilogram"
+          },
+          "quantity": 4301
+        },
+        {
+          "description": "Булка в асортименті",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+            "id": "15810000-9"
+          },
+          "deliveryAddress": {
+            "postalCode": "81200",
+            "countryName": "Україна",
+            "streetAddress": "вул. Привокзальна, 4",
+            "region": "Львівська область",
+            "locality": "м. Перемишляни"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-17T13:15:16+02:00",
+            "endDate": "2017-12-31T13:15:16+02:00"
+          },
+          "id": "0f4870d072f6799b497b8ecfa8ab5850",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "H87",
+            "name": "piece"
+          },
+          "quantity": 4745
+        },
+        {
+          "description": "Хліб житньо-пшеничний",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+            "id": "15810000-9"
+          },
+          "deliveryAddress": {
+            "postalCode": "81200",
+            "countryName": "Україна",
+            "streetAddress": "вул. Привокзальна, 4",
+            "region": "Львівська область",
+            "locality": "м. Перемишляни"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-17T13:15:16+02:00",
+            "endDate": "2017-12-31T13:15:16+02:00"
+          },
+          "id": "d78519e5ab6d81bf0742f26d28431750",
+          "unit": {
+            "symbol": "kg",
+            "scheme": "UNCEFACT",
+            "id": "KGM",
+            "name": "kilogram"
+          },
+          "quantity": 1293
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "name": "Келестин Василь Іванович",
+            "telephone": "0984356046"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "31755529"
+          },
+          "name": "ПП \"Добробут\"",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "81200",
+            "region": "Львівська область",
+            "streetAddress": "вул. Зелена, 4",
+            "locality": "м. Перемишляни"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 84543.83
+      },
+      "date": "2017-01-20T13:32:05.725777+02:00",
+      "id": "f5b3bb67ac524f40a90180725b431753"
+    }
+  ],
+  "buyer": {
+    "contactPoint": {
+      "telephone": "+380326321260",
+      "email": "peremyshlyany@ukr.net",
+      "name": "Сивуляк Любов Михайлівна",
+      "faxNumber": "+380326323296"
+    },
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "02144772",
+      "legalName": "Відділ освіти Перемишлянської райдержадміністрації"
+    },
+    "name": "Відділ освіти Перемишлянської райдержадміністрації",
+    "address": {
+      "countryName": "Україна",
+      "postalCode": "81200",
+      "region": "Львівська область",
+      "streetAddress": "вул. Привокзальна 4",
+      "locality": "Перемишляни"
+    }
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "status": "complete",
+    "currentStage": "complete",
+    "description": "з доставкою",
+    "title": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+    "items": [
+      {
+        "description": "Хліб, батон пшеничний вищого ґатунку",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+          "id": "15810000-9"
+        },
+        "deliveryAddress": {
+          "postalCode": "81200",
+          "countryName": "Україна",
+          "streetAddress": "вул. Привокзальна, 4",
+          "region": "Львівська область",
+          "locality": "м. Перемишляни"
+        },
+        "deliveryDate": {
+          "startDate": "2017-01-17T13:15:16+02:00",
+          "endDate": "2017-12-31T13:15:16+02:00"
+        },
+        "id": "707f5aabd04d9256d97609925f736a53",
+        "unit": {
+          "symbol": "kg",
+          "scheme": "UNCEFACT",
+          "id": "KGM",
+          "name": "kilogram"
+        },
+        "quantity": 4301
+      },
+      {
+        "description": "Булка в асортименті",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+          "id": "15810000-9"
+        },
+        "deliveryAddress": {
+          "postalCode": "81200",
+          "countryName": "Україна",
+          "streetAddress": "вул. Привокзальна, 4",
+          "region": "Львівська область",
+          "locality": "м. Перемишляни"
+        },
+        "deliveryDate": {
+          "startDate": "2017-01-17T13:15:16+02:00",
+          "endDate": "2017-12-31T13:15:16+02:00"
+        },
+        "id": "0f4870d072f6799b497b8ecfa8ab5850",
+        "unit": {
+          "scheme": "UNCEFACT",
+          "id": "H87",
+          "name": "piece"
+        },
+        "quantity": 4745
+      },
+      {
+        "description": "Хліб житньо-пшеничний",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Хлібопродукти, свіжовипечені хлібобулочні та кондитерські вироби",
+          "id": "15810000-9"
+        },
+        "deliveryAddress": {
+          "postalCode": "81200",
+          "countryName": "Україна",
+          "streetAddress": "вул. Привокзальна, 4",
+          "region": "Львівська область",
+          "locality": "м. Перемишляни"
+        },
+        "deliveryDate": {
+          "startDate": "2017-01-17T13:15:16+02:00",
+          "endDate": "2017-12-31T13:15:16+02:00"
+        },
+        "id": "d78519e5ab6d81bf0742f26d28431750",
+        "unit": {
+          "symbol": "kg",
+          "scheme": "UNCEFACT",
+          "id": "KGM",
+          "name": "kilogram"
+        },
+        "quantity": 1293
+      }
+    ],
+    "procurementMethodType": "reporting",
+    "value": {
+      "currency": "UAH",
+      "amount": 84543.83
+    },
+    "procuringEntity": {
+      "contactPoint": {
+        "telephone": "+380326321260",
+        "email": "peremyshlyany@ukr.net",
+        "name": "Сивуляк Любов Михайлівна",
+        "faxNumber": "+380326323296"
+      },
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "02144772",
+        "legalName": "Відділ освіти Перемишлянської райдержадміністрації"
+      },
+      "name": "Відділ освіти Перемишлянської райдержадміністрації",
+      "address": {
+        "countryName": "Україна",
+        "postalCode": "81200",
+        "region": "Львівська область",
+        "streetAddress": "вул. Привокзальна 4",
+        "locality": "Перемишляни"
+      }
+    },
+    "id": "000048e8ac5f40e38cb58bfbc8644112",
+    "tenderID": "UA-2017-01-20-000582-a"
+  },
+  "id": "101cce7fff6e41cfa0b4bf90f7a91eb2",
+  "packageInfo": {
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    }
+  }
+}

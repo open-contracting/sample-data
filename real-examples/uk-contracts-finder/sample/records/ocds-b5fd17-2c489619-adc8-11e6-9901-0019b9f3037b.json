@@ -1,0 +1,779 @@
+{
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2014-12-17T16:44:59Z", 
+        "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "en-GB"
+      }
+    ], 
+    "ocid": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": [
+      {
+        "releaseDate": "2014-12-17T16:44:59Z", 
+        "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "4ea73ffdf13162ef19d920ddd3956f8a"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Bath and North East Somerset Council"
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2014-12-17T16:44:59Z", 
+        "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+        "releaseTag": [
+          "tender"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Bath and North East Somerset Council"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " United Kingdom"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " M17 1PL"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "JLT Benefit Solutions  Quay West  Trafford Wharf Road"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": " Manchester"
+            }
+          ]
+        }, 
+        "contactPoint": {
+          "telephone": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "email": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "jignesh_sheth@jltgroup.com"
+            }
+          ], 
+          "name": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Mr Jig Sheth"
+            }
+          ], 
+          "faxNumber": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": ""
+            }
+          ], 
+          "uri": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "legalName": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ]
+        }, 
+        "id": "4ea73ffdf13162ef19d920ddd3956f8a"
+      }
+    ], 
+    "tender": {
+      "procurementMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "status": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "unsuccessful"
+        }
+      ], 
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "2014-12-22T00:00:00Z"
+          }
+        ]
+      }, 
+      "eligibilityCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "description": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " Investment management services - managing a portfolio of hedge funds"
+        }
+      ], 
+      "title": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": " Investment Management Services - Managing a Portfolio of Hedge Funds"
+        }
+      ], 
+      "submissionMethodDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "Please apply directly to the buyer using the contact details provided."
+        }
+      ], 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2014-12-17T16:44:59Z", 
+                "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "CPV"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2014-12-17T16:44:59Z", 
+                "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "Pension investment services"
+              }
+            ], 
+            "uri": [
+              {
+                "releaseDate": "2014-12-17T16:44:59Z", 
+                "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "http://cpv.data.ac.uk/code-66131100.html"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2014-12-17T16:44:59Z", 
+                "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+                "releaseTag": [
+                  "tender"
+                ], 
+                "value": "66131100"
+              }
+            ]
+          }, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "See description of related tender."
+            }
+          ]
+        }
+      ], 
+      "awardCriteriaDetails": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "submissionMethod": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "value": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 3105000
+          }
+        ]
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ], 
+        "ojeuContractType": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "Works"
+          }
+        ], 
+        "isSuitableForSme": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": false
+          }
+        ]
+      }, 
+      "awardCriteria": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "milestones": [
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2015-04-30T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract start"
+            }
+          ], 
+          "id": 1, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract start date"
+            }
+          ]
+        }, 
+        {
+          "dueDate": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "2020-04-29T00:00:00Z"
+            }
+          ], 
+          "status": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": null
+            }
+          ], 
+          "title": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Contract end"
+            }
+          ], 
+          "id": 2, 
+          "description": [
+            {
+              "releaseDate": "2014-12-17T16:44:59Z", 
+              "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+              "releaseTag": [
+                "tender"
+              ], 
+              "value": "Anticipated contract end date"
+            }
+          ]
+        }
+      ], 
+      "procurementMethodRationale": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ], 
+      "minValue": {
+        "currency": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": "GBP"
+          }
+        ], 
+        "amount": [
+          {
+            "releaseDate": "2014-12-17T16:44:59Z", 
+            "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+            "releaseTag": [
+              "tender"
+            ], 
+            "value": 895833
+          }
+        ]
+      }, 
+      "id": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-bath-9qak-shd95j"
+        }
+      ], 
+      "hasEnquiries": [
+        {
+          "releaseDate": "2014-12-17T16:44:59Z", 
+          "releaseID": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j", 
+          "releaseTag": [
+            "tender"
+          ], 
+          "value": null
+        }
+      ]
+    }
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en-GB", 
+      "buyer": {
+        "id": "4ea73ffdf13162ef19d920ddd3956f8a", 
+        "name": "Bath and North East Somerset Council"
+      }, 
+      "ocid": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b", 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "unsuccessful", 
+        "procurementMethod": null, 
+        "eligibilityCriteria": null, 
+        "xClassifications": {
+          "isSuitableForVco": false, 
+          "ojeuContractType": "Works", 
+          "isSuitableForSme": false
+        }, 
+        "description": " Investment management services - managing a portfolio of hedge funds", 
+        "title": " Investment Management Services - Managing a Portfolio of Hedge Funds", 
+        "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+        "items": [
+          {
+            "id": 1, 
+            "classification": {
+              "scheme": "CPV", 
+              "id": "66131100", 
+              "uri": "http://cpv.data.ac.uk/code-66131100.html", 
+              "description": "Pension investment services"
+            }, 
+            "description": "See description of related tender."
+          }
+        ], 
+        "awardCriteriaDetails": null, 
+        "value": {
+          "currency": "GBP", 
+          "amount": 3105000
+        }, 
+        "minValue": {
+          "currency": "GBP", 
+          "amount": 895833
+        }, 
+        "milestones": [
+          {
+            "dueDate": "2015-04-30T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract start date", 
+            "id": 1, 
+            "title": "Contract start"
+          }, 
+          {
+            "dueDate": "2020-04-29T00:00:00Z", 
+            "status": null, 
+            "description": "Anticipated contract end date", 
+            "id": 2, 
+            "title": "Contract end"
+          }
+        ], 
+        "awardCriteria": null, 
+        "procurementMethodRationale": null, 
+        "submissionMethod": null, 
+        "hasEnquiries": null, 
+        "id": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-bath-9qak-shd95j", 
+        "tenderPeriod": {
+          "endDate": "2014-12-22T00:00:00Z"
+        }
+      }, 
+      "tag": [
+        "tender"
+      ], 
+      "parties": [
+        {
+          "name": "Bath and North East Somerset Council", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": " M17 1PL", 
+            "countryName": " United Kingdom", 
+            "streetAddress": "JLT Benefit Solutions  Quay West  Trafford Wharf Road", 
+            "region": null, 
+            "locality": " Manchester"
+          }, 
+          "contactPoint": {
+            "telephone": "", 
+            "faxNumber": null, 
+            "name": "Mr Jig Sheth", 
+            "email": "jignesh_sheth@jltgroup.com"
+          }, 
+          "identifier": {
+            "scheme": "", 
+            "id": "", 
+            "uri": null, 
+            "legalName": null
+          }, 
+          "id": "4ea73ffdf13162ef19d920ddd3956f8a"
+        }
+      ], 
+      "date": "2014-12-17T16:44:59Z", 
+      "id": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en-GB", 
+    "ocid": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b", 
+    "initiationType": "tender", 
+    "buyer": {
+      "id": "4ea73ffdf13162ef19d920ddd3956f8a", 
+      "name": "Bath and North East Somerset Council"
+    }, 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name": "Bath and North East Somerset Council", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": " United Kingdom", 
+          "postalCode": " M17 1PL", 
+          "region": null, 
+          "streetAddress": "JLT Benefit Solutions  Quay West  Trafford Wharf Road", 
+          "locality": " Manchester"
+        }, 
+        "contactPoint": {
+          "telephone": "", 
+          "email": "jignesh_sheth@jltgroup.com", 
+          "name": "Mr Jig Sheth", 
+          "faxNumber": null
+        }, 
+        "identifier": {
+          "scheme": "", 
+          "id": "", 
+          "uri": null, 
+          "legalName": null
+        }, 
+        "id": "4ea73ffdf13162ef19d920ddd3956f8a"
+      }
+    ], 
+    "date": "2014-12-17T16:44:59Z", 
+    "tender": {
+      "procurementMethod": null, 
+      "status": "unsuccessful", 
+      "tenderPeriod": {
+        "endDate": "2014-12-22T00:00:00Z"
+      }, 
+      "eligibilityCriteria": null, 
+      "description": " Investment management services - managing a portfolio of hedge funds", 
+      "title": " Investment Management Services - Managing a Portfolio of Hedge Funds", 
+      "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.", 
+      "items": [
+        {
+          "id": 1, 
+          "classification": {
+            "scheme": "CPV", 
+            "description": "Pension investment services", 
+            "uri": "http://cpv.data.ac.uk/code-66131100.html", 
+            "id": "66131100"
+          }, 
+          "description": "See description of related tender."
+        }
+      ], 
+      "awardCriteriaDetails": null, 
+      "submissionMethod": null, 
+      "value": {
+        "currency": "GBP", 
+        "amount": 3105000
+      }, 
+      "xClassifications": {
+        "isSuitableForVco": false, 
+        "ojeuContractType": "Works", 
+        "isSuitableForSme": false
+      }, 
+      "awardCriteria": null, 
+      "milestones": [
+        {
+          "dueDate": "2015-04-30T00:00:00Z", 
+          "status": null, 
+          "title": "Contract start", 
+          "id": 1, 
+          "description": "Anticipated contract start date"
+        }, 
+        {
+          "dueDate": "2020-04-29T00:00:00Z", 
+          "status": null, 
+          "title": "Contract end", 
+          "id": 2, 
+          "description": "Anticipated contract end date"
+        }
+      ], 
+      "procurementMethodRationale": null, 
+      "minValue": {
+        "currency": "GBP", 
+        "amount": 895833
+      }, 
+      "id": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-bath-9qak-shd95j", 
+      "hasEnquiries": null
+    }, 
+    "id": "ocds-b5fd17-2c489619-adc8-11e6-9901-0019b9f3037b-59439-bath-9qak-shd95j"
+  }
+}

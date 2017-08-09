@@ -1,0 +1,449 @@
+{
+  "uri": "https://www.contrataciones.gov.py/datos/record-package/274231.json",
+  "publishedDate": "2017-08-08T08:24:26-04:00",
+  "publisher": {
+    "name": "DNCP - Paraguay",
+    "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay",
+    "uri": "https://contrataciones.gov.py/datos"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publicationPolicy": "https://www.contrataciones.gov.py/datos/legal",
+  "packages": [
+    "https://www.contrataciones.gov.py/datos/id/planning/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision.json",
+    "https://www.contrataciones.gov.py/datos/id/tender/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3.json",
+    "https://www.contrataciones.gov.py/datos/id/award/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1.json",
+    "https://www.contrataciones.gov.py/datos/id/contract/274231-rieder-cia-saci-2.json"
+  ],
+  "records": [
+    {
+      "ocid": "ocds-03ad3f-274231",
+      "releases": [
+        {
+          "date": "2014-10-08T14:16:16-04:00",
+          "tag": [
+            "planning"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/planning/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision.json"
+        },
+        {
+          "date": "2016-02-11T10:54:31-05:00",
+          "tag": [
+            "tender"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/tender/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3.json"
+        },
+        {
+          "date": "2016-10-27T16:58:21-04:00",
+          "tag": [
+            "award"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/award/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1.json"
+        },
+        {
+          "date": "2016-10-18T12:00:00-04:00",
+          "tag": [
+            "contract"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/contract/274231-rieder-cia-saci-2.json"
+        }
+      ],
+      "compiledRelease": {
+        "language": "es",
+        "ocid": "ocds-03ad3f-274231",
+        "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3",
+        "date": "2017-08-08T08:24:26-04:00",
+        "tag": [
+          "compiled"
+        ],
+        "initiationType": "tender",
+        "planning": {
+          "budget": {
+            "description": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIÓN Y TERMINALES ÓPTICOS DE TRANSMISIÓN",
+            "amount": {
+              "amount": 600200000.0,
+              "currency": "PYG"
+            }
+          },
+          "url": "https://www.contrataciones.gov.py/datos/id/planificaciones/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision"
+        },
+        "tender": {
+          "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3",
+          "title": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIÓN Y TERMINALES ÓPTICOS DE TRANSMISIÓN",
+          "status": "complete",
+          "lots": [
+            {
+              "id": "CPBkrUbBsc4%3D",
+              "title": "LOTE 1",
+              "items": [
+                "gjnlKbLKPslg3mM07iELNw%3D%3D",
+                "%2FmoEy4QKUqJg3mM07iELNw%3D%3D",
+                "il%2BMyg277UZg3mM07iELNw%3D%3D",
+                "zrxiONSYvI5g3mM07iELNw%3D%3D"
+              ]
+            },
+            {
+              "id": "zPSfUMAKIJA%3D",
+              "title": "LOTE 2",
+              "items": []
+            }
+          ],
+          "items": [
+            {
+              "description": "Modems con interfaces",
+              "id": "gjnlKbLKPslg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43221806-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+              },
+              "quantity": 20.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 3866947.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Modems con interfaces",
+              "id": "%2FmoEy4QKUqJg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43221806-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+              },
+              "quantity": 20.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 3866947.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Modems con interfaces",
+              "id": "il%2BMyg277UZg3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43221806-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+              },
+              "quantity": 20.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 671272.0,
+                  "currency": "PYG"
+                }
+              }
+            },
+            {
+              "description": "Modems con interfaces",
+              "id": "zrxiONSYvI5g3mM07iELNw%3D%3D",
+              "classification": {
+                "scheme": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                "id": "43221806-002",
+                "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+              },
+              "quantity": 20.0,
+              "unit": {
+                "name": "Unidad",
+                "value": {
+                  "amount": 671269.0,
+                  "currency": "PYG"
+                }
+              }
+            }
+          ],
+          "value": {
+            "currency": "PYG",
+            "amount": 600000000.0
+          },
+          "enquiryPeriod": {
+            "endDate": "2016-03-08T09:00:00-05:00"
+          },
+          "hasEnquiries": false,
+          "awardPeriod": {
+            "startDate": "2016-03-08T09:00:00-05:00",
+            "endDate": "2016-03-16T10:42:48-04:00"
+          },
+          "procuringEntity": {
+            "name": "Compañía Paraguaya de Comunicaciones (COPACO)",
+            "contactPoint": {
+              "name": "Norma Beatriz Fernández de Burgos",
+              "email": "uoc@copaco.com.py",
+              "telephone": "021444142"
+            }
+          },
+          "documents": [
+            {
+              "id": "4oKav34L95Q%3D",
+              "documentType": "Adenda",
+              "title": "Adenda",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/4oKav34L95Q%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "5IK%2FfVdIC%2B0%3D",
+              "documentType": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+              "title": "Condiciones Generales del Contrato - Bienes y Servicios por Subasta",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/5IK%252FfVdIC%252B0%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "jA0K1qPWnpc%3D",
+              "documentType": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+              "title": "Instrucción a los Oferentes - Bienes y Servicios por Subasta",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/jA0K1qPWnpc%253D",
+              "format": "application/pdf"
+            },
+            {
+              "id": "mEoF1DkH3nY%3D",
+              "documentType": "biddingDocuments",
+              "title": "Pliego de bases y Condiciones",
+              "language": "es",
+              "url": "https://www.contrataciones.gov.py/documentos/download/convocatoria/mEoF1DkH3nY%253D",
+              "format": "application/zip"
+            }
+          ],
+          "tenderPeriod": {
+            "endDate": null,
+            "startDate": "2016-03-15T07:30:00-04:00"
+          },
+          "submissionMethod": [
+            "electronicAuction"
+          ],
+          "url": "https://www.contrataciones.gov.py/datos/id/convocatorias/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-3"
+        },
+        "buyer": {
+          "name": "Compañía Paraguaya de Comunicaciones (COPACO)",
+          "contactPoint": {
+            "name": "Norma Beatriz Fernández de Burgos",
+            "email": "uoc@copaco.com.py",
+            "telephone": "021444142"
+          }
+        },
+        "awards": [
+          {
+            "id": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1",
+            "title": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIÓN Y TERMINALES ÓPTICOS DE TRANSMISIÓN",
+            "status": "active",
+            "date": "2016-10-27T16:58:21-04:00",
+            "value": {
+              "amount": 180941450.0,
+              "currency": "PYG"
+            },
+            "suppliers": [
+              {
+                "name": "RIEDER Y CIA. SACI",
+                "identifier": {
+                  "id": "80002612-8",
+                  "legalName": "RIEDER Y CIA. SACI",
+                  "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+                },
+                "address": {
+                  "streetAddress": "AVDA.ARTIGAS 1945",
+                  "postalCode": "",
+                  "locality": "ASUNCION (DISTRITO)",
+                  "countryName": "Paraguay",
+                  "region": "Asunción"
+                },
+                "contactPoint": {
+                  "name": "JUAN RODOLFO RIEDER CELLE JORGE OSCAR RIEDER SALVADOR MALDONADO DIAZ",
+                  "faxNumber": "",
+                  "telephone": "214 114",
+                  "email": "licitaciones@rieder.com.py",
+                  "url": "http://www.rieder.com.py"
+                }
+              }
+            ],
+            "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1"
+          }
+        ],
+        "contracts": [
+          {
+            "id": "274231-rieder-cia-saci-2",
+            "awardID": "274231-adquisicion-equipos-comunicacion-terminales-opticos-transmision-1",
+            "dncpContractCode": "CO-40001-16-130405",
+            "title": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIÓN Y TERMINALES ÓPTICOS DE TRANSMISIÓN",
+            "status": "active",
+            "value": {
+              "amount": 180941456.0,
+              "currency": "PYG"
+            },
+            "lots": [
+              {
+                "id": "PU%2FklOSRAqk%3D",
+                "title": "LOTE 1",
+                "items": [
+                  "puEnpeLAbXw%3D",
+                  "yYde5I%2F2H68%3D",
+                  "gnl9ES6S1us%3D",
+                  "FvB6sd4C5qs%3D"
+                ]
+              }
+            ],
+            "items": [
+              {
+                "description": "Modems con interfaces",
+                "id": "puEnpeLAbXw%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43221806-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+                },
+                "quantity": 16.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 4621617.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Modems con interfaces",
+                "id": "yYde5I%2F2H68%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43221806-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+                },
+                "quantity": 16.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 4621617.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Modems con interfaces",
+                "id": "gnl9ES6S1us%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43221806-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+                },
+                "quantity": 16.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 727491.0,
+                    "currency": "PYG"
+                  }
+                }
+              },
+              {
+                "description": "Modems con interfaces",
+                "id": "FvB6sd4C5qs%3D",
+                "classification": {
+                  "schema": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay",
+                  "id": "43221806-002",
+                  "description": "Catálogo de productos, bienes y servicios de la Dirección Nacional de Contrataciones Públicas del Paraguay Nivel 5, basado en UNSPSC",
+                  "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43221806-002"
+                },
+                "quantity": 14.0,
+                "unit": {
+                  "name": "Unidad",
+                  "value": {
+                    "amount": 1529275.0,
+                    "currency": "PYG"
+                  }
+                }
+              }
+            ],
+            "dateSigned": "2016-10-18T12:00:00-04:00",
+            "suppliers": {
+              "name": "RIEDER Y CIA. SACI",
+              "identifier": {
+                "id": "80002612-8",
+                "legalName": "RIEDER Y CIA. SACI",
+                "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+              },
+              "identifiers": {
+                "key": "274231-rieder-cia-saci-2"
+              }
+            },
+            "documents": [
+              {
+                "id": "d4UkrtBd29I%3D",
+                "documentType": "Acta de Apertura",
+                "title": "Acta de Apertura",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/d4UkrtBd29I%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "jSo4d4dOzNI%3D",
+                "documentType": "Cuadro Comparativo de Ofertas",
+                "title": "Cuadro Comparativo de Ofertas",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/jSo4d4dOzNI%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "HdDlO52VTu0%3D",
+                "documentType": "evaluationReports",
+                "title": "Informe de Evaluación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/HdDlO52VTu0%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "%2Fu0XXxaddro%3D",
+                "documentType": "Nota de Aclaración",
+                "title": "Nota de Aclaración",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/%252Fu0XXxaddro%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "vM7PHyzgyvg%3D",
+                "documentType": "Notificación al Oferente",
+                "title": "Notificación al Oferente",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/vM7PHyzgyvg%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "lcJlgypdSv8%3D",
+                "documentType": "Orden de Compra o Contrato",
+                "title": "Orden de Compra o Contrato",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/lcJlgypdSv8%253D",
+                "format": "application/pdf"
+              },
+              {
+                "id": "DyKLM2Huaf8%3D",
+                "documentType": "awardNotice",
+                "title": "Resolución de Adjudicación",
+                "language": "es",
+                "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/DyKLM2Huaf8%253D",
+                "format": "application/pdf"
+              }
+            ],
+            "period": {
+              "endDate": "2018-02-18T12:00:00-05:00",
+              "startDate": "2016-10-18T12:00:00-04:00"
+            },
+            "url": "https://www.contrataciones.gov.py/datos/id/contratos/274231-rieder-cia-saci-2"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -3,19 +3,12 @@ Colombia > Colombia Compra
 
 OCDS data is available from the [Colombia Compra platform](https://www.colombiacompra.gov.co/transparencia/estandar-ocds) via a JSON API and as CSV.
 
-CSV files: https://www.colombiacompra.gov.co/transparencia/datos-csv
+CSV files: https://www.colombiacompra.gov.co/transparencia/datos-csv (not all data is included).
 
-API details: https://www.colombiacompra.gov.co/transparencia/ocds/api
+API details: https://www.colombiacompra.gov.co/transparencia/ocds/api - get all releases via https://api.colombiacompra.gov.co/releases/
 
-### Known issues
+There were 4,361,358 available releases as of 2017/06/29.
 
-Not all data is included in the CSV files. 
+Currently the releases all fail with:
 
-## Write a scraper!
-
-Could you write a simple python scraper that will:
-
-* Fetch 100 example releases or records;
-* Fetch the latest version of the full dataset;
-
-If so - we want your help. See [this post](https://groups.google.com/a/open-contracting.org/forum/#!topic/standard-discuss/HtSYpbH5QGY). 
+    properties/awards/uniqueItems: ... has non-unique elements

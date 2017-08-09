@@ -1,0 +1,56 @@
+{
+  "ocid": "ocds-43qwtd-PP-AD16150F-DD10-366A-3E1B1E0747990F47",
+  "id": "PP-AD16150F-DD10-366A-3E1B1E0747990F47",
+  "date": "2017-06-30T06:34:45Z",
+  "language": "EN",
+  "tag": [
+    "planning"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "contactPoint": {
+        "telephone": " 1300 132 136",
+        "email": "tss.procurement@transport.nsw.gov.au",
+        "name": "TSS Procurement Service Desk"
+      },
+      "name": "Transport NSW - Corporate",
+      "roles": [
+        "buyer"
+      ],
+      "id": "6e922bf0dd102005d307638f310e6b8b"
+    }
+  ],
+  "tender": {
+    "status": "planned",
+    "PPstatus": "As Published",
+    "description": "Hot Box Detection System Support Agreement ",
+    "estimatedDateToMarket": "Quarter 3 2017/2018",
+    "id": "2018TfNSW77",
+    "items": [
+      {
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Events management",
+          "id": " 80141607"
+        },
+        "id": " 80141607"
+      }
+    ],
+    "multiAgencyAccess": false,
+    "plannedProcurementUUID": "AD16150F-DD10-366A-3E1B1E0747990F47"
+  },
+  "buyer": {
+    "id": "6e922bf0dd102005d307638f310e6b8b",
+    "name": "Transport NSW - Corporate"
+  },
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": "2017-07-03T12:27:06Z",
+    "publisher": {
+      "uri": "https://tenders.nsw.gov.au",
+      "name": "NSW office of Procurement - eTendering"
+    }
+  },
+  "version": "1.1"
+}

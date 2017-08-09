@@ -1,0 +1,456 @@
+{
+  "publisher": {
+    "uri": "https://tenders.nsw.gov.au", 
+    "name": "NSW office of Procurement - eTendering"
+  }, 
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2017-07-03T06:05:49Z", 
+        "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+        "releaseTag": [
+          "planning"
+        ], 
+        "value": "EN"
+      }
+    ], 
+    "ocid": "ocds-43qwtd-PP-468C21A2-9478-D1CA-8B7112F684645069", 
+    "packageInfo": {
+      "publisher": {
+        "name": [
+          {
+            "releaseDate": "2017-07-03T06:05:49Z", 
+            "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+            "releaseTag": [
+              "planning"
+            ], 
+            "value": "NSW office of Procurement - eTendering"
+          }
+        ], 
+        "uri": [
+          {
+            "releaseDate": "2017-07-03T06:05:49Z", 
+            "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+            "releaseTag": [
+              "planning"
+            ], 
+            "value": "https://tenders.nsw.gov.au"
+          }
+        ]
+      }, 
+      "uri": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": null
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "2017-07-03T12:27:06Z"
+        }
+      ]
+    }, 
+    "initiationType": [
+      {
+        "releaseDate": "2017-07-03T06:05:49Z", 
+        "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+        "releaseTag": [
+          "planning"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "tender": {
+      "status": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "planned"
+        }
+      ], 
+      "amendment": {
+        "date": [
+          {
+            "releaseDate": "2017-07-03T06:05:49Z", 
+            "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+            "releaseTag": [
+              "planning"
+            ], 
+            "value": "2017-07-03T06:05:49Z"
+          }
+        ], 
+        "changes": [
+          {
+            "releaseDate": "2017-07-03T06:05:49Z", 
+            "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+            "releaseTag": [
+              "planning"
+            ], 
+            "value": [
+              {
+                "property": "items.classification.id", 
+                "former_value": 80000000
+              }, 
+              {
+                "property": "items.classification.description", 
+                "former_value": "Management and Business Professionals and Administrative Services"
+              }
+            ]
+          }
+        ], 
+        "rationale": [
+          {
+            "releaseDate": "2017-07-03T06:05:49Z", 
+            "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+            "releaseTag": [
+              "planning"
+            ], 
+            "value": "Updated Category Code."
+          }
+        ]
+      }, 
+      "estimatedDateToMarket": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "Future/Beyond this FY"
+        }
+      ], 
+      "description": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "HVAC Maintenance"
+        }
+      ], 
+      "items": [
+        {
+          "id": " 80141607", 
+          "classification": {
+            "scheme": [
+              {
+                "releaseDate": "2017-07-03T06:05:49Z", 
+                "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+                "releaseTag": [
+                  "planning"
+                ], 
+                "value": "UNSPSC"
+              }
+            ], 
+            "description": [
+              {
+                "releaseDate": "2017-07-03T06:05:49Z", 
+                "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+                "releaseTag": [
+                  "planning"
+                ], 
+                "value": "Events management"
+              }
+            ], 
+            "id": [
+              {
+                "releaseDate": "2017-07-03T06:05:49Z", 
+                "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+                "releaseTag": [
+                  "planning"
+                ], 
+                "value": " 80141607"
+              }
+            ]
+          }
+        }
+      ], 
+      "PPstatus": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "Amended"
+        }
+      ], 
+      "id": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "2018TfNSW62"
+        }
+      ], 
+      "plannedProcurementUUID": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "468C21A2-9478-D1CA-8B7112F684645069"
+        }
+      ], 
+      "multiAgencyAccess": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": false
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2017-07-03T06:05:49Z", 
+        "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+        "releaseTag": [
+          "planning"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "contactPoint": {
+          "telephone": [
+            {
+              "releaseDate": "2017-07-03T06:05:49Z", 
+              "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+              "releaseTag": [
+                "planning"
+              ], 
+              "value": " 1300 132 136"
+            }
+          ], 
+          "email": [
+            {
+              "releaseDate": "2017-07-03T06:05:49Z", 
+              "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+              "releaseTag": [
+                "planning"
+              ], 
+              "value": "tss.procurement@transport.nsw.gov.au"
+            }
+          ], 
+          "name": [
+            {
+              "releaseDate": "2017-07-03T06:05:49Z", 
+              "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+              "releaseTag": [
+                "planning"
+              ], 
+              "value": "TSS Procurement Service Desk"
+            }
+          ]
+        }, 
+        "id": "6e922bf0dd102005d307638f310e6b8b", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2017-07-03T06:05:49Z", 
+              "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+              "releaseTag": [
+                "planning"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "name": [
+          {
+            "releaseDate": "2017-07-03T06:05:49Z", 
+            "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+            "releaseTag": [
+              "planning"
+            ], 
+            "value": "Transport NSW - Corporate"
+          }
+        ]
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "6e922bf0dd102005d307638f310e6b8b"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2017-07-03T06:05:49Z", 
+          "releaseID": "PP-468C21A2-9478-D1CA-8B7112F684645069", 
+          "releaseTag": [
+            "planning"
+          ], 
+          "value": "Transport NSW - Corporate"
+        }
+      ]
+    }
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "EN", 
+      "buyer": {
+        "id": "6e922bf0dd102005d307638f310e6b8b", 
+        "name": "Transport NSW - Corporate"
+      }, 
+      "ocid": "ocds-43qwtd-PP-468C21A2-9478-D1CA-8B7112F684645069", 
+      "packageInfo": {
+        "publisher": {
+          "uri": "https://tenders.nsw.gov.au", 
+          "name": "NSW office of Procurement - eTendering"
+        }, 
+        "uri": null, 
+        "publishedDate": "2017-07-03T12:27:06Z"
+      }, 
+      "initiationType": "tender", 
+      "tender": {
+        "status": "planned", 
+        "amendment": {
+          "date": "2017-07-03T06:05:49Z", 
+          "changes": [
+            {
+              "property": "items.classification.id", 
+              "former_value": 80000000
+            }, 
+            {
+              "property": "items.classification.description", 
+              "former_value": "Management and Business Professionals and Administrative Services"
+            }
+          ], 
+          "rationale": "Updated Category Code."
+        }, 
+        "estimatedDateToMarket": "Future/Beyond this FY", 
+        "description": "HVAC Maintenance", 
+        "items": [
+          {
+            "id": " 80141607", 
+            "classification": {
+              "scheme": "UNSPSC", 
+              "description": "Events management", 
+              "id": " 80141607"
+            }
+          }
+        ], 
+        "PPstatus": "Amended", 
+        "multiAgencyAccess": false, 
+        "plannedProcurementUUID": "468C21A2-9478-D1CA-8B7112F684645069", 
+        "id": "2018TfNSW62"
+      }, 
+      "tag": [
+        "planning"
+      ], 
+      "parties": [
+        {
+          "contactPoint": {
+            "telephone": " 1300 132 136", 
+            "name": "TSS Procurement Service Desk", 
+            "email": "tss.procurement@transport.nsw.gov.au"
+          }, 
+          "name": "Transport NSW - Corporate", 
+          "roles": [
+            "buyer"
+          ], 
+          "id": "6e922bf0dd102005d307638f310e6b8b"
+        }
+      ], 
+      "date": "2017-07-03T06:05:49Z", 
+      "id": "PP-468C21A2-9478-D1CA-8B7112F684645069"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "EN", 
+    "ocid": "ocds-43qwtd-PP-468C21A2-9478-D1CA-8B7112F684645069", 
+    "packageInfo": {
+      "publisher": {
+        "name": "NSW office of Procurement - eTendering", 
+        "uri": "https://tenders.nsw.gov.au"
+      }, 
+      "uri": null, 
+      "publishedDate": "2017-07-03T12:27:06Z"
+    }, 
+    "initiationType": "tender", 
+    "buyer": {
+      "id": "6e922bf0dd102005d307638f310e6b8b", 
+      "name": "Transport NSW - Corporate"
+    }, 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "contactPoint": {
+          "telephone": " 1300 132 136", 
+          "email": "tss.procurement@transport.nsw.gov.au", 
+          "name": "TSS Procurement Service Desk"
+        }, 
+        "id": "6e922bf0dd102005d307638f310e6b8b", 
+        "roles": [
+          "buyer"
+        ], 
+        "name": "Transport NSW - Corporate"
+      }
+    ], 
+    "date": "2017-07-03T06:05:49Z", 
+    "tender": {
+      "status": "planned", 
+      "amendment": {
+        "date": "2017-07-03T06:05:49Z", 
+        "changes": [
+          {
+            "property": "items.classification.id", 
+            "former_value": 80000000
+          }, 
+          {
+            "property": "items.classification.description", 
+            "former_value": "Management and Business Professionals and Administrative Services"
+          }
+        ], 
+        "rationale": "Updated Category Code."
+      }, 
+      "estimatedDateToMarket": "Future/Beyond this FY", 
+      "description": "HVAC Maintenance", 
+      "items": [
+        {
+          "id": " 80141607", 
+          "classification": {
+            "scheme": "UNSPSC", 
+            "description": "Events management", 
+            "id": " 80141607"
+          }
+        }
+      ], 
+      "PPstatus": "Amended", 
+      "id": "2018TfNSW62", 
+      "plannedProcurementUUID": "468C21A2-9478-D1CA-8B7112F684645069", 
+      "multiAgencyAccess": false
+    }, 
+    "id": "PP-468C21A2-9478-D1CA-8B7112F684645069"
+  }
+}

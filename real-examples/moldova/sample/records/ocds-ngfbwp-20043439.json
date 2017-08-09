@@ -1,0 +1,2782 @@
+{
+  "compiledRelease": {
+    "tag": [
+      "compiled"
+    ],
+    "date": "2017-06-16T00:00:00.000Z",
+    "id": "20043439",
+    "initiationType": "tender",
+    "language": "md",
+    "ocid": "ocds-ngfbwp-20043439",
+    "validationErrors": "properties/tender/properties/status/enum: 'Primirea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]",
+    "version": "1.1",
+    "buyer": {
+      "id": "4d4ac552380ebe62833615a7dbea05a5",
+      "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+    },
+    "packageInfo": {
+      "publishedDate": "2016-11-07T00:00:00.00Z",
+      "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+      "publisher": {
+        "name": "Public Procurement Agency",
+        "scheme": null,
+        "uid": null,
+        "uri": "https://tender.gov.md"
+      }
+    },
+    "tender": {
+      "awardCriteria": "",
+      "awardCriteriaDetails": "",
+      "description": "",
+      "eligibilityCriteria": "",
+      "id": "20043439",
+      "numberOfTenders": "",
+      "procurementMethod": "Licita\u0163ie public\u0103",
+      "procurementMethodRationale": "",
+      "status": "Primirea ofertelor",
+      "submissionMethodDetails": "",
+      "tenderers": [
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": ""
+        }
+      ],
+      "title": "Tender Ref 17/01952 Bulletin 48",
+      "amendment": {
+        "changes": {}
+      },
+      "procuringEntity": {
+        "id": "4d4ac552380ebe62833615a7dbea05a5",
+        "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+      },
+      "submissionMethod": [
+        "written"
+      ],
+      "tenderPeriod": {
+        "endDate": "2017-07-07T14:00:00.000Z",
+        "startDate": "2017-06-16T00:00:00.000Z"
+      },
+      "value": {
+        "amount": "",
+        "currency": ""
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": "",
+          "format": "",
+          "title": "",
+          "url": ""
+        }
+      ],
+      "items": [
+        {
+          "id": 20259025,
+          "additionalClassifications": [],
+          "description": "Curea  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1282,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259026,
+          "additionalClassifications": [],
+          "description": "Toc pentru pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1282,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259027,
+          "additionalClassifications": [],
+          "description": "Curelu\u0219a de siguran\u021b\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1282,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259028,
+          "additionalClassifications": [],
+          "description": "Hus\u0103 pentru \u00eenc\u0103rc\u0103tor  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1282,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259029,
+          "additionalClassifications": [],
+          "description": "Hus\u0103 pentru c\u0103tu\u0219e  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1282,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259030,
+          "additionalClassifications": [],
+          "description": "Hus\u0103 pentru balona\u0219 cu gaze lacrimogene  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1136,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259031,
+          "additionalClassifications": [],
+          "description": "C\u0103tu\u0219e cu lan\u0163  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1136,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259032,
+          "additionalClassifications": [],
+          "description": "C\u0103tu\u0219e cu balamale  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 146,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259033,
+          "additionalClassifications": [],
+          "description": "Balona\u0219 cu gaz lacrimogen  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1136,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259034,
+          "additionalClassifications": [],
+          "description": "Lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 1136,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259035,
+          "additionalClassifications": [],
+          "description": "Baston   Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 160,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259036,
+          "additionalClassifications": [],
+          "description": "Masc\u0103 anti-gaze  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 50,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259037,
+          "additionalClassifications": [],
+          "description": "M\u0103nu\u0219i tactice  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 160,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259038,
+          "additionalClassifications": [],
+          "description": "Vest\u0103 antiglon\u021b  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 80,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259039,
+          "additionalClassifications": [],
+          "description": "Casc\u0103 balistic\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 50,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259040,
+          "additionalClassifications": [],
+          "description": "Electro\u0219oc tip lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 25,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        },
+        {
+          "id": 20259041,
+          "additionalClassifications": [],
+          "description": "Electro\u015foc tip pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+          "quantity": 25,
+          "classification": {
+            "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare",
+            "id": "35000000-4",
+            "scheme": "CPV"
+          },
+          "unit": {
+            "name": "Bucat\u0103"
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": {}
+        }
+      ]
+    },
+    "parties": [
+      {
+        "id": "4d4ac552380ebe62833615a7dbea05a5",
+        "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI",
+        "roles": [
+          "buyer",
+          "procuringEntity"
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": "",
+        "roles": [
+          "tenderer"
+        ]
+      }
+    ]
+  },
+  "versionedRelease": {
+    "ocid": "ocds-ngfbwp-20043439",
+    "initiationType": [
+      {
+        "releaseID": "20043439",
+        "releaseDate": "2017-06-16T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "tender"
+      }
+    ],
+    "language": [
+      {
+        "releaseID": "20043439",
+        "releaseDate": "2017-06-16T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "md"
+      }
+    ],
+    "validationErrors": [
+      {
+        "releaseID": "20043439",
+        "releaseDate": "2017-06-16T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "properties/tender/properties/status/enum: 'Primirea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+      }
+    ],
+    "version": [
+      {
+        "releaseID": "20043439",
+        "releaseDate": "2017-06-16T00:00:00.000Z",
+        "releaseTag": [
+          "tender",
+          "award",
+          "contract"
+        ],
+        "value": "1.1"
+      }
+    ],
+    "buyer": {
+      "id": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "4d4ac552380ebe62833615a7dbea05a5"
+        }
+      ],
+      "name": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+        }
+      ]
+    },
+    "packageInfo": {
+      "publishedDate": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "2016-11-07T00:00:00.00Z"
+        }
+      ],
+      "uri": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "http://moldova-demo.yipl.com.np/ocds-api/year/2017"
+        }
+      ],
+      "publisher": {
+        "name": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "Public Procurement Agency"
+          }
+        ],
+        "scheme": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uid": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": null
+          }
+        ],
+        "uri": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "https://tender.gov.md"
+          }
+        ]
+      }
+    },
+    "tender": {
+      "awardCriteria": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "awardCriteriaDetails": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "description": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "eligibilityCriteria": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "id": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "20043439"
+        }
+      ],
+      "numberOfTenders": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "procurementMethod": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Licita\u0163ie public\u0103"
+        }
+      ],
+      "procurementMethodRationale": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "status": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Primirea ofertelor"
+        }
+      ],
+      "submissionMethodDetails": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": ""
+        }
+      ],
+      "tenderers": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": [
+            {
+              "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+              "name": ""
+            }
+          ]
+        }
+      ],
+      "title": [
+        {
+          "releaseID": "20043439",
+          "releaseDate": "2017-06-16T00:00:00.000Z",
+          "releaseTag": [
+            "tender",
+            "award",
+            "contract"
+          ],
+          "value": "Tender Ref 17/01952 Bulletin 48"
+        }
+      ],
+      "amendment": {
+        "changes": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": {}
+          }
+        ]
+      },
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "4d4ac552380ebe62833615a7dbea05a5"
+          }
+        ],
+        "name": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+          }
+        ]
+      },
+      "submissionMethod": [
+        [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "written"
+          }
+        ]
+      ],
+      "tenderPeriod": {
+        "endDate": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-07-07T14:00:00.000Z"
+          }
+        ],
+        "startDate": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "2017-06-16T00:00:00.000Z"
+          }
+        ]
+      },
+      "value": {
+        "amount": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "currency": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ]
+      },
+      "documents": [
+        {
+          "id": "",
+          "datePublished": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "format": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "title": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ],
+          "url": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": 20259025,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Curea  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1282
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259026,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Toc pentru pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1282
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259027,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Curelu\u0219a de siguran\u021b\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1282
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259028,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Hus\u0103 pentru \u00eenc\u0103rc\u0103tor  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1282
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259029,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Hus\u0103 pentru c\u0103tu\u0219e  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1282
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259030,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Hus\u0103 pentru balona\u0219 cu gaze lacrimogene  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1136
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259031,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "C\u0103tu\u0219e cu lan\u0163  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1136
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259032,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "C\u0103tu\u0219e cu balamale  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 146
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259033,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Balona\u0219 cu gaz lacrimogen  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1136
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259034,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 1136
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259035,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Baston   Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 160
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259036,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Masc\u0103 anti-gaze  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 50
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259037,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "M\u0103nu\u0219i tactice  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 160
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259038,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Vest\u0103 antiglon\u021b  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 80
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259039,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Casc\u0103 balistic\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 50
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259040,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Electro\u0219oc tip lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 25
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20259041,
+          "additionalClassifications": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": []
+            }
+          ],
+          "description": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "Electro\u015foc tip pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\"."
+            }
+          ],
+          "quantity": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": 25
+            }
+          ],
+          "classification": {
+            "description": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+              }
+            ],
+            "id": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "35000000-4"
+              }
+            ],
+            "scheme": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "CPV"
+              }
+            ]
+          },
+          "unit": {
+            "name": [
+              {
+                "releaseID": "20043439",
+                "releaseDate": "2017-06-16T00:00:00.000Z",
+                "releaseTag": [
+                  "tender",
+                  "award",
+                  "contract"
+                ],
+                "value": "Bucat\u0103"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "id": 0,
+          "documents": [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": {}
+            }
+          ]
+        }
+      ]
+    },
+    "parties": [
+      {
+        "id": "4d4ac552380ebe62833615a7dbea05a5",
+        "name": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "buyer"
+            }
+          ],
+          [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "procuringEntity"
+            }
+          ]
+        ]
+      },
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": [
+          {
+            "releaseID": "20043439",
+            "releaseDate": "2017-06-16T00:00:00.000Z",
+            "releaseTag": [
+              "tender",
+              "award",
+              "contract"
+            ],
+            "value": ""
+          }
+        ],
+        "roles": [
+          [
+            {
+              "releaseID": "20043439",
+              "releaseDate": "2017-06-16T00:00:00.000Z",
+              "releaseTag": [
+                "tender",
+                "award",
+                "contract"
+              ],
+              "value": "tenderer"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "releases": [
+    {
+      "ocid": "ocds-ngfbwp-20043439",
+      "id": "20043439",
+      "date": "2017-06-16T00:00:00.000Z",
+      "language": "md",
+      "tag": [
+        "tender",
+        "award",
+        "contract"
+      ],
+      "initiationType": "tender",
+      "parties": [
+        {
+          "id": "4d4ac552380ebe62833615a7dbea05a5",
+          "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+          "name": "",
+          "roles": [
+            "tenderer"
+          ]
+        }
+      ],
+      "tender": {
+        "id": "20043439",
+        "title": "Tender Ref 17/01952 Bulletin 48",
+        "description": "",
+        "status": "Primirea ofertelor",
+        "items": [
+          {
+            "id": 20259025,
+            "description": "Curea  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1282,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259026,
+            "description": "Toc pentru pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1282,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259027,
+            "description": "Curelu\u0219a de siguran\u021b\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1282,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259028,
+            "description": "Hus\u0103 pentru \u00eenc\u0103rc\u0103tor  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1282,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259029,
+            "description": "Hus\u0103 pentru c\u0103tu\u0219e  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1282,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259030,
+            "description": "Hus\u0103 pentru balona\u0219 cu gaze lacrimogene  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1136,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259031,
+            "description": "C\u0103tu\u0219e cu lan\u0163  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1136,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259032,
+            "description": "C\u0103tu\u0219e cu balamale  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 146,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259033,
+            "description": "Balona\u0219 cu gaz lacrimogen  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1136,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259034,
+            "description": "Lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 1136,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259035,
+            "description": "Baston   Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 160,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259036,
+            "description": "Masc\u0103 anti-gaze  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 50,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259037,
+            "description": "M\u0103nu\u0219i tactice  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 160,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259038,
+            "description": "Vest\u0103 antiglon\u021b  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 80,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259039,
+            "description": "Casc\u0103 balistic\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 50,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259040,
+            "description": "Electro\u0219oc tip lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 25,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          },
+          {
+            "id": 20259041,
+            "description": "Electro\u015foc tip pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+            "classification": {
+              "scheme": "CPV",
+              "id": "35000000-4",
+              "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+            },
+            "additionalClassifications": [],
+            "quantity": 25,
+            "unit": {
+              "name": "Bucat\u0103"
+            }
+          }
+        ],
+        "value": {
+          "amount": "",
+          "currency": ""
+        },
+        "procurementMethod": "Licita\u0163ie public\u0103",
+        "procurementMethodRationale": "",
+        "awardCriteria": "",
+        "awardCriteriaDetails": "",
+        "submissionMethod": [
+          "written"
+        ],
+        "submissionMethodDetails": "",
+        "tenderPeriod": {
+          "startDate": "2017-06-16T00:00:00.000Z",
+          "endDate": "2017-07-07T14:00:00.000Z"
+        },
+        "eligibilityCriteria": "",
+        "numberOfTenders": "",
+        "tenderers": [
+          {
+            "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+            "name": ""
+          }
+        ],
+        "procuringEntity": {
+          "id": "4d4ac552380ebe62833615a7dbea05a5",
+          "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+        },
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": "",
+            "format": ""
+          }
+        ],
+        "milestones": [
+          {
+            "documents": {}
+          }
+        ],
+        "amendment": {
+          "changes": {}
+        }
+      },
+      "buyer": {
+        "id": "4d4ac552380ebe62833615a7dbea05a5",
+        "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+      },
+      "packageInfo": {
+        "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+        "publishedDate": "2016-11-07T00:00:00.00Z",
+        "publisher": {
+          "scheme": null,
+          "name": "Public Procurement Agency",
+          "uri": "https://tender.gov.md",
+          "uid": null
+        }
+      },
+      "version": "1.1",
+      "validationErrors": "properties/tender/properties/status/enum: 'Primirea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+    }
+  ],
+  "publisher": {
+    "scheme": null,
+    "name": "Public Procurement Agency",
+    "uri": "https://tender.gov.md",
+    "uid": null
+  }
+}

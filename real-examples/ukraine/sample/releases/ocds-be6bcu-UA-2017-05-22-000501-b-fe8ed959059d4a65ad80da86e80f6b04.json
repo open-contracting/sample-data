@@ -1,0 +1,277 @@
+{
+  "language": "uk",
+  "contracts": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "title": "Дог №26 от22.05.17 Аших прод 43017.3.pdf",
+          "url": "https://public.docs.openprocurement.org/get/af8acc489d664226beec1a5c616e681b?KeyID=52462340&Signature=xlmuEWF7RYuft8jPMyUOe%2Fw0Hb5dQhtR82Vm8lVjYrXKgcWX6pZ0%252BM3r2WbIW6H2Z5reawcl5%252B%252BiDmxekmxJDA%253D%253D",
+          "format": "application/pdf",
+          "dateModified": "2017-05-22T11:14:43.987245+03:00",
+          "datePublished": "2017-05-22T11:14:43.987222+03:00",
+          "id": "610399c89e1140a383f66e526c2dd507"
+        },
+        {
+          "documentScope": "tender",
+          "title": "sign.p7s",
+          "url": "https://public.docs.openprocurement.org/get/5cc6c156d8694221b904cfc9442495b3?KeyID=52462340&Signature=QqmKz9p615xH7Wc0RhMTMYp6LlmdpDeTRSPt3CYsqz4OCJ7lx4YJW5HyvjkjJcZHVGdT84ORzYR9R5pEpGRJBQ%253D%253D",
+          "format": "application/pkcs7-signature",
+          "dateModified": "2017-05-22T11:16:28.329821+03:00",
+          "datePublished": "2017-05-22T11:16:28.329799+03:00",
+          "id": "f1f27f22f3c64dda95ba782e82d0a8c3"
+        }
+      ],
+      "items": [
+        {
+          "description": "продукти харчування ",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Продукція борошномельно-круп'яної промисловості",
+            "id": "15610000-7"
+          },
+          "deliveryAddress": {
+            "postalCode": "93600",
+            "countryName": "Україна",
+            "streetAddress": "Центральна 17 \"А\"",
+            "region": "Луганська область",
+            "locality": "смт Станиця Луганська"
+          },
+          "deliveryDate": {
+            "startDate": "2017-05-22T23:59:59.999999+03:00",
+            "endDate": "2017-05-31T23:59:59.999999+03:00"
+          },
+          "id": "aa27629c272944cabf97f19e3ad5e52a",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "LO",
+            "name": "lot  [unit of procurement]"
+          },
+          "quantity": 12
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "name": "Ашихина Татьяна Владимировна",
+            "telephone": "+3080995055264"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2457315406",
+            "legalName": "ФЛП Ашихина Татьяна Владимировна"
+          },
+          "name": "ФЛП Ашихина Татьяна Владимировна",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "93630",
+            "region": "Луганська область",
+            "streetAddress": "Миру, 64/2",
+            "locality": "с Тепле"
+          }
+        }
+      ],
+      "contractNumber": "26",
+      "period": {
+        "startDate": "2017-05-22T00:00:00+03:00",
+        "endDate": "2017-12-31T00:00:00+02:00"
+      },
+      "dateSigned": "2017-05-22T11:14:00+03:00",
+      "value": {
+        "currency": "UAH",
+        "amount": 43017.3,
+        "valueAddedTaxIncluded": true
+      },
+      "awardID": "504626b3aeb9426a94331f2adb7ac273",
+      "id": "2fea32850dac46d3b2277e04d579a3f1",
+      "contractID": "UA-2017-05-22-000501-b-b1"
+    }
+  ],
+  "ocid": "ocds-be6bcu-UA-2017-05-22-000501-b",
+  "initiationType": "tender",
+  "date": "2017-05-22T11:16:48.430265+03:00",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "awards": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "title": "sign.p7s",
+          "url": "https://public.docs.openprocurement.org/get/eb0ecfce62624b6dad1b21419473e6ef?KeyID=52462340&Signature=0Cx6w5nH6E1MsvyAkzOV6uMSJ14UoG7IT3s%2Fs6KUv0lXoBonbX0WhqpeiIr13ROM1PhPq3MFgqValW%2FKlzjQAw%253D%253D",
+          "format": "application/pkcs7-signature",
+          "dateModified": "2017-05-22T11:11:18.870820+03:00",
+          "datePublished": "2017-05-22T11:11:18.870782+03:00",
+          "id": "069d8b825c5b4e86990fcfd4873aaca1"
+        }
+      ],
+      "items": [
+        {
+          "description": "продукти харчування ",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Продукція борошномельно-круп'яної промисловості",
+            "id": "15610000-7"
+          },
+          "deliveryAddress": {
+            "postalCode": "93600",
+            "countryName": "Україна",
+            "streetAddress": "Центральна 17 \"А\"",
+            "region": "Луганська область",
+            "locality": "смт Станиця Луганська"
+          },
+          "deliveryDate": {
+            "startDate": "2017-05-22T23:59:59.999999+03:00",
+            "endDate": "2017-05-31T23:59:59.999999+03:00"
+          },
+          "id": "aa27629c272944cabf97f19e3ad5e52a",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "LO",
+            "name": "lot  [unit of procurement]"
+          },
+          "quantity": 12
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "name": "Ашихина Татьяна Владимировна",
+            "telephone": "+3080995055264"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2457315406",
+            "legalName": "ФЛП Ашихина Татьяна Владимировна"
+          },
+          "name": "ФЛП Ашихина Татьяна Владимировна",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "93630",
+            "region": "Луганська область",
+            "streetAddress": "Миру, 64/2",
+            "locality": "с Тепле"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 43017.3,
+        "valueAddedTaxIncluded": true
+      },
+      "date": "2017-05-22T11:11:19.263939+03:00",
+      "id": "504626b3aeb9426a94331f2adb7ac273"
+    }
+  ],
+  "buyer": {
+    "contactPoint": {
+      "telephone": "+380504768994",
+      "url": "http://st-lg-osvita.at.ua/",
+      "email": "st_roop@i.ua",
+      "name": "Геннадий   Викторович"
+    },
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "02141779",
+      "uri": "http://st-lg-osvita.at.ua/",
+      "legalName": "Відділ освіти Станично-Луганської районної державної адміністрації Луганської області "
+    },
+    "name": "Відділ освіти Станично-Луганської районної державної адміністрації Луганської області ",
+    "address": {
+      "countryName": "Україна",
+      "postalCode": "93600",
+      "region": "Луганська область",
+      "streetAddress": "вул. Центральна, буд. 17 А",
+      "locality": "смт Станиця Луганська"
+    }
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "status": "complete",
+    "currentStage": "complete",
+    "title": "Продукти харчування ",
+    "items": [
+      {
+        "description": "продукти харчування ",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Продукція борошномельно-круп'яної промисловості",
+          "id": "15610000-7"
+        },
+        "deliveryAddress": {
+          "postalCode": "93600",
+          "countryName": "Україна",
+          "streetAddress": "Центральна 17 \"А\"",
+          "region": "Луганська область",
+          "locality": "смт Станиця Луганська"
+        },
+        "deliveryDate": {
+          "startDate": "2017-05-22T23:59:59.999999+03:00",
+          "endDate": "2017-05-31T23:59:59.999999+03:00"
+        },
+        "id": "aa27629c272944cabf97f19e3ad5e52a",
+        "unit": {
+          "scheme": "UNCEFACT",
+          "id": "LO",
+          "name": "lot  [unit of procurement]"
+        },
+        "quantity": 12
+      }
+    ],
+    "procurementMethodType": "reporting",
+    "value": {
+      "currency": "UAH",
+      "amount": 43017.3,
+      "valueAddedTaxIncluded": true
+    },
+    "documents": [
+      {
+        "documentScope": "tender",
+        "format": "application/pkcs7-signature",
+        "url": "https://public.docs.openprocurement.org/get/e5e2fe51584443829e3a9aed670826a4?KeyID=52462340&Signature=lkOeoxlnSHEhRw9ZmqaE4lkoxbYKiQ4lWljFq57MgzHF%2FD4IVv5dcfSqywpDIliDl9g1Q6WQPTgDqPJJVxKpCw%253D%253D",
+        "title": "sign.p7s",
+        "relatedItem": "0001017aa32f4969bde9ff51dacd2b27",
+        "dateModified": "2017-05-22T11:07:53.099587+03:00",
+        "datePublished": "2017-05-22T11:07:53.099565+03:00",
+        "id": "0c55aeb8bbd6461caf3824f52cc73c97"
+      }
+    ],
+    "procuringEntity": {
+      "contactPoint": {
+        "telephone": "+380504768994",
+        "url": "http://st-lg-osvita.at.ua/",
+        "email": "st_roop@i.ua",
+        "name": "Геннадий   Викторович"
+      },
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "02141779",
+        "uri": "http://st-lg-osvita.at.ua/",
+        "legalName": "Відділ освіти Станично-Луганської районної державної адміністрації Луганської області "
+      },
+      "name": "Відділ освіти Станично-Луганської районної державної адміністрації Луганської області ",
+      "address": {
+        "countryName": "Україна",
+        "postalCode": "93600",
+        "region": "Луганська область",
+        "streetAddress": "вул. Центральна, буд. 17 А",
+        "locality": "смт Станиця Луганська"
+      }
+    },
+    "id": "0001017aa32f4969bde9ff51dacd2b27",
+    "tenderID": "UA-2017-05-22-000501-b"
+  },
+  "id": "fe8ed959059d4a65ad80da86e80f6b04",
+  "packageInfo": {
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    }
+  }
+}

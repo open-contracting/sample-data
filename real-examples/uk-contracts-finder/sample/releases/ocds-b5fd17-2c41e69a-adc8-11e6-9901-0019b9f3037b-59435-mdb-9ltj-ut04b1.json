@@ -1,0 +1,101 @@
+{
+  "ocid": "ocds-b5fd17-2c41e69a-adc8-11e6-9901-0019b9f3037b",
+  "id": "ocds-b5fd17-2c41e69a-adc8-11e6-9901-0019b9f3037b-59435-mdb-9ltj-ut04b1",
+  "date": "2014-12-17T16:44:58Z",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "",
+        "id": "",
+        "legalName": null,
+        "uri": null
+      },
+      "name": "Spend Network",
+      "address": {
+        "streetAddress": "P O BOX 234Civic CentreMiddlesbroughCleveland ",
+        "locality": "",
+        "region": null,
+        "postalCode": "TS1 2XH",
+        "countryName": "United Kingdom"
+      },
+      "contactPoint": {
+        "name": "Mr Daniel lloyd",
+        "email": "daniel_lloyd@middlesbrough.gov.uk",
+        "telephone": "",
+        "faxNumber": null
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "ba8c359f3e622158b98395d1b41304ab"
+    }
+  ],
+  "tender": {
+    "id": "ocds-b5fd17-2c41e69a-adc8-11e6-9901-0019b9f3037b-mdb-9ltj-ut04b1",
+    "title": " WCL026/2014 Community Reablement Service - Re-tender",
+    "description": " Middlesbrough Council are seeking expressions of interest from suitably experienced Providers who wish to be considered for a contract for the provision of a Community Reablement Service. This service will provide individuals with a comprehensive assessment of their independent living skills, develop personalised recovery plans and deliver support to improve their skills and address their broader needs.",
+    "status": "unsuccessful",
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "85000000",
+          "description": "Health and social work services",
+          "uri": "http://cpv.data.ac.uk/code-85000000.html"
+        }
+      }
+    ],
+    "minValue": {
+      "amount": 125332,
+      "currency": "GBP"
+    },
+    "value": {
+      "amount": 918522,
+      "currency": "GBP"
+    },
+    "procurementMethod": null,
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "awardCriteriaDetails": null,
+    "submissionMethod": null,
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "tenderPeriod": {
+      "endDate": "2014-12-18T00:00:00Z"
+    },
+    "hasEnquiries": null,
+    "eligibilityCriteria": null,
+    "milestones": [
+      {
+        "id": 1,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2015-03-01T00:00:00Z",
+        "status": null
+      },
+      {
+        "id": 2,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2020-02-29T00:00:00Z",
+        "status": null
+      }
+    ],
+    "xClassifications": {
+      "isSuitableForVco": false,
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works"
+    }
+  },
+  "buyer": {
+    "id": "ba8c359f3e622158b98395d1b41304ab",
+    "name": "Spend Network"
+  },
+  "version": "1.1"
+}

@@ -1,20 +1,52 @@
 Real world OCDS examples
 ========================
 
-This folder contains real-world examples of OCDS data and scripts for fetching updated selections.
+This folder contains real-world examples of OCDS data, plus scripts for fetching data, validating and transforming it.
 
-Each folder may contain:
+Each publisher directory contains:
 
-* A ```fetch.py``` script which will get an updated set of examples
-* A ```sample``` folder which contains a small number of example records
+* A ```sample/releases``` folder which contains a small number of example releases, and a ```sample/records``` folder with a small number of example records.
+* A ```fetch.py``` script which will get an updated set of examples, or all available releases if you so specify.
 
-The ```fetch.py``` script should default to collecting 100 or fewer releases (unless it is downloading a bulk file with a higher number in). It should accept a command line argument ```-a``` to fetch 'all' available releases and save them in an ```all``` folder. 
+Fetch data
+----------
 
-## Current status
+You can fetch data by changing to the target directory, then running:
 
-Most folders contain stub entries with README files, but no example data or scripts.
+    python /publisher-name/fetch.py
 
-The folders with real data in are currently:
+You will need the current directory in your Python path for this to work.
 
-* uk-contracts-finder
-* paraguay
+This script defaults to collecting around 10 examples. Add the `--all` argument to fetch all available publications and save them in an `all` folder (which git will ignore).
+
+Transform data
+--------------
+
+Once you have downloaded the releases, you can then transform to v1.1 of the OCDS schema, if they are published under a previous schema. Do this with:
+
+    python update_to_v1_1.py -f path/to/releases
+
+Note that this will overwrite the existing files.
+
+Validate data
+-------------
+
+You can then validate the transformed releases against the OCDS 1.1 schema, recording any errors. Do this with
+
+    python validate.py -f path/to/releases
+
+This script adds a new top-level property called `validationErrors` to each release, storing details of any validation errors.
+
+Append the `--verbose` argument if you want to see details of errors.
+
+Merge records to releases
+-------------------------
+
+Finally you may also wish to combine releases into records. This is done with:
+
+    python merge_releases.py --filepath path/to/releases  --outfilepath path/to/records
+
+Upload data to BigQuery
+-----------------------
+
+You can then upload the transformed records and releases to BigQuery, which lets you run rapid queries using SQL in the cloud. This process is described in `tools/README.md`.

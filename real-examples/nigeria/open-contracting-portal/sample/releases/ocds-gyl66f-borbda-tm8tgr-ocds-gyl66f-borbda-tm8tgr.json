@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-tm8tgr",
+  "id": "ocds-gyl66f-borbda-tm8tgr",
+  "date": "2014-10-20T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "5110926104",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-5110926104"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "105528059",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "024106151",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-024106151"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "80702523",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-80702523"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Kojo Motors Limited"
+        }
+      ],
+      "identifier": {
+        "id": "652390102",
+        "legalName": "kojo motors limited",
+        "scheme": "NGA-KML"
+      },
+      "name": "kojo motors limited",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-KML-652390102"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2014-10-20T00:00:00Z",
+      "description": "Procurement of Toyota 2.7L Petrol Engine Project Vehicle",
+      "id": "ocds-gyl66f-borbda-tm8tgr",
+      "items": [
+        {
+          "classification": {
+            "id": "59408262",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-tm8tgr-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-KML-652390102",
+          "name": "kojo motors limited"
+        }
+      ],
+      "title": "Procurement of Toyota 2.7L Petrol Engine Project Vehicle",
+      "value": {
+        "amount": 13594736.84,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-5110926104",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-tm8tgr-award",
+      "description": "Procurement of Toyota 2.7L Petrol Engine Project Vehicle",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-tm8tgr",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-tm8tgr",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-tm8tgr",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2014-10-20T00:00:00Z",
+            "description": "1.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-tm8tgr-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-tm8tgr",
+            "status": "met",
+            "title": "procurement of toyota 2.7l petrol engine project vehicle-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 13594736.84,
+              "currency": "NGN"
+            },
+            "date": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-tm8tgr-nga-contract-transactions-8610109809",
+            "providerOrganization": {
+              "id": "69286190",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-69286190",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "66615484",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-tm8tgr",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-tm8tgr-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2014-09-29T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
+      "value": {
+        "amount": 13594736.84,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
+      "id": "ocds-gyl66f-borbda-tm8tgr",
+      "project": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
+      "value": {
+        "amount": 50000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-tm8tgr",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2014-10-20T00:00:00Z",
+      "startDate": "2014-10-20T00:00:00Z"
+    },
+    "description": "procurement of toyota 2.7l petrol engine project vehicle",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-tm8tgr",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-tm8tgr",
+    "items": [
+      {
+        "classification": {
+          "id": "59408262",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-tm8tgr-tender-item-59408262",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 13594736.84,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2014-10-20T00:00:00Z",
+        "description": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-tm8tgr",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2014-10-20T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-tm8tgr",
+        "status": "met",
+        "title": "Procurement Of Toyota 2.7L Petrol Engine Project Vehicle"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-024106151",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "complete",
+    "tenderPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-80702523",
+        "name": ""
+      }
+    ],
+    "title": "procurement of toyota 2.7l petrol engine project vehicle",
+    "value": {
+      "amount": 13594736.84,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-08-07T13:04:04Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short\n"
+}

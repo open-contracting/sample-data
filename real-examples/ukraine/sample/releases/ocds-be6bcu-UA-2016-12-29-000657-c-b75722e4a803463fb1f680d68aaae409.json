@@ -1,0 +1,368 @@
+{
+  "language": "uk",
+  "contracts": [
+    {
+      "status": "pending",
+      "items": [
+        {
+          "description": "Енергія електрична",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Електрична енергія",
+            "id": "09310000-5"
+          },
+          "additionalClassifications": [
+            {
+              "scheme": "ДКПП",
+              "description": "Енергія електрична",
+              "id": "35.11.1"
+            }
+          ],
+          "deliveryAddress": {
+            "postalCode": "76004",
+            "countryName": "Україна",
+            "streetAddress": "вул. Грушевського, 32",
+            "region": "Івано-Франківська область",
+            "locality": "Івано-Франківськ"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-01T00:00:00+02:00",
+            "endDate": "2017-12-31T00:00:00+02:00"
+          },
+          "id": "85eb1337c1454298bed8eedea143a4e7",
+          "unit": {
+            "symbol": "kW·h",
+            "scheme": "UNCEFACT",
+            "id": "KWH",
+            "name": "kilowatt hour"
+          },
+          "quantity": 478105
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "380342520527",
+            "url": "http://oe.if.ua",
+            "email": "kanc@oe.if.ua",
+            "name": "Дацко О.Б.+"
+          },
+          "identifier": {
+            "scheme": "XM-EORI",
+            "id": "00131564",
+            "legalName": "ПАТ \"Прикарпаттяобленерго\""
+          },
+          "name": "ПАТ \"Прикарпаттяобленерго\"",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "76014",
+            "region": "Івано-Франківська область",
+            "streetAddress": "вул.Індустріальна, 34",
+            "locality": "Івано-Франківськ"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 1130184.0,
+        "valueAddedTaxIncluded": true
+      },
+      "awardID": "c7572b8415cf4048a590604215b8c642",
+      "id": "0afad9fedf664dbf8c693f2997a55e9a",
+      "contractID": "UA-2016-12-29-000657-c-a1"
+    }
+  ],
+  "ocid": "ocds-be6bcu-UA-2016-12-29-000657-c",
+  "initiationType": "tender",
+  "date": "2017-01-13T16:11:16.863956+02:00",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "awards": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "format": "text/plain",
+          "url": "https://public.docs.openprocurement.org/get/e84694e4e8a24850ba7ced22662bc59e?KeyID=52462340&Signature=xx1mR0GXXEL9h54h%252BCrEMt16tqUz%2FCrSfn95h8hSpEUw9TMWpHJnKG9lRizzJ39ILPwUuRQRbnipLM6vuKyUDQ%253D%253D",
+          "title": "Протокол №6_16 ТК.pdf",
+          "dateModified": "2016-12-29T16:12:06.693778+02:00",
+          "documentType": "awardNotice",
+          "datePublished": "2016-12-29T16:12:06.693740+02:00",
+          "id": "dcd5f10fc0f946cf9d67b9b0470b8d5f"
+        },
+        {
+          "documentScope": "tender",
+          "title": "sign.p7s",
+          "url": "https://public.docs.openprocurement.org/get/9c5c2ba36eb04dd4bded09e3360129a5?KeyID=52462340&Signature=xB8gBJJ9GmlKKYbEcxIRGOpCNingBojVxnha5ikCryxRklDG4%252BVpLs1YkmHRztw5PuCCtJ5%252BNKUtnn5NgL8WAw%253D%253D",
+          "format": "application/pkcs7-signature",
+          "dateModified": "2017-01-12T15:44:05.833445+02:00",
+          "datePublished": "2017-01-12T15:44:05.833412+02:00",
+          "id": "d91d72d5d4394fc7afa1b46f685a7529"
+        }
+      ],
+      "complaintPeriod": {
+        "startDate": "2016-12-29T16:04:57.824777+02:00",
+        "endDate": "2017-01-19T00:00:00+02:00"
+      },
+      "items": [
+        {
+          "description": "Енергія електрична",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Електрична енергія",
+            "id": "09310000-5"
+          },
+          "additionalClassifications": [
+            {
+              "scheme": "ДКПП",
+              "description": "Енергія електрична",
+              "id": "35.11.1"
+            }
+          ],
+          "deliveryAddress": {
+            "postalCode": "76004",
+            "countryName": "Україна",
+            "streetAddress": "вул. Грушевського, 32",
+            "region": "Івано-Франківська область",
+            "locality": "Івано-Франківськ"
+          },
+          "deliveryDate": {
+            "startDate": "2017-01-01T00:00:00+02:00",
+            "endDate": "2017-12-31T00:00:00+02:00"
+          },
+          "id": "85eb1337c1454298bed8eedea143a4e7",
+          "unit": {
+            "symbol": "kW·h",
+            "scheme": "UNCEFACT",
+            "id": "KWH",
+            "name": "kilowatt hour"
+          },
+          "quantity": 478105
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "380342520527",
+            "url": "http://oe.if.ua",
+            "email": "kanc@oe.if.ua",
+            "name": "Дацко О.Б.+"
+          },
+          "identifier": {
+            "scheme": "XM-EORI",
+            "id": "00131564",
+            "legalName": "ПАТ \"Прикарпаттяобленерго\""
+          },
+          "name": "ПАТ \"Прикарпаттяобленерго\"",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "76014",
+            "region": "Івано-Франківська область",
+            "streetAddress": "вул.Індустріальна, 34",
+            "locality": "Івано-Франківськ"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 1130184.0,
+        "valueAddedTaxIncluded": true
+      },
+      "qualified": true,
+      "date": "2017-01-13T14:49:54.200008+02:00",
+      "id": "c7572b8415cf4048a590604215b8c642"
+    }
+  ],
+  "buyer": {
+    "contactPoint": {
+      "telephone": "380503554493",
+      "email": "viktor.vlasiichuk@bank.gov.ua",
+      "name": "Власійчук Віктор Васильович",
+      "faxNumber": "2531204"
+    },
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "00032106",
+      "legalName": "Національний банк України"
+    },
+    "name": "Національний банк України",
+    "address": {
+      "countryName": "Україна",
+      "postalCode": "01601",
+      "region": "Київська область",
+      "streetAddress": "Інститутська, 9",
+      "locality": "Київ"
+    }
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "status": "cancelled",
+    "documents": [
+      {
+        "documentScope": "tender",
+        "title": "Протокол №6_16 ТК.pdf",
+        "url": "https://public.docs.openprocurement.org/get/791d0ac9bb1e43b796ea50796b1724f6?KeyID=52462340&Signature=AeXOnxiMvjkBxb%252BVsvnwrF9%252Bdw7KeKSrYOS1fHrGQnUzq5hXrROa%2F18YyeaqUsDxDfMa796JA8GClta6ESV3BQ%253D%253D",
+        "format": "text/plain",
+        "dateModified": "2016-12-29T15:51:43.913355+02:00",
+        "datePublished": "2016-12-29T15:51:43.913333+02:00",
+        "id": "4978a7e92d494854a8d943cbad9ad4ce"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/587a0f54c2a44799a001d1be22b7a6e2?KeyID=52462340&Signature=JXkpgmb%252BS4kl2QM6vRrpli5v8SLzpfU%252BMJ2kye0l9henAl1Nj18mW0mu0IQ%2FuZrkA6iajCtqc5Rz%2FKa6dL%252BAAQ%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2016-12-29T15:53:03.884508+02:00",
+        "datePublished": "2016-12-29T15:53:03.884473+02:00",
+        "id": "f2255d4e016f424bb0509de4a6b12641-0"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/58197b842650482497b5097382db1bdd?KeyID=52462340&Signature=UhmjQTkSbY%252BhQ4kYzLgqEWQGQWB9p%2FNIBYkiswce6nr1gpzYmPHMF0BxlFi4TXNpoWmxX%2F9SlUmnCGu8It5LBw%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2016-12-29T15:54:23.874730+02:00",
+        "datePublished": "2016-12-29T15:53:03.884473+02:00",
+        "id": "f2255d4e016f424bb0509de4a6b12641-1"
+      },
+      {
+        "documentScope": "tender",
+        "title": "Key-6.dat",
+        "url": "https://public.docs.openprocurement.org/get/0470516e78244f36a2add8e222195734?KeyID=52462340&Signature=xZn6rBUXm8nWI2VsbWwgWxKntDrB%2F5CskgqyJ%2FDehwpn87kDKwx48pis2EDbNTDq9f7H9QkA%252BQSbhbb4lsTODw%253D%253D",
+        "format": "text/plain",
+        "dateModified": "2016-12-29T15:57:58.072420+02:00",
+        "datePublished": "2016-12-29T15:57:58.072400+02:00",
+        "id": "7560111107ab4cf99532eea6cf754e6a"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/9e24666d04fe4281b530eb4a33febc08?KeyID=52462340&Signature=ph5MW08CgJKo9J367lx8z9vYQtTIUiQNK%252BlGihuhnPQZ68GlyFT9VUMGdWt2FfozMq9vQC%2FF1itTNdHx4fZJDg%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2016-12-29T16:06:20.630336+02:00",
+        "datePublished": "2016-12-29T15:53:03.884473+02:00",
+        "id": "f2255d4e016f424bb0509de4a6b12641-2"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/2cea017870ec41c9b521987069e26613?KeyID=52462340&Signature=kTRbDlc1ZXEeQPz5i%2FY2BPh9M9YPy4URKuNjSIXZEXPuXI6JhzNmolUH8R1uW%252BtOw0E9bUTkA04yROBasXnfAQ%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2016-12-29T16:13:59.582191+02:00",
+        "datePublished": "2016-12-29T15:53:03.884473+02:00",
+        "id": "f2255d4e016f424bb0509de4a6b12641-3"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/7cc3c7f68cec4ac48ba3819664421592?KeyID=52462340&Signature=GPMRmP7bjW%252Bc5QB6ZGXe%252BKdlbrn%2FFiGDHYaAI0HnpiyTKnh1vgrhE6ya5O0qCkg2Tqc%2FOavO9aYOX36xRymvAg%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2016-12-29T16:27:18.411756+02:00",
+        "datePublished": "2016-12-29T15:53:03.884473+02:00",
+        "id": "f2255d4e016f424bb0509de4a6b12641-4"
+      },
+      {
+        "documentScope": "tender",
+        "title": "sign.p7s",
+        "url": "https://public.docs.openprocurement.org/get/cc166451aeed4e37a274be270cb0f804?KeyID=52462340&Signature=OYJhtY3EocdZ%2FvdVtMc7WeoJR9Q9EPFGqt2fXdpl5IgSqxPqvYTinHf4OAe9vommrUyBX5G1gzTQYewJH7VpDg%253D%253D",
+        "format": "application/pkcs7-signature",
+        "dateModified": "2017-01-12T15:42:47.979195+02:00",
+        "datePublished": "2016-12-29T15:53:03.884473+02:00",
+        "id": "f2255d4e016f424bb0509de4a6b12641-5"
+      },
+      {
+        "documentScope": "tender",
+        "format": "text/plain",
+        "url": "https://public.docs.openprocurement.org/get/c1e5f7209b714f49ac5aa2e5dd4b6c0d?KeyID=52462340&Signature=QK93YG3hoQ5nLRH%252Bxp%252BPK5vM0o9LhdaRE48wu%252BzxmrnDftokxfJiuvvco522RlUSkTtzWhVGWnFngqEGG5d5BQ%253D%253D",
+        "title": "Помилково створений.docx",
+        "dateModified": "2017-01-13T16:11:12.050072+02:00",
+        "documentType": "tenderCancellation",
+        "datePublished": "2017-01-13T16:11:12.050051+02:00",
+        "id": "62dfce3e4253432581e9680d9afc636e"
+      }
+    ],
+    "tenderID": "UA-2016-12-29-000657-c",
+    "causeDescription": "Документи, що підтверджують наявність умов застосування переговорної процедури закупівлі:\n– Закон України «Про природні монополії»;\n– Зведений перелік суб’єктів природних монополій, оприлюднений на офіційному веб-порталі Антимонопольного комітету України (www.amc.gov.ua);\n– Реєстр суб’єктів природних монополій в сфері енергетики, розміщений на офіційному сайті Національної комісії, що здійснює державне регулювання у сфері енергетики (www.nеrc.gov.ua)",
+    "title": "Енергія електрична",
+    "items": [
+      {
+        "description": "Енергія електрична",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Електрична енергія",
+          "id": "09310000-5"
+        },
+        "additionalClassifications": [
+          {
+            "scheme": "ДКПП",
+            "description": "Енергія електрична",
+            "id": "35.11.1"
+          }
+        ],
+        "deliveryAddress": {
+          "postalCode": "76004",
+          "countryName": "Україна",
+          "streetAddress": "вул. Грушевського, 32",
+          "region": "Івано-Франківська область",
+          "locality": "Івано-Франківськ"
+        },
+        "deliveryDate": {
+          "startDate": "2017-01-01T00:00:00+02:00",
+          "endDate": "2017-12-31T00:00:00+02:00"
+        },
+        "id": "85eb1337c1454298bed8eedea143a4e7",
+        "unit": {
+          "symbol": "kW·h",
+          "scheme": "UNCEFACT",
+          "id": "KWH",
+          "name": "kilowatt hour"
+        },
+        "quantity": 478105
+      }
+    ],
+    "pendingCancellation": true,
+    "procurementMethodType": "negotiation.quick",
+    "value": {
+      "currency": "UAH",
+      "amount": 1130184.0,
+      "valueAddedTaxIncluded": true
+    },
+    "currentStage": "cancelled",
+    "procuringEntity": {
+      "contactPoint": {
+        "telephone": "380503554493",
+        "email": "viktor.vlasiichuk@bank.gov.ua",
+        "name": "Власійчук Віктор Васильович",
+        "faxNumber": "2531204"
+      },
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "00032106",
+        "legalName": "Національний банк України"
+      },
+      "name": "Національний банк України",
+      "address": {
+        "countryName": "Україна",
+        "postalCode": "01601",
+        "region": "Київська область",
+        "streetAddress": "Інститутська, 9",
+        "locality": "Київ"
+      }
+    },
+    "cause": "noCompetition",
+    "id": "00005850d8654910a78b091a11981a88",
+    "description": "ДК 016:2010 – 35.11.1 – ДК 021:2015 – 09310000-5"
+  },
+  "id": "b75722e4a803463fb1f680d68aaae409",
+  "packageInfo": {
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    }
+  }
+}

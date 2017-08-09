@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-w2tsse",
+  "id": "ocds-gyl66f-borbda-w2tsse",
+  "date": "2014-10-20T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "86563677",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-86563677"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "57365262",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "05184556",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-05184556"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "972378100",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-972378100"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Uniworld Integrated Services Limited"
+        }
+      ],
+      "identifier": {
+        "id": "410131997",
+        "legalName": "uniworld integrated services limited",
+        "scheme": "NGA-UISL"
+      },
+      "name": "uniworld integrated services limited",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-UISL-410131997"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2014-10-20T00:00:00Z",
+      "description": "Rehabilitation of Access Road at Illushi-Ega-Oria Irrigation Project",
+      "id": "ocds-gyl66f-borbda-w2tsse",
+      "items": [
+        {
+          "classification": {
+            "id": "926081039",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-w2tsse-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-UISL-410131997",
+          "name": "uniworld integrated services limited"
+        }
+      ],
+      "title": "Rehabilitation of Access Road at Illushi-Ega-Oria Irrigation Project",
+      "value": {
+        "amount": 5472335.4,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-86563677",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-w2tsse-award",
+      "description": "Rehabilitation of Access Road at Illushi-Ega-Oria Irrigation Project",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-w2tsse",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-w2tsse",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-w2tsse",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2014-10-20T00:00:00Z",
+            "description": "1.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-w2tsse-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-w2tsse",
+            "status": "met",
+            "title": "rehabilitation of access road at illushi-ega-oria irrigation project-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 5472335.4,
+              "currency": "NGN"
+            },
+            "date": "2014-10-20T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-w2tsse-nga-contract-transactions-499041036",
+            "providerOrganization": {
+              "id": "56036983",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-56036983",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "08650098",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-w2tsse",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-w2tsse-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2014-10-20T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Rehabilitation Of Access Road At Illushi-Ega-Oria Irrigation Project",
+      "value": {
+        "amount": 5472335.4,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Rehabilitation Of Access Road At Illushi-Ega-Oria Irrigation Project",
+      "id": "ocds-gyl66f-borbda-w2tsse",
+      "project": "Rehabilitation Of Access Road At Illushi-Ega-Oria Irrigation Project",
+      "value": {
+        "amount": 34000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-w2tsse",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2014-10-20T00:00:00Z",
+      "startDate": "2014-10-20T00:00:00Z"
+    },
+    "description": "rehabilitation of access road at illushi-ega-oria irrigation project",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-w2tsse",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-w2tsse",
+    "items": [
+      {
+        "classification": {
+          "id": "926081039",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-w2tsse-tender-item-926081039",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 5472335.4,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2014-10-20T00:00:00Z",
+        "description": "Rehabilitation Of Access Road At Illushi-Ega-Oria Irrigation Project",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-w2tsse",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2014-10-20T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-w2tsse",
+        "status": "met",
+        "title": "Rehabilitation Of Access Road At Illushi-Ega-Oria Irrigation Project"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-05184556",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "complete",
+    "tenderPeriod": {
+      "endDate": "2014-08-21T00:00:00Z",
+      "startDate": "2014-06-30T00:00:00Z"
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-972378100",
+        "name": ""
+      }
+    ],
+    "title": "rehabilitation of access road at illushi-ega-oria irrigation project",
+    "value": {
+      "amount": 5472335.4,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-08-07T13:04:04Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short\n"
+}

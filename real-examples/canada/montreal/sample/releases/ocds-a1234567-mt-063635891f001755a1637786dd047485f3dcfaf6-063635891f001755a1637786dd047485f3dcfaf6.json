@@ -1,0 +1,112 @@
+{
+  "ocid": "ocds-a1234567-mt-063635891f001755a1637786dd047485f3dcfaf6",
+  "id": "063635891f001755a1637786dd047485f3dcfaf6",
+  "date": "2017-05-27T00:00:00-04:00",
+  "language": "fr",
+  "tag": "award",
+  "parties": [
+    {
+      "subOrganisationOf": {
+        "name": null
+      },
+      "identifier": {
+        "id": "infrastructures-voirie-et-transports"
+      },
+      "name": "Infrastructures, voirie et transports",
+      "address": {
+        "countryName": "Canada",
+        "postalCode": "H2Y 1C6",
+        "region": "QC",
+        "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al",
+        "locality": "Montr\u00e9al"
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "55cda11d9ce6fe58769177c5a379271d"
+    },
+    {
+      "identifier": {
+        "id": "fonctionnaires"
+      },
+      "name": "Fonctionnaires",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "cd226ba9be78f6160996035e4980eafc"
+    },
+    {
+      "identifier": {
+        "id": "centre-de-technologie-physique-et-photonique-de-montreal"
+      },
+      "name": "CENTRE DE TECHNOLOGIE PHYSIQUE ET PHOTONIQUE DE MONTREAL",
+      "address": {},
+      "roles": [
+        "supplier"
+      ],
+      "id": "8ac86939e82643f7105d0f94c1dab4c0"
+    }
+  ],
+  "awards": [
+    {
+      "items": [
+        {
+          "description": "\u00c9valuation d'un panneau lumineux pour fin de conformit\u00e9 technique \u00e0 l'appel d'offre \"Fourniture et installation des panneaux et du nouveau syst\u00e8me de jalonnement dynamique\"(16-14789). Signalisation lumineuse. APPROUV\u00c9 PAR : CONVERSIONS, SIMON. ",
+          "id": "",
+          "quantity": 1
+        }
+      ],
+      "suppliers": [
+        {
+          "id": "8ac86939e82643f7105d0f94c1dab4c0",
+          "name": "CENTRE DE TECHNOLOGIE PHYSIQUE ET PHOTONIQUE DE MONTREAL"
+        }
+      ],
+      "repartition": null,
+      "value": {
+        "currency": "CAD",
+        "amount": 8923.94
+      },
+      "date": "2017-05-27T00:00:00-04:00",
+      "id": "1108514"
+    }
+  ],
+  "buyer": {
+    "id": "55cda11d9ce6fe58769177c5a379271d",
+    "name": "Infrastructures, voirie et transports"
+  },
+  "tender": {
+    "status": "complete",
+    "procurementMethodRationale": "contract",
+    "procuringEntity": {
+      "id": "cd226ba9be78f6160996035e4980eafc",
+      "name": "Fonctionnaires"
+    }
+  },
+  "subject": [
+    "Autres"
+  ],
+  "packageInfo": {
+    "uri": "http://ville.montreal.qc.ca/api/releases.json?limit=10",
+    "publishedDate": "2017-06-30T06:32:13.512560",
+    "publisher": {
+      "contactPoint": {
+        "telephone": "",
+        "url": "http://ville.montreal.qc.ca/",
+        "faxNumber": "",
+        "name": "Bureau de la Ville Intelligente",
+        "email": "villeintelligente@ville.montreal.qc.ca"
+      },
+      "name": "Ville de Montr\u00e9al",
+      "address": {
+        "postalCode": "H2Y1C6",
+        "countryName": "Canada",
+        "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al",
+        "region": "QC",
+        "locality": "Montr\u00e9al"
+      }
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tag/type: 'award' is not of type 'array'"
+}

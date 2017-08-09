@@ -1,15 +1,16 @@
 Moldova
 =======
 
-OCDS output is available from the platform at http://moldova-ocds.yipl.com.np/ at paths in the format http://moldova-ocds.yipl.com.np/ocds/{CONTRACT-ID}/json
+OCDS output is available as a bulk release download from http://opencontracting.date.gov.md/downloads
 
-e.g. http://moldova-ocds.yipl.com.np/ocds/89270/json
+(For reference, it is also available in the format http://moldova-ocds.yipl.com.np/ocds/{CONTRACT-ID}/json e.g. http://moldova-ocds.yipl.com.np/ocds/89270/json)
 
-## Write a scraper!
+There were 12,639 available releases as of 2017/06/29.
 
-Could you write a simple python scraper that will:
+Releases currently fail validation with the error:
 
-* Fetch 100 example releases or records;
-* Fetch the latest version of the full dataset;
+    properties/parties/items/properties/additionalIdentifiers/type: {'scheme': 'eTenders', 'id': '', 'legalName': ''} is not of type 'array'
 
-If so - we want your help. See [this post](https://groups.google.com/a/open-contracting.org/forum/#!topic/standard-discuss/HtSYpbH5QGY). 
+And many fail with errors like this:
+
+    "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]

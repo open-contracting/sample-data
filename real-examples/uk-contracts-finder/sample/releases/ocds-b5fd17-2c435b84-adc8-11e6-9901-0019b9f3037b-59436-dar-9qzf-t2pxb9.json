@@ -1,0 +1,101 @@
+{
+  "ocid": "ocds-b5fd17-2c435b84-adc8-11e6-9901-0019b9f3037b",
+  "id": "ocds-b5fd17-2c435b84-adc8-11e6-9901-0019b9f3037b-59436-dar-9qzf-t2pxb9",
+  "date": "2014-12-17T16:44:58Z",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "",
+        "id": "",
+        "legalName": null,
+        "uri": null
+      },
+      "name": "Darlington Borough Council",
+      "address": {
+        "streetAddress": "Town Hall  Darlington",
+        "locality": " Darlington",
+        "region": null,
+        "postalCode": " DL1 5QT",
+        "countryName": " United Kingdom"
+      },
+      "contactPoint": {
+        "name": "Mr Ian Hewitson",
+        "email": "ian.hewitson@darlington.gov.uk",
+        "telephone": "",
+        "faxNumber": null
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "9996a1e179391e841905b4bf85e8f5aa"
+    }
+  ],
+  "tender": {
+    "id": "ocds-b5fd17-2c435b84-adc8-11e6-9901-0019b9f3037b-dar-9qzf-t2pxb9",
+    "title": " P2014/156/EG 7 Year Lease of Rowan East Gypsy and Traveller site.",
+    "description": " 7 Year Lease of Rowan East Gypsy and Traveller site.",
+    "status": "unsuccessful",
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "80000000",
+          "description": "Education and training services",
+          "uri": "http://cpv.data.ac.uk/code-80000000.html"
+        }
+      }
+    ],
+    "minValue": {
+      "amount": 908250,
+      "currency": "GBP"
+    },
+    "value": {
+      "amount": 17788589,
+      "currency": "GBP"
+    },
+    "procurementMethod": null,
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "awardCriteriaDetails": null,
+    "submissionMethod": null,
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "tenderPeriod": {
+      "endDate": "2015-01-12T00:00:00Z"
+    },
+    "hasEnquiries": null,
+    "eligibilityCriteria": null,
+    "milestones": [
+      {
+        "id": 1,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2015-02-09T00:00:00Z",
+        "status": null
+      },
+      {
+        "id": 2,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2022-01-31T00:00:00Z",
+        "status": null
+      }
+    ],
+    "xClassifications": {
+      "isSuitableForVco": false,
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works"
+    }
+  },
+  "buyer": {
+    "id": "9996a1e179391e841905b4bf85e8f5aa",
+    "name": "Darlington Borough Council"
+  },
+  "version": "1.1"
+}

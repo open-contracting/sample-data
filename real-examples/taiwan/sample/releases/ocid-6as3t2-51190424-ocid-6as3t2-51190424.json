@@ -1,0 +1,217 @@
+{
+  "tag": "awardNotice",
+  "name": "獨立山工務段103年度省道橋梁零星維修養護工程",
+  "date": "2014-02-21",
+  "ocid": "ocid-6as3t2-51190424",
+  "buyer": {
+    "identifier": {
+      "id": "3.15.25.4",
+      "legalName": "交通部公路總局第四區養護工程處"
+    },
+    "id": "ocid-6as3t2-51190424-buyer"
+  },
+  "tender": {
+    "id": "ocid-6as3t2-51190424-tender",
+    "identifier": {
+      "id": "3.15.25.4",
+      "legalName": "交通部公路總局第四區養護工程處"
+    },
+    "procurementMethod": "公開招標",
+    "tenderers": [
+      {
+        "identifier": {
+          "id": "89999293",
+          "legalName": "龍祥營造股份有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 1
+      },
+      {
+        "identifier": {
+          "id": "53396488",
+          "legalName": "尚璽營造有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 2
+      },
+      {
+        "identifier": {
+          "id": "84390306",
+          "legalName": "日立營造股份有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 3
+      },
+      {
+        "identifier": {
+          "id": "70666479",
+          "legalName": "凱楠營造有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 4
+      },
+      {
+        "identifier": {
+          "id": "53968937",
+          "legalName": "呈銳營造有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 5
+      }
+    ],
+    "tederPeriod": {
+      "startDate": "2014-01-20",
+      "endDate": "2014-02-07",
+      "announceTimes": "01"
+    },
+    "numberOfBids": 5,
+    "processMethod": "自辦",
+    "deliveryAddress": {
+      "addresses": [
+        {
+          "region": "宜蘭縣",
+          "locality": "三星"
+        },
+        {
+          "region": "宜蘭縣",
+          "locality": "大同"
+        }
+      ],
+      "aboriginalRegion": true
+    },
+    "executingEntity": {
+      "identifier": {
+        "id": "3.15.25.4",
+        "legalName": "交通部公路總局第四區養護工程處"
+      }
+    },
+    "deliveryLocation": [
+      {
+        "description": "宜蘭縣, 三星"
+      },
+      {
+        "description": "宜蘭縣, 大同"
+      }
+    ],
+    "procuringEntity": {
+      "identifier": {
+        "id": "3.15.25.4",
+        "legalName": "交通部公路總局第四區養護工程處"
+      }
+    },
+    "budget": {
+      "value": {
+        "amount": 6821722,
+        "currency": "TWD"
+      }
+    },
+    "awardCriteria": "最低標",
+    "procurementAmountRange": "公告金額以上未達查核金額",
+    "items": [
+      {
+        "classification": {
+          "id": "5131",
+          "description": "<工程類>, 快速道路(不含高架快速道路),街道,馬路,鐵路及機場跑道",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ]
+  },
+  "awards": {
+    "awardAnnounceDate": "2014-02-21",
+    "awardDate": "2014-02-19",
+    "id": "ocid-6as3t2-51190424-awards",
+    "awardCriteria": "最低標",
+    "totalAwardValue": {
+      "amount": 4270000,
+      "currency": "TWD"
+    },
+    "items": [
+      {
+        "withoutTenderer": [
+          {
+            "identifier": {
+              "legalName": null
+            },
+            "bidAmount": 5500000,
+            "failReason": "資格、規格合於招標文件但非最低(高)標",
+            "number": 1
+          },
+          {
+            "identifier": {
+              "legalName": null
+            },
+            "bidAmount": 5100000,
+            "failReason": "資格、規格合於招標文件但非最低(高)標",
+            "number": 2
+          },
+          {
+            "identifier": {
+              "legalName": null
+            },
+            "bidAmount": 5230000,
+            "failReason": "資格、規格合於招標文件但非最低(高)標",
+            "number": 3
+          },
+          {
+            "identifier": {
+              "legalName": null
+            },
+            "bidAmount": 4320000,
+            "failReason": "資格、規格合於招標文件但非最低(高)標",
+            "number": 4
+          }
+        ],
+        "classification": {
+          "id": "5131",
+          "description": "<工程類>, 快速道路(不含高架快速道路),街道,馬路,鐵路及機場跑道",
+          "scheme": "CPC"
+        },
+        "suppliers": [
+          {
+            "address": {
+              "region": "宜蘭縣",
+              "postalCode": "265",
+              "locality": "羅東鎮",
+              "streetAddress": "西安里西安街250號3樓"
+            },
+            "awardValue": {
+              "amount": 4270000,
+              "currency": "TWD"
+            },
+            "quantity": 1,
+            "employeeExceedOneHundred": false,
+            "number": 1,
+            "identifier": {
+              "id": "89999293",
+              "legalName": "龍祥營造股份有限公司"
+            },
+            "minValue": {
+              "amount": 5550000,
+              "currency": "TWD"
+            },
+            "contractPeriod": {
+              "startDate": "2014-02-27",
+              "endDate": "2014-10-31"
+            },
+            "organizationType": "公司登記",
+            "sme": "是"
+          }
+        ],
+        "number": 1
+      }
+    ]
+  },
+  "language": "zh",
+  "committee": {
+    "id": "ocid-6as3t2-51190424-committee",
+    "member": []
+  },
+  "id": "ocid-6as3t2-51190424",
+  "packageInfo": {
+    "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
+    "publishedDate": "2015-12-01",
+    "publisher": "DSP,Inc."
+  }
+}
