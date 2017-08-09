@@ -1,0 +1,311 @@
+{
+  "ocid": "ocds-k50g02-16-12-5280482",
+  "id": "58125c22d3ff2f009b53ed8e",
+  "date": "2016-06-30T09:59:55.000000Z",
+  "language": "es",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "NIT",
+        "legalName": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA DE EDUCACI\u00d3N"
+      },
+      "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA DE EDUCACI\u00d3N",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "locality": "Bogot\u00e1 D.C."
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "f855b248228a9d689da61a4eae2ac7d9"
+    },
+    {
+      "identifier": {
+        "scheme": "Nit de Persona Natural",
+        "id": "1030616550-4",
+        "legalName": "LEIDY JOHANNA RUBIANO PALACIOS"
+      },
+      "name": "LEIDY JOHANNA RUBIANO PALACIOS",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "streetAddress": "CALLE 54B SUR N\u00ba 80H-46"
+      },
+      "roles": [
+        "supplier"
+      ],
+      "id": "91e9a477f188a2f7a87fb43b4b404fbb"
+    }
+  ],
+  "num_constancia": "16-12-5280482",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=16-12-5280482",
+  "publishedDate": "2016-06-30T09:59:55.000000Z",
+  "planning": {
+    "ocid": "ocds-k50g02-16-12-5280482",
+    "information_system": "SECOP I",
+    "budget": {
+      "source": "http://www.minhacienda.gov.co/HomeMinhacienda/siif",
+      "amount": {
+        "currency": "COP",
+        "amount": 13844742.0
+      },
+      "id": " 2521 ",
+      "description": "  CDP"
+    },
+    "id": "16-12-5280482"
+  },
+  "tender": {
+    "id": "16-12-5280482",
+    "ocid": "ocds-k50g02-16-12-5280482",
+    "procurementMethod": "limited",
+    "title": "2720-2016",
+    "description": "MEJORAMIENTO DE LA GESTI\u00d3N DE LA SECRETARIA DE EDUCACI\u00d3N DEL DISTRITO  MEDIANTE EL APOYO ASISTENCIAL A LA DIRECCI\u00d3N DE SERVICIOS ADMINISTRATIVOS EN LAS ACTIVIDADES DE GESTI\u00d3N DOCUMENTAL.",
+    "enquiryPeriod": {},
+    "value": {
+      "currency": "COP",
+      "amount": 2307457.0
+    },
+    "status": "complete",
+    "items": [
+      {
+        "id": 801116,
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Servicios de personal temporal",
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+        },
+        "description": "Servicios de personal temporal"
+      }
+    ],
+    "submissionMethod": [
+      "written"
+    ],
+    "tenderPeriod": {}
+  },
+  "awards": [
+    {
+      "id": 4817126,
+      "ocid": "ocds-k50g02-16-12-5280482",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 2307457.0
+      },
+      "suppliers": [
+        {
+          "id": "91e9a477f188a2f7a87fb43b4b404fbb",
+          "name": "LEIDY JOHANNA RUBIANO PALACIOS"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4817126,
+      "ocid": "ocds-k50g02-16-12-5280482",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 2307457.0
+      },
+      "suppliers": [
+        {
+          "id": "91e9a477f188a2f7a87fb43b4b404fbb",
+          "name": "LEIDY JOHANNA RUBIANO PALACIOS"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    },
+    {
+      "id": 4817126,
+      "ocid": "ocds-k50g02-16-12-5280482",
+      "status": "active",
+      "value": {
+        "currency": "COP",
+        "amount": 2307457.0
+      },
+      "suppliers": [
+        {
+          "id": "91e9a477f188a2f7a87fb43b4b404fbb",
+          "name": "LEIDY JOHANNA RUBIANO PALACIOS"
+        }
+      ],
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "2720-2016",
+      "ocid": "ocds-k50g02-16-12-5280482",
+      "awardID": "4817126",
+      "status": "active",
+      "period": {
+        "startDate": "2016-06-27T00:00:00.000000Z",
+        "endDate": "2016-08-11T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 2307457.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-06-27T00:00:00.000000Z",
+      "documents": [
+        {
+          "id": "20232834.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5280482_01002001_20232834.PDF",
+          "description": "2720-2016",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002001/16-12-5280482/C_PROCESO_16-12-5280482_01002001_20232834.PDF",
+          "datePublished": "2016-06-30T10:02:29.000000Z",
+          "dateModified": "2016-06-30T10:02:29.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5280482"
+        },
+        {
+          "id": "21265938.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5280482_01002001_21265938.PDF",
+          "description": "2720-2016 AI",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q3/2016/DA/01002001/16-12-5280482/DA_PROCESO_16-12-5280482_01002001_21265938.PDF",
+          "datePublished": "2016-09-08T09:55:39.000000Z",
+          "dateModified": "2016-09-08T09:55:39.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5280482"
+        },
+        {
+          "id": "20232834.0",
+          "documentType": "contractSigned",
+          "title": "C_PROCESO_16-12-5280482_01002001_20232834.PDF",
+          "description": "2720-2016",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q2/2016/C/01002001/16-12-5280482/C_PROCESO_16-12-5280482_01002001_20232834.PDF",
+          "datePublished": "2016-06-30T10:02:29.000000Z",
+          "dateModified": "2016-06-30T10:02:29.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5280482"
+        },
+        {
+          "id": "21265938.0",
+          "documentType": "contractAnnexe",
+          "title": "DA_PROCESO_16-12-5280482_01002001_21265938.PDF",
+          "description": "2720-2016 AI",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/2016/2016Q3/2016/DA/01002001/16-12-5280482/DA_PROCESO_16-12-5280482_01002001_21265938.PDF",
+          "datePublished": "2016-09-08T09:55:39.000000Z",
+          "dateModified": "2016-09-08T09:55:39.000000Z",
+          "format": "application/pdf",
+          "ocid": "ocds-k50g02-16-12-5280482"
+        }
+      ]
+    },
+    {
+      "id": "2720-2016",
+      "ocid": "ocds-k50g02-16-12-5280482",
+      "awardID": "4817126",
+      "status": "active",
+      "period": {
+        "startDate": "2016-06-27T00:00:00.000000Z",
+        "endDate": "2016-08-11T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 2307457.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-06-27T00:00:00.000000Z"
+    },
+    {
+      "id": "2720-2016",
+      "ocid": "ocds-k50g02-16-12-5280482",
+      "awardID": "4817126",
+      "status": "active",
+      "period": {
+        "startDate": "2016-06-27T00:00:00.000000Z",
+        "endDate": "2016-08-11T00:00:00.000000Z"
+      },
+      "value": {
+        "currency": "COP",
+        "amount": 2307457.0
+      },
+      "items": [
+        {
+          "id": 801116,
+          "classification": {
+            "scheme": "UNSPSC",
+            "description": "Servicios de personal temporal",
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+          },
+          "description": "Servicios de personal temporal"
+        }
+      ],
+      "dateSigned": "2016-06-27T00:00:00.000000Z"
+    }
+  ],
+  "buyer": {
+    "id": "f855b248228a9d689da61a4eae2ac7d9",
+    "name": "BOGOT\u00c1 D.C. - SECRETAR\u00cdA DE EDUCACI\u00d3N"
+  },
+  "procurement_type": "Contrataci\u00f3n Directa (Ley 1150 de 2007)",
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": null,
+    "publisher": {
+      "name": "Colombia Compra",
+      "uri": "https://www.colombiacompra.gov.co/"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/awards/uniqueItems: [{'id': 4817126, 'ocid': 'ocds-k50g02-16-12-5280482', 'status': 'active', 'value': {'currency': 'COP', 'amount': 2307457.0}, 'suppliers': [{'id': '91e9a477f188a2f7a87fb43b4b404fbb', 'name': 'LEIDY JOHANNA RUBIANO PALACIOS'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4817126, 'ocid': 'ocds-k50g02-16-12-5280482', 'status': 'active', 'value': {'currency': 'COP', 'amount': 2307457.0}, 'suppliers': [{'id': '91e9a477f188a2f7a87fb43b4b404fbb', 'name': 'LEIDY JOHANNA RUBIANO PALACIOS'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}, {'id': 4817126, 'ocid': 'ocds-k50g02-16-12-5280482', 'status': 'active', 'value': {'currency': 'COP', 'amount': 2307457.0}, 'suppliers': [{'id': '91e9a477f188a2f7a87fb43b4b404fbb', 'name': 'LEIDY JOHANNA RUBIANO PALACIOS'}], 'items': [{'id': 801116, 'classification': {'scheme': 'UNSPSC', 'description': 'Servicios de personal temporal', 'uri': 'http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios'}, 'description': 'Servicios de personal temporal'}]}] has non-unique elements"
+}

@@ -3,11 +3,8 @@ Mexico > CDMX - Mexico City
 
 An API is available at: http://www.contratosabiertos.cdmx.gob.mx/datos-abiertos/documentacion-api-contratos
 
-## Write a scraper!
+There were 420 available releases as of 2017/07/03.
 
-Could you write a simple python scraper that will:
+Currently most pass validation: a few fail with miscellaneous errors, most commonly:
 
-* Fetch 100 example releases or records;
-* Fetch the latest version of the full dataset;
-
-If so - we want your help. See [this post](https://groups.google.com/a/open-contracting.org/forum/#!topic/standard-discuss/HtSYpbH5QGY). 
+    properties/tender/properties/id/minLength: '' is too short

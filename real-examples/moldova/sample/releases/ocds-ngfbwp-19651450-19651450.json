@@ -1,0 +1,96 @@
+{
+  "ocid": "ocds-ngfbwp-19651450",
+  "id": "19651450",
+  "date": "2017-05-30T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "5b8995a0af5fe84471d54aa89b18db1d",
+      "name": "GR\u0102DINA ZOOLOGIC\u0102 \u00ce.M.",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "19651450",
+    "title": "Tender Ref 17/01667 Bulletin 43",
+    "description": "",
+    "status": "Evaluarea ofertelor",
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Licita\u0163ie public\u0103",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-05-30T00:00:00.000Z",
+      "endDate": "2017-06-19T10:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "5b8995a0af5fe84471d54aa89b18db1d",
+      "name": "GR\u0102DINA ZOOLOGIC\u0102 \u00ce.M."
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "buyer": {
+    "id": "5b8995a0af5fe84471d54aa89b18db1d",
+    "name": "GR\u0102DINA ZOOLOGIC\u0102 \u00ce.M."
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Evaluarea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}

@@ -1,0 +1,336 @@
+{
+  "ocid": "ocds-ngfbwp-20043439",
+  "id": "20043439",
+  "date": "2017-06-16T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "4d4ac552380ebe62833615a7dbea05a5",
+      "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "20043439",
+    "title": "Tender Ref 17/01952 Bulletin 48",
+    "description": "",
+    "status": "Primirea ofertelor",
+    "items": [
+      {
+        "id": 20259025,
+        "description": "Curea  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1282,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259026,
+        "description": "Toc pentru pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1282,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259027,
+        "description": "Curelu\u0219a de siguran\u021b\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1282,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259028,
+        "description": "Hus\u0103 pentru \u00eenc\u0103rc\u0103tor  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1282,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259029,
+        "description": "Hus\u0103 pentru c\u0103tu\u0219e  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1282,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259030,
+        "description": "Hus\u0103 pentru balona\u0219 cu gaze lacrimogene  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1136,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259031,
+        "description": "C\u0103tu\u0219e cu lan\u0163  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1136,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259032,
+        "description": "C\u0103tu\u0219e cu balamale  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 146,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259033,
+        "description": "Balona\u0219 cu gaz lacrimogen  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1136,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259034,
+        "description": "Lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 1136,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259035,
+        "description": "Baston   Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 160,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259036,
+        "description": "Masc\u0103 anti-gaze  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 50,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259037,
+        "description": "M\u0103nu\u0219i tactice  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 160,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259038,
+        "description": "Vest\u0103 antiglon\u021b  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 80,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259039,
+        "description": "Casc\u0103 balistic\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 50,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259040,
+        "description": "Electro\u0219oc tip lantern\u0103  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 25,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      },
+      {
+        "id": 20259041,
+        "description": "Electro\u015foc tip pistol  Conform Caietului de sarcini ata\u015fat la fila ,,Documente\".",
+        "classification": {
+          "scheme": "CPV",
+          "id": "35000000-4",
+          "description": "Echipament de securitate, de lupta impotriva incendiilor, de politie si de aparare"
+        },
+        "additionalClassifications": [],
+        "quantity": 25,
+        "unit": {
+          "name": "Bucat\u0103"
+        }
+      }
+    ],
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Licita\u0163ie public\u0103",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-06-16T00:00:00.000Z",
+      "endDate": "2017-07-07T14:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "4d4ac552380ebe62833615a7dbea05a5",
+      "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "buyer": {
+    "id": "4d4ac552380ebe62833615a7dbea05a5",
+    "name": "INSPECTORATUL GENERAL AL POLI\u0162IEI"
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Primirea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}

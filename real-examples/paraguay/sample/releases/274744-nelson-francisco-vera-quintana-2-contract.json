@@ -1,0 +1,243 @@
+{
+  "ocid": "ocds-03ad3f-274744",
+  "id": "274744-nelson-francisco-vera-quintana-2-contract",
+  "date": "2017-08-08T08:24:58-04:00",
+  "language": "es",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "contracts": [
+    {
+      "id": "274744-nelson-francisco-vera-quintana-2",
+      "awardID": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+      "dncpContractCode": "LP-40001-16-123962",
+      "title": "ADQUISICI\u00d3N DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+      "status": "active",
+      "value": {
+        "amount": 222832000.0,
+        "currency": "PYG"
+      },
+      "lots": [
+        {
+          "id": "nYZlDIKXpLc%3D",
+          "title": "Lote 1",
+          "items": [
+            "yWlMMjl%2Ft9U%3D",
+            "eBWjiICSWz0%3D",
+            "1eZiY1phyuE%3D",
+            "4BPlsDfFsZ4%3D",
+            "IUHj1QnFFnU%3D",
+            "p9YzlRPdffc%3D",
+            "u0P39dRD0lE%3D"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "description": "Caja terminal",
+          "id": "yWlMMjl%2Ft9U%3D",
+          "classification": {
+            "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
+            "id": "43222825-002",
+            "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
+            "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-002"
+          },
+          "quantity": 200.0,
+          "unit": {
+            "name": "Unidad",
+            "value": {
+              "amount": 181100.0,
+              "currency": "PYG"
+            }
+          }
+        },
+        {
+          "description": "Caja terminal",
+          "id": "eBWjiICSWz0%3D",
+          "classification": {
+            "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
+            "id": "43222825-002",
+            "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
+            "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-002"
+          },
+          "quantity": 400.0,
+          "unit": {
+            "name": "Unidad",
+            "value": {
+              "amount": 152450.0,
+              "currency": "PYG"
+            }
+          }
+        },
+        {
+          "description": "Manguito",
+          "id": "1eZiY1phyuE%3D",
+          "classification": {
+            "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
+            "id": "43222825-001",
+            "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
+            "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+          },
+          "quantity": 400.0,
+          "unit": {
+            "name": "Unidad",
+            "value": {
+              "amount": 165700.0,
+              "currency": "PYG"
+            }
+          }
+        },
+        {
+          "description": "Manguito",
+          "id": "4BPlsDfFsZ4%3D",
+          "classification": {
+            "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
+            "id": "43222825-001",
+            "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
+            "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/43222825-001"
+          },
+          "quantity": 200.0,
+          "unit": {
+            "name": "Unidad",
+            "value": {
+              "amount": 175060.0,
+              "currency": "PYG"
+            }
+          }
+        },
+        {
+          "description": "Brida de suspension",
+          "id": "IUHj1QnFFnU%3D",
+          "classification": {
+            "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
+            "id": "26121630-020",
+            "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
+            "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/26121630-020"
+          },
+          "quantity": 1000.0,
+          "unit": {
+            "name": "Unidad",
+            "value": {
+              "amount": 13200.0,
+              "currency": "PYG"
+            }
+          }
+        },
+        {
+          "description": "Ducto de acero ",
+          "id": "p9YzlRPdffc%3D",
+          "classification": {
+            "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
+            "id": "39121207-002",
+            "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
+            "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121207-002"
+          },
+          "quantity": 100.0,
+          "unit": {
+            "name": "Unidad",
+            "value": {
+              "amount": 63400.0,
+              "currency": "PYG"
+            }
+          }
+        },
+        {
+          "description": "Conector para cables multipares",
+          "id": "u0P39dRD0lE%3D",
+          "classification": {
+            "schema": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay",
+            "id": "39121409-014",
+            "description": "Cat\u00e1logo de productos, bienes y servicios de la Direcci\u00f3n Nacional de Contrataciones P\u00fablicas del Paraguay Nivel 5, basado en UNSPSC",
+            "uri": "https://www.contrataciones.gov.py/datos/api/v2/doc/catalogo/nivel-5/39121409-014"
+          },
+          "quantity": 100.0,
+          "unit": {
+            "name": "Unidad",
+            "value": {
+              "amount": 48000.0,
+              "currency": "PYG"
+            }
+          }
+        }
+      ],
+      "dateSigned": "2016-05-26T12:00:00-04:00",
+      "suppliers": {
+        "name": "NELSON FRANCISCO VERA QUINTANA",
+        "identifier": {
+          "id": "855506-0",
+          "legalName": "NELSON FRANCISCO VERA QUINTANA",
+          "scheme": "Registro \u00danico de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay"
+        },
+        "identifiers": {
+          "key": "274744-nelson-francisco-vera-quintana-2"
+        }
+      },
+      "documents": [
+        {
+          "id": "5nVp4twr1OI%3D",
+          "documentType": "Acta de Apertura",
+          "title": "Acta de Apertura",
+          "language": "es",
+          "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/5nVp4twr1OI%253D",
+          "format": "application/pdf"
+        },
+        {
+          "id": "SNqBkMQdlPo%3D",
+          "documentType": "Cuadro Comparativo de Ofertas",
+          "title": "Cuadro Comparativo de Ofertas",
+          "language": "es",
+          "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/SNqBkMQdlPo%253D",
+          "format": "application/pdf"
+        },
+        {
+          "id": "p07gLixAo2U%3D",
+          "documentType": "evaluationReports",
+          "title": "Informe de Evaluaci\u00f3n",
+          "language": "es",
+          "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/p07gLixAo2U%253D",
+          "format": "application/pdf"
+        },
+        {
+          "id": "ma2bkpn3keI%3D",
+          "documentType": "evaluationReports",
+          "title": "Informe de Evaluaci\u00f3n",
+          "language": "es",
+          "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/ma2bkpn3keI%253D",
+          "format": "application/pdf"
+        },
+        {
+          "id": "iXloWlrOxuQ%3D",
+          "documentType": "Notificaci\u00f3n al Oferente",
+          "title": "Notificaci\u00f3n al Oferente",
+          "language": "es",
+          "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/iXloWlrOxuQ%253D",
+          "format": "application/pdf"
+        },
+        {
+          "id": "95wH3N9KvdE%3D",
+          "documentType": "Orden de Compra o Contrato",
+          "title": "Orden de Compra o Contrato",
+          "language": "es",
+          "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/95wH3N9KvdE%253D",
+          "format": "application/pdf"
+        },
+        {
+          "id": "S69AX5nt3zo%3D",
+          "documentType": "awardNotice",
+          "title": "Resoluci\u00f3n de Adjudicaci\u00f3n",
+          "language": "es",
+          "url": "https://www.contrataciones.gov.py/documentos/download/adjudicacion/S69AX5nt3zo%253D",
+          "format": "application/pdf"
+        }
+      ],
+      "period": {
+        "endDate": "2017-04-26T12:00:00-04:00",
+        "startDate": "2016-05-26T12:00:00-04:00"
+      },
+      "url": "https://www.contrataciones.gov.py/datos/id/contratos/274744-nelson-francisco-vera-quintana-2"
+    }
+  ],
+  "version": "1.1",
+  "validationErrors": ""
+}

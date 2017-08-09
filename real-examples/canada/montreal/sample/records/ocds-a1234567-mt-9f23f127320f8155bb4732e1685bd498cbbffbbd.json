@@ -1,0 +1,678 @@
+{
+  "publisher": {
+    "contactPoint": {
+      "url": "http://ville.montreal.qc.ca/", 
+      "email": "villeintelligente@ville.montreal.qc.ca", 
+      "telephone": "", 
+      "name": "Bureau de la Ville Intelligente", 
+      "faxNumber": ""
+    }, 
+    "name": "Ville de Montr\u00e9al", 
+    "address": {
+      "postalCode": "H2Y1C6", 
+      "countryName": "Canada", 
+      "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al", 
+      "region": "QC", 
+      "locality": "Montr\u00e9al"
+    }
+  }, 
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2017-05-27T00:00:00-04:00", 
+        "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+        "releaseTag": "award", 
+        "value": "fr"
+      }
+    ], 
+    "ocid": "ocds-a1234567-mt-9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+    "packageInfo": {
+      "publisher": {
+        "contactPoint": {
+          "telephone": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": ""
+            }
+          ], 
+          "url": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "http://ville.montreal.qc.ca/"
+            }
+          ], 
+          "email": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "villeintelligente@ville.montreal.qc.ca"
+            }
+          ], 
+          "name": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "Bureau de la Ville Intelligente"
+            }
+          ], 
+          "faxNumber": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": ""
+            }
+          ]
+        }, 
+        "name": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": "Ville de Montr\u00e9al"
+          }
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "Canada"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "H2Y1C6"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "QC"
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "275 Rue Notre-Dame Est, Montr\u00e9al"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "Montr\u00e9al"
+            }
+          ]
+        }
+      }, 
+      "uri": [
+        {
+          "releaseDate": "2017-05-27T00:00:00-04:00", 
+          "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+          "releaseTag": "award", 
+          "value": "http://ville.montreal.qc.ca/api/releases.json?limit=10"
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2017-05-27T00:00:00-04:00", 
+          "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+          "releaseTag": "award", 
+          "value": "2017-06-30T06:32:13.512560"
+        }
+      ]
+    }, 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2017-05-27T00:00:00-04:00", 
+          "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+          "releaseTag": "award", 
+          "value": "a9f2eb22f4c3a24c0f68c3699c957200"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2017-05-27T00:00:00-04:00", 
+          "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+          "releaseTag": "award", 
+          "value": "Culture"
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2017-05-27T00:00:00-04:00", 
+        "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+        "releaseTag": "award", 
+        "value": "1.1"
+      }
+    ], 
+    "awards": [
+      {
+        "items": [
+          {
+            "quantity": [
+              {
+                "releaseDate": "2017-05-27T00:00:00-04:00", 
+                "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+                "releaseTag": "award", 
+                "value": 1
+              }
+            ], 
+            "id": "", 
+            "description": [
+              {
+                "releaseDate": "2017-05-27T00:00:00-04:00", 
+                "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+                "releaseTag": "award", 
+                "value": "Installation de fibres optiques dans le secteur est du Quartier des spectacles. Entretien et am\u00e9nag. des parcs et terrains de jeux. APPROUV\u00c9 PAR : CONVERSIONS, SIMON. "
+              }
+            ]
+          }
+        ], 
+        "suppliers": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": [
+              {
+                "id": "1a7ef0c11aacf65acdf36a39fdb9c038", 
+                "name": "CEGA ELECTRICITE MULTIMEDIA INC."
+              }
+            ]
+          }
+        ], 
+        "repartition": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": null
+          }
+        ], 
+        "value": {
+          "currency": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "CAD"
+            }
+          ], 
+          "amount": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": 7473.36
+            }
+          ]
+        }, 
+        "date": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": "2017-05-27T00:00:00-04:00"
+          }
+        ], 
+        "id": "1057505"
+      }
+    ], 
+    "parties": [
+      {
+        "subOrganisationOf": {
+          "name": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": null
+            }
+          ]
+        }, 
+        "name": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": "Culture"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "Canada"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "H2Y 1C6"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "QC"
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "275 Rue Notre-Dame Est, Montr\u00e9al"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "Montr\u00e9al"
+            }
+          ]
+        }, 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "culture"
+            }
+          ]
+        }, 
+        "id": "a9f2eb22f4c3a24c0f68c3699c957200"
+      }, 
+      {
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "fonctionnaires"
+            }
+          ]
+        }, 
+        "id": "cd226ba9be78f6160996035e4980eafc", 
+        "roles": [
+          [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "procuringEntity"
+            }
+          ]
+        ], 
+        "name": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": "Fonctionnaires"
+          }
+        ]
+      }, 
+      {
+        "roles": [
+          [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "supplier"
+            }
+          ]
+        ], 
+        "identifier": {
+          "id": [
+            {
+              "releaseDate": "2017-05-27T00:00:00-04:00", 
+              "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+              "releaseTag": "award", 
+              "value": "cega-electricite-multimedia-inc"
+            }
+          ]
+        }, 
+        "id": "1a7ef0c11aacf65acdf36a39fdb9c038", 
+        "name": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": "CEGA ELECTRICITE MULTIMEDIA INC."
+          }
+        ], 
+        "address": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": {}
+          }
+        ]
+      }
+    ], 
+    "validationErrors": [
+      {
+        "releaseDate": "2017-05-27T00:00:00-04:00", 
+        "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+        "releaseTag": "award", 
+        "value": "properties/tag/type: 'award' is not of type 'array'"
+      }
+    ], 
+    "tender": {
+      "status": [
+        {
+          "releaseDate": "2017-05-27T00:00:00-04:00", 
+          "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+          "releaseTag": "award", 
+          "value": "complete"
+        }
+      ], 
+      "procurementMethodRationale": [
+        {
+          "releaseDate": "2017-05-27T00:00:00-04:00", 
+          "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+          "releaseTag": "award", 
+          "value": "contract"
+        }
+      ], 
+      "procuringEntity": {
+        "id": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": "cd226ba9be78f6160996035e4980eafc"
+          }
+        ], 
+        "name": [
+          {
+            "releaseDate": "2017-05-27T00:00:00-04:00", 
+            "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+            "releaseTag": "award", 
+            "value": "Fonctionnaires"
+          }
+        ]
+      }
+    }, 
+    "subject": [
+      [
+        {
+          "releaseDate": "2017-05-27T00:00:00-04:00", 
+          "releaseID": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+          "releaseTag": "award", 
+          "value": "Autres"
+        }
+      ]
+    ]
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "fr", 
+      "ocid": "ocds-a1234567-mt-9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+      "packageInfo": {
+        "publisher": {
+          "contactPoint": {
+            "url": "http://ville.montreal.qc.ca/", 
+            "email": "villeintelligente@ville.montreal.qc.ca", 
+            "telephone": "", 
+            "name": "Bureau de la Ville Intelligente", 
+            "faxNumber": ""
+          }, 
+          "name": "Ville de Montr\u00e9al", 
+          "address": {
+            "postalCode": "H2Y1C6", 
+            "countryName": "Canada", 
+            "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al", 
+            "region": "QC", 
+            "locality": "Montr\u00e9al"
+          }
+        }, 
+        "uri": "http://ville.montreal.qc.ca/api/releases.json?limit=10", 
+        "publishedDate": "2017-06-30T06:32:13.512560"
+      }, 
+      "buyer": {
+        "id": "a9f2eb22f4c3a24c0f68c3699c957200", 
+        "name": "Culture"
+      }, 
+      "tag": "award", 
+      "awards": [
+        {
+          "items": [
+            {
+              "quantity": 1, 
+              "description": "Installation de fibres optiques dans le secteur est du Quartier des spectacles. Entretien et am\u00e9nag. des parcs et terrains de jeux. APPROUV\u00c9 PAR : CONVERSIONS, SIMON. ", 
+              "id": ""
+            }
+          ], 
+          "suppliers": [
+            {
+              "id": "1a7ef0c11aacf65acdf36a39fdb9c038", 
+              "name": "CEGA ELECTRICITE MULTIMEDIA INC."
+            }
+          ], 
+          "repartition": null, 
+          "value": {
+            "currency": "CAD", 
+            "amount": 7473.36
+          }, 
+          "date": "2017-05-27T00:00:00-04:00", 
+          "id": "1057505"
+        }
+      ], 
+      "parties": [
+        {
+          "subOrganisationOf": {
+            "name": null
+          }, 
+          "name": "Culture", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "countryName": "Canada", 
+            "postalCode": "H2Y 1C6", 
+            "region": "QC", 
+            "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al", 
+            "locality": "Montr\u00e9al"
+          }, 
+          "identifier": {
+            "id": "culture"
+          }, 
+          "id": "a9f2eb22f4c3a24c0f68c3699c957200"
+        }, 
+        {
+          "identifier": {
+            "id": "fonctionnaires"
+          }, 
+          "name": "Fonctionnaires", 
+          "roles": [
+            "procuringEntity"
+          ], 
+          "id": "cd226ba9be78f6160996035e4980eafc"
+        }, 
+        {
+          "id": "1a7ef0c11aacf65acdf36a39fdb9c038", 
+          "identifier": {
+            "id": "cega-electricite-multimedia-inc"
+          }, 
+          "name": "CEGA ELECTRICITE MULTIMEDIA INC.", 
+          "roles": [
+            "supplier"
+          ], 
+          "address": {}
+        }
+      ], 
+      "date": "2017-05-27T00:00:00-04:00", 
+      "tender": {
+        "status": "complete", 
+        "procurementMethodRationale": "contract", 
+        "procuringEntity": {
+          "id": "cd226ba9be78f6160996035e4980eafc", 
+          "name": "Fonctionnaires"
+        }
+      }, 
+      "validationErrors": "properties/tag/type: 'award' is not of type 'array'", 
+      "id": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+      "subject": [
+        "Autres"
+      ]
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "fr", 
+    "buyer": {
+      "id": "a9f2eb22f4c3a24c0f68c3699c957200", 
+      "name": "Culture"
+    }, 
+    "ocid": "ocds-a1234567-mt-9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+    "packageInfo": {
+      "publisher": {
+        "contactPoint": {
+          "telephone": "", 
+          "url": "http://ville.montreal.qc.ca/", 
+          "email": "villeintelligente@ville.montreal.qc.ca", 
+          "name": "Bureau de la Ville Intelligente", 
+          "faxNumber": ""
+        }, 
+        "name": "Ville de Montr\u00e9al", 
+        "address": {
+          "countryName": "Canada", 
+          "postalCode": "H2Y1C6", 
+          "region": "QC", 
+          "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al", 
+          "locality": "Montr\u00e9al"
+        }
+      }, 
+      "uri": "http://ville.montreal.qc.ca/api/releases.json?limit=10", 
+      "publishedDate": "2017-06-30T06:32:13.512560"
+    }, 
+    "validationErrors": "properties/tag/type: 'award' is not of type 'array'", 
+    "tag": [
+      "compiled"
+    ], 
+    "awards": [
+      {
+        "items": [
+          {
+            "quantity": 1, 
+            "id": "", 
+            "description": "Installation de fibres optiques dans le secteur est du Quartier des spectacles. Entretien et am\u00e9nag. des parcs et terrains de jeux. APPROUV\u00c9 PAR : CONVERSIONS, SIMON. "
+          }
+        ], 
+        "suppliers": [
+          {
+            "id": "1a7ef0c11aacf65acdf36a39fdb9c038", 
+            "name": "CEGA ELECTRICITE MULTIMEDIA INC."
+          }
+        ], 
+        "repartition": null, 
+        "value": {
+          "currency": "CAD", 
+          "amount": 7473.36
+        }, 
+        "date": "2017-05-27T00:00:00-04:00", 
+        "id": "1057505"
+      }
+    ], 
+    "parties": [
+      {
+        "subOrganisationOf": {
+          "name": null
+        }, 
+        "name": "Culture", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": "Canada", 
+          "postalCode": "H2Y 1C6", 
+          "region": "QC", 
+          "streetAddress": "275 Rue Notre-Dame Est, Montr\u00e9al", 
+          "locality": "Montr\u00e9al"
+        }, 
+        "identifier": {
+          "id": "culture"
+        }, 
+        "id": "a9f2eb22f4c3a24c0f68c3699c957200"
+      }, 
+      {
+        "identifier": {
+          "id": "fonctionnaires"
+        }, 
+        "id": "cd226ba9be78f6160996035e4980eafc", 
+        "roles": [
+          "procuringEntity"
+        ], 
+        "name": "Fonctionnaires"
+      }, 
+      {
+        "roles": [
+          "supplier"
+        ], 
+        "identifier": {
+          "id": "cega-electricite-multimedia-inc"
+        }, 
+        "id": "1a7ef0c11aacf65acdf36a39fdb9c038", 
+        "name": "CEGA ELECTRICITE MULTIMEDIA INC.", 
+        "address": {}
+      }
+    ], 
+    "date": "2017-05-27T00:00:00-04:00", 
+    "tender": {
+      "status": "complete", 
+      "procurementMethodRationale": "contract", 
+      "procuringEntity": {
+        "id": "cd226ba9be78f6160996035e4980eafc", 
+        "name": "Fonctionnaires"
+      }
+    }, 
+    "id": "9f23f127320f8155bb4732e1685bd498cbbffbbd", 
+    "subject": [
+      "Autres"
+    ]
+  }
+}

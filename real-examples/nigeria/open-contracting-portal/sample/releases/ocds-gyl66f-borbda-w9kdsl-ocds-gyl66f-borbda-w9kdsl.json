@@ -1,0 +1,315 @@
+{
+  "ocid": "ocds-gyl66f-borbda-w9kdsl",
+  "id": "ocds-gyl66f-borbda-w9kdsl",
+  "date": "2014-12-23T00:00:00Z",
+  "language": "EN",
+  "tag": [
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "id": "77745903",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "buyer"
+      ],
+      "id": "NGA-BRBDA-77745903"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "id": "14252412",
+          "legalName": "benin-owena river basin development authority",
+          "scheme": "NGA-BRBDA"
+        }
+      ],
+      "address": {
+        "countryName": "Nigeria"
+      },
+      "contactPoint": {},
+      "identifier": {
+        "id": "42827679",
+        "legalName": "benin-owena river basin development authority",
+        "scheme": "NGA-BRBDA"
+      },
+      "name": "benin-owena river basin development authority",
+      "roles": [
+        "procuringEntity"
+      ],
+      "id": "NGA-BRBDA-42827679"
+    },
+    {
+      "address": {},
+      "contactPoint": {},
+      "identifier": {
+        "id": "37853101010",
+        "scheme": "NGA-BPPNO"
+      },
+      "roles": [
+        "tenderer"
+      ],
+      "id": "NGA-BPPNO-37853101010"
+    },
+    {
+      "additionalIdentifiers": [
+        {
+          "legalName": "Mudiamen Concepts Nigeria Ltd"
+        }
+      ],
+      "identifier": {
+        "id": "331103343",
+        "legalName": "mudiamen concepts nigeria ltd",
+        "scheme": "NGA-MCNL"
+      },
+      "name": "mudiamen concepts nigeria ltd",
+      "roles": [
+        "supplier"
+      ],
+      "id": "NGA-MCNL-331103343"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2014-12-23T00:00:00Z",
+      "description": "Clearing/Desilting of Reservoir at Aisegba Dam",
+      "id": "ocds-gyl66f-borbda-w9kdsl",
+      "items": [
+        {
+          "classification": {
+            "id": "38524064",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-w9kdsl-award-item",
+          "quantity": 1,
+          "unit": {
+            "name": "Items",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "id": "NGA-MCNL-331103343",
+          "name": "mudiamen concepts nigeria ltd"
+        }
+      ],
+      "title": "Clearing/Desilting of Reservoir at Aisegba Dam",
+      "value": {
+        "amount": 3675000.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "buyer": {
+    "id": "NGA-BRBDA-77745903",
+    "name": "benin-owena river basin development authority"
+  },
+  "contracts": [
+    {
+      "awardID": "ocds-gyl66f-borbda-w9kdsl-award",
+      "description": "Clearing/Desilting of Reservoir at Aisegba Dam",
+      "documents": [
+        {
+          "id": "ocds-gyl66f-borbda-w9kdsl",
+          "language": "EN"
+        }
+      ],
+      "id": "ocds-gyl66f-borbda-w9kdsl",
+      "implementation": {
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-w9kdsl",
+            "language": "EN"
+          }
+        ],
+        "milestones": [
+          {
+            "dateModified": "2014-12-23T00:00:00Z",
+            "description": "1.0",
+            "documents": [
+              {
+                "id": "ocds-gyl66f-borbda-w9kdsl-contract-implementation-document",
+                "language": "EN"
+              }
+            ],
+            "dueDate": "2014-12-23T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-w9kdsl",
+            "status": "met",
+            "title": "clearing/desilting of reservoir at aisegba dam-implementation-progress"
+          }
+        ],
+        "transactions": [
+          {
+            "amount": {
+              "amount": 3675000.0,
+              "currency": "NGN"
+            },
+            "date": "2014-12-23T00:00:00Z",
+            "id": "ocds-gyl66f-borbda-w9kdsl-nga-contract-transactions-49281641",
+            "providerOrganization": {
+              "id": "670102751",
+              "legalName": "benin-owena river basin development authority",
+              "scheme": "NGN-BRBDA"
+            },
+            "payer": {
+              "id": "NGN-BRBDA-670102751",
+              "name": "benin-owena river basin development authority"
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "049051011",
+            "scheme": "CPV"
+          },
+          "id": "ocds-gyl66f-borbda-w9kdsl",
+          "quantity": 1,
+          "unit": {
+            "name": "ocds-gyl66f-borbda-w9kdsl-unit-item",
+            "value": {
+              "amount": 0,
+              "currency": "NGN"
+            }
+          }
+        }
+      ],
+      "period": {
+        "endDate": "2014-12-15T00:00:00Z",
+        "startDate": "2014-12-23T00:00:00Z"
+      },
+      "status": "active",
+      "title": "Clearing/Desilting Of Reservoir At Aisegba Dam",
+      "value": {
+        "amount": 3675000.0,
+        "currency": "NGN"
+      }
+    }
+  ],
+  "planning": {
+    "budget": {
+      "description": "Clearing/Desilting Of Reservoir At Aisegba Dam",
+      "id": "ocds-gyl66f-borbda-w9kdsl",
+      "project": "Clearing/Desilting Of Reservoir At Aisegba Dam",
+      "value": {
+        "amount": 12000000.0,
+        "currency": "NGN"
+      }
+    },
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-w9kdsl",
+        "language": "EN"
+      }
+    ]
+  },
+  "tender": {
+    "awardPeriod": {
+      "endDate": "2014-12-23T00:00:00Z",
+      "startDate": "2014-12-23T00:00:00Z"
+    },
+    "description": "clearing/desilting of reservoir at aisegba dam",
+    "documents": [
+      {
+        "id": "ocds-gyl66f-borbda-w9kdsl",
+        "language": "EN"
+      }
+    ],
+    "enquiryPeriod": {
+      "endDate": null,
+      "startDate": null
+    },
+    "hasEnquiries": false,
+    "id": "ocds-gyl66f-borbda-w9kdsl",
+    "items": [
+      {
+        "classification": {
+          "id": "38524064",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {},
+        "deliveryLocation": {
+          "gazetteer": {
+            "identifiers": [
+              "2640729"
+            ],
+            "scheme": "GEONAMES"
+          },
+          "geometry": {
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ],
+            "type": "Point"
+          }
+        },
+        "id": "ocds-gyl66f-borbda-w9kdsl-tender-item-38524064",
+        "quantity": 1,
+        "unit": {
+          "value": {
+            "amount": 3675000.0,
+            "currency": "NGN"
+          }
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "dateModified": "2014-12-23T00:00:00Z",
+        "description": "Clearing/Desilting Of Reservoir At Aisegba Dam",
+        "documents": [
+          {
+            "id": "ocds-gyl66f-borbda-w9kdsl",
+            "language": "EN"
+          }
+        ],
+        "dueDate": "2014-12-23T00:00:00Z",
+        "id": "ocds-gyl66f-borbda-w9kdsl",
+        "status": "met",
+        "title": "Clearing/Desilting Of Reservoir At Aisegba Dam"
+      }
+    ],
+    "procurementMethod": "open",
+    "procuringEntity": {
+      "id": "NGA-BRBDA-42827679",
+      "name": "benin-owena river basin development authority"
+    },
+    "status": "complete",
+    "tenderPeriod": {
+      "endDate": null,
+      "startDate": null
+    },
+    "tenderers": [
+      {
+        "id": "NGA-BPPNO-37853101010",
+        "name": ""
+      }
+    ],
+    "title": "clearing/desilting of reservoir at aisegba dam",
+    "value": {
+      "amount": 3675000.0,
+      "currency": "NGN"
+    }
+  },
+  "packageInfo": {
+    "uri": "http:nigeriaoc.org/open_api",
+    "publishedDate": "2017-08-07T13:04:04Z",
+    "publisher": {
+      "name": "Public Bureau of Procurement",
+      "scheme": "NGA-COH",
+      "uri": "http://www.bpp.gov.ng"
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/tenderers/items/properties/name/minLength: '' is too short\n"
+}

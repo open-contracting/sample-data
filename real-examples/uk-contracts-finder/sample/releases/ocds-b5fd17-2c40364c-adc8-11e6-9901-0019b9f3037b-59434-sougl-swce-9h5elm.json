@@ -1,0 +1,112 @@
+{
+  "ocid": "ocds-b5fd17-2c40364c-adc8-11e6-9901-0019b9f3037b",
+  "id": "ocds-b5fd17-2c40364c-adc8-11e6-9901-0019b9f3037b-59434-sougl-swce-9h5elm",
+  "date": "2014-12-17T16:44:58Z",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "",
+        "id": "",
+        "legalName": null,
+        "uri": null
+      },
+      "name": "Spend Network",
+      "address": {
+        "streetAddress": "Civic CentreHigh Street KingswoodBristolAvon ",
+        "locality": "",
+        "region": null,
+        "postalCode": "BS15 9TR",
+        "countryName": "United Kingdom"
+      },
+      "contactPoint": {
+        "name": "Ms Janice Llewellyn",
+        "email": "janice.llewellyn@southglos.gov.uk",
+        "telephone": "",
+        "faxNumber": null
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "fc5aeb90c231da2210f5071852d4c8d1"
+    }
+  ],
+  "tender": {
+    "id": "ocds-b5fd17-2c40364c-adc8-11e6-9901-0019b9f3037b-sougl-swce-9h5elm",
+    "title": " Recognised Provider List for Provision of Direct Payment Support JL008",
+    "description": " South Gloucestershire Council is creating a Recognised Provider List for the provision of Self Directed Support to individuals living in South Gloucestershire. \r\nThe List will include detailsof Organsations who provide services to individualsto help them arrange and manage self directed support. The list is intended fororganisationswho offerstand alone services in this areaand notwhere support is offered as part ofa general support service.\r\nThe list will be freely available to anyone who requires support to use a direct payment or personal budget, to purchase their own services, or services on behalf of others. Organisations who are listed will provide full details of the services they provide and their prices to enable individuals to make an informed choice when choosing a support provider.\r\nProviders wishing to be included on the list will be required to complete and return the application form and confirm their agreement to meet specific standards set by the Council.\r\nThe Council intends to launch the list in July 2014 and therefore Providers wishing to be listed from the start date must complete and return applications by 30th April 2014. \r\nThe List will remain open for new applicants after this date. \r\nAll queries relating to this opportunity should be posted through the portal.",
+    "status": "active",
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "85000000",
+          "description": "Health and social work services",
+          "uri": "http://cpv.data.ac.uk/code-85000000.html"
+        }
+      },
+      {
+        "id": 2,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "98000000",
+          "description": "Other community, social and personal services",
+          "uri": "http://cpv.data.ac.uk/code-98000000.html"
+        }
+      }
+    ],
+    "minValue": {
+      "amount": 908000,
+      "currency": "GBP"
+    },
+    "value": {
+      "amount": 5826279,
+      "currency": "GBP"
+    },
+    "procurementMethod": null,
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "awardCriteriaDetails": null,
+    "submissionMethod": null,
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "tenderPeriod": {
+      "startDate": "2014-12-17T16:44:58Z",
+      "endDate": "2018-06-30T00:00:00Z"
+    },
+    "hasEnquiries": null,
+    "eligibilityCriteria": null,
+    "milestones": [
+      {
+        "id": 1,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2014-07-01T00:00:00Z",
+        "status": null
+      },
+      {
+        "id": 2,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2018-06-30T00:00:00Z",
+        "status": null
+      }
+    ],
+    "xClassifications": {
+      "isSuitableForVco": false,
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works"
+    }
+  },
+  "buyer": {
+    "id": "fc5aeb90c231da2210f5071852d4c8d1",
+    "name": "Spend Network"
+  },
+  "version": "1.1"
+}

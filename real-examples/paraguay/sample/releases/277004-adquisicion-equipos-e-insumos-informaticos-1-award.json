@@ -1,0 +1,73 @@
+{
+  "ocid": "ocds-03ad3f-277004",
+  "id": "277004-adquisicion-equipos-e-insumos-informaticos-1-award",
+  "date": "2017-08-08T08:25:31-04:00",
+  "language": "es",
+  "tag": [
+    "award"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "be39381063616a27fb8ba69ca2633e02",
+      "name": "DATA LAB SA",
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "975a0bd003eb7fb0ad0a9fb185a79b4d",
+      "name": "MARCELO ADDARIO PAVON",
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "3e45b2f9c107c5ad936f73e774a05a94",
+      "name": "MARCELO ADDARIO PAVON",
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "8d8f28b99925857e7c9d79237229c09f",
+      "name": "PARASUR SA",
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "id": "277004-adquisicion-equipos-e-insumos-informaticos-1",
+      "title": "ADQUISICION DE EQUIPOS E INSUMOS INFORMATICOS ",
+      "status": "active",
+      "date": "2016-02-26T15:53:51-05:00",
+      "value": {
+        "amount": 2116219396,
+        "currency": "PYG"
+      },
+      "suppliers": [
+        {
+          "id": "be39381063616a27fb8ba69ca2633e02",
+          "name": "DATA LAB SA"
+        },
+        {
+          "id": "975a0bd003eb7fb0ad0a9fb185a79b4d",
+          "name": "MARCELO ADDARIO PAVON"
+        },
+        {
+          "id": "3e45b2f9c107c5ad936f73e774a05a94",
+          "name": "MARCELO ADDARIO PAVON"
+        },
+        {
+          "id": "8d8f28b99925857e7c9d79237229c09f",
+          "name": "PARASUR SA"
+        }
+      ],
+      "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/277004-adquisicion-equipos-e-insumos-informaticos-1"
+    }
+  ],
+  "version": "1.1",
+  "validationErrors": ""
+}

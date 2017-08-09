@@ -1,0 +1,603 @@
+{
+  "publisher": {
+    "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+    "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+    "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+    "uri_en": "https://buyandsell.gc.ca", 
+    "uri_fr": "https://achatsetventes.gc.ca"
+  }, 
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01896-110201/001/WPG", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "en"
+      }
+    ], 
+    "contracts": [
+      {
+        "status": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "active"
+          }
+        ], 
+        "amendment": {
+          "date": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2015-06-11"
+            }
+          ], 
+          "rationale": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "amendmentNumber: 000, awardDate: 2011-08-12, expiryDate: 2013-07-31, value: 2200000.00 | amendmentNumber: 001, awardDate: 2011-08-15, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 002, awardDate: 2011-08-18, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 003, awardDate: 2011-10-18, expiryDate: 2013-07-31, value: 600000.00 | amendmentNumber: 004, awardDate: 2013-07-16, expiryDate: 2014-07-31, value: 1000000.00 | amendmentNumber: 005, awardDate: 2013-07-18, expiryDate: 2014-07-31, value: 0.00 | amendmentNumber: 006, awardDate: 2014-07-16, expiryDate: 2015-07-31, value: 600000.00 | amendmentNumber: 007, awardDate: 2015-06-11, expiryDate: 2016-07-31, value: -600000.00"
+            }
+          ]
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01896-110201/001/WPG", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "GSIN"
+                }
+              ], 
+              "id": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01896-110201/001/WPG", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "N3720"
+                }
+              ]
+            }, 
+            "id": "N3720", 
+            "description_en": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01896-110201/001/WPG", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "Harvesting Equipment"
+              }
+            ], 
+            "description_fr": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01896-110201/001/WPG", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "\u00c9quipements pour moissonner"
+              }
+            ]
+          }
+        ], 
+        "title_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Harvesting Equipment"
+          }
+        ], 
+        "period": {
+          "startDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2011-08-12"
+            }
+          ], 
+          "endDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2016-07-31"
+            }
+          ]
+        }, 
+        "value": {
+          "currency": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "CAD"
+            }
+          ], 
+          "amount": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": 3800000
+            }
+          ]
+        }, 
+        "title_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "\u00c9quipements pour moissonner"
+          }
+        ], 
+        "awardID": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "01896-110201/001/WPG"
+          }
+        ], 
+        "id": "01896-110201/001/WPG"
+      }
+    ], 
+    "ocid": "ocds-34a6hz-01896-110201/001/WPG", 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data"
+          }
+        ], 
+        "documentation_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo"
+          }
+        ], 
+        "name": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Buyandsell.gc.ca - Achatsetventes.gc.ca"
+          }
+        ], 
+        "uri_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca"
+          }
+        ], 
+        "uri_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca"
+          }
+        ]
+      }, 
+      "uri": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01896-110201/001/WPG", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json"
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01896-110201/001/WPG", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "2015-11-18T21:59:18Z"
+        }
+      ]
+    }, 
+    "initiationType": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01896-110201/001/WPG", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01896-110201/001/WPG", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01896-110201/001/WPG", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": ""
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01896-110201/001/WPG", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture et Agroalimentaire Canada"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Canada"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "R3C3G7"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Manitoba"
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "400 - 300 MAIN STREET"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "WINNIPEG"
+            }
+          ]
+        }, 
+        "name_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01896-110201/001/WPG", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture and Agri-Food Canada"
+          }
+        ], 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "MISC-BUYANDSELLGCCA"
+            }
+          ], 
+          "legalName_en": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture and Agri-Food Canada"
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "01"
+            }
+          ], 
+          "legalName_fr": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01896-110201/001/WPG", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture et Agroalimentaire Canada"
+            }
+          ]
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "validationErrors": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01896-110201/001/WPG", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "properties/buyer/properties/name/minLength: '' is too short"
+      }
+    ]
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en", 
+      "contracts": [
+        {
+          "status": "active", 
+          "amendment": {
+            "date": "2015-06-11", 
+            "rationale": "amendmentNumber: 000, awardDate: 2011-08-12, expiryDate: 2013-07-31, value: 2200000.00 | amendmentNumber: 001, awardDate: 2011-08-15, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 002, awardDate: 2011-08-18, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 003, awardDate: 2011-10-18, expiryDate: 2013-07-31, value: 600000.00 | amendmentNumber: 004, awardDate: 2013-07-16, expiryDate: 2014-07-31, value: 1000000.00 | amendmentNumber: 005, awardDate: 2013-07-18, expiryDate: 2014-07-31, value: 0.00 | amendmentNumber: 006, awardDate: 2014-07-16, expiryDate: 2015-07-31, value: 600000.00 | amendmentNumber: 007, awardDate: 2015-06-11, expiryDate: 2016-07-31, value: -600000.00"
+          }, 
+          "items": [
+            {
+              "classification": {
+                "scheme": "GSIN", 
+                "id": "N3720"
+              }, 
+              "id": "N3720", 
+              "description_en": "Harvesting Equipment", 
+              "description_fr": "\u00c9quipements pour moissonner"
+            }
+          ], 
+          "title_en": "Harvesting Equipment", 
+          "period": {
+            "startDate": "2011-08-12", 
+            "endDate": "2016-07-31"
+          }, 
+          "value": {
+            "currency": "CAD", 
+            "amount": 3800000
+          }, 
+          "title_fr": "\u00c9quipements pour moissonner", 
+          "awardID": "01896-110201/001/WPG", 
+          "id": "01896-110201/001/WPG"
+        }
+      ], 
+      "ocid": "ocds-34a6hz-01896-110201/001/WPG", 
+      "packageInfo": {
+        "publisher": {
+          "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+          "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+          "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+          "uri_en": "https://buyandsell.gc.ca", 
+          "uri_fr": "https://achatsetventes.gc.ca"
+        }, 
+        "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+        "publishedDate": "2015-11-18T21:59:18Z"
+      }, 
+      "initiationType": "tender", 
+      "buyer": {
+        "id": "MISC-BUYANDSELLGCCA-01", 
+        "name": ""
+      }, 
+      "tag": [
+        "compiled"
+      ], 
+      "parties": [
+        {
+          "name_fr": "Agriculture et Agroalimentaire Canada", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": "R3C3G7", 
+            "countryName": "Canada", 
+            "streetAddress": "400 - 300 MAIN STREET", 
+            "region": "Manitoba", 
+            "locality": "WINNIPEG"
+          }, 
+          "name_en": "Agriculture and Agri-Food Canada", 
+          "identifier": {
+            "scheme": "MISC-BUYANDSELLGCCA", 
+            "legalName_en": "Agriculture and Agri-Food Canada", 
+            "id": "01", 
+            "legalName_fr": "Agriculture et Agroalimentaire Canada"
+          }, 
+          "id": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "date": "2015-10-29T17:47:12Z", 
+      "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+      "id": "01896-110201/001/WPG"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en", 
+    "buyer": {
+      "id": "MISC-BUYANDSELLGCCA-01", 
+      "name": ""
+    }, 
+    "ocid": "ocds-34a6hz-01896-110201/001/WPG", 
+    "contracts": [
+      {
+        "status": "active", 
+        "amendment": {
+          "date": "2015-06-11", 
+          "rationale": "amendmentNumber: 000, awardDate: 2011-08-12, expiryDate: 2013-07-31, value: 2200000.00 | amendmentNumber: 001, awardDate: 2011-08-15, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 002, awardDate: 2011-08-18, expiryDate: 2013-07-31, value: 0.00 | amendmentNumber: 003, awardDate: 2011-10-18, expiryDate: 2013-07-31, value: 600000.00 | amendmentNumber: 004, awardDate: 2013-07-16, expiryDate: 2014-07-31, value: 1000000.00 | amendmentNumber: 005, awardDate: 2013-07-18, expiryDate: 2014-07-31, value: 0.00 | amendmentNumber: 006, awardDate: 2014-07-16, expiryDate: 2015-07-31, value: 600000.00 | amendmentNumber: 007, awardDate: 2015-06-11, expiryDate: 2016-07-31, value: -600000.00"
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": "GSIN", 
+              "id": "N3720"
+            }, 
+            "id": "N3720", 
+            "description_en": "Harvesting Equipment", 
+            "description_fr": "\u00c9quipements pour moissonner"
+          }
+        ], 
+        "title_en": "Harvesting Equipment", 
+        "period": {
+          "startDate": "2011-08-12", 
+          "endDate": "2016-07-31"
+        }, 
+        "value": {
+          "currency": "CAD", 
+          "amount": 3800000
+        }, 
+        "title_fr": "\u00c9quipements pour moissonner", 
+        "awardID": "01896-110201/001/WPG", 
+        "id": "01896-110201/001/WPG"
+      }
+    ], 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+        "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+        "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+        "uri_en": "https://buyandsell.gc.ca", 
+        "uri_fr": "https://achatsetventes.gc.ca"
+      }, 
+      "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+      "publishedDate": "2015-11-18T21:59:18Z"
+    }, 
+    "initiationType": "tender", 
+    "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name_fr": "Agriculture et Agroalimentaire Canada", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": "Canada", 
+          "postalCode": "R3C3G7", 
+          "region": "Manitoba", 
+          "streetAddress": "400 - 300 MAIN STREET", 
+          "locality": "WINNIPEG"
+        }, 
+        "name_en": "Agriculture and Agri-Food Canada", 
+        "identifier": {
+          "scheme": "MISC-BUYANDSELLGCCA", 
+          "legalName_en": "Agriculture and Agri-Food Canada", 
+          "id": "01", 
+          "legalName_fr": "Agriculture et Agroalimentaire Canada"
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "date": "2015-10-29T17:47:12Z", 
+    "id": "01896-110201/001/WPG"
+  }
+}

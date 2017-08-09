@@ -1,0 +1,603 @@
+{
+  "publisher": {
+    "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+    "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+    "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+    "uri_en": "https://buyandsell.gc.ca", 
+    "uri_fr": "https://achatsetventes.gc.ca"
+  }, 
+  "versionedRelease": {
+    "language": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-110259/001/ZH", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "en"
+      }
+    ], 
+    "contracts": [
+      {
+        "status": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "active"
+          }
+        ], 
+        "amendment": {
+          "date": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2015-06-18"
+            }
+          ], 
+          "rationale": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "amendmentNumber: 000, awardDate: 2011-05-12, expiryDate: 2014-06-30, value: 4378356.00 | amendmentNumber: 001, awardDate: 2011-06-02, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 002, awardDate: 2014-06-26, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 003, awardDate: 2014-09-23, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 004, awardDate: 2015-06-18, expiryDate: 2014-06-30, value: 752430.00"
+            }
+          ]
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01948-110259/001/ZH", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "GSIN"
+                }
+              ], 
+              "id": [
+                {
+                  "releaseDate": "2015-10-29T17:47:12Z", 
+                  "releaseID": "01948-110259/001/ZH", 
+                  "releaseTag": [
+                    "compiled"
+                  ], 
+                  "value": "G009F"
+                }
+              ]
+            }, 
+            "id": "G009F", 
+            "description_en": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01948-110259/001/ZH", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "Medical/Dental Laboratory Services"
+              }
+            ], 
+            "description_fr": [
+              {
+                "releaseDate": "2015-10-29T17:47:12Z", 
+                "releaseID": "01948-110259/001/ZH", 
+                "releaseTag": [
+                  "compiled"
+                ], 
+                "value": "Services de laboratoire m\u00e9dical, dentaire"
+              }
+            ]
+          }
+        ], 
+        "title_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Medical/Dental Laboratory Services"
+          }
+        ], 
+        "period": {
+          "startDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2011-05-12"
+            }
+          ], 
+          "endDate": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "2014-06-30"
+            }
+          ]
+        }, 
+        "value": {
+          "currency": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "CAD"
+            }
+          ], 
+          "amount": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": 5130786
+            }
+          ]
+        }, 
+        "title_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Services de laboratoire m\u00e9dical, dentaire"
+          }
+        ], 
+        "awardID": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "01948-110259/001/ZH"
+          }
+        ], 
+        "id": "01948-110259/001/ZH"
+      }
+    ], 
+    "ocid": "ocds-34a6hz-01948-110259/001/ZH", 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data"
+          }
+        ], 
+        "documentation_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo"
+          }
+        ], 
+        "name": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Buyandsell.gc.ca - Achatsetventes.gc.ca"
+          }
+        ], 
+        "uri_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://buyandsell.gc.ca"
+          }
+        ], 
+        "uri_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "https://achatsetventes.gc.ca"
+          }
+        ]
+      }, 
+      "uri": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-110259/001/ZH", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json"
+        }
+      ], 
+      "publishedDate": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-110259/001/ZH", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "2015-11-18T21:59:18Z"
+        }
+      ]
+    }, 
+    "initiationType": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-110259/001/ZH", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "tender"
+      }
+    ], 
+    "buyer": {
+      "id": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-110259/001/ZH", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "name": [
+        {
+          "releaseDate": "2015-10-29T17:47:12Z", 
+          "releaseID": "01948-110259/001/ZH", 
+          "releaseTag": [
+            "compiled"
+          ], 
+          "value": ""
+        }
+      ]
+    }, 
+    "version": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-110259/001/ZH", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "1.1"
+      }
+    ], 
+    "parties": [
+      {
+        "name_fr": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture et Agroalimentaire Canada"
+          }
+        ], 
+        "roles": [
+          [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "buyer"
+            }
+          ]
+        ], 
+        "address": {
+          "countryName": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Canada"
+            }
+          ], 
+          "postalCode": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "K1A0C6"
+            }
+          ], 
+          "region": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Ontario"
+            }
+          ], 
+          "streetAddress": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "BUILDING 74"
+            }
+          ], 
+          "locality": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "OTTAWA"
+            }
+          ]
+        }, 
+        "name_en": [
+          {
+            "releaseDate": "2015-10-29T17:47:12Z", 
+            "releaseID": "01948-110259/001/ZH", 
+            "releaseTag": [
+              "compiled"
+            ], 
+            "value": "Agriculture and Agri-Food Canada"
+          }
+        ], 
+        "identifier": {
+          "scheme": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "MISC-BUYANDSELLGCCA"
+            }
+          ], 
+          "legalName_en": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture and Agri-Food Canada"
+            }
+          ], 
+          "id": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "01"
+            }
+          ], 
+          "legalName_fr": [
+            {
+              "releaseDate": "2015-10-29T17:47:12Z", 
+              "releaseID": "01948-110259/001/ZH", 
+              "releaseTag": [
+                "compiled"
+              ], 
+              "value": "Agriculture et Agroalimentaire Canada"
+            }
+          ]
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "validationErrors": [
+      {
+        "releaseDate": "2015-10-29T17:47:12Z", 
+        "releaseID": "01948-110259/001/ZH", 
+        "releaseTag": [
+          "compiled"
+        ], 
+        "value": "properties/buyer/properties/name/minLength: '' is too short"
+      }
+    ]
+  }, 
+  "releases": [
+    {
+      "version": "1.1", 
+      "language": "en", 
+      "contracts": [
+        {
+          "status": "active", 
+          "amendment": {
+            "date": "2015-06-18", 
+            "rationale": "amendmentNumber: 000, awardDate: 2011-05-12, expiryDate: 2014-06-30, value: 4378356.00 | amendmentNumber: 001, awardDate: 2011-06-02, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 002, awardDate: 2014-06-26, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 003, awardDate: 2014-09-23, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 004, awardDate: 2015-06-18, expiryDate: 2014-06-30, value: 752430.00"
+          }, 
+          "items": [
+            {
+              "classification": {
+                "scheme": "GSIN", 
+                "id": "G009F"
+              }, 
+              "id": "G009F", 
+              "description_en": "Medical/Dental Laboratory Services", 
+              "description_fr": "Services de laboratoire m\u00e9dical, dentaire"
+            }
+          ], 
+          "title_en": "Medical/Dental Laboratory Services", 
+          "period": {
+            "startDate": "2011-05-12", 
+            "endDate": "2014-06-30"
+          }, 
+          "value": {
+            "currency": "CAD", 
+            "amount": 5130786
+          }, 
+          "title_fr": "Services de laboratoire m\u00e9dical, dentaire", 
+          "awardID": "01948-110259/001/ZH", 
+          "id": "01948-110259/001/ZH"
+        }
+      ], 
+      "ocid": "ocds-34a6hz-01948-110259/001/ZH", 
+      "packageInfo": {
+        "publisher": {
+          "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+          "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+          "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+          "uri_en": "https://buyandsell.gc.ca", 
+          "uri_fr": "https://achatsetventes.gc.ca"
+        }, 
+        "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+        "publishedDate": "2015-11-18T21:59:18Z"
+      }, 
+      "initiationType": "tender", 
+      "buyer": {
+        "id": "MISC-BUYANDSELLGCCA-01", 
+        "name": ""
+      }, 
+      "tag": [
+        "compiled"
+      ], 
+      "parties": [
+        {
+          "name_fr": "Agriculture et Agroalimentaire Canada", 
+          "roles": [
+            "buyer"
+          ], 
+          "address": {
+            "postalCode": "K1A0C6", 
+            "countryName": "Canada", 
+            "streetAddress": "BUILDING 74", 
+            "region": "Ontario", 
+            "locality": "OTTAWA"
+          }, 
+          "name_en": "Agriculture and Agri-Food Canada", 
+          "identifier": {
+            "scheme": "MISC-BUYANDSELLGCCA", 
+            "legalName_en": "Agriculture and Agri-Food Canada", 
+            "id": "01", 
+            "legalName_fr": "Agriculture et Agroalimentaire Canada"
+          }, 
+          "id": "MISC-BUYANDSELLGCCA-01"
+        }
+      ], 
+      "date": "2015-10-29T17:47:12Z", 
+      "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+      "id": "01948-110259/001/ZH"
+    }
+  ], 
+  "compiledRelease": {
+    "version": "1.1", 
+    "language": "en", 
+    "buyer": {
+      "id": "MISC-BUYANDSELLGCCA-01", 
+      "name": ""
+    }, 
+    "ocid": "ocds-34a6hz-01948-110259/001/ZH", 
+    "contracts": [
+      {
+        "status": "active", 
+        "amendment": {
+          "date": "2015-06-18", 
+          "rationale": "amendmentNumber: 000, awardDate: 2011-05-12, expiryDate: 2014-06-30, value: 4378356.00 | amendmentNumber: 001, awardDate: 2011-06-02, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 002, awardDate: 2014-06-26, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 003, awardDate: 2014-09-23, expiryDate: 2014-06-30, value: 0.00 | amendmentNumber: 004, awardDate: 2015-06-18, expiryDate: 2014-06-30, value: 752430.00"
+        }, 
+        "items": [
+          {
+            "classification": {
+              "scheme": "GSIN", 
+              "id": "G009F"
+            }, 
+            "id": "G009F", 
+            "description_en": "Medical/Dental Laboratory Services", 
+            "description_fr": "Services de laboratoire m\u00e9dical, dentaire"
+          }
+        ], 
+        "title_en": "Medical/Dental Laboratory Services", 
+        "period": {
+          "startDate": "2011-05-12", 
+          "endDate": "2014-06-30"
+        }, 
+        "value": {
+          "currency": "CAD", 
+          "amount": 5130786
+        }, 
+        "title_fr": "Services de laboratoire m\u00e9dical, dentaire", 
+        "awardID": "01948-110259/001/ZH", 
+        "id": "01948-110259/001/ZH"
+      }
+    ], 
+    "packageInfo": {
+      "publisher": {
+        "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data", 
+        "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo", 
+        "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca", 
+        "uri_en": "https://buyandsell.gc.ca", 
+        "uri_fr": "https://achatsetventes.gc.ca"
+      }, 
+      "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json", 
+      "publishedDate": "2015-11-18T21:59:18Z"
+    }, 
+    "initiationType": "tender", 
+    "validationErrors": "properties/buyer/properties/name/minLength: '' is too short", 
+    "tag": [
+      "compiled"
+    ], 
+    "parties": [
+      {
+        "name_fr": "Agriculture et Agroalimentaire Canada", 
+        "roles": [
+          "buyer"
+        ], 
+        "address": {
+          "countryName": "Canada", 
+          "postalCode": "K1A0C6", 
+          "region": "Ontario", 
+          "streetAddress": "BUILDING 74", 
+          "locality": "OTTAWA"
+        }, 
+        "name_en": "Agriculture and Agri-Food Canada", 
+        "identifier": {
+          "scheme": "MISC-BUYANDSELLGCCA", 
+          "legalName_en": "Agriculture and Agri-Food Canada", 
+          "id": "01", 
+          "legalName_fr": "Agriculture et Agroalimentaire Canada"
+        }, 
+        "id": "MISC-BUYANDSELLGCCA-01"
+      }
+    ], 
+    "date": "2015-10-29T17:47:12Z", 
+    "id": "01948-110259/001/ZH"
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "language": "uk",
+  "contracts": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "format": "text/plain",
+          "url": "https://public.docs.openprocurement.org/get/3fee78c386c447a99a49141d62a71ed7?Prefix=00000b82d15745548d9d5b70c0b439a9%2F06821d300a2040579d605d7345d4c6d8&KeyID=52462340&Signature=%252BhHBkOrCFALlDE0xGexLb57eU02%252BzJBg%2FpVickUMdbLP2aySPmIEBc5ge%252BKP8P4pEy1EX2YUqEPNbYaPrUZlAA%253D%253D",
+          "title": "Договір ПП ЯВА 69895,2.pdf",
+          "dateModified": "2016-09-22T10:36:08.681265+03:00",
+          "documentType": "contractSigned",
+          "datePublished": "2016-09-22T10:36:08.681242+03:00",
+          "id": "06821d300a2040579d605d7345d4c6d8"
+        }
+      ],
+      "description": "Ремонт розпочато",
+      "items": [
+        {
+          "relatedLot": "2318185a93a34f31b27941160847513e",
+          "description": "Ремонт, налагоджування контрольно-вимірювальних приладів автоматики регулювання та захисту, режимні випробування з оформленням карт, налагоджування ГРП, обстеження та ремонт димових каналів і боровів, оформлення актів на всі види робот.\nВід учасника : наявність ліцензії та дозволів обов'язкова,",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Послуги з ремонту і технічного обслуговування котлів",
+            "id": "50531100-7"
+          },
+          "additionalClassifications": [
+            {
+              "scheme": "ДКПП",
+              "description": "Частини котлів центрального опалення",
+              "id": "25.21.13"
+            }
+          ],
+          "deliveryAddress": {
+            "postalCode": "03680",
+            "countryName": "Україна",
+            "streetAddress": "вул. Желябова, 4",
+            "region": "Київська область",
+            "locality": "Київ"
+          },
+          "deliveryDate": {
+            "startDate": "2016-09-16T21:00:00+00:00",
+            "endDate": "2016-09-29T21:00:00+00:00"
+          },
+          "id": "e7f7f93b817748d5be92b59a66e0fd35",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "E11",
+            "name": "gigacalorie"
+          },
+          "quantity": 16
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "+380444836230",
+            "email": "budjava@ukr.net",
+            "name": "Дідух Андрій Петрович",
+            "faxNumber": "+380445003389"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "24581651",
+            "legalName": "ПП ЯВА"
+          },
+          "name": "ПП ЯВА",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "04112",
+            "region": "м. Київ",
+            "streetAddress": "вул.Дегтярівська,50",
+            "locality": "Київ"
+          }
+        }
+      ],
+      "contractNumber": "169",
+      "period": {
+        "endDate": "2016-12-30T22:00:00+00:00"
+      },
+      "dateSigned": "2016-10-04T11:53:33.360717+03:00",
+      "value": {
+        "currency": "UAH",
+        "amount": 69900.0,
+        "valueAddedTaxIncluded": true
+      },
+      "awardID": "fe82d10aafe749a585a289d88df60f46",
+      "id": "112767f3c7d04a869e0adf9d73f0b70d",
+      "contractID": "UA-2016-08-31-000670-b-c1"
+    }
+  ],
+  "ocid": "ocds-be6bcu-UA-2016-08-31-000670-b",
+  "bids": {
+    "details": [
+      {
+        "relatedLot": "2318185a93a34f31b27941160847513e",
+        "status": "active",
+        "documents": [
+          {
+            "documentScope": "tender",
+            "description": "SHA1: 78249bafdce5cc20fb83c9f9baef51b4e883d50f",
+            "format": "application/pdf",
+            "url": "https://public.docs.openprocurement.org/get/5078a743b2784ab9a2b0e7ea952f85a6?Prefix=00000b82d15745548d9d5b70c0b439a9%2F22040c34d67644599c38626c10d4324f&KeyID=52462340&Signature=fvAc6EI97ld79nEnz9zuOCKvoaACM73oLRGy%252Bep2gQqJOieJNHfMtmFsrmqZFWhw5mTLSR%252BOUV9Yyh25Z1OCBw%253D%253D",
+            "title": "Scanbot 12 сент. 2016 г. 14.06.pdf",
+            "dateModified": "2016-09-12T16:02:02.849437+03:00",
+            "datePublished": "2016-09-12T16:02:02.849415+03:00",
+            "id": "22040c34d67644599c38626c10d4324f"
+          }
+        ],
+        "value": {
+          "currency": "UAH",
+          "amount": 69900.0,
+          "valueAddedTaxIncluded": true
+        },
+        "tenderers": [
+          {
+            "contactPoint": {
+              "telephone": "+380444836230",
+              "email": "budjava@ukr.net",
+              "name": "Дідух Андрій Петрович",
+              "faxNumber": "+380445003389"
+            },
+            "identifier": {
+              "scheme": "UA-EDR",
+              "id": "24581651",
+              "legalName": "ПП ЯВА"
+            },
+            "name": "ПП ЯВА",
+            "address": {
+              "countryName": "Україна",
+              "postalCode": "04112",
+              "region": "м. Київ",
+              "streetAddress": "вул.Дегтярівська,50",
+              "locality": "Київ"
+            }
+          }
+        ],
+        "date": "2016-09-12T16:00:47.069238+03:00",
+        "id": "e7031f251e5e43f88df2c24973ffb7d6"
+      }
+    ]
+  },
+  "initiationType": "tender",
+  "date": "2016-11-04T23:44:10.254150+02:00",
+  "tag": [
+    "tender",
+    "award",
+    "contract",
+    "bid"
+  ],
+  "awards": [
+    {
+      "status": "active",
+      "documents": [
+        {
+          "documentScope": "tender",
+          "format": "text/plain",
+          "url": "https://public.docs.openprocurement.org/get/2b7abdc08a154e399fc9853adfcdf373?Prefix=00000b82d15745548d9d5b70c0b439a9%2F77dd804f92e547bd95aba733d72871bc&KeyID=52462340&Signature=%2F50pu6zzwJtvFDwYGEetePTH9pvj61C%2FcDJe23GbJQz24putZta67gPvkqZDaL03oSV%252BOM0drnqctv%252B4hwiWAA%253D%253D",
+          "title": "118 Rishennya_pro_vyznachennya_peremozhtsya.pdf",
+          "dateModified": "2016-09-15T15:33:22.465293+03:00",
+          "documentType": "awardNotice",
+          "datePublished": "2016-09-15T15:33:22.465255+03:00",
+          "id": "77dd804f92e547bd95aba733d72871bc"
+        }
+      ],
+      "complaintPeriod": {
+        "startDate": "2016-09-13T09:01:12.135782+03:00",
+        "endDate": "2016-09-19T15:34:14.941575+03:00"
+      },
+      "items": [
+        {
+          "relatedLot": "2318185a93a34f31b27941160847513e",
+          "description": "Ремонт, налагоджування контрольно-вимірювальних приладів автоматики регулювання та захисту, режимні випробування з оформленням карт, налагоджування ГРП, обстеження та ремонт димових каналів і боровів, оформлення актів на всі види робот.\nВід учасника : наявність ліцензії та дозволів обов'язкова,",
+          "classification": {
+            "scheme": "CPV",
+            "description": "Послуги з ремонту і технічного обслуговування котлів",
+            "id": "50531100-7"
+          },
+          "additionalClassifications": [
+            {
+              "scheme": "ДКПП",
+              "description": "Частини котлів центрального опалення",
+              "id": "25.21.13"
+            }
+          ],
+          "deliveryAddress": {
+            "postalCode": "03680",
+            "countryName": "Україна",
+            "streetAddress": "вул. Желябова, 4",
+            "region": "Київська область",
+            "locality": "Київ"
+          },
+          "deliveryDate": {
+            "startDate": "2016-09-16T21:00:00+00:00",
+            "endDate": "2016-09-29T21:00:00+00:00"
+          },
+          "id": "e7f7f93b817748d5be92b59a66e0fd35",
+          "unit": {
+            "scheme": "UNCEFACT",
+            "id": "E11",
+            "name": "gigacalorie"
+          },
+          "quantity": 16
+        }
+      ],
+      "suppliers": [
+        {
+          "contactPoint": {
+            "telephone": "+380444836230",
+            "email": "budjava@ukr.net",
+            "name": "Дідух Андрій Петрович",
+            "faxNumber": "+380445003389"
+          },
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "24581651",
+            "legalName": "ПП ЯВА"
+          },
+          "name": "ПП ЯВА",
+          "address": {
+            "countryName": "Україна",
+            "postalCode": "04112",
+            "region": "м. Київ",
+            "streetAddress": "вул.Дегтярівська,50",
+            "locality": "Київ"
+          }
+        }
+      ],
+      "value": {
+        "currency": "UAH",
+        "amount": 69900.0,
+        "valueAddedTaxIncluded": true
+      },
+      "lotID": "2318185a93a34f31b27941160847513e",
+      "date": "2016-09-15T15:34:14.946656+03:00",
+      "id": "fe82d10aafe749a585a289d88df60f46"
+    }
+  ],
+  "buyer": {
+    "contactPoint": {
+      "telephone": "380444561201",
+      "url": "http://kneu.edu.ua/",
+      "email": "tender01@kneu.kiev.ua",
+      "name": "Узунов Лев Олександрович",
+      "faxNumber": "371-61-72"
+    },
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "02070884",
+      "legalName": "Державний вищий навчальний заклад \" Київський національний економічний університет імені Вадима Гетьмана\""
+    },
+    "name": "Державний вищий навчальний заклад \" Київський національний економічний університет імені Вадима Гетьмана\"",
+    "address": {
+      "countryName": "Україна",
+      "postalCode": "03680",
+      "region": "Київська область",
+      "streetAddress": "проспект Перемоги, 54/1",
+      "locality": "Київ"
+    }
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "status": "complete",
+    "tenderPeriod": {
+      "startDate": "2016-09-05T14:00:00+00:00",
+      "endDate": "2016-09-13T06:00:00+00:00"
+    },
+    "documents": [
+      {
+        "documentScope": "lot",
+        "format": "text/plain",
+        "url": "https://public.docs.openprocurement.org/get/cb45851154794ef890b9d82c98cd40eb?Prefix=00000b82d15745548d9d5b70c0b439a9%2F446af70d65e0478697783cb34fceabbc&KeyID=52462340&Signature=QMpRfdo0Lei5Kz9bHf4PecPdkEZO3oTgK6YQATGM8IbDPY8keiMt8HuikRZwFb%252BFLpSFmgBXWIdNWPj43b6zDg%253D%253D",
+        "title": "002-Договір МТЗ послуги (зразок ).doc",
+        "dateModified": "2016-08-31T16:46:04.815981+03:00",
+        "relatedItem": "2318185a93a34f31b27941160847513e",
+        "documentType": "contractProforma",
+        "datePublished": "2016-08-31T16:46:04.815957+03:00",
+        "id": "446af70d65e0478697783cb34fceabbc"
+      },
+      {
+        "documentScope": "lot",
+        "format": "text/plain",
+        "url": "https://public.docs.openprocurement.org/get/8e1c6e40651a4f02b1460ad8c8af0fb6?Prefix=00000b82d15745548d9d5b70c0b439a9%2F93dbb0a8b4dd4f639cc88645578a67d9&KeyID=52462340&Signature=3kJtOms0XE%252B4i8ErfXUGP2QDo50ipxuXbv1R3QxKF86ZC8lkd8ixmTVHQV8ts2D%2F5kwWnHkExLwMfy6%252Boj67DQ%253D%253D",
+        "title": "Стислий опис предмету закупівлі.jpg",
+        "relatedItem": "2318185a93a34f31b27941160847513e",
+        "dateModified": "2016-08-31T16:47:18.290567+03:00",
+        "datePublished": "2016-08-31T16:47:18.290544+03:00",
+        "id": "93dbb0a8b4dd4f639cc88645578a67d9"
+      },
+      {
+        "documentScope": "lot",
+        "format": "text/plain",
+        "url": "https://public.docs.openprocurement.org/get/d546cb18ac2c4d40b6b2eab8953bf2f5?Prefix=00000b82d15745548d9d5b70c0b439a9%2F797fe1bb36a94513adf75009913327bc&KeyID=52462340&Signature=zWyZPu%252BR%252BgZmK3Vdvj1NyNRcXIZyUyhthEkDJNb1fPtc4Nrhs4lcMbCjs80EO%2FNBid83OFTQ%2FNayuDv%252BI8r0BA%253D%253D",
+        "title": "Вимоги до переможця.docx",
+        "dateModified": "2016-08-31T16:47:58.465138+03:00",
+        "relatedItem": "2318185a93a34f31b27941160847513e",
+        "documentType": "eligibilityCriteria",
+        "datePublished": "2016-08-31T16:47:58.465115+03:00",
+        "id": "797fe1bb36a94513adf75009913327bc"
+      }
+    ],
+    "awardPeriod": {
+      "startDate": "2016-09-13T09:01:12.135782+03:00",
+      "endDate": "2016-09-15T15:34:14.942144+03:00"
+    },
+    "description": "Ремонт, налагоджування контрольно-вимірювальних приладів автоматики регулювання та захисту, режимні випробування з оформленням карт, налагоджування ГРП, обстеження та ремонт димових каналів і боровів, оформлення актів на всі види робот.\nКотельня (газова): 16 Гкал/год\nВід учасника : наявність ліцензії та дозволів обов'язкова.",
+    "title": "Ремонт, налагоджування контрольно-вимірювальних приладів автоматики та обстеження димоходів в котельні університету за адресою вул. Желябова, 4, м. Київ",
+    "lots": [
+      {
+        "status": "complete",
+        "title": "Ремонт, налагоджування контрольно-вимірювальних приладів автоматики та обстеження димоходів в котельні університету за адресою вул. Желябова, 4, м. Київ",
+        "description": "Ремонт, налагоджування контрольно-вимірювальних приладів автоматики регулювання та захисту, режимні випробування з оформленням карт, налагоджування ГРП, обстеження та ремонт димових каналів і боровів, оформлення актів на всі види робот.\nКотельня (газова): 16 Гкал/год\nВід учасника : наявність ліцензії та дозволів обов'язкова.",
+        "value": {
+          "currency": "UAH",
+          "amount": 80000.0,
+          "valueAddedTaxIncluded": true
+        },
+        "id": "2318185a93a34f31b27941160847513e"
+      }
+    ],
+    "enquiryPeriod": {
+      "startDate": "2016-08-31T16:45:10.486630+03:00",
+      "endDate": "2016-09-05T14:00:00+00:00"
+    },
+    "tenderers": [
+      {
+        "contactPoint": {
+          "telephone": "+380444836230",
+          "email": "budjava@ukr.net",
+          "name": "Дідух Андрій Петрович",
+          "faxNumber": "+380445003389"
+        },
+        "identifier": {
+          "scheme": "UA-EDR",
+          "id": "24581651",
+          "legalName": "ПП ЯВА"
+        },
+        "name": "ПП ЯВА",
+        "address": {
+          "countryName": "Україна",
+          "postalCode": "04112",
+          "region": "м. Київ",
+          "streetAddress": "вул.Дегтярівська,50",
+          "locality": "Київ"
+        }
+      }
+    ],
+    "procurementMethodType": "belowThreshold",
+    "value": {
+      "currency": "UAH",
+      "amount": 80000.0,
+      "valueAddedTaxIncluded": true
+    },
+    "submissionMethod": [
+      "electronicAuction"
+    ],
+    "currentStage": "complete",
+    "tenderID": "UA-2016-08-31-000670-b",
+    "awardCriteria": "lowestCost",
+    "auctions": [
+      {
+        "minimalStep": {
+          "currency": "UAH",
+          "amount": 400.0,
+          "valueAddedTaxIncluded": true
+        },
+        "relatedLot": "2318185a93a34f31b27941160847513e"
+      },
+      {
+        "minimalStep": {
+          "currency": "UAH",
+          "amount": 400.0,
+          "valueAddedTaxIncluded": true
+        }
+      }
+    ],
+    "items": [
+      {
+        "relatedLot": "2318185a93a34f31b27941160847513e",
+        "description": "Ремонт, налагоджування контрольно-вимірювальних приладів автоматики регулювання та захисту, режимні випробування з оформленням карт, налагоджування ГРП, обстеження та ремонт димових каналів і боровів, оформлення актів на всі види робот.\nВід учасника : наявність ліцензії та дозволів обов'язкова,",
+        "classification": {
+          "scheme": "CPV",
+          "description": "Послуги з ремонту і технічного обслуговування котлів",
+          "id": "50531100-7"
+        },
+        "additionalClassifications": [
+          {
+            "scheme": "ДКПП",
+            "description": "Частини котлів центрального опалення",
+            "id": "25.21.13"
+          }
+        ],
+        "deliveryAddress": {
+          "postalCode": "03680",
+          "countryName": "Україна",
+          "streetAddress": "вул. Желябова, 4",
+          "region": "Київська область",
+          "locality": "Київ"
+        },
+        "deliveryDate": {
+          "startDate": "2016-09-16T21:00:00+00:00",
+          "endDate": "2016-09-29T21:00:00+00:00"
+        },
+        "id": "e7f7f93b817748d5be92b59a66e0fd35",
+        "unit": {
+          "scheme": "UNCEFACT",
+          "id": "E11",
+          "name": "gigacalorie"
+        },
+        "quantity": 16
+      }
+    ],
+    "id": "00000b82d15745548d9d5b70c0b439a9",
+    "numberOfTenderers": 1,
+    "procuringEntity": {
+      "contactPoint": {
+        "telephone": "380444561201",
+        "url": "http://kneu.edu.ua/",
+        "email": "tender01@kneu.kiev.ua",
+        "name": "Узунов Лев Олександрович",
+        "faxNumber": "371-61-72"
+      },
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "02070884",
+        "legalName": "Державний вищий навчальний заклад \" Київський національний економічний університет імені Вадима Гетьмана\""
+      },
+      "name": "Державний вищий навчальний заклад \" Київський національний економічний університет імені Вадима Гетьмана\"",
+      "address": {
+        "countryName": "Україна",
+        "postalCode": "03680",
+        "region": "Київська область",
+        "streetAddress": "проспект Перемоги, 54/1",
+        "locality": "Київ"
+      }
+    }
+  },
+  "id": "aad96fd497084a9b94c5cb582349ceb0",
+  "packageInfo": {
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    }
+  }
+}

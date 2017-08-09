@@ -1,0 +1,284 @@
+{
+  "ocid": "ocds-ngfbwp-17180016",
+  "id": "17180016",
+  "date": "2017-02-14T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "e136778b5dcc797d9cfe89628271813a",
+      "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "id": "3b188361e1e3120bb81b6d821cced2c5",
+      "name": "MOLDAN-SERVICE S.R.L.",
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "aee62aad7ccd01b62bc63c69f8238786",
+      "name": "\u00ce.C.S. EYECON MEDICAL S.R.L.",
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "17180016",
+    "title": "Tender Ref 17/00054 Bulletin 13",
+    "description": "",
+    "status": "Executarea contractului",
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Cerere a ofertelor de pre\u0163uri",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-02-14T00:00:00.000Z",
+      "endDate": "2017-02-22T11:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "e136778b5dcc797d9cfe89628271813a",
+      "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "awards": [
+    {
+      "id": "award-18741041",
+      "title": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+      "description": "",
+      "status": "",
+      "date": "",
+      "value": {
+        "amount": 144708,
+        "currency": "mdl"
+      },
+      "suppliers": [
+        {
+          "id": "3b188361e1e3120bb81b6d821cced2c5",
+          "name": "MOLDAN-SERVICE S.R.L."
+        }
+      ],
+      "items": [
+        {
+          "id": 48616,
+          "description": "",
+          "classification": {
+            "scheme": "CPV",
+            "id": "38420000-5",
+            "description": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor"
+          },
+          "quantity": "",
+          "unit": {
+            "name": "",
+            "value": {
+              "amount": "",
+              "currency": ""
+            }
+          }
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-03-30T00:00:00.000Z",
+        "endDate": "2017-12-30T00:00:00.000Z"
+      },
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ]
+    },
+    {
+      "id": "award-18741163",
+      "title": "Award for Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+      "description": "",
+      "status": "",
+      "date": "",
+      "value": {
+        "amount": 53922,
+        "currency": "mdl"
+      },
+      "suppliers": [
+        {
+          "id": "aee62aad7ccd01b62bc63c69f8238786",
+          "name": "\u00ce.C.S. EYECON MEDICAL S.R.L."
+        }
+      ],
+      "items": [
+        {
+          "id": 48616,
+          "description": "",
+          "classification": {
+            "scheme": "CPV",
+            "id": "38420000-5",
+            "description": "Instrumente de masurare a debitului, a nivelului si a presiunii lichidelor si gazelor"
+          },
+          "quantity": "",
+          "unit": {
+            "name": "",
+            "value": {
+              "amount": "",
+              "currency": ""
+            }
+          }
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-03-30T00:00:00.000Z",
+        "endDate": "2017-12-30T00:00:00.000Z"
+      },
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "18741041",
+      "awardID": "award-18741041",
+      "title": "17/00054/001 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+      "description": "",
+      "status": "\u00cenregistrat(\u0103)",
+      "period": {
+        "startDate": "2017-03-30T00:00:00.000Z",
+        "endDate": "2017-12-30T00:00:00.000Z"
+      },
+      "value": {
+        "amount": 144708,
+        "currency": "mdl"
+      },
+      "dateSigned": "2017-03-30T00:00:00.000Z",
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ],
+      "amendment": {
+        "changes": []
+      },
+      "implementation": {
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "18741163",
+      "awardID": "award-18741163",
+      "title": "17/00054/002 Piese pentru generatorul de Oxigen \u201dInmatec\u201d IMT-PO 3450 0V",
+      "description": "",
+      "status": "\u00cenregistrat(\u0103)",
+      "period": {
+        "startDate": "2017-03-30T00:00:00.000Z",
+        "endDate": "2017-12-30T00:00:00.000Z"
+      },
+      "value": {
+        "amount": 53922,
+        "currency": "mdl"
+      },
+      "dateSigned": "2017-03-30T00:00:00.000Z",
+      "documents": [
+        {
+          "id": "",
+          "title": "",
+          "url": "",
+          "datePublished": ""
+        }
+      ],
+      "amendment": {
+        "changes": []
+      },
+      "implementation": {
+        "documents": [
+          {
+            "id": "",
+            "title": "",
+            "url": "",
+            "datePublished": ""
+          }
+        ]
+      }
+    }
+  ],
+  "buyer": {
+    "id": "e136778b5dcc797d9cfe89628271813a",
+    "name": "I.M.S.P. INSTITUTUL MAMEI \u015eI COPILULUI"
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Executarea contractului' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}

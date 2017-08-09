@@ -1,0 +1,90 @@
+{
+  "ocid": "ocds-k50g02-16-13-5282714",
+  "id": "58125c22d3ff2f009b53ed98",
+  "date": "2016-06-30T15:39:51.000000Z",
+  "language": "es",
+  "tag": [
+    "awardCancellation"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "NIT",
+        "legalName": "BOGOT\u00c1 D.C. - INSTITUTO DISTRITAL DE PARTICIPACION Y ACCION COMUNAL"
+      },
+      "name": "BOGOT\u00c1 D.C. - INSTITUTO DISTRITAL DE PARTICIPACION Y ACCION COMUNAL",
+      "address": {
+        "countryName": "Colombia",
+        "region": "Bogot\u00e1 D.C.",
+        "locality": "Bogot\u00e1 D.C."
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "367a4892c83f9588662fc411bac60d07"
+    }
+  ],
+  "num_constancia": "16-13-5282714",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=16-13-5282714",
+  "publishedDate": "2016-07-05T16:23:37.000000Z",
+  "planning": {
+    "ocid": "ocds-k50g02-16-13-5282714",
+    "information_system": "SECOP I",
+    "budget": {
+      "source": "http://www.minhacienda.gov.co/HomeMinhacienda/siif",
+      "amount": {
+        "currency": "COP",
+        "amount": 6996955.0
+      },
+      "id": " 435 ",
+      "description": "  CDP"
+    },
+    "id": "16-13-5282714"
+  },
+  "tender": {
+    "id": "16-13-5282714",
+    "ocid": "ocds-k50g02-16-13-5282714",
+    "procurementMethod": "open",
+    "title": "IDPAC-IP-MC-016-2016",
+    "description": "SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS EQUIPOS ACTIVOS DE RED DE DATOS Y DE SISTEMA DE RED INAL\u00c1MBRICO WIFI EN LAS SEDES DEL INSTITUTO DISTRITAL DE LA PARTICIPACI\u00d3N Y ACCI\u00d3N COMUNAL.",
+    "enquiryPeriod": {},
+    "value": {
+      "currency": "COP",
+      "amount": 6996955.0
+    },
+    "status": "unsuccessful",
+    "items": [
+      {
+        "id": 831217,
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Servicios de comunicaci\u00f3n masiva",
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios"
+        },
+        "description": "Servicios de comunicaci\u00f3n masiva"
+      }
+    ],
+    "submissionMethod": [
+      "written"
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-06-30T15:30:00.000000Z",
+      "endDate": "2016-07-05T00:00:00.000000Z"
+    }
+  },
+  "buyer": {
+    "id": "367a4892c83f9588662fc411bac60d07",
+    "name": "BOGOT\u00c1 D.C. - INSTITUTO DISTRITAL DE PARTICIPACION Y ACCION COMUNAL"
+  },
+  "procurement_type": "Contrataci\u00f3n M\u00ednima Cuant\u00eda",
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": null,
+    "publisher": {
+      "name": "Colombia Compra",
+      "uri": "https://www.colombiacompra.gov.co/"
+    }
+  },
+  "version": "1.1"
+}

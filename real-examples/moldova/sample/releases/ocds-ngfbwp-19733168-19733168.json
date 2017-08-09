@@ -1,0 +1,112 @@
+{
+  "ocid": "ocds-ngfbwp-19733168",
+  "id": "19733168",
+  "date": "2017-06-16T00:00:00.000Z",
+  "language": "md",
+  "tag": [
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "id": "9c4cc5d0c8d262d645e86fa9ed50b3fe",
+      "name": "\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0438 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0413\u0430\u0433\u0430\u0443\u0437\u0438\u0438",
+      "roles": [
+        "buyer",
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+      "name": "",
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "tender": {
+    "id": "19733168",
+    "title": "Tender Ref 17/01736 Bulletin 48",
+    "description": "",
+    "status": "Primirea ofertelor",
+    "items": [
+      {
+        "id": 20016858,
+        "description": "\u041a\u0430\u043f\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043c\u043e\u043d\u0442 \u043a\u0440\u044b\u0448\u0438 \u0414\u043e\u043c\u0430 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0441.\u041a\u0430\u0437\u0430\u043a\u043b\u0438\u044f, \u0427\u0430\u0434\u044b\u0440-\u041b\u0443\u043d\u0433\u0441\u043a\u0438\u0439 \u0440-\u043d null",
+        "classification": {
+          "scheme": "CPV",
+          "id": "45261000-4",
+          "description": "Lucrari de sarpanta si de invelitori si lucrari conexe"
+        },
+        "additionalClassifications": [],
+        "quantity": 1,
+        "unit": {
+          "name": "Metru p\u0103trat"
+        }
+      }
+    ],
+    "value": {
+      "amount": "",
+      "currency": ""
+    },
+    "procurementMethod": "Licita\u0163ie public\u0103",
+    "procurementMethodRationale": "",
+    "awardCriteria": "",
+    "awardCriteriaDetails": "",
+    "submissionMethod": [
+      "written"
+    ],
+    "submissionMethodDetails": "",
+    "tenderPeriod": {
+      "startDate": "2017-06-16T00:00:00.000Z",
+      "endDate": "2017-07-07T10:00:00.000Z"
+    },
+    "eligibilityCriteria": "",
+    "numberOfTenders": "",
+    "tenderers": [
+      {
+        "id": "8d97cc040a6218bd4f90bf8d938b46ca",
+        "name": ""
+      }
+    ],
+    "procuringEntity": {
+      "id": "9c4cc5d0c8d262d645e86fa9ed50b3fe",
+      "name": "\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0438 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0413\u0430\u0433\u0430\u0443\u0437\u0438\u0438"
+    },
+    "documents": [
+      {
+        "id": "",
+        "title": "",
+        "url": "",
+        "datePublished": "",
+        "format": ""
+      }
+    ],
+    "milestones": [
+      {
+        "documents": {}
+      }
+    ],
+    "amendment": {
+      "changes": {}
+    }
+  },
+  "buyer": {
+    "id": "9c4cc5d0c8d262d645e86fa9ed50b3fe",
+    "name": "\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0438 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0413\u0430\u0433\u0430\u0443\u0437\u0438\u0438"
+  },
+  "packageInfo": {
+    "uri": "http://moldova-demo.yipl.com.np/ocds-api/year/2017",
+    "publishedDate": "2016-11-07T00:00:00.00Z",
+    "publisher": {
+      "scheme": null,
+      "name": "Public Procurement Agency",
+      "uri": "https://tender.gov.md",
+      "uid": null
+    }
+  },
+  "version": "1.1",
+  "validationErrors": "properties/tender/properties/status/enum: 'Primirea ofertelor' is not one of ['planned', 'active', 'cancelled', 'unsuccessful', 'complete', None]"
+}

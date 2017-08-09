@@ -1,17 +1,11 @@
 Canada > BuyAndSell.gc.ca
 ==============================
 
-Public Works and Government Services Canada (PWGSC) ran an early Open Contracting Data Standard (OCDS) Pilot generating bulk exports of data which are available at https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot
+Public Works and Government Services Canada (PWGSC) ran an early Open Contracting Data Standard (OCDS) Pilot generating bulk exports of data, which are available at https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot
 
-### Known issues
+There were 36,164 available releases as of 2017/06/29.
 
-Tender and award information may be split across the download file for different years. 
+Currently the releases all fail validation with:
 
-## Write a scraper!
-
-Could you write a simple python scraper that will:
-
-* Fetch 100 example releases or records;
-* Fetch the latest version of the full dataset;
-
-If so - we want your help. See [this post](https://groups.google.com/a/open-contracting.org/forum/#!topic/standard-discuss/HtSYpbH5QGY). 
+    Problem validating sample/releases/ocds-34a6hz-01B68-160000_001_CY-01B68-160000_001_CY.json
+    properties/buyer/properties/name/minLength: '' is too short

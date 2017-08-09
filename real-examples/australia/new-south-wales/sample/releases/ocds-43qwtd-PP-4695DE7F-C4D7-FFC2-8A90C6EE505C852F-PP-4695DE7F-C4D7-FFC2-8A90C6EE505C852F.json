@@ -1,0 +1,70 @@
+{
+  "ocid": "ocds-43qwtd-PP-4695DE7F-C4D7-FFC2-8A90C6EE505C852F",
+  "id": "PP-4695DE7F-C4D7-FFC2-8A90C6EE505C852F",
+  "date": "2017-07-03T06:06:53Z",
+  "language": "EN",
+  "tag": [
+    "planning"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "contactPoint": {
+        "telephone": " 1300 132 136",
+        "email": "tss.procurement@transport.nsw.gov.au",
+        "name": "TSS Procurement Service Desk"
+      },
+      "name": "Transport NSW - Corporate",
+      "roles": [
+        "buyer"
+      ],
+      "id": "6e922bf0dd102005d307638f310e6b8b"
+    }
+  ],
+  "tender": {
+    "status": "planned",
+    "PPstatus": "Amended",
+    "description": "Accredited Signal Electricians, Mechanical Sectioners and Rail Bond Welders",
+    "estimatedDateToMarket": "Quarter 4 2017/2018",
+    "amendment": {
+      "date": "2017-07-03T06:06:53Z",
+      "rationale": "Updated Category Code",
+      "changes": [
+        {
+          "property": "items.classification.id",
+          "former_value": 80000000
+        },
+        {
+          "property": "items.classification.description",
+          "former_value": "Management and Business Professionals and Administrative Services"
+        }
+      ]
+    },
+    "id": "2018TfNSW65",
+    "items": [
+      {
+        "classification": {
+          "scheme": "UNSPSC",
+          "description": "Events management",
+          "id": " 80141607"
+        },
+        "id": " 80141607"
+      }
+    ],
+    "multiAgencyAccess": false,
+    "plannedProcurementUUID": "4695DE7F-C4D7-FFC2-8A90C6EE505C852F"
+  },
+  "buyer": {
+    "id": "6e922bf0dd102005d307638f310e6b8b",
+    "name": "Transport NSW - Corporate"
+  },
+  "packageInfo": {
+    "uri": null,
+    "publishedDate": "2017-07-03T12:27:06Z",
+    "publisher": {
+      "uri": "https://tenders.nsw.gov.au",
+      "name": "NSW office of Procurement - eTendering"
+    }
+  },
+  "version": "1.1"
+}

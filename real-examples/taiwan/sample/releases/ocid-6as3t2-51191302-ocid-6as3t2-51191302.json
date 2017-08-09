@@ -1,0 +1,193 @@
+{
+  "tag": "awardNotice",
+  "name": "103學年度高三校外教學參觀委辦案",
+  "date": "2014-02-25",
+  "ocid": "ocid-6as3t2-51191302",
+  "buyer": {
+    "identifier": {
+      "id": "3.92.3.4",
+      "legalName": "國立沙鹿高級工業職業學校"
+    },
+    "id": "ocid-6as3t2-51191302-buyer"
+  },
+  "tender": {
+    "id": "ocid-6as3t2-51191302-tender",
+    "identifier": {
+      "id": "3.92.3.4",
+      "legalName": "國立沙鹿高級工業職業學校"
+    },
+    "procurementMethod": "限制性招標(經公開評選或公開徵求)",
+    "tenderers": [
+      {
+        "identifier": {
+          "id": "54239206",
+          "legalName": "采登旅行社有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 1
+      },
+      {
+        "identifier": {
+          "id": "24254398",
+          "legalName": "平安歸旅行社有限公司"
+        },
+        "organizationType": "公司登記",
+        "number": 2
+      }
+    ],
+    "tederPeriod": {
+      "startDate": "2014-02-07",
+      "endDate": "2014-02-21",
+      "announceTimes": "01"
+    },
+    "numberOfBids": 2,
+    "processMethod": "自辦",
+    "deliveryAddress": {
+      "addresses": [
+        {
+          "region": "臺中市",
+          "locality": "沙鹿區"
+        }
+      ],
+      "aboriginalRegion": false
+    },
+    "executingEntity": {
+      "identifier": {
+        "id": "3.92.3.4",
+        "legalName": "國立沙鹿高級工業職業學校"
+      }
+    },
+    "deliveryLocation": [
+      {
+        "description": "臺中市, 沙鹿區"
+      }
+    ],
+    "procuringEntity": {
+      "identifier": {
+        "id": "3.92.3.4",
+        "legalName": "國立沙鹿高級工業職業學校"
+      }
+    },
+    "budget": {
+      "value": {
+        "amount": 2943850,
+        "currency": "TWD"
+      }
+    },
+    "awardCriteria": "準用最有利標",
+    "procurementAmountRange": "公告金額以上未達查核金額",
+    "items": [
+      {
+        "classification": {
+          "id": "641",
+          "description": "<勞務類>, 旅館及其他住宿服務",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ]
+  },
+  "awards": {
+    "awardAnnounceDate": "2014-02-25",
+    "awardDate": "2014-02-21",
+    "id": "ocid-6as3t2-51191302-awards",
+    "awardCriteria": "準用最有利標",
+    "totalAwardValue": {
+      "amount": 2911500,
+      "currency": "TWD"
+    },
+    "items": [
+      {
+        "withoutTenderer": [
+          {
+            "identifier": {
+              "legalName": null
+            },
+            "bidAmount": 2924440,
+            "failReason": "資格、規格合於招標文件但非最有利標或最優勝廠商",
+            "number": 1
+          }
+        ],
+        "classification": {
+          "id": "641",
+          "description": "<勞務類>, 旅館及其他住宿服務",
+          "scheme": "CPC"
+        },
+        "suppliers": [
+          {
+            "address": {
+              "region": "臺中市",
+              "postalCode": "404",
+              "locality": "北區",
+              "streetAddress": "博館路87號4樓"
+            },
+            "awardValue": {
+              "amount": 2911500,
+              "currency": "TWD"
+            },
+            "quantity": 647,
+            "employeeExceedOneHundred": false,
+            "number": 1,
+            "identifier": {
+              "id": "54239206",
+              "legalName": "采登旅行社有限公司"
+            },
+            "minValue": {
+              "amount": 2911500,
+              "currency": "TWD"
+            },
+            "contractPeriod": {
+              "startDate": "2014-10-01",
+              "endDate": "2014-10-03"
+            },
+            "organizationType": "公司登記",
+            "sme": "是"
+          }
+        ],
+        "number": 1
+      }
+    ]
+  },
+  "language": "zh",
+  "committee": {
+    "id": "ocid-6as3t2-51191302-committee",
+    "member": [
+      {
+        "name": "葉宗哲",
+        "number": 1,
+        "profession": "進修學校主任",
+        "attend": true
+      },
+      {
+        "name": "林秋東",
+        "number": 2,
+        "profession": "學務主任",
+        "attend": true
+      },
+      {
+        "name": "王志宏",
+        "number": 3,
+        "profession": "國立臺中教育大學副教授",
+        "attend": true
+      },
+      {
+        "name": "洪麗美",
+        "number": 4,
+        "profession": "弘光科技大學助理教授",
+        "attend": true
+      },
+      {
+        "name": "張峻嘉",
+        "number": 5,
+        "profession": "私立亞洲大學助理教授",
+        "attend": true
+      }
+    ]
+  },
+  "id": "ocid-6as3t2-51191302",
+  "packageInfo": {
+    "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
+    "publishedDate": "2015-12-01",
+    "publisher": "DSP,Inc."
+  }
+}

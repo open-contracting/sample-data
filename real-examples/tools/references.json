@@ -1,0 +1,4442 @@
+{
+  "Amendment": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "amendsReleaseID", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "releaseID", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "rationale", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "date", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "property", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "former_value", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "changes", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Amendment", 
+    "mode": "nullable"
+  }, 
+  "Award": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "status", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "amendsReleaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "releaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "rationale", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "date", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "property", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "former_value", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "changes", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amendment", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "amendsReleaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "releaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "rationale", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "date", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "property", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "former_value", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "changes", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amendments", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "language", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "format", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "datePublished", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "documentType", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "documents", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "title", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "classification", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalClassifications", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "currency", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "float", 
+                    "name": "amount", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "value", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "unit", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "quantity", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "items", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalIdentifiers", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "postalCode", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "countryName", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "streetAddress", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "region", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "locality", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "address", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "telephone", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "faxNumber", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "email", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "contactPoint", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "identifier", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "suppliers", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "currency", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "amount", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "value", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "date", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "timestamp", 
+            "name": "startDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "endDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "integer", 
+            "name": "durationInDays", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "maxExtentDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "contractPeriod", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Award", 
+    "mode": "nullable"
+  }, 
+  "Transaction": {
+    "fields": [
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "legalName", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "receiverOrganization", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalIdentifiers", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "postalCode", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "countryName", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "streetAddress", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "region", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "locality", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "address", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "telephone", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "faxNumber", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "email", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "contactPoint", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "identifier", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "payer", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalIdentifiers", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "postalCode", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "countryName", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "streetAddress", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "region", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "locality", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "address", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "telephone", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "faxNumber", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "email", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "contactPoint", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "identifier", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "payee", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "uri", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "currency", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "amount", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "value", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "legalName", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "providerOrganization", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "source", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "currency", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "amount", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amount", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "date", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Transaction", 
+    "mode": "nullable"
+  }, 
+  "Classification": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "scheme", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "uri", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Classification", 
+    "mode": "nullable"
+  }, 
+  "OrganizationReference": {
+    "fields": [
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "legalName", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "additionalIdentifiers", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "name", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "postalCode", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "countryName", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "streetAddress", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "region", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "locality", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "address", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "telephone", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "faxNumber", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "email", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "contactPoint", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "legalName", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "identifier", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "OrganizationReference", 
+    "mode": "nullable"
+  }, 
+  "Implementation": {
+    "fields": [
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "status", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "code", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "language", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "title", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "format", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "datePublished", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "documentType", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dateModified", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "documents", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateMet", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "type", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dueDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "milestones", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "language", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "format", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "datePublished", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "documentType", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "documents", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "receiverOrganization", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "scheme", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "uri", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "legalName", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "additionalIdentifiers", 
+                "mode": "repeated"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "postalCode", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "countryName", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "streetAddress", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "region", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "locality", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "address", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "telephone", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "url", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "faxNumber", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "name", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "email", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "contactPoint", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "scheme", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "uri", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "legalName", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "identifier", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "payer", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "scheme", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "uri", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "legalName", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "additionalIdentifiers", 
+                "mode": "repeated"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "postalCode", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "countryName", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "streetAddress", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "region", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "locality", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "address", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "telephone", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "url", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "faxNumber", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "name", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "email", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "contactPoint", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "scheme", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "uri", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "legalName", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "identifier", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "payee", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "currency", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "float", 
+                "name": "amount", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "value", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "providerOrganization", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "source", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "currency", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "float", 
+                "name": "amount", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "amount", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "date", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "transactions", 
+        "mode": "repeated"
+      }
+    ], 
+    "type": "record", 
+    "name": "Implementation", 
+    "mode": "nullable"
+  }, 
+  "Milestone": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "status", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "dateModified", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "code", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "title", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "language", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "format", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "datePublished", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "documentType", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "documents", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "dateMet", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "type", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "dueDate", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Milestone", 
+    "mode": "nullable"
+  }, 
+  "Period": {
+    "fields": [
+      {
+        "type": "timestamp", 
+        "name": "startDate", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "endDate", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "integer", 
+        "name": "durationInDays", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "maxExtentDate", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Period", 
+    "mode": "nullable"
+  }, 
+  "Value": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "currency", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "float", 
+        "name": "amount", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Value", 
+    "mode": "nullable"
+  }, 
+  "Budget": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "projectID", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "uri", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "project", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "source", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "currency", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "amount", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amount", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Budget", 
+    "mode": "nullable"
+  }, 
+  "Document": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "language", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "title", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "url", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "format", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "datePublished", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "documentType", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "dateModified", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Document", 
+    "mode": "nullable"
+  }, 
+  "Item": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "classification", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "additionalClassifications", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "currency", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "float", 
+                "name": "amount", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "value", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "unit", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "float", 
+        "name": "quantity", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Item", 
+    "mode": "nullable"
+  }, 
+  "Planning": {
+    "fields": [
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "language", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "format", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "datePublished", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "documentType", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "documents", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "projectID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "project", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "source", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "currency", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "float", 
+                "name": "amount", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "amount", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "budget", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "rationale", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "status", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "code", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "language", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "title", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "format", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "datePublished", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "documentType", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dateModified", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "documents", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateMet", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "type", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dueDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "milestones", 
+        "mode": "repeated"
+      }
+    ], 
+    "type": "record", 
+    "name": "Planning", 
+    "mode": "nullable"
+  }, 
+  "Contract": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "status", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "amendsReleaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "releaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "rationale", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "date", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "property", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "former_value", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "changes", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amendment", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "amendsReleaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "releaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "rationale", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "date", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "property", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "former_value", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "changes", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amendments", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "language", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "format", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "datePublished", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "documentType", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "documents", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "title", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "status", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dateModified", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "code", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "title", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "description", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "language", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "title", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "url", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "format", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "timestamp", 
+                    "name": "datePublished", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "documentType", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "timestamp", 
+                    "name": "dateModified", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "documents", 
+                "mode": "repeated"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dateMet", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "type", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dueDate", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "milestones", 
+            "mode": "repeated"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "language", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "title", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "format", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "datePublished", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "documentType", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dateModified", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "documents", 
+            "mode": "repeated"
+          }, 
+          {
+            "fields": [
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "scheme", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "uri", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "legalName", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "receiverOrganization", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "scheme", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "id", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "uri", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "legalName", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "additionalIdentifiers", 
+                    "mode": "repeated"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "name", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "postalCode", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "countryName", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "streetAddress", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "region", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "locality", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "address", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "telephone", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "url", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "faxNumber", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "name", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "email", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "contactPoint", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "scheme", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "id", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "uri", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "legalName", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "identifier", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "payer", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "scheme", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "id", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "uri", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "legalName", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "additionalIdentifiers", 
+                    "mode": "repeated"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "name", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "postalCode", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "countryName", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "streetAddress", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "region", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "locality", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "address", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "telephone", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "url", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "faxNumber", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "name", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "email", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "contactPoint", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "fields": [
+                      {
+                        "type": "string", 
+                        "name": "scheme", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "id", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "uri", 
+                        "mode": "nullable"
+                      }, 
+                      {
+                        "type": "string", 
+                        "name": "legalName", 
+                        "mode": "nullable"
+                      }
+                    ], 
+                    "type": "record", 
+                    "name": "identifier", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "payee", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "currency", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "float", 
+                    "name": "amount", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "value", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "scheme", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "id", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "uri", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "string", 
+                    "name": "legalName", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "providerOrganization", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "source", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "currency", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "float", 
+                    "name": "amount", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "amount", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "date", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "transactions", 
+            "mode": "repeated"
+          }
+        ], 
+        "type": "record", 
+        "name": "implementation", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "classification", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalClassifications", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "currency", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "float", 
+                    "name": "amount", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "value", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "unit", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "quantity", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "items", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "timestamp", 
+            "name": "startDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "endDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "integer", 
+            "name": "durationInDays", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "maxExtentDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "period", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "currency", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "amount", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "value", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "status", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "code", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "language", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "title", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "format", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "datePublished", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "documentType", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dateModified", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "documents", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateMet", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "type", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dueDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "milestones", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "timestamp", 
+        "name": "dateSigned", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "awardID", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "relationship", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "identifier", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "relatedProcesses", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Contract", 
+    "mode": "nullable"
+  }, 
+  "Address": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "postalCode", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "countryName", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "streetAddress", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "region", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "locality", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Address", 
+    "mode": "nullable"
+  }, 
+  "Tender": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "procurementMethod", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "amendsReleaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "releaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "rationale", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "date", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "property", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "former_value", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "changes", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amendment", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "timestamp", 
+            "name": "startDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "endDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "integer", 
+            "name": "durationInDays", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "maxExtentDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "awardPeriod", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "mainProcurementCategory", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "timestamp", 
+            "name": "startDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "endDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "integer", 
+            "name": "durationInDays", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "maxExtentDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "enquiryPeriod", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "currency", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "amount", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "minValue", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "integer", 
+        "name": "numberOfTenderers", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "currency", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "amount", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "value", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalIdentifiers", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "postalCode", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "countryName", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "streetAddress", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "region", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "locality", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "address", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "telephone", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "faxNumber", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "email", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "contactPoint", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "identifier", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "tenderers", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "description", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "amendsReleaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "releaseID", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "rationale", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "date", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "property", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "former_value", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "changes", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "amendments", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "language", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "format", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "datePublished", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "documentType", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "documents", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "title", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "awardCriteria", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "procurementMethodRationale", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "timestamp", 
+            "name": "startDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "endDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "integer", 
+            "name": "durationInDays", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "maxExtentDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "contractPeriod", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "status", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "eligibilityCriteria", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "timestamp", 
+            "name": "startDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "endDate", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "integer", 
+            "name": "durationInDays", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "maxExtentDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "tenderPeriod", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "procurementMethodDetails", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": [
+          "string", 
+          "null"
+        ], 
+        "name": "additionalProcurementCategories", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "submissionMethod", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "status", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateModified", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "code", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "title", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "language", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "title", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "format", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "datePublished", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "documentType", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "timestamp", 
+                "name": "dateModified", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "documents", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dateMet", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "type", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "timestamp", 
+            "name": "dueDate", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "milestones", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "submissionMethodDetails", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "description", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "classification", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "description", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalClassifications", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "fields": [
+                  {
+                    "type": "string", 
+                    "name": "currency", 
+                    "mode": "nullable"
+                  }, 
+                  {
+                    "type": "float", 
+                    "name": "amount", 
+                    "mode": "nullable"
+                  }
+                ], 
+                "type": "record", 
+                "name": "value", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "unit", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "float", 
+            "name": "quantity", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "items", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "awardCriteriaDetails", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "boolean", 
+        "name": "hasEnquiries", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "additionalIdentifiers", 
+            "mode": "repeated"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "postalCode", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "countryName", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "streetAddress", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "region", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "locality", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "address", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "telephone", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "url", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "faxNumber", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "name", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "email", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "contactPoint", 
+            "mode": "nullable"
+          }, 
+          {
+            "fields": [
+              {
+                "type": "string", 
+                "name": "scheme", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "id", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "uri", 
+                "mode": "nullable"
+              }, 
+              {
+                "type": "string", 
+                "name": "legalName", 
+                "mode": "nullable"
+              }
+            ], 
+            "type": "record", 
+            "name": "identifier", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "procuringEntity", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Tender", 
+    "mode": "nullable"
+  }, 
+  "Organization": {
+    "fields": [
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "legalName", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "additionalIdentifiers", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "name", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "roles", 
+        "mode": "repeated"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "postalCode", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "countryName", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "streetAddress", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "region", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "locality", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "address", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "telephone", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "url", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "faxNumber", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "name", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "email", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "contactPoint", 
+        "mode": "nullable"
+      }, 
+      {
+        "fields": [
+          {
+            "type": "string", 
+            "name": "scheme", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "id", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "uri", 
+            "mode": "nullable"
+          }, 
+          {
+            "type": "string", 
+            "name": "legalName", 
+            "mode": "nullable"
+          }
+        ], 
+        "type": "record", 
+        "name": "identifier", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Organization", 
+    "mode": "nullable"
+  }, 
+  "ContactPoint": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "telephone", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "url", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "faxNumber", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "name", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "email", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "ContactPoint", 
+    "mode": "nullable"
+  }, 
+  "Identifier": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "scheme", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "uri", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "legalName", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "Identifier", 
+    "mode": "nullable"
+  }, 
+  "RelatedProcess": {
+    "fields": [
+      {
+        "type": "string", 
+        "name": "scheme", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "relationship", 
+        "mode": "repeated"
+      }, 
+      {
+        "type": "string", 
+        "name": "title", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "uri", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "identifier", 
+        "mode": "nullable"
+      }, 
+      {
+        "type": "string", 
+        "name": "id", 
+        "mode": "nullable"
+      }
+    ], 
+    "type": "record", 
+    "name": "RelatedProcess", 
+    "mode": "nullable"
+  }
+}

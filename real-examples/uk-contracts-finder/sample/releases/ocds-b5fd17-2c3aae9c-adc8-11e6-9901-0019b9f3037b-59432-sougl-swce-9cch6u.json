@@ -1,0 +1,112 @@
+{
+  "ocid": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b",
+  "id": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b-59432-sougl-swce-9cch6u",
+  "date": "2014-12-17T16:44:58Z",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "",
+        "id": "",
+        "legalName": null,
+        "uri": null
+      },
+      "name": "Spend Network",
+      "address": {
+        "streetAddress": "Civic CentreHigh Street KingswoodBristolAvon ",
+        "locality": "",
+        "region": null,
+        "postalCode": "BS15 9TR",
+        "countryName": "United Kingdom"
+      },
+      "contactPoint": {
+        "name": "Ms Janice Llewellyn",
+        "email": "janice.llewellyn@southglos.gov.uk",
+        "telephone": "",
+        "faxNumber": null
+      },
+      "roles": [
+        "buyer"
+      ],
+      "id": "fc5aeb90c231da2210f5071852d4c8d1"
+    }
+  ],
+  "tender": {
+    "id": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b-sougl-swce-9cch6u",
+    "title": " Framework for Provision of Community Based Services",
+    "description": " South Gloucestershire Council is establishing a newCommunity Based Support Services Framework from which to commission care and support services for service users in South Gloucestershire. The new Framework will include the provision of domiciliary care, supported living and live-in care and support to access the community for social, leisure and vocational activities.\r\nThe New Framework will commence on 1st February 2014 and the Council intends to commission all Community Based Support Services from Organisations within the Framework from this date. \r\nThe Framework will close to new applications on 31st December 2014.All applications received before this date will be processed.\r\nThe Council intends to reopen the Framework for new applications from 1st May to 31st July annually for the remainder of the framework term.",
+    "status": "active",
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "85000000",
+          "description": "Health and social work services",
+          "uri": "http://cpv.data.ac.uk/code-85000000.html"
+        }
+      },
+      {
+        "id": 2,
+        "description": "See description of related tender.",
+        "classification": {
+          "scheme": "CPV",
+          "id": "98000000",
+          "description": "Other community, social and personal services",
+          "uri": "http://cpv.data.ac.uk/code-98000000.html"
+        }
+      }
+    ],
+    "minValue": {
+      "amount": 9432500,
+      "currency": "GBP"
+    },
+    "value": {
+      "amount": 24477500,
+      "currency": "GBP"
+    },
+    "procurementMethod": null,
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "awardCriteriaDetails": null,
+    "submissionMethod": null,
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "tenderPeriod": {
+      "startDate": "2014-12-17T16:44:58Z",
+      "endDate": "2018-01-31T00:00:00Z"
+    },
+    "hasEnquiries": null,
+    "eligibilityCriteria": null,
+    "milestones": [
+      {
+        "id": 1,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2014-02-01T00:00:00Z",
+        "status": null
+      },
+      {
+        "id": 2,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2018-01-31T00:00:00Z",
+        "status": null
+      }
+    ],
+    "xClassifications": {
+      "isSuitableForVco": false,
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works"
+    }
+  },
+  "buyer": {
+    "id": "fc5aeb90c231da2210f5071852d4c8d1",
+    "name": "Spend Network"
+  },
+  "version": "1.1"
+}
