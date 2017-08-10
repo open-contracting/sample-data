@@ -189,11 +189,12 @@ def fix_taiwan_issues(data):
                     for e in extra_fields:
                         if e in i:
                             del i[e]
-    if isinstance(data['packageInfo']['publisher'], str):
-        name = data['packageInfo']['publisher']
-        data['packageInfo']['publisher'] = {
-            'name': name
-        }
+    if 'pageageInfo' in data:
+        if isinstance(data['packageInfo']['publisher'], str):
+            name = data['packageInfo']['publisher']
+            data['packageInfo']['publisher'] = {
+                'name': name
+            }
     if 'packageInfo' in data and 'publishedDate' in data['packageInfo']:
         try:
             d = datetime.strptime(
@@ -375,6 +376,16 @@ def add_permitted_values(schema):
     return schema
 
 
+def treat_record_as_release(data):
+    '''
+    When we are dealing with a record, for now we just take the compiledRelease
+    and upload this to bigQuery.
+    '''
+    if 'compiledRelease' in data:
+        return data['compiledRelease']
+    else:
+        return data
+
 def main():
     usage = 'Usage: %prog [ --all --cont ]'
     parser = optparse.OptionParser(usage=usage)
@@ -408,6 +419,7 @@ def main():
                 print('Problem loading', filename)
                 print(e)
                 continue
+            data = treat_record_as_release(data)
             has_extra_fields = True
             while has_extra_fields:
                 data, has_extra_fields = remove_extra_fields(
