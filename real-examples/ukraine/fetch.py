@@ -49,7 +49,7 @@ def main():
     print('%s release packages to fetch' % len(urls))
     for url in urls:
         package_num = int(url.split('-')[-1].replace('.json', ''))
-        if package_num < options.page:
+        if package_num < page:
             continue
         print('fetching %s' % url)
         data = common.getUrlAndRetry(url, folder)
