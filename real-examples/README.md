@@ -15,7 +15,9 @@ You can fetch data by changing to the target directory, then running:
 
     python /publisher-name/fetch.py
 
-You will need the current directory in your Python path for this to work.
+You will need the current directory in your Python path for this to work. The following command should update the path appropriately. 
+
+    PYTHONPATH=$PYTHONPATH:`pwd`
 
 This script defaults to collecting around 10 examples. Add the `--all` argument to fetch all available publications and save them in an `all` folder (which git will ignore).
 
