@@ -39,5 +39,6 @@ def main():
         data = common.getUrlAndRetry(url, folder)
         common.writeReleases(data['releases'], folder, data, url)
 
+
 if __name__ == '__main__':
     main()

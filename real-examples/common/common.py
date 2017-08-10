@@ -70,11 +70,11 @@ def getUrlAndRetry(url, folder, isJson=True, tries=1):
     except requests.exceptions.Timeout:
         print('Request timeout (attempt %s), retrying %s' % (tries, url))
         time.sleep(10)
-        return getUrlAndRetry(url, folder, isJson, tries+1)
+        return getUrlAndRetry(url, folder, isJson, tries + 1)
     except requests.ConnectionError:
         print('Connection error (attempt %s), retrying %s' % (tries, url))
         time.sleep(10)
-        return getUrlAndRetry(url, folder, isJson, tries+1)
+        return getUrlAndRetry(url, folder, isJson, tries + 1)
     except requests.exceptions.TooManyRedirects:
         err = 'Too many redirects, giving up: %s' % url
         print(err)
