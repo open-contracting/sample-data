@@ -47,5 +47,6 @@ def main():
             common.writeReleases(
                 data['releases'], folder, data, url)
 
+
 if __name__ == '__main__':
     main()

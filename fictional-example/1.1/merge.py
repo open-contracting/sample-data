@@ -1,7 +1,6 @@
 import os
 import json
 import ocdsmerge
-from datetime import tzinfo, timedelta, datetime
 
 releases = []
 release_list = []
@@ -14,7 +13,7 @@ for fname in sorted(os.listdir(".")):
         with open(fname, 'r') as jsonfile:
             package = json.load(jsonfile)
             for release in package['releases']:
-                packages.append( package['uri'] + '#' + release['id'])
+                packages.append(package['uri'] + '#' + release['id'])
                 releases.append({
                     'url': package['uri'] + '#' + release['id'],
                     'date': release['date'],
@@ -32,8 +31,8 @@ with open("record/ocds-213czf-000-00001.json", 'w') as f:
         'packages': packages,
         'publisher': package['publisher'],
         'publishedDate': '2014-02-02T13:02:00Z',
-        'version':'1.1',
-        'extensions':[],
+        'version': '1.1',
+        'extensions': [],
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
             'releases': releases,
@@ -47,8 +46,8 @@ with open("record/ocds-213czf-000-00001-withversions.json", 'w') as f:
         'packages': packages,
         'publisher': package['publisher'],
         'publishedDate': '2014-02-02T13:02:00Z',
-        'version':'1.1',
-        'extensions':[],
+        'version': '1.1',
+        'extensions': [],
         'records': [{
             'ocid': 'ocds-213czf-000-00001',
             'releases': releases,

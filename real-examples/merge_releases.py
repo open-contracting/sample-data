@@ -2,7 +2,6 @@ import glob
 import json
 import optparse
 import os
-from pprint import pprint
 
 import ocdsmerge
 
@@ -68,6 +67,7 @@ def main():
         fname = '%s/%s.json' % (options.outfilepath, ocid.replace('/', '_'))
         with open(fname, 'w') as writefile:
             writefile.write(json.dumps(record, indent=2))
+
 
 if __name__ == '__main__':
     main()

@@ -3,7 +3,6 @@ import json
 import optparse
 import re
 from datetime import datetime
-from pprint import pprint
 
 from jsonschema import Draft3Validator
 
@@ -371,7 +370,7 @@ def add_permitted_values(schema):
                     "uid": {"type": "string"}
                 }
             }
-            }
+        }
     }
     return schema
 
@@ -385,6 +384,7 @@ def treat_record_as_release(data):
         return data['compiledRelease']
     else:
         return data
+
 
 def main():
     usage = 'Usage: %prog [ --all --cont ]'
@@ -440,6 +440,7 @@ def main():
         for d in all_data:
             json.dump(d, writefile)
             writefile.write('\n')
+
 
 if __name__ == '__main__':
     main()

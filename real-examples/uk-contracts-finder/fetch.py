@@ -34,7 +34,7 @@ def main():
         data = r.json()
         num_pages = data['maxPage']
         print('%s pages to retrieve' % num_pages)
-        for i in range(page, num_pages+1):
+        for i in range(page, num_pages + 1):
             url = '%s/Published/Notices/OCDS/Search?order=asc&page=%s' % \
                 (BASE, i)
             print('fetching %s' % url)
@@ -51,6 +51,7 @@ def main():
         data = common.getUrlAndRetry(url, folder)
         for r in data['results'][:10]:
             common.writeReleases(r['releases'], folder, r, url)
+
 
 if __name__ == '__main__':
     main()
