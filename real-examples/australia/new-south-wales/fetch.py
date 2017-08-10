@@ -1,8 +1,5 @@
 import optparse
 import os
-from pprint import pprint
-
-import requests
 
 from common import common
 
@@ -37,6 +34,7 @@ def main():
         data = common.getUrlAndRetry(next_url, folder)
         common.writeReleases(
             data['releases'], folder, data, next_url)
+
 
 if __name__ == '__main__':
     main()

@@ -1,4 +1,3 @@
-import json
 import optparse
 import os
 
@@ -34,6 +33,7 @@ def main():
         r = requests.get(url)
         data = r.json()
         fetchReleases(data, '%s/sample' % folder, url)
+
 
 if __name__ == '__main__':
     main()
