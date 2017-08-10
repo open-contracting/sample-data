@@ -1,6 +1,5 @@
 import json
 from pprint import pprint
-import sys
 
 '''
 Transform the OCDS release schema to the format
@@ -15,9 +14,9 @@ def process_field(name, field, required):
     '''
     print('\n-------\n' + name)
     if 'type' in field:
-        print 'input type:', field['type']
+        print('input type:', field['type'])
     if 'format' in field:
-        print 'input format:', field['format']
+        print('input format:', field['format'])
 
     # Get the mode. We overwrite this with the 'repeated' mode
     # for applicable types, see below.
@@ -42,13 +41,13 @@ def process_field(name, field, required):
         if 'format' in field and field['format'] == 'date-time':
             d['type'] = 'timestamp'
         if d['type'] == 'array':
-            print 'array prop_type'
+            print('array prop_type')
             d['mode'] = 'repeated'
             if 'type' in field['items']:
                 d['type'] = field['items']['type']
             else:
                 d['type'] = 'record'
-            print d['type']
+            print(d['type'])
         # BigQuery only allows for integers and floats. Cast all to float.
         if d['type'] == 'number':
             d['type'] = 'float'
@@ -75,8 +74,8 @@ def process_field(name, field, required):
     else:
         d['type'] = 'record'
 
-    print 'output type:', d['type']
-    print 'output mode:', d['mode']
+    print('output type:', d['type'])
+    print('output mode:', d['mode'])
 
     # Check whether this is a reference field, in which case,
     # process the reference.
@@ -147,44 +146,44 @@ definition.append({
     'type': 'record',
     'mode': 'nullable',
     'fields': [
-          {
+        {
             "type": "string",
             "name": "uri",
             "mode": "nullable"
-          },
-          {
+        },
+        {
             "type": "timestamp",
             "name": "publishedDate",
             "mode": "nullable"
-          },
-          {
+        },
+        {
             "type": "record",
             "name": "publisher",
             "mode": "nullable",
             "fields": [
-              {
-                "type": "string",
-                "name": "name",
-                "mode": "nullable"
-              },
-              {
-                "type": "string",
-                "name": "scheme",
-                "mode": "nullable"
-              },
-              {
-                "type": "string",
-                "name": "uid",
-                "mode": "nullable"
-              },
-              {
-                "type": "string",
-                "name": "uri",
-                "mode": "nullable"
-              }
+                {
+                    "type": "string",
+                    "name": "name",
+                    "mode": "nullable"
+                },
+                {
+                    "type": "string",
+                    "name": "scheme",
+                    "mode": "nullable"
+                },
+                {
+                    "type": "string",
+                    "name": "uid",
+                    "mode": "nullable"
+                },
+                {
+                    "type": "string",
+                    "name": "uri",
+                    "mode": "nullable"
+                }
             ]
-          }
-        ]
+        }
+    ]
 })
 # Add special field for UK contracts.
 # TODO: Get rid of this, for consistency - we should

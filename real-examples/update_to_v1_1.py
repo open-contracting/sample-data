@@ -3,7 +3,6 @@ import hashlib
 import json
 import optparse
 import sys
-import traceback
 from collections import OrderedDict
 from copy import deepcopy
 
@@ -112,7 +111,7 @@ def upgrade_transactions(release):
         for contract in release['contracts']:
             for transaction in contract['implementation']['transactions']:
                 payer_id = transaction['providerOrganization']['scheme']\
-                     + "-" + transaction['providerOrganization']['id']
+                    + "-" + transaction['providerOrganization']['id']
                 transaction['payer'] = {
                     "id": payer_id,
                     "name": transaction['providerOrganization']['legalName']
@@ -122,7 +121,7 @@ def upgrade_transactions(release):
                 transaction['payee'] = {
                     "id": payee_id,
                     "name": transaction['receiverOrganization']['legalName']
-                    }
+                }
                 transaction['value'] = transaction['amount']
                 del(transaction['providerOrganization'])
                 del(transaction['receiverOrganization'])
@@ -132,6 +131,7 @@ def upgrade_transactions(release):
         pass
 
     return release
+
 
 def upgrade_amendments(release):
     try:
@@ -143,6 +143,7 @@ def upgrade_amendments(release):
     except Exception as e:
         pass
     return release
+
 
 def upgrade_amendment(parent):
     try:
@@ -241,6 +242,7 @@ def main():
         # except Exception as e:
         #     print("Problem updating " + filename)
         #     print(e)
+
 
 if __name__ == '__main__':
     main()

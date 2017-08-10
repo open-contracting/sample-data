@@ -19,7 +19,7 @@ def main():
         urls = []
         for i in range(13, 17):
             url = '%s/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-%s-%s.json' \
-                % (BASE, i, i+1)
+                % (BASE, i, i + 1)
             urls.append(url)
     else:
         folder += '/sample'
@@ -29,6 +29,7 @@ def main():
         data = common.getUrlAndRetry(url, folder)
         common.writeReleases(
             data['releases'], folder, data, url)
+
 
 if __name__ == '__main__':
     main()

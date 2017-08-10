@@ -20,7 +20,7 @@ def main():
     (options, args) = parser.parse_args()
     if options.resume:
         with open("page.n", 'r') as n:
-                page = n.read()
+            page = n.read()
     else:
         page = options.page
     BASE = 'http://ocds.prozorro.openprocurement.io'
@@ -49,7 +49,7 @@ def main():
     print('%s release packages to fetch' % len(urls))
     for url in urls:
         package_num = int(url.split('-')[-1].replace('.json', ''))
-        if package_num < options.page:
+        if package_num < page:
             continue
         print('fetching %s' % url)
         data = common.getUrlAndRetry(url, folder)
@@ -57,6 +57,7 @@ def main():
             data['releases'], folder, data, url)
         with open("page.n", 'w') as n:
             n.write(str(package_num))
+
 
 if __name__ == '__main__':
     main()

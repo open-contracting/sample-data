@@ -72,5 +72,6 @@ def main():
             with open(filename, 'w') as writefile:
                 writefile.write(json.dumps(data, indent=2))
 
+
 if __name__ == '__main__':
     main()

@@ -4,7 +4,6 @@ import os
 from io import open
 
 import requests
-from ratelimit import *
 
 from common import common
 
@@ -110,6 +109,7 @@ def main():
             n.write(str(page))
     with open(page_file, 'w') as n:
         n.write(str('1'))
+
 
 if __name__ == '__main__':
     main()
