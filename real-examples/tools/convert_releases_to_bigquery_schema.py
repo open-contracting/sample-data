@@ -306,16 +306,22 @@ def remove_extra_fields(data, schema, IS_VERBOSE):
                         if unwanted_property in d:
                             del d[unwanted_property]
                         else:
+                            t = None
                             # Use the last property in the path if required.
                             if path_expression[-1] in d:
                                 t = d[path_expression[-1]]
-                                if isinstance(t, list):
-                                    for s in t:
-                                        if unwanted_property in s:
-                                            del s[unwanted_property]
-                                else:
-                                    if unwanted_property in t:
-                                        del t[unwanted_property]
+                            elif len(path_expression) > 1 and \
+                                    path_expression[-2] in d and \
+                                    path_expression[-1] in \
+                                    d[path_expression[-2]]:
+                                t = d[path_expression[-2]][path_expression[-1]]
+                            if isinstance(t, list):
+                                for s in t:
+                                    if unwanted_property in s:
+                                        del s[unwanted_property]
+                            elif t:
+                                if unwanted_property in t:
+                                    del t[unwanted_property]
             else:
                 for unwanted_property in unwanted_properties:
                     if unwanted_property in temp:
