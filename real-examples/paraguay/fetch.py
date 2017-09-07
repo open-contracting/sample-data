@@ -7,6 +7,13 @@ import requests
 
 from common import common
 
+REQUEST_TOKEN = "Basic ODhjYmYwOGEtMDcyMC00OGY1LWFhYWUtMWVkNzVkZmFiYzZiOjNjNjQxZGQ5LWNjN2UtNDI5ZC05NWRiLWI5ODNiNmYyMDY3NA=="
+
+
+def getAccessToken():
+    r = requests.post("https://www.contrataciones.gov.py:443/datos/api/oauth/token",
+                      headers={"Authorization": REQUEST_TOKEN})
+    return "Bearer " + r.json()['access_token']
 
 # @rate_limited(0.3)
 def fetchRecord(record_id, folder, get_releases, page=0):
@@ -18,22 +25,28 @@ def fetchRecord(record_id, folder, get_releases, page=0):
     print("Fetching record %s ID: %s > %s" % (page, record_id, url))
     data = common.getUrlAndRetry(url, folder)
     if data:
-        common.writeReleases(
-            [data['records'][0]['compiledRelease']], folder, data, url)
-        if get_releases and 'packages' in data:
-            releases = data['packages']
-            for url in releases:
-                # Rewrite the release URL - they are published
-                # in an incorrect format.
-                release_url = url\
-                    .replace('/datos/id/', '/datos/api/v2/doc/ocds/')\
-                    .replace('.json', '')
-                print('fetching %s' % release_url)
-                release_data = common.getUrlAndRetry(release_url, folder)
-                if release_data and 'releases' in release_data:
-                    common.writeReleases(
-                        release_data['releases'], folder,
-                        release_data, release_url)
+        try:
+            common.writeReleases(
+                [data['records'][0]['compiledRelease']], folder, data, url)
+            if get_releases and 'packages' in data:
+                releases = data['packages']
+                for url in releases:
+                    # Rewrite the release URL - they are published
+                    # in an incorrect format.
+                    release_url = url\
+                        .replace('/datos/id/', '/datos/api/v2/doc/ocds/')\
+                        .replace('.json', '')
+                    print('fetching %s' % release_url)
+                    release_data = common.getUrlAndRetry(release_url, folder)
+                    if release_data and 'releases' in release_data:
+                        common.writeReleases(
+                            release_data['releases'], folder,
+                            release_data, release_url)
+        except KeyError:
+            err = 'No compiledReleases, skipping this one: %s \n' % url
+            print(err)
+            with open('%s/errors.txt' % folder, 'a') as errors:
+                errors.write(err)
 
 
 # @rate_limited(0.3)
