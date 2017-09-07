@@ -7,13 +7,15 @@ import requests
 
 from common import common
 
-REQUEST_TOKEN = "Basic ODhjYmYwOGEtMDcyMC00OGY1LWFhYWUtMWVkNzVkZmFiYzZiOjNjNjQxZGQ5LWNjN2UtNDI5ZC05NWRiLWI5ODNiNmYyMDY3NA=="
+REQUEST_TOKEN = "Basic " \
+                "ODhjYmYwOGEtMDcyMC00OGY1LWFhYWUtMWVkNzVkZmFiYzZiOjNjNjQxZGQ5LWNjN2UtNDI5ZC05NWRiLWI5ODNiNmYyMDY3NA== "
 
 
 def getAccessToken():
     r = requests.post("https://www.contrataciones.gov.py:443/datos/api/oauth/token",
                       headers={"Authorization": REQUEST_TOKEN})
     return "Bearer " + r.json()['access_token']
+
 
 # @rate_limited(0.3)
 def fetchRecord(record_id, folder, get_releases, page=0):
