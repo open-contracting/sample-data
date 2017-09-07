@@ -54,7 +54,7 @@ def writeReleases(releases, folder, data, url):
     return releases
 
 
-def getUrlAndRetry(url, folder, isJson=True, tries=1):
+def getUrlAndRetry(url, folder, isJson=True, tries=1, requestHeader=None):
     '''
     Handle transient network errors, and URLs with
     intermittent timeouts.
@@ -62,11 +62,12 @@ def getUrlAndRetry(url, folder, isJson=True, tries=1):
     if tries > 10:
         err = 'Too many retries, giving up: %s' % url
         print(err)
-        with open('%s/errors.txt' % folder, 'a') as err:
-            err.write(err)
+        with open('%s/errors.txt' % folder, 'a') as errors:
+            errors.write(err)
         return None
     try:
-        r = requests.get(url)
+
+        r = requests.get(url, headers=requestHeader)
     except requests.exceptions.Timeout:
         print('Request timeout (attempt %s), retrying %s' % (tries, url))
         time.sleep(10)
@@ -78,15 +79,19 @@ def getUrlAndRetry(url, folder, isJson=True, tries=1):
     except requests.exceptions.TooManyRedirects:
         err = 'Too many redirects, giving up: %s' % url
         print(err)
-        with open('%s/errors.txt' % folder, 'a') as err:
-            err.write(err)
+        with open('%s/errors.txt' % folder, 'a') as errors:
+            errors.write(err)
         return None
     except requests.exceptions.RequestException as e:
         err = 'Request exception %s, giving up: %s' % (e, url)
         print(err)
-        with open('%s/errors.txt' % folder, 'a') as err:
-            err.write(err)
+        with open('%s/errors.txt' % folder, 'a') as errors:
+            errors.write(err)
         return None
+    if not r.ok:
+        print('Not ok response (attempt %s), retrying %s' % (tries, url))
+        time.sleep(1)
+        return getUrlAndRetry(url, folder, isJson, tries + 1)
     if isJson:
         return r.json()
     else:
