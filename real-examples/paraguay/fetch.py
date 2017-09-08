@@ -29,7 +29,7 @@ def fetchRecord(record_id, folder, get_releases, page=0):
     if data:
         try:
             common.writeReleases(
-                [data['records'][0]['compiledRelease']], folder, data, url)
+                [data['records'][0]['compiledRelease']], folder, data, url, 'records')
             if get_releases and 'packages' in data:
                 releases = data['packages']
                 for url in releases:
