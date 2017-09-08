@@ -5,11 +5,11 @@ import time
 import requests
 
 
-def writeFile(fname, folder, data, url):
-    if not os.path.exists(folder + '/releases/'):
-        os.makedirs(folder + '/releases/')
+def writeFile(fname, folder, data, url, filetype='releases'):
+    if not os.path.exists(folder + '/'+filetype+'/'):
+        os.makedirs(folder + '/'+filetype+'/')
     try:
-        with open('%s/releases/%s' % (folder, fname),
+        with open('%s/%s/%s' % (folder, filetype, fname),
                   'w', encoding='utf8') as f:
             f.write(json.dumps(data, indent=2, ensure_ascii=False))
     except Exception as e:
@@ -30,11 +30,13 @@ def extractPackageInfo(data):
     return packageInfo
 
 
-def writeReleases(releases, folder, data, url):
+def writeReleases(releases, folder, data, url,filetype='releases'):
     '''
     Given a list of releases and some package information,
     extract each release and write it to a file,
     adding package information to the `packageInfo` property.
+
+    Note: can also be used to write records (function needs renaming)
     '''
     packageInfo = extractPackageInfo(data)
     for i, r in enumerate(releases):
@@ -48,7 +50,7 @@ def writeReleases(releases, folder, data, url):
         fname = '%s-%s.json' % (
             r['ocid'].replace('/', ''),
             r['id'].replace(':', '_').replace('.', '_').replace('/', ''))
-        writeFile(fname, folder, r, url)
+        writeFile(fname, folder, r, url, filetype)
         if folder.endswith('sample') and i >= 10:
             break
     return releases
