@@ -30,7 +30,7 @@ def extractPackageInfo(data):
     return packageInfo
 
 
-def writeReleases(releases, folder, data, url,filetype='releases'):
+def writeReleases(releases, folder, data, url, filetype='releases'):
     '''
     Given a list of releases and some package information,
     extract each release and write it to a file,
