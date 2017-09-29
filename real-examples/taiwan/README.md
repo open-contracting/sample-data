@@ -1,11 +1,10 @@
-Taiwan
-======
+# Taiwan
 
-Sample data from 2014 is available at http://data.dsp.im/dataset/taiwan-open-contracting
+[Sample data from 2014](http://data.dsp.im/dataset/taiwan-open-contracting) is available.
 
-Direct download link to larger dataset: http://data.dsp.im/dataset/963c0c3d-49ac-4a66-b8fa-f56c8166bb91/resource/0abbe767-c940-49fe-80d3-bd68268f508e/download/2014-02.json
+[Direct download link](http://data.dsp.im/dataset/963c0c3d-49ac-4a66-b8fa-f56c8166bb91/resource/0abbe767-c940-49fe-80d3-bd68268f508e/download/2014-02.json) to larger dataset.
 
-Read more at http://www.open-contracting.org/2016/03/02/open-contracting-in-taiwan-the-journey-so-far/
+Read more on the [OCP blog](http://www.open-contracting.org/2016/03/02/open-contracting-in-taiwan-the-journey-so-far/).
 
 Note that these releases lack an `id` property.
 

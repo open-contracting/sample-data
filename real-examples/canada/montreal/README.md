@@ -1,9 +1,8 @@
-Canada > City of Montreal
-=========================
+# Canada > City of Montreal
 
-The City of Montreal provide awards information in OCDS format at https://ville.montreal.qc.ca/vuesurlescontrats/
+The City of Montreal provides [awards information in OCDS format](https://ville.montreal.qc.ca/vuesurlescontrats/).
 
-The data is accessible in OCDS format from the 'Export' button, or via the API e.g. https://ville.montreal.qc.ca/vuesurlescontrats/api/releases.json?limit=10000&offset=0
+The data is accessible in OCDS format from the 'Export' button, or via the [API](https://ville.montreal.qc.ca/vuesurlescontrats/api/releases.json?limit=10000&offset=0).
 
 Note that there seem to be some duplicate release IDs: e.g. `f3c0841b7de8ff3e335518790948349e38091257` occurs more than once.
 

@@ -1,7 +1,6 @@
-Nigeria - Open Contracting Portal
-=================================
+# Nigeria - Open Contracting Portal
 
-OCDS output is available here: http://nigeriaoc.org/open_api and a release package containing all releases can be downloaded here: http://nigeriaoc.org/downloadSelected
+OCDS output is [available](http://nigeriaoc.org/open_api) and a release package containing all releases can be [downloaded](http://nigeriaoc.org/downloadSelected).
 
 The process to obtain a sample:
 

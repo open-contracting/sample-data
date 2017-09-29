@@ -1,6 +1,6 @@
-## New South Wales
+# New South Wales
 
-The NSW eTendering API is documented at https://github.com/NSW-eTendering/NSW-eTendering-API
+[NSW eTendering API documentation](https://github.com/NSW-eTendering/NSW-eTendering-API)
 
 I believe that if we retrieve releases from these three categories, following the `next` links, we will have full coverage (but we should check this):
 
