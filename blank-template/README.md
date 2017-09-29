@@ -1,6 +1,6 @@
 # Blank template
 
-This folder contains a blank JSON file according to the Open Contracting Data Standard JSON release schemas. 
+This folder contains a blank JSON file according to the Open Contracting Data Standard JSON release schemas.
 
 ## Generation
 
@@ -20,7 +20,7 @@ And then run the command:
 node cli.js ../standard/standard/schema/release-schema.json --no-random --no-additional > ../sample-data/blank-template/release-template-1__0__0.json
 ```
 
-replacing schema versions and output names appropriate. 
+replacing schema versions and output names appropriate.
 
 To remove deprecated fields, run a regex search and replace against the following string:
 
@@ -29,6 +29,3 @@ To remove deprecated fields, run a regex search and replace against the followin
 ```
 
 and then format the JSON before saving.
-
-## Edits
-

@@ -1,7 +1,6 @@
-Mexico > CDMX - Mexico City
-===========================
+# Mexico > CDMX - Mexico City
 
-An API is available at: http://www.contratosabiertos.cdmx.gob.mx/datos-abiertos/documentacion-api-contratos
+An [API](http://www.contratosabiertos.cdmx.gob.mx/datos-abiertos/documentacion-api-contratos) is available.
 
 There were 420 available releases as of 2017/07/03.
 
