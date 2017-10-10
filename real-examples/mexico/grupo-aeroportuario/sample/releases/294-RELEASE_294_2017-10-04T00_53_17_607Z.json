@@ -1,0 +1,369 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-04-22T05:00:00.000Z",
+        "endDate": "2017-12-31T06:00:00.000Z"
+      },
+      "title": "Servicio de asesoria especializada en materia de gestion social, segunda etapa",
+      "id": "AD-AS-DCAGI-SC-032/16",
+      "awardID": "AA-009KDH999-E86-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-f722e9c3-f851-410a-b0a2-1132e56bb59c",
+          "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-04-22T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-04-22T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-d83130eb-2209-4445-ad69-bb2907468458",
+          "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-04-22T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-04-22T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-2dcfb251-339c-4f9e-83ab-6df53d470586",
+          "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-04-22T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-04-22T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-abb00270-6adb-4b3a-b071-937ce42ab1dc",
+          "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-04-22T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-04-22T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 4026000
+      },
+      "items": [
+        {
+          "id": "item-61e3122e-b920-40c1-8168-2389534a2532",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de asesoria especializada en materia de gestion social, segunda etapa",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 4026000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-2813825e-a589-4cf9-85bf-8d735349f0d6"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "AURELIO MAR?N HUAZO",
+              "scheme": "AURELIO MAR?N HUAZO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-032/16 SERVICIO DE ASESOR?A ESPECIALIZADA EN MATERIA DE GESTION SOCIAL SEGUNDA ETAPA",
+            "id": "milestone-ed44faed-3f5b-4ada-92c7-7f3224e21623",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-05-06T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.610Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de asesoria especializada en materia de gestion social, segunda etapa",
+    "awardPeriod": {
+      "endDate": "2016-07-05T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 4026000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Servicio de asesoria especializada en materia de gestion social, segunda etapa",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-56515d5a-1908-4d18-8eee-722c3e8e17f4",
+        "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-04-22T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-04-22T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-033268b2-4c12-4e51-b156-0d8bcbc26a02",
+        "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-22T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-22T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-22d3611e-ea0a-4517-99e0-f7c56200934e",
+        "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-22T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-22T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-83ce5022-1857-45d2-88e9-91ec9c3e5938",
+        "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-22T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-22T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-a4fae9b6-36a4-4381-a45a-a6fae98e55b0",
+        "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-22T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-22T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-05635ac6-c379-48ae-84df-69eb2ce74769",
+        "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-22T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-22T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2016-07-05T05:00:00.000Z"
+    },
+    "id": "1099156",
+    "items": [
+      {
+        "id": "item-64c94280-6bc8-447a-9a43-c2f7516fe41e",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio de asesoria especializada en materia de gestion social, segunda etapa",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 4026000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 4026000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-17b9f732-b154-4597-8467-c6925729e425",
+        "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-04-22T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-04-22T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de asesoria especializada en materia de gestion social, segunda etapa"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_294_2017-10-04T00:53:17.607Z",
+  "ocid": "294",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de asesoria especializada en materia de gestion social, segunda etapa",
+      "id": "AA-009KDH999-E86-2016",
+      "contractPeriod": {
+        "startDate": "2016-04-22T05:00:00.000Z",
+        "endDate": "2017-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 4026000
+      },
+      "items": [
+        {
+          "id": "item-1356fbf2-6b06-4246-ac7a-8751b0314097",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de asesoria especializada en materia de gestion social, segunda etapa",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 4026000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-23d2f6a2-5867-4e49-9c7b-f340406a4561",
+          "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-04-22T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-04-22T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9b447a0c-feef-422b-82ef-2d4e4994f6cc",
+          "url": "http://189.211.120.220:8880/files/opendata/16032-AD-AS-DCAGI-SC-032-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-04-22T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-04-22T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Valle de San Javier",
+            "postalCode": "42086",
+            "streetAddress": "Boulevard Valle de San Javier 707",
+            "region": "Pachuca de Soto"
+          },
+          "identifier": {
+            "id": "MAHA521229HHGRZR02",
+            "legalName": "AURELIO MARIN HUAZO"
+          },
+          "name": "AURELIO MARIN HUAZO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-06-01T05:00:00.000Z",
+        "endDate": "2017-10-28T05:00:00.000Z"
+      },
+      "title": "CONSTRUCCION DE ARCOTECHO EN CENTRO DE ATENCION MULTIPLE GABRIELA BRIMMER EN ACUEXCOMAC, EN EL MUNICIPIO DE SAN SALVADOR ATENCO",
+      "id": "LPN-OP-DCAGI-SC-027-17",
+      "awardID": "LO-009KDH999-E46-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-052c3a01-b6e8-4ccc-9305-e4c2b5dd08b2",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-05-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-05-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-0699097e-d760-4c66-a193-58d1b6b9dc34",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-05-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-05-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-0cc21ae6-4fcf-44f8-b279-ed331623d20e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-05-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-05-30T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-4752f23e-521a-4b3f-9267-85740ab1bb3d",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-05-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-05-30T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 22521075.38
+      },
+      "items": [
+        {
+          "id": "item-d3b4f770-144e-4332-864e-518aa4573b6d",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO PARA EL AUDITORIO EJIDAL EN EJIDO FRANCISCO I. MADERO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        },
+        {
+          "id": "item-d69bf649-90c9-47e2-859f-436a39409b7d",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DEL MUNICIPIO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        },
+        {
+          "id": "item-fe24c054-ad2c-4fd1-b8b5-a111869bf0cb",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DE CABECERA MUNICIPAL, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        },
+        {
+          "id": "item-04aaee9d-77ac-4ec4-afd1-cda5027b60ae",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO EN CENTRO DE ATENCI?N M?LTIPLE GABRIELA BRIMMER EN ACUEXCOMAC, EN EL MUNICIPIO DE SAN SALVADOR ATENCO",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-81c5cf98-ce26-4247-a4ce-e1d7d9e0be79"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "PCO090416J82",
+              "legalName": "PABEDER CONSTRUCTORA, S.A. DE C.V.",
+              "scheme": "PABEDER CONSTRUCTORA, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-OP-DCAGI-SC-027-17 CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DE CABECERA MUNICIPAL, EN EL MUNICIPIO DE SAN SALVADOR ATENCO., CONSTRUCCI?N DE ARCOTECHO EN CENTRO DE ATENCI?N M?LTIPLE GABRIELA BRIMMER EN ACUEXCOMAC, EN EL MUNICIPIO DE SAN SALVADOR ATENCO, CONSTRUCCI?N DE ARCOTECHO PARA EL AUDITORIO EJIDAL EN EJIDO FRANCISCO I. MADERO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO., CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DEL MUNICIPIO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+            "id": "milestone-ec4ed1eb-e97a-4043-8e12-30c1c460201a",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-06-01T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.619Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-05-12T05:00:00.000Z",
+      "endDate": "2017-05-29T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Negociaci?n Standard",
+    "value": {
+      "currency": "MXN",
+      "amount": 1135539.86
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "CONSTRUCCI?N DE ARCOTECHO EN CENTRO DE ATENCI?N M?LTIPLE GABRIELA BRIMMER EN ACUEXCOMAC,  ARCOTECHO PARA EL AUDITORIO EJIDAL EN EJIDO FRANCISCO I. MADERO,  ARCOTECHO EN ESCUELAS DE CABECERA MUNICIPAL, CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DEL MUNICIPIO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.n",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-a52c5e61-a3d8-4ebd-8599-6bf2e8876119",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/9.-%20AJ/9.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-ffcf489f-a04d-446f-9994-da39fd430603",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-ec91ae69-3c71-4c93-95c6-b7b999c7161a",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-2edda1d7-66d4-4ed1-8364-6109a78975ff",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-d2ebc249-a577-496b-8e86-d7cdd16606cf",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-d0ad1bc1-6f28-4057-88ba-299dcf68c3b6",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2017-05-12T05:00:00.000Z",
+      "endDate": "2017-05-29T05:00:00.000Z"
+    },
+    "id": "1357719",
+    "awardCriteriaDetails": "PUNTOS Y PORCENTAJE",
+    "items": [
+      {
+        "id": "item-75e0290b-175c-47e2-9476-a43e8b7072d5",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "CONSTRUCCI?N DE ARCOTECHO PARA EL AUDITORIO EJIDAL EN EJIDO FRANCISCO I. MADERO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 22521075.38
+          }
+        }
+      },
+      {
+        "id": "item-9774060f-ebd2-4215-b172-b50cdaf95ca8",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DEL MUNICIPIO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 22521075.38
+          }
+        }
+      },
+      {
+        "id": "item-54dc83d0-760c-4170-b958-e1181ace3418",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DE CABECERA MUNICIPAL, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 22521075.38
+          }
+        }
+      },
+      {
+        "id": "item-5c251209-8004-4b45-a054-0f087f0e2fdc",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "CONSTRUCCI?N DE ARCOTECHO EN CENTRO DE ATENCI?N M?LTIPLE GABRIELA BRIMMER EN ACUEXCOMAC, EN EL MUNICIPIO DE SAN SALVADOR ATENCO",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 22521075.38
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2017-05-19T05:00:00.000Z",
+      "endDate": "2017-05-29T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1135539.86
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6d37bb3c-57be-4b7e-9509-e16fbe199b04",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.2.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0701e608-2e87-4cd9-bd3b-aee5ac321c65",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.14.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d95eed07-b4bf-4863-870c-3e0b2f4405fe",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.13.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-98e9fc77-5849-489a-bbbd-08569ef8049f",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.12.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-866c22cd-b18d-4a1f-94df-6978e641ab88",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.11.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4d0727e4-7cfc-43e1-bba0-d0b645d031e7",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.10.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-797a4756-2f02-4b63-b526-b76b640b850c",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.1.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4fb3a2f6-d152-485b-88c9-9e8a6f664bc7",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.3.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6e195242-b614-41f2-a706-85da21d28595",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.4.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d97842c3-9b84-4236-90f3-5cccd1f7b2a1",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.5.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1d35d153-c372-479a-a138-cab0c4ec3008",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.6.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c0f0741c-2c83-4cb4-b371-268af420e890",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.7.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-be5943b0-b621-4542-99bc-6c037f1d8221",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.8.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-fbdff5fd-f68c-49f4-b9f3-64fbc8f53501",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/4.-%20TR/4.9.pdf",
+        "datePublished": "2017-05-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-05-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "CONSTRUCCI?N DE ARCOTECHO EN CENTRO DE ATENCI?N M?LTIPLE GABRIELA BRIMMER EN ACUEXCOMAC, EN EL MUNICIPIO DE SAN SALVADOR ATENCO"
+  },
+  "date": "2017-08-21T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_570_2017-10-04T00:53:19.612Z",
+  "ocid": "570",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "CONSTRUCCI?N DE ARCOTECHO EN CENTRO DE ATENCI?N M?LTIPLE GABRIELA BRIMMER EN ACUEXCOMAC, EN EL MUNICIPIO DE SAN SALVADOR ATENCO",
+      "id": "LO-009KDH999-E46-2017",
+      "contractPeriod": {
+        "startDate": "2017-06-01T05:00:00.000Z",
+        "endDate": "2017-10-28T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 22521075.38
+      },
+      "items": [
+        {
+          "id": "item-9946eba6-4ac6-42b9-bea5-bce3df89baa3",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO PARA EL AUDITORIO EJIDAL EN EJIDO FRANCISCO I. MADERO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        },
+        {
+          "id": "item-97ad1c0a-00d7-4bd6-8505-ab0cad57911f",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DEL MUNICIPIO, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        },
+        {
+          "id": "item-0e1d88a7-fd43-453e-af85-57adf5322f6b",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO EN ESCUELAS DE CABECERA MUNICIPAL, EN EL MUNICIPIO DE SAN SALVADOR ATENCO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        },
+        {
+          "id": "item-090f9453-dbd3-4474-90a2-2c6bd8c97ce9",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE ARCOTECHO EN CENTRO DE ATENCI?N M?LTIPLE GABRIELA BRIMMER EN ACUEXCOMAC, EN EL MUNICIPIO DE SAN SALVADOR ATENCO",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 22521075.38
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-0b7954af-d11f-4c77-a88f-59ddcec2dc81",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/12.-%20AF/12.pdf",
+          "datePublished": "2017-05-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-05-30T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-34ad4e6e-6062-42ee-8bdc-265e40f4446c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17027-LPN-OP-DCAGI-SC-027-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-05-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-05-30T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-05-30T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "OJUELOS",
+            "postalCode": "51350",
+            "streetAddress": "MANUEL LARA 107",
+            "region": "ZINACANTEPEC"
+          },
+          "contactPoint": {
+            "email": "PABLO.CEBALLOS@GMAIL.COM",
+            "name": "PABLO CEBALLOS MONDRAGON"
+          },
+          "identifier": {
+            "id": "PCO090416J82",
+            "legalName": "PABEDER CONSTRUCTORA, S.A. DE C.V."
+          },
+          "name": "PABEDER CONSTRUCTORA, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-09-15T05:00:00.000Z",
+        "endDate": "2031-12-20T22:00:00.000Z"
+      },
+      "title": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "GACM/DCA/SJ/CI/016-2015",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-87146a1f-6ede-458d-9e11-fa9d0153aab7",
+          "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-09-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-09-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c180b3f8-e9da-4823-9f64-aeb3063c82eb",
+          "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-09-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-09-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-1bc65f1a-3b46-4c9e-b58a-c94c113bc6bf",
+          "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-09-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-09-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-ee2fc493-e263-4af8-872b-d6fabba1383e",
+          "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-09-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-09-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "items": [
+        {
+          "id": "item-4eddf8f1-b6df-43b0-8223-8f7f01e61b63",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-157ffb67-370d-46d6-8157-e4b0a2436da5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "COMISION NACIONAL DEL AGUA",
+              "scheme": "COMISION NACIONAL DEL AGUA"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCA/SJ/CI/016-2015 SERVICIOS PROFESIONALES ESPECIALIZADOS DE CONSULTOR?A EN PREPARACI?N, ELABORACI?N Y FORMALIZACI?N DE CONTRATOS",
+            "id": "milestone-8d59c4dd-1b17-4b33-9721-b43156d6c27b",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-09-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.110Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 0
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-e0f319aa-d3ca-4c39-b003-900926d799e4",
+        "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-09-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-09-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-70c577ce-10d1-4c6a-9fe9-dcfccd5ecbb8",
+        "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-aa1c82b9-6fa7-4465-b3d0-1eee240dba73",
+        "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-6295463c-fdce-45db-8629-82bc1f50d6ed",
+        "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-097d0528-7ed9-436c-bfbc-752e544d979b",
+        "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-99b1fdd9-87fe-4921-826b-494586db941a",
+        "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "items": [
+      {
+        "id": "item-1013977f-b248-4518-bb20-916e760f44ee",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 0
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "amount": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015 y 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9f3b262d-4da9-475b-96cb-6a507b5a5145",
+        "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-09-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-09-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_476_2017-10-04T00:53:19.107Z",
+  "ocid": "476",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2015-09-15T05:00:00.000Z",
+        "endDate": "2031-12-20T22:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "items": [
+        {
+          "id": "item-3dd8e08d-dd5a-4627-993a-bf51c8f660b9",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Establecer un mecanismo de concertacion corresponsable entre las partes para colaborar, dentro de sus facultados y posibilidades, en el desarrollo delas actividades relativas a la planeacion de las obras iniciales del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-3269419e-80da-4eb5-8351-3cfdb43c059a",
+          "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-09-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-09-15T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-3291b2b9-ee7c-4c12-b4c8-bc910430518a",
+          "url": "http://189.211.120.220:8880/files/opendata/15016-GACM-DCAGI-SJ-CI-016-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-09-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-09-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Carlos A. Zapata Vela",
+            "postalCode": "08040",
+            "streetAddress": "Rio Churubusco 650, 3er piso",
+            "region": "Iztacalco"
+          },
+          "identifier": {
+            "id": "0",
+            "legalName": "COMISION NACIONAL DEL AGUA"
+          },
+          "name": "COMISION NACIONAL DEL AGUA"
+        }
+      ]
+    }
+  ]
+}

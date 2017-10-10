@@ -1,0 +1,385 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-04-01T06:00:00.000Z",
+        "endDate": "2016-12-16T06:00:00.000Z"
+      },
+      "title": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve",
+      "id": "AD-SRO-DCAGI-SC-026-16",
+      "awardID": "L0-009KDH999-N85-2015",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-af0163ea-4572-40a2-804a-0258ccc843d1",
+          "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-31T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-31T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-595d889d-1e64-44fe-8424-2e031a5d489c",
+          "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-31T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-31T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-267f705a-356b-4b52-b405-bdd6ab5b3cc1",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-AD-SRO-DCAGI-SC-026-16.pdf",
+          "datePublished": "2016-03-31T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-03-31T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6e94cd38-aefb-4bab-bfc2-3a3dc5b1beba",
+          "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-03-31T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-31T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-0982a25b-a38e-4941-8421-bef069ec5c95",
+          "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-03-31T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-31T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7512904.17
+      },
+      "items": [
+        {
+          "id": "item-d68942e2-e6a5-47d5-af89-37147b7c7f6c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7512904.17
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-15dfe207-0404-4cdd-a617-7780c6c7d430"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "SUPERVISION, COORDINACI?N CONSTRUCCI?N DE OBRAS, S.A. DE C.V.",
+              "scheme": "SUPERVISION, COORDINACI?N CONSTRUCCI?N DE OBRAS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 10350416.7
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-026/16 SUPERVISI?N T?CNICA ADMINISTRATIVA Y DE CONTROL DE CALIDAD PARA LOS TRABAJOS DE CARGA, ACARREO Y DESCARGA FUERA DEL POL?GONO DEL MATERIAL EXISTENTE, PRODUCTO DE DEP?SITOS DE DEMOLICIONES Y DESAZOLVE",
+            "id": "milestone-ec08c861-4c06-4d2a-a752-c4cb7f90b306",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-04-08T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.213Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 7519121.39
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-743bf920-d666-46ae-be9e-7fa585301999",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-4aa91b0e-d6fa-4f74-916c-72d00702983d",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-2a9f7643-589f-4e3e-b76b-206042c7fe46",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-9785155e-9b0a-4d18-9d64-dc200c02c2ce",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-a3ab7030-0985-4b33-a93a-f67a26d37100",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-313c044a-e866-4ac9-bdd5-79180f384eb8",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1099156",
+    "items": [
+      {
+        "id": "item-a4dce868-9057-46b6-a1bf-ec72376d34f8",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 7512904.17
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 7519121.39
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-06ba1479-3677-455a-8546-ca5f503d77b9",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1e0d5ea5-81b7-4a53-b184-27efbe53cb41",
+        "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-03-31T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-03-31T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_244_2017-10-04T00:53:17.209Z",
+  "ocid": "244",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve",
+      "id": "L0-009KDH999-N85-2015",
+      "contractPeriod": {
+        "startDate": "2016-04-01T06:00:00.000Z",
+        "endDate": "2016-12-16T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7512904.17
+      },
+      "items": [
+        {
+          "id": "item-70c3cbb6-b4e9-4b57-a4d5-a8c1fcce0f6d",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision Tecnica Administrativa y de Control de Calidad para los Trabajos de Carga, Acarreo y Descarga fuera del Poligono del material existente, producto de depositos de Demolicion, Desperdicio y Desazolve",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7512904.17
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-cc58ad41-015b-4b58-904b-edbf1c9509b6",
+          "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-03-31T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-31T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-e7d205fd-44ab-41df-9da0-f9bc039686d7",
+          "url": "http://189.211.120.220:8880/files/opendata/16026-AD-SRO-DCAGI-SC-026-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-03-31T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-31T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Florida",
+            "postalCode": "1030",
+            "streetAddress": "Camelia Numero 233",
+            "region": "Alvaro Obregon"
+          },
+          "identifier": {
+            "id": "SCC8602079E2",
+            "legalName": "Supervision, Coordinacion y Construccion  de Obras, S.A. de C.V."
+          },
+          "name": "Supervision, Coordinacion y Construccion  de Obras, S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

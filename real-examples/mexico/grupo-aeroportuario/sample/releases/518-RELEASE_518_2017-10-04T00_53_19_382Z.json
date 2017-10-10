@@ -1,0 +1,370 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-10-15T05:00:00.000Z",
+        "endDate": "2017-08-14T05:00:00.000Z"
+      },
+      "title": "TRABAJOS COMPLEMENTARIOS DE LA CAMPANA DE EXPLORACION GEOTECNICA, MUESTREO Y SISTEMAS DE MEDICION EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACION DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO.",
+      "id": "AD-SRO-CONV-DCAGI-SC-009-16",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-7456a933-38ea-4814-b968-cbe418033bf8",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-10-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-10-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-0e34a0f1-581f-4443-85b9-321ff31ba158",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-10-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-10-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-348db932-5407-4618-a08f-173767280406",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-10-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-10-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-6fff7829-e6a5-4521-8e60-af7c25e7d94e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-10-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-10-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 235028227.55
+      },
+      "items": [
+        {
+          "id": "item-7bb499bf-db25-4de7-aea5-1d3de17d1240",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "TRABAJOS COMPLEMENTARIOS DE LA CAMPA?A DE EXPLORACI?N GEOT?CNICA, MUESTREO Y SISTEMAS DE MEDICI?N EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACI?N DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 235028227.55
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-b3ed6659-e991-416a-a344-f84ee68bec9b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CFE370814QI0",
+              "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD",
+              "scheme": "COMISI?N FEDERAL DE ELECTRICIDAD"
+            },
+            "value": {
+              "amount": 131142749.22
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-CONV-DCAGI-SC-009-16 TRABAJOS COMPLEMENTARIOS DE LA CAMPA?A DE EXPLORACI?N GEOT?CNICA, MUESTREO Y SISTEMAS DE MEDICI?N EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACI?N DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+            "id": "milestone-e13067c5-b2b5-448f-8248-68542abf60b8",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "61.34%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-10-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.386Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "22 ADJUDICACION DIRECTA NACIONAL ART. 43 LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 235028227.55
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "TRABAJOS COMPLEMENTARIOS DE LA CAMPA?A DE EXPLORACI?N GEOT?CNICA, MUESTREO Y SISTEMAS DE MEDICI?N EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACI?N DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-71e80298-4760-47ba-98a9-fe08a8a17187",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-10-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-10-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-bbafd233-46e1-4144-8474-3559e341a952",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-4a8447df-3484-4f37-bd0b-da52f34275cc",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-24a16213-17cf-424d-986e-2a53122b857e",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-4e2ece87-1443-406a-9278-e0e1b7a10733",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-7a9f87b4-f820-4405-b881-47c0bb5961bc",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "NA",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-711cb162-36b8-4f24-889f-dd3a9996a147",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "TRABAJOS COMPLEMENTARIOS DE LA CAMPA?A DE EXPLORACI?N GEOT?CNICA, MUESTREO Y SISTEMAS DE MEDICI?N EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACI?N DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 235028227.55
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 235028227.55
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0265fe3b-a536-43d2-a98c-8aa01bd6bcbb",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-10-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-10-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "TRABAJOS COMPLEMENTARIOS DE LA CAMPA?A DE EXPLORACI?N GEOT?CNICA, MUESTREO Y SISTEMAS DE MEDICI?N EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACI?N DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO."
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_518_2017-10-04T00:53:19.382Z",
+  "ocid": "518",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "TRABAJOS COMPLEMENTARIOS DE LA CAMPA?A DE EXPLORACI?N GEOT?CNICA, MUESTREO Y SISTEMAS DE MEDICI?N EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACI?N DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2016-10-15T05:00:00.000Z",
+        "endDate": "2017-08-14T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 235028227.55
+      },
+      "items": [
+        {
+          "id": "item-9dd8d6d8-3105-4690-850d-41786b290f81",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "TRABAJOS COMPLEMENTARIOS DE LA CAMPA?A DE EXPLORACI?N GEOT?CNICA, MUESTREO Y SISTEMAS DE MEDICI?N EN LAS AEROPISTAS, CALLES DE RODAJE, CAMINOS INTERNOS, PISTA 6 Y EDIFICACI?N DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 235028227.55
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-33f45c82-3d02-4e0d-96a8-476b7cb12c80",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-10-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-10-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0f712986-8c7f-4d81-b4bb-bfbc34be2154",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16009-AD-SRO-CONV-DCAGI-SC-009-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-10-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-10-15T05:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-10-15T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "JUAREZ",
+            "postalCode": "11320",
+            "streetAddress": "PASEO DE LA REFORMA 164",
+            "region": "CUAUTHEMOC"
+          },
+          "contactPoint": {
+            "email": "CARLOS.MENDOZA@CFE.COM",
+            "name": "RENE MENDOZA"
+          },
+          "identifier": {
+            "id": "CFE370814QI0",
+            "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD"
+          },
+          "name": "COMISI?N FEDERAL DE ELECTRICIDAD"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-09-15T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "SERVICIOS DE ASESORIA Y CONSULTORIA PARA LA ATENCION DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACION EMITIDOS POR GACM SUS PROCESOS LICITATORIOS RELEVANTES CORRESPONDIENTES AL EJERCICIO 2016",
+      "id": "ITP-AS-DCAGI-SC-075-16",
+      "awardID": "IA-009KDH999-E118-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-5a8c7ef8-85a9-43dd-ad98-ad1ad43360f3",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-14T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-14T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-827e3a9d-5600-41b9-a0d9-399e778a17e3",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-14T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-14T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-24e20da2-110a-458f-8da4-473805c394ca",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-09-14T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-14T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-ef4206da-38a1-4058-b029-ef7d92f87558",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-09-14T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-14T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1650000
+      },
+      "items": [
+        {
+          "id": "item-02cf24fb-5f53-4073-a13a-8d5ae15edec1",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS DE ASESOR?A Y CONSULTOR?A PARA LA ATENCI?N DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACI?N EMITIDOS POR GACM SUS PROCESOS LICITATORIOS RELEVANTES CORRESPONDIENTES AL EJERCICIO 2016",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1650000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-ed0e7275-e03f-487b-9043-36b24fd462aa"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "ESTUDIO LEGAL Y ESTRATEGIA CORPORATIVA S.A.",
+              "scheme": "ESTUDIO LEGAL Y ESTRATEGIA CORPORATIVA S.A."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-075-16 SERVICIOS DE ASESOR?A Y CONSULTOR?A PARA LA ATENCI?N DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACI?N EMITIDOS POR GACM SUS PROCESOS LICITATORIOS RELEVANTES CORRESPONDIENTES AL EJERCICIO 2016",
+            "id": "milestone-6ee6667a-0359-43b3-ad91-a896ee3a5cd5",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-09-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.626Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-09-07T05:00:00.000Z",
+      "endDate": "2016-09-12T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "04 INVITACION A CUANDO MENOS TRES NACIONAL LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 1650000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIOS DE ASESOR?A Y CONSULTOR?A PARA LA ATENCI?N DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACI?N EMITIDOS POR GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN SUS PROCESOS LICITATORIOS RELEVANTES AL EJERCICIO FISCAL 2016",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-1f2bfcaa-1af5-486a-8c05-19b3464704eb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-4372d5b7-9841-47b3-b97c-4354d69a8c6e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-6511e485-c675-481d-9e76-e392a46eede2",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-630ebe2e-a80f-4274-bcee-8872717f3fb3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1ddcb0d9-745d-4303-8c7a-81c83757f9f8",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-ba219ae7-ebc6-4d1e-b490-7660d03b9a85",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-09-07T05:00:00.000Z",
+      "endDate": "2016-09-12T05:00:00.000Z"
+    },
+    "id": "1149196",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-cd864b28-0470-4e84-837c-a4af74ea2c21",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIOS DE ASESOR?A Y CONSULTOR?A PARA LA ATENCI?N DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACI?N EMITIDOS POR GACM SUS PROCESOS LICITATORIOS RELEVANTES CORRESPONDIENTES AL EJERCICIO 2016",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 1650000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-09-09T05:00:00.000Z",
+      "endDate": "2016-09-12T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1650000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-76208cb3-5042-4dcf-9399-2044f4ea9fc2",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d642c6b9-db07-4451-ba12-3124d7760b12",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-09-14T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-09-14T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIOS DE ASESOR?A Y CONSULTOR?A PARA LA ATENCI?N DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACI?N EMITIDOS POR GACM SUS PROCESOS LICITATORIOS RELEVANTES CORRESPONDIENTES AL EJERCICIO 2016"
+  },
+  "date": "2017-02-10T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_381_2017-10-04T00:53:18.622Z",
+  "ocid": "381",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIOS DE ASESOR?A Y CONSULTOR?A PARA LA ATENCI?N DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACI?N EMITIDOS POR GACM SUS PROCESOS LICITATORIOS RELEVANTES CORRESPONDIENTES AL EJERCICIO 2016",
+      "id": "IA-009KDH999-E118-2016",
+      "contractPeriod": {
+        "startDate": "2016-09-15T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1650000
+      },
+      "items": [
+        {
+          "id": "item-f31fe4f0-c96a-4844-aa51-255375aacae1",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS DE ASESOR?A Y CONSULTOR?A PARA LA ATENCI?N DE LAS INSTANCIAS DE INCONFORMIDAD QUE SE INTERPONGAN EN CONTRA DE LOS FALLOS DE ADJUDICACI?N EMITIDOS POR GACM SUS PROCESOS LICITATORIOS RELEVANTES CORRESPONDIENTES AL EJERCICIO 2016",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1650000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-58701e48-af2b-4943-a6f8-cc1db1d363e5",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-09-14T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-14T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-c5c1f39a-8c05-4676-a8fe-c8b1e282781e",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16075-ITP-AS-DCAGI-SC-075-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-09-14T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-14T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-09-14T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "GUALDALUPE INN",
+            "postalCode": "01020",
+            "streetAddress": "ALFONSO ESPARZA OTEO 15",
+            "region": "ALVARO OBREGON"
+          },
+          "contactPoint": {
+            "email": "ELECSAPROYECTO@GMAIL.COM",
+            "telephone": "5662 8225",
+            "name": "JORGE LUIS MORALES CAMACHO"
+          },
+          "identifier": {
+            "legalName": "ESTUDIO LEGAL Y ESTRATEGIA CORPORATIVA S.A."
+          },
+          "name": "ESTUDIO LEGAL Y ESTRATEGIA CORPORATIVA S.A."
+        }
+      ]
+    }
+  ]
+}

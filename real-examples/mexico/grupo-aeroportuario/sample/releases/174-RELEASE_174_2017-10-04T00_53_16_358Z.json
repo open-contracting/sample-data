@@ -1,0 +1,372 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2014-10-16T05:00:00.000Z",
+        "endDate": "2017-10-15T05:00:00.000Z"
+      },
+      "title": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+      "id": "GACM-SPF/01/2014-2017",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-fe27709d-95a9-4c43-a6b4-f8da15c6dde5",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/15.-%20CF/15.pdf",
+          "datePublished": "2014-10-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-10-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-5231edd7-6486-480a-bfa4-d4e687914ab7",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/15.-%20CF/15.pdf",
+          "datePublished": "2014-10-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-10-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-14713620-55bb-4703-8e37-acf5fc6ab4d6",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/19.-%20CM/19.1.pdf",
+          "datePublished": "2014-10-15T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2014-10-15T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-e38fa8fc-a6d1-4c18-810a-86acda696bc3",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/17.-%20GA/17.pdf",
+          "datePublished": "2014-10-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-10-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-90a24396-cb37-4469-bde8-dc7ca7035969",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/18.-%20GC/18.pdf",
+          "datePublished": "2014-10-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-10-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 14925328
+      },
+      "items": [
+        {
+          "id": "item-186e44b2-068b-4344-ac94-9e00b3fb8755",
+          "classification": {
+            "id": "3380",
+            "scheme": "SERVICIOS DE VIGILANCIA"
+          },
+          "quantity": 1,
+          "description": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 14925328
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-284a8dde-36ef-49c0-b90a-1436d455f8db"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33801.pdf",
+            "receiverOrganization": {
+              "legalName": "SERVICIO DE PROTECCION FEDERAL",
+              "scheme": "SERVICIO DE PROTECCION FEDERAL"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM-SPF/01/2014-2017 SERVICIO DE PROTECCION, CUSTODIA, VIGILANCIA Y SEGURIDAD DE SUS BIENES E INSTALACIONES",
+            "id": "milestone-bb6d85a5-cef4-4d6b-91c1-a2fd4d4c5ac3",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2014-10-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.364Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 182500000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-08abec75-fe96-48b2-a082-71fda4466351",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/9.-%20AJ/9.pdf",
+        "datePublished": "2014-10-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-10-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-02e5cd07-dae6-4dfc-9f7b-d13529f81a89",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-4581e248-480c-4c9e-ac51-2ef6ecbbf0ad",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c019bad9-5af3-4525-8cf1-4d3e97fcac1b",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-00df8fe2-ccf3-4752-bd6b-07459b29486f",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-16482ba0-f6c4-46c7-b02d-7e4114eaaac4",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-629950ec-efb3-433f-8395-8b0053ff9cf4",
+        "classification": {
+          "id": "3380",
+          "scheme": "SERVICIOS DE VIGILANCIA"
+        },
+        "quantity": 1,
+        "description": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 14925328
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 182500000
+      },
+      "description": "No Aplica.",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9a578589-4c49-40d9-9510-a969c992ae24",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/4.-%20TR/4.pdf",
+        "datePublished": "2014-10-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-10-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_174_2017-10-04T00:53:16.358Z",
+  "ocid": "174",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2014-10-16T05:00:00.000Z",
+        "endDate": "2017-10-15T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 14925328
+      },
+      "items": [
+        {
+          "id": "item-22bdec2a-2ac3-46c3-87e0-97e09cb81070",
+          "classification": {
+            "id": "3380",
+            "scheme": "SERVICIOS DE VIGILANCIA"
+          },
+          "quantity": 1,
+          "description": "Los servicios de proteccion, custodia, vigilancia y seguridad en los bienes e instalaciones de GACM.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 14925328
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-c9c7a029-5b18-4f33-9003-2b59643c34db",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/12.-%20AF/12.pdf",
+          "datePublished": "2014-10-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-10-15T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-5d8f2a96-d7a2-4b05-93c0-fe00bb686326",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-SPF-01-2014-2017/10.-%20AP/10.pdf",
+          "datePublished": "2014-10-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-10-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "El Rosedal",
+            "postalCode": "4330",
+            "streetAddress": "Miguel Angel de Quevedo numero 915",
+            "region": "Coyoacan"
+          },
+          "identifier": {
+            "id": "SPF130103BF7",
+            "legalName": "Servicio de Proteccion Federal"
+          },
+          "name": "Servicio de Proteccion Federal"
+        }
+      ]
+    }
+  ]
+}

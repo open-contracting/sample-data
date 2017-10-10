@@ -1,0 +1,396 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-33264c8f-2364-4fb6-9f95-e0d6788e0aff",
+          "classification": {
+            "id": "3330",
+            "scheme": "SERVICIOS DE CONSULTORIA ADMINISTRATIVA, PROCESOS, TECNICA Y EN TECNOLOGIAS DE LA INFORMACION"
+          },
+          "quantity": 1,
+          "description": "Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1554000
+            }
+          }
+        }
+      ],
+      "title": "Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno",
+      "id": "ITP-AS-DCAGI-SC-017-15",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-60982abb-61aa-4bb8-b942-ed9a506da0b1",
+          "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-03-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-03-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-c49bc08f-4dfc-42a6-99ab-219cfdbb6335",
+          "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-03-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-03-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-51adf8a4-deb1-4dd1-b901-917ae0adc953",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-ITP-AS-DCAGI-SC-017-15.pdf",
+          "datePublished": "2015-03-12T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-03-12T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-0a11e187-69cc-4cb3-8cd8-fe93fce223c9",
+          "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-03-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-03-12T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-0ead1c38-5fb9-494e-a12f-e5b1cdabfbcb",
+          "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-03-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-03-12T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1554000
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-599dcffb-a228-4330-8c85-b46f1207a592"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33301.pdf",
+            "receiverOrganization": {
+              "id": "ISI021115AFA",
+              "legalName": "IDT EN SISTEMAS DE INFORMACI?N, S.A. DE C.V.",
+              "scheme": "IDT EN SISTEMAS DE INFORMACI?N, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-017/15 SERVICIO INTEGRAL DE ADMINISTRACI?N DE PERSONAL Y PROCESO DE N?MINA MEDIANTE UN SISTEMA ESPECIALIZADO PARA RECURSOS HUMANOS Y N?MINA DE GOBIERNO",
+            "id": "milestone-f50a790a-1155-4d41-b20e-c56a23f83232",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2015-03-12T06:00:00.000Z",
+        "endDate": "2016-02-29T06:00:00.000Z"
+      },
+      "dateSigned": "2015-03-12T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:15.713Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 1802640
+    },
+    "submissionMethod": [
+      "ITP (Invitacion cuando menos Tres Personas)"
+    ],
+    "status": "active",
+    "description": "Obtener un Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-9368a25e-7120-47f2-b5ab-50506deab7a6",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-a00d92eb-43af-4ca1-8cdd-a3a9d6a943e7",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-400ecd84-8ce1-4f7f-a530-68a7d3073924",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-c4d7500b-8103-4a01-9bea-f6931df97228",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-1f3c9f8b-a0bf-4e72-b517-44dc69a58a5b",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-4a1fb00d-3f2e-497b-87cd-d9e03e4b7db2",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "773087",
+    "items": [
+      {
+        "id": "item-cbaa6469-bbe0-4180-99fc-4ed9eb1a2648",
+        "classification": {
+          "id": "3330",
+          "scheme": "SERVICIOS DE CONSULTORIA ADMINISTRATIVA, PROCESOS, TECNICA Y EN TECNOLOGIAS DE LA INFORMACION"
+        },
+        "quantity": 1,
+        "description": "Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 1554000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "SERVICIOS DE DESARROLLO DE APLICACIONES INFORMATICAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1802640
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-7ed78996-56ee-4928-80cc-dbb1b01fa07b",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c7bbfa8c-3fcd-4fd0-9835-dd96b7a8224d",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/4.-%20TR/4.2.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Justificacion de la obra",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d35a21f8-4119-4533-8975-5166c1fef798",
+        "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/4.-%20TR/4.1.pdf",
+        "datePublished": "2015-03-12T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-03-12T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Obtener un Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno"
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_11_2017-10-04T00:53:15.706Z",
+  "ocid": "11",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2015-03-12T06:00:00.000Z",
+        "endDate": "2016-02-29T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1554000
+      },
+      "items": [
+        {
+          "id": "item-4bebe75f-c954-4b3f-9d2b-f526e15fabe5",
+          "classification": {
+            "id": "3330",
+            "scheme": "SERVICIOS DE CONSULTORIA ADMINISTRATIVA, PROCESOS, TECNICA Y EN TECNOLOGIAS DE LA INFORMACION"
+          },
+          "quantity": 1,
+          "description": "Servicio integral de administracion de personal y proceso de nomina, mediante un sistema especializado para recursos humanos y de nomina de gobierno",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1554000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-79728f21-be9f-4266-a50c-91c63d70ac36",
+          "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-03-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-03-12T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-261630c1-7900-417b-835f-7e2d02a0b1aa",
+          "url": "http://189.211.120.220:8880/files/opendata/15017-ITP-AS-DCAGI-SC-017-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-03-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-03-12T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Santiago Tepalcapa",
+            "postalCode": "54743",
+            "streetAddress": "Avenida Hidalgo 1 10",
+            "region": "Cuautitlan Izcalli"
+          },
+          "identifier": {
+            "id": "ISI02115AFA",
+            "legalName": "IDT EN SISTEMAS DE INFORMACION S.A. DE C.V."
+          },
+          "name": "IDT EN SISTEMAS DE INFORMACION S.A. DE C.V."
+        }
+      ],
+      "date": "2015-03-12T06:00:00.000Z"
+    }
+  ]
+}

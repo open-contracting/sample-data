@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-07-15T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "title": "Servicios consistentes en Banos portatiles",
+      "id": "AD-SRO-DCAGI-SC-039/15",
+      "awardID": "AO-009KDH999-E52-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-2c05695d-29cc-4d74-af88-bdc44b650450",
+          "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-89b05fb3-c04a-488e-9ebb-b1dcd7872bf5",
+          "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-de4f72e2-4575-4e83-9790-b1891e616ff0",
+          "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-07-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-ea3974e2-4542-4f46-8320-0273231dca43",
+          "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-07-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 558618.5
+      },
+      "items": [
+        {
+          "id": "item-db058145-6733-4cca-ab88-e15199dcd97d",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios consistentes en Banos portatiles",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 558618.5
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-231aef16-e4ba-410c-967e-2bffdedf95e6"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "PORTABA?OS",
+              "legalName": "PORTA BA?OS 2000 S.A DE C.V",
+              "scheme": "PORTA BA?OS 2000 S.A DE C.V"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-039/15 ARRENDAMIENTO DE SANITARIOS PORTATILES",
+            "id": "milestone-82e61af4-7d2a-40d7-9898-f9568867cfe6",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-07-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.451Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios consistentes en Banos portatiles",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 750000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios consistentes en Banos portatiles",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-b737998d-ef11-4ec8-8ed9-a8e32d356545",
+        "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-07-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-07-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-393e280e-e17b-48e8-b2fa-23261fefcc36",
+        "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-c46f7ef8-7fa2-4405-bbfc-968ebff376e0",
+        "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-69898d3d-ed90-4743-be23-c13b6a6a86c8",
+        "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-0d13597e-b2ca-4e60-b7c4-f12f6b2f3e27",
+        "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-1c8bdfa7-ad89-4cb3-a5f6-40e0a81ce1d6",
+        "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1043372?",
+    "items": [
+      {
+        "id": "item-20484768-baf5-4c4e-a2c7-34a0d9f90437",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios consistentes en Banos portatiles",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 558618.5
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 750000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b433adae-0f27-478a-9b69-965aad3f863b",
+        "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-07-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-07-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios consistentes en Banos portatiles"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_28_2017-10-04T00:53:17.447Z",
+  "ocid": "28",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios consistentes en Banos portatiles",
+      "id": "AO-009KDH999-E52-2016",
+      "contractPeriod": {
+        "startDate": "2015-07-15T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 558618.5
+      },
+      "items": [
+        {
+          "id": "item-e9913f20-672f-4601-86ca-a195aa1738a5",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios consistentes en Banos portatiles",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 558618.5
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-19a6cc0e-955b-406a-892d-c24ad6de83b4",
+          "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-07-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-15T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-769ccb9b-399c-4768-9621-0c922ab832fc",
+          "url": "http://189.211.120.220:8880/files/opendata/15039-AD-SRO-DCAGI-SC-039-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-07-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "San Antonio Culhucan",
+            "postalCode": "09890",
+            "streetAddress": "Benito Juarez 276",
+            "region": "Iztapalapa"
+          },
+          "identifier": {
+            "id": "PBD000118DD3",
+            "legalName": "Portabanos 2000, S. A. de C. V."
+          },
+          "name": "Portabanos 2000, S. A. de C. V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-02-23T06:00:00.000Z",
+        "endDate": "2015-03-30T06:00:00.000Z"
+      },
+      "title": "Prestacion de los Servicios consistentes en la elaboracion del Plan de manejo  ambiental para el Nuevo Aeropuerto  Internacional de la Ciudad de Mexico.",
+      "id": "AD-SRO-DCAGI-SC-011/15",
+      "awardID": "SO-009KDH999-N18-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-a2d74ec2-07a9-4bdf-9738-82600137af17",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-10T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-10T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-e8740424-3d1f-4130-b601-827ea8fd7e94",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-10T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-10T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-90073e3d-2d43-4076-89c5-f56d22349772",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-02-10T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-10T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-fb03c412-c403-4523-9de0-5c4879a89f02",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-02-10T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-10T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 550000
+      },
+      "items": [
+        {
+          "id": "item-0f207bde-7903-4c45-80cd-f9dec29f1174",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Elaboracion del Plan de  Manejo Ambiental para el nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 550000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-6f7bde11-d1ae-4987-adcc-090c2f3d6604"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "EAM9803104K0",
+              "legalName": "ESPECIALISTAS AMBIENTALES, S.A. DE C.V.",
+              "scheme": "ESPECIALISTAS AMBIENTALES, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 550000
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-011/15 PLAN DE MANEJO AMBIENTAL",
+            "id": "milestone-6de9aa55-bf99-4f2e-a93b-f14c892f38a9",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-02-20T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:15.410Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Prestacion de los Servicios consistentes en la elaboracion del Plan de manejo  ambiental para el Nuevo Aeropuerto  Internacional de la Ciudad de Mexico.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 638000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Prestacion de los Servicios consistentes en la elaboracion del Plan de manejo  ambiental para el Nuevo Aeropuerto  Internacional de la Ciudad de Mexico.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-a7d54961-b336-437b-ab2c-fab9b2f799cd",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-02-10T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-02-10T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-04c48abd-4532-4990-83f6-df721989a034",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-10T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-10T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-80c108fb-5752-49ad-be83-4253d07b5059",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-10T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-10T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-bace242b-d9cf-41ea-b633-4bd6b4dc7e97",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-10T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-10T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-919aed77-47ae-4b24-8ee2-6d11b3735600",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-10T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-10T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-f9c2f1ef-d1b7-4677-8f10-19612dca98ea",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-10T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-10T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "789794",
+    "items": [
+      {
+        "id": "item-3dc0eac7-cc1e-47ce-abed-6db1206b0f7b",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Elaboracion del Plan de  Manejo Ambiental para el nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 550000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 638000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a5bf37a8-4376-4051-8b7e-5621782d7778",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-02-10T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-02-10T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Prestacion de los Servicios consistentes en la elaboracion del Plan de manejo  ambiental para el Nuevo Aeropuerto  Internacional de la Ciudad de Mexico."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_10_2017-10-04T00:53:15.398Z",
+  "ocid": "10",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Prestacion de los Servicios consistentes en la elaboracion del Plan de manejo  ambiental para el Nuevo Aeropuerto  Internacional de la Ciudad de Mexico.",
+      "id": "SO-009KDH999-N18-2015",
+      "contractPeriod": {
+        "startDate": "2015-02-23T06:00:00.000Z",
+        "endDate": "2015-03-30T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 550000
+      },
+      "items": [
+        {
+          "id": "item-be1d207d-a4d8-4c35-ac5d-f0bffd94beca",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Elaboracion del Plan de  Manejo Ambiental para el nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 550000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-17bb7d0b-3e35-4ac2-9903-e74c3eeb9901",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-02-10T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-10T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-f894be91-17d5-4fe5-8b87-fe564e700f08",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-AD-SRO-DCAGI-SC-011-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-02-10T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-10T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-02-10T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Lomas de Vista Hermosa",
+            "postalCode": "05100",
+            "streetAddress": "Camino al Olivo Numero15 Interior 301",
+            "region": "Cuajimalpa"
+          },
+          "identifier": {
+            "id": "EAM9803104KO",
+            "legalName": "Especialistas  Ambientales, S.A. de C.V."
+          },
+          "name": "Especialistas  Ambientales, S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

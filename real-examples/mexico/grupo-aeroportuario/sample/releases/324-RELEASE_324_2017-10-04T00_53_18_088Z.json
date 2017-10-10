@@ -1,0 +1,389 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-20T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "ITP-SRO-DCAGI-SC-062-16",
+      "awardID": "IO-009KDH999-E83-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-7b3564e8-6db9-4bd2-8fc2-35bd5c30da1e",
+          "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-19T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-19T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6588a150-d79e-4796-aaec-6b074ab826a9",
+          "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-19T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-19T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-d6884e3d-60cc-4f97-8378-eea9227a9e39",
+          "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-07-19T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-19T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-b95271f5-a1e1-4243-ae76-5d532e1ccdbd",
+          "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-07-19T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-19T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7109736.03
+      },
+      "items": [
+        {
+          "id": "item-09ee5d0a-ae8e-4d0c-b30f-856bd124863c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 7109736.03
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-1fc634ae-f49d-4d63-8046-2368fcabd6ca"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "PLANEACION Y PROYECTOS DE INGENIERIA, S.C.",
+              "scheme": "PLANEACION Y PROYECTOS DE INGENIERIA, S.C."
+            },
+            "value": {
+              "amount": 6967541.29
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-062-16 TRABAJOS PARA MANTENER ACTUALIZADOS LOS PERMISOS EN MATERIA DE IMPACTO AMBIENTAL POR LOS AJUSTES Y ADECUACIONES DEL PROYECTO NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+            "id": "milestone-0378aac3-6e64-47c1-89af-4986a18128af",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-20T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.096Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "awardPeriod": {
+      "startDate": "2016-06-30T05:00:00.000Z",
+      "endDate": "2016-07-14T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 7370689.66
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-9137ec4d-f339-44e8-aa96-565cc0cfaeae",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-f33d5276-d327-4cc1-baa9-99c41de356e2",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-4e0b4720-17b6-4271-bf20-bcf55bf1f98a",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-f85bab0b-7d84-40ca-8e1b-cc5e96b1318f",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-4fe765ef-1ef8-47ed-8dd4-a5d7923590e7",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-5dd2d3f3-62b7-48a9-b8dd-5f439b9413fc",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-06-30T05:00:00.000Z",
+      "endDate": "2016-07-14T05:00:00.000Z"
+    },
+    "id": "1081885",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-e6fdb779-2ef2-41cd-b2c5-172932a671ba",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 7109736.03
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-07-08T05:00:00.000Z",
+      "endDate": "2016-07-08T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 7370689.66
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-00477fab-024b-4b5c-a794-be57de749523",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-48152fc6-abe6-403f-988d-40828b49b962",
+        "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-07-19T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-07-19T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_324_2017-10-04T00:53:18.088Z",
+  "ocid": "324",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "IO-009KDH999-E83-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-20T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7109736.03
+      },
+      "items": [
+        {
+          "id": "item-74809773-4333-4bfd-95fc-fe50c6efdc32",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Trabajos para mantener actualizados los permisos en materia de impacto ambiental por los ajustes y adecuaciones del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 7109736.03
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-5fb57a3a-2c3b-4782-8f2f-b1d52d211c5e",
+          "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-07-19T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-19T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-47f2cdf4-c0b8-4085-85f1-9169b883c7de",
+          "url": "http://189.211.120.220:8880/files/opendata/16062-ITP-SRO-DCAGI-SC-062-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-07-19T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-19T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-07-19T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "03100",
+            "streetAddress": "Insurgentes Sur 594 int, 502",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "PPI960926MN7",
+            "legalName": "Planeacion y Proyectos de Ingenieria, S.C."
+          },
+          "name": "Planeacion y Proyectos de Ingenieria, S.C."
+        }
+      ]
+    }
+  ]
+}

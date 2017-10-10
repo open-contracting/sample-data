@@ -1,0 +1,2567 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-02-27T06:00:00.000Z",
+        "endDate": "2018-12-19T06:00:00.000Z"
+      },
+      "title": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+      "id": "LPI-OP-DCAGI-SC-011-17",
+      "awardID": "LO-009KDH999-E137-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-87680d5a-e685-4188-b5eb-50adb84b4d9c",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-02-27T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-02-27T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-9121c119-4d85-4886-94b9-505862338675",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-02-27T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-02-27T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-964205fe-b18c-474c-bb91-4dc37a01e7f8",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-02-27T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-02-27T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-6d1c6003-d8b1-423d-b208-5882b2a47dc9",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-02-27T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-02-27T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1242171350
+      },
+      "items": [
+        {
+          "id": "item-a8ed8d64-6a2f-4cd1-a72c-733a204bf21f",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 1242171350
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-446327ab-9872-40f7-8552-91950dd588e9"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CAL070605NA9",
+              "legalName": "CONSTRUCCIONES ALDESEM, S.A. DE C.V.",
+              "scheme": "CONSTRUCCIONES ALDESEM, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 32417667.75
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPI-OP-DCAGI-SC-011-17 CONSTRUCCI?N DEL EDIFICIO DE LA TORRE DE CONTROL DE TR?FICO A?REO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+            "id": "milestone-9424655e-1f7a-4ed1-9319-7c6af8401cdf",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "1.90%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-02-27T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.202Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+    "awardPeriod": {
+      "startDate": "2016-07-29T05:00:00.000Z",
+      "endDate": "2017-01-04T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Internacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 1173000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-7a5835ce-d190-4a0f-8f8c-41d941ab7a37",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/9.-%20AJ/9.4.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-f541b392-695d-47d0-896a-35cbcb52740d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/9.-%20AJ/9.3.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-9742350e-14a7-4c51-941d-8321aee2a6ba",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/9.-%20AJ/9.2.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-5903c1f8-1e42-4dd0-a56b-7efd4fc85c91",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/9.-%20AJ/9.1.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-0385f0ee-1aaf-48df-a61a-f491fc963300",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-e8ff3739-17f2-4e84-99ae-2f324579e1bf",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-06a338bf-b0e3-41f1-8a5a-3d2cd250543b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-01d5ef60-9044-44d7-856a-899815c9fb49",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-60aabfc1-77b0-49db-80a5-6b956ea8e141",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-07-29T05:00:00.000Z",
+      "endDate": "2017-01-04T06:00:00.000Z"
+    },
+    "id": "1186773",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-412cd185-301f-446a-b46c-db065fb11bac",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 1242171350
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-11-08T06:00:00.000Z",
+      "endDate": "2016-12-14T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1173000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2016",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0399ce6e-cc0f-4ba7-a56f-714e9601358b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.182.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d20c5279-6fe5-4426-b7a2-db6df274c25f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.183.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0b49f463-a5a9-443c-a7b5-a4766b8c4299",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.184.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7d80399a-0271-4de9-88ec-a8804c440ee5",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.185.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bc35588d-2a71-4980-b89b-103b76bfa34b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.186.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7c299b52-c8b9-446c-8f14-f48befe07f26",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.187.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e12c428d-2991-493f-a25c-15fcb45a2a8b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.188.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-dd6add8f-2ccf-42ef-ae71-6786c44b4cd8",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.189.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bbdd1fb4-5f44-488d-8ca5-d4f9173c3214",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.190.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-15166944-c0e9-4249-83d8-45fca508dd67",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.191.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d3d38dc2-c988-4c4d-b9f1-b8d365ffb523",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.192.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ecbb942e-44ac-47d6-8b62-4657b5425e5c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.193.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2e0ff383-dcc3-4ad6-9cae-2efe0a223593",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.194.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-54cdbff4-e82a-40ea-816e-c1ca389bc7e4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.195.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a9637a76-c145-43c0-92d1-5e7f7f46efca",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.196.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0975ab39-19fe-470d-ba61-8264e59f9f0c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.197.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6bfd9826-07b4-4d45-aad2-f247920dc4ae",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.198.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8fdbde66-7f53-4ba1-a5ec-ee503c048505",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.168.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-af82fdc2-67ae-441c-9078-5f791057a876",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.169.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0506a97c-89d9-4568-bcba-32adfb01a315",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.170.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ccbfb5d0-68de-49cf-8143-03aab02a5a49",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.171.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-63635d8e-5d46-48b2-85be-6753e40a4355",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.172.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e9b69e09-c7e7-4194-aaa0-52a24481bfca",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.173.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9a2b6e89-f5a0-4104-b803-28d3c8bc9cb3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.174.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-29269525-9ffa-4792-9997-7f5aaa2670f5",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.175.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3c2fde03-26b1-41ec-80b6-e83ae650d784",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.176.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-fd7c48ba-2fef-46fa-9a2c-72d99f4ba21e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.177.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a8785d0f-1729-476d-a657-f7f05eefc6a4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.178.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d0ae6348-c3f1-4ce0-8fb3-d101c5d101b9",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.179.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1cc3678d-c094-4f5f-98a5-c88f96201add",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.180.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d066ff8c-eada-4db9-b6f0-18e5251ff951",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.181.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2f87473b-b5e6-4a8e-ac2b-6fd2e73beab3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.155.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9c608701-78b2-4e02-96cd-b0099fa12a59",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.156.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-59d11659-f2f4-4ef5-98a7-fa8607d1c134",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.157.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5414b689-5f63-4e0e-bffc-ace9fc7fe37a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.158.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-fcc2cfe3-10b9-4801-afe0-df951481d82a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.159.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-21ddaa5b-2f33-486c-a809-cf8f942b57cd",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.160.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c35c237a-0192-4fac-a226-8434f52bf7d0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.161.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-92ed6651-7b49-40f7-b735-9549e04000db",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.162.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d809366a-9d75-4edc-a730-2733f510f094",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.163.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-42e69959-08d8-4a46-8647-eaee5632c71c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.164.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-81a2bb35-07b3-4fda-94ee-30bac67b052f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.165.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0722ba7f-149b-4e23-be8c-1114ebbdffdb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.166.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ac21bd6e-d595-4725-ba65-77b02a13b19b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.167.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-16ed9d81-3314-408f-898b-5929a2808e28",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.128.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-13679df2-c28a-4eb5-9b33-3aba9e604f9c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.129.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-68237794-7e20-4f4a-84c5-16d1feb272f8",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.130.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c7482d0a-b102-4732-aa9f-faf59cfd4c28",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.131.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-85a0d411-7aee-4142-a8fc-bce418166a07",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.132.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-341320fa-869f-4f29-a0fb-6ce12ef80697",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.133.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-70597deb-8386-48ac-bedb-e6b68187572c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.134.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9b3d09f6-126d-4f1b-84ca-6b203dccbdda",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.135.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8c99db2d-83eb-4edf-8005-b27b646430c3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.136.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0e60ba9f-3c38-4ee4-b93c-248196f27573",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.137.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c4212305-ecbe-4e7e-aa84-0d6162b0802c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.138.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f0dfa130-41b7-4c5a-9952-e9ea01167e69",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.139.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c09808ea-25bf-4cd2-98a9-df9ae3423a2d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.140.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-09c696eb-dfdb-4326-a9f2-dadbd287b0dc",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.141.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0ab87288-d4b7-49ed-86d7-09d8503d4573",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.142.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5994ad79-45de-4e3c-b4ff-ebfe2610c61b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.143.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-61de46db-7da4-4b65-87b1-fa433d0e1765",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.144.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-73325f21-ae63-4c5a-8f42-d17fd8c6ef1d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.145.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-82239239-7ce4-44b5-ba2b-ae30b0c80e07",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.146.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-91fce169-7dcc-4681-a1e3-051834d6399e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.147.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-106c25c1-fd39-4e85-b6bf-526737ba6813",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.148.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2d2896ab-197f-41a7-926f-d286b490f419",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.149.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a4e68980-0b5d-4642-9ffd-b0f7fc959170",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.150.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-aa03f37e-595c-4428-badf-184f6b7dd753",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.151.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-46bc8fac-bad1-429c-8bf0-1903e951ebad",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.152.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-85f68f30-71c2-4960-a162-d88653b3fe55",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.153.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2aa8d708-6e8c-4b85-ad9c-4c4387b1bced",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.154.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0835d0e7-d1b3-477f-9552-905685537485",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.101.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bef7e230-2eed-4640-af86-f92d91e583dc",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.102.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-52acf165-3649-45b4-b162-569cb0aee051",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.103.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9e3c4831-7488-49f4-968e-13b8bb4b34b6",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.104.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a7efe45b-d7e7-444d-986c-2513b30bea08",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.105.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8e2dfc10-85ec-4297-8426-5ce5eeefde6b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.106.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0ffe87dc-cbb8-44b5-a0bf-18411b9c6a59",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.107.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ad53769e-d990-4d21-a046-44951107cd61",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.108.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7fb5e828-bbf7-42b8-ad92-d717405296ce",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.109.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7c0a5df8-39bf-49ea-86f0-2ae7bfbd7405",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.110.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f9bec8da-1cce-40f4-b204-d5a50c4f9281",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.111.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3206082b-d2e2-412f-90b8-3716ef69d8c3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.113.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9c3b4cd9-37fd-4f80-a89b-3e9eb30c026d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.114.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a18abe85-5f78-4931-9615-034c8eb318aa",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.115.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5432e6d1-3e3e-46e4-a9b0-f7baf1a04770",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.116.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3d91b0de-94c2-47fc-86f2-853369be1a50",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.117.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3037840c-8017-42eb-bbd1-82af8fdb0c4e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.118.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-341aff1e-14ab-46ad-bd5f-3fdccbdf572a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.119.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-456eefc9-2662-4049-8832-a437d8c2e13b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.120.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e7184715-9d97-4c85-8cc8-70bac6308c42",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.121.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-237969fd-beaa-42a9-8235-1693ea1a97bb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.122.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9c37b387-8a10-46c9-a19a-a7e0fa2ecd74",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.123.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6f911144-d617-442b-8c06-8d6763a01bf2",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.124.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0b3a833a-ceef-4311-a536-9ab5d32cc1af",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.125.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d9b428f3-ec68-479e-926d-2490511efdf3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.126.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6dd2c38b-2150-49c2-aa58-2e5667b25933",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.127.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-76c3637b-6475-4e04-9d5d-0406c08ffd8c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.74.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-13659185-0a7d-4a3a-a446-3a1f35bbf771",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.75.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8ed1faf6-dd5f-4841-8b96-e39d3f6aaa26",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.76.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-86e5d513-dc1f-44f8-9a5e-c5f17e7e54c9",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.77.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ae2fd01b-dee3-4f10-813a-dcb0a4c3f95f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.78.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6d1a9351-43b6-4096-bd56-3cccb9dfd768",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.79.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c9c75518-6a08-41e0-a1d6-4b7b8992a39d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.80.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4ea20361-bf4c-4311-8d9b-634ba15f3df4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.81.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1b31fb24-8751-44e9-a509-15bf5c2165b5",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.82.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-692bdd95-7787-4ffb-80b1-c40bb395aa93",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.83.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0fdc5f81-d55f-40a5-9be9-88b8ca62a4cc",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.84.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-37ae6741-b48a-4dac-89de-2da488e6d837",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.85.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3ad3ddb3-481f-466e-94a9-36e08468b85a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.86.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3d9d91fe-3104-4326-8a64-e93bbeb41e63",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.87.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ecff9d6a-6527-432c-9e45-19db895e93f4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.88.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-99c37759-bb6c-432e-8293-62f7ccb6b5dc",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.89.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7c0924d0-eab3-4ed1-8d2d-a7b0fff72e2b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.90.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-45eb12b4-8284-400b-8162-8b1476f04c36",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.91.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e3d8e035-bca0-4490-a939-0c2966473ebd",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.92.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bab5c324-b70c-4973-8d12-b2b29674dae4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.93.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5e0e0c1a-2a5a-4b7f-9909-057f24ff8e78",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.94.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4433941e-08e9-4a2b-a961-6e02d9c1b031",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.95.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6bf35399-9338-4d57-a70b-c973ee6c189f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.96.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b7cd0185-6dbf-48c0-8079-182df5f092ed",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.97.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ca00b8f1-acd7-490d-b999-802f72df0606",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.98.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bb91e59c-7d03-4a5c-80fb-23a67ac0a825",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.99.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0f613289-2000-420c-a959-b68584a0829c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.100.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-22852a4e-2a79-4a67-97ab-2dd83ca0c84b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.47.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a1107b2d-8cac-4096-9cc4-297e1fd189a4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.48.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a92eb849-ca1b-4dfc-89fb-3bb2754a054b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.49.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-06e61db8-5b4f-4440-806f-680ba2d625f0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.50.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8fc646b1-f1ac-496d-af6a-9d2735d3755a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.51.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-508fc4f0-5546-4509-8ba7-a4ee3eced897",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.52.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c525d8ce-f288-42d3-9993-457635b3b906",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.53.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7b93473c-3c8a-435e-95e4-cebd02be1228",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.54.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5e95c5d5-05ec-4f3b-9045-433a27c30ffb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.55.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7f38e2fc-0fe0-4058-94dd-3c6693085dd7",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.56.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-177b8db5-f758-4447-a1f3-1e1f16706782",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.57.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-15453108-9517-4b55-bacd-a17630c287ef",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.58.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-610b138b-9169-45e8-b93a-eb839fe9a33b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.59.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-74f47e49-671f-4d20-b6c8-2572c7627c76",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.60.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-09b00de8-3460-45b0-be29-c4048fdb6ac7",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.61.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a2da86a0-5f3b-404e-a644-da657bd83384",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.62.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0c434f44-ee4d-4f63-8261-349b44971a8a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.63.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7a7297a9-1e16-4495-b635-5f1b102eab87",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.64.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-50cfdaa5-10bd-483b-8a47-a93ae120f57b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.65.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d2d40db8-730f-4219-88ad-0edb4a1a8305",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.66.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3d8e0bd1-ca80-4fc3-b816-5fb747c58fc6",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.67.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-915a609b-123d-4f63-96e3-08c0f3472966",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.68.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c8283091-5173-4b1a-84f5-8f7b44e90063",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.69.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-82fe862e-fe04-4ec7-85d5-4f6c3a6fcc28",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.70.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b89fcfb3-b495-4d94-95c3-b90ccd85e7f9",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.71.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1e2e5bcd-b2bc-43ff-99ef-07f7cd78f0d6",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.72.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1f7ba158-3db8-48e8-878e-2e412bb3c4b2",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.73.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3db7e655-7f8c-415e-ad10-06d038544dd6",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.20.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2f121f43-0c76-4327-899e-15d388706ede",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.21.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5969574b-5d09-4610-9ee5-9bdee27946d6",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.22.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1a9132dd-50ba-409e-8927-04cb525157af",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.23.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bb6ae29f-c7ca-4ca9-8f03-a3c457b7452c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.24.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-857bab44-e333-4520-8ba6-179b03c871ab",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.25.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3ea5618f-aaad-4788-9d06-636fa1e6e125",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.26.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ffa2bf32-4e89-417d-845d-eca91e42f44d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.27.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3cb5099e-a6a4-4bfd-a1c3-9d86fc7ee6fb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.28.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9c6d91e1-fdbc-46ba-b673-446adbfe7a66",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.29.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4940d7a3-ba20-4eb9-b173-4803c7052403",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.30.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c7fa37ad-827e-472a-bcc9-cd6c585990ef",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.31.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-05224ca3-4ecb-4d1a-82f7-90324b46af57",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.32.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-06068d1f-52ff-4c0c-a8c5-9edf2d18d7b9",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.33.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a97fa7d9-e8dd-4741-9153-e512e12ca14e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.34.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3da25553-2f65-4abd-ab3d-dc4fa9f0bdba",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.35.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6ce9cdba-1c02-483d-9f96-d8f7f13e5b0b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.36.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b2023ab5-3ec7-4ff6-8615-844827a7ccfb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.37.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8b902300-e044-42f3-ad36-08f913c04d3e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.38.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-532a0bd1-1f16-4adb-ac66-323d092d5e4c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.39.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-c1fd7518-2262-4790-a057-3955699bfb37",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.40.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9de400fb-1cb4-460c-b223-aeebab6d79b0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.41.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-dd08de0a-a29a-4290-b3c0-414578622bfb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.42.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5a9b2dac-5209-4783-a7f6-c7973bf2f15a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.43.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-476743b2-cb53-4b73-ad1a-75def96759c4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.44.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-cd6a686b-1184-4543-9e01-31e72e43ef6e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.45.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-203dd70d-2463-40b1-ba31-be622715d867",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.46.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-49d8d1a4-e742-4f25-a456-228b35b7a8ac",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.1.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-eaae388f-c839-463b-9dcb-e00f14c4f6f0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.2.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-387987a4-b4f6-497c-abf6-8c842718c9bb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.3.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-31395434-ee42-46a6-85d6-9bf6a7da589d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.4.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8ec535cd-3912-4713-887d-62ebf8f0f86e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.5.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a9b96a0d-a7c4-4ba8-ae05-f2ea3c56d320",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.6.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-409bd521-5fa9-4b67-8ab6-cb9687250a4b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.7.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-788a6e40-c174-4fef-8e77-64b395ab352d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.8.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f74fde74-8490-4069-9adf-fa69176fc356",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.9.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9e45ac01-45f5-45ba-98ba-2bbe85c5796c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.10.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e6c8294b-e399-480a-a038-c26923f4ffc7",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.11.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-358ae3f6-b4ed-4cb0-afbd-2a8e402bd4e7",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.12.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-72ed9a3c-a21e-4b4f-9a95-a8abb4c49edc",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.13.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-127d7b6e-bab8-4dc7-bb53-eb44e3725301",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.14.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1a420107-c983-437c-aacf-7ca7b8dae4a0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.15.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3314973d-c914-47dc-b49a-9ba3435303f4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.16.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1e8d900e-32da-4d7d-ad04-20834a1a442b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.17.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-223b119a-b89b-4340-a851-773b66ad6981",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.18.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-dec8c06d-4b2d-4bcb-ae74-b5baa7211877",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/4.-%20TR/4.19.pdf",
+        "datePublished": "2017-02-27T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-27T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico"
+  },
+  "date": "2017-02-18T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_486_2017-10-04T00:53:19.177Z",
+  "ocid": "486",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+      "id": "LO-009KDH999-E137-2016",
+      "contractPeriod": {
+        "startDate": "2017-02-27T06:00:00.000Z",
+        "endDate": "2018-12-19T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1242171350
+      },
+      "items": [
+        {
+          "id": "item-74d84ca2-9565-41dd-b72e-da60ed2e957a",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Construccion del edificio de la torre de control de trafico aereo del nuevo aeropuerto de la Ciudad de Mexico",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 1242171350
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-5807c737-07e8-410d-ab63-e1222466c380",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/12.-%20AF/12.pdf",
+          "datePublished": "2017-02-27T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-02-27T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-4083275f-14b2-48b8-bf4d-86365de5e9d7",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/17011-LPI-OP-DCAGI-SC-011-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-02-27T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-02-27T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-02-07T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "0",
+            "locality": "0",
+            "postalCode": "0",
+            "streetAddress": "0",
+            "region": "0"
+          },
+          "identifier": {
+            "id": "0",
+            "legalName": "CONSTRUCCIONES ALDESEM, S.A. DE C.V. EN PARTICIPACION CONJUNTA CON ALDESA CONSTRUCCIONES, S.A. Y JAGUAR INGENIEROS CONSTRUCTORES, S.A. DE C.V."
+          },
+          "name": "CONSTRUCCIONES ALDESEM, S.A. DE C.V. EN PARTICIPACION CONJUNTA CON ALDESA CONSTRUCCIONES, S.A. Y JAGUAR INGENIEROS CONSTRUCTORES, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

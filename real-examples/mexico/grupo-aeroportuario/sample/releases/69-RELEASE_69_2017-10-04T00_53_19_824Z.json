@@ -1,0 +1,398 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-06-13T05:00:00.000Z",
+        "endDate": "2015-07-27T05:00:00.000Z"
+      },
+      "title": "Proyecto Ejecutivo para la Construccion del Camino perimetral y sus instalaciones complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+      "id": "ITP-SRO-DCAGI-SC-037/15",
+      "awardID": "IO-009KDH999-N34-2015",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-24ae284a-e4c1-49f1-bbfa-393dabac970d",
+          "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-05-29T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-05-29T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-c32eec3b-fd3c-4815-b421-50914a00f7f5",
+          "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-05-29T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-05-29T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-6f0aa983-6935-4734-a3e1-ec36364afe5a",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSCONTRATACIONES/finiquito03715.pdf",
+          "datePublished": "2015-05-29T05:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2015-05-29T05:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-70fd8728-6dc4-4f28-8d1f-7eefc29cc690",
+          "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-05-29T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-05-29T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-487e6ca9-c6f2-4210-a022-97c745b5fc94",
+          "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-05-29T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-05-29T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 5997998.52
+      },
+      "items": [
+        {
+          "id": "item-a213c2c5-872e-4a96-80ca-71bfd01265be",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Proyecto Ejecutivo para la Construccion del Camino perimetral y sus instalaciones complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 5997998.52
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-03cd3ab0-bed2-48f8-867f-49fabd0b0cb1"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CMA820324D65",
+              "legalName": "CAL Y MAYOR Y ASOCIADOS, S.C.",
+              "scheme": "CAL Y MAYOR Y ASOCIADOS, S.C."
+            },
+            "value": {
+              "amount": 5997988.52
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-037/15 PROYECTO EJECUTIVO PARA LA CONSTRUCCI?N DEL CAMINO PERIMETRAL Y SUS INSTALACIONES COMPLEMENTARIAS EN EL LADO NORTE DEL POL?GONO DEL NAICM",
+            "id": "milestone-1e782685-7b2d-4c73-873a-9559e65bf69c",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-06-13T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.828Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Proyecto Ejecutivo para la Construccion del Camino perimetral y sus instalaciones complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+    "awardPeriod": {
+      "endDate": "2015-05-22T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 7000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Proyecto Ejecutivo para la Construccion del Camino  perimetral y sus instalaciones  complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-9cd77e87-9103-4bd7-9dfd-c3456ce113fb",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c9076a1d-0eba-4836-9cd7-501110173694",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-57b5a112-9f3d-41bd-a0de-1fbe92e0eb2a",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-5ca38187-c823-457f-914b-f1072ee0f1e3",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-716223f7-84da-42f4-9c30-12c5fcfc4d0f",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-8c55c31d-e470-442b-9360-c88c5e1110aa",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2015-05-22T05:00:00.000Z"
+    },
+    "id": "811716",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-40d01ed2-4972-4bd4-a7f6-abbfc82e9d12",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Proyecto Ejecutivo para la Construccion del Camino perimetral y sus instalaciones complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 5997998.52
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-05-15T05:00:00.000Z",
+      "endDate": "2015-05-15T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 7000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-4a1d886b-76d6-4d2b-84e0-ff398b3dd0d8",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a6182409-296e-41ed-b3be-c3775d9c9e06",
+        "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-05-29T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-05-29T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Proyecto Ejecutivo para la Construccion del Camino  perimetral y sus instalaciones  complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_69_2017-10-04T00:53:19.824Z",
+  "ocid": "69",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Proyecto Ejecutivo para la Construccion del Camino perimetral y sus instalaciones complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+      "id": "IO-009KDH999-N34-2015",
+      "contractPeriod": {
+        "startDate": "2015-06-13T05:00:00.000Z",
+        "endDate": "2015-07-27T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 5997998.52
+      },
+      "items": [
+        {
+          "id": "item-33f1b96d-25eb-442a-bdf2-5984e6a0b10c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Proyecto Ejecutivo para la Construccion del Camino perimetral y sus instalaciones complementarias en el lado Norte del Poligono del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 5997998.52
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-a9cec6ed-5710-44d3-bbab-c283e0ef380b",
+          "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-05-29T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-05-29T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-2baf7437-20ed-4e7d-b4d3-e3739a35d6e9",
+          "url": "http://189.211.120.220:8880/files/opendata/15037-ITP-SRO-DCAGI-SC-037-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-05-29T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-05-29T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-05-29T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Parque San Andres",
+            "postalCode": "04040",
+            "streetAddress": "Pallares y Portillo 174-2",
+            "region": "Coyoacan"
+          },
+          "identifier": {
+            "id": "CMA820324D65",
+            "legalName": "CAL Y MAYOR Y ASOCIADOS, S.C."
+          },
+          "name": "CAL Y MAYOR Y ASOCIADOS, S.C."
+        }
+      ]
+    }
+  ]
+}

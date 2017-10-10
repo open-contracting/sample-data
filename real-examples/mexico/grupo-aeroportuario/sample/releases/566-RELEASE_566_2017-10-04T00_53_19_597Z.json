@@ -1,0 +1,417 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-04-27T05:00:00.000Z",
+        "endDate": "2018-04-26T05:00:00.000Z"
+      },
+      "title": "SUPERVISION TECNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACION DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM PARA LA INTERCONEXION A LA INFRAESTRUCTURA HIDRAULICA DE CONAGUA MEDIANTE OBRAS",
+      "id": "LPN-SRO-DCAGI-SC-026-17",
+      "awardID": "LO-009KDH999-E19-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-ff69bfab-fb33-497a-a724-b92e28b562e8",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-04-12T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-04-12T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-8acc5f8e-be2b-4e06-9bee-da036cd60d6b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-04-12T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-04-12T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-3e9eefcb-f9b8-485c-bcba-698eae1cd77e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-04-12T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-04-12T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-2a5a705b-7004-4028-97f7-eca5addd4117",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-04-12T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-04-12T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7856256.3
+      },
+      "items": [
+        {
+          "id": "item-4baf23cf-493d-4f49-9327-f34e1acda290",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SUPERVISI?N T?CNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7856256.3
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-bc95fe20-02c4-4c8d-981d-16738de74418"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "IPE850318NZA",
+              "legalName": "INGENIER?A Y PROCESAMIENTO ELECTR?NICO, S.A. DE C.V.",
+              "scheme": "INGENIER?A Y PROCESAMIENTO ELECTR?NICO, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-SRO-DCAGI-SC-026-17 SUPERVISI?N T?CNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM",
+            "id": "milestone-393d3722-8a29-4f7b-8381-2b9bc927c064",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "21.88%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-04-27T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.601Z",
+    "publisher": {
+      "uid": "Servicios relacionados con la obra",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO RELACIONADO CON OBRAS"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-03-03T06:00:00.000Z",
+      "endDate": "2017-03-23T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "16 LICITACION PUBLICA NACIONAL LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 8028044.83
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SUPERVISI?N T?CNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICMn",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-83c0af7c-c4c1-447a-9ed9-8f901c4ae332",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/9.-%20AJ/9.1.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-cd504df6-c8e5-4aa4-9849-5c2105fc0316",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/9.-%20AJ/9.2.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-69aad77e-6050-4e25-b0ed-5dfbc766cdb5",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-3e2f83c5-b58c-46df-8462-dd1a1109b22b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-82387f0f-e1bd-4d82-aaa1-f2db2da83333",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-a471c441-28e6-4eed-8442-3fd5ecb75fac",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-48ca17f5-ed70-42e3-91bc-3b64ca3ac036",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2017-03-03T06:00:00.000Z",
+      "endDate": "2017-03-23T06:00:00.000Z"
+    },
+    "id": "1285734",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-a8694c2c-91aa-4cbd-a09b-3b29e5d7ef94",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SUPERVISI?N T?CNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 7856256.3
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2017-03-10T06:00:00.000Z",
+      "endDate": "2017-03-23T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 8028044.83
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bebeeba7-8a04-4903-acdd-b849414d33b7",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/4.-%20TR/4.1.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-56c5cdff-2084-4403-a675-186816d2cbed",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/4.-%20TR/4.3.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-43bb5ebb-a1df-493e-857c-930cae516a57",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/4.-%20TR/4.2.pdf",
+        "datePublished": "2017-04-12T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-04-12T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SUPERVISI?N T?CNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM PARA LA INTERCONEXI?N A LA INFRAESTRUCTURA HIDRAULICA DE CONAGUA MEDIANTE OBRAS"
+  },
+  "date": "2017-08-18T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_566_2017-10-04T00:53:19.597Z",
+  "ocid": "566",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SUPERVISI?N T?CNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM PARA LA INTERCONEXI?N A LA INFRAESTRUCTURA HIDRAULICA DE CONAGUA MEDIANTE OBRAS",
+      "id": "LO-009KDH999-E19-2017",
+      "contractPeriod": {
+        "startDate": "2017-04-27T05:00:00.000Z",
+        "endDate": "2018-04-26T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7856256.3
+      },
+      "items": [
+        {
+          "id": "item-9306684a-7286-4c8e-97ea-7d845b6f30cc",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SUPERVISI?N T?CNICA Y ADMINISTRATIVA PARA LOS SERVICIOS DE ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7856256.3
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-912ab055-e11f-41bf-816d-29fae0d93db9",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/12.-%20AF/12.pdf",
+          "datePublished": "2017-04-12T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-04-12T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-fdeb9b3e-e0ff-44d5-9517-d75a916fc7bd",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17026-LPN-SRO-DCAGI-SC-026-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-04-12T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-04-12T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-04-12T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "DEL VALLE",
+            "postalCode": "03100",
+            "streetAddress": "SAN LORENZO 402/153",
+            "region": "BENITO JUAREZ"
+          },
+          "contactPoint": {
+            "email": "ipesa2@prodigy.net.mx",
+            "telephone": "5559 1745",
+            "name": "SERGIO OLIVA LOZANO"
+          },
+          "identifier": {
+            "id": "IPE850318NZA",
+            "legalName": "INGENIER?A Y PROCESAMIENTO ELECTR?NICO, S.A. DE C.V."
+          },
+          "name": "INGENIER?A Y PROCESAMIENTO ELECTR?NICO, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

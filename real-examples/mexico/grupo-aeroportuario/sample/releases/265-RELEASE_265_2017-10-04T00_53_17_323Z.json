@@ -1,0 +1,398 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-02-04T06:00:00.000Z",
+        "endDate": "2017-08-03T05:00:00.000Z"
+      },
+      "title": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del GACM.",
+      "id": "ITP-AS-DCAGI-SC-005/16",
+      "awardID": "IA-009KDH999-E97-2015",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-37f33860-ae58-44cd-b437-639260d12d69",
+          "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-d8c2ad2e-a460-4c1d-b3ec-51abb936cae7",
+          "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-1c4d4c90-51a3-40c3-a512-83ccca0256f0",
+          "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/19.-%20CM/19.1.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6aeddd8e-7708-40c6-8efa-9e4e9731814b",
+          "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-f1658f94-960f-4615-a97c-c8c80b637f46",
+          "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 4930328.89
+      },
+      "items": [
+        {
+          "id": "item-b9110750-c034-46a4-a070-23b4852d8b37",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del Grupo Aeroportuario de la Ciudad de Mexico S.A. DE C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 4930328.89
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-8f90f0a1-3677-43f6-9dbd-1f50ef59b2b0"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33104.pdf",
+            "receiverOrganization": {
+              "id": "GYR880101TL1",
+              "legalName": "GALAZ, YAMAZAKI, RUIZ URQUIZA, S.C.",
+              "scheme": "GALAZ, YAMAZAKI, RUIZ URQUIZA, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-005/16 SERVICIOS DE ASESORIA RELACIONADOS CON LA IMPLEMENTACION DE LA ESTRUCTURA DE GOBIERNO CORPORATIVO PARA LA ADMINISTRACION DEL GACM.",
+            "id": "milestone-816c9bf4-1b0d-4c83-839c-c92fb1b30897",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-02-04T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.327Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del Grupo Aeroportuario de la Ciudad de Mexico S.A. DE C.V.",
+    "awardPeriod": {
+      "endDate": "2016-01-20T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 10672000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del Grupo Aeroportuario de la Ciudad de Mexico S.A. DE C.V.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-8a7a5c3e-813d-4e7b-940a-ce0b505de6ea",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-2cbd7a79-6b6c-4560-9431-00736fe664b7",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-e32099dc-f63f-4678-b066-4635b9b508ec",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-1edc9775-2b30-47e3-a9c4-3920acb9d8c2",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-3170f9de-fc95-4ed5-be3f-8ea0f2fdd5b4",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-a6e2ccf3-07e1-43a1-9cb4-75de24401865",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2016-01-20T06:00:00.000Z"
+    },
+    "id": "971462",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-d3656362-45a6-411d-ad65-609204e60844",
+        "classification": {
+          "id": "3310",
+          "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+        },
+        "quantity": 1,
+        "description": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del Grupo Aeroportuario de la Ciudad de Mexico S.A. DE C.V.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 4930328.89
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-01-14T06:00:00.000Z",
+      "endDate": "2016-01-14T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OTRAS ASESORIAS PARA LA OPERACION DE PROGRAMAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 10672000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-563c5346-310c-4b67-9cfd-84ed640a0f74",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-625517f5-2495-49b1-b94d-e5626756b7a7",
+        "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del Grupo Aeroportuario de la Ciudad de Mexico S.A. DE C.V."
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_265_2017-10-04T00:53:17.323Z",
+  "ocid": "265",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del GACM.",
+      "id": "IA-009KDH999-E97-2015",
+      "contractPeriod": {
+        "startDate": "2016-02-04T06:00:00.000Z",
+        "endDate": "2017-08-03T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 4930328.89
+      },
+      "items": [
+        {
+          "id": "item-58e08c0b-d4fa-44cb-b60d-f3c607217db3",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicios de asesoria, relacionados con la implementacion de la estructura de gobierno corporativo para la administracion del Grupo Aeroportuario de la Ciudad de Mexico S.A. DE C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 4930328.89
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-dbe58ef1-7ae5-4b91-947b-3a1d39bce132",
+          "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-d64b234d-fda5-4097-8f16-a50d6dd3c22a",
+          "url": "http://189.211.120.220:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-01-29T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Cuauhtemoc",
+            "postalCode": "06500",
+            "streetAddress": "Paseo de la Reforma 489",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "GYR880101TL1",
+            "legalName": "Galaz, Yamazaki, Ruiz Urquiza S.C."
+          },
+          "name": "Galaz, Yamazaki, Ruiz Urquiza S.C."
+        }
+      ]
+    }
+  ]
+}

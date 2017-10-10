@@ -1,0 +1,386 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-01T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "ARRENDAR ESPACIO PARA ESTACIONAR VEHICULOS Y EQUIPOS RELACIONADOS CON LA OBRA DEL NAICM",
+      "id": "AD-AS-DCAGI-SC-056-16",
+      "awardID": "AA-009KDH999-E151-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-b5369022-d17d-42cf-8fc5-f14198ba0e1e",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6a9c98aa-4f86-4b9d-92cf-4103622c95f3",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-2d8436e0-3313-45fd-9000-9208495030a4",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-902cb02c-f4bd-4b35-af2f-4632c3af55e3",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 600000
+      },
+      "items": [
+        {
+          "id": "item-f1100e8b-fd5f-40f4-a99e-93efeba5288f",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ARRENDAR ESPACIO PARA ESTACIONAR VEH?CULOS Y EQUIPOS RELACIONADOS CON LA OBRA DEL NAICM",
+          "unit": {
+            "name": "paq",
+            "value": {
+              "currency": "MXN",
+              "amount": 600000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-aa191bf6-89ae-424b-acda-652d76c14300"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "PROMOCIONES FOLKLORICAS CORTES, S.A. DE C.V.",
+              "scheme": "PROMOCIONES FOLKLORICAS CORTES, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-056-16 ARRENDAR ESPACIO PARA ESTACIONAR VEH?CULOS Y EQUIPOS RELACIONADOS CON LA OBRA DEL NAICM",
+            "id": "milestone-18eb6708-30e3-44f6-b89c-8d4bd924ef96",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-01T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.609Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "BIEN"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-12-28T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 600000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE ESTACIONAMIENTO DE LA FERIA DEL CABALLO PARA LOS CAMIONES DE VOLTEO QUE TRANSPORTAN MATERIAL PARA LA CONSTRUCCION DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO (NAICM)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-57eff880-7570-403a-9fa5-42fad90bb4bb",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-7cefced6-fb25-4d2a-8bcc-f5dfd2a23597",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-90cf8a95-2c9c-4fe9-a5bc-0bc3464c21c3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-b1a12b1c-0dc6-493f-a3a4-3dce1a5bd82f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-762713c3-77c7-4610-9283-3ffa93c67f4d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-f05ba8da-b061-41e2-9152-5c0b6ca567e3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-12-28T06:00:00.000Z"
+    },
+    "id": "1219926",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-07e0db53-ddcf-43d1-8eb5-1ec521625afa",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ARRENDAR ESPACIO PARA ESTACIONAR VEH?CULOS Y EQUIPOS RELACIONADOS CON LA OBRA DEL NAICM",
+        "unit": {
+          "name": "paq",
+          "value": {
+            "currency": "MXN",
+            "amount": 600000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 600000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-a619095c-7276-42cc-8e7d-096d34f14785",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-10fa63c2-c0bd-4d6a-9171-58f4dbf3d27b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ARRENDAR ESPACIO PARA ESTACIONAR VEH?CULOS Y EQUIPOS RELACIONADOS CON LA OBRA DEL NAICM"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_377_2017-10-04T00:53:18.605Z",
+  "ocid": "377",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ARRENDAR ESPACIO PARA ESTACIONAR VEH?CULOS Y EQUIPOS RELACIONADOS CON LA OBRA DEL NAICM",
+      "id": "AA-009KDH999-E151-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-01T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 600000
+      },
+      "items": [
+        {
+          "id": "item-b7b109ce-f87e-455f-ae27-4241a0047a14",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ARRENDAR ESPACIO PARA ESTACIONAR VEH?CULOS Y EQUIPOS RELACIONADOS CON LA OBRA DEL NAICM",
+          "unit": {
+            "name": "paq",
+            "value": {
+              "currency": "MXN",
+              "amount": 600000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-7a8362b2-a6f0-459a-8eda-b2d344237ea6",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0370680e-1dd5-4206-befb-31162f2adc5d",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16056-AD-AS-DCAGI-SC-056-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-06-30T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "VIADUCTO PIEDAD",
+            "postalCode": "08200",
+            "streetAddress": "JOSE ANTONIO TORRES 761  INT. 4",
+            "region": "IZTACALCO"
+          },
+          "contactPoint": {
+            "email": "ANTONIO.TORRES@PROMO.COM",
+            "telephone": "9540 960",
+            "name": "JOSE LUIS CORTES SOTO"
+          },
+          "identifier": {
+            "legalName": "PROMOCIONES FOLKLORICAS CORTES, S.A. DE C.V."
+          },
+          "name": "PROMOCIONES FOLKLORICAS CORTES, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

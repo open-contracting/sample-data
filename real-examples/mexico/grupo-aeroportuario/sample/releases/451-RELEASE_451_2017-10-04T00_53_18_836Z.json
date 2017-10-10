@@ -1,0 +1,371 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-10-24T05:00:00.000Z",
+        "endDate": "2016-12-23T06:00:00.000Z"
+      },
+      "title": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS PARA EL SERVICIO DENOMINADO LOSA DE CIMENTACION DEL EDIFICIO TERMINAL",
+      "id": "AD-AS-DCAGI-SC-079-16",
+      "awardID": "AA-009KDH999-E5-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-0584a0b6-1876-4f0a-9a88-6b4ce4640b8d",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-10-19T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-10-19T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-987881aa-f373-4dd5-8261-eb7a345108e6",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-10-19T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-10-19T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-22cc91b0-352e-4394-a2a4-a0641a247b06",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-10-19T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-10-19T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-9ccdfa8f-86f1-44b3-811e-1bbeb586eb54",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-10-19T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-10-19T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 409900.48
+      },
+      "items": [
+        {
+          "id": "item-0c22818e-b4ac-44f5-817e-3d6ef89a4f26",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS PARA EL SERVICIO DENOMINADO LOSA DE CIMENTACI?N DEL EDIFICIO TERMINAL DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 409900.48
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-02a05134-8d58-46ef-b0ab-78833146cd7a"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "AMA940914KD4",
+              "legalName": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C.",
+              "scheme": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-079-16 ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS PARA EL SERVICIO DENOMINADO LOSA DE CIMENTACI?N DEL EDIFICIO TERMINAL DEL NAICM",
+            "id": "milestone-ce11403a-b3e3-4f54-b8cd-69d8b50f9f0a",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-10-24T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.840Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 950000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE TESTIGO SOCIAL PARA EL PROCEDIMIENTO DE LICITACION PUBLICA BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DE LA LOSA DE CIMENTACION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-d61b7140-8487-4530-870a-8e2b7d4b43a3",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-10-19T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-10-19T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-d28ad36b-7233-42dc-a65d-eaf550cbc51f",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-73023a88-1092-4137-9115-23b8ad13719d",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-26ea75bb-2998-423d-80b3-9062657116c1",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-d9b1f3f3-8422-47bc-85df-69dba0c00ac6",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-375bfda0-e4a3-43a4-bb9e-d2707489f996",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1252683",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-aeb58b9e-8c57-4572-91e6-adca11b4144e",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS PARA EL SERVICIO DENOMINADO LOSA DE CIMENTACI?N DEL EDIFICIO TERMINAL DEL NAICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 409900.48
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 950000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ace96865-2254-4759-9ec4-3c3a9c232186",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-10-19T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-10-19T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS PARA EL SERVICIO DENOMINADO LOSA DE CIMENTACI?N DEL EDIFICIO TERMINAL"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_451_2017-10-04T00:53:18.836Z",
+  "ocid": "451",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS PARA EL SERVICIO DENOMINADO LOSA DE CIMENTACI?N DEL EDIFICIO TERMINAL",
+      "id": "AA-009KDH999-E5-2017",
+      "contractPeriod": {
+        "startDate": "2016-10-24T05:00:00.000Z",
+        "endDate": "2016-12-23T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 409900.48
+      },
+      "items": [
+        {
+          "id": "item-88ef1de2-ab93-41f0-8c15-b9e14be65841",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS PARA EL SERVICIO DENOMINADO LOSA DE CIMENTACI?N DEL EDIFICIO TERMINAL DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 409900.48
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-e5cc91a7-5d8a-4340-bad9-d4915aeaa065",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-10-19T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-10-19T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-41c4b3cb-96a1-49e4-8433-7acaa71e886b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16079-AD-AS-DCAGI-SC-079-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-10-19T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-10-19T05:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-10-19T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "GUADALUPE INN",
+            "postalCode": "01020",
+            "streetAddress": "INSURGENTES SUR 1883 203",
+            "region": "ALVARO OBREGON"
+          },
+          "contactPoint": {
+            "email": "CONTACTO@AMDAID.ORG.MX",
+            "telephone": "5662 2745",
+            "name": "GERARDO GONZALEZ DE ARAGON RODRIGUEZ"
+          },
+          "identifier": {
+            "id": "AMA940914KD4",
+            "legalName": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C."
+          },
+          "name": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C."
+        }
+      ]
+    }
+  ]
+}

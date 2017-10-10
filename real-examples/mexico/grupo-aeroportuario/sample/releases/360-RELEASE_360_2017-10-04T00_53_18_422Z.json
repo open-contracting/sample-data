@@ -1,0 +1,387 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-09-15T05:00:00.000Z",
+        "endDate": "2018-12-30T06:00:00.000Z"
+      },
+      "title": "PLAN DE INTEGRACION EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO (NAICM) SEGUNDA FASE.",
+      "id": "AD-AS-DCAGI-SC-065-16",
+      "awardID": "AA-009KDH999-E139-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-60c334dc-98b6-45f9-b11f-38456caaa858",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-1b34e43a-df24-41e3-a34a-8ec7817694ed",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-2d41d789-60d4-49bd-9c72-f67bef1ef505",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-ea09dfc9-4a5f-48a0-a950-316c94b92dec",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 46177182.09
+      },
+      "items": [
+        {
+          "id": "item-84ea193f-9673-4afa-ad7d-31a9dedf8ddc",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "PLAN DE INTEGRACI?N EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) SEGUNDA FASE.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 46177182.09
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-4a78aa56-3a88-429f-87c1-6a343b5e9894"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "LFU150305UX7",
+              "legalName": "LUXMART FUTURA, S.A. DE C.V.",
+              "scheme": "LUXMART FUTURA, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-065-16 PLAN DE INTEGRACI?N EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) SEGUNDA FASE.",
+            "id": "milestone-3a01d054-de41-4e2d-9078-ecd65caf28ce",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-09-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.425Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-11-03T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 46196000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "PLAN DE INTEGRACION EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) SEGUNDA ETAPA",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-720618c6-dcf6-4535-9eec-beeedc0845c4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-d164fd53-4a50-476e-a965-1e5a991e08c1",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-0051f2c3-b8db-48a0-b820-0c1ab35b8417",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-93a7766d-5272-4690-9497-006aba006478",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-5c0a65b9-361c-4f94-9c0a-c8e1e8430ff0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-e26f35f4-fb89-4dd2-86e7-03eb2178ddbd",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-11-03T06:00:00.000Z"
+    },
+    "id": "1195906",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-2bb970a7-6d16-4434-956c-55f8181bf883",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "PLAN DE INTEGRACI?N EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) SEGUNDA FASE.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 46177182.09
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 46196000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-7d60c8e2-7ddf-49dd-80b7-5e94691b5c56",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-00c100f5-6454-4c37-b2a0-3568f8a1c867",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "PLAN DE INTEGRACI?N EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) SEGUNDA FASE."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_360_2017-10-04T00:53:18.422Z",
+  "ocid": "360",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "PLAN DE INTEGRACI?N EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) SEGUNDA FASE.",
+      "id": "AA-009KDH999-E139-2016",
+      "contractPeriod": {
+        "startDate": "2016-09-15T05:00:00.000Z",
+        "endDate": "2018-12-30T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 46177182.09
+      },
+      "items": [
+        {
+          "id": "item-d2b0d3b7-8e55-4959-8032-f012e623b19c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "PLAN DE INTEGRACI?N EJIDAL PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) SEGUNDA FASE.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 46177182.09
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-eb6dc934-5e8b-472c-8f35-9008fa4ddaa2",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0bdce26c-404f-4979-b4d0-145dd07cf79b",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16065-AD-AS-DCAGI-SC-065-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-09-09T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "M?XICO",
+            "locality": "SAN MIGUEL CHAPULTEPEC",
+            "postalCode": "11850",
+            "streetAddress": "CONSTITUYENTES 41 PISO 3",
+            "region": "MIGUEL HIDALGO"
+          },
+          "contactPoint": {
+            "email": "glglipkau@gmail.com",
+            "name": "GUSTAVO LIPKAU HENRIQUEZ"
+          },
+          "identifier": {
+            "id": "LFU150305UX7",
+            "legalName": "LUXMART FUTURA, S.A. DE C.V."
+          },
+          "name": "LUXMART FUTURA, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

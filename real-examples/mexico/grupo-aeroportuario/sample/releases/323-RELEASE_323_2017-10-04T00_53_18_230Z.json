@@ -1,0 +1,358 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-6f92f717-f3dd-473a-b942-0c0be4a9df52",
+          "classification": {
+            "id": "3170",
+            "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+          },
+          "quantity": 1,
+          "description": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 244176
+            }
+          }
+        }
+      ],
+      "title": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+      "id": "AD-DCAGI-SA-GAR-01/14",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-e9bd78f7-a434-4c35-ad81-486e222dd04a",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-a320900c-0796-43a1-9667-239acd8da299",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6c22de39-03ab-4d82-8680-98a0b9e08f3c",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/17.-%20GA/17.pdf",
+          "datePublished": "2014-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-4d6893fd-8a84-4c35-a480-981e8cad5df2",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/18.-%20GC/18.pdf",
+          "datePublished": "2014-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 244176
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-17d0d87b-3775-45f4-ade0-4dd5d38b9d41"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/31701.pdf",
+            "receiverOrganization": {
+              "id": "LAU0002028R1",
+              "legalName": "LAUMAN, S.A. DE C.V.",
+              "scheme": "LAUMAN, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-DCAGI-SA-GAR-01-14 SERVICIO DE SOPORTE TECNICO Y MANTENIMIENTO PARA EQUIPOS DEL SERVICIO DE RED LOCAL, SEGURIDAD DE DATOS Y TELEFONIA",
+            "id": "milestone-98211b9a-c314-47c2-8bb5-aa36f725e4c4",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2014-12-01T06:00:00.000Z",
+        "endDate": "2014-12-15T06:00:00.000Z"
+      },
+      "dateSigned": "2014-12-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.236Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+    "description": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-e1d916da-24f4-4ad9-8933-566e919f2df3",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/9.-%20AJ/9.pdf",
+        "datePublished": "2014-12-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-12-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-9d621aa7-198b-4f10-ac93-f640d7d5f019",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-50f85ee1-4d1a-40a7-95a9-0f528131f123",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-feeb548c-30d9-4b1d-a47e-08f714e6cb3f",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-7e2aca25-185a-4ccb-a66f-4dc41abad50a",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-d4f2c062-b08e-4e8b-abdc-5bff714b37cb",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "submissionMethod": [
+      null
+    ],
+    "value": {
+      "currency": "MXN",
+      "amount": 283244.16
+    },
+    "items": [
+      {
+        "id": "item-45aac691-5144-48eb-8326-a1f3a603fb43",
+        "classification": {
+          "id": "3170",
+          "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+        },
+        "quantity": 1,
+        "description": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 244176
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "status": "active",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 283244.16
+      },
+      "description": "Presupuesto de Egresos de la Federacion 2014.",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b30eb219-966a-4282-936c-ea211310cd8d",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-12-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-12-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_323_2017-10-04T00:53:18.230Z",
+  "ocid": "323",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2014-12-01T06:00:00.000Z",
+        "endDate": "2014-12-15T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 244176
+      },
+      "items": [
+        {
+          "id": "item-f9fddbaa-a665-4437-beae-731c21a53df6",
+          "classification": {
+            "id": "3170",
+            "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+          },
+          "quantity": 1,
+          "description": "Configuracion Inicial de Equipos Instalados en el Inmueble de Altavista Para Servicio de Red Local, Seguridad de Datos y Telefonia.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 244176
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "3100",
+            "streetAddress": "Santa Barbara 15",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "LAU0002028R1",
+            "legalName": "Lauman S.A. de C.V."
+          },
+          "name": "Lauman S.A. de C.V."
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-0c4262fb-b98d-4eae-8c56-70592fffe3e1",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/12.-%20AF/12.pdf",
+          "datePublished": "2014-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-01T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-1cc9c4d3-dc72-42d5-ba03-0b2ce3d82555",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DCAGI-SA-GAR-01-14/10.-%20AP/10.pdf",
+          "datePublished": "2014-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2014-12-05T06:00:00.000Z",
+        "endDate": "2017-12-05T06:00:00.000Z"
+      },
+      "title": "Arrendamiento de Mobiliario Para Las Instalaciones De Torre Murano",
+      "id": "ITP-S-DCAGI-SC-009/2014",
+      "awardID": "IA-009KDH999-N8-2014",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-223c2003-a605-44e2-858b-01865d995171",
+          "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-63b0c378-aa6d-4cfb-8223-519baa59ad17",
+          "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-50baec5c-d556-4ec8-92e2-d5a6fb340a3c",
+          "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/19.-%20CM/19.1.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-c1d27356-4ec8-4137-88ed-10db4591619b",
+          "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/17.-%20GA/17.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-87780508-af14-4d39-9743-132db7ef2d19",
+          "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/18.-%20GC/18.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1914364.79
+      },
+      "items": [
+        {
+          "id": "item-ff9a8cd5-b2b6-4330-9880-b051ff06dd9c",
+          "classification": {
+            "id": "3230",
+            "scheme": "ARRENDAMIENTO DE MOBILIARIO Y EQUIPO DE ADMINISTRACION, EDUCACIONAL Y RECREATIVO"
+          },
+          "quantity": 1,
+          "description": "Servicio de arrendamiento de bienes muebles para las instalaciones de Torre Murano",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1914364.79
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-a6928c57-30af-4c05-8dd6-68906626835d"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/32302.pdf",
+            "receiverOrganization": {
+              "id": "LIM000928AC8",
+              "legalName": "LANZ IMPORTS S.A. DE C.V.",
+              "scheme": "LANZ IMPORTS S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-S-DCAGI-SC-009/2014 ARRENDAMIENTO DE BIENES MUEBLES",
+            "id": "milestone-3b279037-1c11-4ecc-8aaf-cc42ea8420e0",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2014-12-05T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.344Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Arrendamiento de Mobiliario Para Las Instalaciones De Torre Murano",
+    "awardPeriod": {
+      "endDate": "2014-12-04T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 2735071.2
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Contar con las instalaciones adecuadas para el desarrollo de las actividades del personal de GACM, asi como para las reuniones de trabajo internas y externas",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-800f43ee-9fb4-4c60-9f28-432854214cc0",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/9.-%20AJ/9.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-fc872451-2df4-4876-b051-595b109ae2c9",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1bd43207-c5f0-4a31-94dd-3a0c8e6b2527",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-d6f54ac5-e270-42ba-8819-18241dccdfa3",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-0b1f8883-734f-45fe-b488-a08cb55d5b49",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-8f3ddfad-6eea-4a0a-b656-cc8c95107d06",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2014-12-04T06:00:00.000Z"
+    },
+    "id": "722742",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-30686a6a-4502-48c9-8944-660a77156324",
+        "classification": {
+          "id": "3230",
+          "scheme": "ARRENDAMIENTO DE MOBILIARIO Y EQUIPO DE ADMINISTRACION, EDUCACIONAL Y RECREATIVO"
+        },
+        "quantity": 1,
+        "description": "Servicio de arrendamiento de bienes muebles para las instalaciones de Torre Murano",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 1914364.79
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2014-12-02T06:00:00.000Z",
+      "endDate": "2014-12-02T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "Contar con las instalaciones adecuadas para el desarrollo de las actividades del personal de GACM, asi como para las reuniones de trabajo internas y externas",
+      "amount": {
+        "currency": "MXN",
+        "amount": 2735071.2
+      },
+      "description": "Presupuesto de Egresos de la Federacion para el presente ejercicio fiscal en Gasto Corriente",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-7daf3b7f-9049-4501-9834-5d2b17d2fb21",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/5.-%20IM/5.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b3e8eb1e-87e7-49eb-becc-41c8d2060684",
+        "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Contar con las instalaciones adecuadas para el desarrollo de las actividades del personal de GACM, asi como para las reuniones de trabajo internas y externas"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_170_2017-10-04T00:53:16.338Z",
+  "ocid": "170",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Arrendamiento de Mobiliario Para Las Instalaciones De Torre Murano",
+      "id": "IA-009KDH999-N8-2014",
+      "contractPeriod": {
+        "startDate": "2014-12-05T06:00:00.000Z",
+        "endDate": "2017-12-05T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1914364.79
+      },
+      "items": [
+        {
+          "id": "item-dd2ce8f1-6b6b-4582-a832-a6a26b2e93d3",
+          "classification": {
+            "id": "3230",
+            "scheme": "ARRENDAMIENTO DE MOBILIARIO Y EQUIPO DE ADMINISTRACION, EDUCACIONAL Y RECREATIVO"
+          },
+          "quantity": 1,
+          "description": "Servicio de arrendamiento de bienes muebles para las instalaciones de Torre Murano",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1914364.79
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-6ddbfc37-7e28-4b3d-b28b-1c53b54731ba",
+          "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/12.-%20AF/12.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-e1aaf951-f1c3-4631-b0d6-d29f3ddd6220",
+          "url": "http://189.211.120.220:8880/files/opendata/14009-ITP-S-DCAGI-SC-009-14/10.-%20AP/10.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2014-12-05T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Lomas de Chapultepec V Seccion",
+            "postalCode": "11000",
+            "streetAddress": "Av. Paseo de la Reforma No. 725",
+            "region": "Miguel Hidalgo"
+          },
+          "identifier": {
+            "id": "LIM000928AC8",
+            "legalName": "Lanz Import S. A. de C. V."
+          },
+          "name": "Lanz Import S. A. de C. V."
+        }
+      ]
+    }
+  ]
+}

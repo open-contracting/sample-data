@@ -1,0 +1,367 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-f58bd83c-7da1-4f63-84c0-ec288639b160",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto Nuevo Aeropuerto Internacional de la ciudad de Mexico (NAICM), a traves de laentidad de supervision ambiental (condicionante 10, resolutivo MIA-R)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 227520000
+            }
+          }
+        }
+      ],
+      "title": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) a traves de la entidad de supervision ambiental (Condicionante 10, resolutivo MIA-R .",
+      "id": "AD-SRO-CONV-DCAGI-SC-002/16",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-07e0a8b0-d0ff-44fe-94c2-de8e777bcad1",
+          "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-07215637-d24e-439f-8a20-7dcaebd29a1a",
+          "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-ee1f10de-a224-48b4-96f3-0fad8c9dc43b",
+          "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-3644cfab-f35c-49c8-98f1-496c0ebd1163",
+          "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 227520000
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-cf6efff9-7e15-4805-a5c0-3d6451a3cc70"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "FIC000330LK9",
+              "legalName": "FONDO DE INVESTIGACI?N CIENTIFICA Y DESARROLLO TECNOL?GICO DEL IPN",
+              "scheme": "FONDO DE INVESTIGACI?N CIENTIFICA Y DESARROLLO TECNOL?GICO DEL IPN"
+            },
+            "value": {
+              "amount": 119520000
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-CONV-DCAGI-SC-02/16 ETAPA 2 ELABORACION Y PUESTA EN MARCHA DEL SISTEMA INTEGRAL DE GESTION DE CUMPLIMIENTO AMBIENTAL (SIGCA) PARA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO (NAICM)",
+            "id": "milestone-5b19dd2e-9bfe-4acb-add8-927c5c235fba",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "63.48%"
+          }
+        ]
+      },
+      "status": "active",
+      "period": {
+        "startDate": "2016-03-01T06:00:00.000Z",
+        "endDate": "2018-10-26T05:00:00.000Z"
+      },
+      "dateSigned": "2016-03-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.547Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) a traves de la entidad de supervision ambiental (Condicionante 10, resolutivo MIA-R",
+    "awardPeriod": {
+      "endDate": "2016-03-01T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 227520000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-b129ccaa-1dcf-407f-8c29-3427dfd8bc28",
+        "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-37a354a5-94ac-4f83-9164-693d8d82fd2c",
+        "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-7e2e551b-2a5d-4da2-a303-18740a5c17fd",
+        "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-799fc13f-41fb-456c-8734-05a110785984",
+        "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-45cfd0b5-ef15-4f79-9ca8-12625ae08a07",
+        "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-36010e6b-4457-4cb2-8ea3-62423d5e9d95",
+        "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2016-03-01T06:00:00.000Z"
+    },
+    "description": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) a traves de la entidad de supervision ambiental (Condicionante 10, resolutivo MIA-R",
+    "items": [
+      {
+        "id": "item-86fa0691-cc37-4069-915f-1d69e1cd9211",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto Nuevo Aeropuerto Internacional de la ciudad de Mexico (NAICM), a traves de laentidad de supervision ambiental (condicionante 10, resolutivo MIA-R)",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 227520000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 227520000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d00d4db3-7e00-4370-9418-a0f344b4eaad",
+        "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) a traves de la entidad de supervision ambiental (Condicionante 10, resolutivo MIA-R"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_286_2017-10-04T00:53:17.543Z",
+  "ocid": "286",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) a traves de la entidad de supervision ambiental (Condicionante 10, resolutivo MIA-R .",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2016-03-01T06:00:00.000Z",
+        "endDate": "2018-10-26T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 227520000
+      },
+      "items": [
+        {
+          "id": "item-25e3b880-18e4-4c0f-a3da-6e4e847c2838",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Etapa 2; seguimiento para el cumplimiento ambiental del proyecto Nuevo Aeropuerto Internacional de la ciudad de Mexico (NAICM), a traves de laentidad de supervision ambiental (condicionante 10, resolutivo MIA-R)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 227520000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Zacatenco",
+            "postalCode": "7738",
+            "streetAddress": "Edificio de la Direccion General, Avenida Luis Enrique Erro sin numero, Unidad Profesional Adolfo Lopez Mateos",
+            "region": "Gustavo A. Madero"
+          },
+          "identifier": {
+            "id": "FIC000330LK9",
+            "legalName": "Instituto Politecnico Nacional"
+          },
+          "name": "Instituto Politecnico Nacional"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-ae2e47b5-59ad-4266-a877-79f2e48ef5f0",
+          "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0b9f6e8e-b872-4dce-ae8b-953864f1b193",
+          "url": "http://189.211.120.220:8880/files/opendata/16002-AD-SRO-CONV-DCAGI-SC-002-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

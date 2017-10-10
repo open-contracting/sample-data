@@ -1,0 +1,376 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-10-31T06:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "REHABILITACION DE LA INFRAESTRUCTURA VIAL EN EL MUNICIPIO DE TEXCOCO, ESTADO DE MEXICO.",
+      "id": "AD-OP-DCAGI-SC-088-16",
+      "awardID": "AO-009KDH999-E8-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-732ed267-6cae-413b-aab8-a8d08e94ff83",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-10-31T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-10-31T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-ef62fc0b-5886-4382-8585-f26293e62bb7",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-10-31T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-10-31T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6ea8b3a6-2804-4292-92af-443e787c85d1",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-10-31T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-10-31T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-46dafc86-9d63-4bc4-9773-e83de01b7a93",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-10-31T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-10-31T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 54099060.26
+      },
+      "items": [
+        {
+          "id": "item-7b14ff91-d9a7-4aa9-9334-c4bbab8e2358",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "REHABILITACI?N DE LA INFRAESTRUCTURA VIAL EN EL MUNICIPIO DE TEXCOCO, ESTADO DE M?XICO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 54099060.26
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-b02d68ec-22c0-4f5a-af93-f76c9c4c022c"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "TCT931025713",
+              "legalName": "TRANSPORTACIONES Y CONSTRUCCIONES TAMAULIPECOS, S.A. DE C.V.",
+              "scheme": "TRANSPORTACIONES Y CONSTRUCCIONES TAMAULIPECOS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-OP-DCAGI-SC-088-16 REHABILITACI?N DE LA INFRAESTRUCTURA VIAL EN EL MUNICIPIO DE TEXCOCO, ESTADO DE M?XICO.",
+            "id": "milestone-2c227944-51a3-4e19-b581-6e389c5ce0f1",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-10-31T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.853Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-01-18T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "39 ADJUDICACION DIRECTA ART. 42 DE LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 54137931.03
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "REHABILITACION DE LA INFRAESTRUCTURA VIAL DEL MUNICIPIO DE TEXCOCO, ESTADO DE MEXICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-1e573856-1031-41f3-9de5-90622663b730",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-10-31T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-10-31T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-f2362e51-995e-403e-aa1d-6e581f79a215",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-0957bf55-00de-47e6-9cb6-af4441c05d61",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-76f4c845-95ab-4512-a752-e21a08e6b5cd",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-47304f76-15c3-4f41-8c3e-875f47870704",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-e376c2c9-72aa-46c0-b303-a7fc64ace85d",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-10-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-10-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2017-01-18T06:00:00.000Z"
+    },
+    "id": "1256725",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-cb223c15-4b94-465c-adce-9e457d546bfa",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "REHABILITACI?N DE LA INFRAESTRUCTURA VIAL EN EL MUNICIPIO DE TEXCOCO, ESTADO DE M?XICO.",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 54099060.26
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 54137931.03
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-dfbef80e-62f7-4816-8831-ce32a513162e",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-10-31T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-10-31T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "REHABILITACI?N DE LA INFRAESTRUCTURA VIAL EN EL MUNICIPIO DE TEXCOCO, ESTADO DE M?XICO."
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_457_2017-10-04T00:53:18.849Z",
+  "ocid": "457",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "REHABILITACI?N DE LA INFRAESTRUCTURA VIAL EN EL MUNICIPIO DE TEXCOCO, ESTADO DE M?XICO.",
+      "id": "AO-009KDH999-E8-2017",
+      "contractPeriod": {
+        "startDate": "2016-10-31T06:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 54099060.26
+      },
+      "items": [
+        {
+          "id": "item-2d797e7a-195d-4543-b198-af4105b6bba0",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "REHABILITACI?N DE LA INFRAESTRUCTURA VIAL EN EL MUNICIPIO DE TEXCOCO, ESTADO DE M?XICO.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 54099060.26
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-12a66817-e258-4a59-83c2-63d640344f9b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-10-31T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-10-31T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-fab85c3d-91c6-4fb2-98e4-a7c77eb7cc9c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16088-AD-OP-DCAGI-SC-088-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-10-31T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-10-31T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-10-31T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "REYNOSA",
+            "locality": "RENACIMIENTO",
+            "postalCode": "88740",
+            "streetAddress": "CARRETERA LIBRE MATAMOROS A MONTERREY KM 5.2 SN",
+            "region": "REYNOSA"
+          },
+          "contactPoint": {
+            "email": "federico.mendez@tracotamsa.com.mx",
+            "name": "Federico Mendez Medina"
+          },
+          "identifier": {
+            "id": "TCT931025713",
+            "legalName": "TRANSPORTACIONES Y CONSTRUCCIONES TAMAULIPECOS, S.A. DE C.V."
+          },
+          "name": "TRANSPORTACIONES Y CONSTRUCCIONES TAMAULIPECOS, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

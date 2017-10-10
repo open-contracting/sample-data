@@ -1,0 +1,374 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2015-05-23T05:00:00.000Z"
+      },
+      "title": "Servicios de experto revisor para la asistencia tecnica especializada en materia de diseno estructural, aplicada  a la infraestructura aeroportuaria.",
+      "id": "AD-SRO-DCAGI-SC-100/15",
+      "awardID": "AO-009KDH999-E46-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-acd5090a-445d-4cdd-8b90-579d07e9fc45",
+          "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-3a0ede6c-f4ea-4ac4-85e9-e43c7b607f66",
+          "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-855fcbc8-1f66-4630-b871-09edd3ed7ffa",
+          "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-6de32402-774a-4c40-b553-31bc016fdffc",
+          "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 2996683.2
+      },
+      "items": [
+        {
+          "id": "item-90f6b2b2-e3f6-4516-b027-d1e92ac84aba",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Servicios de Experto Revisor para la Asistencia Tecnica Especializada en Materia de Diseno Estructural, Aplicada  a la Infraestructura Aeroportuaria.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 2996683.2
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-8759e96a-4b91-4897-aeb3-7830ed70d250"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "STEPHEN ALAN MAHIN",
+              "scheme": "STEPHEN ALAN MAHIN"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-100/15 PRESTACION DE SERVICIOS DE EXPERTO REVISOR PARA PANEL DE DISE?O SISMICO, ESTRUCTURAS Y PRESTACI?N DE SERVCIOS PARA PANEL DE DISE?O PROTECCI?N CONTRA INCENDIO",
+            "id": "milestone-5274bbc5-5924-4e5d-bb01-374ed2079a95",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.421Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios de Experto Revisor para la Asistencia Tecnica Especializada en Materia de Diseno Estructural, Aplicada  a la Infraestructura Aeroportuaria.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 26000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios de Experto Revisor para la Asistencia Tecnica Especializada en Materia de Diseno Estructural, Aplicada  a la Infraestructura Aeroportuaria.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-268b9d1a-d348-4eec-b3a8-09ad2bfb3cd2",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-048f5ed3-b7e2-4863-a3a7-7e00d91b96f8",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-fe3872a9-f430-415e-a929-a6dbdcda74e8",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-056c15b1-7361-4498-80b8-bd7b58b989c7",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-06255d4c-fdcb-4f0f-a3df-af638631bdf1",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-3131a628-278a-421d-94fe-5eafb923a894",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1041842",
+    "items": [
+      {
+        "id": "item-58120df3-6670-4188-9449-4a716326be3a",
+        "classification": {
+          "id": "6250",
+          "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+        },
+        "quantity": 1,
+        "description": "Servicios de Experto Revisor para la Asistencia Tecnica Especializada en Materia de Diseno Estructural, Aplicada  a la Infraestructura Aeroportuaria.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 2996683.2
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicios de Experto Revisor para la Asistencia Tecnica Especializada en Materia de Diseno Estructural, Aplicada  a la Infraestructura Aeroportuaria.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 26000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Fedracion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-af18edc0-6f63-41fb-90de-bfc707f43cd1",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-95759d1a-5fe0-401d-a178-267f524a7aaf",
+        "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de Experto Revisor para la Asistencia Tecnica Especializada en Materia de Diseno Estructural, Aplicada  a la Infraestructura Aeroportuaria."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_274_2017-10-04T00:53:17.417Z",
+  "ocid": "274",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de experto revisor para la asistencia tecnica especializada en materia de diseno estructural, aplicada  a la infraestructura aeroportuaria.",
+      "id": "AO-009KDH999-E46-2016",
+      "contractPeriod": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2015-05-23T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 2996683.2
+      },
+      "items": [
+        {
+          "id": "item-0c8b382f-90e9-47b0-be85-09fae5aab446",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Servicios de Experto Revisor para la Asistencia Tecnica Especializada en Materia de Diseno Estructural, Aplicada  a la Infraestructura Aeroportuaria.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 2996683.2
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-5adccd8e-6ad5-41a3-85ab-3f0aa6f28897",
+          "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-e0457426-ffee-4815-a48f-ddb9199ac8fd",
+          "url": "http://189.211.120.220:8880/files/opendata/15100-AD-SRO-DCAGI-SC-100-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "E.E.U.U.",
+            "locality": "Emeryville",
+            "postalCode": "94608",
+            "streetAddress": "6363 Christie Ave Apt 1926",
+            "region": "Emeryville"
+          },
+          "identifier": {
+            "id": "NO APLICA",
+            "legalName": "Stephen Alan Mahin"
+          },
+          "name": "Stephen Alan Mahin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-06-17T05:00:00.000Z",
+        "endDate": "2016-11-28T06:00:00.000Z"
+      },
+      "title": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "ITP-SRO-DCAGI-SC-043-16",
+      "awardID": "IO-009KDH999-E72-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-4268d1b2-e0e3-41d4-9b7b-5731644510be",
+          "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-07T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-07T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-f8ae243d-19d2-402b-9881-254690898982",
+          "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-07T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-07T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-4b2b2db7-bb33-4356-a86e-d7f5375d94c6",
+          "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/19.-%20CM/19.1.pdf",
+          "datePublished": "2016-06-07T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-06-07T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-308a00b1-8d7a-4d23-aa20-8c388f5a497e",
+          "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-07T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-07T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-2f835f36-4eba-4aa7-9644-1dc731cb0215",
+          "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-07T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-07T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 3599010.2
+      },
+      "items": [
+        {
+          "id": "item-7cb89d78-91be-4b1b-b3eb-2e8d4716e877",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 3599010.2
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-34475cf1-e545-4eec-8f2b-bb2d5d68fc2a"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "TGC GEOTECNIA, S.A. DE C.V.",
+              "scheme": "TGC GEOTECNIA, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 6503451.3
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-043-2016 SUPERVISI?N DE LAS OBRAS DE EXCAVACI?N DE PRUEBA, LOSA EXPERIMENTAL Y PRUEBA DE PILOTES PARA EL EDIFICIO TERMINAL Y TORRE DE CONTROL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+            "id": "milestone-e0317bcc-541b-4bd4-bc6c-6e0cae9e91b5",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-06-17T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.770Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "awardPeriod": {
+      "endDate": "2016-05-31T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 5172413.79
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-4b2b21d6-5ea6-4179-b4b2-3be038a3d29f",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-82028733-e237-4cc0-8a27-66d55abfd611",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-f72c6e80-46ec-4ad6-a7ba-4eef7fde68e1",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-3d18c172-587c-438f-b303-649c4686f4f1",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-631c7336-ffe6-462c-94bc-210f437c2001",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-8e82662f-b4ad-4a3b-a443-fab89631063b",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2016-05-31T05:00:00.000Z"
+    },
+    "id": "1063883",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-97e9f6b5-ada2-4f70-811b-a025e435c99d",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 3599010.2
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-05-24T05:00:00.000Z",
+      "endDate": "2016-05-24T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "amount": {
+        "currency": "MXN",
+        "amount": 5172413.79
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-a7c004b8-ed0b-4170-9da4-ee5125889c64",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f192ff77-86d4-4fab-aadd-3df5441840b0",
+        "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-07T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-07T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_309_2017-10-04T00:53:17.766Z",
+  "ocid": "309",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "IO-009KDH999-E72-2016",
+      "contractPeriod": {
+        "startDate": "2016-06-17T05:00:00.000Z",
+        "endDate": "2016-11-28T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 3599010.2
+      },
+      "items": [
+        {
+          "id": "item-a6b3dd49-1668-431f-9a05-45139a48a048",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision de las obras de excavacion de prueba, losa experimental y prueba de pilotes para el edificio terminal y torre de control del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 3599010.2
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-abdb7cc3-186e-4057-b585-4061ad164588",
+          "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-07T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-07T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-4c22353f-689b-4d9a-8e25-9541486ec334",
+          "url": "http://189.211.120.220:8880/files/opendata/16043-ITP-SRO-DCAGI-SC-043-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-07T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-07T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-06-07T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "03100",
+            "streetAddress": "Adolfo Prieto 1238",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "TGE841107VBA",
+            "legalName": "TGC GEOTECNIA S.A. DE C.V."
+          },
+          "name": "TGC GEOTECNIA S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-02-15T06:00:00.000Z",
+        "endDate": "2016-04-14T05:00:00.000Z"
+      },
+      "title": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+      "id": "AD-AS-DCAGI-SC-016-16",
+      "awardID": "AA-009KDH999-E98-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-e0749daa-d8e4-478a-a596-618bd3c998b7",
+          "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-d1ff0fcb-8fb0-48c5-99f8-7e686828a622",
+          "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-9e33fe47-5622-4d33-aa34-f6063a1dc4b8",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-AD-AS-DCAGI-SC-016-16.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-478e3fb9-0a13-4931-a936-3f988ed08fe7",
+          "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-d84c40dc-9fb5-461b-a04b-42e17953862c",
+          "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 203100
+      },
+      "items": [
+        {
+          "id": "item-4f509aff-c9a4-4a4a-aee8-97728205b1ae",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 203100
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-ad803ad7-f9a9-4088-950b-82f5ac165743"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "PORTABA?OS",
+              "legalName": "PORTA BA?OS 2000 S.A DE C.V",
+              "scheme": "PORTA BA?OS 2000 S.A DE C.V"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-016/16 SERVICIO DE SANITARIOS PORTATILES",
+            "id": "milestone-e2ea73f3-e326-46f1-ad5e-ddca87083cb9",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-02-15T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.000Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 299137
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-8c7dafe6-09cc-4299-8901-0ec3e677bd51",
+        "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-51d9c2fb-5209-4e22-8285-76cd35d3d361",
+        "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-7ba5316c-c4f6-461c-b271-7f0fcaa65748",
+        "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c21072b7-1432-4acc-9a24-ed8648b11a9e",
+        "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-2cd021f9-5370-4c56-9803-cad8b400701f",
+        "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-0b911253-afc1-4aa9-9648-07aa3afdc4f6",
+        "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1109256?",
+    "items": [
+      {
+        "id": "item-97819c9f-e894-48f4-a158-ef9d4f27f3ee",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 203100
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+      "amount": {
+        "currency": "MXN",
+        "amount": 299137
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b08d990a-c63c-43e0-b74c-2d10b5a774dc",
+        "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)"
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_207_2017-10-04T00:53:16.994Z",
+  "ocid": "207",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+      "id": "AA-009KDH999-E98-2016",
+      "contractPeriod": {
+        "startDate": "2016-02-15T06:00:00.000Z",
+        "endDate": "2016-04-14T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 203100
+      },
+      "items": [
+        {
+          "id": "item-0172b387-6719-450f-a728-7ed570b87309",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de sanitarios portatiles para el programa de empleo temporal (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 203100
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-6cb5dc13-cb7e-4a1e-95a0-2e817f4aac57",
+          "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-4a6230a8-bad1-4ae9-9b56-fb9a95c8940f",
+          "url": "http://189.211.120.220:8880/files/opendata/16016-AD-AS-DCAGI-SC-016-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "San Antonio Culhuacan",
+            "postalCode": "09800",
+            "streetAddress": "Benito Juarez 276",
+            "region": "Iztapalapa"
+          },
+          "identifier": {
+            "id": "PBD000118DD3",
+            "legalName": "PORTA BANOS 2000, S.A. DE C.V."
+          },
+          "name": "PORTA BANOS 2000, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

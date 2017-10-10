@@ -1,0 +1,383 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-12-12T06:00:00.000Z",
+        "endDate": "2016-12-22T06:00:00.000Z"
+      },
+      "title": "ADQUISICION DE MEDICINAS Y PRODUCTOS FARMACEUTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+      "id": "ITP-AB-DCAGI-SC-094-16",
+      "awardID": "IA-009KDH999-E149-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-8e21513e-7f03-4412-8594-f217dc418003",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-ec23aae9-5f99-4a32-bb58-82db81b9c832",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-e05e789f-9022-4eea-859a-fa803de5cf96",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-5bccc7ac-e737-4587-a007-2f46ab73e04d",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 886226.44
+      },
+      "items": [
+        {
+          "id": "item-9a7dadd2-0941-4d92-83f0-71b6aa39d3e8",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ADQUISICI?N DE MEDICINAS Y PRODUCTOS FARMAC?UTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 886226.44
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-23ff2468-d598-4dc1-b692-f18ed5fa212b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "DMJ0001188AA",
+              "legalName": "DISTRIBUIDORA DE MEDICAMENTOS JOFEDAN, S.A. DE C.V.",
+              "scheme": "DISTRIBUIDORA DE MEDICAMENTOS JOFEDAN, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AB-DCAGI-SC-094-16 ADQUISICI?N DE MEDICINAS Y PRODUCTOS FARMAC?UTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+            "id": "milestone-a74191b2-20f3-454f-ab19-f3e6934914aa",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-12-12T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.284Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-11-29T06:00:00.000Z",
+      "endDate": "2016-12-09T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "04 INVITACION A CUANDO MENOS TRES NACIONAL LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 1482314.81
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "ADQUISICION DE MEDICINAS Y PRODUCTOS FARMACEUTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-11f7f5ca-94ed-41ee-9ea6-9e3d09693b81",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-baee63af-65a3-4963-9d02-e9f1c7b7cf78",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-7f22f0f6-1da0-43fb-98d7-627a5a62ba19",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-5b112683-967c-47c8-9a34-a8792bd65347",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-d99e2448-442a-47fd-853e-6637707eef0a",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-7d93cbf2-546e-46fe-b79b-6ace61a1717e",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-11-29T06:00:00.000Z",
+      "endDate": "2016-12-09T06:00:00.000Z"
+    },
+    "id": "1214149",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-218088f0-735b-46c4-af54-baedd7fecced",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ADQUISICI?N DE MEDICINAS Y PRODUCTOS FARMAC?UTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 886226.44
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-12-02T06:00:00.000Z",
+      "endDate": "2016-12-09T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1482314.81
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e61e7fb3-1a44-4a21-b6da-74a58abc5a89",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ADQUISICI?N DE MEDICINAS Y PRODUCTOS FARMAC?UTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_501_2017-10-04T00:53:19.278Z",
+  "ocid": "501",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ADQUISICI?N DE MEDICINAS Y PRODUCTOS FARMAC?UTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+      "id": "IA-009KDH999-E149-2016",
+      "contractPeriod": {
+        "startDate": "2016-12-12T06:00:00.000Z",
+        "endDate": "2016-12-22T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 886226.44
+      },
+      "items": [
+        {
+          "id": "item-a96a6fb1-d4a8-4ee1-85c5-701d1f3c6e85",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ADQUISICI?N DE MEDICINAS Y PRODUCTOS FARMAC?UTICOS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 886226.44
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-56069f31-135f-419e-83db-0964aa14748a",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9f132b3d-c4ee-48f4-ae54-fbca3ca42816",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16094-ITP-AB-DCAGI-SC-094-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-12-12T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "locality": "LOS MANANTIALES",
+            "postalCode": "58170",
+            "streetAddress": "MANANTIAL DE ATZIMBA 102",
+            "countryName": "MORELIA"
+          },
+          "contactPoint": {
+            "email": "EMAILABRAHAM@HOTMAIL.COM",
+            "telephone": "01 443 281 7524",
+            "name": "B B"
+          },
+          "identifier": {
+            "id": "DMJ0001188AA",
+            "legalName": "DISTRIBUIDORA DE MEDICAMENTOS JOFEDAN, S.A. DE C.V."
+          },
+          "name": "DISTRIBUIDORA DE MEDICAMENTOS JOFEDAN, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

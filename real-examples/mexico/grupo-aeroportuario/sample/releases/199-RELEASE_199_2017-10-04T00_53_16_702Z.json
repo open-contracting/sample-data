@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-17T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "title": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos provisionales de Acceso al (NAICM), ejecutando Trabajos de Terraceria, Estructura, Obras de Drenaje, Pavimentacion y Senalamiento.",
+      "id": "AD-AS-DCAGI-SC-116/15",
+      "awardID": "AA-009KDH999-E59-2016",
+      "documents": [
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-26f509f7-e3c8-4089-8f13-cbdc295dbfa3",
+          "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-15T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-15T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-98d2c2d0-f712-42a8-b351-a25724b61fba",
+          "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-15T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-15T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-aaf8bf9c-4b8a-40ca-a0d7-eb5b0a94f451",
+          "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-15T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-15T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6b43a741-3ce9-4297-a744-84d80a7a28ea",
+          "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-15T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-15T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 479484
+      },
+      "items": [
+        {
+          "id": "item-47d83cb6-08ee-45ff-a992-b96dd39dd6f9",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos pr",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 479484
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-5ba0dbbf-806d-49ae-9226-f69e9ab5df9d"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "JOSE GENARO RUIZ GOMEZ",
+              "scheme": "JOSE GENARO RUIZ GOMEZ"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-116/15 TESTIGO SOCIAL PARA LA CONSTRUCCION DE LOS CAMINOS PROVISIONALES DE ACCESO AL NAICM, EJECUTANDO TRABAJOS DE TERRACERIA, ESTRUCTURAS,? OBRAS DE DRENAJE PAVIMENTACI?N Y SE?ALAMIENTO",
+            "id": "milestone-1d84bbb9-ec70-430b-970d-35a3affcd617",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-15T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.707Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos provisionales de Acceso al (NAICM), ejecutando Trabajos de Terraceria, Estructura, Obras de Drenaje, Pavimentacion y Senalamiento.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 479484
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos provisionales de Acceso al (NAICM), ejecutando Trabajos de Terraceria, Estructura, Obras de Drenaje, Pavimentacion y Senalamiento.",
+    "documents": [
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-1c0776e5-66aa-4eee-af71-0d3605aa61be",
+        "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-8a9e8404-ab94-45c5-bcc1-b75f1350833a",
+        "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-b7feebd2-b406-43a7-a2d3-32232677a229",
+        "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-e60ccfc3-d3ee-442f-97cf-aff34f9e5165",
+        "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-15T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-15T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-b39938a9-f49a-46c8-bc3f-6a37b7626268",
+        "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-e5e13379-3143-4df9-96d2-3775364f17ee",
+        "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1044735",
+    "items": [
+      {
+        "id": "item-10b20879-463a-4e14-a6be-aa3f7ca1b689",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos pr",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 479484
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos provisionales de Acceso al (NAICM), ejecutando Trabajos de Terraceria, Estructura, Obras de Drenaje, Pavimentacion y Senalamiento.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 479484
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d445f2b9-4b3f-470f-acf1-5445db0ec5c3",
+        "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-15T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-15T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos provisionales de Acceso al (NAICM), ejecutando Trabajos de Terraceria, Estructura, Obras de Drenaje, Pavimentacion y Senalamiento."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_199_2017-10-04T00:53:16.702Z",
+  "ocid": "199",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos provisionales de Acceso al (NAICM), ejecutando Trabajos de Terraceria, Estructura, Obras de Drenaje, Pavimentacion y Senalamiento.",
+      "id": "AA-009KDH999-E59-2016",
+      "contractPeriod": {
+        "startDate": "2015-12-17T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 479484
+      },
+      "items": [
+        {
+          "id": "item-d3706e84-1621-4d45-af31-0a09d0aa9fa8",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de un Testigo Social para que atestigue la Etapas del procedimiento de Licitacion Publica de Obra Publica de Construccion de los Caminos pr",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 479484
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-00fc71ba-293d-4594-aaff-9c5306c3e720",
+          "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-15T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-15T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-049a30e1-852f-4155-89d6-470e855188ac",
+          "url": "http://189.211.120.220:8880/files/opendata/15116-AD-AS-DCAGI-SC-116-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-15T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-15T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Pedregal de Carrasco",
+            "postalCode": "4700",
+            "streetAddress": "Rinconada Colonial ED Lima 003",
+            "region": "Coyoacan"
+          },
+          "identifier": {
+            "id": "RUGG460126GF2",
+            "legalName": "Jose Genaro Ruiz Gomez"
+          },
+          "name": "Jose Genaro Ruiz Gomez"
+        }
+      ]
+    }
+  ]
+}

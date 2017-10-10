@@ -1,0 +1,370 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-12-13T06:00:00.000Z",
+        "endDate": "2016-12-27T06:00:00.000Z"
+      },
+      "title": "ADQUISICION DE AGUA PURIFICADA EN GARRAFON Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+      "id": "AD-AB-DCAGI-SC-090-16",
+      "awardID": "AA-009KDH999-E22-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-477edbb0-e0fe-43f2-8fd0-b1872f566b53",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-fbd98537-1f14-4d7e-a9e8-4391506ec11f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-ffa6edaf-6aac-4e48-af8d-bc490b2a1a59",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-e9b25527-b35c-4552-a479-62d81ce5253b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 153440
+      },
+      "items": [
+        {
+          "id": "item-e083469c-63b7-4015-8135-e00bb034babe",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ADQUISICI?N DE AGUA PURIFICADA EN GARRAF?N Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 153440
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-c3cfcfad-a0e3-41cc-88e7-912288e10edd"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "SEBASTIAN RICARDO RAMIREZ CASTILLO",
+              "scheme": "SEBASTIAN RICARDO RAMIREZ CASTILLO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AB-DCAGI-SC-090-16 ADQUISICI?N DE AGUA PURIFICADA EN GARRAF?N Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+            "id": "milestone-aefc3f8f-49d6-4f19-8e33-0ba855fade3e",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-12-13T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.277Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "07 ADJUDICACION DIRECTA NACIONAL ART. 42 LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 153448.28
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "ADQUISICI?N DE AGUA PURIFICADA EN GARRAF?N Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-d388c50c-763b-4c3a-b007-f6ff60a4c74b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-0d78f930-f71d-4308-9e6f-6c014b024b5a",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-3c657e1f-be90-4fc1-9af6-8c49203aeb12",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-06968fbe-0d23-445e-a0b0-8c3f518c13f5",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-477a38be-e2f6-42af-a492-307121f9a641",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-f14cee4b-6b53-47db-b6e8-ea03c6f11ee0",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1294749",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-78102d3f-01e9-4cbc-bef4-4012cd6d100d",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ADQUISICI?N DE AGUA PURIFICADA EN GARRAF?N Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 153440
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 153448.28
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9f2aca98-914d-4435-85ed-bb397c2b6456",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ADQUISICI?N DE AGUA PURIFICADA EN GARRAF?N Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_500_2017-10-04T00:53:19.274Z",
+  "ocid": "500",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ADQUISICI?N DE AGUA PURIFICADA EN GARRAF?N Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+      "id": "AA-009KDH999-E22-2017",
+      "contractPeriod": {
+        "startDate": "2016-12-13T06:00:00.000Z",
+        "endDate": "2016-12-27T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 153440
+      },
+      "items": [
+        {
+          "id": "item-5c3efdee-8107-4c6e-b553-7be98b731d46",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ADQUISICI?N DE AGUA PURIFICADA EN GARRAF?N Y BOTELLAS PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 153440
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-3a3f32dd-2b7e-4de5-9f27-76f552b2e5f5",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-641baa2f-b3aa-4114-91d5-e45f982b3642",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16090-AD-AB-DCAGI-SC-090-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-12-13T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "ESTADO DE MEXICO",
+            "locality": "EJIDO SAN CRISTOBAL",
+            "postalCode": "55024",
+            "streetAddress": "CUARTA DE CEDROS MANZANA 62",
+            "region": "ECATEPEC DE MORELOS"
+          },
+          "contactPoint": {
+            "email": "SEBASTIAN.RAMIREZ@GMAIL.COM",
+            "telephone": "58357257",
+            "name": "RAMIREZ"
+          },
+          "identifier": {
+            "id": "RAC5930526BDA",
+            "legalName": "SEBASTIAN RICARDO RAMIREZ CASTILLO"
+          },
+          "name": "SEBASTIAN RICARDO RAMIREZ CASTILLO"
+        }
+      ]
+    }
+  ]
+}

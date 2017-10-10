@@ -1,1164 +1,1164 @@
 {
-  "language": "uk",
-  "contracts": [
-    {
-      "status": "active",
-      "documents": [
-        {
-          "documentScope": "tender",
-          "format": "application/pdf",
-          "url": "https://public.docs.openprocurement.org/get/ecf4cc4ab3a9468da5b80524a3560e36?KeyID=52462340&Signature=I7WHTCqgRX5OAOATlZNo1maNz4LnkALbFgjyZ%2Fgyn6mYGJ9gtSBDeHA9psKfi1vA9ppb5vfc2%252B4xzpIiJdI%2FCQ%253D%253D",
-          "title": "Договір.pdf",
-          "dateModified": "2017-04-25T14:45:37.814934+03:00",
-          "documentType": "contractSigned",
-          "datePublished": "2017-04-25T14:45:37.814913+03:00",
-          "id": "a636ecf8661142169f1f6dd5d9f3e7ab"
-        },
-        {
-          "documentScope": "tender",
-          "title": "sign.p7s",
-          "url": "https://public.docs.openprocurement.org/get/5d8154f359c14a7abc2deba1b1361d3b?KeyID=52462340&Signature=OmXGFV2QOXKNL4N25Li%252BsDpM8%2FbDiSELofbu1cuOA0ARCU9MQ97%252B0faxOpbX%2FpqnV9bAegAjGTSJCuG3ZjKmCg%253D%253D",
-          "format": "application/pkcs7-signature",
-          "dateModified": "2017-04-25T14:47:07.212028+03:00",
-          "datePublished": "2017-04-25T14:47:07.212007+03:00",
-          "id": "6cda512cead0442085cc9902f7fa9508"
-        },
-        {
-          "documentScope": "change",
-          "language": "uk",
-          "format": "image/jpeg",
-          "url": "https://public.docs.openprocurement.org/get/d101b80367d44b709e0c876abd962d84?KeyID=52462340&Signature=%2FaMOhDgGMyEujIrD6h3OjpydDwVx2VYomGiomkCsLDMqtNmDRzPc9wLT5LRF6Q047smXtRvN79GzvRnT3KwiCA%253D%253D",
-          "title": "зміни 15.05.17.JPG",
-          "dateModified": "2017-05-15T16:05:59.064878+03:00",
-          "relatedItem": "8868cb0a4b3b4414bb0ac8da8bbaab17",
-          "documentType": "contractAnnexe",
-          "datePublished": "2017-05-15T16:05:59.064843+03:00",
-          "id": "f39fea96e71743eeb8871332e72a7aeb"
-        },
-        {
-          "documentScope": "change",
-          "format": "application/pkcs7-signature",
-          "url": "https://public.docs.openprocurement.org/get/ee2d1f0a195f4fca89bc3e6e9c41b965?KeyID=52462340&Signature=mU4Dz2mV9EHlIVd6h5Ecfsj6etjVXxcwdPnMvCpkg%252B%252BcPn2%252BNjFhNVWj5UTqQaEh7pBEnldba5nkyMoL0gbXAw%253D%253D",
-          "title": "sign.p7s",
-          "relatedItem": "8868cb0a4b3b4414bb0ac8da8bbaab17",
-          "dateModified": "2017-05-15T16:09:57.164214+03:00",
-          "datePublished": "2017-05-15T16:09:57.164192+03:00",
-          "id": "1c8861ec49d7412a8290f8d1d8ef1187"
-        },
-        {
-          "documentScope": "change",
-          "language": "uk",
-          "format": "image/jpeg",
-          "url": "https://public.docs.openprocurement.org/get/0b94faf715554c32b1c5311b2bd47cc6?KeyID=52462340&Signature=%252BAnY0Kbdnoyg%252BzznzL5Q6lS%2FWV1Sr4adzQL8hDRqz5pYut7xsUebH1%2F8M0DLEwMX8bFVkLKIYWPgP%252BgAWXEKBA%253D%253D",
-          "title": "зміни12..06.JPG",
-          "dateModified": "2017-06-12T15:10:32.709350+03:00",
-          "relatedItem": "4b543ac1a4ef43b892ed5a3481252e04",
-          "documentType": "contractAnnexe",
-          "datePublished": "2017-06-12T15:10:32.709329+03:00",
-          "id": "8910d5d381364e9bbac6775441cfa16f"
-        },
-        {
-          "documentScope": "change",
-          "format": "application/pkcs7-signature",
-          "url": "https://public.docs.openprocurement.org/get/859b5a3eafe34c28b26d5ef0b51db870?KeyID=52462340&Signature=IsssOUPpS7kSs1QIAxS25CTV7IIWGV1KMNe54UO7PDxIRn2TENc6R0YBxjjTsAxIhdBw0Kw5ziCfDqCsmu6VAw%253D%253D",
-          "title": "sign.p7s",
-          "relatedItem": "4b543ac1a4ef43b892ed5a3481252e04",
-          "dateModified": "2017-06-12T15:12:58.410822+03:00",
-          "datePublished": "2017-06-12T15:12:58.410786+03:00",
-          "id": "f2df66a85b134a8496cc71a8bf249147"
-        }
-      ],
-      "items": [
-        {
-          "description": "Банани товар вищого ґатунку.",
-          "classification": {
-            "scheme": "CPV",
-            "description": "Овочі, фрукти та горіхи",
-            "id": "03220000-9"
-          },
-          "deliveryAddress": {
-            "postalCode": "52500",
-            "countryName": "Україна",
-            "streetAddress": "адреса вказана в Додатке № 4",
-            "region": "Дніпропетровська область",
-            "locality": "м.Синельникове"
-          },
-          "deliveryDate": {
-            "endDate": "2017-12-31T23:59:59.999999+02:00"
-          },
-          "id": "24997fb7ffa44e659aed639cf4d0d0b2",
-          "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
-            "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 943
-        },
-        {
-          "description": "Лимони товар вищого ґатунку.",
-          "classification": {
-            "scheme": "CPV",
-            "description": "Овочі, фрукти та горіхи",
-            "id": "03220000-9"
-          },
-          "deliveryAddress": {
-            "postalCode": "52500",
-            "countryName": "Україна",
-            "streetAddress": "адреса вказана в Додатке № 4",
-            "region": "Дніпропетровська область",
-            "locality": "м.Синельникове"
-          },
-          "deliveryDate": {
-            "endDate": "2017-12-31T23:59:59.999999+02:00"
-          },
-          "id": "f79ef6da622f4d08b71ab23196e0dc2b",
-          "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
-            "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 400
-        }
-      ],
-      "suppliers": [
-        {
-          "contactPoint": {
-            "telephone": "+380676342660",
-            "email": "krishtal_nata@mail.ru",
-            "name": "Наталія Кришталь"
-          },
-          "identifier": {
-            "scheme": "UA-EDR",
-            "id": "2304707963",
-            "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\""
-          },
-          "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
-          "address": {
-            "countryName": "Україна",
-            "postalCode": "52500",
-            "region": "Дніпропетровська область",
-            "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
-            "locality": "місто Синельникове"
-          }
-        }
-      ],
-      "contractNumber": "25/30",
-      "period": {
-        "startDate": "2017-04-25T00:00:00+03:00",
-        "endDate": "2017-12-31T00:00:00+02:00"
-      },
-      "dateSigned": "2017-04-25T14:44:00+03:00",
-      "value": {
-        "currency": "UAH",
-        "amount": 43788.9,
-        "valueAddedTaxIncluded": true
-      },
-      "awardID": "3582f543aed249fc95889dcd63a127b6",
-      "id": "256538217043498cb6e11d47a98e7e9e",
-      "contractID": "UA-2017-04-12-001619-b-b1"
-    }
-  ],
-  "ocid": "ocds-be6bcu-UA-2017-04-12-001619-b",
-  "bids": {
-    "details": [
-      {
-        "status": "active",
-        "documents": [
-          {
-            "documentScope": "tender",
-            "description": "SHA1: 873a45689faaa3c0d71cac53a73fe020dfd88e49",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/d53d2018715741168100af0314b5fcd3?KeyID=52462340&Signature=FzNFHhpbfiihET1rc2lkA%252B%2FHxG60Ik16dblnpr0LXW4nlECEQUWcJ%2FqE4XnQfWjImDVzC9pw6qH9MM9%252BcLL2CA%253D%253D",
-            "title": "SKM_22717041410480.pdf",
-            "dateModified": "2017-04-14T10:55:10.389393+03:00",
-            "datePublished": "2017-04-14T10:55:10.389372+03:00",
-            "id": "827e938d1a174438a51e9a4c6be9f1aa"
-          },
-          {
-            "documentScope": "tender",
-            "description": "SHA1: fac172e405141530570dbb76e9cfb0a2787ebf55",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/46be6ccc6de64ee5a4e847a104f379a7?KeyID=52462340&Signature=o%252BBKMQZ4eb7AMe33x%252BclhKj2C%252BnNz%2FQkdPRl33Gx44RjrtXTz%2FuY9YoXKE4V%252Bx8b%2FR45JOrGZMWOBzxzEgTUBw%253D%253D",
-            "title": "4 опп.pdf",
-            "dateModified": "2017-04-14T10:55:10.533770+03:00",
-            "datePublished": "2017-04-14T10:55:10.533749+03:00",
-            "id": "021a1ce5aa5f4f459a2c9586752c6a76"
-          },
-          {
-            "documentScope": "tender",
-            "description": "SHA1: da2228612fcbc910fb003f103e0382008c83bac2",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/edbe6af2ad734fe9aa786e7d5332c612?KeyID=52462340&Signature=s8hVXzTztZshfxHQPV%2FYcQ1ThaY90cMncXhs0NEQPqm%2FlBdei%252BqCRg2%252BnfRLGJgO2feMHYF3An92vtyPttAlDQ%253D%253D",
-            "title": "статут1.pdf",
-            "dateModified": "2017-04-14T10:55:10.684444+03:00",
-            "datePublished": "2017-04-14T10:55:10.684421+03:00",
-            "id": "a09aac224f1e4b68abdce45e47a33595"
-          },
-          {
-            "documentScope": "tender",
-            "description": "SHA1: 6053b9e29cd872da6ad8e3fe7a8746d58fb85d3e",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/d598ded9c2864ae28e0d02fe078c851e?KeyID=52462340&Signature=yMgzsim4pueNWO6gy4qTlyUzEsz0N2lREeqgRxUyM1OHBrQ7g85ayB7i4vVJoxISMBzZySxChxNz3oEtFWqJDA%253D%253D",
-            "title": "статут2.pdf",
-            "dateModified": "2017-04-14T10:55:10.839649+03:00",
-            "datePublished": "2017-04-14T10:55:10.839607+03:00",
-            "id": "2d2c91fc2780407b85cdc9a73fcf4242"
-          },
-          {
-            "documentScope": "tender",
-            "description": "SHA1: 9487915e417c5ddd714df013872e350f4167b237",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/3c948ddb65994ae4bcce9d3a36268506?KeyID=52462340&Signature=z62RBGxZpk%2FEVSkbvN0AzpWBLBQrg9WradQmRCjRH2g43xMVzcSa1NbiLXVLRHhbCOD2sK72ZA87hMFI%2FMTyBw%253D%253D",
-            "title": "статут 3.pdf",
-            "dateModified": "2017-04-14T10:55:10.995319+03:00",
-            "datePublished": "2017-04-14T10:55:10.995290+03:00",
-            "id": "4cfc2bd53e57404f93fbf68df33cd8d2"
-          },
-          {
-            "documentScope": "tender",
-            "description": "SHA1: fc54021fe01f23d6c1c75cb10f4e4f5fb08dbec6",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/6274ec9f3fe643a0aa629ff5c6157150?KeyID=52462340&Signature=P%252BSsxMTgwZWe4vpL1pRhJg5DyLG4P0e4RITSJmFwRW%252BGd052DW0zm%252Bmvv1vK18iZas938Dpv0zxIqNDcFmuJCw%253D%253D",
-            "title": "статут4.pdf",
-            "dateModified": "2017-04-14T10:55:11.140142+03:00",
-            "datePublished": "2017-04-14T10:55:11.140121+03:00",
-            "id": "f855542a514d4239804be37ec7caf342"
-          },
-          {
-            "documentScope": "tender",
-            "description": "SHA1: aff9dcb83f830988db11e266a4ded5b88995d0c5",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/fcd8b9b995934072a48f1c3bb3684579?KeyID=52462340&Signature=VxA9S1W8fpcTaZCbdx9tSJuXkNQ49KXuJy5weNsfe3flfos5WVVWpi3OgpcknIHEmhzySG18o4WzIVg60uJfBQ%253D%253D",
-            "title": "витяг1.pdf",
-            "dateModified": "2017-04-14T10:55:11.293820+03:00",
-            "datePublished": "2017-04-14T10:55:11.293797+03:00",
-            "id": "4fc8b66640e84a929393ed8ef1cd706b"
-          },
-          {
-            "documentScope": "tender",
-            "description": "SHA1: ed366a5b22b24ed54c7e34c9b9f18461f6bc6c6f",
-            "format": "application/pdf",
-            "url": "https://public.docs.openprocurement.org/get/fe02e9504d2d4368b882049154dfbd5f?KeyID=52462340&Signature=FJGeapvXsp6nkSxYkcaMp0E6kdSJYlec8kdMtXni9Fc7o8tuKZ772Zx03llG1I2ZZ1Psx9Q4gNrRCJJ%2FZynfBg%253D%253D",
-            "title": "витяг2.pdf",
-            "dateModified": "2017-04-14T10:55:11.453359+03:00",
-            "datePublished": "2017-04-14T10:55:11.453338+03:00",
-            "id": "6c7be96187334afa92f5e2d500316d19"
-          }
-        ],
-        "value": {
-          "currency": "UAH",
-          "amount": 43789.0,
-          "valueAddedTaxIncluded": true
-        },
-        "tenderers": [
-          {
-            "contactPoint": {
-              "telephone": "+380322940503",
-              "email": "danylov.d@tropikltd.com",
-              "name": "Данилов Дмитро Олександрович",
-              "faxNumber": "+380322245803"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "20831737",
-              "legalName": "ТОВ Тропік"
-            },
-            "name": "ТОВ Тропік",
-            "address": {
-              "countryName": "Україна",
-              "postalCode": "79008",
-              "region": "Львівська область",
-              "streetAddress": "м.Львів  вул.Пекарська 5/4",
-              "locality": "Львів"
-            }
-          }
-        ],
-        "date": "2017-04-19T11:22:07.752466+03:00",
-        "id": "ed32b1c802ca4deebcacb1fe220e2b9f",
-        "participationUrl": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077/login?bidder_id=ed32b1c802ca4deebcacb1fe220e2b9f&hash=30eb1c4610070d96ea158182537f8bc5bded322d"
-      },
-      {
-        "status": "active",
-        "documents": [
-          {
-            "documentScope": "tender",
-            "title": "лист-відмова.jpg",
-            "url": "https://public.docs.openprocurement.org/get/ca47f7bb2f0f4b7fb9c96a1041fe976a?KeyID=52462340&Signature=gQndyMHlNxLyRfmXz5Q5OxDfJjB2GKt1WjQF6ZJspJZIq6DlzJHbnx8N5jcOrwnV1dMkd0g%2FssE1l1pLRl2RBg%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-19T12:58:22.975402+03:00",
-            "datePublished": "2017-04-19T12:58:22.975380+03:00",
-            "id": "de6955bd18874fe0b9feac2c113fcc3c"
-          }
-        ],
-        "value": {
-          "currency": "UAH",
-          "amount": 42074.56,
-          "valueAddedTaxIncluded": true
-        },
-        "tenderers": [
-          {
-            "contactPoint": {
-              "telephone": "+380939513335",
-              "email": "fomina_ta@mail.ua",
-              "name": "Тетяна Фоміна"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "2840014563",
-              "legalName": "ФОП \"Фоміна Тетяна Анатоліївна\""
-            },
-            "name": "ФОП \"Фоміна Тетяна Анатоліївна\"",
-            "address": {
-              "countryName": "Україна",
-              "postalCode": "52500",
-              "region": "Дніпропетровська область",
-              "streetAddress": "ВУЛИЦЯ БЕРДЯНСЬКА, будинок 13",
-              "locality": "місто Синельникове"
-            }
-          }
-        ],
-        "date": "2017-04-14T11:12:47.662224+03:00",
-        "id": "a3a1deee2d314ed0951942e0c94aa556",
-        "participationUrl": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077/login?bidder_id=a3a1deee2d314ed0951942e0c94aa556&hash=aa37b3c2086104a25a158ca586be265831cb19b7"
-      },
-      {
-        "status": "active",
-        "documents": [
-          {
-            "documentScope": "tender",
-            "title": "витяг з держреєстру.rtf",
-            "url": "https://public.docs.openprocurement.org/get/92175a8ade8545b8a1a62084cb2540ca?KeyID=52462340&Signature=zwk%2Fmlb2keEBGbFu058w6MoT305465LeL32DHEHVehft%252BlVNXxvDT0%252BXbmM75QLVEzYmPOSjPi4ax2b2DvWpBg%253D%253D",
-            "format": "application/rtf",
-            "dateModified": "2017-04-14T11:19:31.151642+03:00",
-            "datePublished": "2017-04-14T11:19:31.151607+03:00",
-            "id": "d631c531125a4a3ea12fd1dcbddad6fa"
-          },
-          {
-            "documentScope": "tender",
-            "title": "витяг єдин податку.jpg",
-            "url": "https://public.docs.openprocurement.org/get/ea3215decaad4b469bbfa8a15b8a15cb?KeyID=52462340&Signature=oybqRzx%2FKM1eWC%2FyQOrafNLYPSMnfb%2FStRjbMC9DBJwCyVh5i4WvG7yhgJRtwBrlPZQfh4I%252B7I%252BNrxhV9nuiAA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:31.859018+03:00",
-            "datePublished": "2017-04-14T11:19:31.858982+03:00",
-            "id": "ee5323b099764e70b687f7b92ddd0ba7"
-          },
-          {
-            "documentScope": "tender",
-            "title": "довідка 1.jpg",
-            "url": "https://public.docs.openprocurement.org/get/b06c884854ca4369b6666c28a5decc45?KeyID=52462340&Signature=08KCiTDQ57%252B8w7jis0aYpR2zqM13dQAbNNmlq6qo6AZbSmXXEY8Gq1vLFsuwT%2F2cjwUMhxNsgOY4IxUMAi9TDg%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:33.399651+03:00",
-            "datePublished": "2017-04-14T11:19:33.399600+03:00",
-            "id": "77cf975c23fe40ad999173c960278268"
-          },
-          {
-            "documentScope": "tender",
-            "title": "дов банку.jpg",
-            "url": "https://public.docs.openprocurement.org/get/984f1d95b5394270a4bb536928eb4f70?KeyID=52462340&Signature=k6czUQrrD42Hw0wzMFCatv%2FNDzl30zSJkJ8AWDkzhg2IsNtfKwIffEz3I0uS5vv4pTZNb0dAaQI1xJe4Uy4dCA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:35.302102+03:00",
-            "datePublished": "2017-04-14T11:19:35.302081+03:00",
-            "id": "ff6b4444758c4d348fcd5c9341cf6ac3"
-          },
-          {
-            "documentScope": "tender",
-            "title": "Высновок сан ст .JPG",
-            "url": "https://public.docs.openprocurement.org/get/f4812ad93f7a4f85aff489eb44e9179e?KeyID=52462340&Signature=OMLp%2Fp5pr%2FfyZhXL02pQe2P%2F1id5UsExgu1bf15FtgOYBeUVfJjyrVaLbXbFxcuFzQZLi4Of4CSdj5uHoZi1CQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:36.062336+03:00",
-            "datePublished": "2017-04-14T11:19:36.062314+03:00",
-            "id": "2ccc73b985fa425a895751ae9a88272c"
-          },
-          {
-            "documentScope": "tender",
-            "title": "дов про обладнення.jpg",
-            "url": "https://public.docs.openprocurement.org/get/470df0f7866846de9e81a9a7744e6da8?KeyID=52462340&Signature=VZlLAKdalEC251dzIFIBELalRpNMWAWU0hpSOoDmpaZrpkF1XWKivfoCQ124ZGPx1q%252B3JhYOIai6%252BYmwuRZ%2FDA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:36.783211+03:00",
-            "datePublished": "2017-04-14T11:19:36.783179+03:00",
-            "id": "11fcde3cd1d74f3a9bfb10f2892fbd94"
-          },
-          {
-            "documentScope": "tender",
-            "title": "довідка автотр.jpg",
-            "url": "https://public.docs.openprocurement.org/get/d73c6442f98542e7ac73321452b0e113?KeyID=52462340&Signature=pyD%2FOn5G8ZM8lzTEw03ViZRGFY9wDkBgZfRNBrDbtZNkeO2W%2FUWoJGT%2FdZG6MsXGU32qIpwSfdHTJpCPjri8Cw%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:37.588039+03:00",
-            "datePublished": "2017-04-14T11:19:37.588018+03:00",
-            "id": "0ac0b1e11d9f4f398e9efaa8dc759805"
-          },
-          {
-            "documentScope": "tender",
-            "title": "дог арен приміщ.jpg",
-            "url": "https://public.docs.openprocurement.org/get/57d96db0669d4054b44c9f337dcd4b1d?KeyID=52462340&Signature=Zo22%252By4UToCQlmW6ngJcYs8RUx33yeLu4h%252BPzpqTD3cVAq8qwznBoOTHCk95fBE2o2UT6Ta9oWja1%2FLl0b0OCQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:38.462042+03:00",
-            "datePublished": "2017-04-14T11:19:38.462002+03:00",
-            "id": "123ea52925f843aab805fd90ec3a9d56"
-          },
-          {
-            "documentScope": "tender",
-            "title": "договір на аренду автотрансп.jpg",
-            "url": "https://public.docs.openprocurement.org/get/74551fca7ec047fe89b5102ac5a4816b?KeyID=52462340&Signature=v%2F93ZuX3OpeOD6z0x3U12GOKUhtuKnZqZerfZ1jUXVoJ6vk%2FhJKugr4uk8qQSBdHg%252BxHDWasiMRVXkteyzLUBg%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:39.620870+03:00",
-            "datePublished": "2017-04-14T11:19:39.620849+03:00",
-            "id": "7b2e40b5e01c44809bc2717f02c4966e"
-          },
-          {
-            "documentScope": "tender",
-            "title": "сан паспорт.jpg",
-            "url": "https://public.docs.openprocurement.org/get/e060ba562885479cbe83d2f8d04b8f4e?KeyID=52462340&Signature=LHcAP%252BO8qAXv6lpUskB%252B50BGedtdI2f2qSHb%2FlY%252Bz9zzOdj1ERtjtXTDEErMWElQLu%252B5EwqtRVwhgzreTG%2F0Aw%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:40.468027+03:00",
-            "datePublished": "2017-04-14T11:19:40.467991+03:00",
-            "id": "bc6d7cc2096b48529ffa1c587a46f26e"
-          },
-          {
-            "documentScope": "tender",
-            "title": "сан обр 1.jpg",
-            "url": "https://public.docs.openprocurement.org/get/511e787ee9a1435399e491a58e5ac8b2?KeyID=52462340&Signature=xlX1DVcV3HkMTAXLeNahHGik6j%252BaKjGDTqyQe7Rikiv38Tydij6NfMWLrUKMWC2p8r45Wb5MTnhN0hjYdhPyDg%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:41.219150+03:00",
-            "datePublished": "2017-04-14T11:19:41.219113+03:00",
-            "id": "14294fd4ce604787aaf6a5aa3115cfe6"
-          },
-          {
-            "documentScope": "tender",
-            "title": "сан обр  2.jpg",
-            "url": "https://public.docs.openprocurement.org/get/217cce08e70d4e9780816134da84c4b5?KeyID=52462340&Signature=RlR4s2RycONAQHLgwwqoDuPl0FBH3ZXi4oYFg3ReosOibkimriWpD7IfD3%2FZvno2Xbra6I2yJrNQixJSEvBDAQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:42.043082+03:00",
-            "datePublished": "2017-04-14T11:19:42.043047+03:00",
-            "id": "60870315d7904b1391e9e63a2073b462"
-          },
-          {
-            "documentScope": "tender",
-            "title": "рекоменд лист.jpg",
-            "url": "https://public.docs.openprocurement.org/get/3c9b6b36084744a48c899a9d88583abf?KeyID=52462340&Signature=Gp5J3Bx8Ws%252BiOXXSIijbU9I9bYg8M1V3ylsVV2J20YzpVpDJ4P84R6meeYHIiuxnUoJ5bzjBSxpKQuQ5x76jAg%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:42.755854+03:00",
-            "datePublished": "2017-04-14T11:19:42.755832+03:00",
-            "id": "dff0a44fe7e847d39ef832087f4211ac"
-          },
-          {
-            "documentScope": "tender",
-            "title": "пасп 1.jpg",
-            "url": "https://public.docs.openprocurement.org/get/9b68882e386c45f2b7b34ac2e30cb840?KeyID=52462340&Signature=XNsDvMFq8NzI9kT4z50SraAdv49iK9IvBwEuYqHZmGSkvcX46bqSXGdx%2FQxa7%2Ficf9ZJoqj%252BMV%2FbxF4AMJL4AA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:43.526216+03:00",
-            "datePublished": "2017-04-14T11:19:43.526194+03:00",
-            "id": "6613dfd7bcd74e348dd79b71ae86bcb6"
-          },
-          {
-            "documentScope": "tender",
-            "title": "пасп 2, код.jpg",
-            "url": "https://public.docs.openprocurement.org/get/4fdcbbf4198d4c4d93d3e91ac1f05336?KeyID=52462340&Signature=1PKaCaYxEtn6joub6dYxNih6Cu9yN9eicwrHkf9jqbSTUAkFzpDypwSrUodjAj%252Ba7xdAdpMkKr5Nz2Zy5dLqBQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:44.242658+03:00",
-            "datePublished": "2017-04-14T11:19:44.242608+03:00",
-            "id": "9780630185c14130b9ec19f895c88aa8"
-          },
-          {
-            "documentScope": "tender",
-            "title": "пасп 3.jpg",
-            "url": "https://public.docs.openprocurement.org/get/c77059d1339b4b52b302a1d1f33fad2c?KeyID=52462340&Signature=zugGNwHX9cww8Jts5LhTMLPvRxHI9P9UVx0msurePlxdSXZ88hWy1evN35JtlkW72D%252Bc5HAejc5bDnodCItrBA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:44.959234+03:00",
-            "datePublished": "2017-04-14T11:19:44.959212+03:00",
-            "id": "10adf1a06ea644c5ae3b927e8877a6ef"
-          },
-          {
-            "documentScope": "tender",
-            "title": "пасп 4.jpg",
-            "url": "https://public.docs.openprocurement.org/get/a469885d0a014ae38ac8090a0dbac936?KeyID=52462340&Signature=69dMEnaNHR7gSISKmMsCSU1WLdSIVkTPig%2F18M2ZxhTHpCFc9DXwUOW60nM0EHDmuQjSZsJYOV8GnVWoT2RMAQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:45.816660+03:00",
-            "datePublished": "2017-04-14T11:19:45.816621+03:00",
-            "id": "f71fd10320974688bafdd8614ade6002"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток 1.jpg",
-            "url": "https://public.docs.openprocurement.org/get/71a52142548e4d81bf829c8faee2c30c?KeyID=52462340&Signature=vKYsRIjcIETJP1B5ELuOPVBFMi7APc7dsIhwhWfH0iRl97p%2FXzhKoBPd62XR%2FyL7LXHNyRDzp%2F16tZzfrjQQBw%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:46.726767+03:00",
-            "datePublished": "2017-04-14T11:19:46.726745+03:00",
-            "id": "b8a92e35f4904d99979bc241444e1bc0"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток 2 цін пропозиція.jpg",
-            "url": "https://public.docs.openprocurement.org/get/63f8ce38a0c648668a87d9a8e777050d?KeyID=52462340&Signature=VPFBYrFcS8Vo6VleKcz29Zwnj6m03GcWuVobkxsTg59Yitb97OKYnFmYJI26E%252BwtfY0zfEVuO7hE%252BKJ49OppBg%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:47.538895+03:00",
-            "datePublished": "2017-04-14T11:19:47.538866+03:00",
-            "id": "3c814324e51445db9fb7e73b4443520a"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток № 4,1.jpg",
-            "url": "https://public.docs.openprocurement.org/get/0b60cdd029e948539ecc2f175ae3bc65?KeyID=52462340&Signature=q2BJtikU5a%252BWF0cBD5CR9m%252Bk9IrhW9d0nElwWMfI%2FNHCoNGVEKdpfUy3i07z3%2FhmrfAn93CK4nm81mWUKJHTDA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:49.134174+03:00",
-            "datePublished": "2017-04-14T11:19:49.134135+03:00",
-            "id": "41a85a0b41db4e31874e498fc2c701a9"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток № 4,2.jpg",
-            "url": "https://public.docs.openprocurement.org/get/851be3e6cb9f49f780c81249251e3a8d?KeyID=52462340&Signature=cElUHTlugg9OHVHkONf3UlpCnpkp9TI2FGL1vCBDG2BuyDOnI49EVcskrIBNM7qTTxAVdv1sbrulb5A9Rsy8DQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:49.939236+03:00",
-            "datePublished": "2017-04-14T11:19:49.939215+03:00",
-            "id": "dc71ec3a7ea54214aa502798b5dec9e7"
-          },
-          {
-            "documentScope": "tender",
-            "title": "Висновок 1 банани.jpg",
-            "url": "https://public.docs.openprocurement.org/get/f9f532a4af9a423ba081862917fd5a2b?KeyID=52462340&Signature=3LbyXPXokXOpPj2tQNxF3f5rJn627W%252BArO%252BTu2m9j7MJmPldcHmBYkASGXbv1%252BMdEcK2IDoSjoMzZNPVp4AdBA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:50.728388+03:00",
-            "datePublished": "2017-04-14T11:19:50.728351+03:00",
-            "id": "10d3b5bd8b1f4fe5b6aefe68f6ba0657"
-          },
-          {
-            "documentScope": "tender",
-            "title": "Висновок 1 лимон.jpg",
-            "url": "https://public.docs.openprocurement.org/get/11ba698a25f1494995eebecd297fa553?KeyID=52462340&Signature=r9mG2V3LajX8VObhUM6omPyzOpj%2FbCmUBhApBzIwKAK4UamFTrNa%252BpX5P%252Bq%2FrMk52Ams0vJ6kYK%2FOXEpzs7zBQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:51.524460+03:00",
-            "datePublished": "2017-04-14T11:19:51.524422+03:00",
-            "id": "63cc794848414294b81fdfdeb69a7efa"
-          },
-          {
-            "documentScope": "tender",
-            "title": "Висновок 2 банани.jpg",
-            "url": "https://public.docs.openprocurement.org/get/383875271afd48f39afdbfca0333b9f7?KeyID=52462340&Signature=TELc%2F3fFgDb%252BCjARxM9AeEE1BRJ6G9RObvLAksMFCylnOQEeya2wUwsaE6%252B0Oi3Fko9OAsms%2FDej81tu7rrCDA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:19:52.342723+03:00",
-            "datePublished": "2017-04-14T11:19:52.342701+03:00",
-            "id": "105c9fb55435450a81ed8a2c7a68da63"
-          },
-          {
-            "documentScope": "tender",
-            "title": "Висновок 2 лимон.jpg",
-            "url": "https://public.docs.openprocurement.org/get/fb1c42037d284073aa624f2b007f23b9?KeyID=52462340&Signature=lx3E2pGHyVJtwK%2FDmz8rzrUPeN3NWzqVZFjE5mk%252BNO%2F1hk9PwS94f2VOPEc0kHySxl%252BDRXn6Laq%252BXFYsk7%2FuDQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-14T11:20:04.456240+03:00",
-            "datePublished": "2017-04-14T11:20:04.456201+03:00",
-            "id": "6ccd937ded1d4c61aa75fee49f2eb623"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток № 3,1 дог.jpg",
-            "url": "https://public.docs.openprocurement.org/get/a95acaf4458d4d92968eab36fb2639a4?KeyID=52462340&Signature=53IN%252BKffHi9tNRdDY6OJSKOkKPdk372GnsKjVEbjL2oR%252BF0FOwCCQnot9VpiYDoa3FtK9Pfgh81NnoqtVmBGDQ%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-21T10:12:02.983966+03:00",
-            "datePublished": "2017-04-21T10:12:02.983936+03:00",
-            "id": "7e7aefcf9b0c493086166cb909fdf5e6"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток № 3,2 дог.jpg",
-            "url": "https://public.docs.openprocurement.org/get/db3fecd6414b4a7e8d8171657a4ed1d3?KeyID=52462340&Signature=k6AfS1xJ2b5V4xjkCzCCNXbJRLgGXkH8nRSKROQH4kJPI0osJE5Qohd1si8pNjw6judTk75JG7iQZCS%2F6G3HDw%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-21T10:12:03.919564+03:00",
-            "datePublished": "2017-04-21T10:12:03.919528+03:00",
-            "id": "6f0fd05466fa4759ae35776c83b3708d"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток № 3,3 дог.jpg",
-            "url": "https://public.docs.openprocurement.org/get/3a27527926754852aaaaa34af81b245a?KeyID=52462340&Signature=iezSRHJS5EbzDRmvWpCu2vgHCfVS3IKuAY299rOrw1f%252Bq3NiYVE26yHlWzEpjVgmgv1aUzlS0sPvOHjZMTnpAA%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-21T10:12:08.204746+03:00",
-            "datePublished": "2017-04-21T10:12:08.204711+03:00",
-            "id": "9b261c0db9a6458884d8879497aafbbd"
-          },
-          {
-            "documentScope": "tender",
-            "title": "додаток № 3,4 дог.jpg",
-            "url": "https://public.docs.openprocurement.org/get/c768dbadce844bd590755eb767fd9cc6?KeyID=52462340&Signature=dDUhBCGfgjO6RLCoHrE9eEqfXtIAuVFE03bN%252Bkh8FxWyIcRXfkTew6XLdR9Di1LmCPpw%2F3Sx%252B%2F3Q%2FGqYjGssBw%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-21T10:12:09.147977+03:00",
-            "datePublished": "2017-04-21T10:12:09.147942+03:00",
-            "id": "2dff1560da4c4345bc6083ff4315c82b"
-          },
-          {
-            "documentScope": "tender",
-            "title": "цінова пропозиція оновлена.jpg",
-            "url": "https://public.docs.openprocurement.org/get/690f0ce5474e4dd6b3697b468f1b4884?KeyID=52462340&Signature=fm8mTN%2FFsIUA35%252BhRUGfdP7lw9MCVmvVAudXKOyclxDm2UN2XjNhMzGE4Qc4mdkVyFWZoY3yv9h1XajPuIeVAg%253D%253D",
-            "format": "image/jpeg",
-            "dateModified": "2017-04-21T10:12:10.545191+03:00",
-            "datePublished": "2017-04-21T10:12:10.545169+03:00",
-            "id": "e329ccd4736749f39cbf9d69750d7d1e"
-          }
-        ],
-        "value": {
-          "currency": "UAH",
-          "amount": 43788.9,
-          "valueAddedTaxIncluded": true
-        },
-        "tenderers": [
-          {
-            "contactPoint": {
-              "telephone": "+380676342660",
-              "email": "krishtal_nata@mail.ru",
-              "name": "Наталія Кришталь"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "2304707963",
-              "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\""
-            },
-            "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
-            "address": {
-              "countryName": "Україна",
-              "postalCode": "52500",
-              "region": "Дніпропетровська область",
-              "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
-              "locality": "місто Синельникове"
-            }
-          }
-        ],
-        "date": "2017-04-19T11:23:36.921804+03:00",
-        "id": "4aa841964b2a44418a046e27efa99f4f",
-        "participationUrl": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077/login?bidder_id=4aa841964b2a44418a046e27efa99f4f&hash=545563bfcdbb950176cefa7e11d6c8892c36ba4b"
-      }
-    ]
-  },
-  "initiationType": "tender",
-  "date": "2017-04-25T14:47:22.362947+03:00",
   "tag": [
     "tender",
     "award",
     "contract",
     "bid"
   ],
-  "awards": [
+  "contracts": [
     {
-      "status": "unsuccessful",
-      "documents": [
+      "period": {
+        "startDate": "2017-04-25T00:00:00+03:00",
+        "endDate": "2017-12-31T00:00:00+02:00"
+      },
+      "value": {
+        "amount": 43788.9,
+        "valueAddedTaxIncluded": true,
+        "currency": "UAH"
+      },
+      "id": "256538217043498cb6e11d47a98e7e9e",
+      "items": [
         {
-          "documentScope": "tender",
-          "format": "image/jpeg",
-          "url": "https://public.docs.openprocurement.org/get/525108a43858429ea06932ca0ed5d9ce?KeyID=52462340&Signature=4PWOm4lAkd0Bea8ZTQ%2FfweMh8ucQjIcvYu16Y5KU6dBqvzHrNyYRKVfQ6YK2jlhl6%2Fi3VT7GmqWeruCEjwvMDA%253D%253D",
-          "title": "рішення по ФОП Фоміна Т. А..JPG",
-          "dateModified": "2017-04-21T10:07:46.207153+03:00",
-          "documentType": "evaluationReports",
-          "datePublished": "2017-04-21T10:07:46.207132+03:00",
-          "id": "edca2d25b5634ef494e230f81fe53c8c"
+          "classification": {
+            "id": "03220000-9",
+            "description": "Овочі, фрукти та горіхи",
+            "scheme": "CPV"
+          },
+          "deliveryAddress": {
+            "postalCode": "52500",
+            "streetAddress": "адреса вказана в Додатке № 4",
+            "locality": "м.Синельникове",
+            "region": "Дніпропетровська область",
+            "countryName": "Україна"
+          },
+          "description": "Банани товар вищого ґатунку.",
+          "id": "24997fb7ffa44e659aed639cf4d0d0b2",
+          "deliveryDate": {
+            "endDate": "2017-12-31T23:59:59.999999+02:00"
+          },
+          "quantity": 943,
+          "unit": {
+            "id": "KGM",
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
+          }
         },
         {
+          "classification": {
+            "id": "03220000-9",
+            "description": "Овочі, фрукти та горіхи",
+            "scheme": "CPV"
+          },
+          "deliveryAddress": {
+            "postalCode": "52500",
+            "streetAddress": "адреса вказана в Додатке № 4",
+            "locality": "м.Синельникове",
+            "region": "Дніпропетровська область",
+            "countryName": "Україна"
+          },
+          "description": "Лимони товар вищого ґатунку.",
+          "id": "f79ef6da622f4d08b71ab23196e0dc2b",
+          "deliveryDate": {
+            "endDate": "2017-12-31T23:59:59.999999+02:00"
+          },
+          "quantity": 400,
+          "unit": {
+            "id": "KGM",
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
+          }
+        }
+      ],
+      "contractID": "UA-2017-04-12-001619-b-b1",
+      "awardID": "3582f543aed249fc95889dcd63a127b6",
+      "documents": [
+        {
+          "dateModified": "2017-04-25T14:45:37.814934+03:00",
+          "title": "Договір.pdf",
           "documentScope": "tender",
+          "id": "a636ecf8661142169f1f6dd5d9f3e7ab",
+          "url": "https://public.docs.openprocurement.org/get/ecf4cc4ab3a9468da5b80524a3560e36?KeyID=52462340&Signature=I7WHTCqgRX5OAOATlZNo1maNz4LnkALbFgjyZ%2Fgyn6mYGJ9gtSBDeHA9psKfi1vA9ppb5vfc2%252B4xzpIiJdI%2FCQ%253D%253D",
+          "datePublished": "2017-04-25T14:45:37.814913+03:00",
+          "documentType": "contractSigned",
+          "format": "application/pdf"
+        },
+        {
+          "dateModified": "2017-04-25T14:47:07.212028+03:00",
           "title": "sign.p7s",
-          "url": "https://public.docs.openprocurement.org/get/a44534038f19431d8de557f3c08348de?KeyID=52462340&Signature=qFkoBkdGIw4V3g4D%2FjxSX5KqeV8%2FJ2GSOjTaRa6dinyYRSeAszwqM7PnCfaxvVb4c923AI3DSls12mXdFu51Bg%253D%253D",
-          "format": "application/pkcs7-signature",
+          "documentScope": "tender",
+          "id": "6cda512cead0442085cc9902f7fa9508",
+          "url": "https://public.docs.openprocurement.org/get/5d8154f359c14a7abc2deba1b1361d3b?KeyID=52462340&Signature=OmXGFV2QOXKNL4N25Li%252BsDpM8%2FbDiSELofbu1cuOA0ARCU9MQ97%252B0faxOpbX%2FpqnV9bAegAjGTSJCuG3ZjKmCg%253D%253D",
+          "datePublished": "2017-04-25T14:47:07.212007+03:00",
+          "format": "application/pkcs7-signature"
+        },
+        {
+          "id": "f39fea96e71743eeb8871332e72a7aeb",
+          "dateModified": "2017-05-15T16:05:59.064878+03:00",
+          "title": "зміни 15.05.17.JPG",
+          "datePublished": "2017-05-15T16:05:59.064843+03:00",
+          "documentScope": "change",
+          "language": "uk",
+          "url": "https://public.docs.openprocurement.org/get/d101b80367d44b709e0c876abd962d84?KeyID=52462340&Signature=%2FaMOhDgGMyEujIrD6h3OjpydDwVx2VYomGiomkCsLDMqtNmDRzPc9wLT5LRF6Q047smXtRvN79GzvRnT3KwiCA%253D%253D",
+          "relatedItem": "8868cb0a4b3b4414bb0ac8da8bbaab17",
+          "documentType": "contractAnnexe",
+          "format": "image/jpeg"
+        },
+        {
+          "dateModified": "2017-05-15T16:09:57.164214+03:00",
+          "title": "sign.p7s",
+          "datePublished": "2017-05-15T16:09:57.164192+03:00",
+          "documentScope": "change",
+          "id": "1c8861ec49d7412a8290f8d1d8ef1187",
+          "url": "https://public.docs.openprocurement.org/get/ee2d1f0a195f4fca89bc3e6e9c41b965?KeyID=52462340&Signature=mU4Dz2mV9EHlIVd6h5Ecfsj6etjVXxcwdPnMvCpkg%252B%252BcPn2%252BNjFhNVWj5UTqQaEh7pBEnldba5nkyMoL0gbXAw%253D%253D",
+          "relatedItem": "8868cb0a4b3b4414bb0ac8da8bbaab17",
+          "format": "application/pkcs7-signature"
+        },
+        {
+          "id": "8910d5d381364e9bbac6775441cfa16f",
+          "dateModified": "2017-06-12T15:10:32.709350+03:00",
+          "title": "зміни12..06.JPG",
+          "datePublished": "2017-06-12T15:10:32.709329+03:00",
+          "documentScope": "change",
+          "language": "uk",
+          "url": "https://public.docs.openprocurement.org/get/0b94faf715554c32b1c5311b2bd47cc6?KeyID=52462340&Signature=%252BAnY0Kbdnoyg%252BzznzL5Q6lS%2FWV1Sr4adzQL8hDRqz5pYut7xsUebH1%2F8M0DLEwMX8bFVkLKIYWPgP%252BgAWXEKBA%253D%253D",
+          "relatedItem": "4b543ac1a4ef43b892ed5a3481252e04",
+          "documentType": "contractAnnexe",
+          "format": "image/jpeg"
+        },
+        {
+          "dateModified": "2017-06-12T15:12:58.410822+03:00",
+          "title": "sign.p7s",
+          "datePublished": "2017-06-12T15:12:58.410786+03:00",
+          "documentScope": "change",
+          "id": "f2df66a85b134a8496cc71a8bf249147",
+          "url": "https://public.docs.openprocurement.org/get/859b5a3eafe34c28b26d5ef0b51db870?KeyID=52462340&Signature=IsssOUPpS7kSs1QIAxS25CTV7IIWGV1KMNe54UO7PDxIRn2TENc6R0YBxjjTsAxIhdBw0Kw5ziCfDqCsmu6VAw%253D%253D",
+          "relatedItem": "4b543ac1a4ef43b892ed5a3481252e04",
+          "format": "application/pkcs7-signature"
+        }
+      ],
+      "dateSigned": "2017-04-25T14:44:00+03:00",
+      "status": "active",
+      "suppliers": [
+        {
+          "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+          "identifier": {
+            "id": "2304707963",
+            "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+            "scheme": "UA-EDR"
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
+            "postalCode": "52500",
+            "region": "Дніпропетровська область",
+            "locality": "місто Синельникове",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Наталія Кришталь",
+            "telephone": "+380676342660",
+            "email": "krishtal_nata@mail.ru"
+          }
+        }
+      ],
+      "contractNumber": "25/30"
+    }
+  ],
+  "ocid": "ocds-be6bcu-UA-2017-04-12-001619-b",
+  "id": "9c06e7fffe00412ebf6ec83fa2a10e04",
+  "date": "2017-04-25T14:47:22.362947+03:00",
+  "tender": {
+    "tenderID": "UA-2017-04-12-001619-b",
+    "procurementMethod": "open",
+    "awardPeriod": {
+      "startDate": "2017-04-19T11:27:16.147908+03:00",
+      "endDate": "2017-04-21T10:35:04.390239+03:00"
+    },
+    "enquiryPeriod": {
+      "startDate": "2017-04-12T15:06:11.609855+03:00",
+      "endDate": "2017-04-13T15:38:00+03:00"
+    },
+    "guarantee": {
+      "currency": "UAH"
+    },
+    "documents": [
+      {
+        "dateModified": "2017-04-12T15:06:12.841284+03:00",
+        "title": "Додаток № 3 договір.docx",
+        "datePublished": "2017-04-12T15:06:12.841263+03:00",
+        "documentScope": "tender",
+        "id": "10b0c406571e48cd96182def8a5189a3",
+        "url": "https://public.docs.openprocurement.org/get/59c0ef6456194659852e1e3e65e7234a?KeyID=52462340&Signature=Yi2gEC4JadS0Q9cX0ZQWa7ux4S1E%2F08HiopF9UUMSm2ntTvSGrYfiTsi19BuD3ZO1RHAvfGpOLYugdWY%252B2vgDw%253D%253D",
+        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
+        "documentType": "contractProforma",
+        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "dateModified": "2017-04-12T15:06:14.025060+03:00",
+        "title": "ОГОЛОШЕННЯ.docx",
+        "datePublished": "2017-04-12T15:06:14.025039+03:00",
+        "documentScope": "tender",
+        "id": "75373d80175045d09a9fcda2699e58bb",
+        "url": "https://public.docs.openprocurement.org/get/49ea6181aee04685b75fe19597522bf8?KeyID=52462340&Signature=%252B13kILSRlKtEo0weZirHd823ZVO%2FuWWF22zqp7yOHrVvigkz%252BgAlbWbMiz%252BmoO2sLAVn0UYqJ%2Fq9Usuv8z1KCw%253D%253D",
+        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
+        "documentType": "evaluationCriteria",
+        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "dateModified": "2017-04-12T15:06:15.358976+03:00",
+        "title": "Додаток №1.docx",
+        "datePublished": "2017-04-12T15:06:15.358954+03:00",
+        "documentScope": "tender",
+        "id": "5f4190113b404e30af57b52518903f00",
+        "url": "https://public.docs.openprocurement.org/get/97603f91f09d43d9aa88b16541816e54?KeyID=52462340&Signature=h3ukEXyxFoqAlrDrwXDvVljMDpxMKSB2uwPpft%252BGg9cb1QaUoicBiFdBhhrW3J0JiMMTdUEqGNNF37JNFYOBCw%253D%253D",
+        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
+        "documentType": "technicalSpecifications",
+        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "dateModified": "2017-04-12T15:06:16.629184+03:00",
+        "title": "Додаток №2.docx",
+        "datePublished": "2017-04-12T15:06:16.629163+03:00",
+        "documentScope": "tender",
+        "id": "5e931e75768145f282cb68e2fb40c933",
+        "url": "https://public.docs.openprocurement.org/get/81f4394bfa2b4933a8649bd67731f24c?KeyID=52462340&Signature=%2FslzcjheNOy6fxAP1VYKdOhRW4T8fatLliei%252BBIneU6NdAPvAA8r%252BaPmDNEQWEG8IdZt6IYmDptTtK6nQG%252B0DA%253D%253D",
+        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
+        "documentType": "technicalSpecifications",
+        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "dateModified": "2017-04-12T15:06:19.849710+03:00",
+        "title": "Додаток № 4.docx",
+        "datePublished": "2017-04-12T15:06:19.849688+03:00",
+        "documentScope": "tender",
+        "id": "c623f124c0344f429d01fd7cbfbd5578",
+        "url": "https://public.docs.openprocurement.org/get/d70238359008429c931aa559dae0f688?KeyID=52462340&Signature=vwcIse5rFzNxT9Np41leSxG9Xfg1JShv2LsWDrJyliNkQYRN9dvGrBkUWYPrk6P%252BtUBoCemz7ucMr17%2FP1KaBg%253D%253D",
+        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
+        "documentType": "technicalSpecifications",
+        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "dateModified": "2017-04-12T15:10:01.821265+03:00",
+        "title": "sign.p7s",
+        "datePublished": "2017-04-12T15:10:01.821233+03:00",
+        "documentScope": "tender",
+        "id": "bf3324b1bd0f48d4a336c3e54d308107",
+        "url": "https://public.docs.openprocurement.org/get/08a33edf0b1747d89997cacfbb49b328?KeyID=52462340&Signature=3LLpqsOdhGB646cx9Nt9IIssH9DCkTl%2FnFMTBc06vYHTeKIzIsml10%252BLM1C68Yu6fR%2FbCs8%2FkoT765fZvNDVDA%253D%253D",
+        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
+        "format": "application/pkcs7-signature"
+      },
+      {
+        "dateModified": "2017-04-19T11:27:15.322299+03:00",
+        "title": "audit_0000431d17fe41fea60d13dfec6bd077.yaml",
+        "documentScope": "tender",
+        "id": "d304f5bd7afb464692e7757a11fed4ba-0",
+        "url": "https://public.docs.openprocurement.org/get/d283bee0316b4af39403f53a1bc91413?KeyID=52462340&Signature=uy101Bd1IeSBiQJDibKYlw4a1V6SorY3xd07lesgosCoTd4a7ZZAN3gBqnGLYuaJiVJEo%252B1CQcMfbJzS5Uk8BA%253D%253D",
+        "datePublished": "2017-04-19T11:27:15.322277+03:00",
+        "format": "text/plain"
+      },
+      {
+        "dateModified": "2017-04-19T11:27:16.461530+03:00",
+        "title": "audit_0000431d17fe41fea60d13dfec6bd077.yaml",
+        "documentScope": "tender",
+        "id": "d304f5bd7afb464692e7757a11fed4ba-1",
+        "url": "https://public.docs.openprocurement.org/get/a773e56e44564a499aeb70d8a37089db?KeyID=52462340&Signature=Ic5DlF8MMteikaxrkBcpRbjVtIklz4cLbvk7%2FxXvGXjvvXB3jXbwtvlTBTRU15VyG0wf575BYtTDiCUFTW2tDw%253D%253D",
+        "datePublished": "2017-04-19T11:27:15.322277+03:00",
+        "format": "text/plain"
+      }
+    ],
+    "id": "0000431d17fe41fea60d13dfec6bd077",
+    "tenderPeriod": {
+      "startDate": "2017-04-13T15:38:00+03:00",
+      "endDate": "2017-04-14T15:39:00+03:00"
+    },
+    "procurementMethodType": "belowThreshold",
+    "tenderers": [
+      {
+        "name": "ФОП \"Фоміна Тетяна Анатоліївна\"",
+        "identifier": {
+          "id": "2840014563",
+          "legalName": "ФОП \"Фоміна Тетяна Анатоліївна\"",
+          "scheme": "UA-EDR"
+        },
+        "address": {
+          "streetAddress": "ВУЛИЦЯ БЕРДЯНСЬКА, будинок 13",
+          "postalCode": "52500",
+          "region": "Дніпропетровська область",
+          "locality": "місто Синельникове",
+          "countryName": "Україна"
+        },
+        "contactPoint": {
+          "name": "Тетяна Фоміна",
+          "telephone": "+380939513335",
+          "email": "fomina_ta@mail.ua"
+        }
+      },
+      {
+        "name": "ТОВ Тропік",
+        "identifier": {
+          "id": "20831737",
+          "legalName": "ТОВ Тропік",
+          "scheme": "UA-EDR"
+        },
+        "address": {
+          "streetAddress": "м.Львів  вул.Пекарська 5/4",
+          "postalCode": "79008",
+          "region": "Львівська область",
+          "locality": "Львів",
+          "countryName": "Україна"
+        },
+        "contactPoint": {
+          "name": "Данилов Дмитро Олександрович",
+          "telephone": "+380322940503",
+          "faxNumber": "+380322245803",
+          "email": "danylov.d@tropikltd.com"
+        }
+      },
+      {
+        "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+        "identifier": {
+          "id": "2304707963",
+          "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+          "scheme": "UA-EDR"
+        },
+        "address": {
+          "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
+          "postalCode": "52500",
+          "region": "Дніпропетровська область",
+          "locality": "місто Синельникове",
+          "countryName": "Україна"
+        },
+        "contactPoint": {
+          "name": "Наталія Кришталь",
+          "telephone": "+380676342660",
+          "email": "krishtal_nata@mail.ru"
+        }
+      }
+    ],
+    "procuringEntity": {
+      "name": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ",
+      "identifier": {
+        "id": "02124775",
+        "legalName": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ",
+        "scheme": "UA-EDR"
+      },
+      "address": {
+        "streetAddress": "вул. Виконкомівська, 30",
+        "postalCode": "52500",
+        "region": "Дніпропетровська область",
+        "locality": "м.Синельникове",
+        "countryName": "Україна"
+      },
+      "contactPoint": {
+        "name": "Юлія Петрівна Зіміна",
+        "telephone": "+380993348804",
+        "email": "osvita_zakupki@mail.ua"
+      }
+    },
+    "numberOfTenderers": 3,
+    "description": "(технічні вимоги – Додаток № 1 до оголошення).\nкод  ДК 021-2015 – 03220000-9 – Овочі, фрукти та горіхи (банани, лимони)\n",
+    "status": "complete",
+    "title": "Банани та лимони",
+    "items": [
+      {
+        "classification": {
+          "id": "03220000-9",
+          "description": "Овочі, фрукти та горіхи",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {
+          "postalCode": "52500",
+          "streetAddress": "адреса вказана в Додатке № 4",
+          "locality": "м.Синельникове",
+          "region": "Дніпропетровська область",
+          "countryName": "Україна"
+        },
+        "description": "Банани товар вищого ґатунку.",
+        "id": "24997fb7ffa44e659aed639cf4d0d0b2",
+        "deliveryDate": {
+          "endDate": "2017-12-31T23:59:59.999999+02:00"
+        },
+        "quantity": 943,
+        "unit": {
+          "id": "KGM",
+          "name": "kilogram",
+          "scheme": "UNCEFACT",
+          "symbol": "kg"
+        }
+      },
+      {
+        "classification": {
+          "id": "03220000-9",
+          "description": "Овочі, фрукти та горіхи",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {
+          "postalCode": "52500",
+          "streetAddress": "адреса вказана в Додатке № 4",
+          "locality": "м.Синельникове",
+          "region": "Дніпропетровська область",
+          "countryName": "Україна"
+        },
+        "description": "Лимони товар вищого ґатунку.",
+        "id": "f79ef6da622f4d08b71ab23196e0dc2b",
+        "deliveryDate": {
+          "endDate": "2017-12-31T23:59:59.999999+02:00"
+        },
+        "quantity": 400,
+        "unit": {
+          "id": "KGM",
+          "name": "kilogram",
+          "scheme": "UNCEFACT",
+          "symbol": "kg"
+        }
+      }
+    ],
+    "currentStage": "complete",
+    "value": {
+      "amount": 49993.6,
+      "valueAddedTaxIncluded": true,
+      "currency": "UAH"
+    },
+    "submissionMethod": [
+      "electronicAuction"
+    ],
+    "auctions": [
+      {
+        "minimalStep": {
+          "amount": 249.97,
+          "valueAddedTaxIncluded": true,
+          "currency": "UAH"
+        },
+        "period": {
+          "startDate": "2017-04-19T11:00:15+03:00",
+          "endDate": "2017-04-19T11:27:16.111993+03:00"
+        },
+        "url": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077"
+      }
+    ],
+    "awardCriteria": "lowestCost"
+  },
+  "packageInfo": {
+    "publisher": {
+      "name": "ДП \"Прозорро\""
+    },
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json"
+  },
+  "buyer": {
+    "name": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "identifier": {
+      "id": "02124775",
+      "legalName": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ",
+      "scheme": "UA-EDR"
+    },
+    "address": {
+      "streetAddress": "вул. Виконкомівська, 30",
+      "postalCode": "52500",
+      "region": "Дніпропетровська область",
+      "locality": "м.Синельникове",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Юлія Петрівна Зіміна",
+      "telephone": "+380993348804",
+      "email": "osvita_zakupki@mail.ua"
+    }
+  },
+  "bids": {
+    "details": [
+      {
+        "tenderers": [
+          {
+            "name": "ТОВ Тропік",
+            "identifier": {
+              "id": "20831737",
+              "legalName": "ТОВ Тропік",
+              "scheme": "UA-EDR"
+            },
+            "address": {
+              "streetAddress": "м.Львів  вул.Пекарська 5/4",
+              "postalCode": "79008",
+              "region": "Львівська область",
+              "locality": "Львів",
+              "countryName": "Україна"
+            },
+            "contactPoint": {
+              "name": "Данилов Дмитро Олександрович",
+              "telephone": "+380322940503",
+              "faxNumber": "+380322245803",
+              "email": "danylov.d@tropikltd.com"
+            }
+          }
+        ],
+        "value": {
+          "amount": 43789.0,
+          "valueAddedTaxIncluded": true,
+          "currency": "UAH"
+        },
+        "participationUrl": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077/login?bidder_id=ed32b1c802ca4deebcacb1fe220e2b9f&hash=30eb1c4610070d96ea158182537f8bc5bded322d",
+        "date": "2017-04-19T11:22:07.752466+03:00",
+        "id": "ed32b1c802ca4deebcacb1fe220e2b9f",
+        "status": "active",
+        "documents": [
+          {
+            "dateModified": "2017-04-14T10:55:10.389393+03:00",
+            "title": "SKM_22717041410480.pdf",
+            "description": "SHA1: 873a45689faaa3c0d71cac53a73fe020dfd88e49",
+            "documentScope": "tender",
+            "id": "827e938d1a174438a51e9a4c6be9f1aa",
+            "url": "https://public.docs.openprocurement.org/get/d53d2018715741168100af0314b5fcd3?KeyID=52462340&Signature=FzNFHhpbfiihET1rc2lkA%252B%2FHxG60Ik16dblnpr0LXW4nlECEQUWcJ%2FqE4XnQfWjImDVzC9pw6qH9MM9%252BcLL2CA%253D%253D",
+            "datePublished": "2017-04-14T10:55:10.389372+03:00",
+            "format": "application/pdf"
+          },
+          {
+            "dateModified": "2017-04-14T10:55:10.533770+03:00",
+            "title": "4 опп.pdf",
+            "description": "SHA1: fac172e405141530570dbb76e9cfb0a2787ebf55",
+            "documentScope": "tender",
+            "id": "021a1ce5aa5f4f459a2c9586752c6a76",
+            "url": "https://public.docs.openprocurement.org/get/46be6ccc6de64ee5a4e847a104f379a7?KeyID=52462340&Signature=o%252BBKMQZ4eb7AMe33x%252BclhKj2C%252BnNz%2FQkdPRl33Gx44RjrtXTz%2FuY9YoXKE4V%252Bx8b%2FR45JOrGZMWOBzxzEgTUBw%253D%253D",
+            "datePublished": "2017-04-14T10:55:10.533749+03:00",
+            "format": "application/pdf"
+          },
+          {
+            "dateModified": "2017-04-14T10:55:10.684444+03:00",
+            "title": "статут1.pdf",
+            "description": "SHA1: da2228612fcbc910fb003f103e0382008c83bac2",
+            "documentScope": "tender",
+            "id": "a09aac224f1e4b68abdce45e47a33595",
+            "url": "https://public.docs.openprocurement.org/get/edbe6af2ad734fe9aa786e7d5332c612?KeyID=52462340&Signature=s8hVXzTztZshfxHQPV%2FYcQ1ThaY90cMncXhs0NEQPqm%2FlBdei%252BqCRg2%252BnfRLGJgO2feMHYF3An92vtyPttAlDQ%253D%253D",
+            "datePublished": "2017-04-14T10:55:10.684421+03:00",
+            "format": "application/pdf"
+          },
+          {
+            "dateModified": "2017-04-14T10:55:10.839649+03:00",
+            "title": "статут2.pdf",
+            "description": "SHA1: 6053b9e29cd872da6ad8e3fe7a8746d58fb85d3e",
+            "documentScope": "tender",
+            "id": "2d2c91fc2780407b85cdc9a73fcf4242",
+            "url": "https://public.docs.openprocurement.org/get/d598ded9c2864ae28e0d02fe078c851e?KeyID=52462340&Signature=yMgzsim4pueNWO6gy4qTlyUzEsz0N2lREeqgRxUyM1OHBrQ7g85ayB7i4vVJoxISMBzZySxChxNz3oEtFWqJDA%253D%253D",
+            "datePublished": "2017-04-14T10:55:10.839607+03:00",
+            "format": "application/pdf"
+          },
+          {
+            "dateModified": "2017-04-14T10:55:10.995319+03:00",
+            "title": "статут 3.pdf",
+            "description": "SHA1: 9487915e417c5ddd714df013872e350f4167b237",
+            "documentScope": "tender",
+            "id": "4cfc2bd53e57404f93fbf68df33cd8d2",
+            "url": "https://public.docs.openprocurement.org/get/3c948ddb65994ae4bcce9d3a36268506?KeyID=52462340&Signature=z62RBGxZpk%2FEVSkbvN0AzpWBLBQrg9WradQmRCjRH2g43xMVzcSa1NbiLXVLRHhbCOD2sK72ZA87hMFI%2FMTyBw%253D%253D",
+            "datePublished": "2017-04-14T10:55:10.995290+03:00",
+            "format": "application/pdf"
+          },
+          {
+            "dateModified": "2017-04-14T10:55:11.140142+03:00",
+            "title": "статут4.pdf",
+            "description": "SHA1: fc54021fe01f23d6c1c75cb10f4e4f5fb08dbec6",
+            "documentScope": "tender",
+            "id": "f855542a514d4239804be37ec7caf342",
+            "url": "https://public.docs.openprocurement.org/get/6274ec9f3fe643a0aa629ff5c6157150?KeyID=52462340&Signature=P%252BSsxMTgwZWe4vpL1pRhJg5DyLG4P0e4RITSJmFwRW%252BGd052DW0zm%252Bmvv1vK18iZas938Dpv0zxIqNDcFmuJCw%253D%253D",
+            "datePublished": "2017-04-14T10:55:11.140121+03:00",
+            "format": "application/pdf"
+          },
+          {
+            "dateModified": "2017-04-14T10:55:11.293820+03:00",
+            "title": "витяг1.pdf",
+            "description": "SHA1: aff9dcb83f830988db11e266a4ded5b88995d0c5",
+            "documentScope": "tender",
+            "id": "4fc8b66640e84a929393ed8ef1cd706b",
+            "url": "https://public.docs.openprocurement.org/get/fcd8b9b995934072a48f1c3bb3684579?KeyID=52462340&Signature=VxA9S1W8fpcTaZCbdx9tSJuXkNQ49KXuJy5weNsfe3flfos5WVVWpi3OgpcknIHEmhzySG18o4WzIVg60uJfBQ%253D%253D",
+            "datePublished": "2017-04-14T10:55:11.293797+03:00",
+            "format": "application/pdf"
+          },
+          {
+            "dateModified": "2017-04-14T10:55:11.453359+03:00",
+            "title": "витяг2.pdf",
+            "description": "SHA1: ed366a5b22b24ed54c7e34c9b9f18461f6bc6c6f",
+            "documentScope": "tender",
+            "id": "6c7be96187334afa92f5e2d500316d19",
+            "url": "https://public.docs.openprocurement.org/get/fe02e9504d2d4368b882049154dfbd5f?KeyID=52462340&Signature=FJGeapvXsp6nkSxYkcaMp0E6kdSJYlec8kdMtXni9Fc7o8tuKZ772Zx03llG1I2ZZ1Psx9Q4gNrRCJJ%2FZynfBg%253D%253D",
+            "datePublished": "2017-04-14T10:55:11.453338+03:00",
+            "format": "application/pdf"
+          }
+        ]
+      },
+      {
+        "tenderers": [
+          {
+            "name": "ФОП \"Фоміна Тетяна Анатоліївна\"",
+            "identifier": {
+              "id": "2840014563",
+              "legalName": "ФОП \"Фоміна Тетяна Анатоліївна\"",
+              "scheme": "UA-EDR"
+            },
+            "address": {
+              "streetAddress": "ВУЛИЦЯ БЕРДЯНСЬКА, будинок 13",
+              "postalCode": "52500",
+              "region": "Дніпропетровська область",
+              "locality": "місто Синельникове",
+              "countryName": "Україна"
+            },
+            "contactPoint": {
+              "name": "Тетяна Фоміна",
+              "telephone": "+380939513335",
+              "email": "fomina_ta@mail.ua"
+            }
+          }
+        ],
+        "value": {
+          "amount": 42074.56,
+          "valueAddedTaxIncluded": true,
+          "currency": "UAH"
+        },
+        "participationUrl": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077/login?bidder_id=a3a1deee2d314ed0951942e0c94aa556&hash=aa37b3c2086104a25a158ca586be265831cb19b7",
+        "date": "2017-04-14T11:12:47.662224+03:00",
+        "id": "a3a1deee2d314ed0951942e0c94aa556",
+        "status": "active",
+        "documents": [
+          {
+            "dateModified": "2017-04-19T12:58:22.975402+03:00",
+            "title": "лист-відмова.jpg",
+            "documentScope": "tender",
+            "id": "de6955bd18874fe0b9feac2c113fcc3c",
+            "url": "https://public.docs.openprocurement.org/get/ca47f7bb2f0f4b7fb9c96a1041fe976a?KeyID=52462340&Signature=gQndyMHlNxLyRfmXz5Q5OxDfJjB2GKt1WjQF6ZJspJZIq6DlzJHbnx8N5jcOrwnV1dMkd0g%2FssE1l1pLRl2RBg%253D%253D",
+            "datePublished": "2017-04-19T12:58:22.975380+03:00",
+            "format": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "tenderers": [
+          {
+            "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+            "identifier": {
+              "id": "2304707963",
+              "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+              "scheme": "UA-EDR"
+            },
+            "address": {
+              "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
+              "postalCode": "52500",
+              "region": "Дніпропетровська область",
+              "locality": "місто Синельникове",
+              "countryName": "Україна"
+            },
+            "contactPoint": {
+              "name": "Наталія Кришталь",
+              "telephone": "+380676342660",
+              "email": "krishtal_nata@mail.ru"
+            }
+          }
+        ],
+        "value": {
+          "amount": 43788.9,
+          "valueAddedTaxIncluded": true,
+          "currency": "UAH"
+        },
+        "participationUrl": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077/login?bidder_id=4aa841964b2a44418a046e27efa99f4f&hash=545563bfcdbb950176cefa7e11d6c8892c36ba4b",
+        "date": "2017-04-19T11:23:36.921804+03:00",
+        "id": "4aa841964b2a44418a046e27efa99f4f",
+        "status": "active",
+        "documents": [
+          {
+            "dateModified": "2017-04-14T11:19:31.151642+03:00",
+            "title": "витяг з держреєстру.rtf",
+            "documentScope": "tender",
+            "id": "d631c531125a4a3ea12fd1dcbddad6fa",
+            "url": "https://public.docs.openprocurement.org/get/92175a8ade8545b8a1a62084cb2540ca?KeyID=52462340&Signature=zwk%2Fmlb2keEBGbFu058w6MoT305465LeL32DHEHVehft%252BlVNXxvDT0%252BXbmM75QLVEzYmPOSjPi4ax2b2DvWpBg%253D%253D",
+            "datePublished": "2017-04-14T11:19:31.151607+03:00",
+            "format": "application/rtf"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:31.859018+03:00",
+            "title": "витяг єдин податку.jpg",
+            "documentScope": "tender",
+            "id": "ee5323b099764e70b687f7b92ddd0ba7",
+            "url": "https://public.docs.openprocurement.org/get/ea3215decaad4b469bbfa8a15b8a15cb?KeyID=52462340&Signature=oybqRzx%2FKM1eWC%2FyQOrafNLYPSMnfb%2FStRjbMC9DBJwCyVh5i4WvG7yhgJRtwBrlPZQfh4I%252B7I%252BNrxhV9nuiAA%253D%253D",
+            "datePublished": "2017-04-14T11:19:31.858982+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:33.399651+03:00",
+            "title": "довідка 1.jpg",
+            "documentScope": "tender",
+            "id": "77cf975c23fe40ad999173c960278268",
+            "url": "https://public.docs.openprocurement.org/get/b06c884854ca4369b6666c28a5decc45?KeyID=52462340&Signature=08KCiTDQ57%252B8w7jis0aYpR2zqM13dQAbNNmlq6qo6AZbSmXXEY8Gq1vLFsuwT%2F2cjwUMhxNsgOY4IxUMAi9TDg%253D%253D",
+            "datePublished": "2017-04-14T11:19:33.399600+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:35.302102+03:00",
+            "title": "дов банку.jpg",
+            "documentScope": "tender",
+            "id": "ff6b4444758c4d348fcd5c9341cf6ac3",
+            "url": "https://public.docs.openprocurement.org/get/984f1d95b5394270a4bb536928eb4f70?KeyID=52462340&Signature=k6czUQrrD42Hw0wzMFCatv%2FNDzl30zSJkJ8AWDkzhg2IsNtfKwIffEz3I0uS5vv4pTZNb0dAaQI1xJe4Uy4dCA%253D%253D",
+            "datePublished": "2017-04-14T11:19:35.302081+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:36.062336+03:00",
+            "title": "Высновок сан ст .JPG",
+            "documentScope": "tender",
+            "id": "2ccc73b985fa425a895751ae9a88272c",
+            "url": "https://public.docs.openprocurement.org/get/f4812ad93f7a4f85aff489eb44e9179e?KeyID=52462340&Signature=OMLp%2Fp5pr%2FfyZhXL02pQe2P%2F1id5UsExgu1bf15FtgOYBeUVfJjyrVaLbXbFxcuFzQZLi4Of4CSdj5uHoZi1CQ%253D%253D",
+            "datePublished": "2017-04-14T11:19:36.062314+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:36.783211+03:00",
+            "title": "дов про обладнення.jpg",
+            "documentScope": "tender",
+            "id": "11fcde3cd1d74f3a9bfb10f2892fbd94",
+            "url": "https://public.docs.openprocurement.org/get/470df0f7866846de9e81a9a7744e6da8?KeyID=52462340&Signature=VZlLAKdalEC251dzIFIBELalRpNMWAWU0hpSOoDmpaZrpkF1XWKivfoCQ124ZGPx1q%252B3JhYOIai6%252BYmwuRZ%2FDA%253D%253D",
+            "datePublished": "2017-04-14T11:19:36.783179+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:37.588039+03:00",
+            "title": "довідка автотр.jpg",
+            "documentScope": "tender",
+            "id": "0ac0b1e11d9f4f398e9efaa8dc759805",
+            "url": "https://public.docs.openprocurement.org/get/d73c6442f98542e7ac73321452b0e113?KeyID=52462340&Signature=pyD%2FOn5G8ZM8lzTEw03ViZRGFY9wDkBgZfRNBrDbtZNkeO2W%2FUWoJGT%2FdZG6MsXGU32qIpwSfdHTJpCPjri8Cw%253D%253D",
+            "datePublished": "2017-04-14T11:19:37.588018+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:38.462042+03:00",
+            "title": "дог арен приміщ.jpg",
+            "documentScope": "tender",
+            "id": "123ea52925f843aab805fd90ec3a9d56",
+            "url": "https://public.docs.openprocurement.org/get/57d96db0669d4054b44c9f337dcd4b1d?KeyID=52462340&Signature=Zo22%252By4UToCQlmW6ngJcYs8RUx33yeLu4h%252BPzpqTD3cVAq8qwznBoOTHCk95fBE2o2UT6Ta9oWja1%2FLl0b0OCQ%253D%253D",
+            "datePublished": "2017-04-14T11:19:38.462002+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:39.620870+03:00",
+            "title": "договір на аренду автотрансп.jpg",
+            "documentScope": "tender",
+            "id": "7b2e40b5e01c44809bc2717f02c4966e",
+            "url": "https://public.docs.openprocurement.org/get/74551fca7ec047fe89b5102ac5a4816b?KeyID=52462340&Signature=v%2F93ZuX3OpeOD6z0x3U12GOKUhtuKnZqZerfZ1jUXVoJ6vk%2FhJKugr4uk8qQSBdHg%252BxHDWasiMRVXkteyzLUBg%253D%253D",
+            "datePublished": "2017-04-14T11:19:39.620849+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:40.468027+03:00",
+            "title": "сан паспорт.jpg",
+            "documentScope": "tender",
+            "id": "bc6d7cc2096b48529ffa1c587a46f26e",
+            "url": "https://public.docs.openprocurement.org/get/e060ba562885479cbe83d2f8d04b8f4e?KeyID=52462340&Signature=LHcAP%252BO8qAXv6lpUskB%252B50BGedtdI2f2qSHb%2FlY%252Bz9zzOdj1ERtjtXTDEErMWElQLu%252B5EwqtRVwhgzreTG%2F0Aw%253D%253D",
+            "datePublished": "2017-04-14T11:19:40.467991+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:41.219150+03:00",
+            "title": "сан обр 1.jpg",
+            "documentScope": "tender",
+            "id": "14294fd4ce604787aaf6a5aa3115cfe6",
+            "url": "https://public.docs.openprocurement.org/get/511e787ee9a1435399e491a58e5ac8b2?KeyID=52462340&Signature=xlX1DVcV3HkMTAXLeNahHGik6j%252BaKjGDTqyQe7Rikiv38Tydij6NfMWLrUKMWC2p8r45Wb5MTnhN0hjYdhPyDg%253D%253D",
+            "datePublished": "2017-04-14T11:19:41.219113+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:42.043082+03:00",
+            "title": "сан обр  2.jpg",
+            "documentScope": "tender",
+            "id": "60870315d7904b1391e9e63a2073b462",
+            "url": "https://public.docs.openprocurement.org/get/217cce08e70d4e9780816134da84c4b5?KeyID=52462340&Signature=RlR4s2RycONAQHLgwwqoDuPl0FBH3ZXi4oYFg3ReosOibkimriWpD7IfD3%2FZvno2Xbra6I2yJrNQixJSEvBDAQ%253D%253D",
+            "datePublished": "2017-04-14T11:19:42.043047+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:42.755854+03:00",
+            "title": "рекоменд лист.jpg",
+            "documentScope": "tender",
+            "id": "dff0a44fe7e847d39ef832087f4211ac",
+            "url": "https://public.docs.openprocurement.org/get/3c9b6b36084744a48c899a9d88583abf?KeyID=52462340&Signature=Gp5J3Bx8Ws%252BiOXXSIijbU9I9bYg8M1V3ylsVV2J20YzpVpDJ4P84R6meeYHIiuxnUoJ5bzjBSxpKQuQ5x76jAg%253D%253D",
+            "datePublished": "2017-04-14T11:19:42.755832+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:43.526216+03:00",
+            "title": "пасп 1.jpg",
+            "documentScope": "tender",
+            "id": "6613dfd7bcd74e348dd79b71ae86bcb6",
+            "url": "https://public.docs.openprocurement.org/get/9b68882e386c45f2b7b34ac2e30cb840?KeyID=52462340&Signature=XNsDvMFq8NzI9kT4z50SraAdv49iK9IvBwEuYqHZmGSkvcX46bqSXGdx%2FQxa7%2Ficf9ZJoqj%252BMV%2FbxF4AMJL4AA%253D%253D",
+            "datePublished": "2017-04-14T11:19:43.526194+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:44.242658+03:00",
+            "title": "пасп 2, код.jpg",
+            "documentScope": "tender",
+            "id": "9780630185c14130b9ec19f895c88aa8",
+            "url": "https://public.docs.openprocurement.org/get/4fdcbbf4198d4c4d93d3e91ac1f05336?KeyID=52462340&Signature=1PKaCaYxEtn6joub6dYxNih6Cu9yN9eicwrHkf9jqbSTUAkFzpDypwSrUodjAj%252Ba7xdAdpMkKr5Nz2Zy5dLqBQ%253D%253D",
+            "datePublished": "2017-04-14T11:19:44.242608+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:44.959234+03:00",
+            "title": "пасп 3.jpg",
+            "documentScope": "tender",
+            "id": "10adf1a06ea644c5ae3b927e8877a6ef",
+            "url": "https://public.docs.openprocurement.org/get/c77059d1339b4b52b302a1d1f33fad2c?KeyID=52462340&Signature=zugGNwHX9cww8Jts5LhTMLPvRxHI9P9UVx0msurePlxdSXZ88hWy1evN35JtlkW72D%252Bc5HAejc5bDnodCItrBA%253D%253D",
+            "datePublished": "2017-04-14T11:19:44.959212+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:45.816660+03:00",
+            "title": "пасп 4.jpg",
+            "documentScope": "tender",
+            "id": "f71fd10320974688bafdd8614ade6002",
+            "url": "https://public.docs.openprocurement.org/get/a469885d0a014ae38ac8090a0dbac936?KeyID=52462340&Signature=69dMEnaNHR7gSISKmMsCSU1WLdSIVkTPig%2F18M2ZxhTHpCFc9DXwUOW60nM0EHDmuQjSZsJYOV8GnVWoT2RMAQ%253D%253D",
+            "datePublished": "2017-04-14T11:19:45.816621+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:46.726767+03:00",
+            "title": "додаток 1.jpg",
+            "documentScope": "tender",
+            "id": "b8a92e35f4904d99979bc241444e1bc0",
+            "url": "https://public.docs.openprocurement.org/get/71a52142548e4d81bf829c8faee2c30c?KeyID=52462340&Signature=vKYsRIjcIETJP1B5ELuOPVBFMi7APc7dsIhwhWfH0iRl97p%2FXzhKoBPd62XR%2FyL7LXHNyRDzp%2F16tZzfrjQQBw%253D%253D",
+            "datePublished": "2017-04-14T11:19:46.726745+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:47.538895+03:00",
+            "title": "додаток 2 цін пропозиція.jpg",
+            "documentScope": "tender",
+            "id": "3c814324e51445db9fb7e73b4443520a",
+            "url": "https://public.docs.openprocurement.org/get/63f8ce38a0c648668a87d9a8e777050d?KeyID=52462340&Signature=VPFBYrFcS8Vo6VleKcz29Zwnj6m03GcWuVobkxsTg59Yitb97OKYnFmYJI26E%252BwtfY0zfEVuO7hE%252BKJ49OppBg%253D%253D",
+            "datePublished": "2017-04-14T11:19:47.538866+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:49.134174+03:00",
+            "title": "додаток № 4,1.jpg",
+            "documentScope": "tender",
+            "id": "41a85a0b41db4e31874e498fc2c701a9",
+            "url": "https://public.docs.openprocurement.org/get/0b60cdd029e948539ecc2f175ae3bc65?KeyID=52462340&Signature=q2BJtikU5a%252BWF0cBD5CR9m%252Bk9IrhW9d0nElwWMfI%2FNHCoNGVEKdpfUy3i07z3%2FhmrfAn93CK4nm81mWUKJHTDA%253D%253D",
+            "datePublished": "2017-04-14T11:19:49.134135+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:49.939236+03:00",
+            "title": "додаток № 4,2.jpg",
+            "documentScope": "tender",
+            "id": "dc71ec3a7ea54214aa502798b5dec9e7",
+            "url": "https://public.docs.openprocurement.org/get/851be3e6cb9f49f780c81249251e3a8d?KeyID=52462340&Signature=cElUHTlugg9OHVHkONf3UlpCnpkp9TI2FGL1vCBDG2BuyDOnI49EVcskrIBNM7qTTxAVdv1sbrulb5A9Rsy8DQ%253D%253D",
+            "datePublished": "2017-04-14T11:19:49.939215+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:50.728388+03:00",
+            "title": "Висновок 1 банани.jpg",
+            "documentScope": "tender",
+            "id": "10d3b5bd8b1f4fe5b6aefe68f6ba0657",
+            "url": "https://public.docs.openprocurement.org/get/f9f532a4af9a423ba081862917fd5a2b?KeyID=52462340&Signature=3LbyXPXokXOpPj2tQNxF3f5rJn627W%252BArO%252BTu2m9j7MJmPldcHmBYkASGXbv1%252BMdEcK2IDoSjoMzZNPVp4AdBA%253D%253D",
+            "datePublished": "2017-04-14T11:19:50.728351+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:51.524460+03:00",
+            "title": "Висновок 1 лимон.jpg",
+            "documentScope": "tender",
+            "id": "63cc794848414294b81fdfdeb69a7efa",
+            "url": "https://public.docs.openprocurement.org/get/11ba698a25f1494995eebecd297fa553?KeyID=52462340&Signature=r9mG2V3LajX8VObhUM6omPyzOpj%2FbCmUBhApBzIwKAK4UamFTrNa%252BpX5P%252Bq%2FrMk52Ams0vJ6kYK%2FOXEpzs7zBQ%253D%253D",
+            "datePublished": "2017-04-14T11:19:51.524422+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:19:52.342723+03:00",
+            "title": "Висновок 2 банани.jpg",
+            "documentScope": "tender",
+            "id": "105c9fb55435450a81ed8a2c7a68da63",
+            "url": "https://public.docs.openprocurement.org/get/383875271afd48f39afdbfca0333b9f7?KeyID=52462340&Signature=TELc%2F3fFgDb%252BCjARxM9AeEE1BRJ6G9RObvLAksMFCylnOQEeya2wUwsaE6%252B0Oi3Fko9OAsms%2FDej81tu7rrCDA%253D%253D",
+            "datePublished": "2017-04-14T11:19:52.342701+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-14T11:20:04.456240+03:00",
+            "title": "Висновок 2 лимон.jpg",
+            "documentScope": "tender",
+            "id": "6ccd937ded1d4c61aa75fee49f2eb623",
+            "url": "https://public.docs.openprocurement.org/get/fb1c42037d284073aa624f2b007f23b9?KeyID=52462340&Signature=lx3E2pGHyVJtwK%2FDmz8rzrUPeN3NWzqVZFjE5mk%252BNO%2F1hk9PwS94f2VOPEc0kHySxl%252BDRXn6Laq%252BXFYsk7%2FuDQ%253D%253D",
+            "datePublished": "2017-04-14T11:20:04.456201+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-21T10:12:02.983966+03:00",
+            "title": "додаток № 3,1 дог.jpg",
+            "documentScope": "tender",
+            "id": "7e7aefcf9b0c493086166cb909fdf5e6",
+            "url": "https://public.docs.openprocurement.org/get/a95acaf4458d4d92968eab36fb2639a4?KeyID=52462340&Signature=53IN%252BKffHi9tNRdDY6OJSKOkKPdk372GnsKjVEbjL2oR%252BF0FOwCCQnot9VpiYDoa3FtK9Pfgh81NnoqtVmBGDQ%253D%253D",
+            "datePublished": "2017-04-21T10:12:02.983936+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-21T10:12:03.919564+03:00",
+            "title": "додаток № 3,2 дог.jpg",
+            "documentScope": "tender",
+            "id": "6f0fd05466fa4759ae35776c83b3708d",
+            "url": "https://public.docs.openprocurement.org/get/db3fecd6414b4a7e8d8171657a4ed1d3?KeyID=52462340&Signature=k6AfS1xJ2b5V4xjkCzCCNXbJRLgGXkH8nRSKROQH4kJPI0osJE5Qohd1si8pNjw6judTk75JG7iQZCS%2F6G3HDw%253D%253D",
+            "datePublished": "2017-04-21T10:12:03.919528+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-21T10:12:08.204746+03:00",
+            "title": "додаток № 3,3 дог.jpg",
+            "documentScope": "tender",
+            "id": "9b261c0db9a6458884d8879497aafbbd",
+            "url": "https://public.docs.openprocurement.org/get/3a27527926754852aaaaa34af81b245a?KeyID=52462340&Signature=iezSRHJS5EbzDRmvWpCu2vgHCfVS3IKuAY299rOrw1f%252Bq3NiYVE26yHlWzEpjVgmgv1aUzlS0sPvOHjZMTnpAA%253D%253D",
+            "datePublished": "2017-04-21T10:12:08.204711+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-21T10:12:09.147977+03:00",
+            "title": "додаток № 3,4 дог.jpg",
+            "documentScope": "tender",
+            "id": "2dff1560da4c4345bc6083ff4315c82b",
+            "url": "https://public.docs.openprocurement.org/get/c768dbadce844bd590755eb767fd9cc6?KeyID=52462340&Signature=dDUhBCGfgjO6RLCoHrE9eEqfXtIAuVFE03bN%252Bkh8FxWyIcRXfkTew6XLdR9Di1LmCPpw%2F3Sx%252B%2F3Q%2FGqYjGssBw%253D%253D",
+            "datePublished": "2017-04-21T10:12:09.147942+03:00",
+            "format": "image/jpeg"
+          },
+          {
+            "dateModified": "2017-04-21T10:12:10.545191+03:00",
+            "title": "цінова пропозиція оновлена.jpg",
+            "documentScope": "tender",
+            "id": "e329ccd4736749f39cbf9d69750d7d1e",
+            "url": "https://public.docs.openprocurement.org/get/690f0ce5474e4dd6b3697b468f1b4884?KeyID=52462340&Signature=fm8mTN%2FFsIUA35%252BhRUGfdP7lw9MCVmvVAudXKOyclxDm2UN2XjNhMzGE4Qc4mdkVyFWZoY3yv9h1XajPuIeVAg%253D%253D",
+            "datePublished": "2017-04-21T10:12:10.545169+03:00",
+            "format": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  "initiationType": "tender",
+  "language": "uk",
+  "awards": [
+    {
+      "value": {
+        "amount": 42074.56,
+        "valueAddedTaxIncluded": true,
+        "currency": "UAH"
+      },
+      "items": [
+        {
+          "classification": {
+            "id": "03220000-9",
+            "description": "Овочі, фрукти та горіхи",
+            "scheme": "CPV"
+          },
+          "deliveryAddress": {
+            "postalCode": "52500",
+            "streetAddress": "адреса вказана в Додатке № 4",
+            "locality": "м.Синельникове",
+            "region": "Дніпропетровська область",
+            "countryName": "Україна"
+          },
+          "description": "Банани товар вищого ґатунку.",
+          "id": "24997fb7ffa44e659aed639cf4d0d0b2",
+          "deliveryDate": {
+            "endDate": "2017-12-31T23:59:59.999999+02:00"
+          },
+          "quantity": 943,
+          "unit": {
+            "id": "KGM",
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
+          }
+        },
+        {
+          "classification": {
+            "id": "03220000-9",
+            "description": "Овочі, фрукти та горіхи",
+            "scheme": "CPV"
+          },
+          "deliveryAddress": {
+            "postalCode": "52500",
+            "streetAddress": "адреса вказана в Додатке № 4",
+            "locality": "м.Синельникове",
+            "region": "Дніпропетровська область",
+            "countryName": "Україна"
+          },
+          "description": "Лимони товар вищого ґатунку.",
+          "id": "f79ef6da622f4d08b71ab23196e0dc2b",
+          "deliveryDate": {
+            "endDate": "2017-12-31T23:59:59.999999+02:00"
+          },
+          "quantity": 400,
+          "unit": {
+            "id": "KGM",
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
+          }
+        }
+      ],
+      "documents": [
+        {
+          "dateModified": "2017-04-21T10:07:46.207153+03:00",
+          "title": "рішення по ФОП Фоміна Т. А..JPG",
+          "documentScope": "tender",
+          "id": "edca2d25b5634ef494e230f81fe53c8c",
+          "url": "https://public.docs.openprocurement.org/get/525108a43858429ea06932ca0ed5d9ce?KeyID=52462340&Signature=4PWOm4lAkd0Bea8ZTQ%2FfweMh8ucQjIcvYu16Y5KU6dBqvzHrNyYRKVfQ6YK2jlhl6%2Fi3VT7GmqWeruCEjwvMDA%253D%253D",
+          "datePublished": "2017-04-21T10:07:46.207132+03:00",
+          "documentType": "evaluationReports",
+          "format": "image/jpeg"
+        },
+        {
           "dateModified": "2017-04-21T10:09:30.073286+03:00",
+          "title": "sign.p7s",
+          "documentScope": "tender",
+          "id": "96203eda0e394ac2aba4e21105d76474",
+          "url": "https://public.docs.openprocurement.org/get/a44534038f19431d8de557f3c08348de?KeyID=52462340&Signature=qFkoBkdGIw4V3g4D%2FjxSX5KqeV8%2FJ2GSOjTaRa6dinyYRSeAszwqM7PnCfaxvVb4c923AI3DSls12mXdFu51Bg%253D%253D",
           "datePublished": "2017-04-21T10:09:30.073265+03:00",
-          "id": "96203eda0e394ac2aba4e21105d76474"
+          "format": "application/pkcs7-signature"
+        }
+      ],
+      "id": "baf1b18f8e8a49488458200203262ca2",
+      "status": "unsuccessful",
+      "suppliers": [
+        {
+          "name": "ФОП \"Фоміна Тетяна Анатоліївна\"",
+          "identifier": {
+            "id": "2840014563",
+            "legalName": "ФОП \"Фоміна Тетяна Анатоліївна\"",
+            "scheme": "UA-EDR"
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ БЕРДЯНСЬКА, будинок 13",
+            "postalCode": "52500",
+            "region": "Дніпропетровська область",
+            "locality": "місто Синельникове",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Тетяна Фоміна",
+            "telephone": "+380939513335",
+            "email": "fomina_ta@mail.ua"
+          }
         }
       ],
       "complaintPeriod": {
         "startDate": "2017-04-19T11:27:16.148345+03:00",
         "endDate": "2017-04-25T10:09:30.605070+03:00"
       },
+      "date": "2017-04-21T10:09:30.614796+03:00"
+    },
+    {
+      "value": {
+        "amount": 43788.9,
+        "valueAddedTaxIncluded": true,
+        "currency": "UAH"
+      },
       "items": [
         {
-          "description": "Банани товар вищого ґатунку.",
           "classification": {
-            "scheme": "CPV",
+            "id": "03220000-9",
             "description": "Овочі, фрукти та горіхи",
-            "id": "03220000-9"
+            "scheme": "CPV"
           },
           "deliveryAddress": {
             "postalCode": "52500",
-            "countryName": "Україна",
             "streetAddress": "адреса вказана в Додатке № 4",
+            "locality": "м.Синельникове",
             "region": "Дніпропетровська область",
-            "locality": "м.Синельникове"
+            "countryName": "Україна"
           },
+          "description": "Банани товар вищого ґатунку.",
+          "id": "24997fb7ffa44e659aed639cf4d0d0b2",
           "deliveryDate": {
             "endDate": "2017-12-31T23:59:59.999999+02:00"
           },
-          "id": "24997fb7ffa44e659aed639cf4d0d0b2",
+          "quantity": 943,
           "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
             "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 943
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
+          }
         },
         {
-          "description": "Лимони товар вищого ґатунку.",
           "classification": {
-            "scheme": "CPV",
+            "id": "03220000-9",
             "description": "Овочі, фрукти та горіхи",
-            "id": "03220000-9"
+            "scheme": "CPV"
           },
           "deliveryAddress": {
             "postalCode": "52500",
-            "countryName": "Україна",
             "streetAddress": "адреса вказана в Додатке № 4",
+            "locality": "м.Синельникове",
             "region": "Дніпропетровська область",
-            "locality": "м.Синельникове"
+            "countryName": "Україна"
           },
+          "description": "Лимони товар вищого ґатунку.",
+          "id": "f79ef6da622f4d08b71ab23196e0dc2b",
           "deliveryDate": {
             "endDate": "2017-12-31T23:59:59.999999+02:00"
           },
-          "id": "f79ef6da622f4d08b71ab23196e0dc2b",
+          "quantity": 400,
           "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
             "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 400
-        }
-      ],
-      "suppliers": [
-        {
-          "contactPoint": {
-            "telephone": "+380939513335",
-            "email": "fomina_ta@mail.ua",
-            "name": "Тетяна Фоміна"
-          },
-          "identifier": {
-            "scheme": "UA-EDR",
-            "id": "2840014563",
-            "legalName": "ФОП \"Фоміна Тетяна Анатоліївна\""
-          },
-          "name": "ФОП \"Фоміна Тетяна Анатоліївна\"",
-          "address": {
-            "countryName": "Україна",
-            "postalCode": "52500",
-            "region": "Дніпропетровська область",
-            "streetAddress": "ВУЛИЦЯ БЕРДЯНСЬКА, будинок 13",
-            "locality": "місто Синельникове"
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
           }
         }
       ],
-      "value": {
-        "currency": "UAH",
-        "amount": 42074.56,
-        "valueAddedTaxIncluded": true
-      },
-      "date": "2017-04-21T10:09:30.614796+03:00",
-      "id": "baf1b18f8e8a49488458200203262ca2"
-    },
-    {
-      "status": "active",
       "documents": [
         {
-          "documentScope": "tender",
-          "format": "image/jpeg",
-          "url": "https://public.docs.openprocurement.org/get/ed436c5948fd4f288eb2c5118a37877f?KeyID=52462340&Signature=zjitX%2FW9gT8JK1HI9nxXLrfDsKUtP5LcBdZtVTmaZbQI2NUIQuNVm%2FgUM3U8hgZz62IP0Sq7vbH3MxTyrBYqBg%253D%253D",
-          "title": "рішення по ФОП Кришталь Н.І..JPG",
           "dateModified": "2017-04-21T10:23:23.824118+03:00",
-          "documentType": "evaluationReports",
+          "title": "рішення по ФОП Кришталь Н.І..JPG",
+          "documentScope": "tender",
+          "id": "8a747dc8bccd4095bfc8132b75a62af8",
+          "url": "https://public.docs.openprocurement.org/get/ed436c5948fd4f288eb2c5118a37877f?KeyID=52462340&Signature=zjitX%2FW9gT8JK1HI9nxXLrfDsKUtP5LcBdZtVTmaZbQI2NUIQuNVm%2FgUM3U8hgZz62IP0Sq7vbH3MxTyrBYqBg%253D%253D",
           "datePublished": "2017-04-21T10:23:23.824096+03:00",
-          "id": "8a747dc8bccd4095bfc8132b75a62af8"
+          "documentType": "evaluationReports",
+          "format": "image/jpeg"
         },
         {
-          "documentScope": "tender",
-          "title": "sign.p7s",
-          "url": "https://public.docs.openprocurement.org/get/0224347a96dd4571afe24c40ca330d27?KeyID=52462340&Signature=zB61qj5Pq1w9EagZ%2F9MTFgws3tt3oSGl2SVJugee9kfDe7iWrrxogzYMezfVZEBwjwgQwqmaKKMIn4%252B%252BVVZIAg%253D%253D",
-          "format": "application/pkcs7-signature",
           "dateModified": "2017-04-21T10:35:03.869184+03:00",
+          "title": "sign.p7s",
+          "documentScope": "tender",
+          "id": "c229b5fcca32431d8f3a7c1213427f02",
+          "url": "https://public.docs.openprocurement.org/get/0224347a96dd4571afe24c40ca330d27?KeyID=52462340&Signature=zB61qj5Pq1w9EagZ%2F9MTFgws3tt3oSGl2SVJugee9kfDe7iWrrxogzYMezfVZEBwjwgQwqmaKKMIn4%252B%252BVVZIAg%253D%253D",
           "datePublished": "2017-04-21T10:35:03.869148+03:00",
-          "id": "c229b5fcca32431d8f3a7c1213427f02"
+          "format": "application/pkcs7-signature"
+        }
+      ],
+      "id": "3582f543aed249fc95889dcd63a127b6",
+      "status": "active",
+      "suppliers": [
+        {
+          "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+          "identifier": {
+            "id": "2304707963",
+            "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
+            "scheme": "UA-EDR"
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
+            "postalCode": "52500",
+            "region": "Дніпропетровська область",
+            "locality": "місто Синельникове",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Наталія Кришталь",
+            "telephone": "+380676342660",
+            "email": "krishtal_nata@mail.ru"
+          }
         }
       ],
       "complaintPeriod": {
         "startDate": "2017-04-21T10:09:30.607444+03:00",
         "endDate": "2017-04-25T10:35:04.389924+03:00"
       },
-      "items": [
-        {
-          "description": "Банани товар вищого ґатунку.",
-          "classification": {
-            "scheme": "CPV",
-            "description": "Овочі, фрукти та горіхи",
-            "id": "03220000-9"
-          },
-          "deliveryAddress": {
-            "postalCode": "52500",
-            "countryName": "Україна",
-            "streetAddress": "адреса вказана в Додатке № 4",
-            "region": "Дніпропетровська область",
-            "locality": "м.Синельникове"
-          },
-          "deliveryDate": {
-            "endDate": "2017-12-31T23:59:59.999999+02:00"
-          },
-          "id": "24997fb7ffa44e659aed639cf4d0d0b2",
-          "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
-            "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 943
-        },
-        {
-          "description": "Лимони товар вищого ґатунку.",
-          "classification": {
-            "scheme": "CPV",
-            "description": "Овочі, фрукти та горіхи",
-            "id": "03220000-9"
-          },
-          "deliveryAddress": {
-            "postalCode": "52500",
-            "countryName": "Україна",
-            "streetAddress": "адреса вказана в Додатке № 4",
-            "region": "Дніпропетровська область",
-            "locality": "м.Синельникове"
-          },
-          "deliveryDate": {
-            "endDate": "2017-12-31T23:59:59.999999+02:00"
-          },
-          "id": "f79ef6da622f4d08b71ab23196e0dc2b",
-          "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
-            "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 400
-        }
-      ],
-      "suppliers": [
-        {
-          "contactPoint": {
-            "telephone": "+380676342660",
-            "email": "krishtal_nata@mail.ru",
-            "name": "Наталія Кришталь"
-          },
-          "identifier": {
-            "scheme": "UA-EDR",
-            "id": "2304707963",
-            "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\""
-          },
-          "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
-          "address": {
-            "countryName": "Україна",
-            "postalCode": "52500",
-            "region": "Дніпропетровська область",
-            "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
-            "locality": "місто Синельникове"
-          }
-        }
-      ],
-      "value": {
-        "currency": "UAH",
-        "amount": 43788.9,
-        "valueAddedTaxIncluded": true
-      },
-      "date": "2017-04-21T10:35:04.399864+03:00",
-      "id": "3582f543aed249fc95889dcd63a127b6"
+      "date": "2017-04-21T10:35:04.399864+03:00"
     }
-  ],
-  "buyer": {
-    "contactPoint": {
-      "telephone": "+380993348804",
-      "email": "osvita_zakupki@mail.ua",
-      "name": "Юлія Петрівна Зіміна"
-    },
-    "identifier": {
-      "scheme": "UA-EDR",
-      "id": "02124775",
-      "legalName": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ"
-    },
-    "name": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ",
-    "address": {
-      "countryName": "Україна",
-      "postalCode": "52500",
-      "region": "Дніпропетровська область",
-      "streetAddress": "вул. Виконкомівська, 30",
-      "locality": "м.Синельникове"
-    }
-  },
-  "tender": {
-    "procurementMethod": "open",
-    "status": "complete",
-    "tenderPeriod": {
-      "startDate": "2017-04-13T15:38:00+03:00",
-      "endDate": "2017-04-14T15:39:00+03:00"
-    },
-    "documents": [
-      {
-        "documentScope": "tender",
-        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "url": "https://public.docs.openprocurement.org/get/59c0ef6456194659852e1e3e65e7234a?KeyID=52462340&Signature=Yi2gEC4JadS0Q9cX0ZQWa7ux4S1E%2F08HiopF9UUMSm2ntTvSGrYfiTsi19BuD3ZO1RHAvfGpOLYugdWY%252B2vgDw%253D%253D",
-        "title": "Додаток № 3 договір.docx",
-        "dateModified": "2017-04-12T15:06:12.841284+03:00",
-        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
-        "documentType": "contractProforma",
-        "datePublished": "2017-04-12T15:06:12.841263+03:00",
-        "id": "10b0c406571e48cd96182def8a5189a3"
-      },
-      {
-        "documentScope": "tender",
-        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "url": "https://public.docs.openprocurement.org/get/49ea6181aee04685b75fe19597522bf8?KeyID=52462340&Signature=%252B13kILSRlKtEo0weZirHd823ZVO%2FuWWF22zqp7yOHrVvigkz%252BgAlbWbMiz%252BmoO2sLAVn0UYqJ%2Fq9Usuv8z1KCw%253D%253D",
-        "title": "ОГОЛОШЕННЯ.docx",
-        "dateModified": "2017-04-12T15:06:14.025060+03:00",
-        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
-        "documentType": "evaluationCriteria",
-        "datePublished": "2017-04-12T15:06:14.025039+03:00",
-        "id": "75373d80175045d09a9fcda2699e58bb"
-      },
-      {
-        "documentScope": "tender",
-        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "url": "https://public.docs.openprocurement.org/get/97603f91f09d43d9aa88b16541816e54?KeyID=52462340&Signature=h3ukEXyxFoqAlrDrwXDvVljMDpxMKSB2uwPpft%252BGg9cb1QaUoicBiFdBhhrW3J0JiMMTdUEqGNNF37JNFYOBCw%253D%253D",
-        "title": "Додаток №1.docx",
-        "dateModified": "2017-04-12T15:06:15.358976+03:00",
-        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
-        "documentType": "technicalSpecifications",
-        "datePublished": "2017-04-12T15:06:15.358954+03:00",
-        "id": "5f4190113b404e30af57b52518903f00"
-      },
-      {
-        "documentScope": "tender",
-        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "url": "https://public.docs.openprocurement.org/get/81f4394bfa2b4933a8649bd67731f24c?KeyID=52462340&Signature=%2FslzcjheNOy6fxAP1VYKdOhRW4T8fatLliei%252BBIneU6NdAPvAA8r%252BaPmDNEQWEG8IdZt6IYmDptTtK6nQG%252B0DA%253D%253D",
-        "title": "Додаток №2.docx",
-        "dateModified": "2017-04-12T15:06:16.629184+03:00",
-        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
-        "documentType": "technicalSpecifications",
-        "datePublished": "2017-04-12T15:06:16.629163+03:00",
-        "id": "5e931e75768145f282cb68e2fb40c933"
-      },
-      {
-        "documentScope": "tender",
-        "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "url": "https://public.docs.openprocurement.org/get/d70238359008429c931aa559dae0f688?KeyID=52462340&Signature=vwcIse5rFzNxT9Np41leSxG9Xfg1JShv2LsWDrJyliNkQYRN9dvGrBkUWYPrk6P%252BtUBoCemz7ucMr17%2FP1KaBg%253D%253D",
-        "title": "Додаток № 4.docx",
-        "dateModified": "2017-04-12T15:06:19.849710+03:00",
-        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
-        "documentType": "technicalSpecifications",
-        "datePublished": "2017-04-12T15:06:19.849688+03:00",
-        "id": "c623f124c0344f429d01fd7cbfbd5578"
-      },
-      {
-        "documentScope": "tender",
-        "format": "application/pkcs7-signature",
-        "url": "https://public.docs.openprocurement.org/get/08a33edf0b1747d89997cacfbb49b328?KeyID=52462340&Signature=3LLpqsOdhGB646cx9Nt9IIssH9DCkTl%2FnFMTBc06vYHTeKIzIsml10%252BLM1C68Yu6fR%2FbCs8%2FkoT765fZvNDVDA%253D%253D",
-        "title": "sign.p7s",
-        "relatedItem": "0000431d17fe41fea60d13dfec6bd077",
-        "dateModified": "2017-04-12T15:10:01.821265+03:00",
-        "datePublished": "2017-04-12T15:10:01.821233+03:00",
-        "id": "bf3324b1bd0f48d4a336c3e54d308107"
-      },
-      {
-        "documentScope": "tender",
-        "title": "audit_0000431d17fe41fea60d13dfec6bd077.yaml",
-        "url": "https://public.docs.openprocurement.org/get/d283bee0316b4af39403f53a1bc91413?KeyID=52462340&Signature=uy101Bd1IeSBiQJDibKYlw4a1V6SorY3xd07lesgosCoTd4a7ZZAN3gBqnGLYuaJiVJEo%252B1CQcMfbJzS5Uk8BA%253D%253D",
-        "format": "text/plain",
-        "dateModified": "2017-04-19T11:27:15.322299+03:00",
-        "datePublished": "2017-04-19T11:27:15.322277+03:00",
-        "id": "d304f5bd7afb464692e7757a11fed4ba-0"
-      },
-      {
-        "documentScope": "tender",
-        "title": "audit_0000431d17fe41fea60d13dfec6bd077.yaml",
-        "url": "https://public.docs.openprocurement.org/get/a773e56e44564a499aeb70d8a37089db?KeyID=52462340&Signature=Ic5DlF8MMteikaxrkBcpRbjVtIklz4cLbvk7%2FxXvGXjvvXB3jXbwtvlTBTRU15VyG0wf575BYtTDiCUFTW2tDw%253D%253D",
-        "format": "text/plain",
-        "dateModified": "2017-04-19T11:27:16.461530+03:00",
-        "datePublished": "2017-04-19T11:27:15.322277+03:00",
-        "id": "d304f5bd7afb464692e7757a11fed4ba-1"
-      }
-    ],
-    "awardPeriod": {
-      "startDate": "2017-04-19T11:27:16.147908+03:00",
-      "endDate": "2017-04-21T10:35:04.390239+03:00"
-    },
-    "description": "(технічні вимоги – Додаток № 1 до оголошення).\nкод  ДК 021-2015 – 03220000-9 – Овочі, фрукти та горіхи (банани, лимони)\n",
-    "title": "Банани та лимони",
-    "enquiryPeriod": {
-      "startDate": "2017-04-12T15:06:11.609855+03:00",
-      "endDate": "2017-04-13T15:38:00+03:00"
-    },
-    "tenderers": [
-      {
-        "contactPoint": {
-          "telephone": "+380939513335",
-          "email": "fomina_ta@mail.ua",
-          "name": "Тетяна Фоміна"
-        },
-        "identifier": {
-          "scheme": "UA-EDR",
-          "id": "2840014563",
-          "legalName": "ФОП \"Фоміна Тетяна Анатоліївна\""
-        },
-        "name": "ФОП \"Фоміна Тетяна Анатоліївна\"",
-        "address": {
-          "countryName": "Україна",
-          "postalCode": "52500",
-          "region": "Дніпропетровська область",
-          "streetAddress": "ВУЛИЦЯ БЕРДЯНСЬКА, будинок 13",
-          "locality": "місто Синельникове"
-        }
-      },
-      {
-        "contactPoint": {
-          "telephone": "+380322940503",
-          "email": "danylov.d@tropikltd.com",
-          "name": "Данилов Дмитро Олександрович",
-          "faxNumber": "+380322245803"
-        },
-        "identifier": {
-          "scheme": "UA-EDR",
-          "id": "20831737",
-          "legalName": "ТОВ Тропік"
-        },
-        "name": "ТОВ Тропік",
-        "address": {
-          "countryName": "Україна",
-          "postalCode": "79008",
-          "region": "Львівська область",
-          "streetAddress": "м.Львів  вул.Пекарська 5/4",
-          "locality": "Львів"
-        }
-      },
-      {
-        "contactPoint": {
-          "telephone": "+380676342660",
-          "email": "krishtal_nata@mail.ru",
-          "name": "Наталія Кришталь"
-        },
-        "identifier": {
-          "scheme": "UA-EDR",
-          "id": "2304707963",
-          "legalName": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\""
-        },
-        "name": "ФОП \"КРИШТАЛЬ НАТАЛІЯ ІВАНІВНА\"",
-        "address": {
-          "countryName": "Україна",
-          "postalCode": "52500",
-          "region": "Дніпропетровська область",
-          "streetAddress": "ВУЛИЦЯ МИРУ, будинок 11, квартира 170",
-          "locality": "місто Синельникове"
-        }
-      }
-    ],
-    "procurementMethodType": "belowThreshold",
-    "value": {
-      "currency": "UAH",
-      "amount": 49993.6,
-      "valueAddedTaxIncluded": true
-    },
-    "submissionMethod": [
-      "electronicAuction"
-    ],
-    "procuringEntity": {
-      "contactPoint": {
-        "telephone": "+380993348804",
-        "email": "osvita_zakupki@mail.ua",
-        "name": "Юлія Петрівна Зіміна"
-      },
-      "identifier": {
-        "scheme": "UA-EDR",
-        "id": "02124775",
-        "legalName": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ"
-      },
-      "name": "ВІДДІЛ ОСВІТИ СИНЕЛЬНИКІВСЬКОЇ МІСЬКОЇ РАДИ",
-      "address": {
-        "countryName": "Україна",
-        "postalCode": "52500",
-        "region": "Дніпропетровська область",
-        "streetAddress": "вул. Виконкомівська, 30",
-        "locality": "м.Синельникове"
-      }
-    },
-    "currentStage": "complete",
-    "tenderID": "UA-2017-04-12-001619-b",
-    "awardCriteria": "lowestCost",
-    "auctions": [
-      {
-        "minimalStep": {
-          "currency": "UAH",
-          "amount": 249.97,
-          "valueAddedTaxIncluded": true
-        },
-        "url": "https://auction.openprocurement.org/tenders/0000431d17fe41fea60d13dfec6bd077",
-        "period": {
-          "startDate": "2017-04-19T11:00:15+03:00",
-          "endDate": "2017-04-19T11:27:16.111993+03:00"
-        }
-      }
-    ],
-    "items": [
-      {
-        "description": "Банани товар вищого ґатунку.",
-        "classification": {
-          "scheme": "CPV",
-          "description": "Овочі, фрукти та горіхи",
-          "id": "03220000-9"
-        },
-        "deliveryAddress": {
-          "postalCode": "52500",
-          "countryName": "Україна",
-          "streetAddress": "адреса вказана в Додатке № 4",
-          "region": "Дніпропетровська область",
-          "locality": "м.Синельникове"
-        },
-        "deliveryDate": {
-          "endDate": "2017-12-31T23:59:59.999999+02:00"
-        },
-        "id": "24997fb7ffa44e659aed639cf4d0d0b2",
-        "unit": {
-          "symbol": "kg",
-          "scheme": "UNCEFACT",
-          "id": "KGM",
-          "name": "kilogram"
-        },
-        "quantity": 943
-      },
-      {
-        "description": "Лимони товар вищого ґатунку.",
-        "classification": {
-          "scheme": "CPV",
-          "description": "Овочі, фрукти та горіхи",
-          "id": "03220000-9"
-        },
-        "deliveryAddress": {
-          "postalCode": "52500",
-          "countryName": "Україна",
-          "streetAddress": "адреса вказана в Додатке № 4",
-          "region": "Дніпропетровська область",
-          "locality": "м.Синельникове"
-        },
-        "deliveryDate": {
-          "endDate": "2017-12-31T23:59:59.999999+02:00"
-        },
-        "id": "f79ef6da622f4d08b71ab23196e0dc2b",
-        "unit": {
-          "symbol": "kg",
-          "scheme": "UNCEFACT",
-          "id": "KGM",
-          "name": "kilogram"
-        },
-        "quantity": 400
-      }
-    ],
-    "id": "0000431d17fe41fea60d13dfec6bd077",
-    "numberOfTenderers": 3,
-    "guarantee": {
-      "currency": "UAH"
-    }
-  },
-  "id": "9c06e7fffe00412ebf6ec83fa2a10e04",
-  "packageInfo": {
-    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
-    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
-    "publisher": {
-      "name": "ДП \"Прозорро\""
-    }
-  }
+  ]
 }

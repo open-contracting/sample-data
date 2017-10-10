@@ -1,0 +1,405 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-01-03T06:00:00.000Z",
+        "endDate": "2017-04-02T06:00:00.000Z"
+      },
+      "title": "SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CRITICA PARA LA OBTENCION DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCION DEL NAICM.",
+      "id": "ITP-SRO-DCAGI-SC-001-17",
+      "awardID": "IO-009KDH999-E142-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-25c14f40-b2b0-4b4e-b13f-c14ca4159819",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-24577a91-f254-47ec-8b9b-5da79c189c6b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-c3616da8-f4c4-4b38-b07a-86afddbe5cbe",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-decce965-8d5c-4982-9e1e-2f4d68b5f884",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 6499920.6
+      },
+      "items": [
+        {
+          "id": "item-29c8197f-f307-4c9a-b410-c10ecfb90073",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CR?TICA PARA LA OBTENCI?N DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCI?N DEL NAICM.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 6499920.6
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-557197b2-f8c9-4835-bf31-c555d1c77f40"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CTA840227RT0",
+              "legalName": "COORDINACION TECNICO ADMINISTRATIVA DE OBRAS, S.A. DE C.V.",
+              "scheme": "COORDINACION TECNICO ADMINISTRATIVA DE OBRAS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-001-17 SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CR?TICA PARA LA OBTENCI?N DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCI?N DEL NAICM.",
+            "id": "milestone-f18ab7c5-49a0-419a-83a7-1088c129ff63",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-01-03T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.298Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-11-22T06:00:00.000Z",
+      "endDate": "2016-11-28T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "19 INVITACION A CUANDO MENOS TRES NACIONAL LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 8103448.27
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CR?TICA PARA LA OBTENCI?N DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCI?N DEL NAICM.nn",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-5b8c72b2-e579-4e23-abc4-f84086c55efc",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/9.-%20AJ/9.pdf",
+        "datePublished": "2017-01-03T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-03T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-1794fe23-45f0-4d11-b936-219171fb8011",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-11f4ac18-ba26-46a9-bff3-eeb7fd5bdb51",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-71a23eda-87ff-44d8-b6a2-19b12c39dc9e",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-5248aaf1-ef86-4da0-97d6-f52a0db06dec",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-c870fbee-e995-4e1f-b3f5-b47e56ef014b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-11-22T06:00:00.000Z",
+      "endDate": "2016-11-28T06:00:00.000Z"
+    },
+    "id": "1207572",
+    "awardCriteriaDetails": "PUNTOS Y PORCENTAJE",
+    "items": [
+      {
+        "id": "item-0bc8465b-0ad1-4cee-87a6-8b83712a46d4",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CR?TICA PARA LA OBTENCI?N DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCI?N DEL NAICM.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 6499920.6
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-11-23T06:00:00.000Z",
+      "endDate": "2016-11-28T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 8103448.27
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5746e4a8-60cc-42c5-b391-a3f08ba07d6b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/4.-%20TR/4.pdf",
+        "datePublished": "2017-01-03T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-03T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CR?TICA PARA LA OBTENCI?N DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCI?N DEL NAICM."
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_498_2017-10-04T00:53:19.294Z",
+  "ocid": "498",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CR?TICA PARA LA OBTENCI?N DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCI?N DEL NAICM.",
+      "id": "IO-009KDH999-E142-2016",
+      "contractPeriod": {
+        "startDate": "2017-01-03T06:00:00.000Z",
+        "endDate": "2017-04-02T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 6499920.6
+      },
+      "items": [
+        {
+          "id": "item-8c1015ce-71b6-44b2-8dbb-c1c669ee2486",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS ESPECIALIZADOS PARA DETERMINAR LA RUTA CR?TICA PARA LA OBTENCI?N DE LICENCIAS, PERMISOS, AUTORIZACIONES Y OPINIONES DE LAS AUTORIDADES COMPETENTES, DURANTE LA CONSTRUCCI?N DEL NAICM.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 6499920.6
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-deab7f2a-1ac5-4893-a279-eee2f016655d",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-508f4554-c204-41d5-9f05-2a3330245e9c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/12.-%20AF/12.2.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-42bd54f9-0e6c-4d7c-b855-74b95d6aed7c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/12.-%20AF/12.3.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-3735041f-c747-4040-8f13-973f694bdc67",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-ITP-SRO-DCAGI-SC-001-17/12.-%20AF/12.1.pdf",
+          "datePublished": "2017-01-03T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-03T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-01-03T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "NAPOLES INSURGENTES SUR Y NEBRASKA",
+            "postalCode": "03810",
+            "streetAddress": "NUEVA YORK 310 1",
+            "region": "BENITO JUAREZ"
+          },
+          "contactPoint": {
+            "email": "VICTOR.BRETON@GMAIL.COM",
+            "name": "VICTOR BRETON"
+          },
+          "identifier": {
+            "id": "CTA840227RT0",
+            "legalName": "COORDINACION TECNICO ADMINISTRATIVA DE OBRAS, S.A. DE C.V."
+          },
+          "name": "COORDINACION TECNICO ADMINISTRATIVA DE OBRAS, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

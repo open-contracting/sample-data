@@ -1,0 +1,375 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-11-30T06:00:00.000Z",
+        "endDate": "2015-12-29T06:00:00.000Z"
+      },
+      "title": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM.",
+      "id": "AD-OP-DCAGI-SC-108/15",
+      "awardID": "AO-009KDH999-E18-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-6946fca2-f5dc-4b24-8455-150f7a2a1cc8",
+          "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-af27312e-51b6-4ea6-bb14-f33479ac9521",
+          "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-62102f66-d022-4452-9d35-d93fb6ef0fb9",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSCONTRATACIONES/finiquito10815.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-974112cb-5bb0-4635-b8f9-1214d72b6207",
+          "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-b9f49036-8aee-4b00-9a8d-5b5424042142",
+          "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 594827.59
+      },
+      "items": [
+        {
+          "id": "item-eeed8a85-19ba-4dbe-abff-20764048bc9a",
+          "classification": {
+            "id": "6290",
+            "scheme": "TRABAJOS DE ACABADOS EN EDIFICACIONES Y OTROS TRABAJOS ESPECIALIZADOS"
+          },
+          "quantity": 1,
+          "description": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 594827.59
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-bbe261a8-b807-453a-a3d1-f6e8930b27fe"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CCM100601NEAL",
+              "legalName": "CMI CONSTRUCTORA MEXICANA DE INFRAESTRUCTURA, S.A. DE C.V.",
+              "scheme": "CMI CONSTRUCTORA MEXICANA DE INFRAESTRUCTURA, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 594113.39
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-OP-DCAGI-SC-108/15 PROYECTO EJECUTIVO PARA LA CONSTRUCCI?N DE CARRILES DE DESACELERACION EN LAS PUERTAS 7, 8 Y 9 DE ACCESO AL POLIGONO DEL NAICM",
+            "id": "milestone-bb42de76-5e0b-4e65-a9e4-3b73d03c6aff",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-11-30T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:20.210Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 690000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-1d97509a-6ca4-43e1-a498-d8f203cdb599",
+        "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-262219b7-3da2-42ec-9bb6-bc50f73a56cd",
+        "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-54f03f02-d622-4496-aeec-0ea8e4fae065",
+        "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-5ac72270-8580-40f1-b421-dd31dd02bec2",
+        "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1f08216a-acf2-4398-b5d7-0d9cea895364",
+        "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-a1077576-39a5-4ec9-8e38-91d409fc7a6e",
+        "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1008381",
+    "items": [
+      {
+        "id": "item-67637dba-24b4-4b7f-acdd-c1f191e31f8b",
+        "classification": {
+          "id": "6290",
+          "scheme": "TRABAJOS DE ACABADOS EN EDIFICACIONES Y OTROS TRABAJOS ESPECIALIZADOS"
+        },
+        "quantity": 1,
+        "description": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 594827.59
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OTROS SERVICIOS RELACIONADOS CON OBRAS PUBLICAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 690000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f158a875-21d7-4ea7-9b1d-8cc467202c9d",
+        "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_99_2017-10-04T00:53:20.206Z",
+  "ocid": "99",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM.",
+      "id": "AO-009KDH999-E18-2016",
+      "contractPeriod": {
+        "startDate": "2015-11-30T06:00:00.000Z",
+        "endDate": "2015-12-29T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 594827.59
+      },
+      "items": [
+        {
+          "id": "item-2c25054d-10fd-4b0f-8d30-90377eff5930",
+          "classification": {
+            "id": "6290",
+            "scheme": "TRABAJOS DE ACABADOS EN EDIFICACIONES Y OTROS TRABAJOS ESPECIALIZADOS"
+          },
+          "quantity": 1,
+          "description": "Proyecto ejecutivo para la construccion de carriles de desaceleracion, plataformas de almacenamiento y carriles de aceleracion en las puertas 7, y 9 de acceso al poligono del NAICM.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 594827.59
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-26902b04-09c3-4060-b529-7fd9989b3e56",
+          "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-f3be341a-01c0-4bb0-9d33-4238579d210c",
+          "url": "http://189.211.120.220:8880/files/opendata/15108-AD-OP-DCAGI-SC-108-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Napoles",
+            "postalCode": "9810",
+            "streetAddress": "Pensilvania 26, int. 501",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "CCM100601NEA",
+            "legalName": "Constructo Mexicana de Infraestructura, S. A."
+          },
+          "name": "Constructo Mexicana de Infraestructura, S. A."
+        }
+      ]
+    }
+  ]
+}

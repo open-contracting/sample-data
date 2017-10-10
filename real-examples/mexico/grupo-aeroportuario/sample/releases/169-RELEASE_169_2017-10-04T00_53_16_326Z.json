@@ -1,0 +1,360 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-c208ff87-3849-4bde-b32f-3a135c25b713",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 9827586.2
+            }
+          }
+        }
+      ],
+      "title": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+      "id": "GACM/DCI/SJ/CM-E/02-2014",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-73bd775e-015e-4294-bdee-5da624ed167b",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-a8c18b94-bbbf-47ee-8378-9b8b7f64761a",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-60ddf960-da0a-4b5d-ba7f-da1e17fa74d5",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/17.-%20GA/17.pdf",
+          "datePublished": "2014-12-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-02T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-5a6c21b8-ec18-4990-aa8a-c9f4794715dc",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/18.-%20GC/18.pdf",
+          "datePublished": "2014-12-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-02T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 9827586.2
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-ce0400a5-071d-4349-82e4-6061d187ec2a"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CFE370814QI0",
+              "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD",
+              "scheme": "COMISI?N FEDERAL DE ELECTRICIDAD"
+            },
+            "value": {
+              "amount": 9324660.98
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCI/SJ/CM-E/02-2014 ETAPA INICIAL DE LA EXPLORACION GEOTECNICA DEL SITIO DONDE SE CONSTRUIRA LA TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+            "id": "milestone-43966f60-ab6a-42eb-b50d-e6748d04923f",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "period": {
+        "startDate": "2014-12-02T06:00:00.000Z",
+        "endDate": "2015-03-02T06:00:00.000Z"
+      },
+      "dateSigned": "2014-12-02T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.331Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 11400000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-e846be7e-e8c8-41e8-94a7-7ef625321d12",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/9.-%20AJ/9.pdf",
+        "datePublished": "2014-12-02T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-12-02T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-9883bc18-eb89-49eb-ba4c-bdbad8a3547c",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-38d86501-0c43-481c-97be-bec8e698a818",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-1248a9b5-0d6f-4b88-9df2-49e4c8803ffb",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-f35f8ece-cafa-43d9-9e2a-b45159b777cc",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-1038d10a-2b22-4a78-8881-f0dd8eaaf3b3",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-db7ceeb5-30ac-4a5b-bdb5-603571e14fa5",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 9827586.2
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+      "amount": {
+        "currency": "MXN",
+        "amount": 11400000
+      },
+      "description": "Presupuesto de Egresos de la Fedracion 2015 y 2016",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b2b69a1c-2fd9-42ea-9a75-778f86c59002",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-12-02T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-12-02T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_169_2017-10-04T00:53:16.326Z",
+  "ocid": "169",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2014-12-02T06:00:00.000Z",
+        "endDate": "2015-03-02T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 9827586.2
+      },
+      "items": [
+        {
+          "id": "item-2a1b1cbd-16d4-4e04-97bb-f708e4ea85cf",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Etapa inicial de la exploracion, para llevar a cabo los servicios consistente en Etapa inicial de la exploracion geotecnica del sitio donde se construira la terminal del NAICM",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 9827586.2
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Nohebuena",
+            "postalCode": "3720",
+            "streetAddress": "Calle Augusto Rodin No. 265",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "CFE370814QI0",
+            "legalName": "Comision Federal de Electricidad a traves de la Gerncia de Estudios de Ingenieria Civil"
+          },
+          "name": "Comision Federal de Electricidad a traves de la Gerncia de Estudios de Ingenieria Civil"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-e6b8c177-57f3-4ece-b756-98512f44fcb5",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/12.-%20AF/12.pdf",
+          "datePublished": "2014-12-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-02T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-4ea1e68d-6be0-4078-85c8-e7bfe873296f",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CM-E-02-14/10.-%20AP/10.pdf",
+          "datePublished": "2014-12-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-02T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}
