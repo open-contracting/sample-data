@@ -1,0 +1,373 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2014-11-01T06:00:00.000Z",
+        "endDate": "2015-07-31T05:00:00.000Z"
+      },
+      "title": "Prestacion de los Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014.",
+      "id": "AD-S-DCAGI-SC-012/2014",
+      "awardID": "No Aplica.",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-816bbc4d-44d1-480e-921b-7c68ab84fc03",
+          "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-11-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-11-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-0e8770ea-8b39-42ad-9e14-2ea1f023ebf9",
+          "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-11-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-11-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-1a9ae529-46c4-45da-bc7e-2adbb07f3cd6",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-AD-S-DCAGI-SC-012-2014.pdf",
+          "datePublished": "2014-11-01T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2014-11-01T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-3138df2f-1646-4444-8175-38aecf01eb34",
+          "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/17.-%20GA/17.pdf",
+          "datePublished": "2014-11-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-11-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-c8449b22-3d39-414a-8483-1694085dfaa8",
+          "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/18.-%20GC/18.pdf",
+          "datePublished": "2014-11-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-11-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 55645.2
+      },
+      "items": [
+        {
+          "id": "item-12052018-3ba2-4103-a452-e6932146eb6e",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 55645.2
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-85d4cbb0-07c7-4ece-87c9-3decb05ac9da"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33104.pdf",
+            "receiverOrganization": {
+              "id": "BGL860218J58",
+              "legalName": "BEJAR, GALINDO, LOZANO Y COMPA?IA, S.C.",
+              "scheme": "BEJAR, GALINDO, LOZANO Y COMPA?IA, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-S-DCAGI-SC-012/2014 AUDITOR?A EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS DEL EJERCICIO FISCAL 2014 QUE CORRESPONDE A GASTO CORRIENTE",
+            "id": "milestone-b686f384-1fb7-4645-a63f-7afe46642105",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2014-11-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:15.815Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Prestacion de los Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 55645.2
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Prestacion de los Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-218fb9dd-0a2f-428f-b31c-71554c1ae3ba",
+        "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/9.-%20AJ/9.pdf",
+        "datePublished": "2014-11-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-11-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-2ec0770d-28e7-427c-951d-d8346ac348c6",
+        "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-c2b63ec2-2edd-4c89-a8c6-7711749b8599",
+        "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c5866fbb-0587-4abf-a82b-0748742aed97",
+        "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-8dea20cf-6013-41bf-9e3b-681df8032457",
+        "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-50df80bc-9cba-4e1f-a08f-b55575e54016",
+        "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "749472",
+    "items": [
+      {
+        "id": "item-111a3436-378d-4584-82ee-91a2c7ac1122",
+        "classification": {
+          "id": "3310",
+          "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+        },
+        "quantity": 1,
+        "description": "Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 55645.2
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "OTRAS ASESORIAS PARA LA OPERACION DE PROGRAMAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 55645.2
+      },
+      "description": "RECURSOS FISCALES",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-81df609b-8350-4c0e-8ab5-146837d49a39",
+        "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-11-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-11-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Prestacion de los Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_12_2017-10-04T00:53:15.809Z",
+  "ocid": "12",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Prestacion de los Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014.",
+      "id": "No Aplica.",
+      "contractPeriod": {
+        "startDate": "2014-11-01T06:00:00.000Z",
+        "endDate": "2015-07-31T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 55645.2
+      },
+      "items": [
+        {
+          "id": "item-cd46cc81-5280-4f3d-ab99-22009a2b50e8",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicios de Auditoria Externa que se realizaran sobre los estados financieros de la entidad con cifras al 31 de diciembre de 2014.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 55645.2
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-f1c7a9c8-89dc-426b-bdc8-f6fca7460027",
+          "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/12.-%20AF/12.pdf",
+          "datePublished": "2014-11-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-11-01T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0fa23075-2ff6-4933-a8bb-3279f726ac9f",
+          "url": "http://189.211.120.220:8880/files/opendata/14012-AD-S-DCAGI-SC-012-14/10.-%20AP/10.pdf",
+          "datePublished": "2014-11-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-11-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "3100",
+            "streetAddress": "San Francisco numero 25, Int. 202 y 302",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "BGL860218J58",
+            "legalName": "Bejar Galindo Lozano y Cia; S.C."
+          },
+          "name": "Bejar Galindo Lozano y Cia; S.C."
+        }
+      ]
+    }
+  ]
+}

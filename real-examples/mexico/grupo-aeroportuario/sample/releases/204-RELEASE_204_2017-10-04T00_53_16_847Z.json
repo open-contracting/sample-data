@@ -1,0 +1,367 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "title": "Servicio de Testigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descaonstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+      "id": "AD-AS-DCAGI-SC-110/15",
+      "awardID": "AA-009KDH999-E58-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-56bfa522-a20c-42d8-b52c-f40abab2184c",
+          "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-125b99da-8d2d-4055-b399-afa08a3d1041",
+          "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-ff05359d-a16e-429f-bfeb-7c53e4962db8",
+          "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-934bb47a-8cdc-46c6-8d42-e9917b0c583c",
+          "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 332975
+      },
+      "items": [
+        {
+          "id": "item-58c86c4e-d53e-4a6a-8ece-fda2bfb0a0f7",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio deTestigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descarnstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 332975
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-886b3cb0-e47d-450c-9aeb-92eb7e8023b6"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "IMA941216HE8",
+              "legalName": "INSTITUTO MEXICANO DE AUDITORIA TECNICA A.C.",
+              "scheme": "INSTITUTO MEXICANO DE AUDITORIA TECNICA A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-110/15 SERVICIO DE TESTIGO SOCIAL PARA EL PROCEDIMIENTO DE LICITACI?N P?BLICA DE CARGA, ACARREO Y DESCARGA DENTRO Y FUERA DEL POLIGONO DEL MATERIAL",
+            "id": "milestone-9faab1d0-a036-421d-890e-7b952a4eef10",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.853Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de Testigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descaonstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 332975
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de Testigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descaonstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-e2b3417d-2585-48c1-ab07-5d02f53a8b8b",
+        "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-bd2a6be7-900f-497d-854a-6f6c192e537d",
+        "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-9eb180a0-9a9d-407a-98a1-c1d131e24d3b",
+        "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-da0ab4ab-7636-4ea5-a8b2-437e043df4a9",
+        "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-467a9376-3cb4-43c1-9273-68eca501025a",
+        "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-6f08863b-3b73-4581-be77-f206eb3c05e4",
+        "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1044509",
+    "items": [
+      {
+        "id": "item-5a42ac19-e37b-469b-a33e-500f3546010c",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio deTestigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descarnstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 332975
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2001-12-20T21:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicio de Testigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descaonstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+      "amount": {
+        "currency": "MXN",
+        "amount": 332975
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Fedracion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-49e6dc85-e39d-4d7c-9bf8-b51e9544f5d3",
+        "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de Testigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descaonstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_204_2017-10-04T00:53:16.847Z",
+  "ocid": "204",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de Testigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descaonstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+      "id": "AA-009KDH999-E58-2016",
+      "contractPeriod": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 332975
+      },
+      "items": [
+        {
+          "id": "item-cb368921-8b07-4edd-94ac-6626fffadf0f",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio deTestigo Social para que Atestigue la Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Carga, Acarreo y Descarnstruira el Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) para el NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 332975
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-893317dd-e225-4e33-8568-d388fec35aea",
+          "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-fceb1b92-ee33-4ee4-8163-2bd3f4190f0e",
+          "url": "http://189.211.120.220:8880/files/opendata/15110-AD-AS-DCAGI-SC-110-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "03100",
+            "streetAddress": "San Lorenzo no. 153 - 602",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "IMA941216HE8",
+            "legalName": "Instituto Mexicano de Auditoria Tecnica, A. C."
+          },
+          "name": "Instituto Mexicano de Auditoria Tecnica, A. C."
+        }
+      ]
+    }
+  ]
+}

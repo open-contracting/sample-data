@@ -1,0 +1,375 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-06-13T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACION PUBLICA INTERNACIONAL, PARA  LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO (NAICM).",
+      "id": "AD-AS-DCAGI-SC-052-16",
+      "awardID": "AA-009KDH999-E133-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9806836d-a4a2-4de8-a2bf-2c0ee5b3f940",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-88fb8f07-ea73-4c4a-9759-e521bd1e17fa",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6a689d41-1bdd-4a19-9cdf-35cfcf7a2ea7",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-7aac5203-0b38-4333-82c4-73b111041187",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 298076.24
+      },
+      "items": [
+        {
+          "id": "item-747d51a0-f532-495d-b6c5-1196e730a321",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, PARA  LA SUPERVISI?N T?CNICA Y ADMINISTRATIVA DE CONSTRUCCI?N PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM).",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 298076.24
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-7b2e1ef6-c59e-44a3-9331-b67f97b2298b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "ROBERTO ZAVALA CHAVERO",
+              "scheme": "ROBERTO ZAVALA CHAVERO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-052-16 ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, PARA  LA SUPERVISI?N T?CNICA Y ADMINISTRATIVA DE CONSTRUCCI?N PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM).",
+            "id": "milestone-8a338700-5097-4fa3-a3cf-20952b187f27",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-13T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.333Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-10-18T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 300000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE TESTIGO SOCIAL PARA EL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA A LA SUPERVISI?N T?CNICA Y ADMINISTRATIVA DE CONSTRUCCI?N PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-7f571f55-3c1e-439e-afdd-7fd25f4ad4bc",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-73d1050f-079d-4eb4-81c3-7920a3249a77",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-a111de17-84cf-4c26-8ece-86edb2b33e8a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-e47a5887-3541-4f2f-925f-30f4cc43381e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-0db476fd-fabd-4cce-93a4-d54d603743be",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-c9ee508d-bb1a-4853-aba4-8e33716d74e4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-10-18T05:00:00.000Z"
+    },
+    "id": "1181971",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-a683c1d0-2bfe-4286-8a1b-7ea4ac079bda",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, PARA  LA SUPERVISI?N T?CNICA Y ADMINISTRATIVA DE CONSTRUCCI?N PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM).",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 298076.24
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 300000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-570e23d3-d303-4ffa-8f6b-dbff9c5f90e8",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, PARA  LA SUPERVISI?N T?CNICA Y ADMINISTRATIVA DE CONSTRUCCI?N PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_339_2017-10-04T00:53:18.329Z",
+  "ocid": "339",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, PARA  LA SUPERVISI?N T?CNICA Y ADMINISTRATIVA DE CONSTRUCCI?N PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM).",
+      "id": "AA-009KDH999-E133-2016",
+      "contractPeriod": {
+        "startDate": "2016-06-13T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 298076.24
+      },
+      "items": [
+        {
+          "id": "item-f41d4f22-3c0b-4e55-9fb3-e77bc3d7c6bf",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, PARA  LA SUPERVISI?N T?CNICA Y ADMINISTRATIVA DE CONSTRUCCI?N PARA EL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM).",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 298076.24
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-3b3555c1-ba0f-4d4b-ac42-1dd275e636a1",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-67a2b799-3d51-4991-8804-cd3c85cbddb8",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16052-AD-AS-DCAGI-SC-052-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-06-30T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "SANTA MARIA LA RIBERA",
+            "postalCode": "06400",
+            "streetAddress": "MARIANO AZUELA 277-A",
+            "region": "CUAUHTEMOC"
+          },
+          "contactPoint": {
+            "email": "rzchbeto@gmail.com",
+            "telephone": "5541 2459",
+            "name": "ROBERTO ZAVALA CHAVERO"
+          },
+          "identifier": {
+            "legalName": "ROBERTO ZAVALA CHAVERO"
+          },
+          "name": "ROBERTO ZAVALA CHAVERO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-01-02T06:00:00.000Z",
+        "endDate": "2018-01-31T06:00:00.000Z"
+      },
+      "title": "INSTALACION DE LA INSTRUMENTACION GEOTECNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO (NAICM)",
+      "id": "AD-SRO-CONV-DCAGI-SC-011-16",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-043d779f-5f7c-4f7b-b4a0-ff0db9e1bddb",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-54b86aae-c6f8-47d6-ba42-5d60479270d3",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-09931e2f-e988-4344-bfbd-2e77e6e37855",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/17.-%20GA/17.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-0eeee91e-c91b-47c5-a4cd-68f6c084e791",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/18.-%20GC/18.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 272817835.86
+      },
+      "items": [
+        {
+          "id": "item-47863272-b983-4ab2-b3d3-02eece53f685",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "INSTALACI?N DE LA INSTRUMENTACI?N GEOT?CNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 272817835.86
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-e9b88c27-1f46-41d6-9bb5-4cd741807bd9"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CFE370814QI0",
+              "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD",
+              "scheme": "COMISI?N FEDERAL DE ELECTRICIDAD"
+            },
+            "value": {
+              "amount": 59395204.45
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-CONV-DCAGI-SC-011-16 INSTALACI?N DE LA INSTRUMENTACI?N GEOT?CNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+            "id": "milestone-b72e9844-e61f-4ccc-a2b6-392706fb1ef7",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "73.93%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-01-02T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.390Z",
+    "publisher": {
+      "uid": "Servicios relacionados con la obra",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO RELACIONADO CON OBRAS"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "22 ADJUDICACION DIRECTA NACIONAL ART. 43 LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 272817835.86
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "INSTALACI?N DE LA INSTRUMENTACI?N GEOT?CNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-813e7bf8-92bb-44c9-9ecb-d1adfaabb8b2",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/9.-%20AJ/9.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-a4f0a7ff-92c2-4cbc-9a61-1980044003ea",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-5a670bc8-4f50-4b4f-ae1e-e9cda31159b7",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-dd4e07c6-2883-4806-bfb8-9a1af2e83a11",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-fd7a85de-c329-40d9-9c0c-48b48833d491",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-615d25f1-a870-425e-a124-770b15a69274",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "NA",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-c8427262-f79d-4d59-a95a-61809290c7cf",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "INSTALACI?N DE LA INSTRUMENTACI?N GEOT?CNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 272817835.86
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 272817835.86
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-26ccb808-8154-49b2-82d5-efa25f1b3364",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/4.-%20TR/4.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "INSTALACI?N DE LA INSTRUMENTACI?N GEOT?CNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_519_2017-10-04T00:53:19.386Z",
+  "ocid": "519",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "INSTALACI?N DE LA INSTRUMENTACI?N GEOT?CNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2017-01-02T06:00:00.000Z",
+        "endDate": "2018-01-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 272817835.86
+      },
+      "items": [
+        {
+          "id": "item-2f0f1876-8cca-4528-9cf2-df52960f2967",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "INSTALACI?N DE LA INSTRUMENTACI?N GEOT?CNICA EN LA PRECARGA DE LAS PISTAS 2 Y 3 DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 272817835.86
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-a76712fa-e15a-4d7e-bc19-f1cf8eb6da1f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/10.-%20AP/10.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-f06cc703-c386-406d-8fd4-e17389983ae8",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16011-AD-SRO-CONV-DCAGI-SC-011-16/12.-%20AF/12.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-01-02T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "JUAREZ",
+            "postalCode": "11320",
+            "streetAddress": "PASEO DE LA REFORMA 164",
+            "region": "CUAUTHEMOC"
+          },
+          "contactPoint": {
+            "email": "CARLOS.MENDOZA@CFE.COM",
+            "name": "RENE MENDOZA"
+          },
+          "identifier": {
+            "id": "CFE370814QI0",
+            "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD"
+          },
+          "name": "COMISI?N FEDERAL DE ELECTRICIDAD"
+        }
+      ]
+    }
+  ]
+}

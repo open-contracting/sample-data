@@ -1,0 +1,367 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-24e2bde9-49f6-4d2b-93de-8c314de3a214",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE PROTECCI?N DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO (GACM).",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 114503172.6
+            }
+          }
+        }
+      ],
+      "title": "SERVICIO DE PROTECCION DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO (GACM)",
+      "id": "AD-AS-CONV-DCAGI-SC-08/16",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-35f8226b-66a6-435a-afb2-ed0b14f2b545",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6e6060cf-ffaf-4bc4-b6dc-190c00ceea29",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-faa85041-4776-49ee-91f6-ad3fbe317266",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-07-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-60137bb3-3bb2-47ca-a7c6-36a9919e07f1",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-07-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 114503172.6
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-f512e3d9-ef60-47df-8b15-d98c11f58ae1"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "JPI480202UU2",
+              "legalName": "JEFATURA DE POLICIA INDUSTRIAL DEL EDO. DE MEXICO Y/O CUERPO DE GUARIAS DE SEGURIDAD INDUSTRIAL, BANCARIA Y COMERCIAL DEL VALLE CUAUTITLAN TEXCOCO",
+              "scheme": "JEFATURA DE POLICIA INDUSTRIAL DEL EDO. DE MEXICO Y/O CUERPO DE GUARIAS DE SEGURIDAD INDUSTRIAL, BANCARIA Y COMERCIAL DEL VALLE CUAUTITLAN TEXCOCO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-CONV-DCAGI-SC-08/16 SERVICIO DE PROTECCI?N DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO (GACM).",
+            "id": "milestone-365dbf09-72cd-40bc-bbfb-df73ad5cb3a3",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "period": {
+        "startDate": "2016-07-15T05:00:00.000Z",
+        "endDate": "2018-12-31T06:00:00.000Z"
+      },
+      "dateSigned": "2016-07-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.530Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "35 ADJUDICACION DIRECTA A TRAVES DEL ART.1 DE LA LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 114503172.6
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-c8116219-3d45-455d-afed-5211c9f22edc",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-07-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-07-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-2a942d7d-e6b6-4d4b-8a60-31cf42af75e3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-87ec275c-5b2c-40cb-84fe-7efa1122b490",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-fa214b2b-160b-4b36-a5bb-f2b64d6a1a33",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-5cd603a8-5ba1-479e-b588-4fcfc68249ba",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-7f122afe-af82-401e-94ac-cd355fd3251a",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "SERVICIO DE PROTECCION DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO (GACM)",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-5b7c5e3e-9ab6-45a0-b457-c10e2cad0dc9",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIO DE PROTECCI?N DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO (GACM).",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 114503172.6
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 114503172.6
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b75c9fc9-a65c-45f2-bf88-07ccbbe12851",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-07-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-07-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIO DE PROTECCI?N DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO (GACM)"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_370_2017-10-04T00:53:18.526Z",
+  "ocid": "370",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIO DE PROTECCI?N DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO (GACM)",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2016-07-15T05:00:00.000Z",
+        "endDate": "2018-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 114503172.6
+      },
+      "items": [
+        {
+          "id": "item-53472321-70ec-4d5c-86d1-1af7659799ce",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE PROTECCI?N DE LA INFRAESTRUCTURA, INMUEBLES Y ZONAS FEDERALES A CARGO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO (GACM).",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 114503172.6
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-a4c3f65a-b434-4c33-a49a-34d9c262468d",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-07-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-15T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-43ccc902-9666-444a-99e7-be4f633001a1",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16008-AD-AS-CONV-DCAGI-SC-08-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-07-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "locality": "FRACCIONAMIENTO INDUSTRIAL LA LOMA",
+            "postalCode": "54060",
+            "streetAddress": "PROLONGACION GALEANA 28",
+            "region": "TLANEPANTLA DE BAZ"
+          },
+          "contactPoint": {
+            "email": "LOM.REG@CUSAEN.GOB.MX",
+            "telephone": "5089 1639",
+            "name": "JOEL CANCHOLA HERRERA"
+          },
+          "identifier": {
+            "id": "JPI480202UU2",
+            "legalName": "JEFATURA DE POLICIA INDUSTRIAL DEL EDO. DE MEXICO Y/O CUERPO DE GUARIAS DE SEGURIDAD INDUSTRIAL, BANCARIA Y COMERCIAL DEL VALLE CUAUTITLAN TEXCOCO"
+          },
+          "name": "JEFATURA DE POLICIA INDUSTRIAL DEL EDO. DE MEXICO Y/O CUERPO DE GUARIAS DE SEGURIDAD INDUSTRIAL, BANCARIA Y COMERCIAL DEL VALLE CUAUTITLAN TEXCOCO"
+        }
+      ],
+      "date": "2016-07-15T05:00:00.000Z"
+    }
+  ]
+}

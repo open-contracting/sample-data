@@ -1,0 +1,371 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-11-30T06:00:00.000Z",
+        "endDate": "2017-11-29T06:00:00.000Z"
+      },
+      "title": "AUDITORIA EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORRESPONDIENTE AL EJERCICIO FISCAL 2016",
+      "id": "AD-AS-DCAGI-SC-083-16",
+      "awardID": "AA-009KDH999-E4-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-d6485055-589f-4f9e-928c-89beae079c0e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-17T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-17T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-82d77b5d-81a5-45a1-8ab6-55073134abb4",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-17T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-17T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-fa2b8147-924b-4a1a-b994-10a89fbf9b33",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-11-17T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-17T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-70cd372c-169f-4ad3-ad8a-dd2f3426ac26",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-11-17T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-17T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 958405
+      },
+      "items": [
+        {
+          "id": "item-ad97db6b-224f-454d-8f53-c9e186fd4a7d",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "AUDITOR?A EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORRESPONDIENTE AL EJERCICIO FISCAL 2016",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 958405
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-c5e32114-6762-4811-bc4c-979ac3c6eabb"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33104.pdf",
+            "receiverOrganization": {
+              "id": "PRI981101785",
+              "legalName": "PRICEWATERHOUSECOOPERS, S.C.",
+              "scheme": "PRICEWATERHOUSECOOPERS, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-083-16 AUDITOR?A EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORRESPONDIENTE AL EJERCICIO FISCAL 2016",
+            "id": "milestone-bffc307f-8433-4f6b-9359-1a6394dac53f",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-11-30T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.844Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "07 ADJUDICACION DIRECTA NACIONAL ART. 42 LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 958405
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE AUDITORIA EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORREPONDIENTES AL EJECICIO FICAL 2017.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-a3d79d7e-fc84-4136-9eb1-44a158455d64",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-11-17T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-11-17T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-47c20d52-80b8-424c-a813-aab0a2fd84ab",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-17T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-17T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-5de7290b-931e-4668-a9ec-c329846cc41a",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-17T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-17T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-7b1c3418-d4a1-476b-bde3-84c5ee793e8d",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-17T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-17T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1538f84d-b744-4791-b119-fce017368cea",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-17T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-17T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-77150e19-c596-442a-9c59-88be9eb1b2df",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-17T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-17T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1252665",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-76c9975f-b41d-468b-b468-589614b4822e",
+        "classification": {
+          "id": "3310",
+          "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+        },
+        "quantity": 1,
+        "description": "AUDITOR?A EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORRESPONDIENTE AL EJERCICIO FISCAL 2016",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 958405
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OTRAS ASESORIAS PARA LA OPERACION DE PROGRAMAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 958405
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4fd0a34c-6dd5-4731-96e7-e6c26c1f7fb6",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-11-17T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-11-17T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "AUDITOR?A EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORRESPONDIENTE AL EJERCICIO FISCAL 2016"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_453_2017-10-04T00:53:18.840Z",
+  "ocid": "453",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "AUDITOR?A EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORRESPONDIENTE AL EJERCICIO FISCAL 2016",
+      "id": "AA-009KDH999-E4-2017",
+      "contractPeriod": {
+        "startDate": "2016-11-30T06:00:00.000Z",
+        "endDate": "2017-11-29T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 958405
+      },
+      "items": [
+        {
+          "id": "item-28fde55b-b606-4236-9ed9-8b8db538d36e",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "AUDITOR?A EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS Y PRESUPUESTALES CORRESPONDIENTE AL EJERCICIO FISCAL 2016",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 958405
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-7dab4d0f-d28e-4c8d-9469-bf00e76bd35c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-11-17T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-17T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-76df2c5a-b714-4106-a150-a0136414f3c1",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16083-AD-AS-DCAGI-SC-083-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-11-17T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-17T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-11-17T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "M?xico",
+            "locality": "Rinc?n del Bosque",
+            "postalCode": "11580",
+            "streetAddress": "Mariano Escobedo 573",
+            "region": "Miguel Hidalgo"
+          },
+          "contactPoint": {
+            "email": "GERMAN.GANADO@PWC.COM",
+            "telephone": "52636000",
+            "name": "EDUARDO CARPIZO CASTRO"
+          },
+          "identifier": {
+            "id": "PRI981101785",
+            "legalName": "PRICEWATERHOUSECOOPERS, S.C."
+          },
+          "name": "PRICEWATERHOUSECOOPERS, S.C."
+        }
+      ]
+    }
+  ]
+}

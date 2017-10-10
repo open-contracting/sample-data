@@ -1,0 +1,374 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2016-05-28T05:00:00.000Z"
+      },
+      "title": "Servicios de experto revisor para el panel Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria",
+      "id": "AD-SRO-DCAGI-SC-098/15",
+      "awardID": "AO-009KDH999-E31-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-2c029f13-62db-41e7-83c0-0ddc018f66dd",
+          "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c3dc5563-0546-4aeb-9f07-102eb3d71c6d",
+          "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-124204db-a26f-43d8-9412-86b7dce6f145",
+          "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-7196af8d-3c1b-459b-ac17-894afbec2643",
+          "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1683620.7
+      },
+      "items": [
+        {
+          "id": "item-9639d812-e6fa-4e50-9710-ad1233b29291",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Servicios de experto revisor para el panel Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 1683620.7
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-09294fde-ad60-4995-b13c-0d7cd8eeb1d4"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "GUILLERMO SPRINGALL C?RAM",
+              "scheme": "GUILLERMO SPRINGALL C?RAM"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-098/15 PRESTACION DE SERVICIOS DE EXPERTO REVISOR PARA EL PANEL DE GEOTECNIA Y CIMENTACION E HIDRAULICA",
+            "id": "milestone-59726b7f-ecb5-483d-8ed9-6435cf7fd79b",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.115Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios de experto revisor para el panel Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 15650000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Asistencia tecnica especializada en Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-fceac7f1-d65b-4be9-9a07-05d3581066fe",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-fb82a7e8-564f-4450-bde5-8bcd8b0818c2",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-5b24addb-fc59-4f78-ad9b-01ebe287e316",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-f1432dbd-e41f-45d2-a598-19a23d05c877",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-f28f4de1-e8f7-481b-9c34-91995e723d0c",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-35d2a1c1-f989-4c17-ad7c-4ea2f1aa0e4a",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1032142",
+    "items": [
+      {
+        "id": "item-a8fd5aad-5ca8-453d-bf15-a40dfb91a3d2",
+        "classification": {
+          "id": "6250",
+          "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+        },
+        "quantity": 1,
+        "description": "Servicios de experto revisor para el panel Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 1683620.7
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "CONSTRUCCION DE VIAS DE COMUNICACION",
+      "amount": {
+        "currency": "MXN",
+        "amount": 15650000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-1888cc44-9d38-4772-a304-0eaff7db741e",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-199664aa-44bd-443c-8091-5f7f653ff294",
+        "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Asistencia tecnica especializada en Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_133_2017-10-04T00:53:16.109Z",
+  "ocid": "133",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de experto revisor para el panel Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria",
+      "id": "AO-009KDH999-E31-2016",
+      "contractPeriod": {
+        "startDate": "2015-12-01T06:00:00.000Z",
+        "endDate": "2016-05-28T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1683620.7
+      },
+      "items": [
+        {
+          "id": "item-951aebaf-09aa-4bb7-a6af-a88d4ef96ed8",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Servicios de experto revisor para el panel Geotecnia y Cimentacion Aplicada a la Infraestructura Aeroportuaria",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 1683620.7
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-1d57db84-97e7-4c85-877d-86dbe8295029",
+          "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-43510ec1-5e21-471d-9240-542ec572c225",
+          "url": "http://189.211.120.220:8880/files/opendata/15098-AD-SRO-DCAGI-SC-098-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Chimalistac",
+            "postalCode": "1070",
+            "streetAddress": "Rafael Checa 60",
+            "region": "Alvaro Obregon"
+          },
+          "identifier": {
+            "id": "SICG341213JLA",
+            "legalName": "Guillermo Springall Caram"
+          },
+          "name": "Guillermo Springall Caram"
+        }
+      ]
+    }
+  ]
+}

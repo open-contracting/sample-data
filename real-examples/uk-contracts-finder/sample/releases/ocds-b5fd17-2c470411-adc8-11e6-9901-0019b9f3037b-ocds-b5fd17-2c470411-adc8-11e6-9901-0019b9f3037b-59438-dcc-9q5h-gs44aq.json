@@ -1,0 +1,124 @@
+{
+  "buyer": {
+    "id": "sid4gov.cabinetoffice.gov.uk/YBpu99BZ",
+    "name": "Spend Network",
+    "address": {
+      "region": null,
+      "streetAddress": "County Hall Room 120  Topsham Road",
+      "postalCode": " EX2 4QD",
+      "countryName": " United Kingdom",
+      "locality": " Exeter"
+    },
+    "identifier": {
+      "uri": null,
+      "id": "",
+      "legalName": null,
+      "scheme": ""
+    },
+    "contactPoint": {
+      "telephone": "",
+      "email": "iain.perkins@devon.gov.uk",
+      "name": "Mr Iain Perkins",
+      "faxNumber": null
+    }
+  },
+  "ocid": "ocds-b5fd17-2c470411-adc8-11e6-9901-0019b9f3037b",
+  "packageInfo": {
+    "publisher": {
+      "uri": "https://www.contractsfinder.service.gov.uk",
+      "name": "Spend Network",
+      "uid": null,
+      "scheme": "GB-GOVUK-crown_comercial_service"
+    },
+    "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/fe2438f7-97e8-4d74-a362-ef7712816644.json",
+    "publishedDate": "2014-12-17T16:44:59Z"
+  },
+  "id": "ocds-b5fd17-2c470411-adc8-11e6-9901-0019b9f3037b-59438-dcc-9q5h-gs44aq",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "tender": {
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "uri": "http://cpv.data.ac.uk/code-32000000.html",
+          "id": "32000000",
+          "description": "Radio, television, communication, telecommunication and related equipment",
+          "scheme": "CPV"
+        }
+      },
+      {
+        "id": 2,
+        "description": "See description of related tender.",
+        "classification": {
+          "uri": "http://cpv.data.ac.uk/code-64000000.html",
+          "id": "64000000",
+          "description": "Postal and telecommunications services",
+          "scheme": "CPV"
+        }
+      },
+      {
+        "id": 3,
+        "description": "See description of related tender.",
+        "classification": {
+          "uri": "http://cpv.data.ac.uk/code-72000000.html",
+          "id": "72000000",
+          "description": "IT services: consulting, software development, Internet and support",
+          "scheme": "CPV"
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "id": 1,
+        "status": null,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2015-04-01T00:00:00Z"
+      },
+      {
+        "id": 2,
+        "status": null,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2020-03-31T00:00:00Z"
+      }
+    ],
+    "title": " CP1093-14 Connecting Devon and Somerset Superfast Extension Programme",
+    "supplyChain": false,
+    "awardCriteriaDetails": null,
+    "tenderPeriod": {
+      "endDate": "2015-01-31T00:00:00Z"
+    },
+    "submissionMethod": null,
+    "id": "ocds-b5fd17-2c470411-adc8-11e6-9901-0019b9f3037b-dcc-9q5h-gs44aq",
+    "eligibilityCriteria": null,
+    "status": "unsuccessful",
+    "procurementMethod": null,
+    "xClassifications": {
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works",
+      "isSuitableForVco": false
+    },
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "minValue": {
+      "amount": 600000,
+      "currency": "GBP"
+    },
+    "hasEnquiries": null,
+    "description": " Connecting Devon & Somerset  \r\nSUPERFAST EXTENSION PROGRAMME\r\nPlease find attached the slides and delegate list from the Bidder Information Day held on Thursday 13th November 2014.\r\n \r\n\r\n\r\n",
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "documents": [],
+    "value": {
+      "amount": 600000,
+      "currency": "GBP"
+    },
+    "procurementMethodDetails": "Open procedure"
+  },
+  "date": "2014-12-17T16:44:59Z"
+}

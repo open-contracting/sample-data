@@ -1,0 +1,362 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-b4750b0f-714a-4d96-967e-a772d7de69f3",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "title": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+      "id": "GACM/DCI/SJ/CM-018-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-2df970ee-5044-4cf0-8a21-e84557654dab",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-1b362c37-6262-43d6-87d2-a46caa5b6a35",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-fe5de422-bbcf-41f1-b1df-7642b0762a34",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/17.-%20GA/17.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-a8e2e95d-cedb-41ac-9a32-ed6b912aecee",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/18.-%20GC/18.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-d1363f1d-d884-47cc-b980-65d2567b839d"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "UAN691126MK2",
+              "legalName": "UNIVERSIDAD AUT?NOMA DE NUEVO LE?N",
+              "scheme": "UNIVERSIDAD AUT?NOMA DE NUEVO LE?N"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCI/SJ/CM-018-2015 PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)",
+            "id": "milestone-0204209e-3a53-4d5d-91a9-2094ffbb7ac1",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2015-09-09T05:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "dateSigned": "2016-02-15T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.160Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 0
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6bdc28a5-497b-4d78-83c0-586f1bfa092d",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/9.-%20AJ/9.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-01ca0c3a-bb29-43d6-8384-5b44e76dcbd0",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-858aa57a-1da2-43a8-86de-bdf7b3191905",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-4581fc3d-ab5c-4ddd-94cb-a2cfa90bd0d9",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b210aacf-59f4-4154-ac79-fd3a77f772c8",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-504bdac9-ae51-4bcd-87e8-38eea7c1a5fc",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-ebb8d8f2-cae4-4aba-bc26-fe26f62824b5",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 0
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+      "amount": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015 y 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a076f033-a0c5-4799-9c2c-a08a32017998",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/4.-%20TR/4.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_480_2017-10-04T00:53:19.157Z",
+  "ocid": "480",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2015-09-09T05:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "items": [
+        {
+          "id": "item-12347032-919e-49f8-b1f5-a3ee3978d994",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Estalecer las bases generales a que se sujetaran GACM y la UANL asi como, pactos comunes y el objeto genperico de futuros servicios de acaacter cientifico y tecnologico u otro tipo que acuerden las mismas",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Cd. Universitaria",
+            "postalCode": "66455",
+            "streetAddress": "Av. Universidad S/N",
+            "region": "San Nicolas de los Garza"
+          },
+          "identifier": {
+            "id": "UAN691126MK2",
+            "legalName": "Universidad Autonoma de Nuevo Leon"
+          },
+          "name": "Universidad Autonoma de Nuevo Leon"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-c57c72bd-c756-43f6-92ae-f67544f00086",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/10.-%20AP/10.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-4e22ffa0-0b80-4a64-a96e-849e242ea191",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-018-15/12.-%20AF/12.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

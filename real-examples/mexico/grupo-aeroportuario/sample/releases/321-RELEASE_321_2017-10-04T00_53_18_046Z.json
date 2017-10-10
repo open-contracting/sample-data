@@ -1,0 +1,417 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-06-16T05:00:00.000Z",
+        "endDate": "2016-10-15T05:00:00.000Z"
+      },
+      "title": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+      "id": "AD-AS-DCAGI-SC-039-16",
+      "awardID": "0",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-4f2921f3-65c5-4af6-a772-5a593206d118",
+          "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-316cab01-aad2-4377-a159-dc09c6c1ecf2",
+          "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-ebd68577-01ec-4bf4-97a9-836493709fd8",
+          "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-31c1cee7-6e71-4d6a-b8c6-8b9362fd5b89",
+          "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 62900
+      },
+      "items": [
+        {
+          "id": "item-0d18a882-e216-49ce-9069-8df5771cf068",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 62900
+            }
+          }
+        },
+        {
+          "id": "item-040cb888-d803-4afc-b07a-4506b487f484",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 62900
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-1b837282-010a-4815-9633-2d9753e3a329"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "SUMINISTROS LARY, S.A. DE C.V.",
+              "scheme": "SUMINISTROS LARY, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-039-16 ARRENDAMIENTO DE? MESAS DE ESTRUCTURA MET?LICA CON CUBIERTA DE PROPILENO PARA PRESIDIUM PARA LOS EVENTOS LICITATORIOS, ARRENDAMIENTO DE SILLAS APILABLES ACOJINADAS PARA LOS EVENTOS LICITATORIOS??",
+            "id": "milestone-3448e601-5455-4d7e-8f3b-4ddf83d1bc5f",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-06-16T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.059Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+    "awardPeriod": {
+      "endDate": "2016-06-15T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 0
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-1a6552ae-7db6-4521-be3f-5c960516027f",
+        "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-6997cb3b-c329-4b78-8b44-52d92b11ba08",
+        "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-ecfdd607-12c9-49bb-acbc-579e8a5461ec",
+        "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-8612d41a-9c20-4722-89d7-934c81ee77a3",
+        "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-2282c5fe-fa33-4a50-bdd7-9243d367b9c0",
+        "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-df4d34ad-17bb-41b1-8081-f393d9763e8d",
+        "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2016-06-15T05:00:00.000Z"
+    },
+    "id": "1159843",
+    "items": [
+      {
+        "id": "item-1016ced7-a17a-4862-9223-da54178aa92e",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 62900
+          }
+        }
+      },
+      {
+        "id": "item-f3a0c83d-7c03-402b-b583-dc0b2a33db91",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 62900
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ee3a395d-2a0b-421f-b4ec-52f7751f200b",
+        "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Sillas apilables acojinadas y mesas paea eventos licitatorios"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_321_2017-10-04T00:53:18.046Z",
+  "ocid": "321",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+      "id": "0",
+      "contractPeriod": {
+        "startDate": "2016-06-16T05:00:00.000Z",
+        "endDate": "2016-10-15T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 62900
+      },
+      "items": [
+        {
+          "id": "item-e7c2bf91-82ee-46be-a013-1cc0a393ff75",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 62900
+            }
+          }
+        },
+        {
+          "id": "item-ab3a7003-9592-493e-8c5c-4dea5931583d",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Sillas apilables acojinadas y mesas paea eventos licitatorios",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 62900
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-53b421b3-ac3b-41cb-8385-9c75679b0b44",
+          "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-27b3cd5e-224e-4635-8014-8f09641e9e74",
+          "url": "http://189.211.120.220:8880/files/opendata/16039-AD-AS-DCAGI-SC-039-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Guadalupe Inn",
+            "postalCode": "01020",
+            "streetAddress": "Av. Insurgentes Sur, 1971,Torre IV,Piso 6",
+            "region": "Alvaro Obregon"
+          },
+          "identifier": {
+            "id": "SLA940208720",
+            "legalName": "SUMINISTRO LARY S.A DE C.V."
+          },
+          "name": "SUMINISTRO LARY S.A DE C.V."
+        }
+      ]
+    }
+  ]
+}

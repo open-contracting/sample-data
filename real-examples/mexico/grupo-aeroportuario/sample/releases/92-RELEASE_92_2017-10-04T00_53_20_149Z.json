@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-02-24T06:00:00.000Z",
+        "endDate": "2015-05-24T05:00:00.000Z"
+      },
+      "title": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "AD-SRO-DCAGI-SC-002/2015",
+      "awardID": "SO-009KDH999-N32-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-aa354a8b-f3e6-4fc9-9fdb-f141df5c9f59",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-23T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-23T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-806ea416-c7b4-47b7-80d5-dbe4f24744b0",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-23T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-23T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-3020a22c-f567-409d-bb89-c17e21ecb067",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-02-23T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-23T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-60ebab13-35ba-4707-9a41-b1717c6f30fa",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-02-23T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-23T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 29233731.65
+      },
+      "items": [
+        {
+          "id": "item-ad955c16-4236-420a-aeec-b5ed8c214cc5",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Prestacion de los servicos consistentes en la elaboracion de estudios de geotecnia, topografia,  gedesia  y levantamiento de informacion geografica atraves de un vuelo con tecnologia Lidar.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 29233731.65
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-2ef6ae77-2fbe-47b5-bc24-596bc447ce9e"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CIU9905071G7",
+              "legalName": "CONSORCIO IUYET, S.A. DE C.V.",
+              "scheme": "CONSORCIO IUYET, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 29233731.64
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-002/2015 ESTUDIO PARA EL LEVANTAMIENTO DE INFORMACI?N GEOD?SICA, A TRAV?S DE UN VUELO CON TECNOLOG?A LIDAR, PARA LA OBTENCI?N DE UN MODELO DIGITAL DE ELEVACI?N DEL TERRENO DESTINADO PARA EL PROYECTO DEL NAICM",
+            "id": "milestone-ef56953a-9ac8-4979-b6fc-c2096da705d2",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-02-23T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:20.153Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Prestacion de los servicos consistentes en la elaboracion de estudios de geotecnia, topografia,  gedesia  y levantamiento de informacion geografica atraves de un vuelo con tecnologia Lidar.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 70000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Prestacion de los servicos consistentes en la elaboracion de estudios de geotecnia, topografia,  gedesia  y levantamiento de informacion geografica atraves de un vuelo con tecnologia Lidar.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-be4c23bc-c4a8-4fb5-bf52-1758e511b476",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-02-23T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-02-23T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-7ae707e3-6153-4a8a-9915-af6eb50c4eb7",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-c046fa3a-0c89-43a8-b51c-a16ca722cc2d",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-19166f50-7281-4dff-b6c8-9885e5c30bc6",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-868b407d-2669-41f6-8aeb-dd7f5a238f5c",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-fb8197da-9d06-46ee-a6e7-3e4dffab43ba",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "798985",
+    "items": [
+      {
+        "id": "item-d6beeef3-8c16-4d8a-87ec-d181773cc59a",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Prestacion de los servicos consistentes en la elaboracion de estudios de geotecnia, topografia,  gedesia  y levantamiento de informacion geografica atraves de un vuelo con tecnologia Lidar.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 29233731.65
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "CONSTRUCCION DE VIAS DE COMUNICACION",
+      "amount": {
+        "currency": "MXN",
+        "amount": 70000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f8e63050-c0b6-4510-90e7-226368983309",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-02-23T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-02-23T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Prestacion de los servicos consistentes en la elaboracion de estudios de geotecnia, topografia,  gedesia  y levantamiento de informacion geografica atraves de un vuelo con tecnologia Lidar."
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_92_2017-10-04T00:53:20.149Z",
+  "ocid": "92",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "SO-009KDH999-N32-2015",
+      "contractPeriod": {
+        "startDate": "2015-02-24T06:00:00.000Z",
+        "endDate": "2015-05-24T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 29233731.65
+      },
+      "items": [
+        {
+          "id": "item-1ba4a99c-5f2d-4f46-997b-159003767957",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Prestacion de los servicos consistentes en la elaboracion de estudios de geotecnia, topografia,  gedesia  y levantamiento de informacion geografica atraves de un vuelo con tecnologia Lidar.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 29233731.65
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-f4fe4451-eae8-4107-b7ac-db00668d8a30",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-02-23T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-23T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9f046e70-0876-4793-ada7-0c97d071e1f0",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-AD-SRO-DCAGI-SC-002-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-02-23T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-23T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Vertiz Narvarte",
+            "postalCode": "3600",
+            "streetAddress": "San Borja 1358,",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "CIU99050721G7",
+            "legalName": "Consorcio IUYET, S.A. de C.V."
+          },
+          "name": "Consorcio IUYET, S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

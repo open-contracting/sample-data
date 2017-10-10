@@ -1,0 +1,372 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-2b58328a-4de9-4ade-aaf4-f670a61fcbef",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Elaboracion y puesta en marcha del sistema integral de gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 30000000
+            }
+          }
+        }
+      ],
+      "title": "Elaboracion y puesta en marcha del sistema integral e gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+      "id": "GACM/DCI/SJ/CI/011-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-a298565f-cf3a-4f02-be2f-112389b2e202",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/15.-%20CF/15.pdf",
+          "datePublished": "2015-06-01T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-06-01T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c53a210a-c7f9-4f99-aa16-2874b3fefafb",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/15.-%20CF/15.pdf",
+          "datePublished": "2015-06-01T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-06-01T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-9c2e2ca3-02e3-4c86-b449-da9d765a6456",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/FINIQUITOGACM-DCI-SJ-CI-011-2015.pdf",
+          "datePublished": "2015-06-01T05:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2015-06-01T05:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-0f297742-b78d-4397-9bb7-57e8a4cfde2f",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/17.-%20GA/17.pdf",
+          "datePublished": "2015-06-01T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-06-01T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-e228d792-0c78-4b78-94fa-0e723e5c427e",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/18.-%20GC/18.pdf",
+          "datePublished": "2015-06-01T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-06-01T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 30000000
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-fe2bca42-24f5-4786-ae16-463d7b0f761f"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "FIC000330LK9",
+              "legalName": "FONDO DE INVESTIGACI?N CIENTIFICA Y DESARROLLO TECNOL?GICO DEL IPN",
+              "scheme": "FONDO DE INVESTIGACI?N CIENTIFICA Y DESARROLLO TECNOL?GICO DEL IPN"
+            },
+            "value": {
+              "amount": 30000000
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCI/SJ/CI/011-2015 ELABORACION Y PUESTA EN MARCHA DEL SISTEMA INTEGRAL DE GESTION DE CUMPLIMIENTO AMBIENTAL (SIGCA) PARA EL PROYECTO DEL NAICM",
+            "id": "milestone-5ae9bf5c-23e5-4dd2-8f40-e7854ad005fa",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2015-06-01T05:00:00.000Z",
+        "endDate": "2015-12-03T06:00:00.000Z"
+      },
+      "dateSigned": "2015-06-01T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.509Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Elaboracion y puesta en marcha del sistema integral de gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+    "value": {
+      "currency": "MXN",
+      "amount": 34800000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-eed224a7-b81c-436b-9e2b-b10d0c00de2a",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/9.-%20AJ/9.pdf",
+        "datePublished": "2015-06-01T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-06-01T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-5f34e496-03af-48ad-a045-1b7ca18999cd",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-058c2c2d-fdf2-4ef5-8190-6ad8c03b160a",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-eb48402b-4ca0-4cd6-bb3e-33569cf531d6",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-ba5a2277-b40d-4b2d-8bad-6a1a231522a9",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-c798aebf-a702-42f5-992d-7bb211741280",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Elaboracion y puesta en marcha del sistema integral de gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-16605658-2b83-479b-a311-0674eb0c6883",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Elaboracion y puesta en marcha del sistema integral de gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 30000000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Elaboracion y puesta en marcha del sistema integral de gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+      "amount": {
+        "currency": "MXN",
+        "amount": 34800000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-95982aeb-8c8c-465d-9512-3697466bbbf9",
+        "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/4.-%20TR/4.pdf",
+        "datePublished": "2015-06-01T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-06-01T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Elaboracion y puesta en marcha del sistema integral de gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_181_2017-10-04T00:53:16.501Z",
+  "ocid": "181",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Elaboracion y puesta en marcha del sistema integral e gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2015-06-01T05:00:00.000Z",
+        "endDate": "2015-12-03T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 30000000
+      },
+      "items": [
+        {
+          "id": "item-2d938082-0ea3-498f-9ac9-eff1e3d454ad",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Elaboracion y puesta en marcha del sistema integral de gestion de cumplimiento ambiental (SIGCA) para el proyecto Nuevo Aeropuerto Internacional de laCiudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 30000000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Unidad Profesional Adolfo Lopez Mateos, Col, Zacatenco",
+            "postalCode": "07738",
+            "streetAddress": "Avenida Luis Enrique Erro SN",
+            "region": "Gustavo A. Madero"
+          },
+          "identifier": {
+            "id": "FIC000330LK9",
+            "legalName": "Instituto Politecnico Nacional"
+          },
+          "name": "Instituto Politecnico Nacional"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-7d5d8ea0-ffdc-49e8-a11c-882eda5a0a38",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/12.-%20AF/12.pdf",
+          "datePublished": "2015-06-01T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-06-01T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-62bbff37-01d2-47e3-9875-aabf025b649c",
+          "url": "http://189.211.120.220:8880/files/opendata/15011-GACM-DCI-SJ-CI-011-2015/10.-%20AP/10.pdf",
+          "datePublished": "2015-06-01T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-06-01T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

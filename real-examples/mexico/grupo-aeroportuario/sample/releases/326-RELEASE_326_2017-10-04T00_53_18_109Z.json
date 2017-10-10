@@ -1,0 +1,375 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-03-02T06:00:00.000Z",
+        "endDate": "2015-07-16T05:00:00.000Z"
+      },
+      "title": "Estudio sobre las estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otras herramientas de analisis historicodocumental.",
+      "id": "GACM/DCI/SJ/CE/006-2015",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-c08ec48a-306f-44e8-b1e9-82870d765c85",
+          "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-995e58dd-e8da-4797-b33a-ac96278a14e4",
+          "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-88e99138-2cbd-455a-9411-b6107c976945",
+          "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/19.-CM/19.1.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-de8aa15a-9429-40bd-9584-77b9902afd4b",
+          "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-17bd0700-c2b0-4231-8bf9-5fd957317e58",
+          "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 20000000
+      },
+      "items": [
+        {
+          "id": "item-01785a97-b0c9-474f-a381-a415dad5053f",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Estudio sobre las estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otras herramientas de analisis historicodocumental.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 20000000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-535475f3-a15f-49f6-88cd-b78a48184e8e"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "INA770420DW1",
+              "legalName": "INSTITUTO NACIONAL DE ADMINISTRACI?N P?BLICA, A,C.",
+              "scheme": "INSTITUTO NACIONAL DE ADMINISTRACI?N P?BLICA, A,C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCPEV/SJ/CG-E/06-2015 ESTUDIO SOBRE LAS ESTRATEGIAS PUBLICAS DE DIVERSAS ADMINISTRACIONES FEDERALES PARA EL DESARROLLO DEL NACIM Y OTRAS HERRAMIENTAS DE ANALISIS HISTORICO DOCUMENTAL",
+            "id": "milestone-54bc9bab-98f4-4faa-906f-aafe56e03fb2",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-03-02T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.118Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Estudio sobre las estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otras herramientas de analisis historicodocumental.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 23700000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-d0d05483-0a70-4539-9f5e-4330e867e28b",
+        "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-86f3b448-f4c5-4cb8-b3e0-f13325e9d05d",
+        "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-de25c392-fef8-41c2-84e7-6e579d6d7b98",
+        "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c9b0b9fa-c083-4f2d-9745-8d91e490ac81",
+        "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-35328a54-eafe-4a7c-a303-4becee57635d",
+        "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-16f2d138-f820-4e6d-bb23-321aff5aaede",
+        "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Realizacion de un estudio sobre estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otra herramientas de analisis historico documental.",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-f778ae88-3a04-4fdc-9712-b687c39db159",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Estudio sobre las estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otras herramientas de analisis historicodocumental.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 20000000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Realizacion de un estudio sobre estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otra herramientas de analisis historico documental.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 23700000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Fedracion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-fc4f2af5-f3c3-4b95-89bc-50ef68426bc6",
+        "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Realizacion de un estudio sobre estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otra herramientas de analisis historico documental."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_326_2017-10-04T00:53:18.109Z",
+  "ocid": "326",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Estudio sobre las estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otras herramientas de analisis historicodocumental.",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2015-03-02T06:00:00.000Z",
+        "endDate": "2015-07-16T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 20000000
+      },
+      "items": [
+        {
+          "id": "item-49f0c5e7-5e96-48e8-a26a-6c84a05c6bc4",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Estudio sobre las estrategias publicas de diversas administraciones federales para el desarrollo del NAICM y otras herramientas de analisis historicodocumental.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 20000000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-d3dc3aab-6346-488c-93b3-4a8d772e06a9",
+          "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-b0319a4a-d7f9-4790-ad5d-c2fa9185eed5",
+          "url": "http://189.211.120.220:8880/files/opendata/15006GACM-DCPEV-SJ-CG-E-06-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Palo Alto",
+            "postalCode": "05110",
+            "streetAddress": "Kilometro 14.5 de la Carretera Libre Mexico Toluca nuemro 2151",
+            "region": "Cuajimalpa"
+          },
+          "identifier": {
+            "id": "INA-770420-DW1",
+            "legalName": "Instituto Nacional de Administracion Publica, A.C."
+          },
+          "name": "Instituto Nacional de Administracion Publica, A.C."
+        }
+      ]
+    }
+  ]
+}

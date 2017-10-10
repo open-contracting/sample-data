@@ -1,0 +1,389 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-07-21T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "Plan de monitoreo y conservacion de aves del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "LPN-SRO-DCAGI-SC-041/15",
+      "awardID": "LO-009KDH999-N46-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-c5cb6b1e-1755-4097-b99e-fd7659c16431",
+          "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-679d47ed-0286-4ff2-99b6-b7ae8d8d1615",
+          "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-8b484e20-e282-478e-8b0b-9bb1228773c3",
+          "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/19.-%20CM/19.1.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-0088432d-daee-4fdd-9131-7d35dc783c38",
+          "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-df03fc23-4e65-4401-bbf0-ff28db1482f1",
+          "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 14382969.2
+      },
+      "items": [
+        {
+          "id": "item-94c2a49b-43b7-472c-9cd4-3898107dbf2f",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Plan de monitoreo y conservacion de aves del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 14382969.2
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-4cf5e2c3-ba84-48b2-9b8a-4369dfcdcf11"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "SUPFAU",
+              "legalName": "SUPERVISI?N Y CONTROL DE FAUNA, S.A. DE C.V.",
+              "scheme": "SUPERVISI?N Y CONTROL DE FAUNA, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 18854458.59
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-SRO-DCAGI-SC-041/15 PLAN ACCIONES DE MONITOREO Y CONSERVACION DE AVES PARA EL NAICM",
+            "id": "milestone-4e3bf90e-850b-49ae-950c-98d0766813a2",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "85.77%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-07-21T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:20.050Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Plan de Monitoreo y Conservacion de Aves del Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "awardPeriod": {
+      "startDate": "2015-05-19T05:00:00.000Z",
+      "endDate": "2015-06-29T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 29000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Plan de Monitoreo y Conservacion de Aves del Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6989f9e3-942f-4185-ad38-1ab484f96513",
+        "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-6ee3e534-5c24-47d6-9969-c1d0e0143764",
+        "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-30722904-7514-44fb-a4ad-75921a18e74b",
+        "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-ffd4e8eb-a97f-4087-8f14-d5577423ee8d",
+        "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-639233a5-8e53-4222-8eaa-7ab33b47f398",
+        "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-5ea6ff4d-b7f2-4887-bf7f-92d9522475fa",
+        "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2015-05-19T05:00:00.000Z",
+      "endDate": "2015-06-29T05:00:00.000Z"
+    },
+    "id": "830152",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-ef7b3c38-c226-44c1-864e-4c2902ce1682",
+        "classification": {
+          "id": "6250",
+          "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+        },
+        "quantity": 1,
+        "description": "Plan de monitoreo y conservacion de aves del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 14382969.2
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-06-19T05:00:00.000Z",
+      "endDate": "2015-06-19T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "CONSTRUCCION DE VIAS DE COMUNICACION",
+      "amount": {
+        "currency": "MXN",
+        "amount": 29000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6293e596-fc60-4671-9752-b5b5342577e1",
+        "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Plan de Monitoreo y Conservacion de Aves del Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_86_2017-10-04T00:53:20.046Z",
+  "ocid": "86",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Plan de monitoreo y conservacion de aves del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "LO-009KDH999-N46-2015",
+      "contractPeriod": {
+        "startDate": "2015-07-21T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 14382969.2
+      },
+      "items": [
+        {
+          "id": "item-3e2e4a74-c932-4c44-b54b-924c738c3c0b",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Plan de monitoreo y conservacion de aves del proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 14382969.2
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-10ebc1b5-4863-4ea5-ac7e-341bc1a11be3",
+          "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-8bd2bc3d-3768-4694-9adf-17010d7f5dc9",
+          "url": "http://189.211.120.220:8880/files/opendata/15041-LPN-SRO-DCAGI-SC-041-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-07-06T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Santiago Occipaco",
+            "postalCode": "53237",
+            "streetAddress": "Cda. De Arroyo #50 Int 4",
+            "region": "Naucalpan de Juarez"
+          },
+          "identifier": {
+            "id": "SCF0401286B1",
+            "legalName": "Supervision y Control de Fauna, S.A. de C. V."
+          },
+          "name": "Supervision y Control de Fauna, S.A. de C. V."
+        }
+      ]
+    }
+  ]
+}

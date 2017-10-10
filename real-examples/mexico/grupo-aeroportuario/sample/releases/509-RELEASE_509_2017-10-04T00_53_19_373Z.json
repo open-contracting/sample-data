@@ -1,0 +1,370 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-01-02T06:00:00.000Z",
+        "endDate": "2018-01-31T06:00:00.000Z"
+      },
+      "title": "ELABORACION DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM  PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDRAULICA DE CONAGUA MEDIANTE OBRAS SUBTERRANEAS",
+      "id": "AD-SRO-CONV-DCAGI-SC-001-17",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-6d024389-b239-48d9-8f24-623542b621db",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-8e088b09-cd94-4f8a-8a7a-3ff1639e164e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-1f983c9d-c4d8-4a7f-b2b5-fc5bba578704",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-ca830daa-d184-46bc-b630-fab4c6c03c6c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 231720032.32
+      },
+      "items": [
+        {
+          "id": "item-0962b055-7602-49e2-b1d0-e769dd245ab5",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM  PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDR?ULICA DE CONAGUA MEDIANTE OBRAS SUBTERR?NEAS",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 231720032.32
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-86bf4e2e-4fef-4efc-b6c6-8152e1d39dca"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CFE370814QI0",
+              "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD",
+              "scheme": "COMISI?N FEDERAL DE ELECTRICIDAD"
+            },
+            "value": {
+              "amount": 69516009.7
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-CONV-DCAGI-SC-001-17 ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM  PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDR?ULICA DE CONAGUA MEDIANTE OBRAS SUBTERR?NEAS",
+            "id": "milestone-b9acead7-ce76-4100-ba21-50d87bdc1390",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "20.80%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-01-02T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.377Z",
+    "publisher": {
+      "uid": "Servicios relacionados con la obra",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO RELACIONADO CON OBRAS"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "22 ADJUDICACION DIRECTA NACIONAL ART. 43 LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 231720032.75
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDR?ULICA DE CONAGUA MEDIANTE OBRAS SUBTERR?NEAS",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-abfde605-e4f2-4f8c-a918-9863b85a9cfe",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/9.-%20AJ/9.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-c9d44f9b-84b1-4f98-9975-3f0f5fdda526",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-c7bcdc53-abb5-4179-a239-43fcd4d5767d",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-60749f32-f894-4dc3-a989-fd9933e34172",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-e490fb4a-6a33-4b4f-b80a-d6bc505112a9",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-8011a256-36c4-483f-b14b-134f7b0bb6c6",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "NA",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-a47bb220-9103-4336-a79f-79ebc19ce53d",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM  PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDR?ULICA DE CONAGUA MEDIANTE OBRAS SUBTERR?NEAS",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 231720032.32
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 231720032.75
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9720ea95-7b43-46e9-a3c8-c651e2b1d7cd",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/4.-%20TR/4.pdf",
+        "datePublished": "2017-01-02T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-02T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM  PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDR?ULICA DE CONAGUA MEDIANTE OBRAS SUBTERR?NEAS"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_509_2017-10-04T00:53:19.373Z",
+  "ocid": "509",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM  PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDR?ULICA DE CONAGUA MEDIANTE OBRAS SUBTERR?NEAS",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2017-01-02T06:00:00.000Z",
+        "endDate": "2018-01-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 231720032.32
+      },
+      "items": [
+        {
+          "id": "item-2f7aac15-e092-407d-88ef-5afe62ed0189",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ELABORACI?N DE ESTUDIOS Y PROYECTO EJECUTIVO DEL SISTEMA DE DRENAJE PLUVIAL COMPLEMENTARIO DEL NAICM  PARA LAS INTERCONEXIONES A LA INFRAESTRUCTURA HIDR?ULICA DE CONAGUA MEDIANTE OBRAS SUBTERR?NEAS",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 231720032.32
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-28e2d0ba-b895-4b4e-af12-a7f64f248243",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-1a8c5cf7-c6eb-4bd7-92f9-48eb678201b2",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17001-AD-SRO-CONV-DCAGI-SC-001-17/12.-%20AF/12.pdf",
+          "datePublished": "2017-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-02T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-01-02T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "JUAREZ",
+            "postalCode": "11320",
+            "streetAddress": "PASEO DE LA REFORMA 164",
+            "region": "CUAUTHEMOC"
+          },
+          "contactPoint": {
+            "email": "CARLOS.MENDOZA@CFE.COM",
+            "name": "RENE MENDOZA"
+          },
+          "identifier": {
+            "id": "CFE370814QI0",
+            "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD"
+          },
+          "name": "COMISI?N FEDERAL DE ELECTRICIDAD"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-12-01T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "title": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiezadel Terreno del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "AD-AS-DCAGI-SC-119/15",
+      "awardID": "AA-009KDH999-E27-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-68dc6766-e5a2-44e2-b5fc-0eb17d158420",
+          "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-10-08T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-10-08T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6dc395b2-e86b-40ea-aa01-f22b4ea8de26",
+          "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-10-08T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-10-08T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-a4d7eecf-ed1d-4691-9383-d48a62bd9e8c",
+          "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-10-08T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-10-08T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-19f89745-a8fc-4776-a234-70501a3b9edc",
+          "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-10-08T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-10-08T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 344962.1
+      },
+      "items": [
+        {
+          "id": "item-82d2940b-16a7-48fc-9970-7b57cd56ed19",
+          "classification": {
+            "id": "2110",
+            "scheme": "MATERIALES Y UTILES DE OFICINA"
+          },
+          "quantity": 1,
+          "description": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiez",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 344962.1
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-7dd2eea2-1da4-4c5f-85b9-3c2cb3ddb557"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "IMA941216HE8",
+              "legalName": "INSTITUTO MEXICANO DE AUDITORIA TECNICA A.C.",
+              "scheme": "INSTITUTO MEXICANO DE AUDITORIA TECNICA A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-119/15 ATESTIGUAMIENTO EN EL PROCESO DE LICITACION PUBLICA NACIONAL PRESENCIAL, DESCRIPCION GENERAL DE LA OBRA NIVELACION Y LIMPIEZA DEL TERRENO DEL NAICM",
+            "id": "milestone-392976d6-6130-4328-b90b-b077dec3e8f6",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-10-08T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.753Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiezadel Terreno del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 344962.1
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiezadel Terreno del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-934f4303-a526-4b59-9113-e0a86eaf0572",
+        "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-10-08T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-10-08T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-c6e51cdb-ac61-4689-bea2-b52450546d7f",
+        "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-10-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-10-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-0bd4afc0-f58e-45b6-bda0-18e8ea3a75a9",
+        "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-10-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-10-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-ac9ef781-5d53-411c-a7f3-4b448aa41557",
+        "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-10-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-10-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-84979758-7677-4b29-a548-c0c4a90e0764",
+        "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-10-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-10-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-3f512f1d-7dae-4f70-8e98-357906b3ec23",
+        "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-10-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-10-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1024662",
+    "items": [
+      {
+        "id": "item-d0b8a247-9ce1-4aba-a064-bde1a98930be",
+        "classification": {
+          "id": "2110",
+          "scheme": "MATERIALES Y UTILES DE OFICINA"
+        },
+        "quantity": 1,
+        "description": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiez",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 344962.1
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiezadel Terreno del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 344962.1
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ca7358b1-b4ac-4081-bfe8-f564ba27dd78",
+        "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-10-08T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-10-08T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiezadel Terreno del Nuevo Aeropuerto Internacional de la Ciudad de Mexico."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_190_2017-10-04T00:53:16.748Z",
+  "ocid": "190",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiezadel Terreno del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "AA-009KDH999-E27-2016",
+      "contractPeriod": {
+        "startDate": "2016-12-01T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 344962.1
+      },
+      "items": [
+        {
+          "id": "item-9748ba46-c3c3-4bec-aa84-2a92627aa358",
+          "classification": {
+            "id": "2110",
+            "scheme": "MATERIALES Y UTILES DE OFICINA"
+          },
+          "quantity": 1,
+          "description": "Servicio de Testigo Social, para que atestigue las Etapas del Procedimiento de la Licitacion Publica Nacional de Obra Publica de Nivelacion y Limpiez",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 344962.1
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-97790605-e29e-4631-99a4-7338a97b9c34",
+          "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-10-08T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-10-08T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-3a407921-f03f-4b0b-b7fb-005c69719242",
+          "url": "http://189.211.120.220:8880/files/opendata/15119-AD-AS-DCAGI-SC-119-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-10-08T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-10-08T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "3100",
+            "streetAddress": "Av. San Lazaro #153, despacho 602",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "IMA941216HE8",
+            "legalName": "Instituto Mexicano de Auditoria Tecnica, A. C."
+          },
+          "name": "Instituto Mexicano de Auditoria Tecnica, A. C."
+        }
+      ]
+    }
+  ]
+}

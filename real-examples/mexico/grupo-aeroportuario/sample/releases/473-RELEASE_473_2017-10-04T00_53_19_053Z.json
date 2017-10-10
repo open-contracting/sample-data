@@ -1,0 +1,362 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2014-11-25T06:00:00.000Z",
+        "endDate": "2014-12-31T06:00:00.000Z"
+      },
+      "title": "Sevicios de Regularizacion de la Informacion Relativa a la Auditoria Corporativa de Grupo Aeroportuario de la Ciudad de Mexico, S.A. De C.V.",
+      "id": "AD.DIR/01/SJ/2014",
+      "awardID": "AA-009KDH999-E65-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-80df805c-17bb-41d3-b2dc-670567e7df0a",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/15.-%20CF/15.pdf",
+          "datePublished": "2014-11-25T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-11-25T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-f0be52b5-267a-4e59-9521-0f6372087f2b",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/15.-%20CF/15.pdf",
+          "datePublished": "2014-11-25T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-11-25T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-9347a2b5-e660-4396-ad63-79bee193b508",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/17.-%20GA/17.pdf",
+          "datePublished": "2014-11-25T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-11-25T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-b90f0ec7-c9d7-485d-9b07-fe23f52b9000",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/18.-%20GC/18.pdf",
+          "datePublished": "2014-11-25T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-11-25T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 389000
+      },
+      "items": [
+        {
+          "id": "item-df89e423-0593-4935-98e6-53e506bb0631",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "REGULARIZACION DE LA INFORMACION RELATIVA A LA AUDITORIA CORPORATIVA DEGRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO S.A DE C.V",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 389000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-792133ac-5df0-41dd-9a8f-edc4099e54d3"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33901.pdf",
+            "receiverOrganization": {
+              "id": "CLA980911IYA",
+              "legalName": "CUESTA Y LLACA, S.C.",
+              "scheme": "CUESTA Y LLACA, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-DIR-01-SJ-2014 REGULARIZACION DE LA INFORMACION RELATIVA A LA AUDITORIA CORPORATIVA DE GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO",
+            "id": "milestone-88d22664-9ead-4f31-a5b0-280cdedd6c0a",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2014-11-25T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.056Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios de Regularizacion de la Informacion Relativa a la Auditoria Corporativa de Grupo Aeroportuario de la Ciudad de Mexico, S.A De C.V",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 389000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Regularizacion de la informacion relativa a la auditoria corporativa de Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-ce7d618b-db84-4fef-ad3b-0c0f35af0ba8",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/9.-%20AJ/9.pdf",
+        "datePublished": "2014-11-25T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-11-25T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-396f6b50-67f6-464c-b2d1-7feffcbcb225",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-25T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-25T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-57a52974-511e-4892-b2bb-f23a7aa180c8",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-25T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-25T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-568c07e9-ff9e-4bf4-8e74-5b573ffd074d",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-25T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-25T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-47c6d9a9-da38-40fc-b98b-e19776d9ad21",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-25T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-25T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-25cef9d6-d062-4802-8a8e-5fd9018bd402",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-11-25T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-11-25T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "NO APLICA",
+    "items": [
+      {
+        "id": "item-d0825578-3568-4f15-95b5-46fd553d66b1",
+        "classification": {
+          "id": "3390",
+          "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+        },
+        "quantity": 1,
+        "description": "REGULARIZACION DE LA INFORMACION RELATIVA A LA AUDITORIA CORPORATIVA DEGRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO S.A DE C.V",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 389000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "Regularizacion de la informacion relativa a la auditoria corporativa de Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 389000
+      },
+      "description": "Presupuesto de Egresos de la Fedracion 2014",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b581ea76-f040-4402-8142-01b0a56f1be6",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/4.-%20TR/4.pdf",
+        "datePublished": "2014-11-25T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-11-25T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Regularizacion de la informacion relativa a la auditoria corporativa de Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_473_2017-10-04T00:53:19.053Z",
+  "ocid": "473",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Sevicios de Regularizacion de la Informacion Relativa a la Auditoria Corporativa de Grupo Aeroportuario de la Ciudad de Mexico, S.A. De C.V.",
+      "id": "AA-009KDH999-E65-2016",
+      "contractPeriod": {
+        "startDate": "2014-11-25T06:00:00.000Z",
+        "endDate": "2014-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 389000
+      },
+      "items": [
+        {
+          "id": "item-1c6f7423-dc2f-4d83-ba75-1056e236a1cc",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "REGULARIZACION DE LA INFORMACION RELATIVA A LA AUDITORIA CORPORATIVA DEGRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO S.A DE C.V",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 389000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-73b39d3f-60f2-48dd-baae-506e40bfdc41",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/12.-%20AF/12.pdf",
+          "datePublished": "2014-11-25T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-11-25T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0cd49d65-1805-4371-a6ba-e33651b3324a",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-AD-DIR-01-SJ-2014/10.-%20AP/10.pdf",
+          "datePublished": "2014-11-25T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-11-25T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Tizapan",
+            "postalCode": "1090",
+            "streetAddress": "Avenida san Jeronimo numero 369, Torre 1, Piso 2-C",
+            "region": "Alvaro Obregon"
+          },
+          "identifier": {
+            "id": "CLA980911IYA",
+            "legalName": "CUESTA Y LLACA, S.C."
+          },
+          "name": "CUESTA Y LLACA, S.C."
+        }
+      ]
+    }
+  ]
+}

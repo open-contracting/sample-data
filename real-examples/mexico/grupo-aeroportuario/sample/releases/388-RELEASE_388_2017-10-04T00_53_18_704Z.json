@@ -1,0 +1,382 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-10-01T05:00:00.000Z",
+        "endDate": "2017-09-30T05:00:00.000Z"
+      },
+      "title": "SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPANAMIENTO Y CONSULTORIA EN MATERIA JURIDICA Y DE NEGOCIACION EN CONFLICTOS COLECTIVOS DE TRABAJO, INTERSINDICALES E INDIVIDUALES DE TRABAJO.",
+      "id": "ITP-AS-DCAGI-SC-076-16",
+      "awardID": "IA-009KDH999-E119-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-00ff4cd9-a6b2-43d0-8ef9-7c8f1dcfb329",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-f757b18f-6304-4a77-ab48-c99b56bbc92d",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-eadaa598-f141-415c-aa6d-253a02a5c2fe",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-09-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-30T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-7dc70bb3-c506-4d39-a852-75f91fac308d",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-09-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-30T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1551724.14
+      },
+      "items": [
+        {
+          "id": "item-e6eb5576-18d8-47a3-be82-0d1b9bbbcb0e",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPA?AMIENTO Y CONSULTOR?A EN MATERIA JUR?DICA Y DE NEGOCIACI?N EN CONFLICTOS COLECTIVOS DE TRABAJO, INTERSINDICALES E INDIVIDUALES DE TRABAJO.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1551724.14
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-26047dcf-1709-4919-a189-37e01ee0a079"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "SANTILLANA HINTZE ABOGADOS, S.C.",
+              "scheme": "SANTILLANA HINTZE ABOGADOS, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-076-16 SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPA?AMIENTO Y CONSULTOR?A EN MATERIA JUR?DICA Y DE NEGOCIACI?N EN CONFLICTOS COLECTIVOS DE TRABAJO, INTERSINDICALES E INDIVIDUALES DE TRABAJO.",
+            "id": "milestone-da7a8d06-635e-43c5-abc2-e12f06c67b85",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-10-01T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.708Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-09-08T05:00:00.000Z",
+      "endDate": "2016-09-26T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "04 INVITACION A CUANDO MENOS TRES NACIONAL LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 2400000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPA?AMIENTO Y CONSULTOR?A EN MATERIA JUR?DICA Y DE NEGOCIACI?N EN CONFLICTOS COLECTIVOS DE TRABAJO E INTERSINDICALES.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-20dc1211-b184-4acb-9f1b-e44472bbd8ca",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-09-30T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-30T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-9854b419-046b-4767-ac4b-a4530f2300ee",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-03dcfa73-2c42-4201-a946-bce4f5e1983b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-38d18412-b846-4229-b5d3-1ecbc025b0a2",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-76dfaff4-262a-435a-9928-c39f27c9c0a4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-02aa78d0-b157-46b4-82d6-cb8e72c640c4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-09-08T05:00:00.000Z",
+      "endDate": "2016-09-26T05:00:00.000Z"
+    },
+    "id": "1150336",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-234c71f2-f4a5-44f2-879c-4d9fdf22ee75",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPA?AMIENTO Y CONSULTOR?A EN MATERIA JUR?DICA Y DE NEGOCIACI?N EN CONFLICTOS COLECTIVOS DE TRABAJO, INTERSINDICALES E INDIVIDUALES DE TRABAJO.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 1551724.14
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-09-13T05:00:00.000Z",
+      "endDate": "2016-09-26T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 2400000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ea1bccbd-5b20-468e-b1b4-18b9525cf8ea",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-09-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-09-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPA?AMIENTO Y CONSULTOR?A EN MATERIA JUR?DICA Y DE NEGOCIACI?N EN CONFLICTOS COLECTIVOS DE TRABAJO, INTERSINDICALES E INDIVIDUALES DE TRABAJO."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_388_2017-10-04T00:53:18.704Z",
+  "ocid": "388",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPA?AMIENTO Y CONSULTOR?A EN MATERIA JUR?DICA Y DE NEGOCIACI?N EN CONFLICTOS COLECTIVOS DE TRABAJO, INTERSINDICALES E INDIVIDUALES DE TRABAJO.",
+      "id": "IA-009KDH999-E119-2016",
+      "contractPeriod": {
+        "startDate": "2016-10-01T05:00:00.000Z",
+        "endDate": "2017-09-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1551724.14
+      },
+      "items": [
+        {
+          "id": "item-be381c86-e0cb-4f9d-b13e-5f5e90b53e06",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS PROFESIONALES ESPECIALIZADOS DE ACOMPA?AMIENTO Y CONSULTOR?A EN MATERIA JUR?DICA Y DE NEGOCIACI?N EN CONFLICTOS COLECTIVOS DE TRABAJO, INTERSINDICALES E INDIVIDUALES DE TRABAJO.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1551724.14
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-039fc00f-2baf-434e-8d24-8161080e8cd7",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-09-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-30T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-a2f29ff2-f464-4f70-9fee-badd3935cf50",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16076-ITP-AS-DCAGI-SC-076-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-09-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-30T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-09-30T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "GUADALUPE INN",
+            "postalCode": "01020",
+            "streetAddress": "RICARDO CASTRO 54 302",
+            "region": "ALVARO OBREGON"
+          },
+          "contactPoint": {
+            "email": "JKHINTZE@GMAIL.COM",
+            "telephone": "5290 8232",
+            "name": "JEAN KURT HINTZE CALLEJA"
+          },
+          "identifier": {
+            "legalName": "SANTILLANA HINTZE ABOGADOS, S.C."
+          },
+          "name": "SANTILLANA HINTZE ABOGADOS, S.C."
+        }
+      ]
+    }
+  ]
+}

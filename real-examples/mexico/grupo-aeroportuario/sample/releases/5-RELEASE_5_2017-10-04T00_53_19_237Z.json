@@ -1,0 +1,376 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-02-19T06:00:00.000Z",
+        "endDate": "2015-03-20T06:00:00.000Z"
+      },
+      "title": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "AD-SRO-DCAGI-SC-013/15",
+      "awardID": "SO-09KDH999-N26-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-8213a289-486a-4eaf-b5d2-4c54e8d07f11",
+          "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-04T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-04T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c9b574ad-18e4-4e5a-a4fc-619f5eabeb70",
+          "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-04T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-04T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-629e6fde-2655-4ff1-a8d1-9aff1a921e79",
+          "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-02-04T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-04T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-b50aec2b-402b-40a7-afd6-620a08aae3d0",
+          "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-02-04T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-04T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 465000
+      },
+      "items": [
+        {
+          "id": "item-fe99e138-7369-4a55-a6d3-6873547918c7",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 465000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-e0c35e6b-50e8-49b0-8af5-513f6dbd841e"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "SIG9806044B1",
+              "legalName": "SISTEMAS INTEGRALES DE GESTI?N AMBIENTAL, S.C.",
+              "scheme": "SISTEMAS INTEGRALES DE GESTI?N AMBIENTAL, S.C."
+            },
+            "value": {
+              "amount": 465000
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-013/15 PLAN ACCIONES DE MONITOREO Y CONSERVACION DE AVES PARA EL NAICM",
+            "id": "milestone-bf4fdf03-defa-4227-87fb-f2c52bda7fe4",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-02-19T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.241Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 539400
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-ff8ce53f-d932-4050-87c1-e410837ad90a",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-4687539b-9f5f-4046-91a5-7eb8dfd4dab8",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-6982b2f6-fd1b-40c4-bafb-80cd0e65bded",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-74307b5c-bef7-4529-b468-3ccd53628132",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-37d23baa-d309-4e10-90e5-0d4a079e88ef",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-980a77b9-66c7-4630-a4c3-654f1bbe9209",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "798985",
+    "items": [
+      {
+        "id": "item-66a3c9d7-945c-4035-a2f8-cdc2514b767c",
+        "classification": {
+          "id": "6250",
+          "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+        },
+        "quantity": 1,
+        "description": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 465000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "CONSTRUCCION DE VIAS DE COMUNICACION",
+      "amount": {
+        "currency": "MXN",
+        "amount": 539400
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-e16fbcf9-f272-4ffe-940a-17f8a902ca33",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-968cfae6-140e-453b-b992-62d9592bbc64",
+        "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-02-04T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-02-04T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_5_2017-10-04T00:53:19.237Z",
+  "ocid": "5",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "SO-09KDH999-N26-2015",
+      "contractPeriod": {
+        "startDate": "2015-02-19T06:00:00.000Z",
+        "endDate": "2015-03-20T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 465000
+      },
+      "items": [
+        {
+          "id": "item-950f26bd-5575-47f2-aad9-667b65b84305",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Plan de Monitoreo, registro y verificacion de emision de gases de efecto invernadero para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 465000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-dbfbe160-146f-4fd6-a7a4-8744fe2668c3",
+          "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-02-04T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-04T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-7809a8f8-d756-4e30-9c31-e0419a037b0d",
+          "url": "http://189.211.120.220:8880/files/opendata/15013-AD-SRO-DCAGI-SC-013-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-02-04T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-04T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-02-04T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Credito Constructor",
+            "postalCode": "3940",
+            "streetAddress": "Poseidon 40",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "SIG9806044B1",
+            "legalName": "Sistemas Integrales de Gestion Ambiental, S.C."
+          },
+          "name": "Sistemas Integrales de Gestion Ambiental, S.C."
+        }
+      ]
+    }
+  ]
+}

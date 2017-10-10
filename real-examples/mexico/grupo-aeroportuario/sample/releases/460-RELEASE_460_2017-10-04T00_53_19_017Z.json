@@ -1,0 +1,377 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-12-01T06:00:00.000Z",
+        "endDate": "2016-12-13T06:00:00.000Z"
+      },
+      "title": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS, PARA LA CONSTRUCCION DE LA LOSA DE CIMENTACION DEL CENTRO DE TRANSPORTE TERRESTRE DEL NAICM",
+      "id": "AD-AS-DCAGI-SC-085-16",
+      "awardID": "AA-009KDH999-E6-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9bec5876-b1aa-41be-92c6-68043f2027d9",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-11T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-11T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-be758cfe-0d0f-411e-b6a0-eef6a714237e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-11T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-11T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-785e2dda-b339-4855-92b4-a9653554c8d5",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-11-11T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-11T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-1e0ed239-2e65-40f9-9109-4f84c4dc430e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-11-11T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-11T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 485716
+      },
+      "items": [
+        {
+          "id": "item-0b02a868-8346-4366-b614-cd33023d7ee5",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS, PARA LA CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 485716
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-da591962-5e7b-4120-8610-f6a2dfc29ef3"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "ACP150206L97",
+              "legalName": "ACADEMIA DE CONTRATACI?N P?BLICA DE M?XICO, A.C.",
+              "scheme": "ACADEMIA DE CONTRATACI?N P?BLICA DE M?XICO, A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-085-16 SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS, PARA LA CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE DEL NAICM",
+            "id": "milestone-2e4e840f-754c-4d90-80dc-5714b6114ff5",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-12-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.020Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-01-13T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 486000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS PARA LA CONSTRUCCION DE LA LOSA DE CIMENTACION DEL CENTRO DE TRANSPORTE TERRESTRE CORRESPONDIENTE A LOS EJERCICIOS 2016. 2017 Y 2018.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-9b65ffda-1cc9-441d-b8b4-e660e06d0487",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-11-11T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-11-11T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-7f986f63-80f8-4912-8f78-330521ea5ea5",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-e1f18fc7-bfa3-4be0-b3aa-ed09ed405f9c",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-f1ab4f02-a2a7-4233-83b6-98f170990f76",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b2bcdac8-26f7-48ea-9db3-9209a37d6ace",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-c20a0584-cdd1-4128-bcde-691894a77d37",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2017-01-13T06:00:00.000Z"
+    },
+    "id": "1253812",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-a81d8bd2-7272-42fb-8787-bf4521b73986",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS, PARA LA CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE DEL NAICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 485716
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 486000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ae50376f-1a77-4f43-b123-e5a6eebed4d4",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-11-11T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-11-11T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS, PARA LA CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE DEL NAICM"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_460_2017-10-04T00:53:19.017Z",
+  "ocid": "460",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS, PARA LA CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE DEL NAICM",
+      "id": "AA-009KDH999-E6-2017",
+      "contractPeriod": {
+        "startDate": "2016-12-01T06:00:00.000Z",
+        "endDate": "2016-12-13T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 485716
+      },
+      "items": [
+        {
+          "id": "item-b703b531-0a13-4ff1-9f4f-36447bb450aa",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL, BAJO LA COBERTURA DE LOS TRATADOS, PARA LA CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 485716
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-565b413f-47c5-4ef1-96e4-e7bb2c8b12fc",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-11-11T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-11T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-7a24c1fa-0c6c-46c2-b080-0ab8dbb62d6e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16085-AD-AS-DCAGI-SC-085-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-11-11T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-11T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-11-11T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "COYOACAN",
+            "locality": "CUADRANTE DE SAN FRANCISCO",
+            "postalCode": "04320",
+            "streetAddress": "PUENTE DE SAN FRANCISCO 53",
+            "region": "COYOACAN"
+          },
+          "contactPoint": {
+            "email": "A.ROSALES@CONTRATACIONESPUBLICAS.COM",
+            "telephone": "55475610",
+            "name": "ARTURO ROSALES BAEZA"
+          },
+          "identifier": {
+            "id": "ACP150206L97",
+            "legalName": "ACADEMIA DE CONTRATACI?N P?BLICA DE M?XICO, A.C."
+          },
+          "name": "ACADEMIA DE CONTRATACI?N P?BLICA DE M?XICO, A.C."
+        }
+      ]
+    }
+  ]
+}

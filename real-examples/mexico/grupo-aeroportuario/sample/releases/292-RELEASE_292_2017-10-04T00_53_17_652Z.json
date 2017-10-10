@@ -1,0 +1,398 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-05-04T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajerosl NAICM",
+      "id": "ITP-SRO-DCAGI-SC-034/16",
+      "awardID": "IO-009KDH999-E45-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-a98fc3ce-5949-4d81-a5cb-1b55dc8bc6e9",
+          "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-05-03T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-05-03T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-30982431-c01c-4300-ac01-8edf64b42f27",
+          "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-05-03T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-05-03T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-fa5345e1-e08b-4bdb-ac18-ba74130f23de",
+          "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/19.-%20CM/19.1.pdf",
+          "datePublished": "2016-05-03T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-05-03T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-0286751f-e431-4e62-a34f-63a49996b4ae",
+          "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-05-03T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-05-03T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-6f098961-22b2-462c-a007-90aeb4fd06aa",
+          "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-05-03T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-05-03T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 8380018.06
+      },
+      "items": [
+        {
+          "id": "item-6792ee6d-592b-456d-858f-129baa039b89",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajeros,ceso del NAICM",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8380018.06
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-826d6e62-8591-48a1-b0e2-6ee623a5a446"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CEU851209JU0",
+              "legalName": "CENTRO DE ESTUDIOS DE URBANISMO Y ARQUITECTURA, S.A. DE C.V.",
+              "scheme": "CENTRO DE ESTUDIOS DE URBANISMO Y ARQUITECTURA, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 12431055.4
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-034-16 SERVICIOS DE APOYO T?CNICO A LA RESIDENCIA DEL PROYECTO EJECUTIVO DE DISE?O ARQUITECT?NICO E INGENIER?A DE DETALLE DEL EDIFICIO TERMINAL DE PASAJEROS, TORRE DE CONTROL Y CENTRO DE OPERACIONES",
+            "id": "milestone-e97b309a-73ef-420c-ae33-2a2b84e1dc71",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "73.50%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-05-04T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.656Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajeros,torre de control y centro de operaciones, edificio de estacionamiento, estacionamientos en superficie, estacionamientosmultimodal y vialidades de acceso del NAICM",
+    "awardPeriod": {
+      "endDate": "2016-06-29T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 8380018.06
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajeros,NAICM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-2e2b9165-0b8a-4fc7-a799-e8dd31fe952a",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-ccfae32f-65b2-4510-bf47-10bbf519d4bd",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-44501e5a-da74-465f-a209-b0f65df153ab",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-a2f3c489-8e85-482b-b6fa-0e5ad8ad1598",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-98fc7497-f1fe-4877-8daf-8ccfedebda14",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-88edeae4-3c1b-418b-9454-b9e186b19598",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2016-06-29T05:00:00.000Z"
+    },
+    "id": "1039131",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-4eabd147-55f5-45bb-a4e7-691b4abd825d",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajeros,ceso del NAICM",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 8380018.06
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-04-19T05:00:00.000Z",
+      "endDate": "2016-04-19T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 8380018.06
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-22c6d7cd-4c47-4155-a18f-b5111e8b4276",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8f8d8865-6834-4696-9a8e-e8233639a2c7",
+        "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-05-03T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-05-03T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajeros,NAICM"
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_292_2017-10-04T00:53:17.652Z",
+  "ocid": "292",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajerosl NAICM",
+      "id": "IO-009KDH999-E45-2016",
+      "contractPeriod": {
+        "startDate": "2016-05-04T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 8380018.06
+      },
+      "items": [
+        {
+          "id": "item-24dcd3d2-bb92-40f1-b54f-3f9ffe1a1d54",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de diseno arquitectonico e ingenieria de detalle del edificio terminal de pasajeros,ceso del NAICM",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8380018.06
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-65bc2c06-33ea-49c3-87c2-1cc9eb234e72",
+          "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-05-03T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-05-03T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0fa0f836-2396-4274-96ba-6bdd5bfb1738",
+          "url": "http://189.211.120.220:8880/files/opendata/16034-ITP-SRO-DCAGI-SC-034-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-05-03T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-05-03T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-05-03T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "ALTAVISTA",
+            "postalCode": "01060",
+            "streetAddress": "HERMENEGILDO GALEANA 101",
+            "region": "ALVARO OBREGON"
+          },
+          "identifier": {
+            "id": "CEU851209JU0",
+            "legalName": "CENTRO DE ESTUDIOS DE URBANISMO Y ARQUITECTURA, S.A. DE C.V."
+          },
+          "name": "CENTRO DE ESTUDIOS DE URBANISMO Y ARQUITECTURA, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

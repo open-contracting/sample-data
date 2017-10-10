@@ -1,0 +1,375 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-11T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACION PUBLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACION GEOTECNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES PARA LA NAVEGACION DE LA PISTA 3",
+      "id": "AD-AS-DCAGI-SC-054-16",
+      "awardID": "AA-009KDH999-E135-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-1f1bc558-28d9-433d-a66e-6444c1cdc078",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-df0e1896-4301-413e-ad63-987f1b5c9c14",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-e670505f-311d-418e-951f-7c5e62ae7f1e",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-85c61d59-32cc-494f-9ec6-36538131377d",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 687330.5
+      },
+      "items": [
+        {
+          "id": "item-613ef034-b82b-470e-97bb-bce848c13254",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACI?N GEOT?CNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES PARA LA NAVEGACI?N DE LA PISTA 3",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 687330.5
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-eaac4351-7df1-4ffb-8b77-660ce56d5f2b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "JOSE GENARO RUIZ GOMEZ",
+              "scheme": "JOSE GENARO RUIZ GOMEZ"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-054-16 ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACI?N GEOT?CNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES PARA LA NAVEGACI?N DE LA PISTA 3",
+            "id": "milestone-4220824a-5e7d-480c-8a46-3d0560e797bc",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-11T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.319Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-10-19T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 688000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE TESTIGO SOCIAL PARA EL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACI?N GEOTECNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES Y PARA LA NAVEGACI?N DE LA PISTA 3 Y AREA DE TUNELES DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-d23f9e51-1ea5-46d0-ac23-3cf50398cdd3",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-39e708b3-f477-4385-8095-f9512b4f7ece",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-b7b0d0af-57ba-41a3-b976-f9bf53869c36",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-61878775-0ac9-4807-a4a0-8041b5a2e3d0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-2a9cd760-d1ab-4576-8b16-d32492b6c555",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-d989ed31-d5b1-469c-beca-ef283931678d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-10-19T05:00:00.000Z"
+    },
+    "id": "1183863",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-30e73ff1-6c2a-45ac-8b59-254b49e0244e",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACI?N GEOT?CNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES PARA LA NAVEGACI?N DE LA PISTA 3",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 687330.5
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 688000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e205d8e6-6023-4a7e-aa48-c88c757f9326",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACI?N GEOT?CNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES PARA LA NAVEGACI?N DE LA PISTA 3"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_344_2017-10-04T00:53:18.313Z",
+  "ocid": "344",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACI?N GEOT?CNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES PARA LA NAVEGACI?N DE LA PISTA 3",
+      "id": "AA-009KDH999-E135-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-11T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 687330.5
+      },
+      "items": [
+        {
+          "id": "item-53983634-017e-4384-aa26-812d3b84f6b2",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ATESTIGUAMIENTO DEL PROCEDIMIENTO DE LICITACI?N P?BLICA INTERNACIONAL, RELATIVA AL SISTEMA DE PRECARGA E INSTRUMENTACI?N GEOT?CNICA, INFRAESTRUCTURA, ESTRUCTURA DE PAVIMENTOS Y OBRA CIVIL DE AYUDAS VISUALES PARA LA NAVEGACI?N DE LA PISTA 3",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 687330.5
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-4d76b436-d046-495d-92ba-cf02be96a953",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-b048b750-edba-416a-8fa5-02408581a9fd",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16054-AD-AS-DCAGI-SC-054-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-30T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-06-30T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "DISTRITO FEDERAL",
+            "locality": "PEDREGAL DE CARRASCO",
+            "postalCode": "04700",
+            "streetAddress": "RINCONADA COLONIAL ED LIMA 003",
+            "region": "COYOC?N"
+          },
+          "contactPoint": {
+            "email": "xx@yy.zz",
+            "name": "JOSE GENARO RUIZ GOMEZ"
+          },
+          "identifier": {
+            "id": "RUGG460126GF2",
+            "legalName": "JOSE GENARO RUIZ GOMEZ"
+          },
+          "name": "JOSE GENARO RUIZ GOMEZ"
+        }
+      ]
+    }
+  ]
+}

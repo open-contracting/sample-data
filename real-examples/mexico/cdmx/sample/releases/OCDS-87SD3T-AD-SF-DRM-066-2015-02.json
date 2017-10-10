@@ -1,0 +1,365 @@
+{
+  "buyer": {
+    "contactPoint": {
+      "faxNumber": null,
+      "url": "http://WWW.FINANZAS.DF.GOB.MX",
+      "telephone": "51342500",
+      "name": "MIGUEL ANGEL VIDAL FRANCO",
+      "email": "mvidal@finanzas.df.gob.mx"
+    },
+    "address": {
+      "countryName": "MX",
+      "locality": "DISTRITO FEDERAL",
+      "region": "DF",
+      "streetAddress": "DR. LAVISTA",
+      "postalCode": "6720"
+    },
+    "name": "SECRETARÍA DE FINANZAS",
+    "identifier": {
+      "id": "GDF9712054NA",
+      "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+    }
+  },
+  "ocid": "OCDS-87SD3T-AD-SF-DRM-066-2015",
+  "contracts": [
+    {
+      "valueyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "description": "200 COMPUTADORAS PORTÁTILES Y 872 PC ESCRITORIO",
+      "implementation": {
+        "milestones": [],
+        "transactions": [
+          {
+            "id": "CLC0010000010-2016",
+            "amount": {
+              "dateexchangeRate": "2016-04-08T00:00:00-06:00",
+              "amount": 255821.76,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "FOS000306HXA",
+              "legalName": "Focus On Services S.A. de C.V.",
+              "uri": null
+            },
+            "date": "2016-04-08T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010000028-2016",
+            "amount": {
+              "dateexchangeRate": "2016-04-14T00:00:00-06:00",
+              "amount": 255821.76,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "FOS000306HXA",
+              "legalName": "Focus On Services S.A. de C.V.",
+              "uri": null
+            },
+            "date": "2016-04-14T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010000152-2016",
+            "amount": {
+              "dateexchangeRate": "2016-05-06T00:00:00-06:00",
+              "amount": 255821.76,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "FOS000306HXA",
+              "legalName": "Focus On Services S.A. de C.V.",
+              "uri": null
+            },
+            "date": "2016-05-06T00:00:00-06:00"
+          }
+        ],
+        "documents": []
+      },
+      "dateSigned": "2015-12-30T00:00:00-06:00",
+      "documents": [
+        {
+          "id": "1",
+          "title": "CONTRATO CA-001/2016",
+          "datePublished": "2015-12-30T00:00:00-06:00",
+          "language": "es",
+          "format": "application/pdf",
+          "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_ca_001_2016_20160616_125555.pdf"
+        }
+      ],
+      "id": "1",
+      "title": "CA-001/2016",
+      "multiYear": false,
+      "items": [
+        {
+          "id": "10",
+          "description": "COMPUTADORA PORTATIL TIPO 1",
+          "quantity": 200,
+          "unit": {
+            "name": "SER"
+          }
+        },
+        {
+          "id": "20",
+          "description": "COMPUTADORA PERSONAL TIPO 1",
+          "quantity": 872,
+          "unit": {
+            "name": "SER"
+          }
+        }
+      ],
+      "period": {
+        "startDate": "2016-01-01T00:00:00-06:00",
+        "endDate": "2016-03-31T00:00:00-06:00"
+      },
+      "value": {
+        "dateexchangeRate": null,
+        "amount": 767465.28,
+        "currency": "MXN"
+      },
+      "status": "active",
+      "awardID": "1"
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "uid": "0901",
+      "uri": "http://www.finanzas.df.gob.mx/",
+      "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+      "name": "CDMX-SEFIN"
+    },
+    "publishedDate": "2017-10-10T00:00:00-06:00",
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-AD-SF-DRM-066-2015"
+  },
+  "tender": {
+    "awardCriteriaDetails": null,
+    "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+    "awardCriteria": "bestValueToGovernment",
+    "description": "200 COMPUTADORAS PORTÁTILES Y 872 PC ESCRITORIO",
+    "hasEnquiries": true,
+    "submissionMethod": [
+      "written"
+    ],
+    "awardPeriod": {
+      "startDate": "2015-12-30T00:00:00-06:00",
+      "endDate": "2015-12-30T00:00:00-06:00"
+    },
+    "procurementMethodRationale": "DE CONFORMIDAD CON EL ARTICULO 54 FRACCION II BIS Y ANTEPENULTIMO PARRAFO DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL",
+    "documents": [
+      {
+        "id": "1",
+        "title": "REQUISICION 039",
+        "datePublished": "2015-12-22T00:00:00-06:00",
+        "language": "es",
+        "format": "application/pdf",
+        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_039_20160615_163503.pdf"
+      }
+    ],
+    "id": "OCDS-87SD3T-AD-SF-DRM-066-2015",
+    "numberOfTenderers": 1,
+    "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+    "submissionmethoddetails": "PROPUESTA ECONOMICA DEL PRESTADOR DE SERVICIO Y COSTO BENEFICIO",
+    "tenderPeriod": {
+      "startDate": "2015-12-22T00:00:00-06:00",
+      "endDate": "2015-12-23T00:00:00-06:00"
+    },
+    "enquiryPeriod": {
+      "startDate": null,
+      "endDate": null
+    },
+    "tenderers": [
+      {
+        "contactPoint": {
+          "faxNumber": null,
+          "url": null,
+          "telephone": "56873040",
+          "name": "JUAN GABRIEL STUBBE TORRES",
+          "email": null
+        },
+        "address": {
+          "countryName": "MX",
+          "locality": "Gustavo A. Madero",
+          "region": "DF",
+          "streetAddress": "Lagos de Moreno",
+          "postalCode": "7510"
+        },
+        "name": "Focus On Services S.A. de C.V.",
+        "identifier": {
+          "id": "FOS000306HXA",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        }
+      }
+    ],
+    "items": [
+      {
+        "id": "1",
+        "description": "COMPUTADORA PORTATIL TIPO 1",
+        "quantity": 200,
+        "unit": {
+          "name": "SER"
+        }
+      },
+      {
+        "id": "2",
+        "description": "COMPUTADORA PERSONAL TIPO 1",
+        "quantity": 872,
+        "unit": {
+          "name": "SER"
+        }
+      }
+    ],
+    "value": {
+      "amount": 767465.28,
+      "currency": "MXN"
+    },
+    "procurementMethod": "selective",
+    "status": "complete",
+    "procuringEntity": {
+      "contactPoint": {
+        "faxNumber": null,
+        "url": "http://WWW.FINANZAS.DF.GOB.MX",
+        "telephone": "51342500",
+        "name": "PEDRO JESUS LARA LASTRA",
+        "email": "plara@finanzas.df.gob.mx"
+      },
+      "address": {
+        "countryName": "MX",
+        "locality": "MÉXICO D. F.",
+        "region": "DF",
+        "streetAddress": "DR. LAVISTA",
+        "postalCode": "6720"
+      },
+      "name": "SECRETARÍA DE FINANZAS",
+      "identifier": {
+        "id": "GDF9712054NA",
+        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+      }
+    }
+  },
+  "id": "02",
+  "initiationType": "tender",
+  "tag": [
+    "tender"
+  ],
+  "planning": {
+    "budget": {
+      "amountyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "project": "AUTORIZACIÓN PRESUPUESTAL SPP-043-2016",
+      "amount": {
+        "amount": 767465.28,
+        "currency": "MXN"
+      },
+      "description": null,
+      "multiYear": false
+    },
+    "documents": [
+      {
+        "id": "1",
+        "title": "AUTORIZACION PREVIA Y RATIFICACION 043",
+        "datePublished": "2016-01-29T00:00:00-06:00",
+        "language": "es",
+        "format": "application/pdf",
+        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizaci%c3%b3n_043_20160617_192909.pdf"
+      }
+    ]
+  },
+  "date": "2017-06-05T00:00:00-06:00",
+  "language": "es",
+  "awards": [
+    {
+      "id": "1",
+      "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+      "description": "200 COMPUTADORAS PORTÁTILES Y 872 PC ESCRITORIO",
+      "suppliers": [
+        {
+          "contactPoint": {
+            "faxNumber": null,
+            "url": null,
+            "telephone": "56873040",
+            "name": "JUAN GABRIEL STUBBE TORRES",
+            "email": null
+          },
+          "address": {
+            "countryName": "MX",
+            "locality": "Gustavo A. Madero",
+            "region": "DF",
+            "streetAddress": "Lagos de Moreno",
+            "postalCode": "7510"
+          },
+          "name": "Focus On Services S.A. de C.V.",
+          "identifier": {
+            "id": "FOS000306HXA",
+            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+          }
+        }
+      ],
+      "multiYear": false,
+      "date": "2015-12-30T00:00:00-06:00",
+      "items": [
+        {
+          "id": "10",
+          "description": "COMPUTADORA PORTATIL TIPO 1",
+          "quantity": 200,
+          "unit": {
+            "name": "SER"
+          }
+        },
+        {
+          "id": "20",
+          "description": "COMPUTADORA PERSONAL TIPO 1",
+          "quantity": 872,
+          "unit": {
+            "name": "SER"
+          }
+        }
+      ],
+      "valueyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "value": {
+        "dateexchangeRate": "2016-03-04T00:00:00-06:00",
+        "amount": 767465.28,
+        "currency": "MXN",
+        "exchangeRate": 1
+      },
+      "status": "pending",
+      "documents": [
+        {
+          "id": "1",
+          "title": "OFICIO DE ADJUDICACION 4132",
+          "datePublished": "2015-12-30T00:00:00-06:00",
+          "language": "es",
+          "format": "application/pdf",
+          "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_4132_20160615_163540.pdf"
+        },
+        {
+          "id": "2",
+          "title": "ESTUDIO DE PRECIOS",
+          "datePublished": "2015-12-23T00:00:00-06:00",
+          "language": "es",
+          "format": "application/pdf",
+          "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/estudio_precios_20160818_180049.pdf"
+        }
+      ]
+    }
+  ]
+}

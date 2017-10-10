@@ -1,0 +1,383 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-12-21T06:00:00.000Z",
+        "endDate": "2016-12-30T06:00:00.000Z"
+      },
+      "title": "ADQUISICION DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+      "id": "LPN-AB-DCAGI-SC-096-16",
+      "awardID": "LA-009KDH999-E152-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-30273bff-db21-4abb-91b5-c2a54efa9f2e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-20T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-20T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-7b862fd8-7476-4517-b96d-d8ae8b3d6fa1",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-20T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-20T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-41c58cb5-5cb5-4692-b155-266c31aea70b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-12-20T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-20T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-92a2848b-6180-465f-8a3a-c86bf0fa0e84",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-12-20T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-20T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 156393.6
+      },
+      "items": [
+        {
+          "id": "item-ae24ffa1-ec0a-43d7-96e6-798cf9ca9b46",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ADQUISICI?N DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 156393.6
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-d73c1f6a-dcf4-4398-9853-428ab4077627"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "PFM891014836",
+              "legalName": "PL?STICOS Y FERTILIZANTES DE MORELOS, S.A. DE C.V.",
+              "scheme": "PL?STICOS Y FERTILIZANTES DE MORELOS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-AB-DCAGI-SC-096-16 ADQUISICI?N DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+            "id": "milestone-32f3a097-85b9-46ba-9a09-c617ff47e94d",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-12-21T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.950Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-12-02T06:00:00.000Z",
+      "endDate": "2016-12-14T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "01 LICITACION PUBLICA NACIONAL LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 3698023.28
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "ADQUISICI?N DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-7de19454-31a6-4e47-870a-ee8eeaf108e2",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-12-20T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-12-20T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-ee8fc37a-0d53-4872-8e56-13be9e116ff1",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-707cb612-eecf-4233-b119-a1dbaecbee70",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c64f8062-354c-4b3d-b0b0-bffd5785b607",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-9208d544-5ab4-4410-9e77-0a5d00dd4d86",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-d1a8609b-9e5a-4b94-b3de-42450ff9c28b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-12-02T06:00:00.000Z",
+      "endDate": "2016-12-14T06:00:00.000Z"
+    },
+    "id": "1223306",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-77885a8f-0924-4ae5-83f7-fa499cc392b6",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ADQUISICI?N DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 156393.6
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-12-07T06:00:00.000Z",
+      "endDate": "2016-12-14T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 3698023.28
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-602fd677-ca46-4bff-befd-536db2534b75",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-12-20T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-12-20T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ADQUISICI?N DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_463_2017-10-04T00:53:18.947Z",
+  "ocid": "463",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ADQUISICI?N DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+      "id": "LA-009KDH999-E152-2016",
+      "contractPeriod": {
+        "startDate": "2016-12-21T06:00:00.000Z",
+        "endDate": "2016-12-30T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 156393.6
+      },
+      "items": [
+        {
+          "id": "item-1c31f1d6-b578-4fc8-bc90-5910670c33b0",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ADQUISICI?N DE MATERIALES Y HERRAMIENTAS MENORES PARA EL PROGRAMA DE EMPLEO TEMPORAL (PET)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 156393.6
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-63721da8-1f55-45ee-8919-14e6096ea510",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-12-20T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-20T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-acac0b36-e2af-44bd-b1f1-05a552542cb8",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16096-LPN-AB-DCAGI-SC-096-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-12-20T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-20T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-12-20T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "NUNICIPIO DE CUAUTLA",
+            "locality": "GUADALUPE INN",
+            "postalCode": "62757",
+            "streetAddress": "CARRETERA FEDERAL MEXICO CUAUTLA 151 NAVE C 17",
+            "region": "TETELCINGO"
+          },
+          "contactPoint": {
+            "email": "HECTOR.MORALES@PLASTICOS.COM",
+            "name": "HECTOR MIGUEL MORALES RODRIGUEZ"
+          },
+          "identifier": {
+            "id": "PFM891014836",
+            "legalName": "PL?STICOS Y FERTILIZANTES DE MORELOS, S.A. DE C.V."
+          },
+          "name": "PL?STICOS Y FERTILIZANTES DE MORELOS, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

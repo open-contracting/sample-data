@@ -1,0 +1,523 @@
+{
+  "buyer": {
+    "contactPoint": {
+      "faxNumber": "5134-2500",
+      "url": "http://WWW.FINANZAS.DF.GOB.MX",
+      "telephone": "5134-2500",
+      "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+      "email": "mvidal@finanzas.df.gob.mx"
+    },
+    "address": {
+      "countryName": "MX",
+      "locality": "MÉXICO D. F.",
+      "region": "DF",
+      "streetAddress": "DR. LAVISTA",
+      "postalCode": "6720"
+    },
+    "name": "SECRETARÍA DE FINANZAS",
+    "identifier": {
+      "id": "GDF9712054NA",
+      "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+    }
+  },
+  "ocid": "OCDS-87SD3T-AD-SF-DRM-063-2015",
+  "contracts": [
+    {
+      "valueyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "description": "471 COMPUTADORA PORTÁTIL",
+      "implementation": {
+        "milestones": [],
+        "transactions": [
+          {
+            "id": "CLC0010000009-2016",
+            "amount": {
+              "dateexchangeRate": "2016-04-08T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-04-08T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010000247-2016",
+            "amount": {
+              "dateexchangeRate": "2016-05-24T00:00:00-06:00",
+              "amount": 218544,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-05-24T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010000588-2016",
+            "amount": {
+              "dateexchangeRate": "2016-06-02T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-06-02T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010001011-2016",
+            "amount": {
+              "dateexchangeRate": "2016-07-07T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-07-07T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010001980-2016",
+            "amount": {
+              "dateexchangeRate": "2016-08-03T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-08-03T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010002982-2016",
+            "amount": {
+              "dateexchangeRate": "2016-09-08T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-09-08T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010004338-2016",
+            "amount": {
+              "dateexchangeRate": "2016-10-11T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-10-11T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010005680-2016",
+            "amount": {
+              "dateexchangeRate": "2016-11-08T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2016-11-08T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010008950-2016",
+            "amount": {
+              "dateexchangeRate": "2016-01-06T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2017-01-04T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010012175-2016",
+            "amount": {
+              "dateexchangeRate": "2016-01-08T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2017-01-05T00:00:00-06:00"
+          },
+          {
+            "id": "CLC0010017306-2016",
+            "amount": {
+              "dateexchangeRate": "2016-01-18T00:00:00-06:00",
+              "amount": 109272,
+              "currency": "MXN"
+            },
+            "providerOrganization": {
+              "id": "0901",
+              "legalName": "SECRETARÍA DE FINANZAS",
+              "uri": null
+            },
+            "receiverOrganization": {
+              "id": "C&C021030KX2",
+              "legalName": "COMUNIC@RTE & CONSULTING SA DE CV",
+              "uri": null
+            },
+            "date": "2017-02-14T00:00:00-06:00"
+          }
+        ],
+        "documents": []
+      },
+      "dateSigned": "2015-12-30T00:00:00-06:00",
+      "documents": [
+        {
+          "id": "1",
+          "title": "CONTRATO CA-004/2016",
+          "datePublished": "2015-12-30T00:00:00-06:00",
+          "language": "es",
+          "format": "application/pdf",
+          "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_ca_004_2016_20160616_125407.pdf"
+        }
+      ],
+      "id": "1",
+      "title": "CA-004/2016",
+      "multiYear": false,
+      "items": [
+        {
+          "id": "10",
+          "description": "COMPUTADORA PORTATIL TIPO 1",
+          "quantity": 471,
+          "unit": {
+            "name": "SER"
+          }
+        }
+      ],
+      "period": {
+        "startDate": "2016-01-01T00:00:00-06:00",
+        "endDate": "2016-12-31T00:00:00-06:00"
+      },
+      "value": {
+        "dateexchangeRate": "2016-03-09T00:00:00-06:00",
+        "amount": 1311264,
+        "currency": "MXN",
+        "exchangeRate": 1
+      },
+      "status": "active",
+      "awardID": "1"
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "uid": "0901",
+      "uri": "http://www.finanzas.df.gob.mx/",
+      "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+      "name": "CDMX-SEFIN"
+    },
+    "publishedDate": "2017-10-10T00:00:00-06:00",
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-AD-SF-DRM-063-2015"
+  },
+  "tender": {
+    "awardCriteriaDetails": "MEJORES CONDICIONES EN CUANTO A PRECIO, OPORTUNIDAD Y CALIDAD",
+    "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+    "awardCriteria": "bestValueToGovernment",
+    "description": "471 COMPUTADORA PORTÁTIL",
+    "hasEnquiries": true,
+    "submissionMethod": [
+      "written"
+    ],
+    "awardPeriod": {
+      "startDate": "2015-12-30T00:00:00-06:00",
+      "endDate": "2015-12-30T00:00:00-06:00"
+    },
+    "procurementMethodRationale": "DE CONFORMIDAD CON EL ARTICULO 54 FRACCION II BIS Y ANTEPENULTIMO PARRAFO DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL",
+    "documents": [
+      {
+        "id": "1",
+        "title": "REQUISICION 038",
+        "datePublished": "2015-12-22T00:00:00-06:00",
+        "language": "es",
+        "format": "application/pdf",
+        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_038_20160615_105125.pdf"
+      }
+    ],
+    "id": "OCDS-87SD3T-AD-SF-DRM-063-2015",
+    "numberOfTenderers": 2,
+    "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+    "submissionmethoddetails": "PROPUESTA ECONOMICA DEL PRESTADOR DE SERVICIO Y COSTO BENEFICIO PROPUESTA ECONOMICA DEL PRESTADOR DE SERVICIO Y COSTO BENEFICIO",
+    "tenderPeriod": {
+      "startDate": "2015-12-22T00:00:00-06:00",
+      "endDate": "2015-12-22T00:00:00-06:00"
+    },
+    "enquiryPeriod": {
+      "startDate": null,
+      "endDate": null
+    },
+    "tenderers": [
+      {
+        "contactPoint": {
+          "faxNumber": "5532-8810",
+          "url": "http://WWW.COMUNICARTEC.COM.MX",
+          "telephone": "5532-8810",
+          "name": "JUAN MANUEL ROJAS MEZA",
+          "email": "anunez@comunicartec.com,mx"
+        },
+        "address": {
+          "countryName": "MX",
+          "locality": "BANJIDAL IZTAPALAPA",
+          "region": "DF",
+          "streetAddress": "SUR 69A",
+          "postalCode": "9450"
+        },
+        "name": "COMUNIC@RTE & CONSULTING SA DE CV",
+        "identifier": {
+          "id": "C&C021030KX2",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        }
+      },
+      {
+        "contactPoint": {
+          "faxNumber": null,
+          "url": null,
+          "telephone": "51320830",
+          "name": "RENE CLARA HERNANDEZ",
+          "email": "vespeciales@pascual.com.mx"
+        },
+        "address": {
+          "countryName": "MX",
+          "locality": "MUNICIPIO NEZAHUALCOYOTL",
+          "region": "MEX",
+          "streetAddress": "VALLE FERTIL NUM 179",
+          "postalCode": "57100"
+        },
+        "name": "SERVICIO Y DISTRIBUIDORA",
+        "identifier": {
+          "id": "SCT8411179Q4",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        }
+      }
+    ],
+    "items": [
+      {
+        "id": "1",
+        "description": "COMPUTADORA PORTATIL TIPO 1",
+        "quantity": 471,
+        "unit": {
+          "name": "SER"
+        }
+      }
+    ],
+    "value": {
+      "amount": 1311264,
+      "currency": "MXN"
+    },
+    "procurementMethod": "selective",
+    "status": "planned",
+    "procuringEntity": {
+      "contactPoint": {
+        "faxNumber": "5134-2500",
+        "url": "http://WWW.FINANZAS.DF.GOB.MX",
+        "telephone": "5134-2500",
+        "name": "PEDRO JESÚS LARA LASTRA",
+        "email": "plara@finanzas.df.gob.mx"
+      },
+      "address": {
+        "countryName": "MX",
+        "locality": "MÉXICO D. F.",
+        "region": "DF",
+        "streetAddress": "DR. LAVISTA",
+        "postalCode": "6720"
+      },
+      "name": "SECRETARÍA DE FINANZAS",
+      "identifier": {
+        "id": "GDF9712054NA",
+        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+      }
+    }
+  },
+  "id": "02",
+  "initiationType": "tender",
+  "tag": [
+    "tender"
+  ],
+  "planning": {
+    "budget": {
+      "amountyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "project": "AUTORIZACIÓN PRESUPUESTAL SPP-045-2016",
+      "amount": {
+        "amount": 1311264,
+        "currency": "MXN"
+      },
+      "description": null,
+      "multiYear": false
+    },
+    "documents": [
+      {
+        "id": "1",
+        "title": "AUTORIZACION PREVIA",
+        "datePublished": "2015-12-16T00:00:00-06:00",
+        "language": "es",
+        "format": "application/pdf",
+        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_previa_20160617_200053.pdf"
+      },
+      {
+        "id": "2",
+        "title": "AUTORIZACION PREVIA Y RATIFICACION 045",
+        "datePublished": "2016-01-29T00:00:00-06:00",
+        "language": "es",
+        "format": "application/pdf",
+        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizaci%c3%b3n_045_20160617_192145.pdf"
+      }
+    ]
+  },
+  "date": "2017-06-05T00:00:00-06:00",
+  "language": "es",
+  "awards": [
+    {
+      "id": "1",
+      "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+      "description": "471 COMPUTADORA PORTÁTIL",
+      "suppliers": [
+        {
+          "contactPoint": {
+            "faxNumber": "5532-8810",
+            "url": "http://WWW.COMUNICARTEC.COM.MX",
+            "telephone": "5532-8810",
+            "name": "JUAN MANUEL ROJAS MEZA",
+            "email": "anunez@comunicartec.com,mx"
+          },
+          "address": {
+            "countryName": "MX",
+            "locality": "BANJIDAL IZTAPALAPA",
+            "region": "DF",
+            "streetAddress": "SUR 69A",
+            "postalCode": "9450"
+          },
+          "name": "COMUNIC@RTE & CONSULTING SA DE C",
+          "identifier": {
+            "id": "C&C021030KX2",
+            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+          }
+        }
+      ],
+      "multiYear": false,
+      "date": "2015-12-30T00:00:00-06:00",
+      "items": [
+        {
+          "id": "10",
+          "description": "COMPUTADORA PORTATIL TIPO 1",
+          "quantity": 471,
+          "unit": {
+            "name": "SER"
+          }
+        }
+      ],
+      "valueyear": {
+        "amount": 0,
+        "currency": null
+      },
+      "value": {
+        "dateexchangeRate": "2016-03-09T00:00:00-06:00",
+        "amount": 1311264,
+        "currency": "MXN",
+        "exchangeRate": 1
+      },
+      "status": "active",
+      "documents": [
+        {
+          "id": "1",
+          "title": "OFICIO DE ADJUDICACION 4131",
+          "datePublished": "2015-12-30T00:00:00-06:00",
+          "language": "es",
+          "format": "application/pdf",
+          "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_4131_20160615_105206.pdf"
+        },
+        {
+          "id": "2",
+          "title": "ESTUDIO DE PRECIOS",
+          "datePublished": "2015-12-22T00:00:00-06:00",
+          "language": "es",
+          "format": "application/pdf",
+          "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/estudio_precios_20160818_175936.pdf"
+        }
+      ]
+    }
+  ]
+}

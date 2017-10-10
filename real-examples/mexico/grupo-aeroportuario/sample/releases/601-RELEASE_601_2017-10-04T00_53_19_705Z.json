@@ -1,0 +1,369 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-01-23T06:00:00.000Z",
+        "endDate": "2019-07-11T05:00:00.000Z"
+      },
+      "title": "SUPERVISION DEL DESARROLLO DE INGENIERIA DETALLE Y CONSTRUCCION DE SUBESTACIONES Y ACOMETIDA ELECTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO (NAICM)",
+      "id": "AD-SRO-CONV-DCAGI-SC-002-17",
+      "awardID": "0",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-d13cf76f-6eb3-4be6-ac57-381848ddd36d",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-23T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-23T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c132586c-80ac-46eb-87f3-b02d8040e322",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-23T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-23T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-31f95338-1c13-404e-8b8c-639c92c8a5b1",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-01-23T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-23T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-7b894d1f-0198-445e-9058-ace69225bc2f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-01-23T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-23T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 21424708.65
+      },
+      "items": [
+        {
+          "id": "item-550f7f3a-9ce6-4c40-984e-b7640b7c01f3",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SUPERVISI?N DEL DESARROLLO DE INGENIER?A DETALLE Y CONSTRUCCI?N DE SUBESTACIONES Y ACOMETIDA EL?CTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 21424708.65
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-f17cea6e-7430-40ab-94ea-2e6e2cb6a1d5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CFE370814QI0",
+              "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD",
+              "scheme": "COMISI?N FEDERAL DE ELECTRICIDAD"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-CONV-DCAGI-SC-002-17 SUPERVISI?N DEL DESARROLLO DE INGENIER?A DETALLE Y CONSTRUCCI?N DE SUBESTACIONES Y ACOMETIDA EL?CTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+            "id": "milestone-9e740325-dcc2-49f1-999e-5f619c0e65b0",
+            "dueDate": "2017-10-02T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-10-02T05:00:00.000Z",
+            "description": "10.12%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-01-23T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.709Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "22 ADJUDICACION DIRECTA NACIONAL ART. 43 LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 21424708.65
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SUPERVISI?N DEL DESARROLLO DE INGENIER?A DETALLE Y CONSTRUCCI?N DE SUBESTACIONES Y ACOMETIDA EL?CTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)n",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-ea5c0bd6-6158-4075-88d8-b8e032511253",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/9.-%20AJ/9.pdf",
+        "datePublished": "2017-01-23T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-23T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-b83a7f7b-6d1a-4fd1-babd-080c95d21d05",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-53dda569-5bc2-4b2c-9b09-50bac79fba8b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-dc086e53-7073-49c4-837e-85473b132270",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-c08de0db-ebde-457d-864a-c1392bb1fa0e",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-e2d68739-14f7-477d-a066-7240c8447497",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-23T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-23T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "0",
+    "items": [
+      {
+        "id": "item-a05455f3-2120-4b65-b249-a412daa8089b",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SUPERVISI?N DEL DESARROLLO DE INGENIER?A DETALLE Y CONSTRUCCI?N DE SUBESTACIONES Y ACOMETIDA EL?CTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 21424708.65
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 21424708.65
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-18f51a7c-00a9-433b-8519-844ca309ac7b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/4.-%20TR/4.pdf",
+        "datePublished": "2017-01-23T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-23T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SUPERVISI?N DEL DESARROLLO DE INGENIER?A DETALLE Y CONSTRUCCI?N DE SUBESTACIONES Y ACOMETIDA EL?CTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)"
+  },
+  "date": "2017-09-27T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_601_2017-10-04T00:53:19.705Z",
+  "ocid": "601",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SUPERVISI?N DEL DESARROLLO DE INGENIER?A DETALLE Y CONSTRUCCI?N DE SUBESTACIONES Y ACOMETIDA EL?CTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+      "id": "0",
+      "contractPeriod": {
+        "startDate": "2017-01-23T06:00:00.000Z",
+        "endDate": "2019-07-11T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 21424708.65
+      },
+      "items": [
+        {
+          "id": "item-625d1eac-09a4-4d5f-a41c-bf55c9f01334",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SUPERVISI?N DEL DESARROLLO DE INGENIER?A DETALLE Y CONSTRUCCI?N DE SUBESTACIONES Y ACOMETIDA EL?CTRICA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 21424708.65
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-7c2404f0-af9a-4cf0-95cd-bb4f266aa875",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/12.-%20AF/12.pdf",
+          "datePublished": "2017-01-23T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-23T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9ea4833e-4d93-44f1-b87a-b35cbf06ce65",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17002-AD-SRO-CONV-DCAGI-SC-002-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-01-23T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-23T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-01-23T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "JUAREZ",
+            "postalCode": "11320",
+            "streetAddress": "PASEO DE LA REFORMA 164",
+            "region": "CUAUTHEMOC"
+          },
+          "contactPoint": {
+            "email": "CARLOS.MENDOZA@CFE.COM",
+            "name": "RENE MENDOZA"
+          },
+          "identifier": {
+            "id": "CFE370814QI0",
+            "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD"
+          },
+          "name": "COMISI?N FEDERAL DE ELECTRICIDAD"
+        }
+      ]
+    }
+  ]
+}

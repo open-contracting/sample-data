@@ -1,0 +1,384 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-06-02T05:00:00.000Z",
+        "endDate": "2017-06-02T05:00:00.000Z"
+      },
+      "title": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., en materil, comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional",
+      "id": "ITP-AS-DCAGI-SC-036-16",
+      "awardID": "IA-009KDH999-E77-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-ed310a00-ee80-42e5-99b1-fcc077860b98",
+          "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-01T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-01T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-e5bff2db-37c7-4b52-93f1-1caff8c8b15f",
+          "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-01T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-01T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-ebb42371-5dbc-43e9-a383-727e68565c8e",
+          "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-01T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-01T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-76759174-405f-41ac-95be-ef53cc2ac00e",
+          "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-01T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-01T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 16994000
+      },
+      "items": [
+        {
+          "id": "item-6b257f04-f550-4e9b-88bb-13706b0b8276",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., enmateria de comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 16994000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-e0811b92-4828-4b5f-a2b7-5a9aaf0c6af5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "JONES DAY MEXICO, S.C.",
+              "scheme": "JONES DAY MEXICO, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-036-16 SERV PROF ESPE DE CONSUL,  ASESORIA Y ACOMPA?AMIENTO A GACM, EN MAT DE INFRAES, DERECHO AMBIENTAL, LABORAL, MERCANTIL, CIVIL, ENERGETICO, INMOB, SEG SOCIAL, COMER EXTERIOR, PROPIEDAD INT E INDUS, COMPETENCIA ECONOMICA Y NEGOCIACION INTER",
+            "id": "milestone-88084faf-23fe-4886-9566-8bf6fe06f433",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-06-02T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.818Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., en materil, comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional",
+    "awardPeriod": {
+      "startDate": "2016-05-27T05:00:00.000Z",
+      "endDate": "2016-05-31T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 19720000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., en materil, comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-05b0a42c-29cd-493a-9893-fd654b5b6b16",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-d5e190dc-00ed-4f79-bf05-e60b791b9784",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-b20fabad-c3a9-423f-a734-0cc2ddc8e677",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-a01574e2-d72b-471f-9e87-fc1c0e4c76ed",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-f6553e91-8883-4623-b87b-c3af8e161689",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-e25fcc2c-b1dc-4a08-8e7f-8c09fb28e508",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-05-27T05:00:00.000Z",
+      "endDate": "2016-05-31T05:00:00.000Z"
+    },
+    "id": "1071959?",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-3cbb4cf5-0eb7-4ab7-8673-1a52f3bbf53d",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., enmateria de comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 16994000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 19720000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-2c1ae7c8-348e-418b-81f7-099226ed14ae",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-63bef5ae-60b0-4ac2-9a4f-1db89111b596",
+        "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-01T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-01T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., en materil, comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_306_2017-10-04T00:53:17.811Z",
+  "ocid": "306",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., en materil, comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional",
+      "id": "IA-009KDH999-E77-2016",
+      "contractPeriod": {
+        "startDate": "2016-06-02T05:00:00.000Z",
+        "endDate": "2017-06-02T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 16994000
+      },
+      "items": [
+        {
+          "id": "item-19452eb5-2c82-4422-9538-7455eb922ce6",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios profesionales especializados de consultoria, asesoria y acompanamiento a Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V., enmateria de comercio exterior, propiedad intelectual e industrial, competencia economica y negociacion internacional",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 16994000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-d6b50bf0-81c5-4963-bcf4-5a16f4ded9f1",
+          "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-01T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-01T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-c24f3f32-561b-430d-8704-46a51602f5f5",
+          "url": "http://189.211.120.220:8880/files/opendata/16036-ITP-AS-DCAGI-SC-036-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-01T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-01T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-06-01T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Juarez",
+            "postalCode": "06600",
+            "streetAddress": "Avenida Paseo de la Reforma 342, piso 30",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "JDM081219F61",
+            "legalName": "Jones Day Mexico, S.C."
+          },
+          "name": "Jones Day Mexico, S.C."
+        }
+      ]
+    }
+  ]
+}

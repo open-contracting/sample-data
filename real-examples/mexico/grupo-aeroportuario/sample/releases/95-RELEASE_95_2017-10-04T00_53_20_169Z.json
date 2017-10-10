@@ -1,0 +1,385 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2014-12-05T06:00:00.000Z",
+        "endDate": "2014-12-31T06:00:00.000Z"
+      },
+      "title": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V.",
+      "id": "ITP-S-DCAGI--SC-007/2014",
+      "awardID": "IA-009KDH999-N6-2014",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-83507141-4c11-4c95-8c02-1e18efff4f42",
+          "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-93978199-bf23-4bd9-84ca-aea74d68df7f",
+          "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-18cf6319-b9df-45b9-b8ef-afa7f9a395a7",
+          "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/17.-%20GA/17.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-751f5316-4446-4fc7-8ae5-65290e9b74be",
+          "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/18.-%20GC/18.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 2481886.09
+      },
+      "items": [
+        {
+          "id": "item-f9a21845-2923-484c-b212-c37a010057dd",
+          "classification": {
+            "id": "3510",
+            "scheme": "CONSERVACION Y MANTENIMIENTO MENOR DE INMUEBLES"
+          },
+          "quantity": 1,
+          "description": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 2481886.09
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-d39f0276-de61-4fed-a767-8b67c463b44d"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "RTE110519GA9",
+              "legalName": "RIBUS TECH, S.A. DE C.V.",
+              "scheme": "RIBUS TECH, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-S-DCAGI-SC-007/2014 SERVICIO DE MANTENIMIENTO, SUMINISTRO, INSTALACI?N Y PUESTA EN OPERACI?N EN LAS INSTALACIONES DE VOZ, DATOS Y ELECTRICIDAD EN LAS OFICINAS DE GACM",
+            "id": "milestone-adc8fb57-4224-44ce-b1c5-d53c86770f18",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2014-12-05T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:20.173Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V.",
+    "awardPeriod": {
+      "endDate": "2014-12-04T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 2481886.09
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-ce1d401a-fe0c-4092-a01b-4f4bb1481a20",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/9.-%20AJ/9.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-fd782f76-fa84-4a06-987d-4531e0d34419",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-5db6b5e5-2f99-4034-9d40-5c91aa7d31d9",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-f47ad8a3-84d2-4bfa-b1c8-3f83cb6cc7e8",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1a46d346-2872-4d1e-9ff7-28f5a9d75c40",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-b59094b3-4861-4bf7-819c-430417e6a11a",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2014-12-04T06:00:00.000Z"
+    },
+    "id": "722715",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-3ffd5c50-4df1-453c-b40c-32fb8ad178a5",
+        "classification": {
+          "id": "3510",
+          "scheme": "CONSERVACION Y MANTENIMIENTO MENOR DE INMUEBLES"
+        },
+        "quantity": 1,
+        "description": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 2481886.09
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2014-12-02T06:00:00.000Z",
+      "endDate": "2014-12-02T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "MANTENIMIENTO Y CONSERVACION DE INMUEBLES PARA LA PRESTACION DE SERVICIOS ADMINISTRATIVOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 2481886.09
+      },
+      "description": "RECURSOS FISCALES",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-feca8598-6b6b-407d-a492-7421baad5192",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/5.-%20IM/5.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-cea4bb5e-fbe7-4c4f-951d-f0c01d9a29e1",
+        "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-12-05T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-12-05T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_95_2017-10-04T00:53:20.169Z",
+  "ocid": "95",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V.",
+      "id": "IA-009KDH999-N6-2014",
+      "contractPeriod": {
+        "startDate": "2014-12-05T06:00:00.000Z",
+        "endDate": "2014-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 2481886.09
+      },
+      "items": [
+        {
+          "id": "item-21e2aa79-69f4-47cb-a3d7-f80cdf8103e3",
+          "classification": {
+            "id": "3510",
+            "scheme": "CONSERVACION Y MANTENIMIENTO MENOR DE INMUEBLES"
+          },
+          "quantity": 1,
+          "description": "Mantenimiento, suministro, instalacion y puesta en operacion de las instalaciones de voz, datos y electricidad en las oficinas del Grupo Aeroportuariode la Ciudad de Mexico, S.A. de C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 2481886.09
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-044c7c2a-10fb-440c-9e3d-f23de529e42c",
+          "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/12.-%20AF/12.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9fb16e14-2633-413a-a673-833128c16892",
+          "url": "http://189.211.120.220:8880/files/opendata/14007-ITP-S-DCAGI-SC-007-14/10.-%20AP/10.pdf",
+          "datePublished": "2014-12-05T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-12-05T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2014-12-05T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Narvarte",
+            "postalCode": "3020",
+            "streetAddress": "Avenida Cuauhtemoc 789",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "RTE110519GA9",
+            "legalName": "RIBUS TECH, S.A. DE C.V."
+          },
+          "name": "RIBUS TECH, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

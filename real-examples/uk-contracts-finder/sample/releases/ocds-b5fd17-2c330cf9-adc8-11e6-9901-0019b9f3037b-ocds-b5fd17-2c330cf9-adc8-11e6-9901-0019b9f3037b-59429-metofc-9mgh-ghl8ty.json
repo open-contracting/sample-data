@@ -1,0 +1,104 @@
+{
+  "buyer": {
+    "id": "sid4gov.cabinetoffice.gov.uk/jK8y8FA9",
+    "name": "MET OFFICE",
+    "address": {
+      "region": null,
+      "streetAddress": "Fitzroy Road  Exeter",
+      "postalCode": " EX1 3PB",
+      "countryName": " United Kingdom",
+      "locality": " Exeter"
+    },
+    "identifier": {
+      "uri": null,
+      "id": "",
+      "legalName": null,
+      "scheme": ""
+    },
+    "contactPoint": {
+      "telephone": "",
+      "email": "trina.briers@metoffice.gov.uk",
+      "name": "Mrs Trina Briers",
+      "faxNumber": null
+    }
+  },
+  "ocid": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b",
+  "packageInfo": {
+    "publisher": {
+      "uri": "https://www.contractsfinder.service.gov.uk",
+      "name": "MET OFFICE",
+      "uid": null,
+      "scheme": "GB-GOVUK-crown_comercial_service"
+    },
+    "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/3503e3f3-1527-4f44-8842-ef73958f8a80.json",
+    "publishedDate": "2014-12-17T16:44:56Z"
+  },
+  "id": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-59429-metofc-9mgh-ghl8ty",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "tender": {
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "uri": "http://cpv.data.ac.uk/code-73000000.html",
+          "id": "73000000",
+          "description": "Research and development services and related consultancy services",
+          "scheme": "CPV"
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "id": 1,
+        "status": null,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2015-04-01T00:00:00Z"
+      },
+      {
+        "id": 2,
+        "status": null,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2016-03-31T00:00:00Z"
+      }
+    ],
+    "title": " Climate Science for Service Partnership (CSSP): Calls for Expressions of Interest ",
+    "supplyChain": false,
+    "awardCriteriaDetails": null,
+    "tenderPeriod": {
+      "endDate": "2015-02-27T00:00:00Z"
+    },
+    "submissionMethod": null,
+    "id": "ocds-b5fd17-2c330cf9-adc8-11e6-9901-0019b9f3037b-metofc-9mgh-ghl8ty",
+    "eligibilityCriteria": null,
+    "status": "unsuccessful",
+    "procurementMethod": null,
+    "xClassifications": {
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works",
+      "isSuitableForVco": false
+    },
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "minValue": {
+      "amount": 40676,
+      "currency": "GBP"
+    },
+    "hasEnquiries": null,
+    "description": " The Met Office has been selected as a Newton Fund Delivery Partner to deliver the Climate Science for Service Partnership.\r\nThe UK leads the world in climate science, and across the research community we have experience in applying climate science to deliver tangible benefits, supporting economic productivity, climate-resilient growth, developing resilience, preparedness and risk reduction.\r\nBy drawing on our National Climate Capability, we plan to keep the UK at the cutting edge and grow partnerships within China and the UK that leverage this leadership, not only for the benefit of UK/China science, but to build capacity in China to develop the services needed to combat the challenges associated with a variable and changing climate, and reduce the exposure of those most vulnerable to its impacts.\r\nThe CSSP-China project aims to build a strong strategic partnership between UK and Chinese climate scientists and through an accelerated and enhanced collaborative science programme develop climate services for China and Asia.\r\nThe partnership will focus on research and innovation, establishing a firm foundation of cutting-edge science that can underpin the development of climate services to support climate-resilient economic development and social welfare.\r\nThe science plan for the CSSP-China is based on existing collaborations over many years, and is consistent with the MOU signed between the Met Office and Institute of Atmospheric Physics (IAP) in January 2013, Met Office and Meteorological Administration (CMA) in March 2014, and builds on the joint research program developed during the Dartington Hall workshop January 2013 and the Guangzhou Workshop February 2014.\r\nWork is currently underway to scope the priority research areas and further details will be made available to all interested parties in due course, please visit our dedicated web page: http://www.metoffice.gov.uk/research/collaboration/cssp-china. \r\nIn advance of this information, the Met Office wish to invite expressions of interest from organisations who have the skills and experience to work with us on a range of prospective research opportunities in one or more of the following areas:\r\n1. Monitoring Attribution and reanalysis\r\n2. Global dynamics of climate and variability change\r\n3. East Asian variability and its predication\r\n4. Development of near-term climate projections\r\n5. Climate Services",
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "documents": [],
+    "value": {
+      "amount": 464500,
+      "currency": "GBP"
+    },
+    "procurementMethodDetails": "Open procedure"
+  },
+  "date": "2014-12-17T16:44:56Z"
+}

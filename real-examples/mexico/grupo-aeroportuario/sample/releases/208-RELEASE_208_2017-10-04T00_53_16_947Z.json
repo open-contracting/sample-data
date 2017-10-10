@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-01-08T06:00:00.000Z",
+        "endDate": "2020-10-20T05:00:00.000Z"
+      },
+      "title": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+      "id": "GACM/DCPEV/SJ/CG/E002-2015 INAP",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9f8aa197-afc9-4c9f-9311-08cab91e4ff2",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-9bc033d6-8c9d-4bc4-b537-597babaa9047",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-9bcdae22-102a-42a6-a06b-bca6e5892b15",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-771f53bb-9757-4d03-9698-8183aff3632d",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "items": [
+        {
+          "id": "item-e21f7079-018b-43f3-9c2c-7b75b40d1c3e",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-226f3807-4285-4f6c-8335-816e0ea825dc"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "INA770420DW1",
+              "legalName": "INSTITUTO NACIONAL DE ADMINISTRACI?N P?BLICA, A,C.",
+              "scheme": "INSTITUTO NACIONAL DE ADMINISTRACI?N P?BLICA, A,C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM-DCPEV-SJ-CG-02-15 ESTUDIO SOBRE LAS ESTRATEGIAS PUBLICAS DE DIVERSAS ADMINISTRACIONES FEDERALES PARA EL DESARROLLO DEL NACIM Y OTRAS HERRAMIENTAS DE ANALISIS HISTORICO DOCUMENTAL",
+            "id": "milestone-21081e82-27f1-4070-bc04-2c4cbe0e4a7f",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-01-08T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.951Z",
+    "publisher": {
+      "uid": "AS",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 0
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-67080fca-79f4-4249-bd40-059760185cdd",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-b485e61f-2b57-43c7-a4bf-c025773098c5",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-dfa96072-4a83-4f0f-b56a-87913cc637ca",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-91ede046-ff55-4154-9843-356abe3717ae",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-17793fe9-25d6-4cb6-9b14-2ebbe3632743",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-127671e8-7769-42da-b582-2588de5bfc40",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-285d3181-ec08-4484-a5bc-98773c93c1c4",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 0
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "No Aplica.",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-ce19c5a9-7098-4c9c-b3d7-ee956c835c37",
+        "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-03-02T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-03-02T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_208_2017-10-04T00:53:16.947Z",
+  "ocid": "208",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2015-01-08T06:00:00.000Z",
+        "endDate": "2020-10-20T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "items": [
+        {
+          "id": "item-419cfb0e-af78-45d2-8f1a-444fa04c14e5",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Establecer los mecanismos de colaboracion entre Grupo Aeroportuario de la Ciudad de Mexico y el Instituto Mexicano de Administracion Publica A.C. parrtar.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-694323d5-6af6-4730-b8ee-7cecea5a5584",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0c705145-5b81-46ff-98b5-2cf4595c5c2e",
+          "url": "http://189.211.120.220:8880/files/opendata/15002-GACM-DCPEV-SJ-CG-02-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-03-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-03-02T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Palo Alto",
+            "postalCode": "5110",
+            "streetAddress": "KM 14.5 de la carretera libre Mexico - Toluca numero 2151",
+            "region": "Cuajimalpa"
+          },
+          "identifier": {
+            "id": "INA-770420-DW1",
+            "legalName": "Instituto Mexicano de Administracion Publica A.C."
+          },
+          "name": "Instituto Mexicano de Administracion Publica A.C."
+        }
+      ]
+    }
+  ]
+}

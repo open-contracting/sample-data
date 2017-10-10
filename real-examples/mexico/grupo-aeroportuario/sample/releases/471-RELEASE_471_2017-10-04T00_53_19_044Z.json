@@ -1,0 +1,382 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-01-12T06:00:00.000Z",
+        "endDate": "2018-07-10T05:00:00.000Z"
+      },
+      "title": "CONSTRUCCION DE LA LOSA DE CIMENTACION DEL CENTRO DE TRANSPORTE TERRESTRE.",
+      "id": "LPI-OP-DCAGI-SC-093-16",
+      "awardID": "LO-009KDH999-E126-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-e32fa104-c41e-4ba9-8af9-31b57972fe2b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-2b40306e-1231-454d-b991-ea92dc2e1e5e",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-87773808-0483-4cd8-a60e-6bbdb0211a72",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-c0bcbcf9-c02f-40bf-b0e3-c0a00efa8984",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1399983017.99
+      },
+      "items": [
+        {
+          "id": "item-f1d79458-197d-4b7c-b4bd-499071dc43da",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 1399983017.99
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-d212f1d2-2994-45a1-a9d3-389b2581ad66"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "SACYR EPCCOR NAICM, S.A.P.I. DE C.V.",
+              "scheme": "SACYR EPCCOR NAICM, S.A.P.I. DE C.V."
+            },
+            "value": {
+              "amount": 193926275.3
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPI-OP-DCAGI-SC-093-16 CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE.",
+            "id": "milestone-63c93bc0-efd4-43f4-8e5c-f666b5189646",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "7.65%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-01-12T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.048Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-10-06T05:00:00.000Z",
+      "endDate": "2016-11-22T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "17 LICITACION PUBLICA INTERNACIONAL BAJO TLC LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 2139759365.01
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "CONSTRUCCION DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-2886285a-50df-4781-b940-0f9b94c8e40e",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-fe757201-9655-4475-be0f-e4e4f824837c",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-c6911eba-8251-48c3-ab64-03a27d94d9e2",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-95ca8495-aa3f-45db-b068-814ded16741e",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1e8359b5-4989-4bc2-ad4c-6f021ad558da",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-b832a542-9d16-46a3-9947-49f5f92913f0",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-10-06T05:00:00.000Z",
+      "endDate": "2016-11-22T06:00:00.000Z"
+    },
+    "id": "1169171",
+    "awardCriteriaDetails": "PUNTOS Y PORCENTAJE",
+    "items": [
+      {
+        "id": "item-264fe302-e881-4c07-93b4-3a503f99b589",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE.",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 1399983017.99
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-10-26T05:00:00.000Z",
+      "endDate": "2016-11-22T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 2139759365.01
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8bab71f9-165e-4d05-8917-06c52c42651c",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-12-13T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-12-13T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE."
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_471_2017-10-04T00:53:19.044Z",
+  "ocid": "471",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE.",
+      "id": "LO-009KDH999-E126-2016",
+      "contractPeriod": {
+        "startDate": "2017-01-12T06:00:00.000Z",
+        "endDate": "2018-07-10T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1399983017.99
+      },
+      "items": [
+        {
+          "id": "item-6a63c89f-ef04-4829-a0cd-e3d089a04622",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "CONSTRUCCI?N DE LA LOSA DE CIMENTACI?N DEL CENTRO DE TRANSPORTE TERRESTRE.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 1399983017.99
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-3ef46327-bc22-42e2-bfa4-1b4c8d0c76e3",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-c54e39d8-a639-407a-a161-6046eb63d511",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16093-LPI-OP-DCAGI-SC-093-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-12-13T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-13T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-12-13T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "POLANCO V SECCION",
+            "postalCode": "11560",
+            "streetAddress": "AV. PRESIDENTE MASARYK 101 INTERIOR 402 P-4",
+            "region": "MIGUEL HIDALGO"
+          },
+          "contactPoint": {
+            "email": "AHERNANDEZ@SACYR.COM",
+            "telephone": "5531 8162",
+            "name": "ENRIQUE ALONSO ZU?IGA"
+          },
+          "identifier": {
+            "legalName": "SACYR EPCCOR NAICM, S.A.P.I. DE C.V."
+          },
+          "name": "SACYR EPCCOR NAICM, S.A.P.I. DE C.V."
+        }
+      ]
+    }
+  ]
+}

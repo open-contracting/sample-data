@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-08T05:00:00.000Z",
+        "endDate": "2016-09-05T05:00:00.000Z"
+      },
+      "title": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM",
+      "id": "AD-AS-DCAGI-SC-044-2016",
+      "awardID": "AA-009KDH999-E116-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-a7e2d1f3-6aa9-4a05-a092-685be31a01f4",
+          "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-4951aae1-816c-46ab-8d13-997833bf30c0",
+          "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-c7ef20b9-681d-49d5-8dab-4c77a0cfd5b5",
+          "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-e12ec01b-0d0f-417d-b241-c26ff1007ade",
+          "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 180000
+      },
+      "items": [
+        {
+          "id": "item-38e0636f-5af3-489f-beb2-885bada17ba5",
+          "classification": {
+            "id": "3360",
+            "scheme": "SERVICIOS DE APOYO ADMINISTRATIVO, TRADUCCION, FOTOCOPIADO E IMPRESION"
+          },
+          "quantity": 1,
+          "description": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 180000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-97c2bda5-7a9b-4851-b84c-3b630e3f465f"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "COMUNICACION CAPACITACION E INVESTIGACION INTERDICIPLINARIA S.C.",
+              "scheme": "COMUNICACION CAPACITACION E INVESTIGACION INTERDICIPLINARIA S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-044-2016 MANUAL PARA LA COMUNICACI?N EN SITUACI?N DE RIESGO, DESASTRES, CASOS FORTUITOS, CRISIS O FUERZA DE MAYOR EN EL NAICM",
+            "id": "milestone-dce78951-b7ee-4b17-8761-5ef456dca11c",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-08T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.866Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 180000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-b92af62d-4f97-4210-8c15-9d428df4e7c5",
+        "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-326ddb02-c977-44f3-b7cc-b0fdc98a5826",
+        "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-b798f364-fb9a-44e8-bf30-f6f97385964e",
+        "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-e0dc9d8b-f543-4390-85d3-bfe6509eb256",
+        "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1ffea4e1-6d2f-43b1-ad11-219869f7d300",
+        "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-acb3d999-25db-438a-84d3-a114cad973a4",
+        "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1138271?",
+    "items": [
+      {
+        "id": "item-cf947a32-dd1d-488a-abe9-ea252c5da717",
+        "classification": {
+          "id": "3360",
+          "scheme": "SERVICIOS DE APOYO ADMINISTRATIVO, TRADUCCION, FOTOCOPIADO E IMPRESION"
+        },
+        "quantity": 1,
+        "description": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 180000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "IMPRESION Y ELABORACION DE MATERIAL INFORMATIVO DERIVADO DE LA OPERACION Y ADMON DE LAS DEPENDENCIAS Y ENTIDADES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 180000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-34d30ed2-7410-41aa-8d04-3b4883b98c6f",
+        "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_308_2017-10-04T00:53:17.861Z",
+  "ocid": "308",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM",
+      "id": "AA-009KDH999-E116-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-08T05:00:00.000Z",
+        "endDate": "2016-09-05T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 180000
+      },
+      "items": [
+        {
+          "id": "item-88c72cf9-1c62-4326-81ae-47aea4a4a1f2",
+          "classification": {
+            "id": "3360",
+            "scheme": "SERVICIOS DE APOYO ADMINISTRATIVO, TRADUCCION, FOTOCOPIADO E IMPRESION"
+          },
+          "quantity": 1,
+          "description": "Servicios de elaboracion del Manual para situaciones de riesgo, desastre, casos fortuitos y de fuerza mayor en la construccion del NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 180000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-8636d467-5d4f-4a5a-ba95-d67c1abb07dc",
+          "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-e386353a-66f3-46c6-9511-f6ec8d566f2f",
+          "url": "http://189.211.120.220:8880/files/opendata/16044-AD-AS-DCAGI-SC-044-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Agricola Oriental",
+            "postalCode": "08500",
+            "streetAddress": "Oriente 259 seccion E no. 59",
+            "region": "Iztacalco"
+          },
+          "identifier": {
+            "id": "CCI050609TK9",
+            "legalName": "Comunicacion y Capacitacion e Investigacion Interdisciplinaria, S.C."
+          },
+          "name": "Comunicacion y Capacitacion e Investigacion Interdisciplinaria, S.C."
+        }
+      ]
+    }
+  ]
+}

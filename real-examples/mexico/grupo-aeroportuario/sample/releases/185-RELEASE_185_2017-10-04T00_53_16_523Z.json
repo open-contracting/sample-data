@@ -1,0 +1,410 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2014-07-07T05:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "title": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 lAeropuertos y SErvicios Auxiliares y esta Entidad.",
+      "id": "GACM/DG/DCAGI/SJ/CI/01-2014",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-dd1e7381-f5e9-4a51-b199-0c00819ccbab",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-07-07T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-07-07T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-f866677d-ebe0-4047-9940-5a0f0b691ca0",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-07-07T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-07-07T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-1d1423ba-62d9-4191-8079-57cc491f9c4c",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/17.-%20GA/17.pdf",
+          "datePublished": "2014-07-07T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-07-07T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-59006827-35d9-4c0f-829d-cb74176f0e9b",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/18.-%20GC/18.pdf",
+          "datePublished": "2014-07-07T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-07-07T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 51000000
+      },
+      "items": [
+        {
+          "id": "item-25c6e654-70c0-407d-8af9-5b44a8bc9bf7",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 l",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 51000000
+            }
+          }
+        },
+        {
+          "id": "item-7b067c6a-1b0a-4adc-88bb-a0ee602335e5",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 l",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 51000000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-5282887c-bdb6-42b4-a072-ce3cbfba6101"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33903.pdf",
+            "receiverOrganization": {
+              "id": "ASA6506102U9",
+              "legalName": "AEROPUERTOS Y SERVICIOS AUXILIARES",
+              "scheme": "AEROPUERTOS Y SERVICIOS AUXILIARES"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCAGI-SA/SJ/CI/01/2014 COMEDOR PARA FUNCIONARIOS, COMEDOR PARA EMPLEADOS",
+            "id": "milestone-f0f0d5c7-9935-4945-a68f-5c1827003af3",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2014-07-07T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.530Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 lAeropuertos y SErvicios Auxiliares y esta Entidad.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 51000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-570dd6e4-f7bc-4d44-a770-70436565ee0d",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/9.-%20AJ/9.pdf",
+        "datePublished": "2014-07-07T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-07-07T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-b9e24cd9-f096-4f6f-8530-a50c75562ddf",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-07-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-07-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-3a8c0275-ac67-4634-a717-9cdf98ebea9d",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-07-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-07-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-34cb2fd9-2664-4205-95a4-5d0f084e6f86",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-07-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-07-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-6e4fbc39-ca19-44f2-866d-a5b1171b9e04",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-07-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-07-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-f46ccf90-dede-473c-b32d-2f5055dd53af",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-07-07T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-07-07T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 lAeropuertos y SErvicios Auxiliares y esta Entidad.",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-44d3c286-1ce5-40a4-9ee2-e15fd16a7ac6",
+        "classification": {
+          "id": "3390",
+          "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+        },
+        "quantity": 1,
+        "description": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 l",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 51000000
+          }
+        }
+      },
+      {
+        "id": "item-e7097c39-83ed-4e13-9b48-526f9ec50fb5",
+        "classification": {
+          "id": "3390",
+          "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+        },
+        "quantity": 1,
+        "description": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 l",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 51000000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 lAeropuertos y SErvicios Auxiliares y esta Entidad.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 51000000
+      },
+      "description": "Presupuesto de Egresos de la Fedracion 2015 y 2016",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4066311b-4a4e-4a6d-a79f-926b6ad43237",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-07-07T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-07-07T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 lAeropuertos y SErvicios Auxiliares y esta Entidad."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_185_2017-10-04T00:53:16.523Z",
+  "ocid": "185",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 lAeropuertos y SErvicios Auxiliares y esta Entidad.",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2014-07-07T05:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 51000000
+      },
+      "items": [
+        {
+          "id": "item-04bdfdd1-610e-4463-a170-3a181eb912ef",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 l",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 51000000
+            }
+          }
+        },
+        {
+          "id": "item-c0783d31-83aa-49aa-b96c-1b41dd51b04e",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "Convenio de cooperacion consistente en el uso y goce temporal a titulo gratuito de los inmuebles identidicados como Edicio R1 Planta Baja 381.73 m2 l",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 51000000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-7b0b4737-9817-4025-a434-387d71eb7b68",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/12.-%20AF/12.pdf",
+          "datePublished": "2014-07-07T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-07-07T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-a118686f-0fcd-4102-9c9e-6f71a25cb2a9",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-GACM-DCAGI-SA-SJ-CI-01-14/10.-%20AP/10.pdf",
+          "datePublished": "2014-07-07T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-07-07T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Zona Federal Aeropuerto Internacional de la Ciudad de Mexico.",
+            "postalCode": "15620",
+            "streetAddress": "Avenida 602 numero 161",
+            "region": "Venustiano Carranza"
+          },
+          "identifier": {
+            "id": "0",
+            "legalName": "Aeropuertos y Servicios Auxiliares"
+          },
+          "name": "Aeropuertos y Servicios Auxiliares"
+        }
+      ]
+    }
+  ]
+}

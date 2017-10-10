@@ -1,0 +1,423 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-06-20T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "ITP-SRO-DCAGI-SC-047-16",
+      "awardID": "IO -009KDH999-E75-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6dac4c06-d76b-40c9-854c-7402cab1c97e",
+          "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-17T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-17T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-997d61ac-d511-4cc6-8790-2f7695534512",
+          "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-17T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-17T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-21b4a054-4b92-487f-8c73-4018de6a9a3e",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSCONTRATACIONES/finiquito04716.pdf",
+          "datePublished": "2016-06-17T05:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2016-06-17T05:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-eae82f97-a828-49bd-a314-68bdc90a26c5",
+          "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-17T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-17T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-5834774c-e914-4b7b-a9f9-c15163796f26",
+          "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-17T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-17T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7147393.11
+      },
+      "items": [
+        {
+          "id": "item-3c6c16ee-94df-4897-b132-bdb9fcea92cf",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7147393.11
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-55aba83c-0a9e-4b3b-a358-379bad5c833d"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "TID921126236",
+              "legalName": "TOPOGRAFIA, INGENIERIA Y DISE?O, S.A. DE C.V.",
+              "scheme": "TOPOGRAFIA, INGENIERIA Y DISE?O, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 7147393.11
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-047-16 COORDINACI?N TOPOGR?FICA INTEGRAL PARA LLEVAR A CABO EL CONTROL DE OBRA Y ADMINISTRACI?N DE LA INFORMACI?N TOPOGR?FICA Y GEOD?SICA GENERADA PERA EL PROYECTO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM).",
+            "id": "milestone-5ce9fb21-e297-4ee0-90c0-f9f005c38ce0",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-06-20T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.790Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "awardPeriod": {
+      "startDate": "2016-05-26T05:00:00.000Z",
+      "endDate": "2016-06-10T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 7344827.59
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-46c55af6-4a62-4e58-bca1-3f95431fd02c",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-0bb38967-b62a-4e2f-951a-da11a1d2612d",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-426baf3b-1a8e-4295-8486-06907de17cc8",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-8860a1b8-8aa0-40d3-9327-47d7625e3548",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-db9765f7-6c57-48a2-8aff-d024c7b01af3",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-7a9a3cd5-722b-4e43-a8fe-e130bd8ecc40",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-05-26T05:00:00.000Z",
+      "endDate": "2016-06-10T05:00:00.000Z"
+    },
+    "id": "1071355",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-e8a7fedb-db86-41db-9f3d-e061120b7562",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 7147393.11
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-06-02T05:00:00.000Z",
+      "endDate": "2016-06-02T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 7344827.59
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-f27e815c-8a09-413a-a70c-24229d727f2e",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f52758cd-daf0-4b53-994f-4d32fbe6c881",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-54246be7-b2f6-4605-8ee0-b86539ba5c3b",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/4.-%20TR/4.2.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d9186379-f219-48a8-9009-7650cb8f0f3e",
+        "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/4.-%20TR/4.1.pdf",
+        "datePublished": "2016-06-17T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-17T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_312_2017-10-04T00:53:17.786Z",
+  "ocid": "312",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "IO -009KDH999-E75-2016",
+      "contractPeriod": {
+        "startDate": "2016-06-20T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7147393.11
+      },
+      "items": [
+        {
+          "id": "item-0f29dd4c-2ea6-4d35-880c-f35e58717b07",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Coordinacion topografia integral para llevar a cabo el control de obra y administraccion de la informacion topografica y geodesica generada para el proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7147393.11
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-f9353c5c-8bb6-4421-baa5-d2e47056754e",
+          "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-17T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-17T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-3048972b-40d1-46ac-8aeb-983a455dcd25",
+          "url": "http://189.211.120.220:8880/files/opendata/16047-ITP-SRO-DCAGI-SC-047-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-17T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-17T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-06-17T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Mariano de las Casas",
+            "postalCode": "76037",
+            "streetAddress": "Convento de San Agustin 31 PB",
+            "region": "Queretaro"
+          },
+          "identifier": {
+            "id": "TID921126236",
+            "legalName": "TOPOGRAFIA, INGENIERIA Y DISENO S.A. DE C.V."
+          },
+          "name": "TOPOGRAFIA, INGENIERIA Y DISENO S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

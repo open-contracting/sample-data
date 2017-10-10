@@ -1,145 +1,145 @@
 {
-  "tag": "awardNotice",
-  "name": "圖書館暨健康中心整修工程設計監造委託技術服務",
-  "date": "2014-02-11",
-  "ocid": "ocid-6as3t2-51182014",
   "buyer": {
+    "id": "ocid-6as3t2-51182014-buyer",
     "identifier": {
-      "id": "3.79.8.63",
-      "legalName": "臺北市萬華區西園國民小學"
-    },
-    "id": "ocid-6as3t2-51182014-buyer"
+      "legalName": "臺北市萬華區西園國民小學",
+      "id": "3.79.8.63"
+    }
   },
-  "tender": {
-    "id": "ocid-6as3t2-51182014-tender",
-    "identifier": {
-      "id": "3.79.8.63",
-      "legalName": "臺北市萬華區西園國民小學"
-    },
-    "procurementMethod": "公開取得報價單或企劃書",
-    "tenderers": [
-      {
-        "identifier": {
-          "id": "",
-          "legalName": "張文耀建築師事務所"
-        },
-        "organizationType": "自然人",
-        "number": 1
-      }
-    ],
-    "tederPeriod": {
-      "startDate": "2014-01-23",
-      "endDate": "2014-02-07",
-      "announceTimes": "01"
-    },
-    "numberOfBids": 1,
-    "processMethod": "自辦",
-    "deliveryAddress": {
-      "addresses": [
-        {
-          "region": "臺北市",
-          "locality": "萬華區"
-        }
-      ],
-      "aboriginalRegion": false
-    },
-    "executingEntity": {
-      "identifier": {
-        "id": "3.79.8.63",
-        "legalName": "臺北市萬華區西園國民小學"
-      }
-    },
-    "deliveryLocation": [
-      {
-        "description": "臺北市, 萬華區"
-      }
-    ],
-    "procuringEntity": {
-      "identifier": {
-        "id": "3.79.8.63",
-        "legalName": "臺北市萬華區西園國民小學"
-      }
-    },
-    "budget": {
-      "value": {
-        "amount": 216081,
-        "currency": "TWD"
-      }
-    },
-    "awardCriteria": "參考最有利標精神",
-    "procurementAmountRange": "未達公告金額",
-    "items": [
-      {
-        "classification": {
-          "id": "8671",
-          "description": "<勞務類>, 建築服務",
-          "scheme": "CPC"
-        },
-        "number": 1
-      }
-    ]
-  },
-  "awards": {
-    "awardAnnounceDate": "2014-02-11",
-    "awardDate": "2014-02-07",
-    "id": "ocid-6as3t2-51182014-awards",
-    "awardCriteria": "參考最有利標精神",
-    "totalAwardValue": {
-      "amount": 216081,
-      "currency": "TWD"
-    },
-    "items": [
-      {
-        "withoutTenderer": [],
-        "classification": {
-          "id": "8671",
-          "description": "<勞務類>, 建築服務",
-          "scheme": "CPC"
-        },
-        "suppliers": [
-          {
-            "address": {
-              "region": "新北市",
-              "postalCode": "241",
-              "locality": "三重區",
-              "streetAddress": null
-            },
-            "awardValue": {
-              "amount": 216081,
-              "currency": "TWD"
-            },
-            "quantity": 1,
-            "employeeExceedOneHundred": false,
-            "number": 1,
-            "identifier": {
-              "id": "",
-              "legalName": "張文耀建築師事務所"
-            },
-            "minValue": {
-              "amount": 216081,
-              "currency": "TWD"
-            },
-            "contractPeriod": {
-              "startDate": "2014-02-07",
-              "endDate": "2014-09-30"
-            },
-            "organizationType": "自然人",
-            "sme": "是"
-          }
-        ],
-        "number": 1
-      }
-    ]
-  },
-  "language": "zh",
+  "ocid": "ocid-6as3t2-51182014",
   "committee": {
     "id": "ocid-6as3t2-51182014-committee",
     "member": []
   },
+  "awards": {
+    "awardCriteria": "參考最有利標精神",
+    "awardAnnounceDate": "2014-02-11",
+    "awardDate": "2014-02-07",
+    "items": [
+      {
+        "suppliers": [
+          {
+            "organizationType": "自然人",
+            "identifier": {
+              "legalName": "張文耀建築師事務所",
+              "id": ""
+            },
+            "employeeExceedOneHundred": false,
+            "sme": "是",
+            "contractPeriod": {
+              "endDate": "2014-09-30",
+              "startDate": "2014-02-07"
+            },
+            "minValue": {
+              "currency": "TWD",
+              "amount": 216081
+            },
+            "quantity": 1,
+            "number": 1,
+            "awardValue": {
+              "currency": "TWD",
+              "amount": 216081
+            },
+            "address": {
+              "postalCode": "241",
+              "region": "新北市",
+              "streetAddress": null,
+              "locality": "三重區"
+            }
+          }
+        ],
+        "classification": {
+          "description": "<勞務類>, 建築服務",
+          "id": "8671",
+          "scheme": "CPC"
+        },
+        "withoutTenderer": [],
+        "number": 1
+      }
+    ],
+    "id": "ocid-6as3t2-51182014-awards",
+    "totalAwardValue": {
+      "currency": "TWD",
+      "amount": 216081
+    }
+  },
+  "tag": "awardNotice",
+  "name": "圖書館暨健康中心整修工程設計監造委託技術服務",
   "id": "ocid-6as3t2-51182014",
   "packageInfo": {
     "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
     "publishedDate": "2015-12-01",
     "publisher": "DSP,Inc."
+  },
+  "language": "zh",
+  "date": "2014-02-11",
+  "tender": {
+    "budget": {
+      "value": {
+        "currency": "TWD",
+        "amount": 216081
+      }
+    },
+    "numberOfBids": 1,
+    "deliveryAddress": {
+      "aboriginalRegion": false,
+      "addresses": [
+        {
+          "region": "臺北市",
+          "locality": "萬華區"
+        }
+      ]
+    },
+    "procuringEntity": {
+      "identifier": {
+        "legalName": "臺北市萬華區西園國民小學",
+        "id": "3.79.8.63"
+      }
+    },
+    "identifier": {
+      "legalName": "臺北市萬華區西園國民小學",
+      "id": "3.79.8.63"
+    },
+    "executingEntity": {
+      "identifier": {
+        "legalName": "臺北市萬華區西園國民小學",
+        "id": "3.79.8.63"
+      }
+    },
+    "procurementAmountRange": "未達公告金額",
+    "tenderers": [
+      {
+        "organizationType": "自然人",
+        "identifier": {
+          "legalName": "張文耀建築師事務所",
+          "id": ""
+        },
+        "number": 1
+      }
+    ],
+    "awardCriteria": "參考最有利標精神",
+    "deliveryLocation": [
+      {
+        "description": "臺北市, 萬華區"
+      }
+    ],
+    "items": [
+      {
+        "classification": {
+          "description": "<勞務類>, 建築服務",
+          "id": "8671",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ],
+    "processMethod": "自辦",
+    "id": "ocid-6as3t2-51182014-tender",
+    "procurementMethod": "公開取得報價單或企劃書",
+    "tederPeriod": {
+      "endDate": "2014-02-07",
+      "startDate": "2014-01-23",
+      "announceTimes": "01"
+    }
   }
 }

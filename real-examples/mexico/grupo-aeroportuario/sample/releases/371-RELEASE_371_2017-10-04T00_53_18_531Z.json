@@ -1,0 +1,404 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-15T05:00:00.000Z",
+        "endDate": "2016-09-14T05:00:00.000Z"
+      },
+      "title": "SERVICIOS RELACIONADOS CON LA REALIZACION DE UNA CONSULTA PUBLICA PARA GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V.",
+      "id": "ITP-AS-DCAGI-SC-060-16",
+      "awardID": "IA-009KDH999-E85-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-1bd706aa-8c14-4a44-b763-893e6c65ae02",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-12T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-12T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-1289f643-e07b-4d50-9c4f-9a070b02457c",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-12T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-12T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-17f74e9c-e3a0-4f24-b0dd-964b3ee93bb6",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-ITP-AS-DCAGI-SC-060-16.pdf",
+          "datePublished": "2016-07-12T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-07-12T05:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-c842615a-f9a0-4c42-8d58-baeea6baef37",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-07-12T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-12T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-de078334-4f32-487e-84ef-075f63140a92",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-07-12T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-12T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 798000
+      },
+      "items": [
+        {
+          "id": "item-f734693a-babd-468e-8154-0b365e881979",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS RELACIONADOS CON LA REALIZACI?N DE UNA CONSULTA P?BLICA PARA GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 798000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-e199d964-b404-4b6e-b8bf-3ee5af3d5518"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "BGC ULISES BELTRAN Y ASOCIADOS, S.C.",
+              "scheme": "BGC ULISES BELTRAN Y ASOCIADOS, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-060-16 SERVICIOS RELACIONADOS CON LA REALIZACI?N DE UNA CONSULTA P?BLICA PARA GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V.",
+            "id": "milestone-581d12e1-5269-4b2f-9977-b45364dd5614",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.535Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-06-21T05:00:00.000Z",
+      "endDate": "2016-06-28T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "04 INVITACION A CUANDO MENOS TRES NACIONAL LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 1400000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIOS RELACIONADOS CON LA REALIZACION DE UNA CONSULTA PUBLICA PARA EL GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-3c871ef5-e4ac-4e8c-8bc5-467abcfbb8f0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-1265d6f0-e072-4349-8caa-a396be5170b8",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-c5cbd191-44af-49e9-a69e-2f526566157f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-0d5a2f37-7ba4-4dc3-b4e6-1190d67fe5ca",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-90d11a3d-aeab-4c6e-a70c-f356e980fcf7",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-66880559-5a95-4e59-a7c2-0c2e57ba807f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-06-21T05:00:00.000Z",
+      "endDate": "2016-06-28T05:00:00.000Z"
+    },
+    "id": "1091652",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-4a975dab-fa96-401f-a62a-db26fa4fbec1",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIOS RELACIONADOS CON LA REALIZACI?N DE UNA CONSULTA P?BLICA PARA GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 798000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-06-23T05:00:00.000Z",
+      "endDate": "2016-06-28T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1400000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-0019f81a-9b87-45b6-bfdc-556e70edb0e0",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-95f19e76-57c1-453c-964c-1a752bf8bad6",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-07-12T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-07-12T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIOS RELACIONADOS CON LA REALIZACI?N DE UNA CONSULTA P?BLICA PARA GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_371_2017-10-04T00:53:18.531Z",
+  "ocid": "371",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIOS RELACIONADOS CON LA REALIZACI?N DE UNA CONSULTA P?BLICA PARA GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V.",
+      "id": "IA-009KDH999-E85-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-15T05:00:00.000Z",
+        "endDate": "2016-09-14T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 798000
+      },
+      "items": [
+        {
+          "id": "item-26b5f338-b33e-453b-b47d-f22ca3543200",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS RELACIONADOS CON LA REALIZACI?N DE UNA CONSULTA P?BLICA PARA GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO, S.A. DE C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 798000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-c3b25e75-a4d2-4b35-8fc6-a505f4d92aa4",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-07-12T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-12T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9d8fb5e1-61b4-4e6d-b39d-384b61483eb3",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16060-ITP-AS-DCAGI-SC-060-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-07-12T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-12T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-07-12T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "HIPODROMO",
+            "postalCode": "06100",
+            "streetAddress": "MEXICALI 48",
+            "region": "CUAUHTEMOC"
+          },
+          "contactPoint": {
+            "email": "leticiajuarez@gbc.com.mx",
+            "telephone": "5211 3044",
+            "name": "LETICIA VICTORIA JUAREZ GONZALEZ"
+          },
+          "identifier": {
+            "legalName": "BGC ULISES BELTRAN Y ASOCIADOS, S.C."
+          },
+          "name": "BGC ULISES BELTRAN Y ASOCIADOS, S.C."
+        }
+      ]
+    }
+  ]
+}
