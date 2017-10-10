@@ -1,0 +1,411 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-31T06:00:00.000Z",
+        "endDate": "2016-10-12T05:00:00.000Z"
+      },
+      "title": "Carga, Acarreo y Descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+      "id": "LPN-OP-DCAGI-SC-115/15",
+      "awardID": "LO-009KDH999-N78-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-d9897914-29d2-420b-b777-504d1aee55eb",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-4b720894-9b0c-42fe-9a2f-43b64302fb7c",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-1f7acb06-69b1-484e-96cd-fdba7942b31f",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/19.-%20CM/19.2.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-fb17bd68-ecc1-4fc4-954e-ae7a0b310129",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/19.-%20CM/19.1.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-d6ab87da-e5c0-4105-9124-ba8d37adc3ee",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-d84d4b78-e7c1-423b-9991-fbf1d721994a",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 777986957.68
+      },
+      "items": [
+        {
+          "id": "item-73541d4c-23b5-4b42-85e2-845642dbb9a7",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Carga, acarreo y descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 777986957.68
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-9906a68b-47d5-4f12-b7d7-24afeeee083e"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "OCI820920II7",
+              "legalName": "OMEGA CONSTRUCCIONES INDUSTRIALES, S.A. DE C.V.",
+              "scheme": "OMEGA CONSTRUCCIONES INDUSTRIALES, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 775023035.51
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-OP-DCAGI-SC-115/15 CARGA, ACARREO Y DESCARGA FUERA DEL POLIGONO DEL MATERIAL EXISTENTE PRODUCTO DE DEPOSITOS DE DEMOLICIONES, DESPERDICIOS Y DESAZOLVE",
+            "id": "milestone-0e14e2eb-6aa0-497a-9cce-35f99ca3e32e",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-31T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.635Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Carga, acarreo y descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+    "awardPeriod": {
+      "startDate": "2015-09-10T05:00:00.000Z",
+      "endDate": "2015-11-09T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 770000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Carga, acarreo y descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-710a42bd-61f7-4a35-af2c-2529cf2574c2",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-98416f43-ea6a-4ddf-9d77-fe9bf02bfa0c",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/9.-%20AJ/9.1.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-8d7c0d5c-1fd5-4052-ae09-cf23a129d200",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-2c1e3af9-5487-4aa6-abfb-2d1225ea859b",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-da27874c-b40f-4e77-9f60-45e6fbf550ab",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-7c606536-1a17-4ff8-998b-e0c05fb41253",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-dc71439d-eb5e-4107-adf2-9b62a4544d31",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2015-09-10T05:00:00.000Z",
+      "endDate": "2015-11-09T06:00:00.000Z"
+    },
+    "id": "910393",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-2fe2a9a3-5a0e-4cb3-8c8b-0a3833f43356",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Carga, acarreo y descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 777986957.68
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-10-07T05:00:00.000Z",
+      "endDate": "2015-10-27T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Carga, acarreo y descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 770000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Fedracion 2015 y 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-025a00a0-aad5-4d66-ab74-8569d8f3a1a6",
+        "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Carga, acarreo y descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_284_2017-10-04T00:53:17.631Z",
+  "ocid": "284",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Carga, Acarreo y Descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+      "id": "LO-009KDH999-N78-2015",
+      "contractPeriod": {
+        "startDate": "2015-12-31T06:00:00.000Z",
+        "endDate": "2016-10-12T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 777986957.68
+      },
+      "items": [
+        {
+          "id": "item-b7fe982e-de31-4eaa-af58-6a645c131671",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Carga, acarreo y descarga fuera del poligono del material existente producto de depositos de demoliciones, desperdicios y desazolve.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 777986957.68
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-b06575b8-0536-45f3-a0e3-bad1515eaea1",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-59baddee-9f1d-42ce-b73e-730684a856b1",
+          "url": "http://189.211.120.220:8880/files/opendata/15115-LPN-OP-DCAGI-SC-115-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-12-16T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Lomas de Chapultepec",
+            "postalCode": "11000",
+            "streetAddress": "Cordillera de los Andes numero 310",
+            "region": "Delegacion Miguel Hidalgo"
+          },
+          "identifier": {
+            "id": "OCI820920II7 /CCO980814BU4 /CDS970212MV3",
+            "legalName": "Omega Construcciones Industriales, S. A. de C. V. /CALZADA CONSTRUCCIONES, S.A. DE C.V. /CONSTRUCCIONES Y DRAGADOS DEL SURESTE, S.A. DE C.V."
+          },
+          "name": "Omega Construcciones Industriales, S. A. de C. V. /CALZADA CONSTRUCCIONES, S.A. DE C.V. /CONSTRUCCIONES Y DRAGADOS DEL SURESTE, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

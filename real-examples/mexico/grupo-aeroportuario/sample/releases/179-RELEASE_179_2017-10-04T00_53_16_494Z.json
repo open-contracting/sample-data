@@ -1,0 +1,387 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-31T06:00:00.000Z",
+        "endDate": "2016-12-16T06:00:00.000Z"
+      },
+      "title": "Supervision Tecnica, Administrativa y de Control de Calidad para los trabajos de nivelacion  y limpieza del terreno del NAICM.",
+      "id": "LPN-SRO-DCAGI-SC-117/15",
+      "awardID": "LO-009KDH999-N86-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-024729d2-c3fd-4f1b-9f21-1b2a3133d392",
+          "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-31T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-31T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-7aeec514-9e53-423c-8c20-66312fc12611",
+          "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-31T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-31T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-78fb121b-3b66-4050-bbd0-c7a592d0993d",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-LPN-SRO-DCAGI-SC-117-15.pdf",
+          "datePublished": "2015-12-31T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-12-31T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-cf0086e5-0a3d-4321-ab66-c85398792233",
+          "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-31T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-31T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-13cea7e0-406b-4012-9bc4-3d090c4b37d0",
+          "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-31T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-31T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 9720916.92
+      },
+      "items": [
+        {
+          "id": "item-5cc3794f-68e4-4481-92c9-d1be20c72993",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision Tecnica, Administrativa y de Control de calidad para los trabajos de nivelacion y limpieza del terreno del Nuevo Aeropuerto Internacionalde la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 9720916.92
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-7b29194b-d35c-49ee-a4a2-b5325dcc006f"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CST890605C72",
+              "legalName": "CONSULTOR?A, SUPERVISI?N T?CNICA Y OPERACI?N EN SISTEMAS, SA DE CV",
+              "scheme": "CONSULTOR?A, SUPERVISI?N T?CNICA Y OPERACI?N EN SISTEMAS, SA DE CV"
+            },
+            "value": {
+              "amount": 11135947.16
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-SRO-DCAGI-SC-117/15 SUPERVISION Y CONTROL DE CALIDAD PARA NIVELACION Y LIMPIEZA DEL DEL TERRENO DEL NAICM",
+            "id": "milestone-0978e96c-34b4-4716-8304-ba652d4b472b",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-31T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.500Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Supervision Tecnica, Administrativa y de Control de calidad para los trabajos de nivelacion y limpieza del terreno del Nuevo aeropuerto internacionalde la Ciudad de Mexico.",
+    "awardPeriod": {
+      "endDate": "2015-12-07T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 17000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Supervision Tecnica, Administrativa y de Control de calidad para los trabajos de nivelacion y limpieza del terreno del Nuevo aeropuerto internacionalde la Ciudad de Mexico.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-b72b7004-c56d-469d-9650-1d80e048808f",
+        "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-31T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-31T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-19c24c6b-49d4-455c-b904-00980a7d6c8b",
+        "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-e71d1e2b-f519-4eec-a8dd-d22c6bf67acb",
+        "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-45242a79-3ebc-4295-b9bb-02428f455d1a",
+        "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-90259c28-a78c-4685-aca6-363f66e5ac65",
+        "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-2b97f950-6e84-4aba-8d50-5100e6310ee3",
+        "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-31T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-31T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2015-12-07T06:00:00.000Z"
+    },
+    "id": "943228",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-b6766953-f6b0-4346-962a-5df110bae9cc",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Supervision Tecnica, Administrativa y de Control de calidad para los trabajos de nivelacion y limpieza del terreno del Nuevo Aeropuerto Internacionalde la Ciudad de Mexico.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 9720916.92
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-11-26T06:00:00.000Z",
+      "endDate": "2015-11-27T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Supervision Tecnica, Administrativa y de Control de calidad para los trabajos de nivelacion y limpieza del terreno del Nuevo aeropuerto internacionalde la Ciudad de Mexico.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 17000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Fedracion 2015 y 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a42f09cf-1862-4f11-8be8-29a7621675cf",
+        "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-31T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-31T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Supervision Tecnica, Administrativa y de Control de calidad para los trabajos de nivelacion y limpieza del terreno del Nuevo aeropuerto internacionalde la Ciudad de Mexico."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_179_2017-10-04T00:53:16.494Z",
+  "ocid": "179",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Supervision Tecnica, Administrativa y de Control de Calidad para los trabajos de nivelacion  y limpieza del terreno del NAICM.",
+      "id": "LO-009KDH999-N86-2015",
+      "contractPeriod": {
+        "startDate": "2015-12-31T06:00:00.000Z",
+        "endDate": "2016-12-16T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 9720916.92
+      },
+      "items": [
+        {
+          "id": "item-26bda85b-0dfa-4894-95c9-27b9da4b91c8",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision Tecnica, Administrativa y de Control de calidad para los trabajos de nivelacion y limpieza del terreno del Nuevo Aeropuerto Internacionalde la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 9720916.92
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-cf13dc8f-8d28-4a90-ba65-075cb988d933",
+          "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-31T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-31T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-288c3f17-d22b-4a0e-b2bb-5a2e1635f68f",
+          "url": "http://189.211.120.220:8880/files/opendata/15117-LPN-SRO-DCAGI-SC-117-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-31T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-31T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-12-23T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Portales Oriente",
+            "postalCode": "3570",
+            "streetAddress": "Emperadores numero 46",
+            "region": "Delegacion Benito Juarez"
+          },
+          "identifier": {
+            "id": "CST890605C72",
+            "legalName": "Consultoria, Supervision Tecnica y Operacion en Sistemas, S. A. de C. V."
+          },
+          "name": "Consultoria, Supervision Tecnica y Operacion en Sistemas, S. A. de C. V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-05-04T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "title": " Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales para la consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AIVM ",
+      "id": "AD-SRO-DCAGI-SC-021-15",
+      "awardID": "SA-009KDH999-N39-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-178c362c-afc7-43e1-b904-0a3e28db732d",
+          "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-5739a499-c4f9-49e6-aecf-b50b95fc1541",
+          "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-bd26b679-830d-428c-a6f3-2e33c2c6a936",
+          "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-04-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-30T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-91031cc1-ac16-4815-b0b5-79d613cec74d",
+          "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-04-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-30T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1469580.45
+      },
+      "items": [
+        {
+          "id": "item-db7a27b2-cc3c-4dc5-9d25-8dfff9abd977",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales parala consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1469580.45
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-a13f56dc-c869-4cf4-8099-01e07c147c2f"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33903.pdf",
+            "receiverOrganization": {
+              "legalName": "SANDRA GONZALEZ NAVARRO",
+              "scheme": "SANDRA GONZALEZ NAVARRO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-021/15 SERV PROF EN MATERIA DE VINC CON ORGS INT Y ADOP DE LAS MEJORES PRACTICAS INT PARA LA CONSECUCI?N DE SUS OBJS Y ASEGURAR EL DESARROLLO DE UNA ADECUADA INF AEROPORTUARIA PARA LA OPRESION DE LA INF DEL AIVM DENTRO DE LAS MEJORES PRACTICAS INT",
+            "id": "milestone-3b1a5c9b-165c-406e-9f47-81e72515d2d9",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-05-04T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:20.185Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": " Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales para la consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AIVM ",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 1704113
+    },
+    "submissionMethod": [
+      "Adjudicacion directa. Oficio DCAGI/SC/021.1/2015  de fecha 30 de abril de 2015 y firmado por el Lic. Gerardo Fco. Hernandez Romero."
+    ],
+    "status": "active",
+    "description": "Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales parala consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AICM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6233ae69-6cb0-43b9-b2de-90da1623e459",
+        "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-04-30T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-04-30T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-051deb79-d1ef-4b0b-8281-b5b222d4b9c4",
+        "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-10bcd19d-04b2-43dd-804e-8e31ddc4c6f1",
+        "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-8b86f666-caf0-4347-b9f0-fbaa1e703a4e",
+        "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-c8b146ef-c605-44f3-9852-a622fd97f937",
+        "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-a7752dd5-2eda-4ff7-ac51-4290fb872bc3",
+        "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "819581",
+    "items": [
+      {
+        "id": "item-14c30cc0-95f8-4c36-a171-31ecaef9f6c8",
+        "classification": {
+          "id": "3310",
+          "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+        },
+        "quantity": 1,
+        "description": "Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales parala consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 1469580.45
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OTRAS ASESORIAS PARA LA OPERACION DE PROGRAMAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1704113
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-dd54a0f3-1789-47c1-a661-bb078971626e",
+        "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-04-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-04-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales parala consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AICM"
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_97_2017-10-04T00:53:20.181Z",
+  "ocid": "97",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": " Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales para la consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AIVM ",
+      "id": "SA-009KDH999-N39-2015",
+      "contractPeriod": {
+        "startDate": "2015-05-04T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1469580.45
+      },
+      "items": [
+        {
+          "id": "item-fbe5dbcf-1282-4f64-aa5a-a76509fea224",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Contrato de Servicios Profesionales en materia de vinculacion con organismos internacionales y adopcion de las mejores practicas internacionales parala consecucion de sus objetivos y asegurar una adecuada infraestructira aeroportuaria  para la operacion del AICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1469580.45
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-2eb0f443-b8a8-40b7-b4d1-16248d5cc5e9",
+          "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-04-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-30T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-377df441-7e3c-476d-bd6d-aea156dad19a",
+          "url": "http://189.211.120.220:8880/files/opendata/15021-AD-AS-DCAGI-SC-021-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-04-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-30T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-04-30T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Jardines de Reforma",
+            "postalCode": "62260",
+            "streetAddress": "Nueva Suiza 10",
+            "region": "Cuernavaca"
+          },
+          "identifier": {
+            "id": "GON800826AVA",
+            "legalName": "GONZALEZ NAVARRO SANDRA"
+          },
+          "name": "GONZALEZ NAVARRO SANDRA"
+        }
+      ]
+    }
+  ]
+}

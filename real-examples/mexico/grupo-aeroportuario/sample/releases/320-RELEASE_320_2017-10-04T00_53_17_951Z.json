@@ -1,0 +1,365 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-d5b85d68-e89e-4bfd-855b-d9a250520480",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL",
+          "unit": {
+            "name": "pz",
+            "value": {
+              "currency": "MXN",
+              "amount": 272450
+            }
+          }
+        }
+      ],
+      "title": "IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL",
+      "id": "AD-AB-DCAGI-SC-037-16",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-33709623-b7fd-461d-845e-5880676952a9",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-03T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-03T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-0205c49c-e2d6-4543-b9cb-b3ca40c7870f",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-03T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-03T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-61d74b6d-ccfc-4ad8-85f6-98ec21589f2f",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-03T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-03T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-7ac59b77-edfa-4bba-bd27-7f62ffda1c20",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-03T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-03T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 272450
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-ac403bdf-9818-44a3-af32-03dd83b07486"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "ARTURO GARC?A CELIO",
+              "scheme": "ARTURO GARC?A CELIO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AB-DCAGI-SC-037-16 IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL",
+            "id": "milestone-25175bcc-4d37-4dab-bd16-dce3b17d6f29",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2016-06-25T05:00:00.000Z",
+        "endDate": "2016-07-01T05:00:00.000Z"
+      },
+      "dateSigned": "2016-07-25T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.956Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "07 ADJUDICACION DIRECTA NACIONAL ART. 42 LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 272450
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-99871fad-bf93-4f51-8994-f7aaba11bc86",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-03T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-03T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-6f645631-a005-4016-b90f-c41087c26e59",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-c2956755-e391-4b64-9af2-ed7a001f44b4",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-74bb65a8-c0f6-4baf-9787-f3631d05322b",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-08009f77-d6ab-4204-a97e-5bcb7ba5a23f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-f284a59a-eab6-48f9-b11d-aa4b89264283",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-03T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-03T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL",
+    "items": [
+      {
+        "id": "item-0a92fe9f-2e39-44fc-9765-30602ef99fd1",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL",
+        "unit": {
+          "name": "pz",
+          "value": {
+            "currency": "MXN",
+            "amount": 272450
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 272450
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-39079682-0dd4-45eb-8949-63f0364db20e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-03T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-03T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_320_2017-10-04T00:53:17.951Z",
+  "ocid": "320",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2016-06-25T05:00:00.000Z",
+        "endDate": "2016-07-01T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 272450
+      },
+      "items": [
+        {
+          "id": "item-ff06ba4e-78d1-4531-ad06-0dfcf74138e9",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "IMPLEMENTOS PARA EL DESARROLLO DEL PROGRAMA DE EMPLEO TEMPORAL",
+          "unit": {
+            "name": "pz",
+            "value": {
+              "currency": "MXN",
+              "amount": 272450
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-a1f61868-4589-4271-8178-29dbe6496c60",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-03T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-03T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-6082cf65-101c-4f24-a0f4-bf195c08f3ec",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16037-AD-AB-DCAGI-SC-037-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-03T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-03T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "SAN ANGEL",
+            "postalCode": "01000",
+            "streetAddress": "PLAZA SAN JACINTO 8 INTERIOR G",
+            "region": "ALVARO OBREGON"
+          },
+          "contactPoint": {
+            "email": "noproporcionado@noproporcionado.com",
+            "name": "ARTURO GARCIA CELIO"
+          },
+          "identifier": {
+            "id": "ARTUROGARCIA",
+            "legalName": "ARTURO GARC?A CELIO"
+          },
+          "name": "ARTURO GARC?A CELIO"
+        }
+      ],
+      "date": "2016-06-03T05:00:00.000Z"
+    }
+  ]
+}

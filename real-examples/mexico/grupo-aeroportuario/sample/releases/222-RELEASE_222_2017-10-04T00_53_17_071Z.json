@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-02-02T06:00:00.000Z",
+        "endDate": "2016-02-29T06:00:00.000Z"
+      },
+      "title": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "AD-AS-DCAGI-SC-013/16",
+      "awardID": "LA-009KDH999-E78-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9adf96e3-34a6-482f-abc5-bc19d74ee35e",
+          "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-078623ec-184e-4595-b51c-6ec74ecca0d8",
+          "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-bb687419-b0c1-45a3-ad18-4754d090c2f1",
+          "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-510439c3-02f7-4850-a66c-6bb660f436d2",
+          "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 2450000
+      },
+      "items": [
+        {
+          "id": "item-c716fa3e-c671-4f68-9b9a-480117d6be03",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 2450000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-63d8a1fa-1a79-4716-9af5-5e6e3845920e"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "OPM100331UG5",
+              "legalName": "SISTEMA P?BLICO DE RADIODIFUSI?N DEL ESTADO MEXICANO",
+              "scheme": "SISTEMA P?BLICO DE RADIODIFUSI?N DEL ESTADO MEXICANO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-013/16 SERVICIOS PROFESIONALES DE LEVANTAMIENTO DE IMAGEN Y VIDEO DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+            "id": "milestone-07734d56-70e0-49f6-a651-6202eb9c3f4c",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-02-11T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.074Z",
+    "publisher": {
+      "uid": "AS",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 2450000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-9c060470-56f9-40d6-87a9-027ab6ce0e03",
+        "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-cf3e5fb1-b442-462c-aad4-2fb3d5baa808",
+        "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-dfaf44b8-faf9-4f6b-a9bc-72d21fb48291",
+        "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-d22800a6-513f-48c9-95c4-b1280060a3b0",
+        "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1abe18b2-ea70-408d-82d2-4f98652f452a",
+        "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-6d1041d3-98bd-4ed4-b8f6-1883e62ef179",
+        "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "items": [
+      {
+        "id": "item-eb86a54d-3c12-4080-bc9f-c86fc449bd71",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 2450000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 2450000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-172d084d-092f-401a-a686-3dda19093ea6",
+        "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-01-29T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-01-29T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_222_2017-10-04T00:53:17.071Z",
+  "ocid": "222",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+      "id": "LA-009KDH999-E78-2016",
+      "contractPeriod": {
+        "startDate": "2016-02-02T06:00:00.000Z",
+        "endDate": "2016-02-29T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 2450000
+      },
+      "items": [
+        {
+          "id": "item-226f0354-35c6-4995-a9dc-64875cc822db",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios Profesionales de Levantamiento de Imagen y Video de Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 2450000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-d03813eb-a9c0-48aa-9632-fcba7d68e653",
+          "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-3377f01f-f7c2-4b90-a503-fac3b4c86257",
+          "url": "http://189.211.120.220:8880/files/opendata/16013-AD-AS-DCAGI-SC-013-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-01-29T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-29T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Juarez",
+            "postalCode": "6600",
+            "streetAddress": "Hamburgo 182-A",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "OPM100331UG5",
+            "legalName": "Sistema Publico de Radiodifusion del Estado de Mexico"
+          },
+          "name": "Sistema Publico de Radiodifusion del Estado de Mexico"
+        }
+      ]
+    }
+  ]
+}

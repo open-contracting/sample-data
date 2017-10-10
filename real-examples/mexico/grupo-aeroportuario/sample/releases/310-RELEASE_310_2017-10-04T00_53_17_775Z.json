@@ -1,0 +1,365 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-07T05:00:00.000Z",
+        "endDate": "2016-08-05T05:00:00.000Z"
+      },
+      "title": "SERVICIO DE TALLER DE PREPARACION A LOS FUNCIONARIOS DE GACM PARA MANEJO DE INFORMACION",
+      "id": "AD-AS-DCAGI-SC-045-2016",
+      "awardID": "AA-009KDH999-E111-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-36616ffd-a782-4693-af0e-d93a1db3e18c",
+          "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-ddd405ef-04e5-4023-84e5-c6214365507c",
+          "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-b75ee179-a71d-4107-bac1-e91ae521ca85",
+          "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-c34e2424-9c27-4357-8a3c-748881914b7c",
+          "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 150000
+      },
+      "items": [
+        {
+          "id": "item-27f0d240-6b32-4b6e-9a8b-db9fc45519d6",
+          "classification": {
+            "id": "3340",
+            "scheme": "SERVICIOS PARA CAPACITACION A SERVIDORES PUBLICOS"
+          },
+          "quantity": 1,
+          "description": "Servicio de taller de preparacion a los funcionarios de GACM para manejo de informacion",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 150000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-811c4d98-9b34-452e-a5d1-59fad3063920"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33401.pdf",
+            "receiverOrganization": {
+              "id": "CME030219M56",
+              "legalName": "CIRCULO Y MEDIO, S.A.",
+              "scheme": "CIRCULO Y MEDIO, S.A."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-045-2016 TALLER DE PREPARACION A LOS FUNCIONARIOS DE GACM PARA MANEJO DE INFORMACION",
+            "id": "milestone-fa895cd2-585d-4018-be58-56194ed81f88",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-07T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.779Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de taller de preparacion a los funcionarios de GACM para manejo de informacion",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 150000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Servicio de taller de preparacion a los funcionarios de GACM para manejo de informacion",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-ea0c2a5a-ef5c-4b18-aa06-bb44a71465ea",
+        "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-339ad1a3-b4ee-480f-a929-567f26c5c9d1",
+        "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-61b5a069-b082-41ab-86f1-366d1b5bd808",
+        "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-9efdcbf9-6f28-4327-9038-f78113c192f8",
+        "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-28dcf52a-8f16-4645-ae5a-3e11b4d73252",
+        "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-8f930f72-cdaa-4118-a4ed-57e6ad86a57c",
+        "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1131499",
+    "items": [
+      {
+        "id": "item-e86eb247-464c-419c-861a-931277411f32",
+        "classification": {
+          "id": "3340",
+          "scheme": "SERVICIOS PARA CAPACITACION A SERVIDORES PUBLICOS"
+        },
+        "quantity": 1,
+        "description": "Servicio de taller de preparacion a los funcionarios de GACM para manejo de informacion",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 150000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "SERVICIOS PARA CAPACITACION A SERVIDORES PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 150000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-68f60dfe-e81e-42d1-a49d-758a07cf8827",
+        "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de taller de preparacion a los funcionarios de GACM para manejo de informacion"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_310_2017-10-04T00:53:17.775Z",
+  "ocid": "310",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "SERVICIO DE TALLER DE PREPARACION A LOS FUNCIONARIOS DE GACM PARA MANEJO DE INFORMACION",
+      "id": "AA-009KDH999-E111-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-07T05:00:00.000Z",
+        "endDate": "2016-08-05T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 150000
+      },
+      "items": [
+        {
+          "id": "item-c5b7466e-8d33-43fd-9c3f-d18d3f216625",
+          "classification": {
+            "id": "3340",
+            "scheme": "SERVICIOS PARA CAPACITACION A SERVIDORES PUBLICOS"
+          },
+          "quantity": 1,
+          "description": "Servicio de taller de preparacion a los funcionarios de GACM para manejo de informacion",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 150000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-f5dbd0e8-3f5a-4dd9-ac45-2eb4166638b6",
+          "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-8a6ff703-b6e7-41f3-b4a4-8a21737d102b",
+          "url": "http://189.211.120.220:8880/files/opendata/16045-AD-AS-DCAGI-SC-045-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-15T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-15T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-06-15T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Hipodromo Condesa",
+            "postalCode": "03170",
+            "streetAddress": "Campeche piso 6",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "CME030219M56",
+            "legalName": "CIRCULO Y MEDIO S.A."
+          },
+          "name": "CIRCULO Y MEDIO S.A."
+        }
+      ]
+    }
+  ]
+}

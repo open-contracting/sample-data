@@ -1,0 +1,373 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-03-05T06:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "Instrumento de Garantia para el  Cumplimiento de las Medidas Ambientales para NAICM establecidas en el Manifiesto de Impacto Ambiental",
+      "id": "LPN-AS-DCAGI-SC-027/16",
+      "awardID": "LA-009KDH999-E28-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-194c97dd-60e9-4abc-8a85-b93cf2a52fd0",
+          "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-04-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-04-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-92b50266-fad2-4b98-b583-b1505fddd807",
+          "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-04-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-04-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-aa948736-362e-4d83-a2c9-566f90ab8d8d",
+          "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-04-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-04-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-905ad1c8-ada8-4e9e-a7ce-6524c3a13bf1",
+          "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-04-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-04-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 4025173.6
+      },
+      "items": [
+        {
+          "id": "item-0944775e-39f6-4a10-9908-ba0e23677dc6",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 4025173.6
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-c24dac66-d365-4b73-9df5-c47a8f3a47f9"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "ZURICH FIANZAS MEXICO, S.A. DE C.V.",
+              "scheme": "ZURICH FIANZAS MEXICO, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-AS_DCAGI_SC_027/16 INSTRUMENTO DE GARANT?A PARA EL CUMPLIMIENTO DE LAS MEDIDAS AMBIENTALES (RENOVACI?N)",
+            "id": "milestone-d48d1538-61e1-4e36-a092-c760ccd7cee0",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-04-07T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.426Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Instrumento de Garantia para el  Cumplimiento de las Medidas Ambientales para NAICM establecidas en el Manifiesto de Impacto Ambiental",
+    "awardPeriod": {
+      "endDate": "2016-03-30T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 8410000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Instrumento de Garantia para el  Cumplimiento de las Medidas Ambientales para NAICM establecidas en el Manifiesto de Impacto Ambiental",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-046f052d-ba61-4649-bc5a-2f8128ce6a6b",
+        "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-04-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-04-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-e6f0d28c-7075-4659-bc33-da4306011714",
+        "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-2d38ff92-5133-4c80-95eb-ba7b85721798",
+        "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-7319fb9b-8ca1-4ac5-8cb2-ed8be2b26a8a",
+        "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-08330991-1a67-4cb5-a7b6-b18fb0da2c95",
+        "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-ff2cb899-3655-4ca0-9ffb-660162b02538",
+        "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "endDate": "2016-03-30T06:00:00.000Z"
+    },
+    "id": "1024713",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-6a7f6612-4264-4a55-b5c7-06045e8d8de1",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 4025173.6
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-03-23T06:00:00.000Z",
+      "endDate": "2016-03-23T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 8410000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d696a852-4702-4f02-a1e8-94835b397a5f",
+        "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-04-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-04-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Instrumento de Garantia para el  Cumplimiento de las Medidas Ambientales para NAICM establecidas en el Manifiesto de Impacto Ambiental"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_275_2017-10-04T00:53:17.421Z",
+  "ocid": "275",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Instrumento de Garantia para el  Cumplimiento de las Medidas Ambientales para NAICM establecidas en el Manifiesto de Impacto Ambiental",
+      "id": "LA-009KDH999-E28-2016",
+      "contractPeriod": {
+        "startDate": "2015-03-05T06:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 4025173.6
+      },
+      "items": [
+        {
+          "id": "item-f8a4b96e-c4cd-40e9-8b33-f2760be052ef",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 4025173.6
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-d9c09a34-4dae-424d-8767-1953325c4ca7",
+          "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-04-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-04-01T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-5737d601-6754-4d2b-8dd9-4bd084754195",
+          "url": "http://189.211.120.220:8880/files/opendata/16027-LPN-AS-DCAGI-SC-027-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-04-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-04-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-04-01T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Granada",
+            "postalCode": "11520",
+            "streetAddress": "Ejercito Nacional No. 843 B",
+            "region": "Miguel Hidalgo"
+          },
+          "identifier": {
+            "id": "ZAM131014HV0",
+            "legalName": "Zurich Fianzas Mexico, S. A. de C.V."
+          },
+          "name": "Zurich Fianzas Mexico, S. A. de C.V."
+        }
+      ]
+    }
+  ]
+}

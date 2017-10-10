@@ -1,0 +1,362 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-07-11T05:00:00.000Z",
+        "endDate": "2015-07-30T05:00:00.000Z"
+      },
+      "title": "Adquisicion de bienes consistentes en vestuario",
+      "id": "AD-AS-DCAGI-SC-54/15",
+      "awardID": "SA-009KDH999-N65-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-100811d5-7f88-43b1-bc5f-df18a5853560",
+          "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-06-25T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-06-25T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-976d743a-96e5-4dfc-a69f-2063753b53eb",
+          "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-06-25T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-06-25T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-87bd5cc7-717b-4b3c-a1a9-63a75e960db9",
+          "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-06-25T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-06-25T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-f179fb97-8b1f-4637-af17-71899319f09f",
+          "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-06-25T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-06-25T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 28320
+      },
+      "items": [
+        {
+          "id": "item-04f7903a-0e0c-4553-b64a-614cfe652dff",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Adquisicion de bienes consistentes en vestuario",
+          "unit": {
+            "name": "pz",
+            "value": {
+              "currency": "MXN",
+              "amount": 28320
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-d1fdf0a3-069f-4cb1-be9b-3e4fa7240b5c"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "JOS? LUIS MACAZAGA LARA",
+              "scheme": "JOS? LUIS MACAZAGA LARA"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-054/15 CAMISAS, MANGA LARGA, COLOR BLANCO, CUELLO CON ABOTONADURA (CASUAL), 60 % ALGOD?N, 40 % POLI?STER CON UN PESO DE 5.30 OZ. CON TRES BORDADOS DOS EN EL FRENTE Y UNO EN EL BRAZO DERECHO",
+            "id": "milestone-f1af7519-f221-48cc-8933-38d543972dec",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-07-10T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.798Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "BIEN"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Adquisicion de bienes consistentes en vestuario",
+    "value": {
+      "currency": "MXN",
+      "amount": 688000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Adquisicion de bienes consistentes en vestuario",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-22509a45-62fa-4104-9feb-3c813ffecaab",
+        "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-06-25T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-06-25T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-438609b3-06dd-4e93-af5c-235897cb849d",
+        "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-25T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-25T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-462b97ec-82f9-4907-b22a-3e7797b67ee5",
+        "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-25T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-25T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-2c3f3790-c2c2-48d9-95cc-e7f1088c32b3",
+        "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-25T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-25T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-bb3975d4-4097-497d-8326-c1100545de07",
+        "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-25T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-25T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-502e5ef2-7bb6-4379-bb11-d0742b07cb61",
+        "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-06-25T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-06-25T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "901152",
+    "items": [
+      {
+        "id": "item-d588ca86-32a0-484f-8d6f-ed4563505f68",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Adquisicion de bienes consistentes en vestuario",
+        "unit": {
+          "name": "pz",
+          "value": {
+            "currency": "MXN",
+            "amount": 28320
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 688000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-a9de65eb-1d9b-40ca-80fe-5a9e27302c7f",
+        "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-06-25T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-06-25T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Adquisicion de bienes consistentes en vestuario"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_64_2017-10-04T00:53:19.794Z",
+  "ocid": "64",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Adquisicion de bienes consistentes en vestuario",
+      "id": "SA-009KDH999-N65-2015",
+      "contractPeriod": {
+        "startDate": "2015-07-11T05:00:00.000Z",
+        "endDate": "2015-07-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 28320
+      },
+      "items": [
+        {
+          "id": "item-3906b7cd-c9ea-4142-a12d-9c2da511e788",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Adquisicion de bienes consistentes en vestuario",
+          "unit": {
+            "name": "pz",
+            "value": {
+              "currency": "MXN",
+              "amount": 28320
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-b665bfca-1849-4339-ba50-899cca134367",
+          "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-06-25T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-06-25T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-7211f3bc-af49-4e0d-97b0-843e96849c2c",
+          "url": "http://189.211.120.220:8880/files/opendata/15054-AD-AS-DCAGI-SC-054-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-06-25T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-06-25T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Roma Norte",
+            "postalCode": "6700",
+            "streetAddress": "Medellin 194",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "MALL590222RI8",
+            "legalName": "Jose Luis Macazaga Lara"
+          },
+          "name": "Jose Luis Macazaga Lara"
+        }
+      ]
+    }
+  ]
+}

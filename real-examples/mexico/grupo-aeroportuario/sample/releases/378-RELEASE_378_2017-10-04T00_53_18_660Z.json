@@ -1,0 +1,400 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-08-18T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "ITP-SRO-DCAGI-SC-066-16",
+      "awardID": "IO-009KDH999-E105-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-f40030fb-593e-4845-925d-6b4eed03ad39",
+          "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-08-17T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-08-17T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-051a624e-a392-440a-b237-20cf1f63e1cb",
+          "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-08-17T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-08-17T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-2776ffbc-58d4-4b86-b8b8-5ddb82f06134",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSCONTRATACIONES/finiquito06616.pdf",
+          "datePublished": "2016-08-17T05:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2016-08-17T05:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6c531378-b8e1-4c81-a9d6-6b0d6bf77b0a",
+          "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-08-17T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-08-17T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-c8b25f9b-6bab-4a2a-869f-f23c9531e9f2",
+          "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-08-17T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-08-17T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7052051.87
+      },
+      "items": [
+        {
+          "id": "item-f4cabefe-aeef-4973-bc6a-43a8626ea993",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7052051.87
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-ecfade02-4278-4476-a00d-20a6ff0caa3b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "ACONSA Y ASOCIADOS CONSULTORES, S. DE R.L. DE C.V.",
+              "scheme": "ACONSA Y ASOCIADOS CONSULTORES, S. DE R.L. DE C.V."
+            },
+            "value": {
+              "amount": 7052051.87
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-066-16 SERVICIOS DE APOYO T?CNICO A LA RESIDENCIA DEL PROYECTO EJECUTIVO DE PISTAS, RODAJES Y PLATAFORMAS Y AYUDAS A LA NAVEGACI?N Y OTRAS INSTALACIONES DEL NAICM.",
+            "id": "milestone-d0a33ffd-8a1a-4b46-bbc3-3bb4531be4b2",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-08-18T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.664Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "awardPeriod": {
+      "startDate": "2016-07-26T05:00:00.000Z",
+      "endDate": "2016-08-08T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 7758620.69
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-98959c58-258f-4b42-8c7b-2d6535a1975a",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-f168b43f-4012-414a-9355-2b71e0510018",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b4616606-4e8d-4d06-9ae4-28d816a29fb3",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-8ef5b5d5-4a5f-4df0-89d5-f683537d08b7",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-0c571b50-1424-45b3-b4e2-6d0fbb8c064f",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-0e32e73d-7dda-41b4-b903-65b6e6e7c5fc",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-07-26T05:00:00.000Z",
+      "endDate": "2016-08-08T05:00:00.000Z"
+    },
+    "id": "1117645",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-3253adfb-321e-4fa0-ad32-ae72ce69e68b",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 7052051.87
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-08-02T05:00:00.000Z",
+      "endDate": "2016-08-02T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 7758620.69
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-d35e8f1b-026b-421b-a000-7cbdd32f771e",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8a153c0b-fa40-4c8a-acbc-15e811b578a8",
+        "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-08-17T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-08-17T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_378_2017-10-04T00:53:18.660Z",
+  "ocid": "378",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "IO-009KDH999-E105-2016",
+      "contractPeriod": {
+        "startDate": "2016-08-18T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7052051.87
+      },
+      "items": [
+        {
+          "id": "item-61f91942-8b96-4831-9e03-f5fdf1332180",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de apoyo tecnico a la residencia del proyecto ejecutivo de pistas, rodajes y plataformas y ayudas a la navegacion y otras instalaciones delNuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7052051.87
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-34e98b07-e06e-47fd-a6c5-61c33965dce0",
+          "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-08-17T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-08-17T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-676e9cdf-973a-4163-aa80-6e4c1fd11393",
+          "url": "http://189.211.120.220:8880/files/opendata/16066-ITP-SRO-DCAGI-SC-066-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-08-17T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-08-17T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-08-17T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "0",
+            "locality": "0",
+            "postalCode": "0",
+            "streetAddress": "0",
+            "region": "0"
+          },
+          "identifier": {
+            "id": "0",
+            "legalName": "ACONSA Y ASOCIADOS CONSULTORES, S. DE R. L. DE C.V."
+          },
+          "name": "ACONSA Y ASOCIADOS CONSULTORES, S. DE R. L. DE C.V."
+        }
+      ]
+    }
+  ]
+}

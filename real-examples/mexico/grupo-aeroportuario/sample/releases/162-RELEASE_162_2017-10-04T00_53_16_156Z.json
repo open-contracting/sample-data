@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-01-25T06:00:00.000Z",
+        "endDate": "2016-02-15T06:00:00.000Z"
+      },
+      "title": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+      "id": "AD-SRO-DCAGI-SC-022/16",
+      "awardID": "AO-009KDH999-E99-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-4ac808fb-e95a-4560-b1d7-321e57be0845",
+          "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-22T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-22T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-01b0ea81-edf4-41ed-b988-2017c118945b",
+          "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-22T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-22T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-946b3125-e1b7-4c22-b4b4-437de306da9e",
+          "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-01-22T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-22T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-e8f46a0a-f0a3-4cf4-a21f-517cd984d789",
+          "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-01-22T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-22T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 384000
+      },
+      "items": [
+        {
+          "id": "item-65193f51-f08e-44bf-b71e-f829588e6504",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 384000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-29610933-0f44-44bd-81e8-d9f13c8f17f2"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "OTT9504062X7",
+              "legalName": "OMNIBUS TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V.",
+              "scheme": "OMNIBUS TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-022/16 SERVICIO DE TRANSPORTE CON CAMIONETAS DE REDILAS",
+            "id": "milestone-94d85416-80f3-453a-a634-27ae0eef3266",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-02-03T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.161Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 688000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-293beb65-e382-4af1-bebf-11ebc2201ef4",
+        "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-01-22T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-01-22T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-4e34c24e-73d6-45a9-8fff-610b9827561d",
+        "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-d7850c3e-192e-4dd4-bd32-a08c1cafffcf",
+        "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-d6291493-e284-4a50-8cae-61c71c6c132c",
+        "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-a9f992ae-bb7f-4820-a2ce-58ea6935d676",
+        "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-2b216da0-633d-4bb9-8681-99342278f805",
+        "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1109743",
+    "items": [
+      {
+        "id": "item-51a96028-ef4e-4ba5-b2a5-9136b01a2bdd",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 384000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+      "amount": {
+        "currency": "MXN",
+        "amount": 688000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015 y 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7e604877-891e-47c6-92fe-f7c82d728b30",
+        "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-01-22T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-01-22T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_162_2017-10-04T00:53:16.156Z",
+  "ocid": "162",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+      "id": "AO-009KDH999-E99-2016",
+      "contractPeriod": {
+        "startDate": "2016-01-25T06:00:00.000Z",
+        "endDate": "2016-02-15T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 384000
+      },
+      "items": [
+        {
+          "id": "item-392528cd-5518-476e-9293-ef60c3616516",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de transporte en camionetas de redilas, con capacidad de carga de 3.5 toneladas, doble rodada, para movilidad de materiales y equipo",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 384000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-21ad3d7e-35fd-468f-9a59-cd81c159daac",
+          "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-01-22T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-22T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-35a16a23-0c35-43be-b032-1f1d2efc0a62",
+          "url": "http://189.211.120.220:8880/files/opendata/16022-AD-SRO-DCAGI-SC-022-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-01-22T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-22T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Nueva Vallejo",
+            "postalCode": "7750",
+            "streetAddress": "Calzada Vallejo 705",
+            "region": "Gustavo A. Madero"
+          },
+          "identifier": {
+            "id": "OTT9504062X7",
+            "legalName": "OMNIBUS Y TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V."
+          },
+          "name": "OMNIBUS Y TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

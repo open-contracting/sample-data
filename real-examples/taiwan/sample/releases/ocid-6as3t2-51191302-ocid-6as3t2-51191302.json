@@ -1,193 +1,193 @@
 {
-  "tag": "awardNotice",
-  "name": "103學年度高三校外教學參觀委辦案",
-  "date": "2014-02-25",
-  "ocid": "ocid-6as3t2-51191302",
   "buyer": {
+    "id": "ocid-6as3t2-51191302-buyer",
     "identifier": {
-      "id": "3.92.3.4",
-      "legalName": "國立沙鹿高級工業職業學校"
-    },
-    "id": "ocid-6as3t2-51191302-buyer"
+      "legalName": "國立沙鹿高級工業職業學校",
+      "id": "3.92.3.4"
+    }
   },
-  "tender": {
-    "id": "ocid-6as3t2-51191302-tender",
-    "identifier": {
-      "id": "3.92.3.4",
-      "legalName": "國立沙鹿高級工業職業學校"
-    },
-    "procurementMethod": "限制性招標(經公開評選或公開徵求)",
-    "tenderers": [
-      {
-        "identifier": {
-          "id": "54239206",
-          "legalName": "采登旅行社有限公司"
-        },
-        "organizationType": "公司登記",
-        "number": 1
-      },
-      {
-        "identifier": {
-          "id": "24254398",
-          "legalName": "平安歸旅行社有限公司"
-        },
-        "organizationType": "公司登記",
-        "number": 2
-      }
-    ],
-    "tederPeriod": {
-      "startDate": "2014-02-07",
-      "endDate": "2014-02-21",
-      "announceTimes": "01"
-    },
-    "numberOfBids": 2,
-    "processMethod": "自辦",
-    "deliveryAddress": {
-      "addresses": [
-        {
-          "region": "臺中市",
-          "locality": "沙鹿區"
-        }
-      ],
-      "aboriginalRegion": false
-    },
-    "executingEntity": {
-      "identifier": {
-        "id": "3.92.3.4",
-        "legalName": "國立沙鹿高級工業職業學校"
-      }
-    },
-    "deliveryLocation": [
-      {
-        "description": "臺中市, 沙鹿區"
-      }
-    ],
-    "procuringEntity": {
-      "identifier": {
-        "id": "3.92.3.4",
-        "legalName": "國立沙鹿高級工業職業學校"
-      }
-    },
-    "budget": {
-      "value": {
-        "amount": 2943850,
-        "currency": "TWD"
-      }
-    },
-    "awardCriteria": "準用最有利標",
-    "procurementAmountRange": "公告金額以上未達查核金額",
-    "items": [
-      {
-        "classification": {
-          "id": "641",
-          "description": "<勞務類>, 旅館及其他住宿服務",
-          "scheme": "CPC"
-        },
-        "number": 1
-      }
-    ]
-  },
-  "awards": {
-    "awardAnnounceDate": "2014-02-25",
-    "awardDate": "2014-02-21",
-    "id": "ocid-6as3t2-51191302-awards",
-    "awardCriteria": "準用最有利標",
-    "totalAwardValue": {
-      "amount": 2911500,
-      "currency": "TWD"
-    },
-    "items": [
-      {
-        "withoutTenderer": [
-          {
-            "identifier": {
-              "legalName": null
-            },
-            "bidAmount": 2924440,
-            "failReason": "資格、規格合於招標文件但非最有利標或最優勝廠商",
-            "number": 1
-          }
-        ],
-        "classification": {
-          "id": "641",
-          "description": "<勞務類>, 旅館及其他住宿服務",
-          "scheme": "CPC"
-        },
-        "suppliers": [
-          {
-            "address": {
-              "region": "臺中市",
-              "postalCode": "404",
-              "locality": "北區",
-              "streetAddress": "博館路87號4樓"
-            },
-            "awardValue": {
-              "amount": 2911500,
-              "currency": "TWD"
-            },
-            "quantity": 647,
-            "employeeExceedOneHundred": false,
-            "number": 1,
-            "identifier": {
-              "id": "54239206",
-              "legalName": "采登旅行社有限公司"
-            },
-            "minValue": {
-              "amount": 2911500,
-              "currency": "TWD"
-            },
-            "contractPeriod": {
-              "startDate": "2014-10-01",
-              "endDate": "2014-10-03"
-            },
-            "organizationType": "公司登記",
-            "sme": "是"
-          }
-        ],
-        "number": 1
-      }
-    ]
-  },
-  "language": "zh",
+  "ocid": "ocid-6as3t2-51191302",
   "committee": {
     "id": "ocid-6as3t2-51191302-committee",
     "member": [
       {
         "name": "葉宗哲",
+        "attend": true,
         "number": 1,
-        "profession": "進修學校主任",
-        "attend": true
+        "profession": "進修學校主任"
       },
       {
         "name": "林秋東",
+        "attend": true,
         "number": 2,
-        "profession": "學務主任",
-        "attend": true
+        "profession": "學務主任"
       },
       {
         "name": "王志宏",
+        "attend": true,
         "number": 3,
-        "profession": "國立臺中教育大學副教授",
-        "attend": true
+        "profession": "國立臺中教育大學副教授"
       },
       {
         "name": "洪麗美",
+        "attend": true,
         "number": 4,
-        "profession": "弘光科技大學助理教授",
-        "attend": true
+        "profession": "弘光科技大學助理教授"
       },
       {
         "name": "張峻嘉",
+        "attend": true,
         "number": 5,
-        "profession": "私立亞洲大學助理教授",
-        "attend": true
+        "profession": "私立亞洲大學助理教授"
       }
     ]
   },
+  "awards": {
+    "awardCriteria": "準用最有利標",
+    "awardAnnounceDate": "2014-02-25",
+    "awardDate": "2014-02-21",
+    "items": [
+      {
+        "suppliers": [
+          {
+            "organizationType": "公司登記",
+            "identifier": {
+              "legalName": "采登旅行社有限公司",
+              "id": "54239206"
+            },
+            "employeeExceedOneHundred": false,
+            "sme": "是",
+            "contractPeriod": {
+              "endDate": "2014-10-03",
+              "startDate": "2014-10-01"
+            },
+            "minValue": {
+              "currency": "TWD",
+              "amount": 2911500
+            },
+            "quantity": 647,
+            "number": 1,
+            "awardValue": {
+              "currency": "TWD",
+              "amount": 2911500
+            },
+            "address": {
+              "postalCode": "404",
+              "region": "臺中市",
+              "streetAddress": "博館路87號4樓",
+              "locality": "北區"
+            }
+          }
+        ],
+        "classification": {
+          "description": "<勞務類>, 旅館及其他住宿服務",
+          "id": "641",
+          "scheme": "CPC"
+        },
+        "withoutTenderer": [
+          {
+            "bidAmount": 2924440,
+            "failReason": "資格、規格合於招標文件但非最有利標或最優勝廠商",
+            "identifier": {
+              "legalName": null
+            },
+            "number": 1
+          }
+        ],
+        "number": 1
+      }
+    ],
+    "id": "ocid-6as3t2-51191302-awards",
+    "totalAwardValue": {
+      "currency": "TWD",
+      "amount": 2911500
+    }
+  },
+  "tag": "awardNotice",
+  "name": "103學年度高三校外教學參觀委辦案",
   "id": "ocid-6as3t2-51191302",
   "packageInfo": {
     "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
     "publishedDate": "2015-12-01",
     "publisher": "DSP,Inc."
+  },
+  "language": "zh",
+  "date": "2014-02-25",
+  "tender": {
+    "budget": {
+      "value": {
+        "currency": "TWD",
+        "amount": 2943850
+      }
+    },
+    "numberOfBids": 2,
+    "deliveryAddress": {
+      "aboriginalRegion": false,
+      "addresses": [
+        {
+          "region": "臺中市",
+          "locality": "沙鹿區"
+        }
+      ]
+    },
+    "procuringEntity": {
+      "identifier": {
+        "legalName": "國立沙鹿高級工業職業學校",
+        "id": "3.92.3.4"
+      }
+    },
+    "identifier": {
+      "legalName": "國立沙鹿高級工業職業學校",
+      "id": "3.92.3.4"
+    },
+    "executingEntity": {
+      "identifier": {
+        "legalName": "國立沙鹿高級工業職業學校",
+        "id": "3.92.3.4"
+      }
+    },
+    "procurementAmountRange": "公告金額以上未達查核金額",
+    "tenderers": [
+      {
+        "organizationType": "公司登記",
+        "identifier": {
+          "legalName": "采登旅行社有限公司",
+          "id": "54239206"
+        },
+        "number": 1
+      },
+      {
+        "organizationType": "公司登記",
+        "identifier": {
+          "legalName": "平安歸旅行社有限公司",
+          "id": "24254398"
+        },
+        "number": 2
+      }
+    ],
+    "awardCriteria": "準用最有利標",
+    "deliveryLocation": [
+      {
+        "description": "臺中市, 沙鹿區"
+      }
+    ],
+    "items": [
+      {
+        "classification": {
+          "description": "<勞務類>, 旅館及其他住宿服務",
+          "id": "641",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ],
+    "processMethod": "自辦",
+    "id": "ocid-6as3t2-51191302-tender",
+    "procurementMethod": "限制性招標(經公開評選或公開徵求)",
+    "tederPeriod": {
+      "endDate": "2014-02-21",
+      "startDate": "2014-02-07",
+      "announceTimes": "01"
+    }
   }
 }

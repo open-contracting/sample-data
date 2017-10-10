@@ -1,0 +1,389 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-07-21T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "Implementacion del plan de restauracion ecologica para el nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "LPN-SRO-DCAGI-SC-043/15",
+      "awardID": "LO-009KDH999- N45-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-f1cec263-59a0-4fd5-851b-753a21572870",
+          "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c45420f5-a9f7-4b85-893c-1c5380838783",
+          "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-3c16f937-a0b7-4999-9d9f-43af75bdc8e0",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-LPN-SRO-DCAGI-SC-043-15-VP.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-a891e1b4-77a8-4e58-9f03-aea8441d53e8",
+          "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-3dd949b3-e857-461f-93e9-278f3e902fde",
+          "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 18934197.76
+      },
+      "items": [
+        {
+          "id": "item-cade07da-7554-44fe-80ca-2918eb905e63",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Implementacion del plan de restauracion ecologica para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 18934197.76
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-b76ece5c-ed9f-40c8-815f-06b24ce6907d"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "MIC020410UGA",
+              "legalName": "MANEJO INTEGRAL DE CUENCAS, S.A. DE C.V.",
+              "scheme": "MANEJO INTEGRAL DE CUENCAS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 14085145.29
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-SRO-DCAGI-SC-043/15 IMPLEMENTACI?N DEL PLAN DE RESTAURACI?N ECOL?GICA",
+            "id": "milestone-e7a349c1-aa98-4ef9-932b-a6c8c63d3a61",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-07-21T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:20.062Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Implementacion del plan de restauracion ecologica para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "awardPeriod": {
+      "startDate": "2015-05-19T05:00:00.000Z",
+      "endDate": "2015-06-29T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 26000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Implementacion del plan de restauracion ecologica para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-4461b09e-385a-41b7-80fc-67e0b5dd6073",
+        "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-dbd53b4e-b6b4-4700-bba4-64ca10d8d5f5",
+        "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-bcbce84b-4a22-4833-b183-9dd8ea0be3bb",
+        "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-741f3c67-33f7-42d8-804f-16792c82b316",
+        "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-bc42cc64-8e07-40a0-955d-27a2a259d2e3",
+        "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-675a973c-ea10-4a7d-b0be-c034fe165386",
+        "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2015-05-19T05:00:00.000Z",
+      "endDate": "2015-06-29T05:00:00.000Z"
+    },
+    "id": "830617",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-a7005d7a-cd01-4421-83c8-06322de8ccd7",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Implementacion del plan de restauracion ecologica para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 18934197.76
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-06-19T05:00:00.000Z",
+      "endDate": "2015-06-19T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 26000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1125bf74-a540-447a-a0aa-6e37fbb41396",
+        "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-07-06T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-07-06T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Implementacion del plan de restauracion ecologica para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_88_2017-10-04T00:53:20.058Z",
+  "ocid": "88",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Implementacion del plan de restauracion ecologica para el nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "LO-009KDH999- N45-2015",
+      "contractPeriod": {
+        "startDate": "2015-07-21T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 18934197.76
+      },
+      "items": [
+        {
+          "id": "item-d271b803-08f1-462d-8b36-1b83505fe85c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Implementacion del plan de restauracion ecologica para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 18934197.76
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-4f86ff36-39af-44d9-9982-097d5fa1c289",
+          "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-d4aa3832-1c48-4985-87ac-acedf2242799",
+          "url": "http://189.211.120.220:8880/files/opendata/15043-LPN-SRO-DCAGI-SC-043-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-07-06T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-06T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-07-06T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Nezahualcoyotl",
+            "postalCode": "56234",
+            "streetAddress": "Jose Maria Pino Suarez Manzana 15, Lote 19",
+            "region": "Municipio de Texcoco"
+          },
+          "identifier": {
+            "id": "MIC020410UGA",
+            "legalName": "Manejo Integral de Cuencas, S.A. de C.V."
+          },
+          "name": "Manejo Integral de Cuencas, S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "language": "es",
+  "packageInfo": {
+    "publishedDate": "2017-09-08T07:18:31-04:00",
+    "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+    "publisher": {
+      "name": "DNCP - Paraguay",
+      "uri": "https://contrataciones.gov.py/datos",
+      "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay"
+    }
+  },
+  "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1-award",
+  "initiationType": "tender",
+  "date": "2017-09-08T07:18:31-04:00",
+  "tag": [
+    "award"
+  ],
+  "awards": [
+    {
+      "id": "274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+      "title": "ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE LA RED DE PLANTA EXTERNA AD REFERENDUM",
+      "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/274744-adquisicion-materiales-mantenimiento-red-planta-externa-ad-referendum-1",
+      "date": "2016-07-14T17:40:06-04:00",
+      "value": {
+        "currency": "PYG",
+        "amount": 771657000.0
+      },
+      "suppliers": [
+        {
+          "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+          "identifier": {
+            "legalName": "GUSTAVO ALBERTO AQUINO ALFIERI",
+            "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "id": "368894-1",
+            "key": "274744-gustavo-alberto-aquino-alfieri-3"
+          },
+          "address": {
+            "countryName": "Paraguay",
+            "locality": "ASUNCION (DISTRITO)",
+            "streetAddress": "JUAN MAX BOETTNER 930",
+            "region": "Central",
+            "postalCode": ""
+          },
+          "contactPoint": {
+            "url": null,
+            "name": "GUSTAVO ALBERTO AQUINO ALFIERI",
+            "faxNumber": "",
+            "email": "gustaqui@pla.net.py",
+            "telephone": "611230"
+          }
+        },
+        {
+          "name": "NELSON FRANCISCO VERA QUINTANA",
+          "identifier": {
+            "legalName": "NELSON FRANCISCO VERA QUINTANA",
+            "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "id": "855506-0",
+            "key": "274744-nelson-francisco-vera-quintana-2"
+          },
+          "address": {
+            "countryName": "Paraguay",
+            "locality": "ASUNCIÓN.",
+            "streetAddress": "INGLATERRA N° 143 C/ ARTIGAS.",
+            "region": "Asunción",
+            "postalCode": ""
+          },
+          "contactPoint": {
+            "url": null,
+            "name": "NELSON FRANCISCO VERA QUINTANA.",
+            "faxNumber": "",
+            "email": "lida.cuevas@pmc.com.py",
+            "telephone": "021 295 748/9"
+          }
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "ocid": "ocds-03ad3f-274744"
+}

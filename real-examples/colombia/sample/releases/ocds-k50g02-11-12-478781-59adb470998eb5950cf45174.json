@@ -1,0 +1,172 @@
+{
+  "planning": {
+    "documents": [],
+    "id": "11-12-478781",
+    "budget": {
+      "amount": {
+        "currency": "COP"
+      },
+      "source": "http://www.minhacienda.gov.co/HomeMinhacienda/siif"
+    }
+  },
+  "language": "es",
+  "id": "59adb470998eb5950cf45174",
+  "buyer": {
+    "address": {
+      "locality": "Cartago",
+      "countryName": "Colombia",
+      "region": "Valle del Cauca"
+    },
+    "name": "VALLE DEL CAUCA - ALCALD�A MUNICIPIO DE CARTAGO",
+    "identifier": {
+      "legalName": "VALLE DEL CAUCA - ALCALD�A MUNICIPIO DE CARTAGO",
+      "scheme": "NIT",
+      "id": "800095754-4"
+    }
+  },
+  "num_constancia": "11-12-478781",
+  "initiationType": "tender",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=11-12-478781",
+  "procurement_type": "Contrataci�n Directa (Ley 1150 de 2007)",
+  "tender": {
+    "id": "11-12-478781",
+    "status": "complete",
+    "items": [
+      {
+        "classification": {
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios",
+          "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+          "scheme": "UNSPSC"
+        },
+        "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+        "id": 80000000
+      }
+    ],
+    "title": "1-026-2011",
+    "submissionMethod": [
+      "written"
+    ],
+    "description": "PRESTAR LOS SERVICIOS PROFESIONALES Y DE APOYO A LA GESTI�N  PARA LA EJECUCI�N DEL PROYECTO: PROGRAMAS PARA EL DESARROLLO Y LA CONVIVENCIA FAMILIAR  MEDIANTE LA PRESTACION DE SERVICIOS PROFESIONALES DE UN MEDICO Y UN TRABAJADOR SOCIAL EN COMISARIA DE FAMILIA EN EL MUNICIPIO DE CARTAGO  VALLE DEL CAUCA",
+    "value": {
+      "currency": "COP",
+      "amount": 39159992.0
+    },
+    "procurementMethod": "limited"
+  },
+  "awards": [
+    {
+      "items": [
+        {
+          "classification": {
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios",
+            "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+            "scheme": "UNSPSC"
+          },
+          "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+          "id": 80000000
+        }
+      ],
+      "id": 521951,
+      "suppliers": [
+        {
+          "address": {
+            "streetAddress": "CALLE 15 No. 10-101",
+            "countryName": "Colombia",
+            "region": "Valle del Cauca"
+          },
+          "name": "MARCELA MARIA ALZATE CASTA�O",
+          "identifier": {
+            "legalName": "MARCELA MARIA ALZATE CASTA�O",
+            "scheme": "Nit de Persona Natural",
+            "id": "31436921-3"
+          }
+        }
+      ],
+      "value": {
+        "currency": "COP",
+        "amount": 39159992.0
+      },
+      "status": "active"
+    }
+  ],
+  "ocid": "ocds-k50g02-11-12-478781",
+  "date": "2011-04-08T21:13:03.000000Z",
+  "contracts": [
+    {
+      "dateSigned": "2011-04-06T05:00:00.000000Z",
+      "period": {
+        "endDate": "2011-12-06T05:00:00.000000Z",
+        "startDate": "2011-04-06T05:00:00.000000Z"
+      },
+      "ocid": "ocds-k50g02-11-12-478781",
+      "id": "1-026-2011",
+      "status": "terminated",
+      "awardID": "521951",
+      "documents": [
+        {
+          "id": "2457051",
+          "dateModified": "2011-04-08T21:08:12.000000Z",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/historico/E/archivospuc1/2011/C/276147011/11-12-478781/C_PROCESO_11-12-478781_276147011_2457051.pdf",
+          "format": "application/pdf",
+          "title": "C_PROCESO_11-12-478781_276147011_2457051.pdf",
+          "documentType": "contractSigned",
+          "description": "CONTRATO DE PRESTACION DE SERVICIOS PROFESIONALES 1-026-2011",
+          "datePublished": "2011-04-08T21:08:12.000000Z"
+        },
+        {
+          "id": "2457066",
+          "dateModified": "2011-04-08T21:09:09.000000Z",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/historico/E/archivospuc1/2011/DA/276147011/11-12-478781/DA_PROCESO_11-12-478781_276147011_2457066.pdf",
+          "format": "application/pdf",
+          "title": "DA_PROCESO_11-12-478781_276147011_2457066.pdf",
+          "documentType": "contractAnnexe",
+          "description": "ESTUDIOS PREVIOS",
+          "datePublished": "2011-04-08T21:09:09.000000Z"
+        },
+        {
+          "id": "2457112",
+          "dateModified": "2011-04-08T21:11:55.000000Z",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/historico/E/archivospuc1/2011/DA/276147011/11-12-478781/DA_PROCESO_11-12-478781_276147011_2457112.pdf",
+          "format": "application/pdf",
+          "title": "DA_PROCESO_11-12-478781_276147011_2457112.pdf",
+          "documentType": "contractAnnexe",
+          "description": "RESOLUCION ADJUDICACION",
+          "datePublished": "2011-04-08T21:11:55.000000Z"
+        },
+        {
+          "id": "2471294",
+          "dateModified": "2011-04-13T13:29:09.000000Z",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/historico/E/archivospuc1/2011/AAR/276147011/11-12-478781/AAR_PROCESO_11-12-478781_276147011_2471294.pdf",
+          "format": "application/pdf",
+          "title": "AAR_PROCESO_11-12-478781_276147011_2471294.pdf",
+          "datePublished": "2011-04-13T13:29:09.000000Z",
+          "description": "DOCUMENTO TERMINACION ANORMAL"
+        }
+      ],
+      "items": [
+        {
+          "classification": {
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios",
+            "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+            "scheme": "UNSPSC"
+          },
+          "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+          "id": 80000000
+        }
+      ],
+      "value": {
+        "currency": "COP",
+        "amount": 39159992.0
+      }
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "uri": "https://www.colombiacompra.gov.co/",
+      "name": "Colombia Compra"
+    }
+  },
+  "tag": [
+    "contractTermination"
+  ]
+}

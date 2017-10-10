@@ -1,0 +1,404 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-03-01T06:00:00.000Z",
+        "endDate": "2017-12-31T06:00:00.000Z"
+      },
+      "title": "IMPLEMENTACION DE LA GESTION PARA EL TRAMITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO.",
+      "id": "ITP-SRO-DCAGI-SC-013-17",
+      "awardID": "IO-009KDH999-E14-2017",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c4042b10-e887-4090-b18d-268f58c34d12",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/15.-%20CF/15.pdf",
+          "datePublished": "2017-02-22T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-02-22T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-d506eeea-af7b-4378-99a0-b47dee9cae8b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/15.-%20CF/15.pdf",
+          "datePublished": "2017-02-22T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-02-22T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-d9e5bea0-2b17-4c01-9e52-473e5a0a7ed0",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/17.-%20GA/17.pdf",
+          "datePublished": "2017-02-22T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-02-22T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-ef846cc0-5d10-44ec-81de-01a11b9c53bc",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/18.-%20GC/18.pdf",
+          "datePublished": "2017-02-22T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-02-22T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7306345.98
+      },
+      "items": [
+        {
+          "id": "item-6edc2fb8-cd81-4a4c-a6ee-378589a5f217",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "IMPLEMENTACI?N DE LA GESTI?N PARA EL TR?MITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 7306345.98
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-257cbb2f-fe86-4ca1-a089-fc6bdb58dcb7"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "API1010131F0",
+              "legalName": "APIAESCO, S.A. DE C.V.",
+              "scheme": "APIAESCO, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-013-17 IMPLEMENTACI?N DE LA GESTI?N PARA EL TR?MITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO.",
+            "id": "milestone-a5d5493c-9f0c-41f7-9ff7-a42b3d22288b",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-03-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.579Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-02-02T06:00:00.000Z",
+      "endDate": "2017-02-16T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "19 INVITACION A CUANDO MENOS TRES NACIONAL LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 7327586.2
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "IMPLEMENTACI?N DE LA GESTI?N PARA EL TR?MITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO.n",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-16e19343-b7be-47c2-8791-e6926a249fe5",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/9.-%20AJ/9.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-450671ce-c538-4034-988c-36e121102a09",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-c7ac0c75-eda4-40f0-9015-efa920fef30d",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-9e27971a-73ba-4db9-b16c-9e6bfcab9813",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-55cf92c7-5872-400a-876a-f0e5874a9b36",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-2d9dfc8a-4cf0-47cb-bf25-9dcae2d38344",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/8.-%20CC/8.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2017-02-02T06:00:00.000Z",
+      "endDate": "2017-02-16T06:00:00.000Z"
+    },
+    "id": "1267231",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-24c0ae70-d00f-443a-8a55-e8ecca7450db",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "IMPLEMENTACI?N DE LA GESTI?N PARA EL TR?MITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 7306345.98
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2017-02-09T06:00:00.000Z",
+      "endDate": "2017-02-16T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 7327586.2
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-386b1d02-45c4-4994-ac0b-4952dcf863d0",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/4.-%20TR/4.3.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bae52c15-85da-4fe9-a97c-903879db15fc",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/4.-%20TR/4.2.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-173a9df5-3914-4eed-844b-64cf615a1637",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/4.-%20TR/4.1.pdf",
+        "datePublished": "2017-02-22T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-02-22T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "IMPLEMENTACI?N DE LA GESTI?N PARA EL TR?MITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO."
+  },
+  "date": "2017-08-18T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_555_2017-10-04T00:53:19.575Z",
+  "ocid": "555",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "IMPLEMENTACI?N DE LA GESTI?N PARA EL TR?MITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO.",
+      "id": "IO-009KDH999-E14-2017",
+      "contractPeriod": {
+        "startDate": "2017-03-01T06:00:00.000Z",
+        "endDate": "2017-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7306345.98
+      },
+      "items": [
+        {
+          "id": "item-9762f626-8008-4024-b4a0-46c0d0cb55ce",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "IMPLEMENTACI?N DE LA GESTI?N PARA EL TR?MITE DE PAGO DE ESTIMACIONES DE OBRA Y SERVICIOS DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 7306345.98
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-af0c6f82-e6bc-43fe-91ce-00f44b3e0cfd",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/12.-%20AF/12.pdf",
+          "datePublished": "2017-02-22T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-02-22T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-7980eb00-9030-451e-96ca-0fabb6c62733",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17013-ITP-SRO-DCAGI-SC-013-2017/10.-%20AP/10.pdf",
+          "datePublished": "2017-02-22T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-02-22T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-02-22T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "locality": "NAPOLES",
+            "postalCode": "03810",
+            "streetAddress": "MONTECITO PISO 12 / OFICINA 12 / 38",
+            "countryName": "CIUDAD DE MEXICO"
+          },
+          "contactPoint": {
+            "email": "OCTAVIO.OLIVA@GMAIL.COM",
+            "name": "OCTAVIO OLIVA"
+          },
+          "identifier": {
+            "id": "API1010131F0",
+            "legalName": "APIAESCO, S.A. DE C.V."
+          },
+          "name": "APIAESCO, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-01-01T06:00:00.000Z",
+        "endDate": "2016-11-30T06:00:00.000Z"
+      },
+      "title": "Servicio Integral de Limpieza en los inmuebles de GACM",
+      "id": "AD-S-DCAGI-SC-017/16",
+      "awardID": "AA-009KDH999-E74-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-66d355cf-bb3e-4d20-bf76-e770959513e2",
+          "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-18T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-18T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-eb2e552f-9d78-4972-9036-64b7cef1e3f5",
+          "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-18T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-18T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-d95f0894-0921-4f99-ac98-00686b17129a",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-AD-AS-DCAGI-SC-017-16.pdf",
+          "datePublished": "2015-12-18T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-12-18T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-38ddb2a5-513d-4b9b-9eb2-e4eba033769e",
+          "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-18T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-18T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-ed98e507-b2f1-4ae4-ae5b-e91b4a040272",
+          "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-18T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-18T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 646211.8
+      },
+      "items": [
+        {
+          "id": "item-29dce72d-a6da-4751-97d7-79c768432493",
+          "classification": {
+            "id": "3580",
+            "scheme": "SERVICIOS DE LAVANDERIA, LIMPIEZA, HIGIENE"
+          },
+          "quantity": 1,
+          "description": "Servicio Integral de Limpieza en los inmuebles de GACM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 646211.8
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-1a49132d-80b4-4656-a457-b0b9a8b88769"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/35801.pdf",
+            "receiverOrganization": {
+              "id": "MIC030120GM4",
+              "legalName": "MICMAR S.A. DE C.V.",
+              "scheme": "MICMAR S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-017/16 SERVICIO DE LIMPIEZA INTEGRAL PARA LOS INMUEBLES DE SANTA CATARINA-ALTAVISTA Y TORRE MURANO DE GACM",
+            "id": "milestone-dc5d293a-2279-4928-8dd4-2e366412005a",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-12-29T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.570Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Servicio Integral de Limpieza en los inmuebles de GACM",
+    "awardPeriod": {
+      "startDate": "2016-05-24T05:00:00.000Z",
+      "endDate": "2016-06-29T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 750000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Servicio Integral de Limpieza en los inmuebles de GACM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6f509c4e-b1cc-4337-a0a9-b466a48cf837",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-f10af8b4-c3fa-4cb5-a6f6-f969dfc16fa3",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-c9d3e8e6-e3ad-4ec7-8654-a9219129ee76",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-7135b56c-85ab-4273-8dd5-e34be40bbc34",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-2202d293-7827-476c-8f38-c13ca0ed6750",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-f713db75-06e9-48e6-8f69-51c93d6568fb",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-05-24T05:00:00.000Z",
+      "endDate": "2016-06-29T05:00:00.000Z"
+    },
+    "id": "1069167",
+    "items": [
+      {
+        "id": "item-470740e7-2c04-4668-93cf-784543a4604c",
+        "classification": {
+          "id": "3580",
+          "scheme": "SERVICIOS DE LAVANDERIA, LIMPIEZA, HIGIENE"
+        },
+        "quantity": 1,
+        "description": "Servicio Integral de Limpieza en los inmuebles de GACM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 646211.8
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "SERVICIOS DE LAVANDERIA, LIMPIEZA E HIGIENE",
+      "amount": {
+        "currency": "MXN",
+        "amount": 750000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-4aaab212-09ce-46cf-841b-b2c98597e4b2",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/5.-%20IM/5.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3737ab49-6121-4062-bade-431f73d2978c",
+        "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-18T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-18T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio Integral de Limpieza en los inmuebles de GACM"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_290_2017-10-04T00:53:17.566Z",
+  "ocid": "290",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio Integral de Limpieza en los inmuebles de GACM",
+      "id": "AA-009KDH999-E74-2016",
+      "contractPeriod": {
+        "startDate": "2016-01-01T06:00:00.000Z",
+        "endDate": "2016-11-30T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 646211.8
+      },
+      "items": [
+        {
+          "id": "item-8bc762f0-8a8b-429b-af2c-e2d6b858e3b4",
+          "classification": {
+            "id": "3580",
+            "scheme": "SERVICIOS DE LAVANDERIA, LIMPIEZA, HIGIENE"
+          },
+          "quantity": 1,
+          "description": "Servicio Integral de Limpieza en los inmuebles de GACM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 646211.8
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-4b00ef12-c15f-42ff-9c26-3a7bec21c4f4",
+          "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-18T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-18T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-63852277-26ea-4f31-9f70-5f41b0b2161e",
+          "url": "http://189.211.120.220:8880/files/opendata/16017-AD-AS-DCAGI-SC-017-16/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-18T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-18T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Roma Norte",
+            "postalCode": "6700",
+            "streetAddress": "Cordoba Num. 64",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "TEN080207SR2",
+            "legalName": "TRIPALLIUM ENTERPRISES, S. A. DE C.V."
+          },
+          "name": "TRIPALLIUM ENTERPRISES, S. A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

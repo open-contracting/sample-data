@@ -1,0 +1,377 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-11-15T06:00:00.000Z",
+        "endDate": "2016-12-15T06:00:00.000Z"
+      },
+      "title": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LOS TRATADOS, RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NAICM",
+      "id": "AD-AS-DCAGI-SC-082-16",
+      "awardID": "AA-009KDH999-E2-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-379f0a25-7cf3-40eb-a116-ff028b0e982f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-a3c973c6-404d-4ce5-9c44-c9fc1ba2196c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-9fe93ce3-61e9-4ee3-b54a-495e2d28b2fc",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-3bb18eae-d617-4a1f-a2ae-7f84c3a9e882",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 374256.96
+      },
+      "items": [
+        {
+          "id": "item-d15216ab-44f1-4682-b555-760a60f2fbb5",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LOS TRATADOS, RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 374256.96
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-52d05079-2ed1-4a51-aa3d-1ec208678ab5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "AMA940914KD4",
+              "legalName": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C.",
+              "scheme": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-082-16 SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LOS TRATADOS, RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NAICM",
+            "id": "milestone-d9f1bbfe-a2ff-46d6-85e7-58fd531e8362",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-11-15T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.848Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-01-11T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 400000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-74ba52f3-eedb-4d25-a9ce-4d8a915c2df3",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-cb6d4384-f5db-4bef-a453-f15ea5d54252",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-e0b07ce2-26e1-4ed9-89f7-5e0114981da0",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-7c0890f7-64a4-4d4f-ab8b-35dfa626ac84",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b8411a49-fcca-486d-bb08-dcc3df6fdcf7",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-707bbdc7-d744-47bc-b263-c871f1327974",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2017-01-11T06:00:00.000Z"
+    },
+    "id": "1252099",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-929dc6bc-e072-48d9-b0b0-0b1cfceb7378",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LOS TRATADOS, RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NAICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 374256.96
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 400000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3b67fa41-e613-4089-af31-f1cb55a45d25",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LOS TRATADOS, RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NAICM"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_455_2017-10-04T00:53:18.845Z",
+  "ocid": "455",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LOS TRATADOS, RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NAICM",
+      "id": "AA-009KDH999-E2-2017",
+      "contractPeriod": {
+        "startDate": "2016-11-15T06:00:00.000Z",
+        "endDate": "2016-12-15T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 374256.96
+      },
+      "items": [
+        {
+          "id": "item-c210e078-8c41-438a-8abe-8a8ae0ac91b1",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LOS TRATADOS, RELATIVA A LA SUPERVISION TECNICA Y ADMINISTRATIVA DE CONSTRUCCION PARA LOS TRABAJOS DE INFRAESTRUCTURA DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 374256.96
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-31f07526-eb3c-49da-a5e1-cc6cc5212289",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-3a98b392-45cc-4311-b7af-101bab374eb3",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16082-AD-AS-DCAGI-SC-082-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-11-01T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "GUADALUPE INN",
+            "postalCode": "01020",
+            "streetAddress": "INSURGENTES SUR 1883 203",
+            "region": "ALVARO OBREGON"
+          },
+          "contactPoint": {
+            "email": "CONTACTO@AMDAID.ORG.MX",
+            "telephone": "5662 2745",
+            "name": "GERARDO GONZALEZ DE ARAGON RODRIGUEZ"
+          },
+          "identifier": {
+            "id": "AMA940914KD4",
+            "legalName": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C."
+          },
+          "name": "ACADEMIA MEXICANA DE AUDITORIA INTEGRAL Y AL DESEMPE?O A.C."
+        }
+      ]
+    }
+  ]
+}

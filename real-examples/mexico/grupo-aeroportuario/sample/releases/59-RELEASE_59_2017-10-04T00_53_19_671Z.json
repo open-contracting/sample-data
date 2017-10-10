@@ -1,0 +1,362 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-04-01T06:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "title": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+      "id": "AD-AS-DCAGI-SC-020-2015",
+      "awardID": "SA-009KDH999-N36-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-b7143258-3ec6-4c57-8074-162462fb3f81",
+          "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-7e91ade8-15dd-4321-9901-887a043b5742",
+          "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-be71251c-cb5d-4c02-bbf3-a3898be8bea5",
+          "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-9b264ad6-71a1-4e48-b920-643d48a1c170",
+          "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1508620.69
+      },
+      "items": [
+        {
+          "id": "item-9fa82870-6b0d-4827-8f52-5a3c7b9503cc",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 1508620.69
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-1d07c9d0-690a-4c22-b97e-fa66199c425f"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "AURELIO MAR?N HUAZO",
+              "scheme": "AURELIO MAR?N HUAZO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-020/15 ASESOR?A ESPECIALIZADA EN MATERIA DE GESTI?N SOCIAL ANTE COMUNIDADES VECINAS DEL NAICM",
+            "id": "milestone-ddd05367-8577-4fd2-864a-20cb65299784",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-04-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.674Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+    "value": {
+      "currency": "MXN",
+      "amount": 1508620.7
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-bb777db0-15e4-4701-9b2b-7b94958553d0",
+        "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-24e27582-1727-4dd8-a3ac-00d8b050d3b2",
+        "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-635fb76f-10dc-4b93-97a7-8adc59090c3d",
+        "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-d369bed0-5e17-484a-a397-db954197bade",
+        "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-405e91b6-dbc5-43f0-a06f-015d131adae8",
+        "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-4dc50ad9-dae5-4d8a-b8d9-6a0eed4c7393",
+        "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "818235",
+    "items": [
+      {
+        "id": "item-869b81f2-7afb-47ff-bfa4-24de1c2a8113",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 1508620.69
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1508620.7
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9ff74f4e-6764-48be-83fd-8edea68c722c",
+        "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO"
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_59_2017-10-04T00:53:19.671Z",
+  "ocid": "59",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+      "id": "SA-009KDH999-N36-2015",
+      "contractPeriod": {
+        "startDate": "2015-04-01T06:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1508620.69
+      },
+      "items": [
+        {
+          "id": "item-3a145db4-3e99-4263-ba03-7d0c2e9aaa4a",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ASESORIA TECNICA ESPECIALIZADA EN MATERIA DE GESTION SOCIAL ANTE COMUNIDADES VECINAS DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 1508620.69
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-fd337710-8996-4623-a731-398ceec0b02a",
+          "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-4dd2c32d-9b52-4397-bf12-2fd0bc85e66c",
+          "url": "http://189.211.120.220:8880/files/opendata/15020-AD-AS-DCAGI-SC-020-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Valle de San Javier",
+            "postalCode": "42080",
+            "streetAddress": "Boulevard Valle de San Javier",
+            "region": "Tulancingo de Bravo"
+          },
+          "identifier": {
+            "id": "MAHA521229MKA",
+            "legalName": "AURELIO MARIN HUAZO"
+          },
+          "name": "AURELIO MARIN HUAZO"
+        }
+      ]
+    }
+  ]
+}

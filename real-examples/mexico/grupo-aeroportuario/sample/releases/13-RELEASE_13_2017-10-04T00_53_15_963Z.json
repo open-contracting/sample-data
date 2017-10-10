@@ -1,0 +1,245 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-993e0109-bd3f-4fe0-a157-a8050be84969",
+          "classification": {
+            "id": "3220",
+            "scheme": "ARRENDAMIENTO DE EDIFICIOS"
+          },
+          "quantity": 1,
+          "description": "Arrendamiento Torre Murano (1218 M2)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 16216056
+            }
+          }
+        }
+      ],
+      "title": "Arrendamiento Torre Murano (1218 M2)",
+      "id": "CTO.ARRENDAMIENTO.T.MURANO.01/14",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-8820f5b0-0bcc-41fd-aafc-a850ecbc18d9",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-CTO.ARRENDAMIENTO.T.MURANO.01-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-09-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-09-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-12597928-63e8-4dea-a7fa-5243b4e80edd",
+          "url": "http://189.211.120.220:8880/files/opendata/14001-CTO.ARRENDAMIENTO.T.MURANO.01-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-09-15T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-09-15T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 16216056
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-10ae0d8f-5a55-4a07-9848-52dfc743e4b5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/32201.pdf",
+            "receiverOrganization": {
+              "id": "BMF020529L22",
+              "legalName": "BANCA MIFEL, S.A. FID 292/2002",
+              "scheme": "BANCA MIFEL, S.A. FID 292/2002"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico CTO.ARRENDAMIENTO.T.MURANO.01/14 CONTRATO ARRENDAMIENTO DEL INMUEBLE DE TORRE MURANO",
+            "id": "milestone-cefc6d20-fa85-450d-8b73-6c5b37dfd2af",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "period": {
+        "startDate": "2015-10-19T05:00:00.000Z",
+        "endDate": "2019-05-01T05:00:00.000Z"
+      },
+      "dateSigned": "2014-09-15T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:15.967Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Arrendamiento Torre Murano (1218 M2)",
+    "description": "Arrendamiento Torre Murano (1218 M2)",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "procurementMethodRationale": "Nacional",
+    "submissionMethod": [
+      null
+    ],
+    "value": {
+      "currency": "MXN",
+      "amount": 17600000
+    },
+    "items": [
+      {
+        "id": "item-ef2f478c-7431-47fc-a6e8-1b1b6a1852c6",
+        "classification": {
+          "id": "3220",
+          "scheme": "ARRENDAMIENTO DE EDIFICIOS"
+        },
+        "quantity": 1,
+        "description": "Arrendamiento Torre Murano (1218 M2)",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 16216056
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "status": "active",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "ARRENDAMIENTO DE EDIFICIOS Y LOCALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 17600000
+      },
+      "description": "RECURSOS FISCALES",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-335110bc-ca72-479c-ae30-4d119a9231e1",
+        "url": "http://189.211.120.220:8880/files/opendata/14001-CTO.ARRENDAMIENTO.T.MURANO.01-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-09-15T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-09-15T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Arrendamiento Torre Murano (1218 M2)"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_13_2017-10-04T00:53:15.963Z",
+  "ocid": "13",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Arrendamiento Torre Murano (1218 M2)",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2015-10-19T05:00:00.000Z",
+        "endDate": "2019-05-01T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 16216056
+      },
+      "items": [
+        {
+          "id": "item-568153a5-429e-4c4a-b5a0-4606a45dcb22",
+          "classification": {
+            "id": "3220",
+            "scheme": "ARRENDAMIENTO DE EDIFICIOS"
+          },
+          "quantity": 1,
+          "description": "Arrendamiento Torre Murano (1218 M2)",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 16216056
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Jardines del Pedregal",
+            "postalCode": "1900",
+            "streetAddress": "Av. Periferico Sur No. 4118",
+            "region": "Alvaro Obregon"
+          },
+          "identifier": {
+            "id": "BMF020529L22",
+            "legalName": "Banca MIFEL, S.A."
+          },
+          "name": "Banca MIFEL, S.A."
+        }
+      ]
+    }
+  ]
+}

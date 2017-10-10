@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-02-10T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "title": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, LosaExperimental y Prueba de Pilotes para el Edificio Terminal y Torre de Control",
+      "id": "AD-AS-DCAGI-SC-008/16",
+      "awardID": "AA-009KDH999-E96-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-a3541d0f-0f43-499c-add7-fa9065326791",
+          "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-03T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-03T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6cc4ccab-7083-41ad-ab36-358cb1f4fed7",
+          "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-03T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-03T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-fd2b3645-3bcc-4b91-b31f-649d789012e6",
+          "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-02-03T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-03T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-432578a2-eec3-4a2b-b227-13875ebac6c0",
+          "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-02-03T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-03T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 269225.44
+      },
+      "items": [
+        {
+          "id": "item-c5c04742-1782-469f-ae54-8ddd62e2986c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, Losa",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 269225.44
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-40e935ff-364b-4c58-b19f-f81d9aa5173b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "IMA941216HE8",
+              "legalName": "INSTITUTO MEXICANO DE AUDITORIA TECNICA A.C.",
+              "scheme": "INSTITUTO MEXICANO DE AUDITORIA TECNICA A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-008/16 SERVICIO DE TESTIGO SOCIAL PARA EL PROCEDIMIENTO DE LPN, RELATIVA A LA EXCAVACI?N DE PRUEBA, LOSA EXPERIMENTAL Y PRUEBA DE PILOTES PARA EL EDIFICIO TERMINAL Y TORRE DE CONTROL",
+            "id": "milestone-ad879d52-d649-4832-84d0-a85b7c6ee62c",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-02-10T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.083Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, Losa Experimental y Prueba de Pilotes para el Edificio Terminal y Torre de Control",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 114503172.6
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, LosaExperimental y Prueba de Pilotes para el Edificio Terminal y Torre de Control",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-3ba004cc-2cfb-4eca-9085-e385d1490533",
+        "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-02-03T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-02-03T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-b800158f-8b52-4765-a05c-39f7ffa1cbe9",
+        "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-1f220a07-3fbd-4a82-beaf-f468c0445e29",
+        "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-82e3ea01-c203-41b4-846f-fc2ed917399c",
+        "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-2627df28-00ad-44ce-9453-192e740aab50",
+        "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-ce097dfb-66d8-4e3c-a0d6-80bda52a1187",
+        "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-03T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-03T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1109011",
+    "items": [
+      {
+        "id": "item-f26cb9ed-0a97-4d98-b1fc-648ca8a9aa3c",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, Losa",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 269225.44
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 114503172.6
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-53e9130c-dbca-42c7-a178-a90a4414738d",
+        "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-02-03T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-02-03T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, LosaExperimental y Prueba de Pilotes para el Edificio Terminal y Torre de Control"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_230_2017-10-04T00:53:17.080Z",
+  "ocid": "230",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, LosaExperimental y Prueba de Pilotes para el Edificio Terminal y Torre de Control",
+      "id": "AA-009KDH999-E96-2016",
+      "contractPeriod": {
+        "startDate": "2016-02-10T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 269225.44
+      },
+      "items": [
+        {
+          "id": "item-c0353bf7-27a3-4994-93fc-ee5a07d5891e",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Testigo Social para que atestigue las etapas del Procedimiento de Licitacion Publica Nacional para el Proyecto denominado Excavacion de Prueba, Losa",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 269225.44
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-59e3c079-83b6-493c-9f9c-b3f2e76e3120",
+          "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-02-03T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-03T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-f7f005d0-7b16-44b6-abe5-22b19d18014c",
+          "url": "http://189.211.120.220:8880/files/opendata/16008-AD-AS-DCAGI-SC-008-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-02-03T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-03T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "03100",
+            "streetAddress": "Avenida San Lorenzo numero 153, despacho 602",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "IMA941216HE8",
+            "legalName": "Instituto Mexicano de Auditoria Tecnica, A. C."
+          },
+          "name": "Instituto Mexicano de Auditoria Tecnica, A. C."
+        }
+      ]
+    }
+  ]
+}

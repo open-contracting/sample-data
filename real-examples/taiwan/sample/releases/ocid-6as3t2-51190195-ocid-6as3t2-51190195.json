@@ -1,162 +1,162 @@
 {
-  "tag": "awardNotice",
-  "name": "官田區大崎里大井往暗坑道路改善工程",
-  "date": "2014-02-21",
-  "ocid": "ocid-6as3t2-51190195",
   "buyer": {
+    "id": "ocid-6as3t2-51190195-buyer",
     "identifier": {
-      "id": "3.95.70",
-      "legalName": "臺南市官田區公所"
-    },
-    "id": "ocid-6as3t2-51190195-buyer"
+      "legalName": "臺南市官田區公所",
+      "id": "3.95.70"
+    }
   },
-  "tender": {
-    "id": "ocid-6as3t2-51190195-tender",
-    "identifier": {
-      "id": "3.95.70",
-      "legalName": "臺南市官田區公所"
-    },
-    "procurementMethod": "公開招標",
-    "tenderers": [
-      {
-        "identifier": {
-          "id": "26428394",
-          "legalName": "聯豐土木包工業"
-        },
-        "organizationType": "商業登記",
-        "number": 1
-      },
-      {
-        "identifier": {
-          "id": "10885198",
-          "legalName": "巨鼎土木包工業"
-        },
-        "organizationType": "商業登記",
-        "number": 2
-      }
-    ],
-    "tederPeriod": {
-      "startDate": "2014-02-11",
-      "endDate": "2014-02-18",
-      "announceTimes": "02"
-    },
-    "numberOfBids": 2,
-    "processMethod": "代辦洽辦機關代碼：3.95.11洽辦機關名稱：臺南市政府工務局",
-    "deliveryAddress": {
-      "addresses": [
-        {
-          "region": "臺南市",
-          "locality": "官田區"
-        }
-      ],
-      "aboriginalRegion": false
-    },
-    "executingEntity": {
-      "identifier": {
-        "id": "3.95.11",
-        "legalName": "臺南市政府工務局"
-      }
-    },
-    "deliveryLocation": [
-      {
-        "description": "臺南市, 官田區"
-      }
-    ],
-    "procuringEntity": {
-      "identifier": {
-        "id": "3.95.70",
-        "legalName": "臺南市官田區公所"
-      }
-    },
-    "budget": {
-      "value": {
-        "amount": 1435816,
-        "currency": "TWD"
-      }
-    },
-    "awardCriteria": "最低標",
-    "procurementAmountRange": "公告金額以上未達查核金額",
-    "items": [
-      {
-        "classification": {
-          "id": "5131",
-          "description": "<工程類>, 快速道路(不含高架快速道路),街道,馬路,鐵路及機場跑道",
-          "scheme": "CPC"
-        },
-        "number": 1
-      }
-    ]
-  },
-  "awards": {
-    "awardAnnounceDate": "2014-02-21",
-    "awardDate": "2014-02-18",
-    "id": "ocid-6as3t2-51190195-awards",
-    "awardCriteria": "最低標",
-    "totalAwardValue": {
-      "amount": 1250000,
-      "currency": "TWD"
-    },
-    "items": [
-      {
-        "withoutTenderer": [
-          {
-            "identifier": {
-              "legalName": null
-            },
-            "bidAmount": 1278000,
-            "failReason": "資格、規格合於招標文件但非最低(高)標",
-            "number": 1
-          }
-        ],
-        "classification": {
-          "id": "5131",
-          "description": "<工程類>, 快速道路(不含高架快速道路),街道,馬路,鐵路及機場跑道",
-          "scheme": "CPC"
-        },
-        "suppliers": [
-          {
-            "address": {
-              "region": "臺南市",
-              "postalCode": "723",
-              "locality": "西港區",
-              "streetAddress": "南海里南海埔25之9號1樓"
-            },
-            "awardValue": {
-              "amount": 1250000,
-              "currency": "TWD"
-            },
-            "quantity": 1,
-            "employeeExceedOneHundred": false,
-            "number": 1,
-            "identifier": {
-              "id": "26428394",
-              "legalName": "聯豐土木包工業"
-            },
-            "minValue": {
-              "amount": 1430000,
-              "currency": "TWD"
-            },
-            "contractPeriod": {
-              "startDate": "2014-03-03",
-              "endDate": "2014-05-22"
-            },
-            "organizationType": "商業登記",
-            "sme": "是"
-          }
-        ],
-        "number": 1
-      }
-    ]
-  },
-  "language": "zh",
+  "ocid": "ocid-6as3t2-51190195",
   "committee": {
     "id": "ocid-6as3t2-51190195-committee",
     "member": []
   },
+  "awards": {
+    "awardCriteria": "最低標",
+    "awardAnnounceDate": "2014-02-21",
+    "awardDate": "2014-02-18",
+    "items": [
+      {
+        "suppliers": [
+          {
+            "organizationType": "商業登記",
+            "identifier": {
+              "legalName": "聯豐土木包工業",
+              "id": "26428394"
+            },
+            "employeeExceedOneHundred": false,
+            "sme": "是",
+            "contractPeriod": {
+              "endDate": "2014-05-22",
+              "startDate": "2014-03-03"
+            },
+            "minValue": {
+              "currency": "TWD",
+              "amount": 1430000
+            },
+            "quantity": 1,
+            "number": 1,
+            "awardValue": {
+              "currency": "TWD",
+              "amount": 1250000
+            },
+            "address": {
+              "postalCode": "723",
+              "region": "臺南市",
+              "streetAddress": "南海里南海埔25之9號1樓",
+              "locality": "西港區"
+            }
+          }
+        ],
+        "classification": {
+          "description": "<工程類>, 快速道路(不含高架快速道路),街道,馬路,鐵路及機場跑道",
+          "id": "5131",
+          "scheme": "CPC"
+        },
+        "withoutTenderer": [
+          {
+            "bidAmount": 1278000,
+            "failReason": "資格、規格合於招標文件但非最低(高)標",
+            "identifier": {
+              "legalName": null
+            },
+            "number": 1
+          }
+        ],
+        "number": 1
+      }
+    ],
+    "id": "ocid-6as3t2-51190195-awards",
+    "totalAwardValue": {
+      "currency": "TWD",
+      "amount": 1250000
+    }
+  },
+  "tag": "awardNotice",
+  "name": "官田區大崎里大井往暗坑道路改善工程",
   "id": "ocid-6as3t2-51190195",
   "packageInfo": {
     "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
     "publishedDate": "2015-12-01",
     "publisher": "DSP,Inc."
+  },
+  "language": "zh",
+  "date": "2014-02-21",
+  "tender": {
+    "budget": {
+      "value": {
+        "currency": "TWD",
+        "amount": 1435816
+      }
+    },
+    "numberOfBids": 2,
+    "deliveryAddress": {
+      "aboriginalRegion": false,
+      "addresses": [
+        {
+          "region": "臺南市",
+          "locality": "官田區"
+        }
+      ]
+    },
+    "procuringEntity": {
+      "identifier": {
+        "legalName": "臺南市官田區公所",
+        "id": "3.95.70"
+      }
+    },
+    "identifier": {
+      "legalName": "臺南市官田區公所",
+      "id": "3.95.70"
+    },
+    "executingEntity": {
+      "identifier": {
+        "legalName": "臺南市政府工務局",
+        "id": "3.95.11"
+      }
+    },
+    "procurementAmountRange": "公告金額以上未達查核金額",
+    "tenderers": [
+      {
+        "organizationType": "商業登記",
+        "identifier": {
+          "legalName": "聯豐土木包工業",
+          "id": "26428394"
+        },
+        "number": 1
+      },
+      {
+        "organizationType": "商業登記",
+        "identifier": {
+          "legalName": "巨鼎土木包工業",
+          "id": "10885198"
+        },
+        "number": 2
+      }
+    ],
+    "awardCriteria": "最低標",
+    "deliveryLocation": [
+      {
+        "description": "臺南市, 官田區"
+      }
+    ],
+    "items": [
+      {
+        "classification": {
+          "description": "<工程類>, 快速道路(不含高架快速道路),街道,馬路,鐵路及機場跑道",
+          "id": "5131",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ],
+    "processMethod": "代辦洽辦機關代碼：3.95.11洽辦機關名稱：臺南市政府工務局",
+    "id": "ocid-6as3t2-51190195-tender",
+    "procurementMethod": "公開招標",
+    "tederPeriod": {
+      "endDate": "2014-02-18",
+      "startDate": "2014-02-11",
+      "announceTimes": "02"
+    }
   }
 }

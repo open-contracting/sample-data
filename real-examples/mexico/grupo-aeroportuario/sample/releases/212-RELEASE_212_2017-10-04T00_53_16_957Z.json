@@ -1,0 +1,398 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-08-19T05:00:00.000Z",
+        "endDate": "2016-03-31T06:00:00.000Z"
+      },
+      "title": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM).",
+      "id": "ITP-AS-DCAGI-SC-059-15",
+      "awardID": "IA-009KDH999-N55-2015",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6afb2132-67c6-4ddb-9d45-3f731ccf6376",
+          "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-08-13T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-08-13T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-b2c1b71a-5976-460f-bbf9-6671d5c737b7",
+          "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-08-13T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-08-13T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-2ba57def-95f0-4b3f-9152-d6f50062e9b4",
+          "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/19.-%20CM/19.1.pdf",
+          "datePublished": "2015-08-13T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-08-13T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-228246fb-d28c-4674-bd3f-02d4ebd3f27d",
+          "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-08-13T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-08-13T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-74a537f5-7b6a-4633-be48-8ffed3836214",
+          "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-08-13T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-08-13T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 5215043.09
+      },
+      "items": [
+        {
+          "id": "item-acb442c8-b169-4740-bae5-1cffdd02ed93",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo AeropuertoInternacional de la Ciudad de Mexico (NAICM).",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 5215043.09
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-2bcf3110-0f6e-40df-afef-505903557c75"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CLE130917LR8",
+              "legalName": "CORPORATIVO LEMARC, S.A. DE C.V.",
+              "scheme": "CORPORATIVO LEMARC, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-059/15 SERVICIO DE ASESORIA TECNICA Y CAPACITACION DE NUCLEOS AGRARIOS (COMISARIADOS EJIDALES) PARA LOS 7 EJIDOS COLINDANTES AL PREDIO DEL NAICM",
+            "id": "milestone-8fca1a5c-587c-4bfc-a87b-d7c53f8dca6b",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-08-19T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.962Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM).",
+    "awardPeriod": {
+      "endDate": "2015-08-10T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 6100000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM).",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-5e6a1f2a-97bd-4bd6-a82f-687749938850",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-2c9bc579-3e92-4afd-a597-e2c221a750bd",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-71178786-a5d7-4a64-84d4-a82f21fac3f3",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-f4fb392a-505b-4740-90d0-78142aa11a42",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-62c10ac9-a04e-4bac-b1ec-e7c893f768b3",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-9ca82f5a-90d4-44e9-9ebe-0d09b8e20497",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2015-08-10T05:00:00.000Z"
+    },
+    "id": "867202",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-b7eb75ce-8050-4827-a9cd-aa6d8ea5f8ff",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo AeropuertoInternacional de la Ciudad de Mexico (NAICM).",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 5215043.09
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-08-07T05:00:00.000Z",
+      "endDate": "2015-07-08T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM).",
+      "amount": {
+        "currency": "MXN",
+        "amount": 6100000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-331629c9-ba0c-4e44-ba9d-b963e4269ab5",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bf470635-29b4-451c-98c9-5ff3b612cc3b",
+        "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-08-13T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-08-13T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM)."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_212_2017-10-04T00:53:16.957Z",
+  "ocid": "212",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM).",
+      "id": "IA-009KDH999-N55-2015",
+      "contractPeriod": {
+        "startDate": "2015-08-19T05:00:00.000Z",
+        "endDate": "2016-03-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 5215043.09
+      },
+      "items": [
+        {
+          "id": "item-4ae8a75f-7071-480f-948c-623c4bc98649",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de asesoria tecnica y capacitacion de nucleos agrarios (comisariado ejidales) para los 7 ejidos colindantes al predio del Nuevo AeropuertoInternacional de la Ciudad de Mexico (NAICM).",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 5215043.09
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-a5ad67c7-8054-4ecc-8fad-91ec83cda615",
+          "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-08-13T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-08-13T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-8e2fb4b3-4356-4c92-84c2-4e82feaa85da",
+          "url": "http://189.211.120.220:8880/files/opendata/15059-ITP-AS-DCAGI-SC-059-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-08-13T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-08-13T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-08-13T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Fraccionamiento Jardines de Morelos seccion Lagos",
+            "postalCode": "55070",
+            "streetAddress": "3er Retorno Lago de Chapultepec numero 31, Manzana 12, Lote 9",
+            "region": "Ecatepec de Morelos"
+          },
+          "identifier": {
+            "id": "CLE130917LR8",
+            "legalName": "CORPORATIVO LEMARC S.A DE C.V."
+          },
+          "name": "CORPORATIVO LEMARC S.A DE C.V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-11T05:00:00.000Z",
+        "endDate": "2017-02-12T06:00:00.000Z"
+      },
+      "title": "ELABORACION DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICION FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO.",
+      "id": "ITP-SRO-DCAGI-SC-057-16",
+      "awardID": "IO-009KDH999-E84-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-85c50eda-d650-4c05-925a-0280a8944a13",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-06T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-06T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-f002fd7a-04fe-47ed-a125-3327789bb646",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-07-06T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-07-06T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-560b4d4e-4614-4101-abc8-71869cb2321d",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/19.-%20CM/19.1.pdf",
+          "datePublished": "2016-07-06T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-07-06T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-9a0a92f8-23ac-4d9b-8c9a-1b2ff4fc1145",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-07-06T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-06T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-48a15a3a-81d1-418f-a2e6-f1c8f8cb05ff",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-07-06T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-07-06T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 8171431.88
+      },
+      "items": [
+        {
+          "id": "item-58682f12-132f-4172-82aa-0092e5d655ac",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ELABORACI?N DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICI?N FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8171431.88
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-d5aa7f4f-62c8-401f-91c2-37161be7d964"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "F GLEZ CONSULTORES",
+              "legalName": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V.",
+              "scheme": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 8171431.88
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-057-16 ELABORACI?N DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICI?N FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+            "id": "milestone-69e36778-c823-4316-8b8d-251e6a21a9a9",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "95.08%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-11T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.689Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-06-17T05:00:00.000Z",
+      "endDate": "2016-06-29T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "19 INVITACION A CUANDO MENOS TRES NACIONAL LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 8465517.24
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "ELABORACI?N DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICI?N FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-2a228908-93ed-4e12-aa35-485f13c0c7d8",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-fb9a2dea-8730-45a7-89ff-df3c065a0248",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b2146940-8f9f-4898-9e1b-f9b1d029cdf6",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-9eec8a6c-4af5-4185-8274-03328f36baad",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-04fb54e1-e9e3-463b-9a7b-aefcf6edf734",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-6469e220-1fe4-47c0-82a0-9e76286c517f",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-06-17T05:00:00.000Z",
+      "endDate": "2016-06-29T05:00:00.000Z"
+    },
+    "id": "1088729",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-0ca1a33d-f702-4eeb-8148-b6f66712d4f2",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ELABORACI?N DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICI?N FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 8171431.88
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-06-23T05:00:00.000Z",
+      "endDate": "2016-06-29T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 8465517.24
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-b06e3224-68ed-4b42-bb1a-ce5268f593de",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-830a3f22-655e-4521-917f-b6e7be1f0ba7",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-07-06T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-07-06T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ELABORACI?N DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICI?N FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_304_2017-10-04T00:53:17.685Z",
+  "ocid": "304",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ELABORACI?N DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICI?N FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+      "id": "IO-009KDH999-E84-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-11T05:00:00.000Z",
+        "endDate": "2017-02-12T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 8171431.88
+      },
+      "items": [
+        {
+          "id": "item-ffcf6251-6b18-4b93-8b24-f432ec8349f7",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ELABORACI?N DEL PROGRAMA AMBIENTAL SOBRE LA DISPOSICI?N FINAL DE AGUAS SERVIDAS EN EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8171431.88
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-07e5307f-a6d1-43e8-a7fc-38cba73291b4",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-07-06T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-06T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-8cf297a1-8985-431e-b1af-185353f46ac6",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16057-ITP-SRO-DCAGI-SC-057-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-07-06T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-07-06T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-07-06T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "GUADALUPE INN",
+            "postalCode": "01020",
+            "streetAddress": "ALFONSO ESPARZA OTEO INT 408 EXT 144",
+            "region": "ALVARO OBREGON"
+          },
+          "contactPoint": {
+            "email": "noproporcionado@noproporcionado.com",
+            "name": "CARLOS REYES ZAZUETA"
+          },
+          "identifier": {
+            "id": "F GLEZ CONSULTORES",
+            "legalName": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V."
+          },
+          "name": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

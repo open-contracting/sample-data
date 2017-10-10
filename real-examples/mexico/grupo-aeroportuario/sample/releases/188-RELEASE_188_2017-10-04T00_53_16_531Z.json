@@ -1,0 +1,399 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-31T06:00:00.000Z",
+        "endDate": "2017-04-04T05:00:00.000Z"
+      },
+      "title": "Construccion de los caminos provisionales de acceso al NAICM, ejecutando trabajos de terraceria, estructuras y obras de drenaje, pavimentacion y senalamiento.",
+      "id": "LPN-OP-DCAGI-SC-114/15",
+      "awardID": "LO-009KDH999-N80-2015",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-c705f607-463d-4cdc-bbd3-9b7a900204a5",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-2ffe6e2e-38b3-4a06-8c7b-8a68285e2283",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-0de8b9ef-44e0-494e-8ab5-52246bb34324",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/19.-%20CM/19.1.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-12876c13-7d32-40a5-872b-c97b0512607b",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/19.-%20CM/19.2.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-9da55f30-e4c7-4c1c-b843-322519a8429c",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-6f55b149-7c94-41e7-a18a-db0742b45dbd",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 608275577.5
+      },
+      "items": [
+        {
+          "id": "item-a68b1103-5be9-4f8a-a391-78ab92ac55dd",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Construccion de los caminos provisionales de acceso al Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) ejecutando trabajos de terraceria, estructuras y obrad de drenaje, pavimentacion y senalamiento.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 608275577.5
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-042a8045-627c-4b57-8063-94451582cec0"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "TRANSPORTACIONES Y CONSTRUCCIONES TAMAULIPECOS,  S.A. DE C.V.",
+              "scheme": "TRANSPORTACIONES Y CONSTRUCCIONES TAMAULIPECOS,  S.A. DE C.V."
+            },
+            "value": {
+              "amount": 417729673.45
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPN-OP-DCAGI-SC-114/15 CONSTRUCCION DE LOS CAMINOS PROVISIONALES DE ACCESO AL NAICM",
+            "id": "milestone-c6bd56ce-b48d-418a-8426-57c087da0aa3",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "76.17%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-16T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.537Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Construccion de los caminos provisionales de acceso al Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) ejecutando trabajos de terraceria, estructuras y obrad de drenaje, pavimentacion y senalamiento.",
+    "awardPeriod": {
+      "startDate": "2015-09-10T05:00:00.000Z",
+      "endDate": "2015-11-13T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 1203803000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Construccion de los caminos provisionales de acceso al Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) ejecutando trabajos de terraceria, estructuras y obrad de drenaje, pavimentacion y senalamiento.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-cd64862f-f765-45ab-b1d8-ef5d18f3aae2",
+        "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-b0215225-62a5-4662-9f1e-b6f2e6c6ae03",
+        "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-97b02874-d334-471e-b19f-dc56d7565665",
+        "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-fc2e5ca0-600c-4de7-accc-d3842dede2d0",
+        "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-575872b9-0d25-46a9-b20f-73456695f0b3",
+        "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-5bf3b22f-696a-4474-934e-ed04edf06dc7",
+        "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2015-09-10T05:00:00.000Z",
+      "endDate": "2015-11-13T06:00:00.000Z"
+    },
+    "id": "911935",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-76601256-cd52-47e0-bf3a-c2ff0dc82717",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Construccion de los caminos provisionales de acceso al Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) ejecutando trabajos de terraceria, estructuras y obrad de drenaje, pavimentacion y senalamiento.",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 608275577.5
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-10-09T05:00:00.000Z",
+      "endDate": "2015-11-05T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Construccion de los caminos provisionales de acceso al Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) ejecutando trabajos de terraceria, estructuras y obrad de drenaje, pavimentacion y senalamiento.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1203803000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Fedracion 2015 y 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-dd4ab72f-1b3f-4f36-8cc6-536f1e322e4d",
+        "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-16T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-16T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Construccion de los caminos provisionales de acceso al Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) ejecutando trabajos de terraceria, estructuras y obrad de drenaje, pavimentacion y senalamiento."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_188_2017-10-04T00:53:16.531Z",
+  "ocid": "188",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Construccion de los caminos provisionales de acceso al NAICM, ejecutando trabajos de terraceria, estructuras y obras de drenaje, pavimentacion y senalamiento.",
+      "id": "LO-009KDH999-N80-2015",
+      "contractPeriod": {
+        "startDate": "2015-12-31T06:00:00.000Z",
+        "endDate": "2017-04-04T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 608275577.5
+      },
+      "items": [
+        {
+          "id": "item-637f3adb-af51-4be8-b75e-2d9f90b73122",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Construccion de los caminos provisionales de acceso al Nuevo Aeropuerto Internacional de la Ciudad de Mexico (NAICM) ejecutando trabajos de terraceria, estructuras y obrad de drenaje, pavimentacion y senalamiento.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 608275577.5
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-1caaa6d9-7008-409f-a29f-0e8362cf8007",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-e42612fc-e6b8-4117-8e82-dbb7094a8084",
+          "url": "http://189.211.120.220:8880/files/opendata/15114-LPN-OP-DCAGI-SC-114-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-16T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-16T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-12-16T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Renacimiento",
+            "postalCode": "88740",
+            "streetAddress": "Carretera libre Matamoros a Monterrey KM 5.2 sin numero",
+            "region": "Municipio de Reynosa"
+          },
+          "identifier": {
+            "id": "TCT931025713",
+            "legalName": "Transportaciones y Construcciones Tamaulipecos, S. A. de C. V."
+          },
+          "name": "Transportaciones y Construcciones Tamaulipecos, S. A. de C. V."
+        }
+      ]
+    }
+  ]
+}

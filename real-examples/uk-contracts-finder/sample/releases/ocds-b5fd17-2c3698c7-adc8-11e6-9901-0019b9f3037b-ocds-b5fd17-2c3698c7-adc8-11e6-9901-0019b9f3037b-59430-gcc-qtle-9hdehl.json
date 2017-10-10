@@ -1,0 +1,105 @@
+{
+  "buyer": {
+    "id": "sid4gov.cabinetoffice.gov.uk/YBpu99BZ",
+    "name": "Spend Network",
+    "address": {
+      "region": null,
+      "streetAddress": "Civic CentreRegent StreetGatesheadTyne and Wear ",
+      "postalCode": "NE8 1HH",
+      "countryName": "United Kingdom",
+      "locality": ""
+    },
+    "identifier": {
+      "uri": null,
+      "id": "",
+      "legalName": null,
+      "scheme": ""
+    },
+    "contactPoint": {
+      "telephone": "",
+      "email": "grahamdunn@gateshead.gov.uk",
+      "name": "Mr Graham Dunn",
+      "faxNumber": null
+    }
+  },
+  "ocid": "ocds-b5fd17-2c3698c7-adc8-11e6-9901-0019b9f3037b",
+  "packageInfo": {
+    "publisher": {
+      "uri": "https://www.contractsfinder.service.gov.uk",
+      "name": "Spend Network",
+      "uid": null,
+      "scheme": "GB-GOVUK-crown_comercial_service"
+    },
+    "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/30fadbf7-3352-4ffc-b9e8-ca17e6ba5abd.json",
+    "publishedDate": "2014-12-17T16:44:57Z"
+  },
+  "id": "ocds-b5fd17-2c3698c7-adc8-11e6-9901-0019b9f3037b-59430-gcc-qtle-9hdehl",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "tender": {
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "uri": "http://cpv.data.ac.uk/code-72000000.html",
+          "id": "72000000",
+          "description": "IT services: consulting, software development, Internet and support",
+          "scheme": "CPV"
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "id": 1,
+        "status": null,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2014-04-01T00:00:00Z"
+      },
+      {
+        "id": 2,
+        "status": null,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2020-03-31T00:00:00Z"
+      }
+    ],
+    "title": " STANDING LIST OF CONSTRUCTION CONTRACTORS AND SUB-CONTRACTORS",
+    "supplyChain": false,
+    "awardCriteriaDetails": null,
+    "tenderPeriod": {
+      "endDate": "2020-03-31T00:00:00Z",
+      "startDate": "2014-12-17T16:44:57Z"
+    },
+    "submissionMethod": null,
+    "id": "ocds-b5fd17-2c3698c7-adc8-11e6-9901-0019b9f3037b-gcc-qtle-9hdehl",
+    "eligibilityCriteria": null,
+    "status": "active",
+    "procurementMethod": null,
+    "xClassifications": {
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works",
+      "isSuitableForVco": false
+    },
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "minValue": {
+      "amount": 283630,
+      "currency": "GBP"
+    },
+    "hasEnquiries": null,
+    "description": " Gateshead Council hasimplemented a Standing List of Contractors and Sub-contractors for the purposes of the public works contracts to cover all works\r\n activity set out in the CDM Regulation 2007 valued at less than the EU threshold \r\n\r\n\r\n\r\nOrganisations wishing to be invited to tender for all future construction work opportunities under the EU threshold with Gateshead Council and The Gateshead Housing Company must be included on their Standing List of Contractors and Sub-contractors. \r\n\r\n\r\n\r\nTo be included on the list, Organisations MUST be registered within all relevant Work Categories on Constructionline. \r\n\r\n\r\n\r\nOrganisations MUST also be Safety Schemes in Procurement (SSIP) registered either on application for inclusion on the list or at the latest within 6 months of the date of inclusion on the list.\r\n",
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "documents": [],
+    "value": {
+      "amount": 2000000,
+      "currency": "GBP"
+    },
+    "procurementMethodDetails": "Open procedure"
+  },
+  "date": "2014-12-17T16:44:57Z"
+}

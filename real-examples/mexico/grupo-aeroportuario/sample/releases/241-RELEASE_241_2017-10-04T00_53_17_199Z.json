@@ -1,0 +1,398 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-02-01T06:00:00.000Z",
+        "endDate": "2016-10-20T05:00:00.000Z"
+      },
+      "title": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "AD-SRO-DCAGI-SC-003/16",
+      "awardID": "AO-009KDH999-E20-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-e6ad2cfb-c479-4812-ac23-2c00a1edef90",
+          "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-1c1c264a-c02e-469b-ad0e-9f6c9463a694",
+          "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-7f78971d-e518-4964-84fa-c77d7465d437",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-AD-SRO-DCAGI-SC-003-16.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-67c7ea73-4275-4540-bc63-d9360bafcc53",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/2CM-AD-SRO-DCAGI-SC-003-16.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-5106113c-1ab1-4f47-a302-6c7e84e507e0",
+          "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-772923dd-070e-40bd-bc9d-6f5efc21f303",
+          "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7680864.77
+      },
+      "items": [
+        {
+          "id": "item-421ea371-e7a3-452f-b1b3-427a8eba9606",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7680864.77
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-59d8e776-d426-4d0d-8dd0-8663b69f1930"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62501.pdf",
+            "receiverOrganization": {
+              "id": "IPE850318NZA",
+              "legalName": "INGENIER?A Y PROCESAMIENTO ELECTR?NICO, S.A. DE C.V.",
+              "scheme": "INGENIER?A Y PROCESAMIENTO ELECTR?NICO, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 12835161.06
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-003/16 SUPERVISION DE LA CONSTRUCCION DEL DRENAJE PLUVIAL TEMPORAL DEL NACIM",
+            "id": "milestone-46ee180a-543a-432f-82c8-42027ba20686",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "97.76%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-01-21T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.203Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "awardPeriod": {
+      "endDate": "2015-10-05T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 9300000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-43c9f18d-aa01-4543-ab04-bd3c4fd4da63",
+        "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-01-21T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-01-21T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-99616aa0-bca1-4a9a-bc7d-89145c929a9b",
+        "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-21T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-21T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-aa1c1677-de84-49e8-93f6-67e8cd3fae6a",
+        "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-21T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-21T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-53489e93-845a-4081-b327-6710c671e563",
+        "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-21T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-21T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-504c0f79-4a6c-403f-936c-bb6557e73238",
+        "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-21T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-21T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-69230a8d-9139-4efe-9213-f04ba7fb6b24",
+        "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-01-21T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-01-21T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2015-10-05T05:00:00.000Z"
+    },
+    "id": "1008580",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-ea8a56a4-f332-460f-a831-d638c5c00e35",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 7680864.77
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-09-29T05:00:00.000Z",
+      "endDate": "2015-09-29T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 9300000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-9b89adfb-02f6-48aa-83d9-da48d1f5dafc",
+        "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-01-21T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-01-21T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_241_2017-10-04T00:53:17.199Z",
+  "ocid": "241",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "AO-009KDH999-E20-2016",
+      "contractPeriod": {
+        "startDate": "2016-02-01T06:00:00.000Z",
+        "endDate": "2016-10-20T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7680864.77
+      },
+      "items": [
+        {
+          "id": "item-da553cd9-e940-4fc2-a438-f887f5fe1202",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Supervision de la Construccion del Drenaje Pluvial Temporal del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 7680864.77
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-3b5f01b3-ce60-4c16-818c-fbbfe6d451ae",
+          "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-2b89b8bb-d6cd-4ca2-9249-faec670c131c",
+          "url": "http://189.211.120.220:8880/files/opendata/16003-AD-SRO-DCAGI-SC-003-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-01-21T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-01-21T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-11-05T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Del Valle",
+            "postalCode": "3100",
+            "streetAddress": "San Lorenzo numero 153-402",
+            "region": "Delegacion Benito Juarez"
+          },
+          "identifier": {
+            "id": "IPE850318NZA",
+            "legalName": "Ingenieria y Procesamiento Electronico, S. A. de C. V."
+          },
+          "name": "Ingenieria y Procesamiento Electronico, S. A. de C. V."
+        }
+      ]
+    }
+  ]
+}

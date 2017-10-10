@@ -1,0 +1,372 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-c3197913-19bd-48ca-b16d-82b0d66aa7b0",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8761818.1
+            }
+          }
+        }
+      ],
+      "title": "PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)",
+      "id": "GACM/DCI/SJ/CM-18-2015  01 AL CONVENIO",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-283c8c6b-aebf-4b70-9a82-804d2123144b",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-7987e6a7-da56-4d28-871b-74978b7be0ed",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6e160e7d-be9a-430b-b9e7-58ff29039212",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/17.-%20GA/17.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-5800a718-507d-4313-b965-e307e7f0e209",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/18.-%20GC/18.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 8761818.1
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-a1a8e700-a28f-4285-8b82-407b9193fae8"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "UAN691126MK2",
+              "legalName": "UNIVERSIDAD AUT?NOMA DE NUEVO LE?N",
+              "scheme": "UNIVERSIDAD AUT?NOMA DE NUEVO LE?N"
+            },
+            "value": {
+              "amount": 8761818.09
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCI/SJ/CM/18-2015 PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)",
+            "id": "milestone-12056aac-fb89-4a16-961d-eb489d574d8c",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "Active",
+      "period": {
+        "startDate": "2016-02-16T06:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "dateSigned": "2016-02-15T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.957Z",
+    "publisher": {
+      "uid": "AS",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de México",
+    "procurementMethodRationale": "40 ADJUDICACION DIRECTA A TRAVES DEL ART.1 DE LA LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 8761818.1
+    },
+    "submissionMethod": [
+      "Público"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-520db2c9-6dfd-4a93-b1ef-5e2a6a34e11d",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/9.-%20AJ/9.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-fe818b70-567a-4717-85ad-df56b1654b6f",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-88b7d52d-1e82-4def-9f80-c097bec79c06",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-472f677a-c632-4792-b5b3-f5b907337e43",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-11618bc2-4d06-431b-961d-c6e473235618",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-ab13afa1-8da0-4079-9311-685e21f264f7",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION VIGI,ANCIA Y EXCAVACION)",
+    "minValue": {
+      "currency": "MXN",
+      "amount": 0
+    },
+    "items": [
+      {
+        "id": "item-ee266f79-ec9b-4953-a585-cd8b9e3095d5",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 8761818.1
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "numberOfTenderers": 1,
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 8761818.1
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-319fbeca-c3fa-4167-b6b1-113927af3117",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/4.-%20TR/4.pdf",
+        "datePublished": "2016-02-15T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-02-15T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_210_2017-10-04T00:53:16.952Z",
+  "ocid": "210",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2016-02-16T06:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 8761818.1
+      },
+      "items": [
+        {
+          "id": "item-cb0e4e62-f3af-424c-91fd-191f69762acf",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "PROYECTO DE SALVAMENTO ARQUEOLOGICO AL INTERIOR DEL LAGO DE TEXCOCO EN SU ZONA ORIENTE, ESTADO DE MEXICO (SUPERVISION, VIGILANCIA Y EXCAVACION)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8761818.1
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-1e198ab7-ddbf-4f53-871b-ef1aa7f0c518",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/12.-%20AF/12.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-87077035-9dc4-42e7-a56d-f629c964ce04",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-GACM-DCI-SJ-CM-18-2015/10.-%20AP/10.pdf",
+          "datePublished": "2016-02-15T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-15T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "NUEVO LEON",
+            "locality": "CIUDAD UNIVERSITARIA",
+            "postalCode": "66455",
+            "streetAddress": "AV. UNIVERSIDAD S/N",
+            "region": "SAN NICOLAS DE LOS GARZA"
+          },
+          "contactPoint": {
+            "email": "NOTIENE@JJ",
+            "telephone": "83294047",
+            "name": "FRANCISCO FABELA BERNAL"
+          },
+          "identifier": {
+            "id": "UAN691126MK2",
+            "legalName": "UNIVERSIDAD AUT?NOMA DE NUEVO LE?N"
+          },
+          "name": "UNIVERSIDAD AUT?NOMA DE NUEVO LE?N"
+        }
+      ],
+      "date": "2016-02-15T06:00:00.000Z"
+    }
+  ]
+}
