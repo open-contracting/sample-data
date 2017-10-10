@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-09T06:00:00.000Z",
+        "endDate": "2015-12-21T06:00:00.000Z"
+      },
+      "title": "Prestacion de los Servicios Tecnico Especializado para la captura en video y transmision via internet mediante la produccion y streaming de 4 eventosde licitacion publica mediante equipos de cctv en circuito cerrado.",
+      "id": "AD-AS-DCAGI-SC-121/15",
+      "awardID": "AA-009KDH999-E65-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-a3bdba60-1d0d-40c7-826e-a302af7fc520",
+          "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-09T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-09T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-82b2aeac-ec16-4ecd-8c5c-41a695f4e1f5",
+          "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-09T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-09T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-023fd9a0-d522-4f89-9cd2-a6c4fb93c9ca",
+          "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-09T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-09T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-fa936e9d-49ec-4d95-b5e1-10a43f098757",
+          "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-09T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-09T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 117820
+      },
+      "items": [
+        {
+          "id": "item-bab71356-26a1-479e-820c-1283a61dd681",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "Servicio Tecnico Especializado para la captura en video y transmision via internet mediante la produccion y streaming de 4 eventos de licitacion publ",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 117820
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-79c318f9-85e9-4570-8383-da005cd9f701"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "NORMA DELIA LOPEZ GOMEZ",
+              "scheme": "NORMA DELIA LOPEZ GOMEZ"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-121/15 SERVICIOS TENICO ESPECIALIZADO PARA LA CAPTURA EN VIDEO Y TRANSMISION VIA INTERNET MEDIANTE LA PRODUCCION Y STREAMING DE 4 EVENTOS DE LICITACION PUBLICA MEIDANTE EQUIPOS DE CCTV EN CIRCUITO CERRADO",
+            "id": "milestone-104d7057-9b37-4085-b8c8-efecff213322",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-09T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.358Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "licitacion publica mediante equipos de cctv en circuito cerrado.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 500000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "licitacion publica mediante equipos de cctv en circuito cerrado.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-47f5ef97-d510-4123-8f86-16987fa9bdab",
+        "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-09T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-09T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-ff200889-f2de-45a8-af14-940f2e3f75db",
+        "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-09T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-09T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-9bce2794-6c08-4178-8c24-289dd92351d4",
+        "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-09T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-09T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-61e155bd-24d2-4923-9ab5-71f9b0a89239",
+        "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-09T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-09T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1f803405-0eb8-4cfb-9845-92551a2c5862",
+        "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-09T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-09T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-70121dca-5b78-4f85-8488-1749b2060c2c",
+        "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-09T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-09T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1052469",
+    "items": [
+      {
+        "id": "item-7eafc234-5174-4688-9ec1-417a880e4209",
+        "classification": {
+          "id": "3390",
+          "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+        },
+        "quantity": 1,
+        "description": "Servicio Tecnico Especializado para la captura en video y transmision via internet mediante la produccion y streaming de 4 eventos de licitacion publ",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 117820
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "licitacion publica mediante equipos de cctv en circuito cerrado.",
+      "amount": {
+        "currency": "MXN",
+        "amount": 500000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Fedracion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b6d5dd0f-5c96-4675-add1-ee8bea43354b",
+        "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-09T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-09T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "licitacion publica mediante equipos de cctv en circuito cerrado."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_256_2017-10-04T00:53:17.354Z",
+  "ocid": "256",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Prestacion de los Servicios Tecnico Especializado para la captura en video y transmision via internet mediante la produccion y streaming de 4 eventosde licitacion publica mediante equipos de cctv en circuito cerrado.",
+      "id": "AA-009KDH999-E65-2016",
+      "contractPeriod": {
+        "startDate": "2015-12-09T06:00:00.000Z",
+        "endDate": "2015-12-21T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 117820
+      },
+      "items": [
+        {
+          "id": "item-a44e1a92-ec01-4f61-9a2d-37b82b3aa53e",
+          "classification": {
+            "id": "3390",
+            "scheme": "SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS INTEGRALES"
+          },
+          "quantity": 1,
+          "description": "Servicio Tecnico Especializado para la captura en video y transmision via internet mediante la produccion y streaming de 4 eventos de licitacion publ",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 117820
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-9001d8a9-492e-48f2-9121-ab5684134f8a",
+          "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-09T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-09T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9ac2d825-d3af-478d-aec7-29fe6f7fb3b7",
+          "url": "http://189.211.120.220:8880/files/opendata/15121-AD-AS-DCAGI-SC-121-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-09T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-09T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Residencial Zacatenco",
+            "postalCode": "7369",
+            "streetAddress": "Av. Acueducto numero 822, edif. 1, depto., 202",
+            "region": "Gustavo A. Madero"
+          },
+          "identifier": {
+            "id": "LOGN6608229DA",
+            "legalName": "Norma Delia Lopez Gomez"
+          },
+          "name": "Norma Delia Lopez Gomez"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "language": "es",
+  "packageInfo": {
+    "publishedDate": "2017-09-08T07:18:54-04:00",
+    "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
+    "publisher": {
+      "name": "DNCP - Paraguay",
+      "uri": "https://contrataciones.gov.py/datos",
+      "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay"
+    }
+  },
+  "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1-award",
+  "initiationType": "tender",
+  "date": "2017-09-08T07:18:54-04:00",
+  "tag": [
+    "award"
+  ],
+  "awards": [
+    {
+      "id": "275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
+      "title": "LPN 76-15 CONT DE SERV DE MANT PREV Y CORRECTIVO CON PROVISION DE REPUESTOS A NECESIDAD PARA EQUIPOS DE RAYOS X DE LA MARCA SIEMENS DEL ÁREA CENTRAL, INTERIOR Y HOSPITAL CENTRAL - AD REFERÉNDUM 2016",
+      "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/275348-lpn-76-15-cont-serv-mant-prev-correctivo-provision-repuestos-necesidad-equipos-rayos-1",
+      "date": "2016-05-25T14:54:55-04:00",
+      "value": {
+        "currency": "PYG",
+        "amount": 2607178400.0
+      },
+      "suppliers": [
+        {
+          "name": "EDUARDO ELIZECHE BENITEZ SAC",
+          "identifier": {
+            "legalName": "EDUARDO ELIZECHE BENITEZ SAC",
+            "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "id": "80002379-0",
+            "key": "275348-eduardo-elizeche-benitez-sac-1"
+          },
+          "address": {
+            "countryName": "Paraguay",
+            "locality": "ASUNCION",
+            "streetAddress": "AVDA SACRAMENTO 2409",
+            "region": "Central",
+            "postalCode": ""
+          },
+          "contactPoint": {
+            "url": "http://www.elizechesac.com",
+            "name": "PATRICIA GRANDA DE SERRATI, RICARDO CABALLERO, ADOLFO RAMIREZ, JOSE ROMUALDO GRANDA, EDUARDO GRANDA Y MAURICIO SERRATI GRANDA",
+            "faxNumber": "",
+            "email": "maria.garay@elizechesac.com",
+            "telephone": "294349 - 282301/2"
+          }
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "ocid": "ocds-03ad3f-275348"
+}

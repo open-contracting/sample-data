@@ -1,0 +1,44 @@
+{
+  "date": "2017-10-09T22:44:05Z",
+  "tag": [
+    "planning"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "State Transit Authority",
+    "contactPoint": {
+      "name": "Kamalini Jayasundara",
+      "telephone": " 02 9245 5766",
+      "email": "kamalini_jayasundara@sta.nsw.gov.au"
+    }
+  },
+  "id": "PP-1F4D7229-01A7-8E8D-6F9203B84D222303",
+  "ocid": "ocds-43qwtd-PP-1F4D7229-01A7-8E8D-6F9203B84D222303",
+  "packageInfo": {
+    "publishedDate": "2017-10-10T14:45:20Z",
+    "publisher": {
+      "name": "NSW office of Procurement - eTendering",
+      "uri": "https://tenders.nsw.gov.au"
+    }
+  },
+  "language": "EN",
+  "tender": {
+    "id": "STA2017/20",
+    "items": [
+      {
+        "classification": {
+          "id": " 81151604",
+          "description": "Land surveying",
+          "scheme": "UNSPSC"
+        },
+        "id": " 81151604"
+      }
+    ],
+    "plannedProcurementUUID": "1F4D7229-01A7-8E8D-6F9203B84D222303",
+    "PPstatus": "As Published",
+    "description": "Mona Vale - Double Decker Bus Workshop",
+    "estimatedDateToMarket": "Quarter 2 2017/2018",
+    "status": "planned",
+    "multiAgencyAccess": false
+  }
+}

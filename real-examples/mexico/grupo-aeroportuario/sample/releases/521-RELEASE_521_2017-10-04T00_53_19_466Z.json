@@ -1,0 +1,385 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-eb62a032-0275-4d06-b6e3-72cc57ef9245",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCI?N, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN EL SITIO DEL  NAICM.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 28001931.32
+            }
+          }
+        }
+      ],
+      "title": "TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCION, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE MEXICO EN EL SITIO DEL  NAICM.",
+      "id": "AD-OP-DCAGI-SC-007-17",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-21a93ec3-c367-4cdb-959d-55d8aa4cd418",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-03-28T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-03-28T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-6f4a8701-7f9d-49db-8523-b68954c1e9c2",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-03-28T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-03-28T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-b1ea6257-b90f-4bb7-b735-86262de67b4b",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-03-28T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-03-28T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-97f1ab72-275e-48f5-a62c-799c21028320",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-03-28T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-03-28T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 28001931.32
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-2c26b333-b8c0-48e9-8b9a-d9de1c3a83c5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "ACCIONESGRUPOORO",
+              "legalName": "ACCIONES GRUPO DE ORO, S.A. DE C.V",
+              "scheme": "ACCIONES GRUPO DE ORO, S.A. DE C.V"
+            },
+            "value": {
+              "amount": 15348774.62
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-OP-DCAGI-SC-007-17 TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCI?N, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN EL SITIO DEL  NAICM.",
+            "id": "milestone-21ba01a4-7c03-42a6-80ff-9ec022f7c560",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "54.72%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2017-03-01T06:00:00.000Z",
+        "endDate": "2017-10-14T05:00:00.000Z"
+      },
+      "dateSigned": "2017-03-28T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.470Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "procurementMethodRationale": "22 ADJUDICACION DIRECTA NACIONAL ART. 43 LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 28001931.32
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-18b08677-5350-46d2-a168-3fcb2acb2fcc",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/9.-%20AJ/9.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-4d8d28cc-3282-4b6d-a0f1-4f7d8cf524f3",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-04787ee7-5aaf-4641-92ab-43995c5a2bb1",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-d6689cd3-74c0-4148-97ae-2ce73e3efb95",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-9fabd3d8-8425-4410-b014-7b2482a87c6f",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-9c46be65-7c63-42a6-9039-8fc876b4daa2",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCI?N, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN EL SITIO DEL NAICM.n",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-07bb5dfc-5081-4c86-ad8d-994af05a070f",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCI?N, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN EL SITIO DEL  NAICM.",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 28001931.32
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 28001931.32
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-332eaf20-f814-432b-9337-4b19007dafb4",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/4.-%20TR/4.3.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d973a0f4-aa47-4b53-8762-bbcfeb2b41b2",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/4.-%20TR/4.2.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2113fc2a-15e6-4a6c-aff9-0141278fa96c",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/4.-%20TR/4.1.pdf",
+        "datePublished": "2017-03-28T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-03-28T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCI?N, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN EL SITIO DEL  NAICM."
+  },
+  "date": "2017-08-18T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_521_2017-10-04T00:53:19.466Z",
+  "ocid": "521",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCI?N, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN EL SITIO DEL  NAICM.",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2017-03-01T06:00:00.000Z",
+        "endDate": "2017-10-14T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 28001931.32
+      },
+      "items": [
+        {
+          "id": "item-13682555-08bc-4008-9431-61a4b336c760",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "TRABAJOS EXTRAORDINARIOS PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCI?N, EQUIPAMIENTO DE MOBILIARIO EN INSTALACIONES COMPLEMENTARIAS PARA EL CAMPAMENTO DEL GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO EN EL SITIO DEL  NAICM.",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 28001931.32
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-fb162a22-32c3-444f-b49a-87c545ba7759",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/12.-%20AF/12.pdf",
+          "datePublished": "2017-03-28T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-03-28T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-c6e9524f-9944-4f39-b0ec-4c5c51608cbe",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/17007-AD-OP-DCAGI-SC-007-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-03-28T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-03-28T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "streetAddress": "CALLE "
+          },
+          "contactPoint": {
+            "email": "noproporcionado@noproporcionado.com",
+            "name": "RICARDO RAMOS ACOSTA"
+          },
+          "identifier": {
+            "id": "ACCIONESGRUPOORO",
+            "legalName": "ACCIONES GRUPO DE ORO, S.A. DE C.V"
+          },
+          "name": "ACCIONES GRUPO DE ORO, S.A. DE C.V"
+        }
+      ],
+      "date": "2017-03-28T06:00:00.000Z"
+    }
+  ]
+}

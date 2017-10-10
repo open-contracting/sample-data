@@ -1,0 +1,365 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-02-15T06:00:00.000Z",
+        "endDate": "2016-02-22T06:00:00.000Z"
+      },
+      "title": "Servicios de Asesoria, Relacionados con la Implementacion de la Estructura de Gobierno Corporativo para la Administracion del Grupo Aeroportuario deLa Ciudad de Mexico, S. A. de C. V",
+      "id": "AD-AS-DCAGI-SC-006/16",
+      "awardID": "AA-009KDH999-E80-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-1afe47a6-965e-42f8-9e8b-07b4bfc31f58",
+          "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-828a7006-20b2-4774-b228-66e3794bee20",
+          "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-bf3b1d9e-b2f0-4b9e-b302-6b65eec5bbe0",
+          "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-7a05d205-5b70-40a0-bcfd-1871bff4e9f2",
+          "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 207000
+      },
+      "items": [
+        {
+          "id": "item-239c87b5-b3ec-4db4-b902-9c1e6a4d9826",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio para disenar la pagina WEB del Grupo Aeroportuario de la Ciudad de Mexico (GACM) para el Proyecto del Nuevo Aeropuerto Internacional de la C",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 207000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-f37f93a6-ca61-4e94-bd31-11c823954c49"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "EST040414KP6",
+              "legalName": "ELEMENT STUDIOS S C",
+              "scheme": "ELEMENT STUDIOS S C"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-006/16 SERVICIO PARA CONSTRUCCION, DESARROLLO Y DISE?O DE LA PAGINA WEB DEL GACM",
+            "id": "milestone-c98f4f7a-56d9-461f-8aa6-96eaf7ae2180",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-02-15T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.846Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio para disenar la pagina WEB del Grupo Aeroportuario de la Ciudad de Mexico (GACM) para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 240120
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio para disenar la pagina WEB del Grupo Aeroportuario de la Ciudad de Mexico (GACM) para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-cf1afc7c-3fb3-48a7-8f5b-9f55bafd81d3",
+        "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-aee2d61a-06d1-4e8e-91d9-53bf3848757a",
+        "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-f6e92fd3-1c09-4ac7-a9e2-a32a569b1a5a",
+        "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-be39334f-fe7e-4e31-b0ed-6ba4e24a4837",
+        "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-3167814d-2eb8-4140-8b9e-7b46d7546b28",
+        "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-0bfa04d2-9287-415d-a252-4738cd6909db",
+        "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1081482",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-120a26ce-4e53-4d1f-ae58-fc5b2dbe4c78",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio para disenar la pagina WEB del Grupo Aeroportuario de la Ciudad de Mexico (GACM) para el Proyecto del Nuevo Aeropuerto Internacional de la C",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 207000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 240120
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-45fbd642-673d-496a-836b-fb25edb6f4cb",
+        "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-02-12T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-02-12T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio para disenar la pagina WEB del Grupo Aeroportuario de la Ciudad de Mexico (GACM) para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_203_2017-10-04T00:53:16.842Z",
+  "ocid": "203",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de Asesoria, Relacionados con la Implementacion de la Estructura de Gobierno Corporativo para la Administracion del Grupo Aeroportuario deLa Ciudad de Mexico, S. A. de C. V",
+      "id": "AA-009KDH999-E80-2016",
+      "contractPeriod": {
+        "startDate": "2016-02-15T06:00:00.000Z",
+        "endDate": "2016-02-22T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 207000
+      },
+      "items": [
+        {
+          "id": "item-ab0281bc-c5f2-4806-89c3-6462527eca28",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio para disenar la pagina WEB del Grupo Aeroportuario de la Ciudad de Mexico (GACM) para el Proyecto del Nuevo Aeropuerto Internacional de la C",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 207000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-80b7dee5-cc56-4d73-95de-188349ff13e9",
+          "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-68e0be61-0d02-4fe6-be8b-3161362e2e19",
+          "url": "http://189.211.120.220:8880/files/opendata/16006-AD-AS-DCAGI-SC-006-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-02-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-02-12T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Insurgentes San Borja",
+            "postalCode": "03220",
+            "streetAddress": "Calle Sacramento numero 305",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "EST040414KP6",
+            "legalName": "Elements Studios, S. C."
+          },
+          "name": "Elements Studios, S. C."
+        }
+      ]
+    }
+  ]
+}

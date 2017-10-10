@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-04-01T06:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "title": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos, celebrado entre GACM.",
+      "id": "AD-AS-DCAGI-SC-022/15",
+      "awardID": "AA-009KDH999-E1-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-741eba45-e326-4e53-84e5-db2205e68b8c",
+          "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-a2874938-ba61-46d0-8d87-93ba08de7eaf",
+          "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-3e93c5ad-5e6a-4da3-b7fc-4650f07a5b7c",
+          "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-0925722d-34b1-48e5-b28e-3ae8996ebe3d",
+          "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 300258.62
+      },
+      "items": [
+        {
+          "id": "item-126a3152-d3f2-4dca-beb1-fdb051d2061e",
+          "classification": {
+            "id": "3190",
+            "scheme": "SERVICIOS INTEGRALES Y OTROS SERVICIOS"
+          },
+          "quantity": 1,
+          "description": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos, celebrado entre GACM.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 300258.62
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-519f2caf-ef2b-464a-b7c1-ab874f058e39"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/31902.pdf",
+            "receiverOrganization": {
+              "id": "PAU070322DGA",
+              "legalName": "PARKAUTO, S.A. DE C.V.",
+              "scheme": "PARKAUTO, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-022/15 CONTRATO ABIERTO DE PRESTACI?N DE SERVICIOS PARA LA CONTRATACI?N DEL SERVICIO DE ESTACIONAMIENTO PARA VEH?CULOS",
+            "id": "milestone-9da14622-b44d-44b2-808f-b7ced5481c27",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-04-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.917Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos, celebrado entre GACM.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 350000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-7fab4164-cf5c-44e3-b2cc-470d3433f08f",
+        "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-1af6dccb-4fd4-4c9a-bfbf-845db13bef4f",
+        "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-8fc2ede0-9592-43f7-b7b8-357b827a0c1f",
+        "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-1d97b49f-6f28-43a3-97f2-5b0d1425eb0d",
+        "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-47898940-a0eb-4b5f-995e-6fc2ec209a70",
+        "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-2e8b1dcd-df3e-4fd4-a1c3-742e96850282",
+        "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "981795",
+    "items": [
+      {
+        "id": "item-5536f02d-d1a8-465f-b6c6-e8ca1884fe90",
+        "classification": {
+          "id": "3190",
+          "scheme": "SERVICIOS INTEGRALES Y OTROS SERVICIOS"
+        },
+        "quantity": 1,
+        "description": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos, celebrado entre GACM.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 300258.62
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "CONTRATACION DE OTROS SERVICIOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 350000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6daca56b-2172-4b0f-b1f8-2721d2f1cae9",
+        "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-04-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-04-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_44_2017-10-04T00:53:18.913Z",
+  "ocid": "44",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos, celebrado entre GACM.",
+      "id": "AA-009KDH999-E1-2016",
+      "contractPeriod": {
+        "startDate": "2015-04-01T06:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 300258.62
+      },
+      "items": [
+        {
+          "id": "item-eeb28756-7b64-4dc7-bf94-6b5983bd30d5",
+          "classification": {
+            "id": "3190",
+            "scheme": "SERVICIOS INTEGRALES Y OTROS SERVICIOS"
+          },
+          "quantity": 1,
+          "description": "Contrato Abierto de Prestacion de Servicios de Estacionamiento para Vehiculos, celebrado entre GACM.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 300258.62
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-4460dbc4-b24a-426a-b423-3c6e3ea95eb8",
+          "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-00a3ec05-0c75-4e58-8f3d-64fa2ede54c1",
+          "url": "http://189.211.120.220:8880/files/opendata/15022-AD-AS-DCAGI-SC-022-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-04-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "San Angel",
+            "postalCode": "1000",
+            "streetAddress": "Rey Cuauhtemoc 31",
+            "region": "Alvaro Obregon"
+          },
+          "identifier": {
+            "id": "PAU070322DGA",
+            "legalName": "Parkauto S.A. de C.V."
+          },
+          "name": "Parkauto S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

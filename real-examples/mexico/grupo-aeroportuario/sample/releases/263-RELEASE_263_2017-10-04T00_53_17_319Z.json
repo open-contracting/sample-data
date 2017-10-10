@@ -1,0 +1,385 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-04-16T05:00:00.000Z",
+        "endDate": "2016-08-31T05:00:00.000Z"
+      },
+      "title": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "AD-SRO-DCAGI-SC-031-16",
+      "awardID": "AO-009KDH999-E110-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-bd106141-0671-401c-aab9-3b9c503f5766",
+          "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-93ccdf7c-7c8a-4443-a273-9e7471b4401c",
+          "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-d03b0c03-6925-4a32-92d9-d17d2c72dde9",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/1CM-AD-SRO-DCAGI-SC-031-16.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Convenio modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-6683af0f-931b-4d93-a1ac-e38b6baa5bd9",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSCONTRATACIONES/finiquito03116.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-195ed3e1-8650-4ea0-8fcf-25c28dad1a33",
+          "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-e3ee9c0b-c9f2-48f3-b0b5-aff042d57a2b",
+          "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 687931
+      },
+      "items": [
+        {
+          "id": "item-8e7ffe4e-9cb3-405d-8f92-d08ddc6d0c59",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 687931
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-41fe475e-135d-4296-a22a-7d88ba0c2e53"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "CARLOS ENRIQUE ORTEGA MORA",
+              "scheme": "CARLOS ENRIQUE ORTEGA MORA"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-031-16 RESIDENCIA GENERAL DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+            "id": "milestone-32d71780-598e-4053-b281-7b6c6fa376ad",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-04-22T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.323Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 687931
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-3d2d8373-bb7c-4151-80b1-0e556cbfe20e",
+        "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-04-16T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-04-16T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-d154b648-da57-4c75-b4b5-0cfe885a37c8",
+        "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-e0a1655a-b513-461f-8ba6-6dc2d3d39b51",
+        "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-07fbe2ec-bbbb-48a5-84a3-bf02a5f1e9de",
+        "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-2ff61473-7c3c-482f-a047-920334995733",
+        "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-9e5bf00c-1180-4af6-9227-bd7df0a2da82",
+        "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-04-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-04-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1125361",
+    "items": [
+      {
+        "id": "item-b7b10f99-e8ef-460c-95ec-a45ddb44b8b0",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 687931
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 687931
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2839c933-486e-4530-8788-bdeb8052501d",
+        "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-04-16T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-04-16T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_263_2017-10-04T00:53:17.319Z",
+  "ocid": "263",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "AO-009KDH999-E110-2016",
+      "contractPeriod": {
+        "startDate": "2016-04-16T05:00:00.000Z",
+        "endDate": "2016-08-31T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 687931
+      },
+      "items": [
+        {
+          "id": "item-941f8033-dfd0-47ca-80d7-07d0b40d2b01",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Residencia General  de Obra del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 687931
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-c25da9de-a79e-4ddf-94db-9afa2dcfaaaf",
+          "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-168d174e-aa53-4aeb-9910-3f7e3e602b3b",
+          "url": "http://189.211.120.220:8880/files/opendata/16031-AD-SRO-DCAGI-SC-031-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-04-16T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-04-16T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Ciudad de los Deportes",
+            "postalCode": "03710",
+            "streetAddress": "Maximino Avila Camacho No. 77-B, 605",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "OEMC500117HDFRRR03",
+            "legalName": "Ing. Carlos Enrique Ortega Mora"
+          },
+          "name": "Ing. Carlos Enrique Ortega Mora"
+        }
+      ]
+    }
+  ]
+}

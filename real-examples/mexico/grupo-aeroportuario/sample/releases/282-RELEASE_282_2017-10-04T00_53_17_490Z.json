@@ -1,0 +1,419 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-04-01T06:00:00.000Z",
+        "endDate": "2016-11-26T06:00:00.000Z"
+      },
+      "title": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "ITP-SRO-DCAGI-SC-018/16",
+      "awardID": "IO-009KDH999-E96-2015",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-cbabca3b-03cb-44f0-9b57-aff9db124c9d",
+          "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-4eab8544-2bc4-4ddd-82d6-abc073524ec4",
+          "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-5cadf7a6-46a4-42dd-98ac-732f137ec29f",
+          "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/19.-%20CM/19.1.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-e02e776b-698a-4b07-8280-bda7fe92bf0a",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/FINIQUITOITP-SRO-DCAGI-SC-018-16.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-4319f483-4980-4835-8b0e-10514f8ea06c",
+          "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-df810cb6-18d2-4461-be06-684eb19fb431",
+          "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 79000000
+      },
+      "items": [
+        {
+          "id": "item-2782bcec-2d00-4231-98ba-874290a42204",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 79000000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-a7100b86-04cd-4dad-8808-c453795b989b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "BBC970130BF3",
+              "legalName": "BCG-THE BOSTON CONSULTING GROUP, S.C.",
+              "scheme": "BCG-THE BOSTON CONSULTING GROUP, S.C."
+            },
+            "value": {
+              "amount": 79000000
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-018/16 SERVICIOS PARA LA INTEGRACION DE LA ESTRATEGIA GLOBAL Y MODELO DE NEGOCIOS PARA EL NAICM",
+            "id": "milestone-ef539850-77a5-42a1-a2d6-75e4d0ac2b7a",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-03-23T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.495Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "awardPeriod": {
+      "startDate": "2016-01-06T06:00:00.000Z",
+      "endDate": "2016-02-22T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Internacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 122000000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-c4fe8f04-2a0e-45f6-a210-ab0a1e398cd7",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-995239d4-a531-41dd-b174-fc0d51b5d7f0",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-988a8579-23a4-473e-b327-23230fc634bf",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-3e5d347a-2944-456b-9d5b-b5cc1c80a621",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-5d5597c9-b12e-4723-8eaf-621e06f2e252",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-f7124c27-60cb-4c36-9c27-9490b791fea0",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-01-06T06:00:00.000Z",
+      "endDate": "2016-02-22T06:00:00.000Z"
+    },
+    "id": "971461",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-35cc6472-ce24-46d5-8749-82b4b9db1377",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 79000000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 122000000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-a414e925-7afc-46f1-8516-06515acc9818",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/5.-%20IM/5.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b6770cb9-2a75-4c90-9d11-1f3c5e10aaa1",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-f9042d00-58bf-4dda-9f0c-2aa4bbfd8694",
+        "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/4.-%20TR/4.1.pdf",
+        "datePublished": "2016-03-11T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-03-11T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_282_2017-10-04T00:53:17.490Z",
+  "ocid": "282",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "IO-009KDH999-E96-2015",
+      "contractPeriod": {
+        "startDate": "2016-04-01T06:00:00.000Z",
+        "endDate": "2016-11-26T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 79000000
+      },
+      "items": [
+        {
+          "id": "item-ec14a20f-bb03-4f6f-b334-327876c48f82",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de integracion de la estrategia global y modelo de negocios para el Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 79000000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-13a89ea4-e2da-4a7d-8cb1-bb61ce099484",
+          "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-a7376beb-42e5-4379-b81d-e85cdd7ef515",
+          "url": "http://189.211.120.220:8880/files/opendata/16018-ITP-SRO-DCAGI-SC-018-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-03-11T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-11T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2011-03-20T22:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Residencia San Agustin",
+            "postalCode": "66260",
+            "streetAddress": "Calle Real San Agustin 304 Edificio B",
+            "region": "San Pedro Garza Garcia"
+          },
+          "identifier": {
+            "id": "BBC970130F3",
+            "legalName": "BCG- The Boston Conslting Group S. C."
+          },
+          "name": "BCG- The Boston Conslting Group S. C."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-04-24T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "title": "SERVICIOS PROFESIONALES CONSISTENTES EN EL SEGUIMIENTO, REPRESENTACION Y DEFENSA EN JUICIOS PRESENTES EN MATERIA LABORAL",
+      "id": "AD-AS-DCAGI-SC-019-BIS/2015",
+      "awardID": "AA-009KDH999-E66-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-76ef37b9-3805-49bb-afb7-d957b6480f07",
+          "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-24T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-24T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-6a1fc0b3-0744-4f5b-9800-d825deeff1cc",
+          "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-04-24T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-04-24T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-63ecea52-f77c-4e07-a651-11be9ff28a33",
+          "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/19.-%20CM/19.1.pdf",
+          "datePublished": "2015-04-24T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2015-04-24T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-ee69e872-980f-486d-84b8-a4fa847039e2",
+          "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-04-24T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-24T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-89bb8e2d-9b92-436d-b4cf-60186583c089",
+          "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-04-24T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-04-24T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 364993.5
+      },
+      "items": [
+        {
+          "id": "item-16d23de0-d930-4002-86b4-05c379d54ab8",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicios en el seguimiento, representacion y defensa en juicio, presentes en materia laboral.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 364993.5
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-c67bc66f-509a-41ac-be23-e7acbe6b5665"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33104.pdf",
+            "receiverOrganization": {
+              "id": "CSJ130426GT9",
+              "legalName": "CONSORCIO DE SERVICIOS JUR?DICOS MONSALVO, S.C.",
+              "scheme": "CONSORCIO DE SERVICIOS JUR?DICOS MONSALVO, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-019-BIS/2015 SERVICIOS PROFESIONALES EN EL SEGUIMIENTO, REPRESENTACI?N Y DEFENSA EN JUICIOS EN MATERIA LABORAL",
+            "id": "milestone-08b13fc2-2d45-410f-9e63-99569dc28de9",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-04-24T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.869Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios en el seguimiento, representacion y defensa en juicio, presentes en materia laboral.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 420000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios en el seguimiento, representacion y defensa en juicio, presentes en materia laboral.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-c3fe894d-ec45-4fd7-b1f6-b8c8e68d66b9",
+        "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-04-24T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-04-24T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-a33d34e4-cbd9-48ce-8674-28a1d232c185",
+        "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-24T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-24T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-7821d342-edc3-4391-9281-8be37350c9de",
+        "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-24T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-24T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-9f79b089-6b41-46a9-bbf0-f92e91e9f7a8",
+        "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-24T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-24T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-af0f0855-5931-4f33-a63a-a94aecda7a7b",
+        "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-24T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-24T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-fbb64399-aa3e-4eaa-9b90-8619702d30b5",
+        "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-04-24T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-04-24T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1052471",
+    "items": [
+      {
+        "id": "item-ac9971ce-dc80-4102-a79f-0106bdcced34",
+        "classification": {
+          "id": "3310",
+          "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+        },
+        "quantity": 1,
+        "description": "Servicios en el seguimiento, representacion y defensa en juicio, presentes en materia laboral.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 364993.5
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OTRAS ASESORIAS PARA LA OPERACION DE PROGRAMAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 420000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-76e20777-110a-461d-b6ba-65ec21e4bded",
+        "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-04-24T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-04-24T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios en el seguimiento, representacion y defensa en juicio, presentes en materia laboral."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_20_2017-10-04T00:53:16.866Z",
+  "ocid": "20",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "SERVICIOS PROFESIONALES CONSISTENTES EN EL SEGUIMIENTO, REPRESENTACION Y DEFENSA EN JUICIOS PRESENTES EN MATERIA LABORAL",
+      "id": "AA-009KDH999-E66-2016",
+      "contractPeriod": {
+        "startDate": "2015-04-24T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 364993.5
+      },
+      "items": [
+        {
+          "id": "item-f2a50574-8637-4892-8530-c81a8a773b73",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicios en el seguimiento, representacion y defensa en juicio, presentes en materia laboral.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 364993.5
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-9e8a6f95-33d7-407c-80bd-ad3d3e9d387c",
+          "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-04-24T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-24T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-6591ef77-8e4b-4b00-afca-f59a9d2f62c2",
+          "url": "http://189.211.120.220:8880/files/opendata/15019BIS-AD-SRO-DCAGI-SC-019-BIS-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-04-24T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-04-24T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Col. Del Valle",
+            "postalCode": "03100",
+            "streetAddress": "Pitagoras 903",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "CSJ130426GT9",
+            "legalName": "Consorcio de Servicios Juridicos Monsalvo, S. C."
+          },
+          "name": "Consorcio de Servicios Juridicos Monsalvo, S. C."
+        }
+      ]
+    }
+  ]
+}

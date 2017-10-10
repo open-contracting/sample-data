@@ -1,0 +1,115 @@
+{
+  "buyer": {
+    "id": "sid4gov.cabinetoffice.gov.uk/YBpu99BZ",
+    "name": "Spend Network",
+    "address": {
+      "region": null,
+      "streetAddress": "Civic CentreHigh Street KingswoodBristolAvon ",
+      "postalCode": "BS15 9TR",
+      "countryName": "United Kingdom",
+      "locality": ""
+    },
+    "identifier": {
+      "uri": null,
+      "id": "",
+      "legalName": null,
+      "scheme": ""
+    },
+    "contactPoint": {
+      "telephone": "",
+      "email": "janice.llewellyn@southglos.gov.uk",
+      "name": "Ms Janice Llewellyn",
+      "faxNumber": null
+    }
+  },
+  "ocid": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b",
+  "packageInfo": {
+    "publisher": {
+      "uri": "https://www.contractsfinder.service.gov.uk",
+      "name": "Spend Network",
+      "uid": null,
+      "scheme": "GB-GOVUK-crown_comercial_service"
+    },
+    "uri": "https://www.contractsfinder.service.gov.uk/Published/Notice/releases/59447062-5125-4d62-b917-af6ee9ffaf67.json",
+    "publishedDate": "2014-12-17T16:44:58Z"
+  },
+  "id": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b-59432-sougl-swce-9cch6u",
+  "language": "en-GB",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "tender": {
+    "items": [
+      {
+        "id": 1,
+        "description": "See description of related tender.",
+        "classification": {
+          "uri": "http://cpv.data.ac.uk/code-85000000.html",
+          "id": "85000000",
+          "description": "Health and social work services",
+          "scheme": "CPV"
+        }
+      },
+      {
+        "id": 2,
+        "description": "See description of related tender.",
+        "classification": {
+          "uri": "http://cpv.data.ac.uk/code-98000000.html",
+          "id": "98000000",
+          "description": "Other community, social and personal services",
+          "scheme": "CPV"
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "id": 1,
+        "status": null,
+        "title": "Contract start",
+        "description": "Anticipated contract start date",
+        "dueDate": "2014-02-01T00:00:00Z"
+      },
+      {
+        "id": 2,
+        "status": null,
+        "title": "Contract end",
+        "description": "Anticipated contract end date",
+        "dueDate": "2018-01-31T00:00:00Z"
+      }
+    ],
+    "title": " Framework for Provision of Community Based Services",
+    "supplyChain": false,
+    "awardCriteriaDetails": null,
+    "tenderPeriod": {
+      "endDate": "2018-01-31T00:00:00Z",
+      "startDate": "2014-12-17T16:44:58Z"
+    },
+    "submissionMethod": null,
+    "id": "ocds-b5fd17-2c3aae9c-adc8-11e6-9901-0019b9f3037b-sougl-swce-9cch6u",
+    "eligibilityCriteria": null,
+    "status": "active",
+    "procurementMethod": null,
+    "xClassifications": {
+      "isSuitableForSme": false,
+      "ojeuContractType": "Works",
+      "isSuitableForVco": false
+    },
+    "submissionMethodDetails": "Please apply directly to the buyer using the contact details provided.",
+    "minValue": {
+      "amount": 9432500,
+      "currency": "GBP"
+    },
+    "hasEnquiries": null,
+    "description": " South Gloucestershire Council is establishing a newCommunity Based Support Services Framework from which to commission care and support services for service users in South Gloucestershire. The new Framework will include the provision of domiciliary care, supported living and live-in care and support to access the community for social, leisure and vocational activities.\r\nThe New Framework will commence on 1st February 2014 and the Council intends to commission all Community Based Support Services from Organisations within the Framework from this date. \r\nThe Framework will close to new applications on 31st December 2014.All applications received before this date will be processed.\r\nThe Council intends to reopen the Framework for new applications from 1st May to 31st July annually for the remainder of the framework term.",
+    "procurementMethodRationale": null,
+    "awardCriteria": null,
+    "documents": [],
+    "value": {
+      "amount": 24477500,
+      "currency": "GBP"
+    },
+    "procurementMethodDetails": "Open procedure"
+  },
+  "date": "2014-12-17T16:44:58Z"
+}

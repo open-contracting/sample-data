@@ -1,0 +1,361 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-ce2b776c-7537-480a-8b2a-1d85f49477d3",
+          "classification": {
+            "id": "3170",
+            "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+          },
+          "quantity": 1,
+          "description": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 163999.98
+            }
+          }
+        }
+      ],
+      "title": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista",
+      "id": "AD-DCAGI-SA-GAR-01/15",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-2b561bbe-a013-48db-97c5-b26f2c405325",
+          "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-17eee46a-95f4-46af-b130-28aed32a90fd",
+          "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-3bd13f4d-09b0-432d-b01b-da6e3273663c",
+          "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-7d9af80a-40c2-403f-a655-995054d058c5",
+          "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 163999.98
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-8420c3d0-0d77-40e9-a4fb-897bdc7de9a7"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/31701.pdf",
+            "receiverOrganization": {
+              "id": "COM010313SU8",
+              "legalName": "COMTELSAT, S.A. DE C.V.",
+              "scheme": "COMTELSAT, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-DCAGI-SA-GAR-01/15 ENLACES DE TELEFONIA E INTERNET EN EL INMUEBLE DE ALTAVISTA",
+            "id": "milestone-bc6a2a88-e191-4d75-90e1-081584ae305f",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2015-01-02T06:00:00.000Z",
+        "endDate": "2015-07-01T05:00:00.000Z"
+      },
+      "dateSigned": "2015-01-02T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.837Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de conduccion de senales analogicas y digitales telecomunicaciones",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 490000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6009999e-d4fe-40da-8ad3-d4b635089ec2",
+        "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-97e11753-9983-4f07-98fe-f8918fed66b2",
+        "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-ff3ecc06-151f-474f-b4de-00492d140220",
+        "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-624703c9-c825-4d74-a851-680dd24ff0cb",
+        "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-0263d531-a71f-4d06-a3a9-44e23dcdcbf9",
+        "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-7b1d0a53-bf6a-4050-b076-764ae91538ff",
+        "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista",
+    "items": [
+      {
+        "id": "item-7cad7538-1a24-4a6a-8896-6067ad2c558a",
+        "classification": {
+          "id": "3170",
+          "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+        },
+        "quantity": 1,
+        "description": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 163999.98
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista",
+      "amount": {
+        "currency": "MXN",
+        "amount": 490000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d5cd516e-3826-492c-8ab2-72aa47977efc",
+        "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_201_2017-10-04T00:53:16.833Z",
+  "ocid": "201",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2015-01-02T06:00:00.000Z",
+        "endDate": "2015-07-01T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 163999.98
+      },
+      "items": [
+        {
+          "id": "item-a3cb3fa4-375f-4f05-8e8e-ef97915adf22",
+          "classification": {
+            "id": "3170",
+            "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+          },
+          "quantity": 1,
+          "description": "Servicio de Enlaces de Telefonia e Internet en el inmueble de AltaVista",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 163999.98
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Santa Fe Centro",
+            "postalCode": "1210",
+            "streetAddress": "Guillermo Gonzalez Camarena no. 600",
+            "region": "Cuajimalpa"
+          },
+          "identifier": {
+            "id": "COM0100313SU8",
+            "legalName": "COMTELSAT, S.A. de C.V."
+          },
+          "name": "COMTELSAT, S.A. de C.V."
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-2713c9d1-1ee9-43fd-8adc-57383c08858e",
+          "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-cf716997-28fe-49a4-9c93-795c17963c12",
+          "url": "http://189.211.120.220:8880/files/opendata/15001-AD-DCAGI-SA-GAR-SC-01-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

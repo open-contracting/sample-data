@@ -1,0 +1,385 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-11-01T06:00:00.000Z",
+        "endDate": "2017-04-30T05:00:00.000Z"
+      },
+      "title": "SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+      "id": "AD-SRO-DCAGI-SC-081-16",
+      "awardID": "AO-009KDH999-E3-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-dc59e317-6413-4806-8a85-2606304eedfb",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-a9351639-f55b-4190-b7e4-87806c0d1b1c",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-a0fef49e-6098-4ec7-9c18-18599e273df3",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/19.-%20CM/19.1.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-48f3bc39-d0d8-4ece-afba-851a519b175f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-e6a16c4c-fbf7-4711-8f29-65f7b64a3f2f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 585314.7
+      },
+      "items": [
+        {
+          "id": "item-123bc476-9bfd-42e5-a8de-a536553cf38d",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 585314.7
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-aacfe21e-d270-4076-b6fb-348689d88094"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "CARLOS ENRIQUE ORTEGA MORA",
+              "scheme": "CARLOS ENRIQUE ORTEGA MORA"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-081-16 SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+            "id": "milestone-1c8a8d35-0765-4f26-9087-5b55337fef0d",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-11-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.941Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-01-11T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "39 ADJUDICACION DIRECTA ART. 42 DE LOPSRM",
+    "value": {
+      "currency": "MXN",
+      "amount": 825517.18
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-b5d1455c-3b85-475d-9d4c-b723f9a265a6",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-f021b256-7536-4fda-8b83-df2038560691",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-17d79e9c-c721-46a0-8c61-e53d985caa75",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-b48989db-7838-4edf-a2d6-4271b6830737",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-a8cf6ccd-0351-4bec-9f87-c6183b4d1635",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-ebb84fd1-c181-472f-b704-dfa73cf9e5de",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2017-01-11T06:00:00.000Z"
+    },
+    "id": "1252335",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-35a34fe8-f0ea-4def-80b9-1748cd1e02f1",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 585314.7
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 825517.18
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-b2054932-5b69-47b3-a015-c8ae9f681650",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-11-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-11-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_461_2017-10-04T00:53:18.938Z",
+  "ocid": "461",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+      "id": "AO-009KDH999-E3-2017",
+      "contractPeriod": {
+        "startDate": "2016-11-01T06:00:00.000Z",
+        "endDate": "2017-04-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 585314.7
+      },
+      "items": [
+        {
+          "id": "item-bdc2fa69-6ad1-4351-a9d7-f5e3cd3b77e7",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO ESPECIALIZADO EN APOYO DE LA RESIDENCIA DE OBRA DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 585314.7
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-001eabb6-90c2-49a0-95bd-dab65ed8e93f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-9a61e56b-c979-49f7-a93a-b95b4b4531f1",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16081-AD-SRO-DCAGI-SC-081-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-11-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-11-01T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-11-01T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "postalCode": "03710",
+            "streetAddress": "MAXIMO AVILA CAMACHO 605 B  77",
+            "region": "CIUDAD DE LOS DEPORTES"
+          },
+          "contactPoint": {
+            "email": "calos.ortega8310@gmail.com",
+            "telephone": "5515 1083",
+            "name": "CARLOS ENRIQUE ORTEGA MORA"
+          },
+          "identifier": {
+            "legalName": "CARLOS ENRIQUE ORTEGA MORA"
+          },
+          "name": "CARLOS ENRIQUE ORTEGA MORA"
+        }
+      ]
+    }
+  ]
+}

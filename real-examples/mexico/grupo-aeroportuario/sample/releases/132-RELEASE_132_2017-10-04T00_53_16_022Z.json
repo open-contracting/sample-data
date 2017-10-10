@@ -1,0 +1,364 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-02T06:00:00.000Z",
+        "endDate": "2016-03-29T06:00:00.000Z"
+      },
+      "title": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria.",
+      "id": "AD-SRO-DCAGI-SC-097/15",
+      "awardID": "AO-009KDH999-E41-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-35543a68-c94d-4c8d-8825-70b214addff7",
+          "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-ecdd938b-722d-4740-98ba-951ea48e00f5",
+          "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-33320ad3-aedf-468a-9509-27e2a4b88399",
+          "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-9facb21e-a284-4ffc-8091-f598db9e5926",
+          "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1403017.24
+      },
+      "items": [
+        {
+          "id": "item-65ad4109-0973-45ab-82d5-b5e428e2a1fa",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 1403017.24
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-f82145b3-79fa-401c-a942-add1d6f9e238"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "OSCAR JOSE VEGA Y ROLD?N",
+              "scheme": "OSCAR JOSE VEGA Y ROLD?N"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-097/15 PRESTACION DE SERVICIOS DE EXPERTO REVISOR PARA EL PANEL DE GEOTECNIA Y CIMENTACION E HIDRAULICA",
+            "id": "milestone-576728a8-5386-484b-bcbf-692ca6befc63",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.028Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 15650000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-43734977-2e9c-427a-b70d-597a44a08a9b",
+        "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-05bffdd9-05db-43bf-96be-7793473f06a0",
+        "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-88795169-f400-4254-8308-84a829504781",
+        "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-9e93a734-6f2d-448d-b386-4cea7a489cbf",
+        "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-1091e015-d559-4888-a9b1-156eff6baad9",
+        "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-b1c82977-e10e-4a45-9d46-6d7620f37e24",
+        "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1037341",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-b485c0c6-7816-436d-8a15-7fd37a77942c",
+        "classification": {
+          "id": "6250",
+          "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+        },
+        "quantity": 1,
+        "description": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 1403017.24
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "CONSTRUCCION DE VIAS DE COMUNICACION",
+      "amount": {
+        "currency": "MXN",
+        "amount": 15650000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bebf5944-6f82-4242-8436-bfa448054916",
+        "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-12-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-12-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_132_2017-10-04T00:53:16.022Z",
+  "ocid": "132",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria.",
+      "id": "AO-009KDH999-E41-2016",
+      "contractPeriod": {
+        "startDate": "2015-12-02T06:00:00.000Z",
+        "endDate": "2016-03-29T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1403017.24
+      },
+      "items": [
+        {
+          "id": "item-7004753a-b194-42a1-bb6c-13c0da87b656",
+          "classification": {
+            "id": "6250",
+            "scheme": "CONSTRUCCION DE VIAS DE COMUNICACION"
+          },
+          "quantity": 1,
+          "description": "Servicio de asistencia tecnica especializada en materia de hidraulica aplicada a la infraestructura aeroportuaria.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 1403017.24
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-d9797698-610e-44f0-afc2-8e8396bb7c97",
+          "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-8ad1d1c0-017b-4fa8-9cbb-1b34b1ed360b",
+          "url": "http://189.211.120.220:8880/files/opendata/15097-AD-SRO-DCAGI-SC-097-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-12-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-12-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Pedregal de San Francisco",
+            "postalCode": "4320",
+            "streetAddress": "Calle Cerro del Horno",
+            "region": "Coyoacan"
+          },
+          "identifier": {
+            "id": "VERO381205AA9",
+            "legalName": "Oscar Jose Vega y Roldan"
+          },
+          "name": "Oscar Jose Vega y Roldan"
+        }
+      ]
+    }
+  ]
+}

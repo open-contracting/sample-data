@@ -1,0 +1,154 @@
+{
+  "planning": {
+    "documents": [],
+    "id": "11-12-478812",
+    "budget": {
+      "amount": {
+        "currency": "COP"
+      },
+      "source": "http://www.minhacienda.gov.co/HomeMinhacienda/siif"
+    }
+  },
+  "language": "es",
+  "id": "59adb470998eb5950cf45175",
+  "buyer": {
+    "address": {
+      "locality": "Bogot� D.C.",
+      "streetAddress": "Avenida Jimenez No 7-65",
+      "countryName": "Colombia",
+      "region": "Bogot� D.C."
+    },
+    "name": "MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL (MINAGRICULTURA)",
+    "identifier": {
+      "legalName": "MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL (MINAGRICULTURA)",
+      "scheme": "NIT",
+      "id": "899999028"
+    }
+  },
+  "num_constancia": "11-12-478812",
+  "initiationType": "tender",
+  "urlSECOP": "https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=11-12-478812",
+  "procurement_type": "Contrataci�n Directa (Ley 1150 de 2007)",
+  "tender": {
+    "id": "11-12-478812",
+    "status": "complete",
+    "items": [
+      {
+        "classification": {
+          "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios",
+          "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+          "scheme": "UNSPSC"
+        },
+        "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+        "id": 80000000
+      }
+    ],
+    "title": "20110074",
+    "submissionMethod": [
+      "written"
+    ],
+    "description": "La cooperaci�n t�cnica y Cient�fica entre EL MINISTERIO y la CCI  mediante la uni�n de esfuerzos  recursos  tecnolog�a y capacidades  para realizar en el a�o 2011 el proceso de operaci�n y administraci�n  del Sistema de Informaci�n de precios mayoristas  otros canales  precios minoristas de los insumos y de los factores asociados a la producci�n y abastecimiento de alimentos  realizando la recolecci�n  an�lisis  aseguramiento y difusi�n de la informaci�n",
+    "value": {
+      "currency": "COP",
+      "amount": 4950000000.0
+    },
+    "procurementMethod": "limited"
+  },
+  "awards": [
+    {
+      "items": [
+        {
+          "classification": {
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios",
+            "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+            "scheme": "UNSPSC"
+          },
+          "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+          "id": 80000000
+        }
+      ],
+      "id": 521973,
+      "suppliers": [
+        {
+          "address": {
+            "streetAddress": "CALLE 16 NO. 6 66 PISO 7",
+            "countryName": "Colombia",
+            "region": "Bogot� D.C."
+          },
+          "name": "CORPORACI�N COLOMBIANA INTERNACIONAL",
+          "identifier": {
+            "legalName": "CORPORACI�N COLOMBIANA INTERNACIONAL",
+            "scheme": "Nit de Persona Jur�dica",
+            "id": "8001865857"
+          }
+        }
+      ],
+      "value": {
+        "currency": "COP",
+        "amount": 4950000000.0
+      },
+      "status": "active"
+    }
+  ],
+  "ocid": "ocds-k50g02-11-12-478812",
+  "date": "2011-04-08T21:13:15.000000Z",
+  "contracts": [
+    {
+      "dateSigned": "2011-03-16T05:00:00.000000Z",
+      "period": {
+        "endDate": "2011-12-25T05:00:00.000000Z",
+        "startDate": "2011-03-16T05:00:00.000000Z"
+      },
+      "ocid": "ocds-k50g02-11-12-478812",
+      "id": "074",
+      "status": "active",
+      "awardID": "521973",
+      "documents": [
+        {
+          "id": "2457119",
+          "dateModified": "2011-04-08T21:12:50.000000Z",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/historico/E/archivospuc1/2011/DA/117001000/11-12-478812/DA_PROCESO_11-12-478812_117001000_2457119.pdf",
+          "format": "application/pdf",
+          "title": "DA_PROCESO_11-12-478812_117001000_2457119.pdf",
+          "documentType": "contractAnnexe",
+          "description": "ACTO ADMINISTRATIVO",
+          "datePublished": "2011-04-08T21:12:50.000000Z"
+        },
+        {
+          "id": "2457122",
+          "dateModified": "2011-04-08T21:13:12.000000Z",
+          "url": "https://www.contratos.gov.co/consultas/VerDocumentoPublic?ruta=/historico/E/archivospuc1/2011/C/117001000/11-12-478812/C_PROCESO_11-12-478812_117001000_2457122.pdf",
+          "format": "application/pdf",
+          "title": "C_PROCESO_11-12-478812_117001000_2457122.pdf",
+          "documentType": "contractSigned",
+          "description": "CONTRATO",
+          "datePublished": "2011-04-08T21:13:12.000000Z"
+        }
+      ],
+      "items": [
+        {
+          "classification": {
+            "uri": "http://www.colombiacompra.gov.co/clasificador-de-bienes-y-servicios",
+            "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+            "scheme": "UNSPSC"
+          },
+          "description": "Servicios de Gestion, Servicios Profesionales de Empresa y Servicios Administrativos",
+          "id": 80000000
+        }
+      ],
+      "value": {
+        "currency": "COP",
+        "amount": 4950000000.0
+      }
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "uri": "https://www.colombiacompra.gov.co/",
+      "name": "Colombia Compra"
+    }
+  },
+  "tag": [
+    "contract"
+  ]
+}

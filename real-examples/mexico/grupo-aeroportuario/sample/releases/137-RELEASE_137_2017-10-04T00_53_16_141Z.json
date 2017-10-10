@@ -1,0 +1,374 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-09-08T05:00:00.000Z",
+        "endDate": "2018-12-31T06:00:00.000Z"
+      },
+      "title": "Servicios de infraestructura de comunicacion de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+      "id": "AD-AS-DCAGI-SC-074/15",
+      "awardID": "AA-009KDH99-E13-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9d82dc63-7469-4834-9092-30982f840810",
+          "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-09-08T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-09-08T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-afea9ef2-008e-494e-8287-dc025a7f78d5",
+          "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-09-08T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-09-08T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-09b6dcaa-f46d-4329-919a-662866fcb428",
+          "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-09-08T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-09-08T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-79d4f7e1-e0d9-41f7-ae00-9bc236bd0464",
+          "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-09-08T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-09-08T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 30516449.09
+      },
+      "items": [
+        {
+          "id": "item-e3842da0-4dca-4486-a2bf-47603776b98c",
+          "classification": {
+            "id": "3170",
+            "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+          },
+          "quantity": 1,
+          "description": "Servicios administrados de infraestructura de comunicaciones de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 30516449.09
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-6ef56449-b51b-4e55-9ba0-2885bf27b745"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/31701.pdf",
+            "receiverOrganization": {
+              "id": "DIM051128A83",
+              "legalName": "DESINGS AND INTELIGENT MATERIALS S DE R.L DE C.V",
+              "scheme": "DESINGS AND INTELIGENT MATERIALS S DE R.L DE C.V"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-074/15 SERVICIOS ADMINISTRADOS DE INFRAESTRUCTURA DE VOZ, DATOS Y VIDEO PARA EL GACM",
+            "id": "milestone-30302b16-0c23-43dc-8a5d-19e714d6d48e",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-09-23T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.147Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Servicios administrados de infraestructura de comunicaciones de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+    "value": {
+      "currency": "MXN",
+      "amount": 30516448.28
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Servicios administrados de infraestructura de comunicaciones de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-aaed24d6-0b45-492e-82b3-c1d61cd23ac1",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-c688a364-df2a-4aee-8722-0c283f65da2d",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-8403dc8c-6610-496d-a667-8b3ca7253070",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-304ba5da-7645-4777-86af-d3aee49961bf",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-daaf859c-f972-4b95-bb88-4b17da70df4d",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-747a5f39-a4ed-41a2-823d-023f42fdf90b",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "986062",
+    "items": [
+      {
+        "id": "item-1868a093-cffe-44df-b117-de43186af066",
+        "classification": {
+          "id": "3170",
+          "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+        },
+        "quantity": 1,
+        "description": "Servicios administrados de infraestructura de comunicaciones de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 30516449.09
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicios administrados de infraestructura de comunicaciones de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+      "amount": {
+        "currency": "MXN",
+        "amount": 30516448.28
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015,2016, 2017 y 2018",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-47a9fb32-b393-465e-b77e-da8d4a0097a6",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-4729a18d-c31a-4624-8a23-d9e53cfd7974",
+        "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-09-08T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-09-08T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios administrados de infraestructura de comunicaciones de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_137_2017-10-04T00:53:16.141Z",
+  "ocid": "137",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de infraestructura de comunicacion de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+      "id": "AA-009KDH99-E13-2016",
+      "contractPeriod": {
+        "startDate": "2015-09-08T05:00:00.000Z",
+        "endDate": "2018-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 30516449.09
+      },
+      "items": [
+        {
+          "id": "item-2d3056b4-2d7b-4b43-81de-713092fb6180",
+          "classification": {
+            "id": "3170",
+            "scheme": "SERVICIOS DE CONDUCCION DE SE?ALES ANALOGICAS Y DIGITALES"
+          },
+          "quantity": 1,
+          "description": "Servicios administrados de infraestructura de comunicaciones de voz, datos y video para el Grupo Aeroportuario de la Ciudad de Mexico S.A. de C.V., para los ejercicios fiscales 2015 a 2018",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 30516449.09
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-fa5c49db-86d4-48bf-bda6-ecdb9fc40ee6",
+          "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-09-08T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-09-08T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-f22aa0c8-220e-4100-9a61-054fee4d3a62",
+          "url": "http://189.211.120.220:8880/files/opendata/15074-AD-AS-DCAGI-SC-074-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-09-08T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-09-08T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MexicoMEXICO",
+            "locality": "Reforma Agua AzulLA HACIENDA",
+            "postalCode": "7243072570",
+            "streetAddress": "Calle 17 sur 4526AVENIDA SAN BALTAZAR 2455 G",
+            "region": "PueblaPUEBLA"
+          },
+          "identifier": {
+            "id": "GTG020819JS3",
+            "legalName": "GLOBAL TELECOMUNICATION GROUP, S. DE R.L. DE C.V.DESINGS AND INTELIGENT MATERIALS, S. DE R.L. DE C.V."
+          },
+          "name": "GLOBAL TELECOMUNICATION GROUP, S. DE R.L. DE C.V.DESINGS AND INTELIGENT MATERIALS, S. DE R.L. DE C.V."
+        }
+      ]
+    }
+  ]
+}

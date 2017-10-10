@@ -1,0 +1,360 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-14b46218-d41e-4e72-9b8c-c206eef39654",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras deinfraestructura para llevar a cabo la regulacion hidraulica en las zonas aledanas al NAICM, que permitan favorecer y mejorar el habitat paralas aves acuaticas migratorias que arriban a la zona, asi como las aves residentes y realizar en forma coordinada la operacion ymantenimiento de las obras hidraulicas de regulacion y conduccion de los escurrimientos pluviales provenientes del interior del perimetro delNAICM, durante su etapa de construccion, a traves de un sistema de drenaje que operara temporalmente, los cuales seran regulados endos lagunas a cargo de GACM y cuyas descargas al Dren General del Valle quedaran bajo el control de CONAGUA.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "title": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras de infraestructura para llevar a cabo la r",
+      "id": "GACM/DG/DCAGI/SJ/CI/010/15",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-8f0150ea-a024-4cf1-adb5-4032ff67199d",
+          "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-05-12T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-05-12T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-88097ea2-f15d-43d8-863c-d446142b1582",
+          "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-05-12T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-05-12T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-09dc8dc1-67d6-4bf7-b98e-873a9c63863d",
+          "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-05-12T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-05-12T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-86d734c2-26c0-4405-97c6-5fed693d9c7b",
+          "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-05-12T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-05-12T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-8fb7d7b8-d7c8-4662-b620-9de522d8d57d"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "COMISION NACIONAL DEL AGUA",
+              "scheme": "COMISION NACIONAL DEL AGUA"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM-DG-DCAGI-SJ-CI-010-15 CONSERVACION Y/O MANTENIMIENTO DE EDIFICIO INDUSTRIAL",
+            "id": "milestone-8296e151-90dd-44b3-979f-955ab67a6c6b",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "period": {
+        "startDate": "2015-05-12T05:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "dateSigned": "2015-05-12T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.152Z",
+    "publisher": {
+      "uid": "AS",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras de infraestructura para llevar a cabo la r",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 0
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-a19a889d-e14d-4cbf-a84b-60399322fa12",
+        "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-05-12T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-05-12T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-53eaa8e0-43c7-4335-9129-9f4a66cdc1f3",
+        "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-7f69eafc-26f1-4d3a-8e7a-441903fa2097",
+        "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-0250997c-e214-4be7-b188-8d610055ec77",
+        "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b58ee540-82b0-487b-ba0e-ae43299c136b",
+        "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-b5f12c83-279d-4f96-93f3-d8c1b7022afd",
+        "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-05-12T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-05-12T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras de infraestructura para llevar a cabo la r",
+    "items": [
+      {
+        "id": "item-9f7fb8bd-b90f-44a5-ad5c-e44591559a49",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras deinfraestructura para llevar a cabo la regulacion hidraulica en las zonas aledanas al NAICM, que permitan favorecer y mejorar el habitat paralas aves acuaticas migratorias que arriban a la zona, asi como las aves residentes y realizar en forma coordinada la operacion ymantenimiento de las obras hidraulicas de regulacion y conduccion de los escurrimientos pluviales provenientes del interior del perimetro delNAICM, durante su etapa de construccion, a traves de un sistema de drenaje que operara temporalmente, los cuales seran regulados endos lagunas a cargo de GACM y cuyas descargas al Dren General del Valle quedaran bajo el control de CONAGUA.",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 0
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras de infraestructura para llevar a cabo la r",
+      "amount": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015 y 2016",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7947a9af-a894-478c-bdf4-e15a1da41d4a",
+        "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-05-12T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-05-12T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras de infraestructura para llevar a cabo la r"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_479_2017-10-04T00:53:19.148Z",
+  "ocid": "479",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras de infraestructura para llevar a cabo la r",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2015-05-12T05:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 0
+      },
+      "items": [
+        {
+          "id": "item-cc7782dd-6188-4c08-b77c-2537451f6521",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Establecer un mecanismo correspondiente entre GACM y CONAGUA para el mantenimiento y operacion de las obras deinfraestructura para llevar a cabo la regulacion hidraulica en las zonas aledanas al NAICM, que permitan favorecer y mejorar el habitat paralas aves acuaticas migratorias que arriban a la zona, asi como las aves residentes y realizar en forma coordinada la operacion ymantenimiento de las obras hidraulicas de regulacion y conduccion de los escurrimientos pluviales provenientes del interior del perimetro delNAICM, durante su etapa de construccion, a traves de un sistema de drenaje que operara temporalmente, los cuales seran regulados endos lagunas a cargo de GACM y cuyas descargas al Dren General del Valle quedaran bajo el control de CONAGUA.",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 0
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Copilco el Bajo",
+            "postalCode": "4340",
+            "streetAddress": "Av. Insurgentes Sur 2416",
+            "region": "Coyoacan"
+          },
+          "identifier": {
+            "id": "CNA060621LL7",
+            "legalName": "Comision Nacional del Agua"
+          },
+          "name": "Comision Nacional del Agua"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-7af9243c-9491-4a0f-a8fc-046d7c04100f",
+          "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-05-12T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-05-12T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-75222ce3-eb03-47a8-8c55-8d97e64ad60a",
+          "url": "http://189.211.120.220:8880/files/opendata/15010-GACM-DG-DCAGI-SJ-CI-010-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-05-12T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-05-12T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

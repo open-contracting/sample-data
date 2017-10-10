@@ -1,0 +1,394 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-12-23T06:00:00.000Z",
+        "endDate": "2017-12-31T06:00:00.000Z"
+      },
+      "title": "SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO (NAICM) PARA LOS ANOS 2016-2017.",
+      "id": "ITP-AS-DCAGI-SC-092-16",
+      "awardID": "IA-009KDH999-E145-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9f89f9ed-df86-48dd-92c4-ea7c222c5879",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-4b4c24d8-d5d2-474b-a061-de9b4266ae0f",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-b1f68461-ce89-49f1-b595-87e1efdd8231",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-735442ef-63cb-49c7-bf52-f9dca7bca864",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 58886555
+      },
+      "items": [
+        {
+          "id": "item-bd528988-36f0-47bd-acbf-ef0400e73737",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) PARA LOS A?OS 2016-2017.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 58886555
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-e8831d13-06f9-4e3a-82fc-de21a3660a5f"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CEI040507RA2",
+              "legalName": "CENTRO DE ESTUDIOS E INVESTIGACION EN DESARROLLO Y ASISTENCIA SOCIAL, A.C.",
+              "scheme": "CENTRO DE ESTUDIOS E INVESTIGACION EN DESARROLLO Y ASISTENCIA SOCIAL, A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-AS-DCAGI-SC-092-16 SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) PARA LOS A?OS 2016-2017.",
+            "id": "milestone-a294d803-3857-4d0c-b872-1f1f0d479920",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-12-23T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.381Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-11-25T06:00:00.000Z",
+      "endDate": "2016-12-05T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "04 INVITACION A CUANDO MENOS TRES NACIONAL LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 58886555
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) PARA LOS A?OS 2016-2017.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-c7ce7705-09d5-47b8-9b32-8c4b44c753ed",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-99bc6729-b819-4a19-b447-9fa70f1bf20a",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-eec61938-1f42-4e15-a218-d595e83db8b4",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-0404b759-c627-4c03-bb31-1f162ba69996",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b100f72e-1364-4310-9de5-589c870e0fdb",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-a5976059-b734-4257-98e5-bb38b5fd53b2",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-11-25T06:00:00.000Z",
+      "endDate": "2016-12-05T06:00:00.000Z"
+    },
+    "id": "1208696",
+    "awardCriteriaDetails": "PUNTOS Y PORCENTAJE",
+    "items": [
+      {
+        "id": "item-6dad7883-cb93-4155-9611-bf259ae1ec11",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) PARA LOS A?OS 2016-2017.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 58886555
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-11-29T06:00:00.000Z",
+      "endDate": "2016-12-05T06:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 58886555
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-d924077f-f86e-4269-bb07-f005d5b3cf93",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-12-12T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-12-12T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) PARA LOS A?OS 2016-2017."
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_512_2017-10-04T00:53:19.377Z",
+  "ocid": "512",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) PARA LOS A?OS 2016-2017.",
+      "id": "IA-009KDH999-E145-2016",
+      "contractPeriod": {
+        "startDate": "2016-12-23T06:00:00.000Z",
+        "endDate": "2017-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 58886555
+      },
+      "items": [
+        {
+          "id": "item-dce34917-52d1-4477-ac13-0d1601c15470",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO PLAN MAESTRO SOCIAL PARA EL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO (NAICM) PARA LOS A?OS 2016-2017.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 58886555
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-fe16c6c3-7fe4-457d-a6ab-89ee0cefad86",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-58102efe-e636-43c2-a41d-b321817d09da",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/12.-%20AF/12.1.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-50bb51ab-4d9d-4280-8bb9-1ac5ac017703",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16092-ITP-AS-DCAGI-SC-092-16/12.-%20AF/12.2.pdf",
+          "datePublished": "2016-12-12T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-12-12T06:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-12-12T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "DEL VALLE CENTRO",
+            "postalCode": "03100",
+            "streetAddress": "DIVISION DEL NORTE MEZZANINE LOCAL F / 1163",
+            "region": "BENITO JUAREZ"
+          },
+          "contactPoint": {
+            "email": "FELIPE.ORTEGA@GMAIL.COM",
+            "name": "FELIPE ORTEGA"
+          },
+          "identifier": {
+            "id": "CEI040507RA2",
+            "legalName": "CENTRO DE ESTUDIOS E INVESTIGACION EN DESARROLLO Y ASISTENCIA SOCIAL, A.C."
+          },
+          "name": "CENTRO DE ESTUDIOS E INVESTIGACION EN DESARROLLO Y ASISTENCIA SOCIAL, A.C."
+        }
+      ]
+    }
+  ]
+}

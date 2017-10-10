@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-12-08T06:00:00.000Z",
+        "endDate": "2016-10-31T06:00:00.000Z"
+      },
+      "title": "Servicios de Auditoria Externa para Dictaminar los Estados Financieros y Presupuestales del Ejercicio Fiscal 2015.",
+      "id": "AD-AS-DCAGI-SC-113/15",
+      "awardID": "AA-009KDH999-E44-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-cb05abf7-8da1-465f-9db9-c1a755f90c62",
+          "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-4dd0f1f8-5213-4e6c-b6dd-5e9f7dd41d8e",
+          "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-cc158df8-e071-49ec-bac7-9647879a2987",
+          "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-58083325-76bc-483b-9aba-d2d5123d6aec",
+          "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 145713
+      },
+      "items": [
+        {
+          "id": "item-ebf1eb7a-9680-4061-b667-41b976015c5c",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicio de Auditoria Externa para Dictaminar los estados financieros y Presupuestales del Ejercicio Fiscal 2015",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 145713
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-65096a9a-3abc-4763-a1ac-2365ba9df419"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/33105.pdf",
+            "receiverOrganization": {
+              "legalName": "PRICE WATER HOUSE COOPERS, S.C.",
+              "scheme": "PRICE WATER HOUSE COOPERS, S.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-113/15 SERVICIO DE AUDITORIA EXTERNA PARA DICTAMINAR LOS ESTADOS FINANCIEROS DEL EJERCICIO FISCAL DEL 2015",
+            "id": "milestone-f391ae68-582d-4db4-8b48-dc3258a07e3f",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-12-08T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:15.900Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios de Auditoria Externa para Dictaminar los Estados Financieros y Presupuestales del Ejercicio Fiscal 2015.",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 145713
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicios de Auditoria Externa para Dictaminar los Estados Financieros y Presupuestales del Ejercicio Fiscal 2015.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-cd0c9bf0-53ca-4090-b005-bbea8ca49e10",
+        "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-a8969b69-a2d6-4563-a9a0-5c709e991f91",
+        "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-cd39ec0d-f055-4e29-a62d-f4825f834b57",
+        "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-b35e521f-88b0-46b3-a44a-8c8a62cb236d",
+        "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-0646b989-987e-4316-95ae-d0d23980f150",
+        "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-7431e55b-a640-4729-929d-216fe9e18d4f",
+        "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1038888",
+    "items": [
+      {
+        "id": "item-68d72e39-152e-47a7-9292-ed6eb6071d98",
+        "classification": {
+          "id": "3310",
+          "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+        },
+        "quantity": 1,
+        "description": "Servicio de Auditoria Externa para Dictaminar los estados financieros y Presupuestales del Ejercicio Fiscal 2015",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 145713
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "SERVICIOS RELACIONADOS CON PROCEDIMIENTOS JURISDICCIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 145713
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7959919b-4f5b-430d-8135-a3e1b8c9b81b",
+        "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-11-30T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-11-30T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de Auditoria Externa para Dictaminar los Estados Financieros y Presupuestales del Ejercicio Fiscal 2015."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_120_2017-10-04T00:53:15.895Z",
+  "ocid": "120",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de Auditoria Externa para Dictaminar los Estados Financieros y Presupuestales del Ejercicio Fiscal 2015.",
+      "id": "AA-009KDH999-E44-2016",
+      "contractPeriod": {
+        "startDate": "2015-12-08T06:00:00.000Z",
+        "endDate": "2016-10-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 145713
+      },
+      "items": [
+        {
+          "id": "item-1992b1bb-e61a-4295-ba30-e66bc6298d7a",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicio de Auditoria Externa para Dictaminar los estados financieros y Presupuestales del Ejercicio Fiscal 2015",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 145713
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-d08e239c-8697-4e94-a305-6c13923a18dd",
+          "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-814bfb71-8115-49f9-82ce-0d5f6a2412b3",
+          "url": "http://189.211.120.220:8880/files/opendata/15113-AD-AS-DCAGI-SC-113-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-11-30T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-11-30T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Rincon del Bosque",
+            "postalCode": "11580",
+            "streetAddress": "Mariano Escobedo No. 573",
+            "region": "Miguel Hidalgo"
+          },
+          "identifier": {
+            "id": "PR1981101785",
+            "legalName": "Price Water House Coopers, S.C."
+          },
+          "name": "Price Water House Coopers, S.C."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-07-31T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "title": "Servicio profesionales de asistencia tecnica relacionados con el proyecto del NAICM",
+      "id": "AD-AS-DCAGI-SC-057/15",
+      "awardID": "SA-009KDH999-N64-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-97084f8c-c520-4076-afb2-8e228391e6d0",
+          "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-2d7e5887-ca6b-4c69-ba3c-12135867228f",
+          "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-30T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-30T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-a96d6338-cf6a-4eb5-996b-efcde0b25d70",
+          "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-07-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-30T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-975ead7e-babe-4e66-a2c0-6f8e8f13c18e",
+          "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-07-30T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-30T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1102185.31
+      },
+      "items": [
+        {
+          "id": "item-dbdae494-e487-4312-895e-2b3a462a9ac8",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicio profesionales de asistencia tecnica relacionados con el proyecto del NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1102185.31
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-88e1cfd9-4372-4844-93be-8b6043ad3fd9"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "VICTOR ALEJANDRO BAEZ PUENTE",
+              "scheme": "VICTOR ALEJANDRO BAEZ PUENTE"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-57/15 OTRAS ASESORIAS PARA LA OPERACI?N DE PROGRAMAS",
+            "id": "milestone-621bacf4-df82-4412-89c1-ebdc9d27eac8",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-07-31T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.500Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio Profesionales de asistencia tecnica relacionados con el proyecto del NAICM",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 1280000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio Profesionales de asistencia tecnica relacionados con el proyecto del NAICM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-69bb1253-7d9f-429a-84dc-708694d7d256",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-632468dc-8eaa-4390-8309-29ca215d9b54",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-bea891cb-a0b5-4bf1-82b1-7e1772bbba83",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-b1dc7891-c09e-4140-bf72-d74f7d231f4c",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-0170fe12-38f5-4e4d-9ff9-1d85cef088ed",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-2073d047-568f-4499-b110-1f7480350d2f",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "900496",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-f4a837d5-2d73-4615-a9b9-8c16630d47b6",
+        "classification": {
+          "id": "3310",
+          "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+        },
+        "quantity": 1,
+        "description": "Servicio profesionales de asistencia tecnica relacionados con el proyecto del NAICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 1102185.31
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OTRAS ASESORIAS PARA LA OPERACION DE PROGRAMAS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1280000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Investigaci?n de mercado",
+        "id": "doc-008f097b-1ef1-4b0b-b0aa-a7cf301bacfe",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/5.-%20IM/5.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "Market Studies",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Investigacion de Mercado",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8a8ff177-ac7a-49bd-a1f6-fb2365e0fafe",
+        "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-07-30T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-07-30T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio Profesionales de asistencia tecnica relacionados con el proyecto del NAICM"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_55_2017-10-04T00:53:19.496Z",
+  "ocid": "55",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio profesionales de asistencia tecnica relacionados con el proyecto del NAICM",
+      "id": "SA-009KDH999-N64-2015",
+      "contractPeriod": {
+        "startDate": "2015-07-31T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1102185.31
+      },
+      "items": [
+        {
+          "id": "item-1c2a3bbc-0a4f-47c0-970d-5fbe87762923",
+          "classification": {
+            "id": "3310",
+            "scheme": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIA Y RELACIONADOS"
+          },
+          "quantity": 1,
+          "description": "Servicio profesionales de asistencia tecnica relacionados con el proyecto del NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1102185.31
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-99554547-e04b-44f7-8d1f-30af39620fe5",
+          "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-07-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-30T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-2629d944-cb51-44d9-869f-2341dbefd301",
+          "url": "http://189.211.120.220:8880/files/opendata/15057-AD-AS-DCAGI-SC-057-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-07-30T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-30T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "DEL VALLE",
+            "postalCode": "03100",
+            "streetAddress": "ADOLFO PRIETO 1734 EDIFICIO F DEPARTAMENTO PH3",
+            "region": "BENITO JUAREZ"
+          },
+          "identifier": {
+            "id": "BAPV591211H53",
+            "legalName": "Ing. Victor Baez"
+          },
+          "name": "Ing. Victor Baez"
+        }
+      ]
+    }
+  ]
+}

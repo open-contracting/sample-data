@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-01-02T06:00:00.000Z",
+        "endDate": "2015-06-30T05:00:00.000Z"
+      },
+      "title": "Servicio Integral de Limpieza en las Oficinas de Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "id": "AD-AS-DCAGI-SC-018/15",
+      "awardID": "AA-009KDH999-E67-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9f48bdf3-d20b-4bff-8f55-ecc6aadb69c9",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-9f603ef1-717a-43c9-980a-c73336ac973b",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-560a81f5-d50d-4fdf-bdff-a2e289ad6224",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-76c30853-6e8b-431b-8886-ff1409072f6d",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 257327
+      },
+      "items": [
+        {
+          "id": "item-4762321c-8667-43c4-8b4b-8d0a74d89e06",
+          "classification": {
+            "id": "3580",
+            "scheme": "SERVICIOS DE LAVANDERIA, LIMPIEZA, HIGIENE"
+          },
+          "quantity": 1,
+          "description": "Servicio Integral de Limpieza en las Oficinas de Grupo Aero portuario de la Ciudad de Mexico, S.A. de C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 257327
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-972b60de-dff6-4315-aec3-a7cbbe62d4aa"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/35801.pdf",
+            "receiverOrganization": {
+              "id": "H&#38;L001219RI4",
+              "legalName": "H&#38;L CONSULTORAS ASOCIADAS, S.A. DE C.V.",
+              "scheme": "H&#38;L CONSULTORAS ASOCIADAS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-018/15 SERVICIO DE LIMPIEZA ENERO A JUNIO 2015",
+            "id": "milestone-da97073a-e7fd-4c53-b6c2-4fb8d3a94dd1",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-01-02T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.739Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio Integral de Limpieza en las Oficinas de Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+    "value": {
+      "currency": "MXN",
+      "amount": 350000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Servicio Integral de Limpieza en las Oficinas de Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-3ffdf23e-5058-4b9e-9e11-43c1f5a2ed16",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-b2600bf2-5935-46e0-b72a-321183b73f78",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-cb0bb258-efbd-4e79-a335-e1c01c2acab2",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-f8a08a6b-ae65-4976-baa7-f1b00a6ad8cb",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-cccef295-4230-40fb-a924-2f28cf2da329",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-c11a7294-c26f-4209-a2a5-1500c0f63c8f",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1052472?",
+    "items": [
+      {
+        "id": "item-3c8d1dcc-639d-4c8e-8649-d7abacb51ec2",
+        "classification": {
+          "id": "3580",
+          "scheme": "SERVICIOS DE LAVANDERIA, LIMPIEZA, HIGIENE"
+        },
+        "quantity": 1,
+        "description": "Servicio Integral de Limpieza en las Oficinas de Grupo Aero portuario de la Ciudad de Mexico, S.A. de C.V.",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 257327
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "SERVICIOS DE LAVANDERIA, LIMPIEZA E HIGIENE",
+      "amount": {
+        "currency": "MXN",
+        "amount": 350000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-3579129d-dc7f-4124-b07e-7648e2d65172",
+        "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-01-02T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-01-02T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio Integral de Limpieza en las Oficinas de Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "date": "2017-02-07T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_40_2017-10-04T00:53:18.735Z",
+  "ocid": "40",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio Integral de Limpieza en las Oficinas de Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "id": "AA-009KDH999-E67-2016",
+      "contractPeriod": {
+        "startDate": "2015-01-02T06:00:00.000Z",
+        "endDate": "2015-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 257327
+      },
+      "items": [
+        {
+          "id": "item-dda516b8-c221-4912-a855-e83ae3284284",
+          "classification": {
+            "id": "3580",
+            "scheme": "SERVICIOS DE LAVANDERIA, LIMPIEZA, HIGIENE"
+          },
+          "quantity": 1,
+          "description": "Servicio Integral de Limpieza en las Oficinas de Grupo Aero portuario de la Ciudad de Mexico, S.A. de C.V.",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 257327
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-1fe90c16-3177-4485-b4ca-3d829b4cccbb",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-4f190566-56e4-4f17-8a69-5a0277ffd170",
+          "url": "http://189.211.120.220:8880/files/opendata/15018-AD-AS-DCAGI-SC-018-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-01-02T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-01-02T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Napoles",
+            "postalCode": "?03810",
+            "streetAddress": "Montecito No. 38 piso 1 Local 10",
+            "region": "Benito Juarez"
+          },
+          "identifier": {
+            "id": "H&#38;L001219R14",
+            "legalName": "H&#38;L Consultoras Asociadas S.A. de C.V."
+          },
+          "name": "H&#38;L Consultoras Asociadas S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

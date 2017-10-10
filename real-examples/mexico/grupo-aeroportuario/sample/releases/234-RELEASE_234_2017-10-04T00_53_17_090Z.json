@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-03-01T06:00:00.000Z",
+        "endDate": "2017-02-28T06:00:00.000Z"
+      },
+      "title": "Convenio de colaboracion para llevar a cabo los Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planesy programas de logistica de construccion del NAICM",
+      "id": "GACM/DCI/SJ/CM-E/001-2016",
+      "awardID": "No Aplica",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-750ef689-b2c9-4ca3-bd7c-315dad52f3cf",
+          "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-05f60b2e-774c-443f-9d79-b8bc4332a543",
+          "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-01d3a3dc-0b7e-41ff-a473-d31d787a08eb",
+          "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-b335c8f7-0ac7-434d-84f1-4ed8a0d816b1",
+          "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 309200069.2
+      },
+      "items": [
+        {
+          "id": "item-1d2f4cb9-3fd3-4bc7-a80d-15331ab46d80",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planes y programas de logistica de construccion del NAICM",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 309200069.2
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-16399728-c82d-4ca2-89f7-ab50f8d7c5d5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CFE370814QI0",
+              "legalName": "COMISI?N FEDERAL DE ELECTRICIDAD",
+              "scheme": "COMISI?N FEDERAL DE ELECTRICIDAD"
+            },
+            "value": {
+              "amount": 309195352.06
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCI/SJ/CM-E/001-2016 APOYO TECNICO Y TECNOLOGICO PARA LA IMPLEMENTACION Y EJECUCION DE PLANES Y PROGRAMAS DE LOGISTICA DE CONSTRUCCION DEL NAICM.",
+            "id": "milestone-62762fd1-6ad6-4e7a-823a-5a09cb85ae4d",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-03-01T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.094Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Convenio decolaboracion para llevar a cabo los Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planes yprogramas de logistica de construccion del NAICM",
+    "value": {
+      "currency": "MXN",
+      "amount": 309200069.2
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-5f2d72f7-413e-4284-973b-c5d97d6df8bf",
+        "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-fe07c599-327b-4517-a6ae-fdb6f45e5dd3",
+        "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-955d0895-1a53-4b14-9781-17c275265a5a",
+        "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-8dc7569f-5712-4c94-a1ff-74e1d4d0175e",
+        "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-e3bcf40d-bf6e-4458-8d24-c549238e05f1",
+        "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-eee6347f-789a-4d4f-8f7b-c1ef5f43c424",
+        "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planes y programas de logistica de construccion del NAICM",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-33308e62-603a-471f-953f-3e34f0fa69c5",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planes y programas de logistica de construccion del NAICM",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 309200069.2
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 309200069.2
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-183b4087-ec8d-45ca-9355-d11ac15f30eb",
+        "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-03-01T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-03-01T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planes y programas de logistica de construccion del NAICM"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_234_2017-10-04T00:53:17.090Z",
+  "ocid": "234",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Convenio de colaboracion para llevar a cabo los Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planesy programas de logistica de construccion del NAICM",
+      "id": "No Aplica",
+      "contractPeriod": {
+        "startDate": "2016-03-01T06:00:00.000Z",
+        "endDate": "2017-02-28T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 309200069.2
+      },
+      "items": [
+        {
+          "id": "item-c7778307-1e2f-439d-91a6-e811416393fe",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios consistentes en el apoyo tecnico y tecnologico para la implementacion y ejecucion de planes y programas de logistica de construccion del NAICM",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 309200069.2
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-b2969cc9-202e-4caf-85f3-ce0d70eec839",
+          "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-849ad7df-0716-4478-b210-7507353ed900",
+          "url": "http://189.211.120.220:8880/files/opendata/16001-GACM-DCI-SJ-CM-E-001-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-03-01T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-03-01T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Juarez",
+            "postalCode": "6600",
+            "streetAddress": "Paseo de la Reforma No 164",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "CFE370814QI0",
+            "legalName": "COMISION FEDERAL DE ELECTRICIDAD"
+          },
+          "name": "COMISION FEDERAL DE ELECTRICIDAD"
+        }
+      ]
+    }
+  ]
+}

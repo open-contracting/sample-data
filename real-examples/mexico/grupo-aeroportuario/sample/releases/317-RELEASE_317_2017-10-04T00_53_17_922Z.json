@@ -1,0 +1,380 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-07-01T05:00:00.000Z",
+        "endDate": "2016-07-30T05:00:00.000Z"
+      },
+      "title": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM).",
+      "id": "AD-SRO-DCAGI-SC-058-16",
+      "awardID": "AD-009KDH999-E115-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-47b19259-fd1d-4955-b445-6cf46b783fe5",
+          "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-28T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-28T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-6e7fe74c-ae7f-4d48-8c78-a7df99d53924",
+          "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-06-28T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-06-28T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-b2a360e5-7ebb-495f-aab6-09d125b2be82",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSCONTRATACIONES/finiquito05816.pdf",
+          "datePublished": "2016-06-28T05:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2016-06-28T05:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-11c28104-ff71-4ba8-8ffc-78d2f5078421",
+          "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-06-28T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-28T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-89ce4753-e764-4953-8f94-1246aa8b2064",
+          "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-06-28T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-06-28T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 606172.44
+      },
+      "items": [
+        {
+          "id": "item-c3db6b7d-df5b-4689-a38d-99cca8503220",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM).",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 606172.44
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-917601ea-636e-4641-b8de-aa127e1e8f30"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "TID921126236",
+              "legalName": "TOPOGRAFIA, INGENIERIA Y DISE?O, S.A. DE C.V.",
+              "scheme": "TOPOGRAFIA, INGENIERIA Y DISE?O, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 605955.38
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-058-16 EJECUCI?N DE LEVANTAMIENTOS TOPOGR?FICOS PARA TRAZO DE LOS EJES PRINCIPALES Y LEVANTAMIENTO DE LA TOPOGRAF?A DE DETALLE PARA DISE?O DEL CAMINO Y BARDA PERIMETRAL EN EL LINDERO NORTE-ORIENTE",
+            "id": "milestone-d775486c-edd3-47e2-a37b-7f19a58a189a",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-07-01T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.928Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM).",
+    "awardPeriod": {
+      "startDate": "2016-08-24T05:00:00.000Z"
+    },
+    "value": {
+      "currency": "MXN",
+      "amount": 606172.45
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM).",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-2ac0ee6a-9129-4d93-a39a-eaadf21186d0",
+        "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-06-28T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-06-28T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-47fe813d-77dc-40f4-9dce-14040e43cddd",
+        "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-28T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-28T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-a38366ff-b6cb-4bfd-acd4-139bb08060b6",
+        "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-28T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-28T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-0a60fc3f-462d-442a-a00b-8956967e546a",
+        "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-28T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-28T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b9f9f414-0ccd-4641-b37d-81862581d1f6",
+        "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-28T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-28T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-60368c77-5b24-433a-85f4-39c976ba23c8",
+        "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-06-28T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-06-28T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-08-24T05:00:00.000Z"
+    },
+    "id": "1137317",
+    "items": [
+      {
+        "id": "item-d01a1077-e85e-4de3-b61c-34ae820a1dc9",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM).",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 606172.44
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 606172.45
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-0235db02-75ae-45a6-bf6a-9f3ddc14d214",
+        "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-06-28T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-06-28T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM)."
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_317_2017-10-04T00:53:17.922Z",
+  "ocid": "317",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM).",
+      "id": "AD-009KDH999-E115-2016",
+      "contractPeriod": {
+        "startDate": "2016-07-01T05:00:00.000Z",
+        "endDate": "2016-07-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 606172.44
+      },
+      "items": [
+        {
+          "id": "item-f223b70d-8a90-4eae-9568-763cff01aa4c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Ejecucion de levantamientos topograficos para los trazos de los ejes principales y levantamientos de la topografia de detalle para diseno de camino yeleracion para los accesos al poligono del (NAICM).",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 606172.44
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-74341e38-7f8d-42b3-bf01-da5563eeeb65",
+          "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-06-28T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-28T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-49557733-475b-471c-b4f9-d54008a83f5a",
+          "url": "http://189.211.120.220:8880/files/opendata/16058-AD-SRO-DCAGI-SC-058-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-06-28T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-06-28T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Mariano de las Casas",
+            "postalCode": "76037",
+            "streetAddress": "Convento de san Agustin 31 PB",
+            "region": "Queretaro"
+          },
+          "identifier": {
+            "id": "TID921126236",
+            "legalName": "TOPOGRAFIA, INGENIERIA Y DISENO S.A. de C.V."
+          },
+          "name": "TOPOGRAFIA, INGENIERIA Y DISENO S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

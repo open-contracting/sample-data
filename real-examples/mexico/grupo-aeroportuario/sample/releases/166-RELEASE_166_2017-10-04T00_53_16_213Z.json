@@ -1,0 +1,376 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-08-03T05:00:00.000Z",
+        "endDate": "2015-08-23T05:00:00.000Z"
+      },
+      "title": "Servicios de Transporte en Camionetas de Redilas",
+      "id": "AD-SRO-DCAGI-SC-081/15",
+      "awardID": "AO-009KDH999-E54-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-072cb7e2-8496-41b4-893e-7f767f100ec3",
+          "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-31T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-31T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-237094d4-a602-4c04-be3d-dd396cdf52db",
+          "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-31T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-31T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Finiquito del contratotttttttt",
+          "id": "doc-ac0aa951-7372-4b7f-8852-cc5428e280bd",
+          "url": "http://189.211.120.220:8880/files/GACM/SIPOT/HIPERVINCULOSTRANSPARENCIA/FINIQUITOAD-SRO-DCAGI-SC-081-15.pdf",
+          "datePublished": "2015-07-31T05:00:00.000Z",
+          "documentType": "completionCertificate",
+          "language": "es",
+          "dateModified": "2015-07-31T05:00:00.000Z",
+          "description": "Finiquito del contrato",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-9abaf0af-0f96-429f-84f1-de74182ce7bb",
+          "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-07-31T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-31T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-bc4d7431-65c8-4484-897c-8f2893943f23",
+          "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-07-31T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-31T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 300000
+      },
+      "items": [
+        {
+          "id": "item-0ac70294-a364-4046-adee-752e67755571",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de Transporte en Camionetas de Redilas",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 300000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-0191fbad-ac0a-4b21-894a-9fade6b7c6e0"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "OTT9504062X7",
+              "legalName": "OMNIBUS TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V.",
+              "scheme": "OMNIBUS TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-081/15 SERVICIO DE TRANSPORTE CON CAMIONETAS DE REDILAS PARA LOS TRABAJOS QUE CONFORMAN EL PROGRAMA DE EMPLEO TEMPORAL (PET) EN EL PREDIO DEL NAICM",
+            "id": "milestone-458f36e1-1cfe-4746-8731-26ef1fb9135d",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-08-03T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:16.219Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicios de Transporte en Camionetas de Redilas",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 8500000
+    },
+    "submissionMethod": [
+      null
+    ],
+    "status": "active",
+    "description": "Servicios de Transporte en Camionetas de Redilas",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-11499acc-f66a-4cae-a088-77a6537b9626",
+        "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-07-31T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-07-31T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-202266ce-6567-4cd5-8f7f-fa4b22322a64",
+        "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-9c072bbf-dea7-481f-a998-fffec71a5cbc",
+        "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-ecbf6737-19dd-4c0e-9f79-941a80ffb8a5",
+        "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-f190d356-3128-4c6e-97a7-7f650490a68d",
+        "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-bd0bfb84-5842-445f-afff-c97382c8bbb1",
+        "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "1043530",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-adb760c2-a951-48b4-b522-cabd92159309",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicios de Transporte en Camionetas de Redilas",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 300000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "Servicios de Transporte en Camionetas de Redilas",
+      "amount": {
+        "currency": "MXN",
+        "amount": 8500000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "Presupuesto de Egresos de la Federacion 2015",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-2119d266-045c-4dec-b2cf-901392968c90",
+        "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-07-31T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-07-31T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicios de Transporte en Camionetas de Redilas"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_166_2017-10-04T00:53:16.213Z",
+  "ocid": "166",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicios de Transporte en Camionetas de Redilas",
+      "id": "AO-009KDH999-E54-2016",
+      "contractPeriod": {
+        "startDate": "2015-08-03T05:00:00.000Z",
+        "endDate": "2015-08-23T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 300000
+      },
+      "items": [
+        {
+          "id": "item-f36d8c8c-f999-420a-b531-c89f401e89eb",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicios de Transporte en Camionetas de Redilas",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 300000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-1ee3f546-662f-4f1d-8535-82d3cf3d3a58",
+          "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-07-31T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-31T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-b6ddb41f-9876-42b6-9a27-90a86f0c7f3a",
+          "url": "http://189.211.120.220:8880/files/opendata/15081-AD-SRO-DCAGI-SC-081-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-07-31T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-31T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Nueva Vallejo",
+            "postalCode": "7750",
+            "streetAddress": "Calzada Vallejo numero 705",
+            "region": "Gustavo A. Madero"
+          },
+          "identifier": {
+            "id": "OTT9504062X7",
+            "legalName": "OMNIBUS Y TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V."
+          },
+          "name": "OMNIBUS Y TRANSPORTES TERRESTRES EJECUTIVOS, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

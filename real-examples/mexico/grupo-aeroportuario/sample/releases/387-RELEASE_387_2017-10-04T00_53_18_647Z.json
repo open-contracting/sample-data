@@ -1,0 +1,376 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-09-01T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "title": "ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA",
+      "id": "AD-AS-DCAGI-SC-074-16",
+      "awardID": "AA-009KDH999-E155-2016",
+      "documents": [
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-06493fc3-07a5-49e8-97b2-667ca3cbe66d",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-08-31T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-08-31T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-264da6bf-827e-44fb-8dae-1e1d426e4bfe",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-08-31T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-08-31T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-44929f7c-dce1-48aa-9e7d-eac548c8c2d5",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-08-31T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-08-31T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-92ae5a25-ece0-4ac9-b67d-954622ad327c",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-08-31T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-08-31T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 127780
+      },
+      "items": [
+        {
+          "id": "item-bcb06c00-febd-4144-972f-a3d52cfc446f",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 127780
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-c890c1ee-8794-4a5c-8425-e5dffe06f629"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "EEL030217T72",
+              "legalName": "ESPACIOS ELVYCK S. DE R.L. DE C.V.",
+              "scheme": "ESPACIOS ELVYCK S. DE R.L. DE C.V."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-074-16 ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA",
+            "id": "milestone-6470e57e-2c61-44d2-8684-494eeeee6737",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-09-01T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.652Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-12-13T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "07 ADJUDICACION DIRECTA NACIONAL ART. 42 LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 127780
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-0a98c154-07d1-4136-bbb7-4e4e5d0eda0d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-08-31T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-08-31T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-b54549cb-a7cc-49ec-a0ab-71a86ab976e2",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-110d3baf-a66e-4698-88e0-2886a98a414e",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-51473d6d-5697-4eb8-a60b-f491b0bf7c4c",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-356697e0-2c91-4f01-8648-00c6eacc6748",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-37d1a926-7dd6-414f-9280-d0b06b54637d",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-08-31T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-08-31T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-12-13T06:00:00.000Z"
+    },
+    "id": "1234668",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-f7193256-a092-43e1-9611-1c21c4aefa17",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 127780
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 127780
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-bb36aa5f-1234-4099-b12d-e0c39c5c72ac",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-08-31T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-08-31T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_387_2017-10-04T00:53:18.647Z",
+  "ocid": "387",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA",
+      "id": "AA-009KDH999-E155-2016",
+      "contractPeriod": {
+        "startDate": "2016-09-01T05:00:00.000Z",
+        "endDate": "2016-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 127780
+      },
+      "items": [
+        {
+          "id": "item-6b33ddeb-0ced-4a6d-9f70-15b5112c70ed",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "ARRENDAMIENTO DE MOBILIARIO PARA LA DCI EN LAS OFICINAS DE ASA",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 127780
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-86ef712b-e262-4787-95d1-5bd1dec1caa4",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-08-31T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-08-31T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-ff6c2184-01a6-4912-8455-d21908650299",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16074-AD-AS-DCAGI-SC-074-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-08-31T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-08-31T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-08-31T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "MEXICO",
+            "locality": "ACULCO",
+            "postalCode": "09410",
+            "streetAddress": "PRIVADA DE TRABAJADORES SOCIALES 43",
+            "region": "IZTAPALAPA"
+          },
+          "contactPoint": {
+            "email": "elvyck@prodigy.net.mx",
+            "name": "ELIZABETH RODRIGUEZ AGUILERA"
+          },
+          "identifier": {
+            "id": "EEL030217T72",
+            "legalName": "ESPACIOS ELVYCK S. DE R.L. DE C.V."
+          },
+          "name": "ESPACIOS ELVYCK S. DE R.L. DE C.V."
+        }
+      ]
+    }
+  ]
+}

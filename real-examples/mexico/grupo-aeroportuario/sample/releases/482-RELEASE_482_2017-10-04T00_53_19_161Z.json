@@ -1,0 +1,445 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2017-02-13T06:00:00.000Z",
+        "endDate": "2020-10-21T05:00:00.000Z"
+      },
+      "title": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico",
+      "id": "LPI-OP-DCAGI-SC-002-17",
+      "awardID": "LO-009KDH999-E101-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-276832e8-03c0-4649-b511-70464e308a39",
+          "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-06T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-06T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-a42f5da0-b808-44c3-b02e-aa8651ef1bbc",
+          "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/15.-%20CF/15.pdf",
+          "datePublished": "2017-01-06T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2017-01-06T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-0cb4ddb3-dbe3-4db6-96ef-7808fd054679",
+          "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/17.-%20GA/17.pdf",
+          "datePublished": "2017-01-06T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-06T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-3f19b6db-75c5-47c0-9bd0-b2e5bf32d56b",
+          "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/18.-%20GC/18.pdf",
+          "datePublished": "2017-01-06T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2017-01-06T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 84828337320
+      },
+      "items": [
+        {
+          "id": "item-171e72fa-af61-4d56-b3c4-d3de9f513ecf",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 84828337320
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-3e3c64ac-edac-48e8-a91d-25632977f32b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "CTV170202527",
+              "legalName": "CONSTRUCTORA TERMINAL VALLE DE MEXICO S.A. DE C.V.",
+              "scheme": "CONSTRUCTORA TERMINAL VALLE DE MEXICO S.A. DE C.V."
+            },
+            "value": {
+              "amount": 3282049033.56
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico LPI-OP-DCAGI-SC-002-17 CONSTRUCCI?N DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+            "id": "milestone-0b3384d9-0086-4dfa-9850-16991fc26832",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "2.48%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2017-02-07T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.169Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico",
+    "awardPeriod": {
+      "startDate": "2016-07-15T05:00:00.000Z",
+      "endDate": "2016-12-07T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "Internacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 108601520000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-323564a5-3f78-49da-b673-062d48bd4b4f",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/9.-%20AJ/9.4.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-5ac0e265-7333-49c3-9264-a07c03036d83",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/9.-%20AJ/9.3.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6fa62400-f4fe-4b0e-8031-0a0805a3c147",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/9.-%20AJ/9.1.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-fa4a42ba-84fb-4075-8a82-60761801a2d8",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/9.-%20AJ/9.2.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-1a58fbbf-ef31-4c0a-9716-dae21e6d1302",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-0552273f-b200-4458-a730-f65a909e5598",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-b731c202-fc63-412d-9b7e-7ff4e4372064",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-6697edb6-0089-47af-be3d-1f9cf54626a7",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-5f2fbdc8-984b-457c-8c06-794d847b240a",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/8.-%20CC/8.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-07-15T05:00:00.000Z",
+      "endDate": "2016-12-07T06:00:00.000Z"
+    },
+    "id": "1110560?",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-2178c703-6a12-4bca-967b-8e8fce7d0ad6",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 84828337320
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-11-08T06:00:00.000Z",
+      "endDate": "2016-10-13T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 108601520000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.ppef.hacienda.gob.mx/work/models/PPEF2017/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5e479d97-bdd3-4bf8-a1de-8ce4b224354b",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/4.-%20TR/4.1.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-5fb919cb-24a4-4627-ab83-fe1db78f5dcc",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/4.-%20TR/4.3.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7c1de474-2100-4fa2-bdc2-39a3d4144536",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/4.-%20TR/4.2.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      },
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-1f8d6f62-8612-40d0-8a0f-cb21cbf5f481",
+        "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/4.-%20TR/4.4.pdf",
+        "datePublished": "2017-01-06T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2017-01-06T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico"
+  },
+  "date": "2017-02-10T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_482_2017-10-04T00:53:19.161Z",
+  "ocid": "482",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico",
+      "id": "LO-009KDH999-E101-2016",
+      "contractPeriod": {
+        "startDate": "2017-02-13T06:00:00.000Z",
+        "endDate": "2020-10-21T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 84828337320
+      },
+      "items": [
+        {
+          "id": "item-af25ebf8-ecfd-4797-b8b5-6768bbdc7413",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Construccion del edificio terminal del nuevo aeropuerto de la Ciudad de Mexico",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 84828337320
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-3101060f-f682-4d0a-863d-20042385de27",
+          "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/12.-%20AF/12.pdf",
+          "datePublished": "2017-01-06T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-06T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-0ae85d4b-40f7-48ad-9fa5-d25ff47df839",
+          "url": "http://189.211.120.220:8880/files/opendata/17002-LPI-OP-DCAGI-SC-002-17/10.-%20AP/10.pdf",
+          "datePublished": "2017-01-06T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2017-01-06T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2017-01-06T06:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "0",
+            "locality": "0",
+            "postalCode": "0",
+            "streetAddress": "0",
+            "region": "0"
+          },
+          "identifier": {
+            "id": "0",
+            "legalName": "OPERADORA CICSA, S.A. DE C.V. EN PARTICIPACION CONJUNTA CON CONSTRUCTORA Y EDIFICADORA GIA+A, S.A. DE C.V., PROMOTORA Y DESARROLLADORA MEXICANA, S.A.FRAESTRUCTURAS ENERGETICAS, S.A.U, E ICA CONSTRUCTORA DE INFRAESTRUCTURA, S.A. DE C.V."
+          },
+          "name": "OPERADORA CICSA, S.A. DE C.V. EN PARTICIPACION CONJUNTA CON CONSTRUCTORA Y EDIFICADORA GIA+A, S.A. DE C.V., PROMOTORA Y DESARROLLADORA MEXICANA, S.A.FRAESTRUCTURAS ENERGETICAS, S.A.U, E ICA CONSTRUCTORA DE INFRAESTRUCTURA, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

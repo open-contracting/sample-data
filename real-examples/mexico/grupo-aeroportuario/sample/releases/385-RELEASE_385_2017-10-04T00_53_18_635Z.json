@@ -1,0 +1,376 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-09-21T05:00:00.000Z",
+        "endDate": "2016-10-20T05:00:00.000Z"
+      },
+      "title": "SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCION DEL PROYECTO DEL NAICM",
+      "id": "AD-AS-DCAGI-SC-068-16",
+      "awardID": "AA-009KDH999-E154-2016",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-307c3a2b-4c0c-4347-affa-fb053b149d44",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-19T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-19T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-baabff10-d123-4c07-83e0-87846a3ac964",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-19T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-19T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-2d1f2d88-6d18-42a9-8bec-f8c91417779c",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-09-19T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-19T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-8de57815-9ef0-4cae-b9a1-12a585a8d3d3",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-09-19T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-19T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 190000
+      },
+      "items": [
+        {
+          "id": "item-0685637e-6774-4237-bfc4-9981cba7ea58",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCI?N DEL PROYECTO DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 190000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-4703f302-11b0-4ae2-ad37-13be79240be3"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "legalName": "ROCIO MIRELES GAVITO",
+              "scheme": "ROCIO MIRELES GAVITO"
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-068-16 SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCI?N DEL PROYECTO DEL NAICM",
+            "id": "milestone-6f426284-ae13-4a76-b3dc-12cb4d7cd6b8",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-09-21T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.638Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2016-12-12T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "07 ADJUDICACION DIRECTA NACIONAL ART. 42 LAASSP",
+    "value": {
+      "currency": "MXN",
+      "amount": 229448.25
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCION DEL PROYECTO DEL NAICM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-f801a607-e39f-49d2-a5c5-3c90b8d919ab",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-09-19T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-19T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-c8699fdb-6512-42b4-be02-2f172c6b0569",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-f1f19b55-f122-45c2-a369-98aa7f409a53",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-95c457dc-daf3-4e35-a4c2-32bb09964fd5",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-99ecc5d6-f755-4ae6-8998-119fde3bf3e2",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-64beed3a-d716-42b1-bbe1-ada5389c4eea",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-19T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-19T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2016-12-12T06:00:00.000Z"
+    },
+    "id": "1233631",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-7718c520-6644-4b56-91f6-6b58ab790bf3",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCI?N DEL PROYECTO DEL NAICM",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 190000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 229448.25
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7f019eb8-384e-4b83-a41f-df0cf9d3d009",
+        "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-09-19T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-09-19T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCI?N DEL PROYECTO DEL NAICM"
+  },
+  "date": "2017-02-09T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_385_2017-10-04T00:53:18.635Z",
+  "ocid": "385",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCI?N DEL PROYECTO DEL NAICM",
+      "id": "AA-009KDH999-E154-2016",
+      "contractPeriod": {
+        "startDate": "2016-09-21T05:00:00.000Z",
+        "endDate": "2016-10-20T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 190000
+      },
+      "items": [
+        {
+          "id": "item-f33d058a-811a-430d-b29d-165536889364",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIOS EDITORIALES PARA GENERAR UN REPORTE DE AVANCES EN LA CONSTRUCCI?N DEL PROYECTO DEL NAICM",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 190000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-aac337d7-0941-442a-bf71-f68d2d2c44b8",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-09-19T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-19T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-2bd53ba3-c3fc-43b8-801c-3c557a5394d4",
+          "url": "http://189.211.120.220:8880/files/opendata/odata/16068-AD-AS-DCAGI-SC-068-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-09-19T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-19T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-09-19T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "CIUDAD DE MEXICO",
+            "locality": "HIPODROMO",
+            "postalCode": "06100",
+            "streetAddress": "AV. AMSTERDAM 154 DEP-4",
+            "region": "CUAUHTEMOC"
+          },
+          "contactPoint": {
+            "email": "DESPACHOMIRELES@GMAIL.COM",
+            "telephone": "5553 9494",
+            "name": "ROCIO MIRELES GAVITO"
+          },
+          "identifier": {
+            "id": "MIGR631024SQ0",
+            "legalName": "ROCIO MIRELES GAVITO"
+          },
+          "name": "ROCIO MIRELES GAVITO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-09-26T05:00:00.000Z",
+        "endDate": "2018-10-14T05:00:00.000Z"
+      },
+      "title": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM",
+      "id": "LPI-OP-DCAGI-SC-071-16",
+      "awardID": "LO-009KDH999-E48-2016",
+      "documents": [
+        {
+          "title": "Contrato firmado",
+          "id": "doc-2283b13f-bb8b-449c-8b79-82de0d7582ac",
+          "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-02T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-02T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-9f87bcd7-84d2-430a-9c91-07c100542ad3",
+          "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-02T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-02T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-be98b7f4-a9d5-4605-833f-6b797f0d44eb",
+          "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/19.-%20CM/19.1.pdf",
+          "datePublished": "2016-09-02T05:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2016-09-02T05:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-4db56165-fc28-4b37-bcf2-f04365cae763",
+          "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-09-02T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-02T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-90a4240e-6c48-42b9-b76f-6ee07250c707",
+          "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-09-02T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-02T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 7926299964.9
+      },
+      "items": [
+        {
+          "id": "item-6313942a-2f82-47c5-b7b7-c2e536c33b9f",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 7926299964.9
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-0ce2128c-2193-4df3-a33c-301b1fe38d7b"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "COC000315HY4",
+              "legalName": "COCONAL S.A.P.I. DE C.V.",
+              "scheme": "COCONAL S.A.P.I. DE C.V."
+            },
+            "value": {
+              "amount": 2400089155.2
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico  LPI-OP-DCAGI-SC-071-16 SISTEMA DE PRECARGA E INSTRUMENTACION GEOTECNICA PARA LA PISTA 2 Y AREA DE TUNELES DE NAICM",
+            "id": "milestone-9ca39150-8b9e-4250-ab5c-f03c6379d266",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "31.88%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-10-10T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:18.416Z",
+    "publisher": {
+      "uid": "Obra p?blica",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "OBRA"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM",
+    "awardPeriod": {
+      "startDate": "2016-04-21T05:00:00.000Z",
+      "endDate": "2016-08-10T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Internacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 12875862068.98
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-2b826564-3bb9-4874-889f-6586aacc921e",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/9.-%20AJ/9.4.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-f8102357-48e2-45fc-8494-04e3a1b100bd",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/9.-%20AJ/9.1.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6f246202-f9a1-42c8-aeff-8eb799341a62",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/9.-%20AJ/9.2.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-5972f8a3-cdd1-43e2-aea4-38034494b7db",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/9.-%20AJ/9.3.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-7be6f649-6401-4510-bfaf-d54c34d49fdb",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/9.-%20AJ/9.5.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-9e761dd3-24f2-4e56-9d7f-864226f296dd",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-7489a55e-5504-4629-8472-aed376051017",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-401126b8-e377-4c6b-8208-973737861e89",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-22475022-57d0-4c2f-bdc9-a70a2dbec499",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-069b79e4-ef07-44a9-8e0b-99564bbfa6a2",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "hasEnquiries": true,
+    "tenderPeriod": {
+      "startDate": "2016-04-21T05:00:00.000Z",
+      "endDate": "2016-08-10T05:00:00.000Z"
+    },
+    "id": "1042453",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-7270fc86-6124-4e80-8aa1-dcc9ef743cfd",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM",
+        "unit": {
+          "name": "obr",
+          "value": {
+            "currency": "MXN",
+            "amount": 7926299964.9
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Licitación pública",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2016-05-09T05:00:00.000Z",
+      "endDate": "2016-07-11T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 12875862068.98
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e2cd70dd-0894-4c69-be3d-6c5606f5048e",
+        "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-09-02T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-09-02T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_359_2017-10-04T00:53:18.412Z",
+  "ocid": "359",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM",
+      "id": "LO-009KDH999-E48-2016",
+      "contractPeriod": {
+        "startDate": "2016-09-26T05:00:00.000Z",
+        "endDate": "2018-10-14T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 7926299964.9
+      },
+      "items": [
+        {
+          "id": "item-05040b51-3dfd-4798-a854-364185e3c6c1",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Sistema de precarga e instrumentacion geotecnica, infraestructura, estructura de pavimientos y obra civil de ayudas visuales y para la navegacion de la pista 2 y area de tuneles del NAICM",
+          "unit": {
+            "name": "obr",
+            "value": {
+              "currency": "MXN",
+              "amount": 7926299964.9
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-231c82e9-e47f-47cc-b61d-c6646e60ce6c",
+          "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-09-02T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-02T05:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-27bbb9f1-0ef0-4955-98e5-9f4e625f6548",
+          "url": "http://189.211.120.220:8880/files/opendata/16071-LPI-OP-DCAGI-SC-071-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-09-02T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-02T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-09-02T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Jardines en la Montana   / Fracc. Industrial Julian de Obregon",
+            "postalCode": "14210   /     37290",
+            "streetAddress": "Periferico Sur 4249 Piso 3   /   Blvd. Jo?se Ma. Morelos No. 5802",
+            "region": "Tlalpan    /  Guanajuato"
+          },
+          "identifier": {
+            "id": "COC000315HY4 /CPV810615PP5",
+            "legalName": "COCONAL, S.A. de C.V. Sociedad Anonima Promotora de Inversion /CONSTRUCTORA Y PAVIMENTADORA VISE, S.A. DE C.V."
+          },
+          "name": "COCONAL, S.A. de C.V. Sociedad Anonima Promotora de Inversion /CONSTRUCTORA Y PAVIMENTADORA VISE, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

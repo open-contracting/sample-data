@@ -1,0 +1,392 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-02-23T06:00:00.000Z",
+        "endDate": "2015-03-30T06:00:00.000Z"
+      },
+      "title": "Prestacion de los Servicios consistentes en la elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "AD-SRO-DCAGI-SC-008/15",
+      "awardID": "SO-009KDH999-N17-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-30db9222-a77b-4c67-9d97-80693269b636",
+          "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-20T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-20T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-caae56e2-b2fb-4403-90c2-4b7c79410d73",
+          "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-02-20T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-02-20T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-66aaf943-946a-48fe-8796-526d4afea207",
+          "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-02-20T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-20T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-d8da5716-d248-4593-91ef-a123a57b3f51",
+          "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-02-20T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-02-20T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 550000
+      },
+      "items": [
+        {
+          "id": "item-39d08a0f-456c-47f8-9f8d-d2811c8b372a",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 550000
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-a7694e66-297c-4159-b174-69e6691360b7"
+          },
+          {
+            "id": "doc-8303a254-aacf-4c99-99d4-07f1bd32cb29"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "EAM9803104K0",
+              "legalName": "ESPECIALISTAS AMBIENTALES, S.A. DE C.V.",
+              "scheme": "ESPECIALISTAS AMBIENTALES, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 550000
+            }
+          },
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "EAM9803104K0",
+              "legalName": "ESPECIALISTAS AMBIENTALES, S.A. DE C.V.",
+              "scheme": "ESPECIALISTAS AMBIENTALES, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 550000
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-008/15 ESTUDIO T?CNICO ECON?MICO DE LA EJECUCI?N DE LAS MEDIDAS DE MITIGACI?N, RESTAURACI?N Y COMPENSACI?N Y OTRAS ACCIONES AMBIENTALES",
+            "id": "milestone-8ee5da80-1d97-49c8-a130-7c4cf1401a1c",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          },
+          {
+            "title": "Avance Fisico AD-SRO-DCAGI-SC-008/15 ESTUDIO T?CNICO ECON?MICO DE LA EJECUCI?N DE LAS MEDIDAS DE MITIGACI?N, RESTAURACI?N Y COMPENSACI?N Y OTRAS ACCIONES AMBIENTALES",
+            "id": "milestone-4e7172f8-4aa1-4e92-aefc-ea41c122f5aa",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-02-20T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.686Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Prestacion de los Servicios consistentes en la elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 638000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Prestacion de los Servicios consistentes en la elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-b411374b-5a9e-43d8-b534-3a84f1e15d06",
+        "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-02-20T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-02-20T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-722fe15c-0e8b-4a36-8cd0-8224c01d0f48",
+        "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-c437f381-b0eb-40d3-9d03-b239fe35c43f",
+        "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c69e746d-8554-4095-b1a0-5b5e8300be47",
+        "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-99bce4de-1ac1-42f0-8681-adc5743d60ac",
+        "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-1fe52762-03d6-4894-ae86-d8e11d287547",
+        "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-02-20T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-02-20T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "id": "789535",
+    "items": [
+      {
+        "id": "item-7c7cd4a3-cfef-4753-a094-ecf4e3246fe1",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 550000
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 638000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-813ad1b0-2106-40e4-8f68-5654bc7d847e",
+        "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-02-20T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-02-20T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Prestacion de los Servicios consistentes en la elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_58_2017-10-04T00:53:19.679Z",
+  "ocid": "58",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Prestacion de los Servicios consistentes en la elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "SO-009KDH999-N17-2015",
+      "contractPeriod": {
+        "startDate": "2015-02-23T06:00:00.000Z",
+        "endDate": "2015-03-30T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 550000
+      },
+      "items": [
+        {
+          "id": "item-59d88a5a-4769-43bd-8c40-c62a023964b4",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Elaboracion del Estudio Tecnico-Economico de la Ejecucion de las medidas de mitigacion restauracion y compensacion y otras acciones ambientales del proyecto Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 550000
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-f5d29dd0-2cd4-450c-8933-ff2d55df9d97",
+          "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-02-20T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-20T06:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-d7ca2938-0edf-48f5-aea5-6f8dee1c7eb6",
+          "url": "http://189.211.120.220:8880/files/opendata/15008-AD-SRO-DCAGI-SC-008-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-02-20T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-02-20T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Lomas de Vista Hermosa",
+            "postalCode": "5100",
+            "streetAddress": "Camino al Olivo Numero15 Interior 301",
+            "region": "Cuajimalpa"
+          },
+          "identifier": {
+            "id": "EAM9803104KO",
+            "legalName": "Especialistas  Ambientales, S.A. de C.V."
+          },
+          "name": "Especialistas  Ambientales, S.A. de C.V."
+        }
+      ]
+    }
+  ]
+}

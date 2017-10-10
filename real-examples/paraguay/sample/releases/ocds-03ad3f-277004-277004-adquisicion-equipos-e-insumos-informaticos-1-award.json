@@ -1,0 +1,126 @@
+{
+  "language": "es",
+  "packageInfo": {
+    "publishedDate": "2017-09-08T07:19:18-04:00",
+    "uri": "https://contrataciones.gov.py/datos/id/adjudicaciones/277004-adquisicion-equipos-e-insumos-informaticos-1",
+    "publisher": {
+      "name": "DNCP - Paraguay",
+      "uri": "https://contrataciones.gov.py/datos",
+      "legalName": "Dirección Nacional de Contrataciones Públicas, Paraguay"
+    }
+  },
+  "id": "277004-adquisicion-equipos-e-insumos-informaticos-1-award",
+  "initiationType": "tender",
+  "date": "2017-09-08T07:19:18-04:00",
+  "tag": [
+    "award"
+  ],
+  "awards": [
+    {
+      "id": "277004-adquisicion-equipos-e-insumos-informaticos-1",
+      "title": "ADQUISICION DE EQUIPOS E INSUMOS INFORMATICOS ",
+      "url": "https://www.contrataciones.gov.py/datos/id/adjudicaciones/277004-adquisicion-equipos-e-insumos-informaticos-1",
+      "date": "2016-02-26T15:53:51-05:00",
+      "value": {
+        "currency": "PYG",
+        "amount": 2116219396
+      },
+      "suppliers": [
+        {
+          "name": "DATA LAB SA",
+          "identifier": {
+            "legalName": "DATA LAB SA",
+            "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "id": "80030218-4",
+            "key": "277004-data-lab-sa-5"
+          },
+          "address": {
+            "countryName": "Paraguay",
+            "locality": "ASUNCIÓN.",
+            "streetAddress": "AVDA. ARTIGAS N° 1645.",
+            "region": "Asunción",
+            "postalCode": ""
+          },
+          "contactPoint": {
+            "url": "http://www.datalab.com.py",
+            "name": "MIRTA JUSTINA MORINIGO DE ROJAS",
+            "faxNumber": "",
+            "email": "datalab@datalab.com.py",
+            "telephone": "209 126"
+          }
+        },
+        {
+          "name": "MARCELO ADDARIO PAVON",
+          "identifier": {
+            "legalName": "MARCELO ADDARIO PAVON",
+            "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "id": "754010-8",
+            "key": "277004-marcelo-addario-pavon-4"
+          },
+          "address": {
+            "countryName": "Paraguay",
+            "locality": "ASUNCION",
+            "streetAddress": "REPUBLICA DE COLOMBIA 192 CASI YEGROS",
+            "region": "Asunción",
+            "postalCode": ""
+          },
+          "contactPoint": {
+            "url": null,
+            "name": "MARCELO ADDARIO",
+            "faxNumber": "",
+            "email": "gerencia@addario.com.py",
+            "telephone": "491934"
+          }
+        },
+        {
+          "name": "MARCELO ADDARIO PAVON",
+          "identifier": {
+            "legalName": "MARCELO ADDARIO PAVON",
+            "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "id": "754010-8",
+            "key": "277004-marcelo-addario-pavon-7"
+          },
+          "address": {
+            "countryName": "Paraguay",
+            "locality": "ASUNCION",
+            "streetAddress": "REPUBLICA DE COLOMBIA 192 CASI YEGROS",
+            "region": "Asunción",
+            "postalCode": ""
+          },
+          "contactPoint": {
+            "url": null,
+            "name": "MARCELO ADDARIO",
+            "faxNumber": "",
+            "email": "gerencia@addario.com.py",
+            "telephone": "491934"
+          }
+        },
+        {
+          "name": "PARASUR SA",
+          "identifier": {
+            "legalName": "PARASUR SA",
+            "scheme": "Registro Único de Contribuyente emitido por el Ministerio de Hacienda del Gobierno de Paraguay",
+            "id": "80015541-6",
+            "key": "277004-parasur-sa-6"
+          },
+          "address": {
+            "countryName": "Paraguay",
+            "locality": "ASUNCION",
+            "streetAddress": "CAMPOS CERVERA NÂº 5030 C/ CHARLES DE GAULLE",
+            "region": "Asunción",
+            "postalCode": ""
+          },
+          "contactPoint": {
+            "url": null,
+            "name": "DIEGO YALUK NATHALI KETTERER FELIPE DONOSO",
+            "faxNumber": "",
+            "email": "licitaciones@parasursa.com.py",
+            "telephone": "293012"
+          }
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "ocid": "ocds-03ad3f-277004"
+}

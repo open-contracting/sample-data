@@ -1,0 +1,363 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2014-10-29T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "title": "Servicio de un Testigo Social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del servicio dead de Mexico (NAICM).",
+      "id": "AD-S-DCAGI-SC-016/2014",
+      "awardID": "SA-009KDH999-N13-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-f9e48585-4618-4861-81b3-3a4c7d53273b",
+          "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-10-29T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-10-29T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-f93c5d82-0f94-473b-9bcc-722383e8fc75",
+          "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/15.-%20CF/15.pdf",
+          "datePublished": "2014-10-29T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-10-29T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-6519b6e6-6eb0-4955-8b23-827250501bd0",
+          "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/17.-%20GA/17.pdf",
+          "datePublished": "2014-10-29T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-10-29T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-142d322c-41b8-45d0-9184-2f320fb0cfd5",
+          "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/18.-%20GC/18.pdf",
+          "datePublished": "2014-10-29T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-10-29T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 455149.56
+      },
+      "items": [
+        {
+          "id": "item-c74261d6-ac2f-4be3-aa25-c88953692847",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de un testigo social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del serviciode extraccion de ademes y restitucion de terreno que ocupa dichos elementos ibicados en la poligonal para el nuevo aeropuerto de la ciudad de mexico(NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 455149.56
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-ff662c63-8976-4579-bf0b-944e919cbfa8"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "AIN0203116A1",
+              "legalName": "ACADEMIA DE INGENIER?A, A. C.",
+              "scheme": "ACADEMIA DE INGENIER?A, A. C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-S-DCAGI-SC-016/2014 SERVICIO DE UN TESTIGO SOCIAL PARA QUE ATESTIG?E LAS ETAPAS DE LA LICITACION PUBLICA EXTRACCION DE ADEMES",
+            "id": "milestone-38e0a3fb-1644-4709-bce5-9759f0b3e6aa",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2014-10-29T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.810Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Servicio de un Testigo Social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del servicio dead de Mexico (NAICM).",
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 527973.49
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Servicio de un Testigo Social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del servicio dead de Mexico (NAICM).",
+    "documents": [
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-0c91942c-674a-4c65-8e73-ce733b206ae1",
+        "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-5c268ba5-8052-4d18-b1a3-8c88115b4fab",
+        "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-6a9831bc-1245-4bc3-8a34-d73bf6949155",
+        "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-c9827312-1dc3-4b0f-8472-3f99f9e30e66",
+        "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-c6af0053-555f-4010-b8c5-9c77bd40fff3",
+        "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-29T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-29T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-187953e1-0088-4069-b40b-cfe0699d8336",
+        "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/9.-%20AJ/9.pdf",
+        "datePublished": "2014-10-29T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-10-29T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      }
+    ],
+    "id": "762905",
+    "awardCriteriaDetails": "No aplica para procedimientos realizados bajo la Ley de Obras Publicas y Servicios Relacionados con las Mismas",
+    "items": [
+      {
+        "id": "item-b88d8925-cb2a-41eb-9421-88e5952aec6f",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Servicio de un testigo social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del serviciode extraccion de ademes y restitucion de terreno que ocupa dichos elementos ibicados en la poligonal para el nuevo aeropuerto de la ciudad de mexico(NAICM)",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 455149.56
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "Servicio de un Testigo Social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del servicio dead de Mexico (NAICM).",
+      "amount": {
+        "currency": "MXN",
+        "amount": 527973.49
+      },
+      "description": "Presupuesto de Egresos de la Federacion 2014",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-e56c4a8a-95d4-4426-9d07-b755a35c7353",
+        "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/4.-%20TR/4.pdf",
+        "datePublished": "2014-10-29T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-10-29T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Servicio de un Testigo Social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del servicio dead de Mexico (NAICM)."
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_66_2017-10-04T00:53:19.807Z",
+  "ocid": "66",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Servicio de un Testigo Social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del servicio dead de Mexico (NAICM).",
+      "id": "SA-009KDH999-N13-2015",
+      "contractPeriod": {
+        "startDate": "2014-10-29T06:00:00.000Z",
+        "endDate": "2017-06-30T05:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 455149.56
+      },
+      "items": [
+        {
+          "id": "item-f9d1096d-79b9-4a49-a6e1-06a3b645f13a",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Servicio de un testigo social para que atestigue en las etapas de la licitacion publica nacional presencial relativa a la contratacion del serviciode extraccion de ademes y restitucion de terreno que ocupa dichos elementos ibicados en la poligonal para el nuevo aeropuerto de la ciudad de mexico(NAICM)",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 455149.56
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-a2851221-0865-4dc9-9184-a21f8449420f",
+          "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/12.-%20AF/12.pdf",
+          "datePublished": "2014-10-29T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-10-29T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-850b7aef-0af3-490d-b27e-412f8b0460d9",
+          "url": "http://189.211.120.220:8880/files/opendata/14016-AD-S-DCAGI-SC-016-14/10.-%20AP/10.pdf",
+          "datePublished": "2014-10-29T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-10-29T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Centro Historico",
+            "postalCode": "6000",
+            "streetAddress": "Tacuba 5",
+            "region": "Cuauhtemoc"
+          },
+          "identifier": {
+            "id": "AIN0203116A1",
+            "legalName": "Academia de Ingenieria, S. A."
+          },
+          "name": "Academia de Ingenieria, S. A."
+        }
+      ]
+    }
+  ]
+}

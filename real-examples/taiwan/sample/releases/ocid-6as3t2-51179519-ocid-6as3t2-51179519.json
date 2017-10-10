@@ -1,145 +1,145 @@
 {
-  "tag": "awardNotice",
-  "name": "102年全國中小學客家藝文競賽總決賽之場地布置採購",
-  "date": "2014-02-05",
-  "ocid": "ocid-6as3t2-51179519",
   "buyer": {
+    "id": "ocid-6as3t2-51179519-buyer",
     "identifier": {
-      "id": "3.76.48.97.88",
-      "legalName": "南投縣魚池鄉五城國民小學"
-    },
-    "id": "ocid-6as3t2-51179519-buyer"
+      "legalName": "南投縣魚池鄉五城國民小學",
+      "id": "3.76.48.97.88"
+    }
   },
-  "tender": {
-    "id": "ocid-6as3t2-51179519-tender",
-    "identifier": {
-      "id": "3.76.48.97.88",
-      "legalName": "南投縣魚池鄉五城國民小學"
-    },
-    "procurementMethod": "公開取得報價單或企劃書",
-    "tenderers": [
-      {
-        "identifier": {
-          "id": "53374962",
-          "legalName": "普羅文化股份有限公司"
-        },
-        "organizationType": "公司登記",
-        "number": 1
-      }
-    ],
-    "tederPeriod": {
-      "startDate": "2013-10-25",
-      "endDate": "2013-10-29",
-      "announceTimes": "01"
-    },
-    "numberOfBids": 1,
-    "processMethod": "自辦",
-    "deliveryAddress": {
-      "addresses": [
-        {
-          "region": "南投縣",
-          "locality": "全區"
-        }
-      ],
-      "aboriginalRegion": true
-    },
-    "executingEntity": {
-      "identifier": {
-        "id": "3.76.48.97.88",
-        "legalName": "南投縣魚池鄉五城國民小學"
-      }
-    },
-    "deliveryLocation": [
-      {
-        "description": "南投縣, 全區"
-      }
-    ],
-    "procuringEntity": {
-      "identifier": {
-        "id": "3.76.48.97.88",
-        "legalName": "南投縣魚池鄉五城國民小學"
-      }
-    },
-    "budget": {
-      "value": {
-        "amount": 326600,
-        "currency": "TWD"
-      }
-    },
-    "awardCriteria": "參考最有利標精神",
-    "procurementAmountRange": "未達公告金額",
-    "items": [
-      {
-        "classification": {
-          "id": "32",
-          "description": "<財物類>, 紙漿,紙及紙產品;印刷品及相關的商品",
-          "scheme": "CPC"
-        },
-        "number": 1
-      }
-    ]
-  },
-  "awards": {
-    "awardAnnounceDate": "2014-02-05",
-    "awardDate": "2013-10-29",
-    "id": "ocid-6as3t2-51179519-awards",
-    "awardCriteria": "參考最有利標精神",
-    "totalAwardValue": {
-      "amount": 326600,
-      "currency": "TWD"
-    },
-    "items": [
-      {
-        "withoutTenderer": [],
-        "classification": {
-          "id": "32",
-          "description": "<財物類>, 紙漿,紙及紙產品;印刷品及相關的商品",
-          "scheme": "CPC"
-        },
-        "suppliers": [
-          {
-            "address": {
-              "region": "南投縣",
-              "postalCode": "545",
-              "locality": "埔里鎮",
-              "streetAddress": "西門里北辰街117號2樓"
-            },
-            "awardValue": {
-              "amount": 326600,
-              "currency": "TWD"
-            },
-            "quantity": 1,
-            "employeeExceedOneHundred": false,
-            "number": 1,
-            "identifier": {
-              "id": "53374962",
-              "legalName": "普羅文化股份有限公司"
-            },
-            "minValue": {
-              "amount": null,
-              "currency": "TWD"
-            },
-            "contractPeriod": {
-              "startDate": "2013-10-31",
-              "endDate": "2013-11-09"
-            },
-            "organizationType": "公司登記",
-            "sme": "是"
-          }
-        ],
-        "number": 1
-      }
-    ]
-  },
-  "language": "zh",
+  "ocid": "ocid-6as3t2-51179519",
   "committee": {
     "id": "ocid-6as3t2-51179519-committee",
     "member": []
   },
+  "awards": {
+    "awardCriteria": "參考最有利標精神",
+    "awardAnnounceDate": "2014-02-05",
+    "awardDate": "2013-10-29",
+    "items": [
+      {
+        "suppliers": [
+          {
+            "organizationType": "公司登記",
+            "identifier": {
+              "legalName": "普羅文化股份有限公司",
+              "id": "53374962"
+            },
+            "employeeExceedOneHundred": false,
+            "sme": "是",
+            "contractPeriod": {
+              "endDate": "2013-11-09",
+              "startDate": "2013-10-31"
+            },
+            "minValue": {
+              "currency": "TWD",
+              "amount": null
+            },
+            "quantity": 1,
+            "number": 1,
+            "awardValue": {
+              "currency": "TWD",
+              "amount": 326600
+            },
+            "address": {
+              "postalCode": "545",
+              "region": "南投縣",
+              "streetAddress": "西門里北辰街117號2樓",
+              "locality": "埔里鎮"
+            }
+          }
+        ],
+        "classification": {
+          "description": "<財物類>, 紙漿,紙及紙產品;印刷品及相關的商品",
+          "id": "32",
+          "scheme": "CPC"
+        },
+        "withoutTenderer": [],
+        "number": 1
+      }
+    ],
+    "id": "ocid-6as3t2-51179519-awards",
+    "totalAwardValue": {
+      "currency": "TWD",
+      "amount": 326600
+    }
+  },
+  "tag": "awardNotice",
+  "name": "102年全國中小學客家藝文競賽總決賽之場地布置採購",
   "id": "ocid-6as3t2-51179519",
   "packageInfo": {
     "uri": "http://106.187.93.114/dataset/2014-tender-award/resource/2014-02",
     "publishedDate": "2015-12-01",
     "publisher": "DSP,Inc."
+  },
+  "language": "zh",
+  "date": "2014-02-05",
+  "tender": {
+    "budget": {
+      "value": {
+        "currency": "TWD",
+        "amount": 326600
+      }
+    },
+    "numberOfBids": 1,
+    "deliveryAddress": {
+      "aboriginalRegion": true,
+      "addresses": [
+        {
+          "region": "南投縣",
+          "locality": "全區"
+        }
+      ]
+    },
+    "procuringEntity": {
+      "identifier": {
+        "legalName": "南投縣魚池鄉五城國民小學",
+        "id": "3.76.48.97.88"
+      }
+    },
+    "identifier": {
+      "legalName": "南投縣魚池鄉五城國民小學",
+      "id": "3.76.48.97.88"
+    },
+    "executingEntity": {
+      "identifier": {
+        "legalName": "南投縣魚池鄉五城國民小學",
+        "id": "3.76.48.97.88"
+      }
+    },
+    "procurementAmountRange": "未達公告金額",
+    "tenderers": [
+      {
+        "organizationType": "公司登記",
+        "identifier": {
+          "legalName": "普羅文化股份有限公司",
+          "id": "53374962"
+        },
+        "number": 1
+      }
+    ],
+    "awardCriteria": "參考最有利標精神",
+    "deliveryLocation": [
+      {
+        "description": "南投縣, 全區"
+      }
+    ],
+    "items": [
+      {
+        "classification": {
+          "description": "<財物類>, 紙漿,紙及紙產品;印刷品及相關的商品",
+          "id": "32",
+          "scheme": "CPC"
+        },
+        "number": 1
+      }
+    ],
+    "processMethod": "自辦",
+    "id": "ocid-6as3t2-51179519-tender",
+    "procurementMethod": "公開取得報價單或企劃書",
+    "tederPeriod": {
+      "endDate": "2013-10-29",
+      "startDate": "2013-10-25",
+      "announceTimes": "01"
+    }
   }
 }

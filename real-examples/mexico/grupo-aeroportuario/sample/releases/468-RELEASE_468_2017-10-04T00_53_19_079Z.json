@@ -1,0 +1,377 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2016-10-01T05:00:00.000Z",
+        "endDate": "2017-01-25T06:00:00.000Z"
+      },
+      "title": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+      "id": "AD-AS-DCAGI-SC-089-16",
+      "awardID": "AA-009KDH999-E5-2017",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-10dc29d8-0368-4e28-9999-6a65055e73f7",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-9a76678a-dde4-40d7-933d-d798b422b934",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/15.-%20CF/15.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-0bfaa4a4-624c-4ca9-89e8-fd79b7e02d4d",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/17.-%20GA/17.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-b19c2e5e-71ad-4e66-8ea5-3e34e3284c90",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/18.-%20GC/18.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 1068429.12
+      },
+      "items": [
+        {
+          "id": "item-421f0c50-cdf5-4600-b376-1961c7e5ce02",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1068429.12
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-b5c7af26-afb7-455a-b82b-cfc06be302d2"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "OCC050804SN6",
+              "legalName": "ONG CONTRALOR?A CIUDADANA PARA LA REDENCI?N DE CUENTAS, A.C.",
+              "scheme": "ONG CONTRALOR?A CIUDADANA PARA LA REDENCI?N DE CUENTAS, A.C."
+            },
+            "value": {
+              "amount": 0
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico AD-AS-DCAGI-SC-089-16 SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+            "id": "milestone-e0e52525-4294-4473-afd4-68e821e4b72a",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "partiallyMet",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "0.00%"
+          }
+        ]
+      },
+      "status": "active",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2016-10-01T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.083Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "limited",
+    "title": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+    "awardPeriod": {
+      "startDate": "2017-01-11T06:00:00.000Z"
+    },
+    "procurementMethodRationale": "36 ADJUDICACION DIRECTA ART.41",
+    "value": {
+      "currency": "MXN",
+      "amount": 1100000
+    },
+    "submissionMethod": [
+      "P?blico"
+    ],
+    "status": "complete",
+    "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-14177d19-3d04-42d4-8916-17d9795996d9",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/9.-%20AJ/9.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-1c01d4fc-2dfb-4d94-8b60-228b05b40b96",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-d6b15e80-9b27-44b8-a564-d604b8e8d3e7",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-c3c27a6d-f2e4-45f5-b56e-bd72855bb9b2",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-46d2e93c-e934-4f89-9448-3d44a72c782b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-941bfe74-9f5b-43ba-bd45-4d0b084de96b",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/8.-%20CC/8.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "startDate": "2017-01-11T06:00:00.000Z"
+    },
+    "id": "1252683",
+    "awardCriteriaDetails": "BINARIO",
+    "items": [
+      {
+        "id": "item-59f8dab3-08aa-4d5b-ad1a-e48996cdbbc7",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+        "unit": {
+          "name": "srv",
+          "value": {
+            "currency": "MXN",
+            "amount": 1068429.12
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Adjudicación directa",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "APORTACIONES A FIDEICOMISOS PUBLICOS",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1100000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de M?xico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2016/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-6039df8d-4861-43e8-bd67-40927e73d0aa",
+        "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/4.-%20TR/4.pdf",
+        "datePublished": "2016-09-09T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2016-09-09T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO"
+  },
+  "date": "2017-06-09T05:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_468_2017-10-04T00:53:19.079Z",
+  "ocid": "468",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+  },
+  "awards": [
+    {
+      "title": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+      "id": "AA-009KDH999-E5-2017",
+      "contractPeriod": {
+        "startDate": "2016-10-01T05:00:00.000Z",
+        "endDate": "2017-01-25T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 1068429.12
+      },
+      "items": [
+        {
+          "id": "item-d5034eb2-00c0-45b0-925a-52bfe7f01814",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "SERVICIO DE TESTIGO SOCIAL EN LA LICITACION PUBLICA INTERNACIONAL BAJO LA COBERTURA DE LOS TRATADOS, RELATIVA A LA CONSTRUCCION DEL EDIFICIO TERMINAL DEL NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE M?XICO",
+          "unit": {
+            "name": "srv",
+            "value": {
+              "currency": "MXN",
+              "amount": 1068429.12
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-7e7677cc-630f-43e4-a433-979813631456",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/10.-%20AP/10.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-46b71baf-5ff6-4388-9f03-b67183dde232",
+          "url": "http://189.211.120.220:8880/files/opendata/opend/16089-AD-AS-DCAGI-SC-089-16/12.-%20AF/12.pdf",
+          "datePublished": "2016-09-09T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2016-09-09T05:00:00.000Z",
+          "description": "Reportes de evaluacion",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2016-09-09T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "DISTRITO FEDERAL",
+            "locality": "DEL VALLE",
+            "postalCode": "03100",
+            "streetAddress": "HERIBERTO FRIAS 1439 PISO 402",
+            "region": "BENITO JU?REZ"
+          },
+          "contactPoint": {
+            "email": "A.RIBERA@HOTMAIL.OCM",
+            "telephone": "52865847",
+            "name": "SERGIO RIVERA SANCHEZ"
+          },
+          "identifier": {
+            "id": "OCC050804SN6",
+            "legalName": "ONG CONTRALOR?A CIUDADANA PARA LA REDENCI?N DE CUENTAS, A.C."
+          },
+          "name": "ONG CONTRALOR?A CIUDADANA PARA LA REDENCI?N DE CUENTAS, A.C."
+        }
+      ]
+    }
+  ]
+}

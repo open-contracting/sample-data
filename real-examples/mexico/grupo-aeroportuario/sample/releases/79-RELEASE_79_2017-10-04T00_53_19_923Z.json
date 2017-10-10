@@ -1,0 +1,376 @@
+{
+  "contracts": [
+    {
+      "period": {
+        "startDate": "2015-07-31T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "title": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacional de la Ciudad de Mexico (PROAGUA), Etapa I",
+      "id": "ITP-SRO-DCAGI-SC-049/2015",
+      "awardID": "IO-009KDH999-N51-2015",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-43d3817a-a9a6-4e79-88d5-52c1ab43241f",
+          "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-16T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-16T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-e7000594-6dba-4d40-9d8c-c7508018bd82",
+          "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/15.-%20CF/15.pdf",
+          "datePublished": "2015-07-16T05:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2015-07-16T05:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-5a14de23-072e-45db-ae7c-6a7227723d65",
+          "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/17.-%20GA/17.pdf",
+          "datePublished": "2015-07-16T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-16T05:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-d1606759-5316-4508-9dcc-248a0f813bb2",
+          "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/18.-%20GC/18.pdf",
+          "datePublished": "2015-07-16T05:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2015-07-16T05:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 8150489.03
+      },
+      "items": [
+        {
+          "id": "item-84564ee5-1dee-428b-959c-a95840011fdb",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacionalo de la Ciudad de Mexico(PROAGUA), Etapa 1",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8150489.03
+            }
+          }
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-b35a05e5-f21e-4824-b2e0-3e3ff7ac3d9f"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "F GLEZ CONSULTORES",
+              "legalName": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V.",
+              "scheme": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V."
+            },
+            "value": {
+              "amount": 8150489.03
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico ITP-SRO-DCAGI-SC-049/15 PROGRAMA GENERAL DE ABASTECIMIENTO, USO Y DISPOSICI?N DE AGUA",
+            "id": "milestone-39522967-4282-4ec1-a623-e0bf9fe655f8",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "description": "Ver documento adjunto",
+      "dateSigned": "2015-07-31T05:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:19.927Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "selective",
+    "title": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacional de la Ciudad de Mexico (PROAGUA), Etapa I",
+    "awardPeriod": {
+      "endDate": "2015-07-07T05:00:00.000Z"
+    },
+    "procurementMethodRationale": "Nacional",
+    "value": {
+      "currency": "MXN",
+      "amount": 9500000
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "description": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacional de la Ciudad de Mexico (PROAGUA), Etapa I",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-f9265381-6515-4e70-8bd3-6efc5a51b635",
+        "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/9.-%20AJ/9.pdf",
+        "datePublished": "2015-07-16T05:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2015-07-16T05:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-6d65e185-827f-4a74-8533-34a84f89bb40",
+        "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-653ce57e-3fb7-4db5-9564-beee80c3a789",
+        "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-e9cd239a-3192-4a1f-804e-b39c747acc64",
+        "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-7466756f-3a89-44e5-82aa-03f4c45261c2",
+        "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-4f73c986-5b5a-4628-87b1-193fa4b65cf4",
+        "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/8.-%20CC/8.pdf",
+        "datePublished": "2015-07-16T05:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2015-07-16T05:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "tenderPeriod": {
+      "endDate": "2015-07-07T05:00:00.000Z"
+    },
+    "id": "839816",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-3091e731-b1b1-4fdc-acb7-72632c7cecf1",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacionalo de la Ciudad de Mexico(PROAGUA), Etapa 1",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 8150489.03
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Invitación a tres",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment",
+    "enquiryPeriod": {
+      "startDate": "2015-07-01T05:00:00.000Z",
+      "endDate": "2015-07-01T05:00:00.000Z"
+    }
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 9500000
+      },
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "source": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf",
+      "projectID": "46101",
+      "description": "RECURSOS FISCALES",
+      "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-8d98440d-1d61-47ef-b010-f6bc4da0da77",
+        "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/4.-%20TR/4.pdf",
+        "datePublished": "2015-07-16T05:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2015-07-16T05:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacional de la Ciudad de Mexico (PROAGUA), Etapa I"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_79_2017-10-04T00:53:19.923Z",
+  "ocid": "79",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacional de la Ciudad de Mexico (PROAGUA), Etapa I",
+      "id": "IO-009KDH999-N51-2015",
+      "contractPeriod": {
+        "startDate": "2015-07-31T05:00:00.000Z",
+        "endDate": "2015-12-31T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 8150489.03
+      },
+      "items": [
+        {
+          "id": "item-1e7db727-c2c4-4a07-b685-949759d6e94c",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Programa general de abastecimiento, uso y disposicion de agua del nuevo Aeropuerto Internacionalo de la Ciudad de Mexico(PROAGUA), Etapa 1",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 8150489.03
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-f208e284-169a-49d0-be4a-76ba315fe6f6",
+          "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/12.-%20AF/12.pdf",
+          "datePublished": "2015-07-16T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-16T05:00:00.000Z",
+          "description": "Acta de Fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-bbf09950-8c12-4cbb-b1ac-6fa26954aaaa",
+          "url": "http://189.211.120.220:8880/files/opendata/15049-ITP-SRO-DCAGI-SC-049-15/10.-%20AP/10.pdf",
+          "datePublished": "2015-07-16T05:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2015-07-16T05:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ],
+      "description": "Ver documento adjunto",
+      "date": "2015-07-16T05:00:00.000Z",
+      "suppliers": [
+        {
+          "address": {
+            "countryName": "Mexico",
+            "locality": "Guadalupe Inn",
+            "postalCode": "1020",
+            "streetAddress": "Alfonso Esparza Oteo, numero 144",
+            "region": "Alavro Obregon"
+          },
+          "identifier": {
+            "id": "FGC980820G37",
+            "legalName": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V."
+          },
+          "name": "F GLEZ CONSULTORES Y ASOCIADOS, S.A. DE C.V."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "contracts": [
+    {
+      "items": [
+        {
+          "id": "item-bfca1771-79ad-47c3-8334-297cbb4b0504",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 11251500
+            }
+          }
+        }
+      ],
+      "title": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "id": "GACM/DCI/SJ/CI/02-2014",
+      "documents": [
+        {
+          "title": "Cl?usula sobre las condiciones de entrega de la obra",
+          "id": "doc-116bdfb6-3d57-4059-a4b0-f74f20d343ae",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/15.-%20CF/15.pdf",
+          "datePublished": "2014-10-30T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-10-30T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Contrato firmado",
+          "id": "doc-8b0b05dd-c14c-41af-a71e-2f823cb28724",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/15.-%20CF/15.pdf",
+          "datePublished": "2014-10-30T06:00:00.000Z",
+          "documentType": "Contract Signed",
+          "language": "es",
+          "dateModified": "2014-10-30T06:00:00.000Z",
+          "description": "Contrato firmado",
+          "format": "html"
+        },
+        {
+          "title": "Convenio modificatoriotttttttt",
+          "id": "doc-aa84bd75-35aa-4bf8-8945-637728a374c1",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/19.-%20CM/19.1.pdf",
+          "datePublished": "2014-10-30T06:00:00.000Z",
+          "documentType": "contractAmendmenttttttttt",
+          "language": "es",
+          "dateModified": "2014-10-30T06:00:00.000Z",
+          "description": "Convenio Modificatorio",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de anticipo",
+          "id": "doc-7e73bad0-2ff3-4fc0-a95d-6783f55fd52c",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/17.-%20GA/17.pdf",
+          "datePublished": "2014-10-30T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-10-30T06:00:00.000Z",
+          "description": "Garantia sobre el anticipo",
+          "format": "html"
+        },
+        {
+          "title": "Fianza de cumplimiento",
+          "id": "doc-92150238-8ab0-49eb-8b51-0a8e1f836b22",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/18.-%20GC/18.pdf",
+          "datePublished": "2014-10-30T06:00:00.000Z",
+          "documentType": "Contract Guarantees",
+          "language": "es",
+          "dateModified": "2014-10-30T06:00:00.000Z",
+          "description": "Garantias de cumplimiento",
+          "format": "html"
+        }
+      ],
+      "value": {
+        "currency": "MXN",
+        "amount": 11251500
+      },
+      "description": "Ver documento adjunto",
+      "implementation": {
+        "documents": [
+          {
+            "id": "doc-90682b32-b49c-46d2-a4b9-419452b1f1b5"
+          }
+        ],
+        "transactions": [
+          {
+            "providerOrganization": {
+              "id": "GAC9806011J4",
+              "legalName": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO S.A DE C.V",
+              "uri": "http://www.aeropuerto.gob.mx/",
+              "scheme": "GRUPO AEROPORTUARIO DE LA CIUDAD DE M?XICO"
+            },
+            "source": "http://189.211.120.220:8880/files/opendata/partidas/62201.pdf",
+            "receiverOrganization": {
+              "id": "FIC000330LK9",
+              "legalName": "FONDO DE INVESTIGACI?N CIENTIFICA Y DESARROLLO TECNOL?GICO DEL IPN",
+              "scheme": "FONDO DE INVESTIGACI?N CIENTIFICA Y DESARROLLO TECNOL?GICO DEL IPN"
+            },
+            "value": {
+              "amount": 11251500
+            }
+          }
+        ],
+        "milestones": [
+          {
+            "title": "Avance Fisico GACM/DCI/SJ/CI/02-2014 CONVENIO DE COLABORACI?N PARA LA REALIZACI?N DEL SERVICIO T?CNICO DE ELABORACI?N DE UN ESTUDIO PARA DEFINIR LOS BANCOS DE PRESTAMO, BANCOS DE DEPOSITO, Y LABORATORIO DE MATERIALES PARA NAICM",
+            "id": "milestone-8792269c-6573-47de-8fc1-a631ffc87305",
+            "dueDate": "2017-07-31T05:00:00.000Z",
+            "status": "met",
+            "dateModified": "2017-07-31T05:00:00.000Z",
+            "description": "100.00%"
+          }
+        ]
+      },
+      "status": "terminated",
+      "period": {
+        "startDate": "2015-10-30T06:00:00.000Z",
+        "endDate": "2014-12-15T06:00:00.000Z"
+      },
+      "dateSigned": "2014-10-30T06:00:00.000Z"
+    }
+  ],
+  "packageInfo": {
+    "publishedDate": "2017-10-04T00:53:17.217Z",
+    "publisher": {
+      "uid": "Adquisici?n de bienes y servicios",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "name": "GACM",
+      "scheme": "SERVICIO"
+    },
+    "uri": "https://datos.gob.mx/busca/dataset?organization=gacm"
+  },
+  "tender": {
+    "procurementMethod": "open",
+    "title": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "value": {
+      "currency": "MXN",
+      "amount": 13051740
+    },
+    "submissionMethod": [
+      "Presencial"
+    ],
+    "status": "active",
+    "documents": [
+      {
+        "title": "Actas de la junta de aclaraciones",
+        "id": "doc-6c601202-21f0-4f6b-ace0-63bbdb692c28",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/9.-%20AJ/9.pdf",
+        "datePublished": "2014-10-30T06:00:00.000Z",
+        "documentType": "Clarifications",
+        "language": "es",
+        "dateModified": "2014-10-30T06:00:00.000Z",
+        "description": "Actas de la junta de aclaraciones",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene las especificaciones t?cnicas de la obra",
+        "id": "doc-9aed3d50-599d-477a-bfd1-e7da13efc951",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios de evaluaci?n",
+        "id": "doc-f13b55c5-eb16-4eac-b663-cbc2c459e95c",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que contiene los objetivos y caracter?sticas del contrato y proceso de licitaci?n",
+        "id": "doc-cafcfa86-e3bd-4be5-bbd4-7869dc54e3e8",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Convocatoria al procedimiento de contrataci?n",
+        "id": "doc-a4ce8707-933c-4212-91e5-df7e780f65ad",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      },
+      {
+        "title": "Documento que describe los criterios que deben cumplir los licitantes",
+        "id": "doc-40ae5eeb-1475-4b0d-8bc5-0764e9ce3714",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/8.-%20CC/8.pdf",
+        "datePublished": "2014-10-30T06:00:00.000Z",
+        "documentType": "Tender Notice",
+        "language": "es",
+        "dateModified": "2014-10-30T06:00:00.000Z",
+        "description": "Convocatoria al procedimiento de contratacion",
+        "format": "html"
+      }
+    ],
+    "description": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+    "awardCriteriaDetails": "Presencial",
+    "items": [
+      {
+        "id": "item-d8913a43-85c4-4476-893e-66df755a1e0f",
+        "classification": {
+          "id": "6220",
+          "scheme": "EDIFICACION NO HABITACIONAL"
+        },
+        "quantity": 1,
+        "description": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+        "unit": {
+          "name": "sop",
+          "value": {
+            "currency": "MXN",
+            "amount": 11251500
+          }
+        }
+      }
+    ],
+    "metodoDeAdquisicion": "Convenio de colaboración",
+    "eligibilityCriteria": "Ver documento adjunto",
+    "awardCriteria": "bestValueToGoverment"
+  },
+  "language": "es",
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "projectID": "46101",
+      "id": "OBRAS DE CONSTRUCCION PARA EDIFICIOS NO HABITACIONALES",
+      "amount": {
+        "currency": "MXN",
+        "amount": 13051740
+      },
+      "description": "RECURSOS FISCALES",
+      "project": "Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+    },
+    "documents": [
+      {
+        "title": "Proyecto ejecutivo de la obra",
+        "id": "doc-7db55a62-746a-4683-a650-51ebeac4af5b",
+        "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/4.-%20TR/4.pdf",
+        "datePublished": "2014-10-30T06:00:00.000Z",
+        "documentType": "projectPlan",
+        "language": "es",
+        "dateModified": "2014-10-30T06:00:00.000Z",
+        "description": "Terminos de referencia",
+        "format": "html"
+      }
+    ],
+    "rationale": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico"
+  },
+  "date": "2017-02-08T06:00:00.000Z",
+  "tag": [
+    "contract"
+  ],
+  "id": "RELEASE_25_2017-10-04T00:53:17.214Z",
+  "ocid": "25",
+  "buyer": {
+    "address": {
+      "countryName": "Mexico",
+      "locality": "COL. TIZAPAN",
+      "postalCode": "01090",
+      "streetAddress": "AV. INSURGENTES SUR NO. 2453 PISO 2 OFICINA 203",
+      "region": "DEL. ALVARO OBREGON"
+    },
+    "contactPoint": {
+      "url": "http://www.aeropuerto.gob.mx/",
+      "name": "G05-DIRECCION CORPORATIVA DE ADMINISTRACION Y GESTION INMOBILIARIA"
+    },
+    "identifier": {
+      "id": "GACM",
+      "legalName": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V.",
+      "uri": "http://www.aeropuerto.gob.mx/",
+      "scheme": "MK-009KDH999"
+    },
+    "name": "Grupo Aeroportuario de la Ciudad de Mexico, S.A. de C.V."
+  },
+  "awards": [
+    {
+      "title": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+      "description": "Ver documento adjunto",
+      "contractPeriod": {
+        "startDate": "2015-10-30T06:00:00.000Z",
+        "endDate": "2014-12-15T06:00:00.000Z"
+      },
+      "value": {
+        "currency": "MXN",
+        "amount": 11251500
+      },
+      "items": [
+        {
+          "id": "item-cf5944db-e202-4f19-8479-b789f5ab3ba7",
+          "classification": {
+            "id": "6220",
+            "scheme": "EDIFICACION NO HABITACIONAL"
+          },
+          "quantity": 1,
+          "description": "Estudio para definir los bancos de prestamo, bancos de deposito y laboratorio de materiales, para el Proyecto del Nuevo Aeropuerto Internacional de la Ciudad de Mexico",
+          "unit": {
+            "name": "sop",
+            "value": {
+              "currency": "MXN",
+              "amount": 11251500
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "suppliers": [
+        {
+          "address": {
+            "locality": "Zacatenco",
+            "countryName": "Mexico",
+            "streetAddress": "Av. Luis Enrique Erro S/N, Unidad Profesional Adolfo Lopez Mateos",
+            "region": "Gustavo A. Madero"
+          },
+          "identifier": {
+            "id": "FIC000330LK9",
+            "legalName": "Unidad Profesional Interdisciplinaria en Ingenieria y Tecnologias Avanzadas (UPIITA), del Instituto Politecnico Nacional."
+          },
+          "name": "Unidad Profesional Interdisciplinaria en Ingenieria y Tecnologias Avanzadas (UPIITA), del Instituto Politecnico Nacional."
+        }
+      ],
+      "documents": [
+        {
+          "title": "Fallo",
+          "id": "doc-56d81fa9-4f35-4598-8840-2376277514a5",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/12.-%20AF/12.pdf",
+          "datePublished": "2014-10-30T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-10-30T06:00:00.000Z",
+          "description": "Acta de fallo",
+          "format": "html"
+        },
+        {
+          "title": "Fallo",
+          "id": "doc-74222af6-6567-4b37-81a1-05304e69d80a",
+          "url": "http://189.211.120.220:8880/files/opendata/14002-GACM-DCI-SJ-CI-02-2014/10.-%20AP/10.pdf",
+          "datePublished": "2014-10-30T06:00:00.000Z",
+          "documentType": "Award Notice",
+          "language": "es",
+          "dateModified": "2014-10-30T06:00:00.000Z",
+          "description": "Descripcion del acto de presentacion y apertura de proposiciones",
+          "format": "html"
+        }
+      ]
+    }
+  ]
+}

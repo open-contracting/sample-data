@@ -1,0 +1,70 @@
+{
+  "id": "01B68-130688/001/PI",
+  "language": "en",
+  "packageInfo": {
+    "uri": "https://buyandsell.gc.ca/cds/public/ocds/tpsgc-pwgsc_ocds_EF-FY-15-16.json",
+    "publishedDate": "2015-11-18T21:59:18Z",
+    "publisher": {
+      "uri_en": "https://buyandsell.gc.ca",
+      "uri_fr": "https://achatsetventes.gc.ca",
+      "documentation_en": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/download-ocds-pilot-data",
+      "name": "Buyandsell.gc.ca - Achatsetventes.gc.ca",
+      "documentation_fr": "https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts/telecharger-les-donnees-du-projet-pilote-ndpmo"
+    }
+  },
+  "tag": [
+    "compiled"
+  ],
+  "contracts": [
+    {
+      "id": "01B68-130688/001/PI",
+      "items": [
+        {
+          "id": "D317E",
+          "description_en": "Information Products",
+          "description_fr": "Produits d'information",
+          "classification": {
+            "id": "D317E",
+            "scheme": "GSIN"
+          }
+        }
+      ],
+      "status": "active",
+      "amendment": {
+        "rationale": "amendmentNumber: 000, awardDate: 2013-08-12, expiryDate: 2014-08-11, value: 12311.00 | amendmentNumber: 001, awardDate: 2014-08-08, expiryDate: 2015-08-11, value: 11440.00 | amendmentNumber: 002, awardDate: 2015-07-08, expiryDate: 2016-08-11, value: 11440.00",
+        "date": "2015-07-08"
+      },
+      "period": {
+        "startDate": "2013-08-12",
+        "endDate": "2016-08-11"
+      },
+      "awardID": "01B68-130688/001/PI",
+      "title_fr": "Produits d'information",
+      "value": {
+        "amount": 35191,
+        "currency": "CAD"
+      },
+      "title_en": "Information Products"
+    }
+  ],
+  "initiationType": "tender",
+  "date": "2015-10-29T17:47:12Z",
+  "buyer": {
+    "address": {
+      "locality": "OTTAWA",
+      "streetAddress": "CONTRACTING PROF.SERVS DIV.5TH FL.",
+      "region": "Ontario",
+      "postalCode": "K1A0C5",
+      "countryName": "Canada"
+    },
+    "name_fr": "Agriculture et Agroalimentaire Canada",
+    "identifier": {
+      "legalName_en": "Agriculture and Agri-Food Canada",
+      "id": "01",
+      "scheme": "MISC-BUYANDSELLGCCA",
+      "legalName_fr": "Agriculture et Agroalimentaire Canada"
+    },
+    "name_en": "Agriculture and Agri-Food Canada"
+  },
+  "ocid": "ocds-34a6hz-01B68-130688/001/PI"
+}

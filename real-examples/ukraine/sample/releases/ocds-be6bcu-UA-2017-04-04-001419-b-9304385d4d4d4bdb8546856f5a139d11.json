@@ -1,133 +1,134 @@
 {
-  "language": "uk",
+  "ocid": "ocds-be6bcu-UA-2017-04-04-001419-b",
   "contracts": [
     {
-      "status": "active",
-      "documents": [
-        {
-          "documentScope": "tender",
-          "format": "image/jpeg",
-          "url": "https://public.docs.openprocurement.org/get/5e416f3ad508433d8b003c846d3a6c29?KeyID=52462340&Signature=eII0goQQZ9JT8%252B7wkIJhW%2FA5VwZm2XuaMSo%252Bgszx%252BfB6KsLsJAeXsO5WHjc9%2Fg%252B9IfNFiK5EIzFQiRbj4%2FuWBw%253D%253D",
-          "title": "002.jpg",
-          "dateModified": "2017-04-04T14:22:47.081028+03:00",
-          "documentType": "contractSigned",
-          "datePublished": "2017-04-04T14:22:47.080992+03:00",
-          "id": "2c1bc6418d3d465686881cc2c1c0bf94"
-        },
-        {
-          "documentScope": "tender",
-          "format": "image/jpeg",
-          "url": "https://public.docs.openprocurement.org/get/84eaa81d7ff34a9fac6f419a46c6465c?KeyID=52462340&Signature=1gY0n2dnSNHmK8BcPidQcuFYTne6RLOwSZpNPx5Rd9KpA9I3sWfiNdU70YPyws2Pu5GzrPK3S3XCBLqusP%252BfDg%253D%253D",
-          "title": "003.jpg",
-          "dateModified": "2017-04-04T14:22:48.123095+03:00",
-          "documentType": "contractSigned",
-          "datePublished": "2017-04-04T14:22:48.123073+03:00",
-          "id": "903b3bcd2b374d679acfd51a0eba7c83"
-        },
-        {
-          "documentScope": "tender",
-          "title": "sign.p7s",
-          "url": "https://public.docs.openprocurement.org/get/774633a4e2924cd49d825d3e6eed1669?KeyID=52462340&Signature=5oqhel6uaMgmym%252BVd3N2MWz%252B%252B7Mg0Wb8cREZuCJ04%252BmjqXu%2FeKbzm4GCoS1SRSjlyembpSBHRFmHQMnqBIXpCg%253D%253D",
-          "format": "application/pkcs7-signature",
-          "dateModified": "2017-04-04T14:23:19.078924+03:00",
-          "datePublished": "2017-04-04T14:23:19.078892+03:00",
-          "id": "584c5fabfc7c4d14bf621584a07a5f5b"
-        }
-      ],
-      "items": [
-        {
-          "description": "повидло,томатпаста, сухофрукти,  конс. кукурудза, горошок, квасоля, огірки, ікра кабачкова",
-          "classification": {
-            "scheme": "CPV",
-            "description": "Оброблені фрукти та овочі",
-            "id": "15330000-0"
-          },
-          "deliveryAddress": {
-            "postalCode": "75230",
-            "countryName": "Україна",
-            "streetAddress": "Нова 11-А",
-            "region": "Херсонська область",
-            "locality": "смт. Асканія-Нова"
-          },
-          "deliveryDate": {
-            "startDate": "2017-01-01T23:59:59.999999+02:00",
-            "endDate": "2017-12-31T23:59:59.999999+02:00"
-          },
-          "id": "47287f18efb84718bc5ee2f794623910",
-          "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
-            "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 250
-        },
-        {
-          "description": "Сік",
-          "classification": {
-            "scheme": "CPV",
-            "description": "Оброблені фрукти та овочі",
-            "id": "15330000-0"
-          },
-          "deliveryAddress": {
-            "postalCode": "75230",
-            "countryName": "Україна",
-            "streetAddress": "Нова 11-А",
-            "region": "Херсонська область",
-            "locality": "смт. Асканія-Нова"
-          },
-          "deliveryDate": {
-            "startDate": "2017-01-01T23:59:59.999999+02:00",
-            "endDate": "2017-12-31T23:59:59.999999+02:00"
-          },
-          "id": "5bfe274d0e76460e9a4617ef34fecc33",
-          "unit": {
-            "symbol": "l",
-            "scheme": "UNCEFACT",
-            "id": "LTR",
-            "name": "litre"
-          },
-          "quantity": 70
-        }
-      ],
-      "suppliers": [
-        {
-          "contactPoint": {
-            "name": "Кравченко Галина Миколаївна",
-            "telephone": "+380666487575"
-          },
-          "identifier": {
-            "scheme": "UA-EDR",
-            "id": "2196003088",
-            "legalName": "ФОП Кравченко"
-          },
-          "name": "ФОП Кравченко",
-          "address": {
-            "countryName": "Україна",
-            "postalCode": "75230",
-            "region": "Херсонська область",
-            "streetAddress": "Жовтнева 5",
-            "locality": "смт. Асканія-Нова"
-          }
-        }
-      ],
-      "contractNumber": "03/04-17",
       "period": {
         "startDate": "2017-01-01T00:00:00+02:00",
         "endDate": "2017-12-31T00:00:00+02:00"
       },
-      "dateSigned": "2017-04-03T14:22:00+03:00",
       "value": {
-        "currency": "UAH",
-        "amount": 6292.76
+        "amount": 6292.76,
+        "currency": "UAH"
       },
-      "awardID": "375b155396794b29be9b318cec4d9db4",
       "id": "5aa3d17322854e5bbade42867284c559",
-      "contractID": "UA-2017-04-04-001419-b-b1"
+      "items": [
+        {
+          "classification": {
+            "id": "15330000-0",
+            "description": "Оброблені фрукти та овочі",
+            "scheme": "CPV"
+          },
+          "deliveryAddress": {
+            "postalCode": "75230",
+            "streetAddress": "Нова 11-А",
+            "locality": "смт. Асканія-Нова",
+            "region": "Херсонська область",
+            "countryName": "Україна"
+          },
+          "description": "повидло,томатпаста, сухофрукти,  конс. кукурудза, горошок, квасоля, огірки, ікра кабачкова",
+          "id": "47287f18efb84718bc5ee2f794623910",
+          "deliveryDate": {
+            "startDate": "2017-01-01T23:59:59.999999+02:00",
+            "endDate": "2017-12-31T23:59:59.999999+02:00"
+          },
+          "quantity": 250,
+          "unit": {
+            "id": "KGM",
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
+          }
+        },
+        {
+          "classification": {
+            "id": "15330000-0",
+            "description": "Оброблені фрукти та овочі",
+            "scheme": "CPV"
+          },
+          "deliveryAddress": {
+            "postalCode": "75230",
+            "streetAddress": "Нова 11-А",
+            "locality": "смт. Асканія-Нова",
+            "region": "Херсонська область",
+            "countryName": "Україна"
+          },
+          "description": "Сік",
+          "id": "5bfe274d0e76460e9a4617ef34fecc33",
+          "deliveryDate": {
+            "startDate": "2017-01-01T23:59:59.999999+02:00",
+            "endDate": "2017-12-31T23:59:59.999999+02:00"
+          },
+          "quantity": 70,
+          "unit": {
+            "id": "LTR",
+            "name": "litre",
+            "scheme": "UNCEFACT",
+            "symbol": "l"
+          }
+        }
+      ],
+      "contractID": "UA-2017-04-04-001419-b-b1",
+      "awardID": "375b155396794b29be9b318cec4d9db4",
+      "documents": [
+        {
+          "dateModified": "2017-04-04T14:22:47.081028+03:00",
+          "title": "002.jpg",
+          "documentScope": "tender",
+          "id": "2c1bc6418d3d465686881cc2c1c0bf94",
+          "url": "https://public.docs.openprocurement.org/get/5e416f3ad508433d8b003c846d3a6c29?KeyID=52462340&Signature=eII0goQQZ9JT8%252B7wkIJhW%2FA5VwZm2XuaMSo%252Bgszx%252BfB6KsLsJAeXsO5WHjc9%2Fg%252B9IfNFiK5EIzFQiRbj4%2FuWBw%253D%253D",
+          "datePublished": "2017-04-04T14:22:47.080992+03:00",
+          "documentType": "contractSigned",
+          "format": "image/jpeg"
+        },
+        {
+          "dateModified": "2017-04-04T14:22:48.123095+03:00",
+          "title": "003.jpg",
+          "documentScope": "tender",
+          "id": "903b3bcd2b374d679acfd51a0eba7c83",
+          "url": "https://public.docs.openprocurement.org/get/84eaa81d7ff34a9fac6f419a46c6465c?KeyID=52462340&Signature=1gY0n2dnSNHmK8BcPidQcuFYTne6RLOwSZpNPx5Rd9KpA9I3sWfiNdU70YPyws2Pu5GzrPK3S3XCBLqusP%252BfDg%253D%253D",
+          "datePublished": "2017-04-04T14:22:48.123073+03:00",
+          "documentType": "contractSigned",
+          "format": "image/jpeg"
+        },
+        {
+          "dateModified": "2017-04-04T14:23:19.078924+03:00",
+          "title": "sign.p7s",
+          "documentScope": "tender",
+          "id": "584c5fabfc7c4d14bf621584a07a5f5b",
+          "url": "https://public.docs.openprocurement.org/get/774633a4e2924cd49d825d3e6eed1669?KeyID=52462340&Signature=5oqhel6uaMgmym%252BVd3N2MWz%252B%252B7Mg0Wb8cREZuCJ04%252BmjqXu%2FeKbzm4GCoS1SRSjlyembpSBHRFmHQMnqBIXpCg%253D%253D",
+          "datePublished": "2017-04-04T14:23:19.078892+03:00",
+          "format": "application/pkcs7-signature"
+        }
+      ],
+      "dateSigned": "2017-04-03T14:22:00+03:00",
+      "status": "active",
+      "suppliers": [
+        {
+          "name": "ФОП Кравченко",
+          "identifier": {
+            "id": "2196003088",
+            "legalName": "ФОП Кравченко",
+            "scheme": "UA-EDR"
+          },
+          "address": {
+            "streetAddress": "Жовтнева 5",
+            "postalCode": "75230",
+            "region": "Херсонська область",
+            "locality": "смт. Асканія-Нова",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Кравченко Галина Миколаївна",
+            "telephone": "+380666487575"
+          }
+        }
+      ],
+      "contractNumber": "03/04-17"
     }
   ],
-  "ocid": "ocds-be6bcu-UA-2017-04-04-001419-b",
+  "id": "9304385d4d4d4bdb8546856f5a139d11",
   "initiationType": "tender",
+  "language": "uk",
   "date": "2017-04-04T14:23:27.139137+03:00",
   "tag": [
     "tender",
@@ -136,230 +137,229 @@
   ],
   "awards": [
     {
-      "status": "active",
-      "documents": [
-        {
-          "documentScope": "tender",
-          "title": "sign.p7s",
-          "url": "https://public.docs.openprocurement.org/get/ec53b0ecd4334ce7b46f14ecbdf6fd99?KeyID=52462340&Signature=bNLUFnGUPtCkoiCn0iB1o8Pqs0aYQFLRemYWAopowStny5eX1KK%2FWIHk0nFquIhFudcMiYDKrscSKx3pnBx6CA%253D%253D",
-          "format": "application/pkcs7-signature",
-          "dateModified": "2017-04-04T14:21:54.596203+03:00",
-          "datePublished": "2017-04-04T14:21:54.596167+03:00",
-          "id": "15292ae1d5f54ac0aa8b4664cf29a492"
-        }
-      ],
       "items": [
         {
-          "description": "повидло,томатпаста, сухофрукти,  конс. кукурудза, горошок, квасоля, огірки, ікра кабачкова",
           "classification": {
-            "scheme": "CPV",
+            "id": "15330000-0",
             "description": "Оброблені фрукти та овочі",
-            "id": "15330000-0"
+            "scheme": "CPV"
           },
           "deliveryAddress": {
             "postalCode": "75230",
-            "countryName": "Україна",
             "streetAddress": "Нова 11-А",
+            "locality": "смт. Асканія-Нова",
             "region": "Херсонська область",
-            "locality": "смт. Асканія-Нова"
+            "countryName": "Україна"
           },
+          "description": "повидло,томатпаста, сухофрукти,  конс. кукурудза, горошок, квасоля, огірки, ікра кабачкова",
+          "id": "47287f18efb84718bc5ee2f794623910",
           "deliveryDate": {
             "startDate": "2017-01-01T23:59:59.999999+02:00",
             "endDate": "2017-12-31T23:59:59.999999+02:00"
           },
-          "id": "47287f18efb84718bc5ee2f794623910",
+          "quantity": 250,
           "unit": {
-            "symbol": "kg",
-            "scheme": "UNCEFACT",
             "id": "KGM",
-            "name": "kilogram"
-          },
-          "quantity": 250
+            "name": "kilogram",
+            "scheme": "UNCEFACT",
+            "symbol": "kg"
+          }
         },
         {
-          "description": "Сік",
           "classification": {
-            "scheme": "CPV",
+            "id": "15330000-0",
             "description": "Оброблені фрукти та овочі",
-            "id": "15330000-0"
+            "scheme": "CPV"
           },
           "deliveryAddress": {
             "postalCode": "75230",
-            "countryName": "Україна",
             "streetAddress": "Нова 11-А",
+            "locality": "смт. Асканія-Нова",
             "region": "Херсонська область",
-            "locality": "смт. Асканія-Нова"
+            "countryName": "Україна"
           },
+          "description": "Сік",
+          "id": "5bfe274d0e76460e9a4617ef34fecc33",
           "deliveryDate": {
             "startDate": "2017-01-01T23:59:59.999999+02:00",
             "endDate": "2017-12-31T23:59:59.999999+02:00"
           },
-          "id": "5bfe274d0e76460e9a4617ef34fecc33",
+          "quantity": 70,
           "unit": {
-            "symbol": "l",
-            "scheme": "UNCEFACT",
             "id": "LTR",
-            "name": "litre"
-          },
-          "quantity": 70
+            "name": "litre",
+            "scheme": "UNCEFACT",
+            "symbol": "l"
+          }
         }
       ],
+      "documents": [
+        {
+          "dateModified": "2017-04-04T14:21:54.596203+03:00",
+          "title": "sign.p7s",
+          "documentScope": "tender",
+          "id": "15292ae1d5f54ac0aa8b4664cf29a492",
+          "url": "https://public.docs.openprocurement.org/get/ec53b0ecd4334ce7b46f14ecbdf6fd99?KeyID=52462340&Signature=bNLUFnGUPtCkoiCn0iB1o8Pqs0aYQFLRemYWAopowStny5eX1KK%2FWIHk0nFquIhFudcMiYDKrscSKx3pnBx6CA%253D%253D",
+          "datePublished": "2017-04-04T14:21:54.596167+03:00",
+          "format": "application/pkcs7-signature"
+        }
+      ],
+      "id": "375b155396794b29be9b318cec4d9db4",
+      "status": "active",
       "suppliers": [
         {
+          "name": "ФОП Кравченко",
+          "identifier": {
+            "id": "2196003088",
+            "legalName": "ФОП Кравченко",
+            "scheme": "UA-EDR"
+          },
+          "address": {
+            "streetAddress": "Жовтнева 5",
+            "postalCode": "75230",
+            "region": "Херсонська область",
+            "locality": "смт. Асканія-Нова",
+            "countryName": "Україна"
+          },
           "contactPoint": {
             "name": "Кравченко Галина Миколаївна",
             "telephone": "+380666487575"
-          },
-          "identifier": {
-            "scheme": "UA-EDR",
-            "id": "2196003088",
-            "legalName": "ФОП Кравченко"
-          },
-          "name": "ФОП Кравченко",
-          "address": {
-            "countryName": "Україна",
-            "postalCode": "75230",
-            "region": "Херсонська область",
-            "streetAddress": "Жовтнева 5",
-            "locality": "смт. Асканія-Нова"
           }
         }
       ],
       "value": {
-        "currency": "UAH",
-        "amount": 6292.76
+        "amount": 6292.76,
+        "currency": "UAH"
       },
-      "date": "2017-04-04T14:21:55.026506+03:00",
-      "id": "375b155396794b29be9b318cec4d9db4"
+      "date": "2017-04-04T14:21:55.026506+03:00"
     }
   ],
-  "buyer": {
-    "contactPoint": {
-      "telephone": "+380553861478",
-      "email": "41087470@mail.gov.ua",
-      "name": "Яна Іванівна Гордійчук"
-    },
-    "identifier": {
-      "scheme": "UA-EDR",
-      "id": "41087470",
-      "legalName": "ВІДДІЛ ОСВІТИ,КУЛЬТУРИ,СПОРТУ І ТУРИЗМУ АСКАНІЯ-НОВА СЕЛИЩНОЇ РАДИ"
-    },
-    "name": "ВІДДІЛ ОСВІТИ,КУЛЬТУРИ,СПОРТУ І ТУРИЗМУ АСКАНІЯ-НОВА СЕЛИЩНОЇ РАДИ",
-    "address": {
-      "countryName": "Україна",
-      "postalCode": "75230",
-      "region": "Херсонська область",
-      "streetAddress": "вул. Нова, буд. 11-А",
-      "locality": "смт Асканія-Нова"
-    }
-  },
   "tender": {
+    "tenderID": "UA-2017-04-04-001419-b",
     "procurementMethod": "limited",
-    "status": "complete",
-    "currentStage": "complete",
-    "title": "Оброблені овочі та фрукти",
-    "items": [
-      {
-        "description": "повидло,томатпаста, сухофрукти,  конс. кукурудза, горошок, квасоля, огірки, ікра кабачкова",
-        "classification": {
-          "scheme": "CPV",
-          "description": "Оброблені фрукти та овочі",
-          "id": "15330000-0"
-        },
-        "deliveryAddress": {
-          "postalCode": "75230",
-          "countryName": "Україна",
-          "streetAddress": "Нова 11-А",
-          "region": "Херсонська область",
-          "locality": "смт. Асканія-Нова"
-        },
-        "deliveryDate": {
-          "startDate": "2017-01-01T23:59:59.999999+02:00",
-          "endDate": "2017-12-31T23:59:59.999999+02:00"
-        },
-        "id": "47287f18efb84718bc5ee2f794623910",
-        "unit": {
-          "symbol": "kg",
-          "scheme": "UNCEFACT",
-          "id": "KGM",
-          "name": "kilogram"
-        },
-        "quantity": 250
-      },
-      {
-        "description": "Сік",
-        "classification": {
-          "scheme": "CPV",
-          "description": "Оброблені фрукти та овочі",
-          "id": "15330000-0"
-        },
-        "deliveryAddress": {
-          "postalCode": "75230",
-          "countryName": "Україна",
-          "streetAddress": "Нова 11-А",
-          "region": "Херсонська область",
-          "locality": "смт. Асканія-Нова"
-        },
-        "deliveryDate": {
-          "startDate": "2017-01-01T23:59:59.999999+02:00",
-          "endDate": "2017-12-31T23:59:59.999999+02:00"
-        },
-        "id": "5bfe274d0e76460e9a4617ef34fecc33",
-        "unit": {
-          "symbol": "l",
-          "scheme": "UNCEFACT",
-          "id": "LTR",
-          "name": "litre"
-        },
-        "quantity": 70
-      }
-    ],
-    "procurementMethodType": "reporting",
-    "value": {
-      "currency": "UAH",
-      "amount": 6292.76
-    },
-    "documents": [
-      {
-        "documentScope": "tender",
-        "format": "application/pkcs7-signature",
-        "url": "https://public.docs.openprocurement.org/get/8b50507a233243f8aab2a77f3b300e44?KeyID=52462340&Signature=rXFwsZUy2LvmvDYvuBec%2FOIxTv58sXK7dMuyXKNX9lgPrPITuLEAJXLZ%252Bty9jX%2FKqIMfxti5S97uMLOvnLS9Ag%253D%253D",
-        "title": "sign.p7s",
-        "relatedItem": "00005a4f6e534e9cb504ed00ebf621ed",
-        "dateModified": "2017-04-04T14:21:08.642044+03:00",
-        "datePublished": "2017-04-04T14:21:08.642008+03:00",
-        "id": "3470b08dcb9c4553ad40de2a3977cf76"
-      }
-    ],
     "procuringEntity": {
-      "contactPoint": {
-        "telephone": "+380553861478",
-        "email": "41087470@mail.gov.ua",
-        "name": "Яна Іванівна Гордійчук"
-      },
-      "identifier": {
-        "scheme": "UA-EDR",
-        "id": "41087470",
-        "legalName": "ВІДДІЛ ОСВІТИ,КУЛЬТУРИ,СПОРТУ І ТУРИЗМУ АСКАНІЯ-НОВА СЕЛИЩНОЇ РАДИ"
-      },
       "name": "ВІДДІЛ ОСВІТИ,КУЛЬТУРИ,СПОРТУ І ТУРИЗМУ АСКАНІЯ-НОВА СЕЛИЩНОЇ РАДИ",
+      "identifier": {
+        "id": "41087470",
+        "legalName": "ВІДДІЛ ОСВІТИ,КУЛЬТУРИ,СПОРТУ І ТУРИЗМУ АСКАНІЯ-НОВА СЕЛИЩНОЇ РАДИ",
+        "scheme": "UA-EDR"
+      },
       "address": {
-        "countryName": "Україна",
+        "streetAddress": "вул. Нова, буд. 11-А",
         "postalCode": "75230",
         "region": "Херсонська область",
-        "streetAddress": "вул. Нова, буд. 11-А",
-        "locality": "смт Асканія-Нова"
+        "locality": "смт Асканія-Нова",
+        "countryName": "Україна"
+      },
+      "contactPoint": {
+        "name": "Яна Іванівна Гордійчук",
+        "telephone": "+380553861478",
+        "email": "41087470@mail.gov.ua"
       }
     },
+    "title": "Оброблені овочі та фрукти",
+    "documents": [
+      {
+        "dateModified": "2017-04-04T14:21:08.642044+03:00",
+        "title": "sign.p7s",
+        "datePublished": "2017-04-04T14:21:08.642008+03:00",
+        "documentScope": "tender",
+        "id": "3470b08dcb9c4553ad40de2a3977cf76",
+        "url": "https://public.docs.openprocurement.org/get/8b50507a233243f8aab2a77f3b300e44?KeyID=52462340&Signature=rXFwsZUy2LvmvDYvuBec%2FOIxTv58sXK7dMuyXKNX9lgPrPITuLEAJXLZ%252Bty9jX%2FKqIMfxti5S97uMLOvnLS9Ag%253D%253D",
+        "relatedItem": "00005a4f6e534e9cb504ed00ebf621ed",
+        "format": "application/pkcs7-signature"
+      }
+    ],
+    "status": "complete",
     "id": "00005a4f6e534e9cb504ed00ebf621ed",
-    "tenderID": "UA-2017-04-04-001419-b"
+    "items": [
+      {
+        "classification": {
+          "id": "15330000-0",
+          "description": "Оброблені фрукти та овочі",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {
+          "postalCode": "75230",
+          "streetAddress": "Нова 11-А",
+          "locality": "смт. Асканія-Нова",
+          "region": "Херсонська область",
+          "countryName": "Україна"
+        },
+        "description": "повидло,томатпаста, сухофрукти,  конс. кукурудза, горошок, квасоля, огірки, ікра кабачкова",
+        "id": "47287f18efb84718bc5ee2f794623910",
+        "deliveryDate": {
+          "startDate": "2017-01-01T23:59:59.999999+02:00",
+          "endDate": "2017-12-31T23:59:59.999999+02:00"
+        },
+        "quantity": 250,
+        "unit": {
+          "id": "KGM",
+          "name": "kilogram",
+          "scheme": "UNCEFACT",
+          "symbol": "kg"
+        }
+      },
+      {
+        "classification": {
+          "id": "15330000-0",
+          "description": "Оброблені фрукти та овочі",
+          "scheme": "CPV"
+        },
+        "deliveryAddress": {
+          "postalCode": "75230",
+          "streetAddress": "Нова 11-А",
+          "locality": "смт. Асканія-Нова",
+          "region": "Херсонська область",
+          "countryName": "Україна"
+        },
+        "description": "Сік",
+        "id": "5bfe274d0e76460e9a4617ef34fecc33",
+        "deliveryDate": {
+          "startDate": "2017-01-01T23:59:59.999999+02:00",
+          "endDate": "2017-12-31T23:59:59.999999+02:00"
+        },
+        "quantity": 70,
+        "unit": {
+          "id": "LTR",
+          "name": "litre",
+          "scheme": "UNCEFACT",
+          "symbol": "l"
+        }
+      }
+    ],
+    "currentStage": "complete",
+    "value": {
+      "amount": 6292.76,
+      "currency": "UAH"
+    },
+    "procurementMethodType": "reporting"
   },
-  "id": "9304385d4d4d4bdb8546856f5a139d11",
+  "buyer": {
+    "name": "ВІДДІЛ ОСВІТИ,КУЛЬТУРИ,СПОРТУ І ТУРИЗМУ АСКАНІЯ-НОВА СЕЛИЩНОЇ РАДИ",
+    "identifier": {
+      "id": "41087470",
+      "legalName": "ВІДДІЛ ОСВІТИ,КУЛЬТУРИ,СПОРТУ І ТУРИЗМУ АСКАНІЯ-НОВА СЕЛИЩНОЇ РАДИ",
+      "scheme": "UA-EDR"
+    },
+    "address": {
+      "streetAddress": "вул. Нова, буд. 11-А",
+      "postalCode": "75230",
+      "region": "Херсонська область",
+      "locality": "смт Асканія-Нова",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Яна Іванівна Гордійчук",
+      "telephone": "+380553861478",
+      "email": "41087470@mail.gov.ua"
+    }
+  },
   "packageInfo": {
-    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json",
-    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
     "publisher": {
       "name": "ДП \"Прозорро\""
-    }
+    },
+    "publishedDate": "2017-06-23T02:10:38.131336+00:00",
+    "uri": "http://ocds.prozorro.openprocurement.io/merged_with_extensions_2017-06-23/release-0000001.json"
   }
 }
