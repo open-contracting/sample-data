@@ -1,0 +1,86 @@
+{
+  "planning": {
+    "rationale": null,
+    "budget": {
+      "description": "",
+      "amount": {
+        "amount": 371049525,
+        "currency": "UGX"
+      },
+      "id": "1349"
+    }
+  },
+  "tag": [
+    "planning"
+  ],
+  "id": "97080",
+  "parties": [
+    {
+      "address": {
+        "countryName": "Uganda",
+        "locality": "Courts of Judicature",
+        "postalCode": " - "
+      },
+      "name": "Courts of Judicature",
+      "contactPoint": {
+        "faxNumber": "",
+        "name": "",
+        "telephone": "",
+        "email": ""
+      },
+      "id": "19",
+      "roles": [
+        "buyer"
+      ]
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "scheme": "",
+      "name": "Public Procuring And Disposal Authority",
+      "uri": "http://gpp.ppda.go.ug",
+      "uid": ""
+    },
+    "uri": "http://gpp.ppda.go.ug/api/v1/releases?tag=planning",
+    "publishedDate": "2017-10-16T00:00:00+00:00"
+  },
+  "buyer": {
+    "name": "Courts of Judicature",
+    "id": 19
+  },
+  "ocid": "ocds-rdvc92-1508162377",
+  "tender": {
+    "status": "planned",
+    "procurementMethodDetails": "The contract is awarded to a single supplier without competition.",
+    "id": "ocds-rdvc92-1508162377",
+    "contractPeriod": {
+      "startDate": "2017-06-26T00:00:00+00:00",
+      "durationInDays": 0,
+      "endDate": null
+    },
+    "tenderPeriod": {
+      "startDate": null,
+      "durationInDays": 736903
+    },
+    "procuringEntity": {
+      "name": "Courts of Judicature",
+      "id": 19
+    },
+    "mainProcurementCategory": "works",
+    "title": "Rehabilitation of the High Court Parking Yard",
+    "items": [
+      {
+        "description": "Rehabilitation of the High Court Parking Yard",
+        "id": "1.0"
+      }
+    ],
+    "procurementMethod": "direct",
+    "value": {
+      "amount": 371049525,
+      "currency": "UGX"
+    }
+  },
+  "initiationType": "tender",
+  "date": "2017-10-16T13:59:38+00:00",
+  "language": "en"
+}
