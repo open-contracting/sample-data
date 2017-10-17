@@ -15,7 +15,10 @@ The API can be filtered for each kind of release:
 
 * Contract - http://gpp.ppda.go.ug/api/v1/releases?tag=contract
 
+At present (October 2017), we are not certain how releases are being handled, and release IDs do not appear to be changed across releases, so the script fetches separate directories of planning, tender, award and contracts.
+
 Single records can be accessed via ocid, such as 
 
 http://gpp.ppda.go.ug/api/v1/releases/ocds-rdvc92-1508158255
+
 
