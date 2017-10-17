@@ -1,0 +1,86 @@
+{
+  "planning": {
+    "rationale": null,
+    "budget": {
+      "description": "",
+      "amount": {
+        "amount": 54803600,
+        "currency": "UGX"
+      },
+      "id": "1362"
+    }
+  },
+  "tag": [
+    "planning"
+  ],
+  "id": "97082",
+  "parties": [
+    {
+      "address": {
+        "countryName": "Uganda",
+        "locality": "Uganda Registration Services Bureau",
+        "postalCode": "Uganda Registration Services Bureau Plot 5 George Street, Georgian House P.O.Box 6848 Kampala Uganda"
+      },
+      "name": "Uganda Registration Services Bureau",
+      "contactPoint": {
+        "faxNumber": "",
+        "name": "",
+        "telephone": "",
+        "email": ""
+      },
+      "id": "621",
+      "roles": [
+        "buyer"
+      ]
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "scheme": "",
+      "name": "Public Procuring And Disposal Authority",
+      "uri": "http://gpp.ppda.go.ug",
+      "uid": ""
+    },
+    "uri": "http://gpp.ppda.go.ug/api/v1/releases?tag=planning",
+    "publishedDate": "2017-10-16T00:00:00+00:00"
+  },
+  "buyer": {
+    "name": "Uganda Registration Services Bureau",
+    "id": 621
+  },
+  "ocid": "ocds-rdvc92-1508163561",
+  "tender": {
+    "status": "planned",
+    "procurementMethodDetails": "The contract is awarded to a single supplier without competition.",
+    "id": "ocds-rdvc92-1508163561",
+    "contractPeriod": {
+      "startDate": null,
+      "durationInDays": 0,
+      "endDate": null
+    },
+    "tenderPeriod": {
+      "startDate": null,
+      "durationInDays": null
+    },
+    "procuringEntity": {
+      "name": "Uganda Registration Services Bureau",
+      "id": 621
+    },
+    "mainProcurementCategory": "works",
+    "title": "Four (4) two flexible, one business and one economy class return air tickets to Geneva",
+    "items": [
+      {
+        "description": "Four (4) two flexible, one business and one economy class return air tickets to Geneva",
+        "id": "1.0"
+      }
+    ],
+    "procurementMethod": "direct",
+    "value": {
+      "amount": 54803600,
+      "currency": "UGX"
+    }
+  },
+  "initiationType": "tender",
+  "date": "2017-10-16T14:19:21+00:00",
+  "language": "en"
+}

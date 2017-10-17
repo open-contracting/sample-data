@@ -1,0 +1,86 @@
+{
+  "planning": {
+    "rationale": null,
+    "budget": {
+      "description": "",
+      "amount": {
+        "amount": 964000000,
+        "currency": "UGX"
+      },
+      "id": "1328"
+    }
+  },
+  "tag": [
+    "planning"
+  ],
+  "id": "97083",
+  "parties": [
+    {
+      "address": {
+        "countryName": "Uganda",
+        "locality": "Uganda Revenue Authority",
+        "postalCode": ""
+      },
+      "name": "Uganda Revenue Authority",
+      "contactPoint": {
+        "faxNumber": "",
+        "name": "",
+        "telephone": "",
+        "email": ""
+      },
+      "id": "478",
+      "roles": [
+        "buyer"
+      ]
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "scheme": "",
+      "name": "Public Procuring And Disposal Authority",
+      "uri": "http://gpp.ppda.go.ug",
+      "uid": ""
+    },
+    "uri": "http://gpp.ppda.go.ug/api/v1/releases?tag=planning",
+    "publishedDate": "2017-10-16T00:00:00+00:00"
+  },
+  "buyer": {
+    "name": "Uganda Revenue Authority",
+    "id": 478
+  },
+  "ocid": "ocds-rdvc92-1508163672",
+  "tender": {
+    "status": "planned",
+    "procurementMethodDetails": "The contract is awarded to a single supplier without competition.",
+    "id": "ocds-rdvc92-1508163672",
+    "contractPeriod": {
+      "startDate": null,
+      "durationInDays": 0,
+      "endDate": null
+    },
+    "tenderPeriod": {
+      "startDate": null,
+      "durationInDays": null
+    },
+    "procuringEntity": {
+      "name": "Uganda Revenue Authority",
+      "id": 478
+    },
+    "mainProcurementCategory": "works",
+    "title": "Supply of UPS under Framework Contract",
+    "items": [
+      {
+        "description": "Supply of UPS under Framework Contract",
+        "id": "1.0"
+      }
+    ],
+    "procurementMethod": "direct",
+    "value": {
+      "amount": 964000000,
+      "currency": "UGX"
+    }
+  },
+  "initiationType": "tender",
+  "date": "2017-10-16T14:21:12+00:00",
+  "language": "en"
+}
