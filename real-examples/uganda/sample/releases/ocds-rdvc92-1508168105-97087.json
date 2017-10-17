@@ -1,0 +1,86 @@
+{
+  "planning": {
+    "rationale": null,
+    "budget": {
+      "description": "",
+      "amount": {
+        "amount": 7900000,
+        "currency": "UGX"
+      },
+      "id": "1383"
+    }
+  },
+  "tag": [
+    "planning"
+  ],
+  "id": "97087",
+  "parties": [
+    {
+      "address": {
+        "countryName": "Uganda",
+        "locality": "Uganda Electricity Transmission Company",
+        "postalCode": "Uganda Electricity Transmission Company Ltd Procurement and Disposal Unit 2nd Floor, Annex Building Plot 12 Hannigton Road"
+      },
+      "name": "Uganda Electricity Transmission Company",
+      "contactPoint": {
+        "faxNumber": "",
+        "name": "",
+        "telephone": "",
+        "email": ""
+      },
+      "id": "462",
+      "roles": [
+        "buyer"
+      ]
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "scheme": "",
+      "name": "Public Procuring And Disposal Authority",
+      "uri": "http://gpp.ppda.go.ug",
+      "uid": ""
+    },
+    "uri": "http://gpp.ppda.go.ug/api/v1/releases?tag=planning",
+    "publishedDate": "2017-10-16T00:00:00+00:00"
+  },
+  "buyer": {
+    "name": "Uganda Electricity Transmission Company",
+    "id": 462
+  },
+  "ocid": "ocds-rdvc92-1508168105",
+  "tender": {
+    "status": "planned",
+    "procurementMethodDetails": "The contract is awarded to a single supplier without competition.",
+    "id": "ocds-rdvc92-1508168105",
+    "contractPeriod": {
+      "startDate": null,
+      "durationInDays": 0,
+      "endDate": null
+    },
+    "tenderPeriod": {
+      "startDate": null,
+      "durationInDays": null
+    },
+    "procuringEntity": {
+      "name": "Uganda Electricity Transmission Company",
+      "id": 462
+    },
+    "mainProcurementCategory": "works",
+    "title": "4 core armoured cable",
+    "items": [
+      {
+        "description": "4 core armoured cable",
+        "id": "1.0"
+      }
+    ],
+    "procurementMethod": "direct",
+    "value": {
+      "amount": 7900000,
+      "currency": "UGX"
+    }
+  },
+  "initiationType": "tender",
+  "date": "2017-10-16T15:35:05+00:00",
+  "language": "en"
+}
