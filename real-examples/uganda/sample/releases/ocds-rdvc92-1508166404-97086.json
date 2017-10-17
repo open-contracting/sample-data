@@ -1,0 +1,86 @@
+{
+  "planning": {
+    "rationale": null,
+    "budget": {
+      "description": "",
+      "amount": {
+        "amount": 1880584660,
+        "currency": "UGX"
+      },
+      "id": "1328"
+    }
+  },
+  "tag": [
+    "planning"
+  ],
+  "id": "97086",
+  "parties": [
+    {
+      "address": {
+        "countryName": "Uganda",
+        "locality": "Uganda Revenue Authority",
+        "postalCode": ""
+      },
+      "name": "Uganda Revenue Authority",
+      "contactPoint": {
+        "faxNumber": "",
+        "name": "",
+        "telephone": "",
+        "email": ""
+      },
+      "id": "478",
+      "roles": [
+        "buyer"
+      ]
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "scheme": "",
+      "name": "Public Procuring And Disposal Authority",
+      "uri": "http://gpp.ppda.go.ug",
+      "uid": ""
+    },
+    "uri": "http://gpp.ppda.go.ug/api/v1/releases?tag=planning",
+    "publishedDate": "2017-10-16T00:00:00+00:00"
+  },
+  "buyer": {
+    "name": "Uganda Revenue Authority",
+    "id": 478
+  },
+  "ocid": "ocds-rdvc92-1508166404",
+  "tender": {
+    "status": "planned",
+    "procurementMethodDetails": "The contract is awarded to a single supplier without competition.",
+    "id": "ocds-rdvc92-1508166404",
+    "contractPeriod": {
+      "startDate": null,
+      "durationInDays": 0,
+      "endDate": null
+    },
+    "tenderPeriod": {
+      "startDate": null,
+      "durationInDays": null
+    },
+    "procuringEntity": {
+      "name": "Uganda Revenue Authority",
+      "id": 478
+    },
+    "mainProcurementCategory": "works",
+    "title": "A Solution to Manage Electronic Fiscal Device and E-Invoicing - Retender",
+    "items": [
+      {
+        "description": "A Solution to Manage Electronic Fiscal Device and E-Invoicing - Retender",
+        "id": "1.0"
+      }
+    ],
+    "procurementMethod": "direct",
+    "value": {
+      "amount": 1880584660,
+      "currency": "UGX"
+    }
+  },
+  "initiationType": "tender",
+  "date": "2017-10-16T15:06:44+00:00",
+  "language": "en"
+}
