@@ -1,0 +1,410 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC01417/OAC01417.pdf", 
+          "title": "OA/C014/17", 
+          "datePublished": "2017-01-01T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 69
+        }
+      ], 
+      "description": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+      "title": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+      "implementation": {
+        "transactions": [
+          {
+            "date": "2017-02-27T00:00:00Z", 
+            "payee": {
+              "id": "RFC-BMA080306AGA", 
+              "name": "B2B Mail & Courier Service, S. de R.L. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 217094
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-03-10T00:00:00Z", 
+            "payee": {
+              "id": "RFC-BMA080306AGA", 
+              "name": "B2B Mail & Courier Service, S. de R.L. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 217094
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIOS", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 2500000
+            }
+          }, 
+          "description": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios postales y telegraficos", 
+            "id": 3180
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 364
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 2500000
+      }, 
+      "dateSigned": "2017-01-12T00:00:00Z", 
+      "awardID": "OA/A073", 
+      "id": 1305937
+    }
+  ], 
+  "ocid": "PC-0073", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.313Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/C01417.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 177
+      }, 
+      {
+        "id": 178, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 179, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "description": "Contiene la evaluaci\u00f3n de las propuestas presentadas durante la investigaci\u00f3n de mercado", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/C01417.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 180
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 181, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 2000000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 31801, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0231801", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "\nEl servicio de mensajer\u00eda se ha convertido en una parte integral en el Instituto para la entrega de paquetes, documentos y otras cosas importantes, reduciendo los tiempos de transporte.\n\nEn el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales el servicio de mensajer\u00eda es fundamental para la entrega de oficios, acuerdos del pleno, invitaciones para los eventos que se organizan en este Instituto, copias de conocimiento y otros documentos importantes a las distintas dependencias y particulares de forma expedita y eficaz.\n\nEs importante se\u00f1alar que el presente servicio juega un papel importante en el Instituto por la rapidez, confiabilidad y efectividad de la entrega de informaci\u00f3n. Adem\u00e1s de que el servicio garantiza la entrega segura de los documentos a los destinatarios en corto plazo. De igual forma, algunos documentos cuentan con plazos de entrega, por lo que en algunas ocasiones se han realizado env\u00edos de car\u00e1cter urgente y en caso de no contar con el servicio de mensajer\u00eda en el Instituto, se volver\u00eda una tarea de dif\u00edcil de cumplir."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/C01417.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 68
+        }
+      ], 
+      "description": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+      "title": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 2500000
+            }
+          }, 
+          "description": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios postales y telegr\u00e1ficos", 
+            "id": 3180
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-BMA080306AGA", 
+          "name": "B2B Mail & Courier Services, S. de R.L. de C.V."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 2500000
+      }, 
+      "date": "2016-12-20T00:00:00Z", 
+      "id": "OA/A073", 
+      "contractPeriod": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 364
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "B2B Mail & Courier Services, S. de R.L. de C.V.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 7870, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "BORODIN 36", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Gustavo A. Madero"
+      }, 
+      "contactPoint": {
+        "url": "www.b2bmensajeria.com", 
+        "email": "etoxtle@b2bmensajeria.com; nsandoval@b2bmensajeria.com", 
+        "name": "ERICKA TOXTLE HERNANDEZ", 
+        "telephone": 55255595
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "BMA080306AGA", 
+        "legalName": "B2B Mail & Courier Services, S. de R.L. de C.V."
+      }, 
+      "id": "RFC-BMA080306AGA"
+    }, 
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "B2B Mail & Courier Services, S. de R.L. de C.V.", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "BMA080306AGA", 
+        "legalName": "B2B Mail & Courier Services, S. de R.L. de C.V."
+      }, 
+      "id": "RFC-BMA080306AGA", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 7870, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "BORODIN 36", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Gustavo A. Madero"
+      }
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "open", 
+    "awardPeriod": {
+      "startDate": "2016-12-20T00:00:00Z", 
+      "endDate": "2016-12-23T00:00:00Z", 
+      "durationInDays": 3
+    }, 
+    "mainProcurementCategory": "services", 
+    "enquiryPeriod": {
+      "startDate": "2016-12-07T00:00:00Z", 
+      "endDate": "2016-12-13T00:00:00Z", 
+      "durationInDays": 6
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 2500000
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-BMA080306AGA", 
+        "name": "B2B Mail & Courier Services, S. de R.L. de C.V."
+      }
+    ], 
+    "id": "LA-006HHE001-E190-2016", 
+    "description": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las fechas  en que deber\u00e1n presentarse las propuestas econ\u00f3micas y t\u00e9cnicas, su evaluaci\u00f3n y el fallo correspondiente.", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC01417/CONVOCATORIAC01417.pdf", 
+        "title": "Convocatoria a la Licitaci\u00f3n P\u00fablica", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 63
+      }
+    ], 
+    "title": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "NO APLICA", 
+    "contractPeriod": {
+      "startDate": "2017-01-01T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 364
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2016-12-07T00:00:00Z", 
+      "endDate": "20/12/2016."
+    }, 
+    "procurementMethodDetails": "Licitaci\u00f3n p\u00fablica", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 1000000
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 2500000
+          }
+        }, 
+        "description": "Servicio de mensajer\u00eda y paqueter\u00eda local en la Ciudad de M\u00e9xico y \u00c1rea metropolitana.", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Servicios postales y telegr\u00e1ficos", 
+          "id": 3180
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "An\u00e1lisis de la capacidad del licitante, de su experiencia y su especialidad, de su propuesta de trabajo y del cumplimiento de los contratos suscritos de la misma naturaleza", 
+    "procurementMethodDetailsrespaldo": "Licitaci\u00f3n p\u00fablica", 
+    "awardCriteria": "Puntos y porcentajes"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 55255595 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 7870 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 7870 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0073", 
+  "clave_procedimiento": 73
+}

@@ -1,0 +1,378 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01817/OAP01817.pdf", 
+          "title": "OA/P018/17", 
+          "datePublished": "2017-05-24T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 42
+        }
+      ], 
+      "description": "Capacitar en materia de \u00c9tica P\u00fablica a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+      "title": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+      "implementation": {
+        "transactions": [
+          {
+            "payee": {
+              "id": "IDPF-1013", 
+              "name": "Francisco Bedolla Cancino"
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "uri": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01817/OAP01817.pdf", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 79866
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 177480
+            }
+          }, 
+          "description": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios para capacitacion a servidores publicos", 
+            "id": 33400001
+          }, 
+          "quantity": 20
+        }
+      ], 
+      "period": {
+        "startDate": "2017-05-10T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 235
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 177480
+      }, 
+      "dateSigned": "2017-05-24T00:00:00Z", 
+      "awardID": "OA/A040", 
+      "id": "OA/P018/17"
+    }
+  ], 
+  "ocid": "PC-0040", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.130Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-250", 
+    "name": "DGC"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Documento que eval\u00faa la justificaci\u00f3n de las necesidades por las cu\u00e1les se realizar\u00e1 el procedimiento de contrataci\u00f3n de Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+        "language": "es", 
+        "format": "PDF", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 86
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "datePublished": "2017-01-09T00:00:00Z", 
+        "documentType": "Plan de contrataciones", 
+        "id": 87
+      }, 
+      {
+        "description": "Documento interno que resume los datos obtenidos de las fuentes consultadas para realizar la investigaci\u00f3n de mercado y conocer si el bien, arrendamiento o servicio a contratar existe en la cantidad, calidad y oportunidad requerida por la dependencia o entidad; con quien o quienes se puede obtener o contratar y qu\u00e9 precio estimado tiene.", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01817/DICTAMENP01817.pdf", 
+        "title": "FO-CON-5 \"Investigaci\u00f3n de Mercado\"", 
+        "datePublished": "2017-04-06T00:00:00Z", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 88
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE2", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E002", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 177480
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33401, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E002OE2100250GOA0233401", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 250
+    }, 
+    "rationale": "Se requieren servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados con el objetivo de que los participantes fortalezcan las capacidades para reconocer en la cotidianidad personal y\u00a0profesional como sujeto pleno de experiencias valorales y potencialidad de auto-transformaci\u00f3n; que identifiquen la distinci\u00f3n entre \u00e9tica y moral, as\u00ed como ubiquen los principales conceptos relativos a la \u00e9tica p\u00fablica; que distingan el \u00e1mbito de la \u00e9tica privada del de la \u00e9tica p\u00fablica; que compartan y reflexionen acerca de experiencias y posturas en torno a la aplicaci\u00f3n \u00e9tico-moral de las decisiones laborales cotidianas y su vinculaci\u00f3n con el cumplimiento de los derechos de acceso a la informaci\u00f3n y de protecci\u00f3n de datos personales y que\u00a0identifiquen los valores y normas que exige la convivencia democr\u00e1tica para una adecuada relaci\u00f3n con la comunidad y el Estado.\u00a0"
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Los participantes en los cursos, al final de la sesi\u00f3n eval\u00faan la calidad del curso que inluye la actuaci\u00f3n del instructor, el cumplimiento de objetivos del curso, los materiales utilizados por el instructor. El resultado promedio de estas evaluaciones se publica en el portal de transparencia proactiva del INAI de manera trimestral.", 
+          "language": "es", 
+          "format": "Excel", 
+          "url": "http://inicio.inai.org.mx/SitePages/CalendarioCapacitacion.aspx", 
+          "title": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+          "datePublished": "2017-06-30T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 37
+        }, 
+        {
+          "description": "Se notifica al proveedor que se le ha adjudicado el servicio de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+          "language": "es", 
+          "title": "Oficio notificaci\u00f3n de la Adjudicaci\u00f3n", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01817/OAP01817.pdf", 
+          "datePublished": "2017-05-09T00:00:00Z", 
+          "documentType": "Propuesta ganadora", 
+          "id": 38
+        }
+      ], 
+      "description": "Capacitar en materia de \u00c9tica P\u00fablica a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+      "title": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 177480
+            }
+          }, 
+          "description": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios para capacitacion a servidores publicos", 
+            "id": 33400001
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "IDPF-1013", 
+          "name": "Francisco Bedolla Cancino"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 177480
+      }, 
+      "date": "2017-05-10T00:00:00Z", 
+      "id": "OA/A040", 
+      "contractPeriod": {
+        "startDate": "2017-05-10T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 235
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGC", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e0lez", 
+        "telephone": "50042400 ext.2440"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 250, 
+        "legalName": "Direcci\u00f3n General de Capacitaci\u00f3n"
+      }, 
+      "id": "CUA-250"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1013, 
+        "legalName": "Francisco Bedolla Cancino"
+      }, 
+      "id": "IDPF-1013", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "name": "Francisco Bedolla Cancino"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "startDate": "2017-04-27T00:00:00Z", 
+      "endDate": "2017-05-08T00:00:00Z", 
+      "durationInDays": 11
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "awardCriteria": "Binario", 
+    "tenderers": [
+      {
+        "name": "Francisco Bedolla Cancino"
+      }, 
+      {
+        "id": "RFC-CMA011116PM5", 
+        "name": "Grupo CETEC Marina, S.C."
+      }, 
+      {
+        "id": "RFC-CAP1208226C5", 
+        "name": "COI Administraci\u00f3n P\u00fablica y Privada, S.C."
+      }, 
+      {
+        "id": "RFC-ECO910625NJ5", 
+        "name": "Excelencia en Consultoria S.A. de C.V."
+      }, 
+      {
+        "id": "RFC-GIN1311261P7", 
+        "name": "GO Integradores S.A. de C.V."
+      }, 
+      {
+        "name": "Instituto Latinoamericano de Desarrollo Empresarial Capacitaci\u00f3n y Consulta"
+      }
+    ], 
+    "description": "Capacitar en materia de \u00c9tica P\u00fablica a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+    "documents": [
+      {
+        "description": "Se detalla la justificaci\u00f3n, \u00a0el servicio que se requiere, sus caracteristicas, especificaciones generales, requerimientos para la propuesta t\u00e9cnica y econ\u00f3mica, penas convencionales y entregables, de\u00a0la contrataci\u00f3n del servicio.", 
+        "language": "es", 
+        "title": "Anexo t\u00e9cnico para la contrataci\u00f3n de los servic\u00f3s de capacitaci\u00f3n sobre el tema \u00c9tica P\u00fablica, dirigido a servidores p\u00fablicos, personal e integrantes de los Sujetos Obligados", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01817/OAP01817.pdf", 
+        "id": 37, 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "datePublished": "2017-04-06T00:00:00Z", 
+        "dateModified": "n/a"
+      }
+    ], 
+    "title": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Adjudicaci\u00f3n directa con fundamento en el articulo 1 del Reglamento de Adquisiciones, Arrendamientos y Servicios del IFAI", 
+    "contractPeriod": {
+      "startDate": "2017-05-10T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 235
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-03-15T00:00:00Z", 
+      "endDate": "2017-03-22T00:00:00Z", 
+      "durationInDays": 7
+    }, 
+    "procurementMethodDetails": "Excepci\u00f3n al reglamento (art. 1)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN"
+    }, 
+    "submissionMethodDetails": "Presencial", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 177480
+          }
+        }, 
+        "description": "Servicios de capacitaci\u00f3n en materia de \u00c9tica P\u00fablica, dirigidos a servidores p\u00fablicos, personal e integrantes de los sujetos obligados", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Servicios para capacitacion a servidores publicos", 
+          "id": 33400001
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "value": {
+      "currency": "MXN", 
+      "amount": 177480
+    }, 
+    "procurementMethodDetailsrespaldo": "Excepci\u00f3n al reglamento (art. 1)", 
+    "hasEnquiries": false
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0040", 
+  "clave_procedimiento": 40
+}

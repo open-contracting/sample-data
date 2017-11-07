@@ -1,0 +1,431 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00517/OAP00517.pdf", 
+          "title": "Pedido OA/P005/17", 
+          "datePublished": "2014-01-26T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 56
+        }
+      ], 
+      "description": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "implementation": {
+        "transactions": [
+          {
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n", 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN"
+            }
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 320000
+            }
+          }, 
+          "description": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Productos alimenticios para el personal en las instalaciones de las dependencias y entidades", 
+            "id": 22104
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-03-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 305
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 320000
+      }, 
+      "dateSigned": "2017-02-10T00:00:00Z", 
+      "awardID": "OA/A059", 
+      "id": 1365375
+    }
+  ], 
+  "ocid": "PC-0059", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.228Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/P00517.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "datePublished": "2017-01-12T00:00:00Z", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 113
+      }, 
+      {
+        "id": 114, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 115, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "description": "Contiene la evaluaci\u00f3n de las propuestas presentadas durante la investigaci\u00f3n de mercado", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/P00517.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "datePublished": "2017-01-12T00:00:00Z", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 116
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 117, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 300000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 22104, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0222104", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "De acuerdo a lo que establece el Reglamento Interior del Instituto Federal de Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos, emitido el 20 de febrero de 2014\nen su art\u00edculo 26 fracciones XIII y XV, la Direcci\u00f3n General de Administraci\u00f3n tiene entre sus atribuciones:\u201cXIII. Supervisar los procedimientos relativos a las adquisiciones, arrendamientos, obras p\u00fablicas y contrataci\u00f3n de\nservicios, as\u00ed como administrar los servicios generales del Instituto, proponiendo las bases de contrataci\u00f3n de los mismos;\u201d\n\n\u00a0De acuerdo a lo que establece el Manual deOrganizaci\u00f3n del Instituto Federal de Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos, emitido en octubre de 2009, la Direcci\u00f3n de Recursos Materiales y\nServicios Generales tiene como objetivo:\n\n\u201cAdministrar eficientemente los recursos materiales y los servicios generales necesarios para el \u00f3ptimo desempe\u00f1o de las Unidades Administrativas del Instituto.\u201d, \n\nPor lo tanto, es importante que los servidores p\u00fablicos del Instituto cuenten con el servicio de suministro de agua purificada para que est\u00e9n en posibilidades de\nmantenerse hidratados y sin ning\u00fan malestar con lo que podr\u00e1n desempe\u00f1ar de manera eficiente sus actividades diarias en este Instituto."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Dictamen t\u00e9cnico y economico del suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00517/DICTAMENP00517.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "datePublished": "2017-01-26T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 54
+        }
+      ], 
+      "description": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 320000
+            }
+          }, 
+          "description": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Productos alimenticios para el personal en las instalaciones de las dependencias y entidades", 
+            "id": 22104
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-ELE9012281G2", 
+          "name": "Electropura"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 320000
+      }, 
+      "date": "2017-01-26T00:00:00Z", 
+      "id": "OA/A059", 
+      "contractPeriod": {
+        "startDate": "2017-03-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 305
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "hector.ortega@inai.org.mx", 
+        "name": "H\u00e9ctor Fernando Ortega Padilla", 
+        "telephone": 50042400
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "Electropura", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 56510, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "M\u00e9xico Texcoco Km. 23.9", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "La Paz"
+      }, 
+      "contactPoint": {
+        "email": "medina@gepp.com", 
+        "name": "Susana Medina Pineda"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "ELE9012281G2", 
+        "legalName": "Electropura S. de R.L. de C.V."
+      }, 
+      "id": "RFC-ELE9012281G2"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "Aquanat, S.A. de C.V.", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "AQU0711052D2", 
+        "legalName": "Aquanat, S.A. de C.V."
+      }, 
+      "id": "RFC-AQU0711052D2", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 53410, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Palma no. 8 Col. Padre Figueroa\u00a0", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Naucalpan"
+      }
+    }, 
+    {
+      "name": "Electropura", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "ELE9012281G2", 
+        "legalName": "Electropura S. de R.L. de C.V."
+      }, 
+      "id": "RFC-ELE9012281G2", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 56510, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "M\u00e9xico Texcoco Km. 23.9", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "La Paz"
+      }
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1018, 
+        "legalName": "Jos\u00e9 Luis Islas Erazo"
+      }, 
+      "id": "IDPF-1018", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Jos\u00e9 Luis Islas Erazo"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "startDate": "2017-01-17T00:00:00Z", 
+      "endDate": "2017-01-18T00:00:00Z", 
+      "durationInDays": 1
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 320000
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-AQU0711052D2", 
+        "name": "AQUANAT, SA DE CV"
+      }, 
+      {
+        "name": "JOSE LUIS ISLAS ERAZO\u00a0"
+      }, 
+      {
+        "id": "RFC-LE9012281G2", 
+        "name": "ELECTROPURA"
+      }
+    ], 
+    "id": "AA-006HHE001-E1-2017", 
+    "description": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las caracter\u00edsticas del servicio a contratar", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/ANEXOS/P00517.pdf", 
+        "title": "Anexo t\u00e9cnico para el suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+        "id": 47, 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "datePublished": "2017-01-17T00:00:00Z", 
+        "dateModified": "No aplica \n"
+      }
+    ], 
+    "title": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Excepci\u00f3n por monto.", 
+    "contractPeriod": {
+      "startDate": "2017-01-26T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 339
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-01-17T00:00:00Z", 
+      "endDate": "2017-01-18T00:00:00Z", 
+      "durationInDays": 1
+    }, 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 42)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 128000
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 320000
+          }
+        }, 
+        "description": "Suministro de agua purificada para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Productos alimenticios para persona", 
+          "id": 2210
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se otorga la adjudicaci\u00f3n a quien cumpla la totalidad de los requerimientos t\u00e9cnicos, y cuta oferta sea la propuesta solvente m\u00e1s baja en precio.", 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 42)", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 50042400 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 53410 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 56510 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 56510 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0059", 
+  "clave_procedimiento": 59
+}

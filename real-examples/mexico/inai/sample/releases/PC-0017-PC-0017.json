@@ -1,0 +1,244 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "cancelled", 
+      "title": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense - Fallido", 
+      "awardID": "OA/A017", 
+      "description": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense - Fallido", 
+      "id": "Fallido"
+    }
+  ], 
+  "ocid": "PC-0017", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.002Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-420", 
+    "name": "DGIV"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGIV/EDCA/AA-006HHE001-E51-2017/Justificaci\u00f3ndelaContrataci\u00f3n.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 35
+      }, 
+      {
+        "description": "Documento interno que resume los datos obtenidos de las fuentes consultadas para realizar la investigaci\u00f3n de mercado y conocer si el bien, arrendamiento o servicio a contratar existe en la cantidad, calidad y oportunidad requerida por la dependencia o entidad; con quien o quienes se puede obtener o contratar y qu\u00e9 precio estimado tiene.", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGIV/EDCA/AA-006HHE001-E51-2017/FO-CON-5Resultadodelainvestigaci\u00f3ndemercado.pdf", 
+        "title": "FO-CON-5 Resultado de la investigaci\u00f3n de mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 36
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA01", 
+      "objetivo_estrategico": "OE1", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 350000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33104, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E001OE1100420GOA0133104", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 420
+    }
+  }, 
+  "awards": [
+    {
+      "status": "unsuccessful", 
+      "title": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense", 
+      "description": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense", 
+      "value": {
+        "currency": "MXN", 
+        "amount": 350000
+      }, 
+      "id": "OA/A017"
+    }
+  ], 
+  "parties": [
+    {
+      "additionalIdentifiers": {
+        "scheme": "Insurgentes Sur 3211", 
+        "legalName": "Ciudad de M\u00e9xico", 
+        "id": "Coyoac\u00e1n", 
+        "uri": 4530
+      }, 
+      "name": "DGIV", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "www.inai.org.mx", 
+        "email": "jonatham.mendoza@inai.org.mx", 
+        "name": "Jonathan Mendoza Iserte", 
+        "telephone": 50042400
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 420, 
+        "legalName": "Direcci\u00f3n General de Investigaci\u00f3n y Verificaci\u00f3n"
+      }, 
+      "id": "CUA-420"
+    }, 
+    {
+      "additionalIdentifiers": {
+        "scheme": "Insurgentes Sur 3211", 
+        "legalName": "Ciudad de M\u00e9xico", 
+        "id": "Coyoac\u00e1n", 
+        "uri": 4530
+      }, 
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "www.inai.org.mx", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "IT LAWYERS SC", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "ILA130207964", 
+        "legalName": "IT LAWYERS SC"
+      }, 
+      "id": "RFC-ILA130207964", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 6760, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Taxco 11 PB", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Roma Sur"
+      }
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "status": "complete", 
+    "procurementMethod": "direct", 
+    "documents": [
+      {
+        "description": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGIV/EDCA/AA-006HHE001-E51-2017/Anexot\u00e9cnico(adjudicaci\u00f3ndirecta).pdf", 
+        "title": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 22
+      }
+    ], 
+    "mainProcurementCategory": "services", 
+    "description": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense", 
+    "title": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense", 
+    "submissionMethodDetails": "CompraNet", 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 42)", 
+    "tenderers": [
+      {
+        "id": "RFC-ILA130207964", 
+        "name": "IT LAWYERS SC"
+      }
+    ], 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 42)", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 350000
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "awardCriteria": "Binario", 
+    "items": [
+      {
+        "unit": {
+          "value": {
+            "currency": "MXN", 
+            "amount": 350000
+          }
+        }, 
+        "description": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Otras asesorias para la operacion de programas", 
+          "id": 33104
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "id": "AA-006HHE001-E51-2017", 
+    "hasEnquiries": false
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 50042400 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6760 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\nproperties/parties/items/properties/additionalIdentifiers/type: {u'scheme': u'Insurgentes Sur 3211', u'legalName': u'Ciudad de M\\xe9xico', u'id': u'Coyoac\\xe1n', u'uri': 4530} is not of type u'array'\nproperties/parties/items/properties/additionalIdentifiers/type: {u'scheme': u'Insurgentes Sur 3211', u'legalName': u'Ciudad de M\\xe9xico', u'id': u'Coyoac\\xe1n', u'uri': 4530} is not of type u'array'\n", 
+  "id": "PC-0017", 
+  "relatedProcess": {
+    "scheme": "CompraNet", 
+    "identifier": "AA-006HHE001-E49-2017", 
+    "id": "PR1", 
+    "relationship": "Procedimiento fallido", 
+    "title": "Servicios de Asesor\u00eda T\u00e9cnica Especializada de Inform\u00e1tica Forense"
+  }, 
+  "clave_procedimiento": 17
+}

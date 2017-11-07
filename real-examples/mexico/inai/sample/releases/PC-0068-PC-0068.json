@@ -1,0 +1,450 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC02017/OAC02017.pdf", 
+          "title": "OA/C020/17", 
+          "datePublished": "2017-02-01T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 64
+        }
+      ], 
+      "description": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "implementation": {
+        "transactions": [
+          {
+            "date": "2017-07-13T00:00:00Z", 
+            "payee": {
+              "id": "RFC-JDM850910UD2", 
+              "name": "Jardiner\u00eda 2000 S.A."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 29657.27
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-07-13T00:00:00Z", 
+            "payee": {
+              "id": "RFC-JDM850910UD2", 
+              "name": "Jardiner\u00eda 2000 S.A."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 29657.27
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-07-13T00:00:00Z", 
+            "payee": {
+              "id": "RFC-JDM850910UD2", 
+              "name": "Jardiner\u00eda 2000 S.A."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 29657.27
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-07-13T00:00:00Z", 
+            "payee": {
+              "id": "RFC-JDM850910UD2", 
+              "name": "Jardiner\u00eda 2000 S.A."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 29657.27
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-08-17T00:00:00Z", 
+            "payee": {
+              "id": "RFC-JDM850910UD2", 
+              "name": "Jardiner\u00eda 2000 S.A."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 29657.27
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-08-17T00:00:00Z", 
+            "payee": {
+              "id": "RFC-JDM850910UD2", 
+              "name": "Jardiner\u00eda 2000 S.A."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 29657.27
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 326230
+            }
+          }, 
+          "description": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios de jardineria y fumigacion", 
+            "id": 35901
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-02-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 333
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 326230
+      }, 
+      "dateSigned": "2017-02-17T00:00:00Z", 
+      "awardID": "OA/A068", 
+      "id": 1433376
+    }
+  ], 
+  "ocid": "PC-0068", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.283Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/C02017.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "datePublished": "2017-01-24T00:00:00Z", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 152
+      }, 
+      {
+        "id": 153, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 154, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "description": "Contiene la evaluaci\u00f3n de las propuestas presentadas durante la investigaci\u00f3n de mercado", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/C02017.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "datePublished": "2017-01-24T00:00:00Z", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 155
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 156, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 350000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 35901, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0235901", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "El edificio sede del INAI actualmente cuenta con \u00e1reas de vegetaci\u00f3n en la entrada principal, en el quinto piso destinado a la azotea del inmueble sede, as\u00ed como plantas al interior del inmueble (planta baja, piso 1, piso 2, piso 3 y piso 4) que requieren de cuidados especializados permanentes para mantenerlas en buen estado y sigan proporcionando un ambiente est\u00e9tico en el interior y exterior del Instituto.\nAdicionalmente, el servicio de jardiner\u00eda es solicitado por diversos servidores p\u00fablicos del instituto, con el fin mantener en buen estado las plantas que mantienen en el interior de sus oficinas.\nEs importante hacer \u00e9nfasis que el edificio cuenta con un sal\u00f3n de usos m\u00faltiples de actual construcci\u00f3n, en el quinto piso del edificio sede, en donde se encuentra una azotea semides\u00e9rtica.\nEl \u00e1rea de azotea cuenta con sus propias zonas de vegetaci\u00f3n, \u00e1reas pavimentadas y p\u00e9rgolas para sombreado."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/C02017.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "datePublished": "2017-02-28T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 63
+        }
+      ], 
+      "description": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 326230
+            }
+          }, 
+          "description": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicio sde jardineria y fumigacion", 
+            "id": 35901
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-JDM850910UD2", 
+          "name": "Jardiner\u00eda 2000 S.A."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 326230
+      }, 
+      "date": "2017-01-27T00:00:00Z", 
+      "id": "OA/A068", 
+      "contractPeriod": {
+        "startDate": "2017-02-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 333
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "Jardiner\u00eda 2000 S.A.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 10200, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "San Jeronimo 1010", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Magdalena Contreras"
+      }, 
+      "contactPoint": {
+        "url": "http://jardineria2000.com/", 
+        "telephone": 55952298, 
+        "name": "Jos\u00e9 Arturo Haro Ayala"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "JDM850910UD2", 
+        "legalName": "Jardiner\u00eda 2000 S.A."
+      }, 
+      "id": "RFC-JDM850910UD2"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "startDate": "2017-01-26T00:00:00Z", 
+      "endDate": "2017-01-27T00:00:00Z", 
+      "durationInDays": 1
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 326230
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-JDM850910UD2", 
+        "name": "Jardineria 2000"
+      }
+    ], 
+    "id": "AA-006HHE001-E3-2017", 
+    "description": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las caracter\u00edsticas del servicio a contratar", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/ANEXOS/C02017.pdf", 
+        "title": "Anexo t\u00e9cnico del servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+        "datePublished": "2017-01-26T00:00:00Z", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 58
+      }
+    ], 
+    "title": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Excepci\u00f3n por monto.", 
+    "contractPeriod": {
+      "startDate": "2017-02-01T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 333
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-01-26T00:00:00Z", 
+      "endDate": "2017-01-27T00:00:00Z", 
+      "durationInDays": 1
+    }, 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 42)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 326230
+          }
+        }, 
+        "description": "Servicio de mantenimiento a la jardiner\u00eda ubicada en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Servicios de jardiner\u00eda y fumigaci\u00f3n", 
+          "id": 3590
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se asigna al licitante que oferte la propuesta solvente m\u00e1s baja", 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 42)", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 10200 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 55952298 is not of type u'string', u'null'\nproperties/contracts/items/properties/implementation/properties/transactions/uniqueItems: [{u'date': u'2017-07-13T00:00:00Z', u'payee': {u'id': u'RFC-JDM850910UD2', u'name': u'Jardiner\\xeda 2000 S.A.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 29657.27}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-07-13T00:00:00Z', u'payee': {u'id': u'RFC-JDM850910UD2', u'name': u'Jardiner\\xeda 2000 S.A.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 29657.27}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-07-13T00:00:00Z', u'payee': {u'id': u'RFC-JDM850910UD2', u'name': u'Jardiner\\xeda 2000 S.A.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 29657.27}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-07-13T00:00:00Z', u'payee': {u'id': u'RFC-JDM850910UD2', u'name': u'Jardiner\\xeda 2000 S.A.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 29657.27}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-08-17T00:00:00Z', u'payee': {u'id': u'RFC-JDM850910UD2', u'name': u'Jardiner\\xeda 2000 S.A.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 29657.27}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-08-17T00:00:00Z', u'payee': {u'id': u'RFC-JDM850910UD2', u'name': u'Jardiner\\xeda 2000 S.A.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 29657.27}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}] has non-unique elements\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0068", 
+  "clave_procedimiento": 68
+}

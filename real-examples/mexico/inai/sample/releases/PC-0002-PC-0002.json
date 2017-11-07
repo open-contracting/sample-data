@@ -1,0 +1,297 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.ifai.org.mx/ConveniosInstDocs/CONV-20-2017%20Universidad%20Nacional%20Autonoma%20de%20Mexico.pdf", 
+          "title": "CONV-20/2017. Convenio espec\u00edfico de colaboraci\u00f3n celebrado entre el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y protecci\u00f3n de Datos Personales (INAI) y la Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) suscrito el d\u00eda 27 de junio de 2017 en la Ciudad de M\u00e9xico; con el objeto de \"Llevar a cabo la colaboraci\u00f3n entre las PARTES para realizar actividades de investigaci\u00f3n , dise\u00f1o metodol\u00f3gico, dise\u00f1o editorial, publicaci\u00f3n, impresi\u00f3n y difusi\u00f3n de materiales referentes al desempe\u00f1o de instituciones legislativas en materia de garant\u00eda de acceso a la informaci\u00f3n; transparencia de sus actividades, funciones y responsabilidades; rendici\u00f3n de cuentas y parlamento abierto\", con una vigencia a partir de la fecha de su firma al 31 de diciembre de 2017.", 
+          "datePublished": "2017-06-27T00:00:00Z", 
+          "documentType": "Convenio Espec\u00edfico de Colaboraci\u00f3n", 
+          "id": 2
+        }
+      ], 
+      "description": "Realizar un estudio e investigaci\u00f3n consistente en un \"Observatorio de Transparencia Legislativa y Parlamento Abierto\", en el que el INAI aporta recursos econ\u00f3micos y la UNAM aporta recursos en especie.", 
+      "title": "Convenio Espec\u00edfico de Colaboraci\u00f3n con la UNAM.", 
+      "implementation": {
+        "milestones": [
+          {
+            "status": "met", 
+            "description": "Entrega del documento\"Marco conceptual, metodol\u00f3gico y de diagn\u00f3stico sobre transparencia legislativa, rendici\u00f3n de cuentas y parlamento abierto\".", 
+            "title": "Marco conceptual, metodol\u00f3gico y de diagn\u00f3stico sobre transparencia legislativa, rendici\u00f3n de cuentas y parlamento abierto.", 
+            "dueDate": "2017-07-31T00:00:00Z", 
+            "type": "Entrega - Para hitos de entrega, como la fecha en la que el bien, servicio u obra p\u00fablica debe de ser entregado.", 
+            "id": 1
+          }
+        ], 
+        "transactions": [
+          {
+            "date": "2017-08-22T11:41:00Z", 
+            "payee": {
+              "id": "RFC-UNA2907227Y5", 
+              "name": "UNAM"
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 150000
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "description": "Realizar un estudio e investigaci\u00f3n consistente en un \"Observatorio de Transparencia Legislativa y Parlamento Abierto\", en el que el INAI aporta recursos econ\u00f3micos y la UNAM aporta recursos en especie.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Estudios e investigaciones", 
+            "id": 33501
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-06-27T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 187
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 500000
+      }, 
+      "dateSigned": "2017-06-27T00:00:00Z", 
+      "awardID": "OA/A002"
+    }
+  ], 
+  "ocid": "PC-0002", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:42.904Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-370", 
+    "name": "DGEPLJ"
+  }, 
+  "planning": {
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA08", 
+      "objetivo_estrategico": "OE1", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 500000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33501, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E001OE1100370GOA0833501", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 370
+    }, 
+    "rationale": "De conformidad con la fracci\u00f3n IV del art\u00edculo 37 del Estatuto Org\u00e1nico del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales, la Direcci\u00f3n General de Enlace con los Poderes Legislativo y Judicial tiene entre sus funciones la de desarrollar diagn\u00f3sticos y estudios relacionados con la transparencia en los sujetos obligados de su competencia, como lo es el Poder Legislativo federal, en particular la C\u00e1mara de Diputados del Congreso de la Uni\u00f3n.\nAsimismo, la DGEPLJ previ\u00f3 desarrollar un proyecto de Observatorio de Transparencia Legislativa y Parlamento Abierto (Observatorio) como parte de su Plan de Trabajo 2017, consider\u00e1ndolo como una actividad fundamental y enfocado a la C\u00e1mara de Diputados, y determin\u00f3 celebrar un Convenio espec\u00edfico de colaboraci\u00f3n entre la UNAM y el INAI, el cual fue firmado el pasado 27 de junio.\nEn ese orden de ideas, el Observatorio busca explorar alternativas conceptuales y metodol\u00f3gicas para evaluar de manera integral, con un enfoque cualitativo, las acciones de accesibilidad a la informaci\u00f3n legislativa y el parlamento abierto, espec\u00edficamente en la C\u00e1mara de Diputados del Congreso de la Uni\u00f3n, a partir de analizar las decisiones tomadas por los legisladores en siete planos: 1) legislativo, 2) administrativo, 3) de control, 4) presupuestario, 5) de representaci\u00f3n, 6) jurisdiccional y 7) de diplomacia parlamentaria, de manera que se puedan identificar las mejores pr\u00e1cticas y tambi\u00e9n las \u00e1reas de oportunidad en el tema."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "description": "Realizar un estudio e investigaci\u00f3n consistente en un \"Observatorio de Transparencia Legislativa y Parlamento Abierto\", en el que el INAI aporta recursos econ\u00f3micos y la UNAM aporta recursos en especie.", 
+      "title": "Convenio Espec\u00edfico de Colaboraci\u00f3n con la UNAM.", 
+      "items": [
+        {
+          "description": "Realizar un estudio e investigaci\u00f3n consistente en un \"Observatorio de Transparencia Legislativa y Parlamento Abierto\", en el que el INAI aporta recursos econ\u00f3micos y la UNAM aporta recursos en especie.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Estudios e investigaciones", 
+            "id": 33501
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-UNA2907227Y5", 
+          "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 500000
+      }, 
+      "id": "OA/A002", 
+      "contractPeriod": {
+        "startDate": "2017-06-27T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 187
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGEPLJ", 
+      "roles": [
+        "Parte de convenio de colaboraci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 370, 
+        "legalName": "Direcci\u00f3n General de Enlace con los Poderes Legislativo y Judicial"
+      }, 
+      "id": "CUA-370"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "UNAM", 
+      "roles": [
+        "Contraparte de convenio de colaboraci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4510, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Avenida Universidad No. 3000", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "https://www.unam.mx/"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "UNA2907227Y5", 
+        "legalName": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+      }, 
+      "id": "RFC-UNA2907227Y5"
+    }, 
+    {
+      "name": "UNAM", 
+      "identifier": {
+        "scheme": "RFC", 
+        "id": "UNA2907227Y5", 
+        "legalName": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+      }, 
+      "id": "RFC-UNA2907227Y5", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 4511, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Avenida Universidad No. 3001", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "status": "complete", 
+    "procurementMethod": "direct", 
+    "tenderPeriod": {
+      "startDate": "2017-06-27T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 187
+    }, 
+    "awardPeriod": {
+      "durationInDays": 0
+    }, 
+    "mainProcurementCategory": "services", 
+    "description": "Realizar un estudio e investigaci\u00f3n consistente en un \"Observatorio de Transparencia Legislativa y Parlamento Abierto\", en el que el INAI aporta recursos econ\u00f3micos y la UNAM aporta recursos en especie.", 
+    "title": "Convenio Espec\u00edfico de Colaboraci\u00f3n con la UNAM", 
+    "submissionMethodDetails": "Presencial", 
+    "enquiryPeriod": {
+      "durationInDays": 0
+    }, 
+    "contractPeriod": {
+      "durationInDays": 0
+    }, 
+    "procurementMethodDetailsrespaldo": "Convenio General de Colaboraci\u00f3n", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 500000
+    }, 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 500000
+    }, 
+    "procurementMethodDetails": "Excepci\u00f3n al reglamento (art. 1)", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-UNA2907227Y5", 
+        "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+      }
+    ], 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "procurementMethodRationale": "Conveio General de Colaboraci\u00f3n", 
+    "submissionMethod": "Presencial", 
+    "hasEnquiries": false
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4510 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4511 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/contracts/items/properties/implementation/properties/milestones/items/properties/type/enum: u'Entrega - Para hitos de entrega, como la fecha en la que el bien, servicio u obra p\\xfablica debe de ser entregado.' is not one of [u'preProcurement', u'engagement', u'approval', u'assessment', u'delivery', u'reporting', u'financing', None]\nproperties/tender/properties/submissionMethod/type: u'Presencial' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0002", 
+  "clave_procedimiento": 2
+}

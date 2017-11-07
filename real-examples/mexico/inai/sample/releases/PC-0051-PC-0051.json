@@ -1,0 +1,338 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "title": "Servicio de soporte y mantenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+          "documentType": "Contrato firmado", 
+          "description": "Servicio de soporte y mantenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+          "language": "es", 
+          "id": 53
+        }
+      ], 
+      "description": "Servicio de soporte y mantenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+      "title": "Servicio de soporte y mantenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+      "implementation": {
+        "transactions": [
+          {
+            "payee": {
+              "id": "RFC-ECS990412CZ6", 
+              "name": "EMC Computer Systems de M\u00e9xico, S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN"
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 344509.58
+            }
+          }, 
+          "description": "Servicio de soporte y mentenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicio de mantenimiento, prevencion correccion y conservacion de equipo informatico", 
+            "id": 35300001
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-04-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 274
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 344509.58
+      }, 
+      "dateSigned": "2017-04-18T00:00:00Z", 
+      "awardID": "OA/A051", 
+      "id": "OA/C026/17"
+    }
+  ], 
+  "ocid": "PC-0051", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.189Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-230", 
+    "name": "DGTI"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "documentType": "Plan de contrataciones", 
+        "id": 103
+      }, 
+      {
+        "id": 104, 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "format": "PDF"
+      }, 
+      {
+        "id": 105, 
+        "title": "Resultado de la investigaci\u00f3n de mercado (texto incluido en la justificaci\u00f3n de la contrattaci\u00f3n)", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "description": "De conformidad con lo dispuesto en el segundo p\u00e1rrafo de la fracci\u00f3n I del numeral 6 \u201cAdjudicaciones conforme al art\u00edculo 41 del Reglamento\u201d, Cap\u00edtulo IX \u201cDe la adjudicaci\u00f3n\u201d de las Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del INAI: \u201cPara acreditar que en el mercado s\u00f3lo existe un posible oferente, o se trata de una persona que posee la titularidad o el licenciamiento exclusivo de patentes, derechos de autor, u otros derechos exclusivos, se deber\u00e1n acompa\u00f1ar los documentos con los que se acredite tal situaci\u00f3n, como son los registros, t\u00edtulos, certificaciones, acuerdos comerciales, autorizaciones, designaciones, contratos de licenciamiento o cesi\u00f3n emitidos por o registrados ante las autoridades nacionales competentes en su caso, o conforme a las disposiciones o pr\u00e1cticas del pa\u00eds de origen, as\u00ed como con los que se determine el alcance o implicaciones jur\u00eddicas de los derechos mencionados.\u201d", 
+        "format": "PDF"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA12", 
+      "objetivo_estrategico": "OE3", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E003", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 770000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 35301, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E003OE3100230GOA1235301", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 230
+    }, 
+    "rationale": "Contratar el soporte y mantenimiento de los equipos de almacenamiento marca EMC, son el prop\u00f3sito de mantener la continuidad de la operaci\u00f3n del Centro de Procesamiento de Datos, adem\u00e1s de garantizar la integridad, la confidencialidad y la disponibilidad de la informaci\u00f3n y las aplicaciones institucionales"
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "title": "Oficio", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "description": "Oficio de notificaci\u00f3n de la adjudicaci\u00f3n", 
+          "language": "es", 
+          "id": 50
+        }
+      ], 
+      "description": "Contratar el soporte y mantenimiento de los equipos de almacenamiento marca EMC, son el prop\u00f3sito de mantener la continuidad de la operaci\u00f3n del Centro de Procesamiento de Datos, adem\u00e1s de garantizar la integridad, la confidencialidad y la disponibilidad de la informaci\u00f3n y las aplicaciones institucionales", 
+      "title": "Servicio de soporte y mentenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 344509.58
+            }
+          }, 
+          "description": "Servicio de soporte y mentenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicio de mantenimiento, prevencion correccion y conservacion de equipo informatico", 
+            "id": 35300001
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-ECS990412CZ6", 
+          "name": "EMC Computer Systems de M\u00e9xico, S.A. de C.V."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 344509.58
+      }, 
+      "date": "2017-04-01T00:00:00Z", 
+      "id": "OA/A051", 
+      "contractPeriod": {
+        "startDate": "2017-04-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 274
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGTI", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "joseluis.hernandez@inai.org.mx", 
+        "name": "Jos\u00e9 Luis Hern\u00e1ndez Santana", 
+        "telephone": "50042400 Ext. 2421"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 230, 
+        "legalName": "Direcci\u00f3n General de Tecnolog\u00edas de la Informaci\u00f3n"
+      }, 
+      "id": "CUA-230"
+    }, 
+    {
+      "name": "EMC Computer Systems de M\u00e9xico, S.A. de C.V.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 6500, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Paseo de la Reforma 505-39", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Cuauht\u00e9moc"
+      }, 
+      "contactPoint": {
+        "email": "eduardo.castellanos@dell.com", 
+        "name": "Eduardo Castellanos Beas", 
+        "telephone": "55 1037 0000"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "ECS990412CZ6", 
+        "legalName": "EMC Computer Systems de M\u00e9xico, S.A. de C.V."
+      }, 
+      "id": "RFC-ECS990412CZ6"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "identifier": {
+        "scheme": "RFC", 
+        "id": "ECS990412CZ6", 
+        "legalName": "EMC Computer Systems de M\u00e9xico, S.A. de C.V."
+      }, 
+      "id": "RFC-ECS990412CZ6", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "EMC Computer Systems de M\u00e9xico, S.A. de C.V."
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "status": "complete", 
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "durationInDays": 0
+    }, 
+    "mainProcurementCategory": "services", 
+    "description": "Contratar el soporte y mantenimiento de los equipos de almacenamiento marca EMC, son el prop\u00f3sito de mantener la continuidad de la operaci\u00f3n del Centro de Procesamiento de Datos, adem\u00e1s de garantizar la integridad, la confidencialidad y la disponibilidad de la informaci\u00f3n y las aplicaciones institucionales", 
+    "title": "Servicio de soporte y mentenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+    "enquiryPeriod": {
+      "durationInDays": 0
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-ECS990412CZ6", 
+        "name": "EMC Computer Systems de M\u00e9xico, S.A. de C.V."
+      }
+    ], 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 41)", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "awardCriteria": "Binario", 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 41)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "procurementMethodRationale": "Adjudicaci\u00f3n directa conforme a lo dispuesto por los art\u00edculos 20 fracci\u00f3n II, 40 y 41 fracci\u00f3n I del Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Federal de Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos", 
+    "contractPeriod": {
+      "startDate": "2017-04-01T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 274
+    }, 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 344509.58
+          }
+        }, 
+        "description": "Servicio de soporte y mantenimiento para la plataforma de almacenamiento marca EMC del Centro de Procesamiento de Datos", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Servicio de mantenimiento, prevencion correccion y conservacion de equipo informatico", 
+          "id": 35300001
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "hasEnquiries": false
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6500 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0051", 
+  "clave_procedimiento": 51
+}

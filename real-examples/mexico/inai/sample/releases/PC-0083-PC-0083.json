@@ -1,0 +1,517 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP03517/OAP03517.pdf", 
+          "title": "OA/P035/17", 
+          "datePublished": "2017-08-10T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 79
+        }
+      ], 
+      "description": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIOS", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 1530000
+            }
+          }, 
+          "description": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Materiales, utiles y equipos menores de tecnologias de la informacion y comunicaciones", 
+            "id": 2140
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-08-10T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 143
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1530000
+      }, 
+      "dateSigned": "2017-08-30T00:00:00Z", 
+      "awardID": "OA/A083", 
+      "id": "OA/P035/17"
+    }
+  ], 
+  "ocid": "PC-0083", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.372Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/P03517.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 222
+      }, 
+      {
+        "id": 223, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 224, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/P03517.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 225
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 226, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 1530000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 21401, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0221401", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "El almac\u00e9n de papeler\u00eda se ha visto rebasado en los requerimientos de cartucho de tinta de color y blanco/negro, debido a que las diferentes Unidades Administrativas deben de imprimir, programas, invitaciones, agradecimientos, discursos, recursos de revisi\u00f3n, acuerdos, resoluciones, etc.\n\nDe igual forma, la entrega de informaci\u00f3n impresa se ha elevado, debido a las nuevas tareas encomendadas en materia de transparencia, acceso a la informaci\u00f3n y protecci\u00f3n de datos personales, por lo que el uso de t\u00f3ner y cartuchos de tinta se ha incrementado.\nLa entrega de documentos impresos a los diferentes y nuevos sujetos obligados del \u00e1mbito federal, con referencia a temas de transparencia, ha ido en constante aumento por lo que la utilizaci\u00f3n de t\u00f3ner para imprimir dichos documentos es considerable, de esta manera los consumibles resultan insuficientes para atender los requerimientos del personal que labora en el Instituto.\n\nPor otra parte, el constante incremento en las requisiciones tanto ordinarias como extraordinarias de este producto ha ocasionado que el almac\u00e9n del INAI, en un periodo corto de tiempo se pueda encontrar en dif\u00edciles condiciones para atender la demanda de este bien."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/P03517.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 79
+        }
+      ], 
+      "description": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 1530000
+            }
+          }, 
+          "description": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Materiales, \u00fatiles y equipos menores de tecnolog\u00edas de la informaci\u00f3n y comunicaciones", 
+            "id": 2140
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-CIC8308165A4", 
+          "name": "CICOVISA SA DE CV"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1530000
+      }, 
+      "date": "2017-08-08T00:00:00Z", 
+      "id": "OA/A083", 
+      "contractPeriod": {
+        "startDate": "2017-08-10T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 143
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "CICOVISA SA DE CV", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 3100, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AMORES No. 135", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Juarez"
+      }, 
+      "contactPoint": {
+        "url": "WWW.CICOVISA.COM", 
+        "email": "GUZMANSILVIA@CICOVISA.COM.MX;", 
+        "name": "ALFREDO TORRES AMEZCUA", 
+        "telephone": 11070700
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CIC8308165A4", 
+        "legalName": "CICOVISA SA DE CV"
+      }, 
+      "id": "RFC-CIC8308165A4"
+    }, 
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "CICOVISA SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CIC8308165A4", 
+        "legalName": "CICOVISA SA DE CV"
+      }, 
+      "id": "RFC-CIC8308165A4", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 3100, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AMORES No. 135", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Juarez"
+      }
+    }, 
+    {
+      "name": "GIBHOR SMART SERVICES SAS DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "GSS161125TSA", 
+        "legalName": "GIBHOR SMART SERVICES SAS DE CV"
+      }, 
+      "id": "RFC-GSS161125TSA", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 3810, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 569", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Juarez"
+      }
+    }, 
+    {
+      "name": "GRUPO CONSU-OFFICE S DE RL DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "GCO140826EW1", 
+        "legalName": "GRUPO CONSU-OFFICE S DE RL DE CV"
+      }, 
+      "id": "RFC-GCO140826EW1", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 4480, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AVENIDA SANTA ANA EDIFICIO 8 INT. 003", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }
+    }, 
+    {
+      "name": "JB SYSTEM SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "JSY990706S26", 
+        "legalName": "JB SYSTEM SA DE CV"
+      }, 
+      "id": "RFC-JSY990706S26", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 72550, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "BLVD. VALSEQUILLO NUM 5927-5A", 
+        "region": "Puebla", 
+        "locality": "Puebla"
+      }
+    }, 
+    {
+      "name": "PRODUCTOS Y SERVICIOS ENBEST SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "PSE130527CD4", 
+        "legalName": "PRODUCTOS Y SERVICIOS ENBEST SA DE CV"
+      }, 
+      "id": "RFC-PSE130527CD4", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 54910, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "2DA DE CEDROS 1 MANZANA 5 LOTE12", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Tultitlan"
+      }
+    }, 
+    {
+      "name": "PROVEEDORA DE INSUMOS Y SERVICIOS DL SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "PIS160420PK6", 
+        "legalName": "PROVEEDORA DE INSUMOS Y SERVICIOS DL SA DE CV"
+      }, 
+      "id": "RFC-PIS160420PK6", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 9730, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "ERMITA IZTAPALAPA 3321, A2-402", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Iztapalapa"
+      }
+    }, 
+    {
+      "name": "REC 21 SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "RVE971128537", 
+        "legalName": "REC 21 SA DE CV"
+      }, 
+      "id": "RFC-RVE971128537", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 54030, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AV. HIDALGO 80", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Tlaneplantla"
+      }
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "open", 
+    "awardPeriod": {
+      "startDate": "2017-07-14T00:00:00Z", 
+      "endDate": "2017-08-08T00:00:00Z", 
+      "durationInDays": 25
+    }, 
+    "mainProcurementCategory": "goods", 
+    "enquiryPeriod": {
+      "startDate": "2017-07-14T00:00:00Z", 
+      "endDate": "2017-08-01T00:00:00Z", 
+      "durationInDays": 18
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 1530000
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-CIC8308165A4", 
+        "name": "CICOVISA SA DE CV"
+      }, 
+      {
+        "id": "RFC-GSS161125TSA", 
+        "name": "GIBHOR SMART SERVICES SAS DE CV"
+      }, 
+      {
+        "id": "RFC-GCO140826EW1", 
+        "name": "GRUPO CONSU-OFFICE S DE RL DE CV"
+      }, 
+      {
+        "id": "RFC-JSY990706S26", 
+        "name": "JB SYSTEM SA DE CV"
+      }, 
+      {
+        "id": "RFC-PSE130527CD4", 
+        "name": "PRODUCTOS Y SERVICIOS ENBEST SA DE CV"
+      }, 
+      {
+        "id": "RFC-PIS160420PK6", 
+        "name": "PROVEEDORA DE INSUMOS Y SERVICIOS DL SA DE CV"
+      }, 
+      {
+        "id": "RFC-RVE971128537", 
+        "name": "REC 21 SA DE CV"
+      }
+    ], 
+    "id": "LA-006HHE001-E45-2017", 
+    "description": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las fechas  en que deber\u00e1n presentarse las propuestas econ\u00f3micas y t\u00e9cnicas, su evaluaci\u00f3n y el fallo correspondiente.", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP03517/CONVOCATORIAP03517.pdf", 
+        "title": "Convocatoria a la Licitaci\u00f3n P\u00fablica", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 72
+      }
+    ], 
+    "title": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "NO APLICA", 
+    "contractPeriod": {
+      "startDate": "2017-08-10T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 143
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-07-14T00:00:00Z", 
+      "endDate": "2017-08-08T00:00:00Z"
+    }, 
+    "procurementMethodDetails": "Licitaci\u00f3n p\u00fablica", 
+    "additionalProcurementCategories": "Bienes - Adquisiciones", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 612000
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 1530000
+          }
+        }, 
+        "description": "Adquisici\u00f3n de consumibles para las impresoras del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Materiales, \u00fatiles y equipos menores de tecnolog\u00edas de la informaci\u00f3n y comunicaciones", 
+          "id": 2140
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se otorga la adjudicaci\u00f3n a quien cumpla la totalidad de los requerimientos t\u00e9cnicos, y cuta oferta sea la propuesta solvente m\u00e1s baja en precio.", 
+    "procurementMethodDetailsrespaldo": "Licitaci\u00f3n p\u00fablica", 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/contactPoint/properties/telephone/type: 11070700 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3100 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3100 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3810 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4480 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 54030 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 54910 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 72550 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 9730 is not of type u'string', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Bienes - Adquisiciones' is not of type u'array', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\n", 
+  "id": "PC-0083", 
+  "clave_procedimiento": 83
+}

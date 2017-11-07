@@ -1,0 +1,442 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP03217/OAP03217.pdf", 
+          "title": "OA/P032/17", 
+          "datePublished": "2017-07-14T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 76
+        }
+      ], 
+      "description": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+      "title": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIOS", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 1500000
+            }
+          }, 
+          "description": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Materiales complementarios", 
+            "id": 2480
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-07-14T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 170
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1500000
+      }, 
+      "dateSigned": "2017-08-01T00:00:00Z", 
+      "awardID": "OA/A080", 
+      "id": "OA/P032/17"
+    }
+  ], 
+  "ocid": "PC-0080", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.354Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/P03217.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 207
+      }, 
+      {
+        "id": 208, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 209, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "description": "Contiene la evaluaci\u00f3n de las propuestas presentadas durante la investigaci\u00f3n de mercado", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/P03217.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 210
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 211, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 1000000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 35101, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0235101", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "En la actualidad no se cuenta con los espacios libres para realizar los movimientos necesarios e instalar los m\u00f3dulos de trabajo que ser\u00e1n colocados en diferentes pisos del edificio sede del Instituto. De igual forma sucede con los espacios para las oficinas que se tengan que ubicar en el edificio sede del INAI, por lo que, al contratar a una persona f\u00edsica o moral para llevar a cabo las adecuaciones correspondientes, se conseguir\u00e1n los lugares de trabajo necesarios para los servidores p\u00fablicos de nuevo ingreso.\n\nAunado a lo anterior, se necesita de un espacio en donde pueda ser instalada la computadora que le sea asignada al servidor p\u00fablico, ya sea de escritorio o port\u00e1til, as\u00ed como el tel\u00e9fono y el cableado de los mismos, por lo que se requiere del desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos, los cuales ser\u00e1n instalados en la planta baja y en los pisos 1, 2 y 4 del inmueble sede del Instituto.\nEs importante se\u00f1alar que el Instituto cuenta con mamparas que han sobrado de m\u00f3dulos de trabajo que se han adecuado de una forma en espec\u00edfico a solicitud de los servidores p\u00fablicos usuarios o con el fin de ahorrar espacio en la instalaci\u00f3n."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/P03217.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 76
+        }
+      ], 
+      "description": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+      "title": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 1500000
+            }
+          }, 
+          "description": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Materiales complementarios", 
+            "id": 2480
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-ODC031015582", 
+          "name": "ODEKA DISE\u00d1O Y CONSTRUCCION SA DE CV"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1500000
+      }, 
+      "date": "2017-07-13T00:00:00Z", 
+      "id": "OA/A080", 
+      "contractPeriod": {
+        "startDate": "2017-07-14T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 170
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "ODEKA DISE\u00d1O Y CONSTRUCCION SA DE CV", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 6500, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "RIO GUADALQUIVIR 50 ALTOS 101-102", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }, 
+      "contactPoint": {
+        "url": "www.odeka.com.mx", 
+        "email": "enrique.aparicio@odeka.com.mx", 
+        "name": "ENRIQUE GARCIA BERNAL", 
+        "telephone": 525558881967
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "ODC031015582", 
+        "legalName": "ODEKA DISE\u00d1O Y CONSTRUCCION SA DE CV"
+      }, 
+      "id": "RFC-ODC031015582"
+    }, 
+    {
+      "name": "D&J INGENIERIA Y SERVICIOS S.A. DE C.V", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "DIS010709A10", 
+        "legalName": "D&J INGENIERIA Y SERVICIOS S.A. DE C.V"
+      }, 
+      "id": "RFC-DIS010709A10", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 6700, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "GUAYMAS 8-403", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }
+    }, 
+    {
+      "name": "MULTINACIONALES SANTANA SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "MSA121123C64", 
+        "legalName": "MULTINACIONALES SANTANA SA DE CV"
+      }, 
+      "id": "RFC-MSA121123C64", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 9520, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "RAFAEL MERINO MANZANA 26 B LOTE 3 PISO 2", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Iztapalapa"
+      }
+    }, 
+    {
+      "name": "ODEKA DISE\u00d1O Y CONSTRUCCION SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "ODC031015582", 
+        "legalName": "ODEKA DISE\u00d1O Y CONSTRUCCION SA DE CV"
+      }, 
+      "id": "RFC-ODC031015582", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 6500, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "RIO GUADALQUIVIR 50 ALTOS 101-102", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }
+    }, 
+    {
+      "name": "TEUFEL GROUP SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "TGR151028DB7", 
+        "legalName": "TEUFEL GROUP SA DE CV"
+      }, 
+      "id": "RFC-TGR151028DB7", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 9450, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "v. Plutarco Elias Calles 1758 Int 3", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Iztapalapa"
+      }
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "limited", 
+    "awardPeriod": {
+      "startDate": "2017-07-07T00:00:00Z", 
+      "endDate": "2017-07-13T00:00:00Z", 
+      "durationInDays": 6
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 1500000
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-ODC031015582", 
+        "name": "ODEKA DISE\u00d1O Y CONSTRUCCION SA DE CV"
+      }, 
+      {
+        "id": "RFC-DIS010709A10", 
+        "name": "D&J INGENIERIA Y SERVICIOS S.A. DE C.V"
+      }, 
+      {
+        "id": "RFC-MSA121123C64", 
+        "name": "MULTINACIONALES SANTANA SA DE CV"
+      }, 
+      {
+        "id": "RFC-TGR151028DB7", 
+        "name": "TEUFEL GROUP SA DE CV"
+      }
+    ], 
+    "id": "IA-006HHE001-E43-2017", 
+    "description": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las fechas  en que deber\u00e1n presentarse las propuestas econ\u00f3micas y t\u00e9cnicas, su evaluaci\u00f3n y el fallo correspondiente.", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP03217/CONVOCATORIAP03217.pdf", 
+        "title": "Convocatoria a la Licitaci\u00f3n P\u00fablica", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 69
+      }
+    ], 
+    "title": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Excepcion por monto", 
+    "contractPeriod": {
+      "startDate": "2017-07-14T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 170
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-07-07T00:00:00Z", 
+      "endDate": "2017-07-13T00:00:00Z"
+    }, 
+    "procurementMethodDetails": "Invitaci\u00f3n a cuando menos tres proveedores", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 600000
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 1500000
+          }
+        }, 
+        "description": "Suministro e instalaci\u00f3n de material complementario y realizaci\u00f3n del acondicionamiento de espacios y m\u00f3dulos de trabajo en el edificio sede del INAI, que incluyan el desarmado, armado, descableado y cableado el\u00e9ctrico de oficinas y/o m\u00f3dulos", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Materiales complementarios", 
+          "id": 2480
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se otorga la adjudicaci\u00f3n a quien cumpla la totalidad de los requerimientos t\u00e9cnicos, y cuta oferta sea la propuesta solvente m\u00e1s baja en precio.", 
+    "procurementMethodDetailsrespaldo": "Invitaci\u00f3n a cuando menos tres proveedores", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 525558881967 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6500 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6500 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6700 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 9450 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 9520 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0080", 
+  "clave_procedimiento": 80
+}

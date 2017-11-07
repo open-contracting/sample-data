@@ -1,0 +1,500 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC01717/OAC01717.pdf", 
+          "title": "OA/C017/17", 
+          "datePublished": "2017-01-31T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 62
+        }
+      ], 
+      "description": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "implementation": {
+        "transactions": [
+          {
+            "date": "2017-05-15T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SIJ140220BV9", 
+              "name": "Soluciones Integrales Jole, S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 8816
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-05-15T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SIJ140220BV9", 
+              "name": "Soluciones Integrales Jole, S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 8816
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-05-25T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SIJ140220BV9", 
+              "name": "Soluciones Integrales Jole, S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 8816
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-06-22T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SIJ140220BV9", 
+              "name": "Soluciones Integrales Jole, S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 8816
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-08-10T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SIJ140220BV9", 
+              "name": "Soluciones Integrales Jole, S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 8816
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-08-24T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SIJ140220BV9", 
+              "name": "Soluciones Integrales Jole, S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 8816
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 96976
+            }
+          }, 
+          "description": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios de jardineria y fumigacion", 
+            "id": 35901
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-02-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 333
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 96976
+      }, 
+      "dateSigned": "2017-02-17T00:00:00Z", 
+      "awardID": "OA/A066", 
+      "id": 1263698
+    }
+  ], 
+  "ocid": "PC-0066", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.272Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/C01717.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "datePublished": "2017-01-26T00:00:00Z", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 138
+      }, 
+      {
+        "id": 139, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 140, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }, 
+      {
+        "id": 141, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "description": "Contiene la evaluaci\u00f3n de las propuestas presentadas durante la investigaci\u00f3n de mercado", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/C01717.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "datePublished": "2017-01-26T00:00:00Z", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 142
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 115000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 35901, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0235901", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "El edificio sede del INAI, se conforma por una planta baja, cuatro niveles de oficinas, una azotea en donde se ubica el sal\u00f3n de usos m\u00faltiples y cuatro niveles de s\u00f3tanos. \n\nEn la zona de planta baja se encuentra instalado el comedor institucional, en donde se maneja todo tipo de comida para la realizaci\u00f3n diaria de los alimentos para los servidores p\u00fablicos que laboran en el INAI. La circulaci\u00f3n diaria de omida, favorece a que se puedan presentar plagas en la zona destinada al comedor.\n\nEs importante se\u00f1alar, que en los cuatro niveles de s\u00f3tanos se encuentran instaladas bodegas de resguardo asignadas a cada Unidad Administrativa, mientras que en el s\u00f3tano cuatro se encuentran varias bodegas que fueron realizadas a base de malla cicl\u00f3nica con el fin de otorgar mayor resguardo a las \u00e1reas que requirieran de na mayor seguridad acerca de los bienes que tienen a su encargo.\n\nLo anterior se hace menci\u00f3n debido a que en estos lugares encerrados con poco espacio, h\u00famedos y escasa luz es en donde se llegan a reunir varios insectos, ratones o cualquier tipo de plaga, las cuales resultan de suma importancia erradicar o evitar su propagaci\u00f3n.\n\nDe igual forma, la salud de los servidores p\u00fablicos del Instituto, es lo m\u00e1s importante para esta \u00e1rea requirente y debido al manejo de comida que se realiza d\u00eda con d\u00eda, resulta obvio que los insectos, moscas, escarabajos o incluso cucarachas y ratones busquen alimentarse de cualquier tipo de residuo que dejen los encargados del comedor del INAI.\n\nPor lo que esta Subdirecci\u00f3n de Servicios Generales considera de suma importancia, prevenir, controlar y en su caso, erradicar toda clase de infestaciones que se lleguen a presentar en la zona destinada al comedor y evitar cualquier propago de enfermedad a causa de alguna plaga que se llegue a presentar."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/C01717.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "datePublished": "2017-02-01T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 61
+        }
+      ], 
+      "description": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 96976
+            }
+          }, 
+          "description": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios de jardineria y fumigacion", 
+            "id": 35901
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-SIJ140220BV9", 
+          "name": "Soluciones Integrales Jole, S.A. de C.V."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 96976
+      }, 
+      "date": "2017-01-31T00:00:00Z", 
+      "id": "OA/A066", 
+      "contractPeriod": {
+        "startDate": "2017-02-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 333
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "Soluciones Integrales Jole, S.A. de C.V.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 52966, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Adolfo L\u00f3pez Mateos 27", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Atizap\u00e1n de Zaragoza"
+      }, 
+      "contactPoint": {
+        "email": "solucionesintegralesjole@hotmail.com", 
+        "name": "Jorge Luis Barr\u00f3n Soria", 
+        "telephone": "55 66508397"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "SIJ140220BV9", 
+        "legalName": "Soluciones Integrales Jole, S.A. de C.V."
+      }, 
+      "id": "RFC-SIJ140220BV9"
+    }, 
+    {
+      "name": "Control de Plagas Internacional Centinela S.A. de C.V.", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CPI0404017C3", 
+        "legalName": "Control de Plagas Internacional Centinela S.A. de C.V."
+      }, 
+      "id": "RFC-CPI0404017C3", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 54060, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Sind. Nacional de Electricistas No. 8 int. 8", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Tlalnepantla"
+      }
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1023, 
+        "legalName": "Francisco Raymundo Cuevas Jimenez"
+      }, 
+      "id": "IDPF-1023", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Francisco Raymundo Cuevas Jimenez"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1024, 
+        "legalName": "Marco Antonio Gardu\u00f1o Duarte"
+      }, 
+      "id": "IDPF-1024", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Marco Antonio Gardu\u00f1o Duarte"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "startDate": "2017-01-30T00:00:00Z", 
+      "endDate": "2017-01-31T00:00:00Z", 
+      "durationInDays": 1, 
+      "maxExtentDate": "-"
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 96976
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-SIJ140220BV9", 
+        "name": "Soluciones Integrales Jole, S.A. de C.V."
+      }
+    ], 
+    "id": "AA-006HHE001-E5-2017", 
+    "description": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las caracter\u00edsticas del servicio a contratar", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/ANEXOS/C01717.pdf", 
+        "title": "Anexo t\u00e9cnico para la contrataci\u00f3n del servicio de fumigaci\u00f3n en el edificio sede del INAI", 
+        "datePublished": "2017-01-27T00:00:00Z", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 56
+      }
+    ], 
+    "title": "Servicio de fumigaci\u00f3n en el edificio sede del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Excepci\u00f3n por monto.", 
+    "contractPeriod": {
+      "startDate": "2017-02-01T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 333
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-01-27T00:00:00Z", 
+      "endDate": "2017-01-30T00:00:00Z", 
+      "durationInDays": 3
+    }, 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 42)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "amount": "-"
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 96976
+          }
+        }, 
+        "description": "Servicio de fumigaci\u00f3n en el edificio sede del INAI", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Servicios de jardineria y fumigacion", 
+          "id": 3590
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se asigna al licitante que oferte la propuesta solvente m\u00e1s baja", 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 42)", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 52966 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 54060 is not of type u'string', u'null'\nproperties/contracts/items/properties/implementation/properties/transactions/uniqueItems: [{u'date': u'2017-05-15T00:00:00Z', u'payee': {u'id': u'RFC-SIJ140220BV9', u'name': u'Soluciones Integrales Jole, S.A. de C.V.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 8816}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-05-15T00:00:00Z', u'payee': {u'id': u'RFC-SIJ140220BV9', u'name': u'Soluciones Integrales Jole, S.A. de C.V.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 8816}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-05-25T00:00:00Z', u'payee': {u'id': u'RFC-SIJ140220BV9', u'name': u'Soluciones Integrales Jole, S.A. de C.V.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 8816}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-06-22T00:00:00Z', u'payee': {u'id': u'RFC-SIJ140220BV9', u'name': u'Soluciones Integrales Jole, S.A. de C.V.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 8816}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-08-10T00:00:00Z', u'payee': {u'id': u'RFC-SIJ140220BV9', u'name': u'Soluciones Integrales Jole, S.A. de C.V.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 8816}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}, {u'date': u'2017-08-24T00:00:00Z', u'payee': {u'id': u'RFC-SIJ140220BV9', u'name': u'Soluciones Integrales Jole, S.A. de C.V.'}, u'payer': {u'id': u'RFC-INA1402082Z8', u'name': u'INAI'}, u'value': {u'currency': u'MXN', u'amount': 8816}, u'source': u'Presupuesto de Egresos de la Federaci\\xf3n'}] has non-unique elements\nproperties/tender/properties/minValue/properties/amount/type: u'-' is not of type u'number', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0066", 
+  "clave_procedimiento": 66
+}
