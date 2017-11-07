@@ -1,0 +1,444 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Arrendamiento de equipo de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet", 
+          "language": "es", 
+          "format": "PDF", 
+          "title": "Arrendamiento de equipo de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet", 
+          "documentType": "Contrato firmado", 
+          "id": 27
+        }
+      ], 
+      "description": "Arrendamiento sin opci\u00f3n a compra de equipos de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet.", 
+      "title": "Arrendamiento sin opci\u00f3n a compra de equipos de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet.", 
+      "implementation": {
+        "transactions": [
+          {
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n", 
+            "uri": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC00317/OAC00317.PDF", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 140070
+            }, 
+            "payee": {
+              "id": "RFC-NGA030930KN0", 
+              "name": "New Gate, S.A. de C.V."
+            }, 
+            "date": "2017-02-27T00:00:00Z"
+          }, 
+          {
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n", 
+            "uri": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC00317/OAC00317.PDF", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 140070
+            }, 
+            "payee": {
+              "id": "RFC-NGA030930KN0", 
+              "name": "New Gate, S.A. de C.V."
+            }, 
+            "date": "2017-03-28T00:00:00Z"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 5932380
+            }
+          }, 
+          "description": "Arrendamiento de equipo de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Arrendamiento de equipo de computo y bienes informaticos", 
+            "id": 32300001
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2019-12-30T00:00:00Z", 
+        "durationInDays": 1093
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 5932380
+      }, 
+      "dateSigned": "2016-12-16T00:00:00Z", 
+      "awardID": "OA/A025", 
+      "id": 1307704
+    }
+  ], 
+  "ocid": "PC-0025", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.048Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-230", 
+    "name": "DGTI"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "id": 52, 
+        "documentType": "Investigaci\u00f3n de mercado"
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "documentType": "Plan de contrataciones", 
+        "id": 53
+      }, 
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 54
+      }, 
+      {
+        "description": "Titular del area requirente expone las ventajas de contratar el arrendamiento respecto de la adquisici\u00f3n de los equipos", 
+        "language": "es", 
+        "format": "PDF", 
+        "title": "Estudio de Factibilidad de Arrendamiento para el arrendamiento sin opci\u00f3n a compra de equipos de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de intenet", 
+        "documentType": "Estudio de factibilidad", 
+        "id": 55
+      }, 
+      {
+        "description": "Documento interno que resume los datos obtenidos de las fuentes consultadas para realizar la investigaci\u00f3n de mercado y conocer si el bien, arrendamiento o servicio a contratar existe en la cantidad, calidad y oportunidad requerida por la dependencia o entidad; con quien o quienes se puede obtener o contratar y qu\u00e9 precio estimado tiene.", 
+        "language": "es", 
+        "format": "PDF", 
+        "title": "FO-CON-5 \"Investigaci\u00f3n de Mercado\"", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 56
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA12", 
+      "objetivo_estrategico": "OE3", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E003", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 1352998.94
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 32301, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E003OE3100230GOA1232301", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 230
+    }
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Acta de fallo: Contrataci\u00f3n del servicio de mantenimiento a la red de cableado estructurado", 
+          "language": "es", 
+          "format": "PDF", 
+          "title": "Acta de fallo", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 20
+        }
+      ], 
+      "description": "Contrataci\u00f3n del arrendamiento sin opci\u00f3n a compra de equipos de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet, con el objetivo de mantener estable el tr\u00e1fico que cursa por los enlaces a internet del INAI, tanto de entrada como de salida, con base en la definici\u00f3n de prioridades y calidad del servicio que el Instituto defina, para ello se analiza, con equipos especializados, el tr\u00e1fico actual, para despu\u00e9s poder optimizarlo, conforme a las necesidades descubiertas y con base en la capacidad de los enlaces. La referida contrataci\u00f3n se realizar\u00e1 mediante el procedimiento de Licitaci\u00f3n P\u00fablica Nacional, a fin de asegurar para el Instituto las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y dem\u00e1s circunstancias pertinentes.", 
+      "title": "Arrendamiento sin opci\u00f3n a compra de equipos de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet.", 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 5932380
+            }
+          }, 
+          "description": "Arrendamiento de equipo de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Arrendamiento de equipo de computo y bienes informaticos", 
+            "id": 32300001
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-NGA030930KN", 
+          "name": "New Gate"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 5932380
+      }, 
+      "date": "2016-11-29T00:00:00Z", 
+      "id": "OA/A025", 
+      "contractPeriod": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2019-12-30T00:00:00Z", 
+        "durationInDays": 1093
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGTI", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "joseluis.hernandez@inai.org.mx", 
+        "name": "Jos\u00e9 Luis Hern\u00e1ndez Santana", 
+        "telephone": "50042400 Ext. 2421"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 230, 
+        "legalName": "Direcci\u00f3n General de Tecnolog\u00edas de la Informaci\u00f3n"
+      }, 
+      "id": "CUA-230"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "INFOBRAIN", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "INF070614S84", 
+        "legalName": "Infobrain, S.A. de C.V."
+      }, 
+      "id": "RFC-INF070614S84", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 11590, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Thiers 261 Desp. 7", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Miguel Hidalgo"
+      }
+    }, 
+    {
+      "name": "LB Sistemas", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "LSI090130BR5", 
+        "legalName": "LB Sistemas, S.A. de C.V."
+      }, 
+      "id": "RFC-LSI090130BR5", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 53330, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Calle Bohemia n\u00fam 4", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Naucalpan de Ju\u00e1rez"
+      }
+    }, 
+    {
+      "name": "New Gate", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "NGA030930KN", 
+        "legalName": "New Gate, S.A. de C.V."
+      }, 
+      "id": "RFC-NGA030930KN", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 6470, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Benjamin Hill 150", 
+        "region": "M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }
+    }, 
+    {
+      "name": "New Gate", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 6470, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Benjamin Hill 150", 
+        "region": "M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }, 
+      "contactPoint": {
+        "url": "http://newgate.mx/", 
+        "email": "ubarbosa@newgate.mx", 
+        "name": "Jaime Ulises Barbosa Valencia", 
+        "telephone": "5277 1075, 2614 5539"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "NGA030930KN", 
+        "legalName": "New Gate, S.A. de C.V."
+      }, 
+      "id": "RFC-NGA030930KN"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "open", 
+    "awardPeriod": {
+      "durationInDays": 0
+    }, 
+    "mainProcurementCategory": "services", 
+    "enquiryPeriod": {
+      "startDate": "2016-11-16T00:00:00Z", 
+      "endDate": "2016-11-16T00:00:00Z", 
+      "durationInDays": 0
+    }, 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 2372952
+    }, 
+    "value": {
+      "currency": "MXN", 
+      "amount": 5932380
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-INF070614S84", 
+        "name": "INFOBRAIN"
+      }, 
+      {
+        "id": "RFC-LSI090130BR5", 
+        "name": "LB Sistemas"
+      }, 
+      {
+        "id": "RFC-NGA030930KN", 
+        "name": "New Gate"
+      }
+    ], 
+    "id": "LA-006HHE001-E142-2016", 
+    "description": "Arrendamiento sin opci\u00f3n a compra de equipos de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet.", 
+    "title": "Arrendamiento sin opci\u00f3n a compra de equipos de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "NO APLICA", 
+    "contractPeriod": {
+      "startDate": "2017-01-01T00:00:00Z", 
+      "endDate": "2019-12-31T00:00:00Z", 
+      "durationInDays": 1094
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "durationInDays": 0
+    }, 
+    "procurementMethodDetails": "Licitaci\u00f3n p\u00fablica", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 5932380
+          }
+        }, 
+        "description": "Arrendamiento de equipo de an\u00e1lisis de protocolos para mejorar el desempe\u00f1o en enlaces de internet", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Arrendamiento de equipo de computo y bienes informaticos", 
+          "id": 32300001
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "De conformidad con lo establecido en el Art\u00edculo 34, segundo p\u00e1rrafo del Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Federal de Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos y el Cap\u00edtulo VIII, numeral 2, de las Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales, se considera procedente el criterio de evaluaci\u00f3n binario, toda vez que los servicios y los bienes a adquirir son est\u00e1ndares en el mercado y el factor preponderante para el fallo, ser\u00e1 el precio m\u00e1s bajo.", 
+    "procurementMethodDetailsrespaldo": "Licitaci\u00f3n p\u00fablica", 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 11590 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 53330 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6470 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6470 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0025", 
+  "clave_procedimiento": 25
+}

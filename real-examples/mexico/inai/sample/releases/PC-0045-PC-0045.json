@@ -1,0 +1,357 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+          "language": "es", 
+          "format": "PDF", 
+          "title": "CONV-CONCERTACI\u00d3N-PROSEDE 011/2017", 
+          "datePublished": "2017-03-09T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 47
+        }
+      ], 
+      "description": "Se desarrollor\u00e1 el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\", con el objetivo de construir conocimientos y habilidades en 80 ni\u00f1as, ni\u00f1os y adolescentes residentes de los cuatro centros de asistencia social de Hogares Providencia, para que sean sujetos activos en la exigencia y ejercicio de su derecho a buscar y recibir informaci\u00f3n completa, veraz, adecuada y oportuna, garantizando los conocimientos necesarios para que promuevan y exijan el derecho a la protecci\u00f3n de sus datos personales.", 
+      "title": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+      "implementation": {
+        "transactions": [
+          {
+            "payee": {
+              "id": "RFC-HPR791129PV8", 
+              "name": "Hogares Providencia, I.A.P."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 187663.6
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 187663.6
+            }
+          }, 
+          "description": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Asesorias para la operacion de programas", 
+            "id": 33100002
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-06-15T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 199, 
+        "maxExtentDate": 0
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 187663.6
+      }, 
+      "dateSigned": "2017-06-15T00:00:00Z", 
+      "awardID": "OA/A045", 
+      "id": "CONV-CONCERTACI\u00d3N-PROSEDE 011/2017"
+    }
+  ], 
+  "ocid": "PC-0045", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.156Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-260", 
+    "name": "DGPVS"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "datePublished": "2017-03-09T00:00:00Z", 
+        "documentType": "Plan de contrataciones", 
+        "id": 97
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA08", 
+      "objetivo_estrategico": "OE2", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E002", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 187663.6
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33104, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E002OE2100260GOA0833104", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 260
+    }, 
+    "rationale": "Se\u00a0desarrollor\u00e1 el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\", con el objetivo de construir conocimientos y habilidades en 80 ni\u00f1as, ni\u00f1os y adolescentes residentes de los cuatro centros de asistencia social de Hogares Providencia, para que sean sujetos activos en la exigencia y ejercicio de su derecho a buscar y recibir informaci\u00f3n completa, veraz, adecuada y oportuna, garantizando los conocimientos necesarios para que promuevan y exijan el derecho a la protecci\u00f3n de sus datos personales."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Se desarrollor\u00e1 el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\", con el objetivo de construir conocimientos y habilidades en 80 ni\u00f1as, ni\u00f1os y adolescentes residentes de los cuatro centros de asistencia social de Hogares Providencia, para que sean sujetos activos en la exigencia y ejercicio de su derecho a buscar y recibir informaci\u00f3n completa, veraz, adecuada y oportuna, garantizando los conocimientos necesarios para que promuevan y exijan el derecho a la protecci\u00f3n de sus datos personales.", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "En informe final se publicar\u00e1 una vez concluido el servicio", 
+          "title": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+          "datePublished": "2017-03-09T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 44
+        }
+      ], 
+      "description": "Se desarrollor\u00e1 el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\", con el objetivo de construir conocimientos y habilidades en 80 ni\u00f1as, ni\u00f1os y adolescentes residentes de los cuatro centros de asistencia social de Hogares Providencia, para que sean sujetos activos en la exigencia y ejercicio de su derecho a buscar y recibir informaci\u00f3n completa, veraz, adecuada y oportuna, garantizando los conocimientos necesarios para que promuevan y exijan el derecho a la protecci\u00f3n de sus datos personales.", 
+      "title": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 187663.6
+            }
+          }, 
+          "description": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Asesorias para la operacion de programas", 
+            "id": 33100002
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-HPR791129PV8", 
+          "name": "Hogares Providencia, I.A.P."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 187663.6
+      }, 
+      "date": "2017-06-15T00:00:00Z", 
+      "id": "OA/A045", 
+      "contractPeriod": {
+        "startDate": "2017-06-15T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 199, 
+        "maxExtentDate": 0
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGPVS", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e0lez", 
+        "telephone": "50042400 ext.2440"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 260, 
+        "legalName": "Direcci\u00f3n General de Promoci\u00f3n y Vinculaci\u00f3n con la Sociedad"
+      }, 
+      "id": "CUA-260"
+    }, 
+    {
+      "name": "Hogares Providencia, I.A.P.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 3330, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Mayorazgo de la Higuera 8", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Ju\u00e1rez"
+      }, 
+      "contactPoint": {
+        "url": "http://www.hogaresprovidencia.org.mx/", 
+        "email": "proyectos@hogaresprovidencia.org.mx", 
+        "name": "Carlos Modesto Toriz", 
+        "telephone": 5568101958
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "HPR791129PV8", 
+        "legalName": "Hogares Providencia, I.A.P."
+      }, 
+      "id": "RFC-HPR791129PV8"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "identifier": {
+        "scheme": "RFC", 
+        "id": "HPR791129PV8", 
+        "legalName": "Hogares Providencia, I.A.P."
+      }, 
+      "id": "RFC-HPR791129PV8", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Hogares Providencia, I.A.P."
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "startDate": "2017-06-15T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 199, 
+      "maxExtentDate": 0
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Presencial", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 187663.6
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-HPR791129PV8", 
+        "name": "Hogares Providencia, I.A.P."
+      }
+    ], 
+    "description": "Se desarrollor\u00e1 el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\", con el objetivo de construir conocimientos y habilidades en 80 ni\u00f1as, ni\u00f1os y adolescentes residentes de los cuatro centros de asistencia social de Hogares Providencia, para que sean sujetos activos en la exigencia y ejercicio de su derecho a buscar y recibir informaci\u00f3n completa, veraz, adecuada y oportuna, garantizando los conocimientos necesarios para que promuevan y exijan el derecho a la protecci\u00f3n de sus datos personales.", 
+    "documents": [
+      {
+        "description": "Se desarrollor\u00e1 el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\", con el objetivo de construir conocimientos y habilidades en 80 ni\u00f1as, ni\u00f1os y adolescentes residentes de los cuatro centros de asistencia social de Hogares Providencia, para que sean sujetos activos en la exigencia y ejercicio de su derecho a buscar y recibir informaci\u00f3n completa, veraz, adecuada y oportuna, garantizando los conocimientos necesarios para que promuevan y exijan el derecho a la protecci\u00f3n de sus datos personales.", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGPVS/edca/AT-CONV-CON-PROSEDE 011-2017.pdf", 
+        "title": "Anexo t\u00e9cnico para el servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+        "datePublished": "2017-03-09T00:00:00Z", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 40
+      }
+    ], 
+    "title": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Adjudicaci\u00f3n directa con fundamento en el articulo 1 del Reglamento de Adquisiciones, Arrendamientos y Servicios del IFAI", 
+    "contractPeriod": {
+      "startDate": "2017-06-15T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 199
+    }, 
+    "status": "active", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "durationInDays": 0
+    }, 
+    "procurementMethodDetails": "Excepci\u00f3n al reglamento (art. 1)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN"
+    }, 
+    "submissionMethodDetails": "Presencial", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 187663.6
+          }
+        }, 
+        "description": "Servicio de asesor\u00eda profesional para desarrollar el proyecto denominado \"Ejerzo mis Derechos al Acceso a la Informaci\u00f3n y a la Protecci\u00f3n de Mis Datos Personales: proyecto enfocado a construir competencias de respeto y exigibilidad de derechos sociales en ni\u00f1as, ni\u00f1os y adolescentes residentes en Hogares Providencia\"", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Asesorias para la operacion de programas", 
+          "id": 33100002
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "De conformidad con lo establecido en las Bases de la convocatoria del Programa de Sensibilizaci\u00f3n de Derechos de Acceso a la Informaci\u00f3n P\u00fablica y de Protecci\u00f3n de Datos Personales PROSEDE INAI 2017", 
+    "procurementMethodDetailsrespaldo": "Excepci\u00f3n al reglamento (art. 1)", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/awards/items/properties/contractPeriod/properties/maxExtentDate/type: 0 is not of type u'string', u'null'\nproperties/contracts/items/properties/period/properties/maxExtentDate/type: 0 is not of type u'string', u'null'\nproperties/tender/properties/awardPeriod/properties/maxExtentDate/type: 0 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3330 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 5568101958 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Presencial' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0045", 
+  "clave_procedimiento": 45
+}

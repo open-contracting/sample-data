@@ -1,0 +1,374 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "terminated", 
+      "documents": [
+        {
+          "description": "Documento que contiene las especif\u00edcaciones t\u00e9cnicas y caracteristicas generales que se requieren para el servicio Integral para el Foro: \"Balance de la Iniciativa de la Ley General de Archivos\"; as\u00ed como objetivo del evento, lugar y fecha de realizaci\u00f3n, tiempos de entrega, vigencia y formas de pago.", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00617/OAP00617.PDF", 
+          "title": "Anexo Tecnico OA/POOG/17", 
+          "datePublished": "2017-01-31T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 21
+        }
+      ], 
+      "description": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+      "title": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+      "implementation": {
+        "transactions": [
+          {
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n", 
+            "uri": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00617/OAP00617.PDF", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 53360
+            }, 
+            "payee": {
+              "id": "RFC-GVS1303084B9", 
+              "name": "Grupo Viajes Sameva, S.A. de C.V."
+            }, 
+            "date": "2017-02-14T00:00:00Z"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 53360
+            }
+          }, 
+          "description": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Congresos y convenciones", 
+            "id": 38300001
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-01-27T00:00:00Z", 
+        "endDate": "2017-02-03T00:00:00Z", 
+        "durationInDays": 7
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 73495.33
+      }, 
+      "dateSigned": "2017-01-31T00:00:00Z", 
+      "awardID": "OA/A020", 
+      "id": 1365398
+    }
+  ], 
+  "ocid": "PC-0020", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.019Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-240", 
+    "name": "DGGIE"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "datePublished": "2017-01-24T00:00:00Z", 
+        "documentType": "Plan de contrataciones", 
+        "id": 43
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA01", 
+      "objetivo_estrategico": "OE2", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E002", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 73495
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 38301, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E002OE2100240GOA0138301", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 240
+    }
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Dictamen t\u00e9cnico: Servicio Integral para el Foro \"Balance de la Iniciativa de la Ley General de Archivos\"", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "https://compranet.funcionpublica.gob.mx/esop/toolkit/opportunity/opportunityDetail.do?opportunityId=1056127&oppList=PAST", 
+          "title": "Dictamen T\u00e9cnico", 
+          "datePublished": "2017-01-26T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 14
+        }
+      ], 
+      "description": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+      "title": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 53360
+            }
+          }, 
+          "description": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Congresos y convenciones", 
+            "id": 38300001
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-GVS1303084B9", 
+          "name": "Grupo Sameva"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 53360
+      }, 
+      "date": "2017-01-26T00:00:00Z", 
+      "id": "OA/A020", 
+      "contractPeriod": {
+        "startDate": "2017-01-30T00:00:00Z", 
+        "endDate": "2017-02-03T00:00:00Z", 
+        "durationInDays": 4
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGGIE", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "alfonso.rojas@inai.org.mx", 
+        "name": "Alfonso Rojas Vega", 
+        "telephone": 5550042459
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 240, 
+        "legalName": "Direcci\u00f3n General de Gesti\u00f3n de Informaci\u00f3n y Estudios"
+      }, 
+      "id": "CUA-240"
+    }, 
+    {
+      "name": "Grupo Sameva", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 6500, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Paseo de la Reforma 199", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }, 
+      "contactPoint": {
+        "url": "http://www.sameva.com", 
+        "email": "atoledo@gsameva.com", 
+        "name": "Christi\u00e1n Enrique Clapes Castells", 
+        "telephone": 54421234
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "GVS1303084B9", 
+        "legalName": "Grupo Viajes Sameva, S.A. de C.V."
+      }, 
+      "id": "RFC-GVS1303084B9"
+    }, 
+    {
+      "name": "Grupo Sameva", 
+      "identifier": {
+        "scheme": "RFC", 
+        "id": "GVS1303084B9", 
+        "legalName": "Grupo Sameva"
+      }, 
+      "id": "RFC-GVS1303084B9", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 6501, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Paseo de la Reforma 200", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "durationInDays": 0
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 73495.33
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-GVS1303084B9", 
+        "name": "Grupo Sameva"
+      }
+    ], 
+    "id": "AA-006HHE001-E2-2017", 
+    "description": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+    "documents": [
+      {
+        "description": "Documento que contiene las\u00a0especif\u00edcaciones t\u00e9cnicas y caracteristicas generales que se requieren para el servicio Integral para el Foro: \"Balance de la Iniciativa de la Ley General de Archivos\"; as\u00ed como objetivo del evento, lugar y\u00a0fecha de realizaci\u00f3n, tiempos de entrega, vigencia y formas de pago.", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "https://compranet.funcionpublica.gob.mx/esop/toolkit/opportunity/opportunityDetail.do?opportunityId=1056127&oppList=PAST", 
+        "title": "Anexo T\u00e9cnico para el servicio Integral para el Foro: \"Balance de la Iniciativa de la Ley General de Archivos\"", 
+        "datePublished": "2017-01-24T00:00:00Z", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 23
+      }, 
+      {
+        "description": "La \"Fiesta de la Verdad, Colima 2017\", busca sensibilizar a la poblaci\u00f3n de los diversos sectores que integran la sociedad del pa\u00eds, acerca de la utilidad los derechos de acceso a la informaci\u00f3n y de protecci\u00f3n de datos personales, como herramientas indispensables en beneficio de la calidad de vida de los ciudadanos. Asimismo, permitir\u00e1 fomentar la cultura de la transparencia, por medio de la ampliaci\u00f3n del conocimiento, a trav\u00e9s de asesor\u00edas, entrega de materiales informativos y promocionales, actividades l\u00fadicas, como incentivos y material de apoyo ciudadano, entre la poblaci\u00f3n del Estado de Colima.", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGPVS/edca/AT OA-P021-17.pdf", 
+        "title": "Anexo t\u00e9cnico para el servicio integral que atienda diversos\nrequerimientos necesarios para realizar el evento: Fiesta de la Verdad Colima\n2017.", 
+        "datePublished": "2017-05-22T00:00:00Z", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 24
+      }
+    ], 
+    "title": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Excepci\u00f3n por monto.", 
+    "contractPeriod": {
+      "durationInDays": 0
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-01-24T00:00:00Z", 
+      "endDate": "2017-01-25T00:00:00Z", 
+      "durationInDays": 1
+    }, 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 42)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 43268
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 53360
+          }
+        }, 
+        "description": "Servicio integral para el desarrollo del Foro: \"Balance sobre la iniciativa de la Ley General de Archivos\".", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Congresos y convenciones", 
+          "id": 38300001
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "De conformidad con lo establecido en el Art\u00edculo 34, segundo p\u00e1rrafo del Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Federal de Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos y el Cap\u00edtulo VIII, numeral 2, de las Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales, se considera procedente el criterio de evaluaci\u00f3n binario, toda vez que los servicios y los bienes a adquirir son est\u00e1ndares en el mercado y el factor preponderante para el fallo, ser\u00e1 el precio m\u00e1s bajo.", 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 42)", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 54421234 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 5550042459 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6500 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6501 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0020", 
+  "clave_procedimiento": 20
+}

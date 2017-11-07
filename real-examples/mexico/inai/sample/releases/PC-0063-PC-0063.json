@@ -1,0 +1,323 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "amendments": [
+        {
+          "date": "2017-08-21T00:00:00Z", 
+          "description": "Ampliaci\u00f3n de los servicios de objeto del contrato consistentes en la prestaci\u00f3n del servicio de consultor\u00eda jur\u00eddica en materia laboral", 
+          "rationale": "Dar continuidad a la prestaci\u00f3n del servicio de asesor\u00eda en materia de derecho laboral a fin de atender las contingencias que en esta materia se han interpuesto en contra del Instituto debido a la movilidad de su personal.", 
+          "id": "Servicio de Consultor\u00eda Jur\u00eddica en Materia Laboral"
+        }
+      ], 
+      "description": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+      "title": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+      "implementation": {
+        "transactions": [
+          {
+            "date": "2017-02-20T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SJA9903124E2", 
+              "name": "Servicios Jur\u00eddicos Almanza, S.C."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 4640
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }, 
+          {
+            "date": "2017-03-13T00:00:00Z", 
+            "payee": {
+              "id": "RFC-SJA9903124E2", 
+              "name": "Servicios Jur\u00eddicos Almanza, S.C."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 29000
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "id": "CUA-160", 
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 361920
+            }
+          }, 
+          "description": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Otras asesorias para la operacion de programas", 
+            "id": 33104
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 364
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 361920
+      }, 
+      "dateSigned": "2017-01-13T00:00:00Z", 
+      "awardID": "OA/A063", 
+      "id": 1237694
+    }
+  ], 
+  "ocid": "PC-0063", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.253Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-160", 
+    "name": "DGAJ"
+  }, 
+  "planning": {
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA01", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E004", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 361920
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33104, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E004OE4100160GOA0133104", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 160
+    }
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "description": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+      "title": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+      "items": [
+        {
+          "id": "CUA-160", 
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 361920
+            }
+          }, 
+          "description": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Otras asesorias para la operacion de programas", 
+            "id": 33104
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-SJA9903124E2", 
+          "name": "Servicios Jur\u00eddicos Almanza, S.C."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 361920
+      }, 
+      "date": "2016-12-27T00:00:00Z", 
+      "id": "OA/A063", 
+      "contractPeriod": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 364
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGAJ", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 160, 
+        "legalName": "Direcci\u00f3n General de Asuntos Jur\u00eddicos"
+      }, 
+      "id": "CUA-160"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "Servicios Jur\u00eddicos Almanza, S.C.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 6600, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Rio Nilo 88", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Cuauhtemoc"
+      }, 
+      "contactPoint": {
+        "email": "rigoberto@almanzaabogados.com", 
+        "name": "Rigoberto Delfino Almanza Vega", 
+        "telephone": 52075301
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "SJA9903124E2", 
+        "legalName": "Servicios Jur\u00eddicos Almanza, S.C."
+      }, 
+      "id": "RFC-SJA9903124E2"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "direct", 
+    "awardPeriod": {
+      "startDate": "2016-12-20T00:00:00Z", 
+      "endDate": "2016-12-27T00:00:00Z", 
+      "durationInDays": 7
+    }, 
+    "mainProcurementCategory": "services", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 190000
+    }, 
+    "value": {
+      "currency": "MXN", 
+      "amount": 361920
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-SJA9903124E2", 
+        "name": "Servicios Jur\u00eddicos Almanza, A.C."
+      }
+    ], 
+    "id": "AA-006HHE001-E196-2016", 
+    "description": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+    "title": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "Excepci\u00f3n por monto.", 
+    "contractPeriod": {
+      "startDate": "2017-01-01T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 364
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2016-12-20T00:00:00Z", 
+      "endDate": "2016-12-26T00:00:00Z", 
+      "durationInDays": 6
+    }, 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 42)", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "id": "CUA-160", 
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 361920
+          }
+        }, 
+        "description": "Servicio de consultor\u00eda jur\u00eddica en materia laboral.", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Asesor\u00edas para la operaci\u00f3n de programas", 
+          "id": 33100002
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se otorga la adjudicaci\u00f3n a quien cumpla la totalidad de los requerimientos t\u00e9cnicos, y cuta oferta sea la propuesta solvente m\u00e1s baja en precio.", 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 42)", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 52075301 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 6600 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0063", 
+  "clave_procedimiento": 63
+}

@@ -1,0 +1,526 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01717/OAP01717.pdf", 
+          "title": "OA/P017/17", 
+          "datePublished": "2017-04-25T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 74
+        }
+      ], 
+      "description": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIOS", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 1000322.8
+            }
+          }, 
+          "description": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Productos alimenticios para personas", 
+            "id": 2210
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-04-25T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 250
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1000322.8
+      }, 
+      "dateSigned": "2017-05-15T00:00:00Z", 
+      "awardID": "OA/A078", 
+      "id": 1411092
+    }
+  ], 
+  "ocid": "PC-0078", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.342Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/P01717.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 197
+      }, 
+      {
+        "id": 198, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 199, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "description": "Contiene la evaluaci\u00f3n de las propuestas presentadas durante la investigaci\u00f3n de mercado", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/P01717.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 200
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 201, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 1000322.8
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 22104, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0222104", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "En el edificio sede del INAI se instalan diariamente 8 cafeteras en las \u00e1reas comunes de trabajo de los servidores p\u00fablicos,\u00a0cada cafetera tiene capacidad para un kilo y medio de caf\u00e9, el cual puede llegar a\nrendir, como m\u00e1ximo, cien tazas de caf\u00e9. Dichas cafeteras se vuelven a reabastecer hasta en tres ocasiones al d\u00eda, y aun as\u00ed en ciertas ocasiones resulta insuficiente.\nLas reuniones de trabajo celebradas en el edificio sede del INAI han venido en aumento a fin de atender asuntos relacionados con la materia de transparencia, acceso a la informaci\u00f3n y protecci\u00f3n de datos personales, por lo que las solicitudes de cafeter\u00eda se han incrementado.\n\nDe igual forma las cafeteras son instaladas en los eventos de capacitaci\u00f3n que se llevan a cabo d\u00eda con d\u00eda, lo mismo sucede en el Centro de Atenci\u00f3n a la Sociedad y las doce salas de juntas de trabajo que se encuentran en el edificio sede del INAI."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/P01717.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 74
+        }
+      ], 
+      "description": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 1000322.8
+            }
+          }, 
+          "description": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Productos alimenticios para personas", 
+            "id": 2210
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-CMO111004CI3", 
+          "name": "CAFE 1810 SA DE CV"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1000322.8
+      }, 
+      "date": "2017-04-24T00:00:00Z", 
+      "id": "OA/A078", 
+      "contractPeriod": {
+        "startDate": "2017-04-25T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 250
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "CAFE 1810 SA DE CV", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 54059, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AVENIDA EJIDOS DE SAN ANDRES N\u00b0 33", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Tlaneplantla"
+      }, 
+      "contactPoint": {
+        "url": "http://www.cafe1810.com/", 
+        "email": "cbeltran@cafe1810.com patricia@cafe1810.com", 
+        "name": "AGUSTIN FERNANDO REBOLLEDO CUBAS", 
+        "telephone": "52 55 52369854"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CMO111004CI3", 
+        "legalName": "CAFE 1810 SA DE CV"
+      }, 
+      "id": "RFC-CMO111004CI3"
+    }, 
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "ABA-MEXA SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "ABA121025PZ0", 
+        "legalName": "ABA-MEXA SA DE CV"
+      }, 
+      "id": "RFC-ABA121025PZ0", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 9840, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "PROLONGACION SILOS 54", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Iztapalapa"
+      }
+    }, 
+    {
+      "name": "CAFE 1810 SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CMO111004CI3", 
+        "legalName": "CAFE 1810 SA DE CV"
+      }, 
+      "id": "RFC-CMO111004CI3", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 54059, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AVENIDA EJIDOS DE SAN ANDRES N\u00b0 33", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Tlaneplantla"
+      }
+    }, 
+    {
+      "name": "GADXE SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "GAD170208PM0", 
+        "legalName": "GADXE SA DE CV"
+      }, 
+      "id": "RFC-GAD170208PM0", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 57700, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "SALTO DEL AGUA 250", 
+        "region": "Estado de M\u00e9xico", 
+        "locality": "Nezahualc\u00f3yotl"
+      }
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1027, 
+        "legalName": "GUILLERMO VALLE PRECIADO"
+      }, 
+      "id": "IDPF-1027", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "GUILLERMO VALLE PRECIADO"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1028, 
+        "legalName": "JACQUELINE LIZETTE RIOS APARICIO"
+      }, 
+      "id": "IDPF-1028", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "JACQUELINE LIZETTE RIOS APARICIO"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1029, 
+        "legalName": "MARCELINO GARCIA SOTO"
+      }, 
+      "id": "IDPF-1029", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "MARCELINO GARCIA SOTO"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1030, 
+        "legalName": "MARIA BERTHA GUILLERMINA PATRICIA CONTRERAS ESPINOSA"
+      }, 
+      "id": "IDPF-1030", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "MARIA BERTHA GUILLERMINA PATRICIA CONTRERAS ESPINOSA"
+    }, 
+    {
+      "name": "MKT ACTIVE GROUP SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "MAG150715SI0", 
+        "legalName": "MKT ACTIVE GROUP SA DE CV"
+      }, 
+      "id": "RFC-MAG150715SI0", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 9040, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "ZONA 1, SECCI\u00d3N 4, NAVE 2, B60", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Iztapalapa"
+      }
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1031, 
+        "legalName": "SAUL AYALA ARGUELLO"
+      }, 
+      "id": "IDPF-1031", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "SAUL AYALA ARGUELLO"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "open", 
+    "awardPeriod": {
+      "startDate": "2017-04-05T00:00:00Z", 
+      "endDate": "2017-04-24T00:00:00Z", 
+      "durationInDays": 19
+    }, 
+    "mainProcurementCategory": "services", 
+    "enquiryPeriod": {
+      "startDate": "2017-04-05T00:00:00Z", 
+      "endDate": "2017-04-17T00:00:00Z", 
+      "durationInDays": 12
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 1000322.8
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-CMO111004CI3", 
+        "name": "CAFE 1810 SA DE CV"
+      }, 
+      {
+        "id": "RFC-ABA121025PZ0", 
+        "name": "ABA-MEXA SA DE CV"
+      }, 
+      {
+        "id": "RFC-GAD170208PM0", 
+        "name": "GADXE SA DE CV"
+      }, 
+      {
+        "name": "GUILLERMO VALLE PRECIADO"
+      }, 
+      {
+        "name": "JACQUELINE LIZETTE RIOS APARICIO"
+      }, 
+      {
+        "name": "MARCELINO GARCIA SOTO"
+      }, 
+      {
+        "name": "MARIA BERTHA GUILLERMINA PATRICIA CONTRERAS ESPINOSA"
+      }, 
+      {
+        "id": "RFC-MAG150715SI0", 
+        "name": "MKT ACTIVE GROUP SA DE CV"
+      }, 
+      {
+        "name": "SAUL AYALA ARGUELLO"
+      }
+    ], 
+    "id": "LA-006HHE001-E25-2017", 
+    "description": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las fechas  en que deber\u00e1n presentarse las propuestas econ\u00f3micas y t\u00e9cnicas, su evaluaci\u00f3n y el fallo correspondiente.", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01717/CONVOCATORIAP01717.pdf", 
+        "title": "Convocatoria a la Licitaci\u00f3n P\u00fablica", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 67
+      }
+    ], 
+    "title": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "NO APLICA", 
+    "contractPeriod": {
+      "startDate": "2017-04-25T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 250
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-04-05T00:00:00Z", 
+      "endDate": "2017-04-24T00:00:00Z"
+    }, 
+    "procurementMethodDetails": "Licitaci\u00f3n p\u00fablica", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 400129.12
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 1000322.8
+          }
+        }, 
+        "description": "Suministro de insumos de cafeter\u00eda para el Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Productos alimenticios para personas", 
+          "id": 2210
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se otorga la adjudicaci\u00f3n a quien cumpla la totalidad de los requerimientos t\u00e9cnicos, y cuta oferta sea la propuesta solvente m\u00e1s baja en precio.", 
+    "procurementMethodDetailsrespaldo": "Licitaci\u00f3n p\u00fablica", 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 54059 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 54059 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 57700 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 9040 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 9840 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0078", 
+  "clave_procedimiento": 78
+}

@@ -1,0 +1,426 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "En el documento que contiene las obligaciones de cada una de las partes.", 
+          "language": "es", 
+          "format": ".pdf", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC01017/OAC01017.pdf", 
+          "title": "Contrato de Prestaci\u00f3n de Servicios que celebran por una parte el INAI y Juan Mart\u00edn Guerrero Rojas", 
+          "datePublished": "2017-01-05T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 9
+        }, 
+        {
+          "description": "Son los documentos anexos que intregan el contrato .", 
+          "language": "es", 
+          "format": ".pdf", 
+          "url": "http://inicio.inai.org.mx/doc/DGAP/EDCA/ANEXODELCONTRATO.pdf", 
+          "title": "Anexos del contrato de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del Pleno del Instituto Nacional de Transparencia Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales\u00a0", 
+          "datePublished": "2017-01-05T00:00:00Z", 
+          "documentType": "Anexos del contrato", 
+          "id": 10
+        }
+      ], 
+      "description": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "id": "OA/C010/17", 
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 140000000
+            }
+          }, 
+          "description": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del Pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Otros servicios comerciales", 
+            "uri": "http://inicio.inai.org.mx/doc/DGAP/EDCA/CUCoP2017.XLSX", 
+            "id": 33602
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-01-05T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z"
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1400000
+      }, 
+      "dateSigned": "2017-01-05T00:00:00Z", 
+      "awardID": "OA/A008", 
+      "id": "OA/C010/17"
+    }
+  ], 
+  "ocid": "PC-0008", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:42.956Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-710", 
+    "name": "DGAP"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": ".pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGAP/EDCA/JUSTIFICACION.PDF", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "datePublished": "2016-12-01T00:00:00Z", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 13
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "documentType": "Plan de contrataciones", 
+        "id": 14
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA04", 
+      "objetivo_estrategico": "OE1", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 1400000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33602, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E001OE1100710GOA0433602", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 710
+    }
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Dictamen Tecnico: Propuesta ganadora por la evaluaci\u00f3n econ\u00f3mica", 
+          "language": "es", 
+          "format": ".pdf", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC01017/DICTAMENC01017.pdf", 
+          "title": "Acta del fallo", 
+          "datePublished": "2016-12-16T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 5
+        }
+      ], 
+      "description": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "title": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+      "items": [
+        {
+          "unit": {
+            "name": "Servicio", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 140000000
+            }
+          }, 
+          "description": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para la sesiones del Pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Otros servicios comerciales", 
+            "uri": "http://inicio.inai.org.mx/doc/DGAP/EDCA/CUCoP2017.XLSX", 
+            "id": 33602
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "IDPF-1005", 
+          "name": "Juan Mart\u00edn Guerrero Rojas"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 1400000
+      }, 
+      "date": "2016-12-16T00:00:00Z", 
+      "id": "OA/A008", 
+      "contractPeriod": {
+        "startDate": "2017-01-05T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z"
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGAP", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "email": "rosa.barcena@inai.org.mx", 
+        "name": "Rosa Mar\u00eda B\u00e1rcena Canuas", 
+        "telephone": "52 5550042400 Ext. 2464"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 710, 
+        "legalName": "Direcci\u00f3n General de Atenci\u00f3n al Pleno"
+      }, 
+      "id": "CUA-710"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1001, 
+        "legalName": "Guadalupe Maribel Negrete Patricio"
+      }, 
+      "id": "IDPF-1001", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Guadalupe Maribel Negrete Patricio"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1002, 
+        "legalName": "H\u00e9ctor Espinoza Olalde"
+      }, 
+      "id": "IDPF-1002", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "H\u00e9ctor Espinoza Olalde"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1003, 
+        "legalName": "Juan Mart\u00edn Guerrero Rojas"
+      }, 
+      "id": "IDPF-1003", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Juan Mart\u00edn Guerrero Rojas"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1005, 
+        "legalName": "Juan Mart\u00edn Guerrero Rojas"
+      }, 
+      "id": "IDPF-1005", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "name": "Juan Mart\u00edn Guerrero Rojas"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "tipo_de_parte": "Persona f\u00edsica", 
+        "id": 1004, 
+        "legalName": "Ver\u00f3nica Morales Coria"
+      }, 
+      "id": "IDPF-1004", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Ver\u00f3nica Morales Coria"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "limited", 
+    "awardPeriod": {
+      "startDate": "2016-12-14T00:00:00Z", 
+      "endDate": "2016-12-16T00:00:00Z", 
+      "durationInDays": 2
+    }, 
+    "mainProcurementCategory": "services", 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 1400000
+    }, 
+    "tenderers": [
+      {
+        "id": "IDPF-1001", 
+        "name": "Guadalupe Maribel Negrete Patricio"
+      }, 
+      {
+        "id": "IDPF-1002", 
+        "name": "H\u00e9ctor Espinoza Olalde"
+      }, 
+      {
+        "id": "IDPF-1003", 
+        "name": "Juan Mart\u00edn Guerrero Rojas"
+      }, 
+      {
+        "id": "IDPF-1004", 
+        "name": "Ver\u00f3nica Morales Coria"
+      }
+    ], 
+    "id": "IA-006HHE001-E193-2016", 
+    "description": "Con el servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del Pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales, se contar\u00e1 con la evidencia documental que d\u00e9 constancia del desarrollo de las sesiones del Pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales, lo cual facilitar\u00e1 la difusi\u00f3n de las decisiones tomadas por el Pleno, a fin de garantizar el correcto ejercicio de los derechos de acceso a la informaci\u00f3n y protecci\u00f3n de datos personales, abonando a la transparencia y la rendici\u00f3n de cuentas.", 
+    "documents": [
+      {
+        "description": "Es el documento en el que se especifican los datos generales de identificaci\u00f3n, objet y alcance del procedimiento de contrataci\u00f3n, forma y t\u00e9rminos que regiran los actos del procedimiento de contrataci\u00f3n, obligaciones y responsabilidades del proveedor, evaluaci\u00f3n de las proposiciones y adjudicaci\u00f3n de la contrataci\u00f3n, documentos e informaci\u00f3n que deber\u00e1n presentar los licitantescomo parte de su proposici\u00f3n, sanciones e inconformidades, instrucciones para elaborar y remitir la proposici\u00f3n por medios remotos de comunicaci\u00f3n electr\u00f3nica (COMPRANET) y suspensi\u00f3n, cancelaci\u00f3n o declaratoria de desierto.", 
+        "language": "es", 
+        "format": ".pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC01017/CONVOCATORIAC01017.pdf", 
+        "title": "Convocatoria de invitaci\u00f3n a cuando menos tres proveedores", 
+        "datePublished": "2016-12-09T00:00:00Z", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 8
+      }, 
+      {
+        "description": "Es el documento donde ser establecen las especificaciones t\u00e9cnicas del servicio que se desea contratar.", 
+        "language": "es", 
+        "format": ".pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGAP/EDCA/ANEXOTECNICO.PDF", 
+        "title": "Anexo T\u00e9cnico", 
+        "datePublished": "2016-12-01T00:00:00Z", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 9
+      }, 
+      {
+        "description": "Es el documento en donde se evalua a cada uno de los licitantes participantes en la invitaci\u00f3n a cuando menos tres proveedores", 
+        "language": "es", 
+        "format": ".pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGAP/EDCA/Actapresentacionapertura.PDF", 
+        "title": "Acta de presentaci\u00f3n y apertura de proposiciones", 
+        "datePublished": "2016-12-14T00:00:00Z", 
+        "documentType": "Acta(s) de la(s) junta(s) de aclaraciones", 
+        "id": 10
+      }, 
+      {
+        "description": "Es el documento que contiene los datos de cada unos de los licitantes participantes", 
+        "language": "es", 
+        "format": ".pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGAP/EDCA/PARTICIPANTES.PDF", 
+        "title": "Informaci\u00f3n de los licitantes", 
+        "datePublished": "2016-12-09T00:00:00Z", 
+        "documentType": "Informaci\u00f3n de los licitantes", 
+        "id": 11
+      }
+    ], 
+    "title": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones del pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "EXCEPCION POR MONTO", 
+    "contractPeriod": {
+      "startDate": "2017-01-05T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z"
+    }, 
+    "status": "active", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2016-12-14T00:00:00Z", 
+      "endDate": "2016-12-16T00:00:00Z", 
+      "durationInDays": 2
+    }, 
+    "procurementMethodDetails": "Invitaci\u00f3n a cuando menos tres proveedores", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 840000
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "id": "IA-006HHE001-E193-2016", 
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 140000000
+          }
+        }, 
+        "description": "Servicio de estenograf\u00eda con transcripci\u00f3n simult\u00e1nea para las sesiones de Pleno del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "\n\nAsignaciones destinadas\na cubrir el pago de servicios de fotocopiado ordinario y especial, engargolado,\nencuadernaci\u00f3n, corte de papel, revelado fotogr\u00e1fico, impresi\u00f3n de papeler\u00eda y\notros servicios. Incluye los gastos de estacionamiento para los servidores\np\u00fablicos en su lugar de adscripci\u00f3n. Excluye las impresiones previstas en las\npartidas 33603 Impresiones de documentos oficiales para la prestaci\u00f3n de\nservicios p\u00fablicos, identificaci\u00f3n, formatos administrativos y fiscales, formas\nvaloradas, certificados y t\u00edtulos y 33604 Impresi\u00f3n y elaboraci\u00f3n de material\ninformativo derivado de la operaci\u00f3n y administraci\u00f3n de las dependencias y\nentidades.\n\n", 
+          "id": 33602008
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Los requisitos de la contratacion y la especificaci\u00f3n de los servicios est\u00e1n definidos en el documento de t\u00e9rminos de referencia para la contrataci\u00f3n del servicio, el cual ya cuenta con los criterios de comprobaci\u00f3n estandarizados que son necesarios para la evaluaci\u00f3n binaria. La utilizaci\u00f3n del criterior de evaluaci\u00f3n binaria para verificar el cumplimiento de las propuestas resultan m\u00e1s conveniente, toda vez que se trata de un servicio que ofrecen varios proveedores , por lo que dicho criterio de evaluaci\u00f3n permite mayores posibilidades de participaci\u00f3n de los licitantes especialistas en la materia de la contrataci\u00f3n. El criterio de evaluaci\u00f3n binaria permitir\u00e1 contratar al ofertante que presente el menor costo y cumpla con los requisitos establecidos para la presentaci\u00f3n de servicios en igualdad de condiciones para los licitantes participantes.", 
+    "procurementMethodDetailsrespaldo": "Invitaci\u00f3n a cuando menos tres proveedores", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0008", 
+  "clave_procedimiento": 8
+}

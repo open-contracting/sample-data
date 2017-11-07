@@ -1,0 +1,376 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Contrato firmado", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01217/OAP01217.pdf", 
+          "title": "Contrato firmado", 
+          "documentType": "Contrato firmado", 
+          "id": 11
+        }
+      ], 
+      "description": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+      "title": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+      "implementation": {
+        "transactions": [
+          {
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n", 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "uri": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01217/OAP01217.pdf", 
+            "value": {
+              "currency": "MXN"
+            }
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "value": {
+              "currency": "MXN", 
+              "amount": 249400
+            }
+          }, 
+          "description": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Otras asesorias para la operacion de programas", 
+            "id": 33104
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-03-15T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z"
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 249400
+      }, 
+      "dateSigned": "2017-03-29T00:00:00Z", 
+      "awardID": "OA/A009", 
+      "id": 1392939
+    }
+  ], 
+  "ocid": "PC-0009", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:42.963Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-440", 
+    "name": "DGPAR"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "url": "http://inicio.inai.org.mx/doc/DGPA/DGPAR/2017/Corpus%20Iuris/JustificacionCorpus.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "id": 15
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/PAAAS%20Segunda%20Actualizaci%C3%B3n%202017.pdf", 
+        "datePublished": "2017-03-01T00:00:00Z", 
+        "documentType": "Plan de contrataciones", 
+        "id": 16
+      }, 
+      {
+        "url": "http://inicio.inai.org.mx/doc/DGPA/DGPAR/2017/Corpus%20Iuris/Focon05Corpus.pdf", 
+        "title": "FO-CON-5 Resultado de la investigaci\u00f3n de mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "description": "Documento interno que resume los datos obtenidos de las fuentes consultadas para realizar la investigaci\u00f3n de mercado y conocer si el bien, arrendamiento o servicio a contratar existe en la cantidad, calidad y oportunidad requerida por la dependencia o entidad; con quien o quienes se puede obtener o contratar y qu\u00e9 precio estimado tiene.", 
+        "id": 17
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA05", 
+      "objetivo_estrategico": "OE2", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E002", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 300000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33104, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E002OE2100440GOA0533104", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 440
+    }
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Dictamen t\u00e9cnico: Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01217/DICTAMENP01217.pdf", 
+          "title": "Dictamen t\u00e9cnico: Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+          "datePublished": "2017-03-14T00:00:00Z", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 6
+        }
+      ], 
+      "description": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+      "title": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+      "items": [
+        {
+          "unit": {
+            "value": {
+              "currency": "MXN", 
+              "amount": 249400
+            }
+          }, 
+          "description": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Otras asesorias para la operacion de programas", 
+            "id": 33104
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-CME120111JS4", 
+          "name": "CFA de M\u00e9xico S.C."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 249400
+      }, 
+      "date": "2017-03-14T00:00:00Z", 
+      "id": "OA/A009", 
+      "contractPeriod": {
+        "startDate": "2017-03-15T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z"
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "identifier": {
+        "scheme": "RFC", 
+        "id": "CME120111JS4", 
+        "legalName": "CFA de M\u00e9xico"
+      }, 
+      "id": "RFC-CME120111JS4", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "CFA de M\u00e9xico"
+    }, 
+    {
+      "name": "CFA de M\u00e9xico S.C.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 11570, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Enrique Wallon 428 Piso 2", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Miguel Hidalgo"
+      }, 
+      "contactPoint": {
+        "email": "contacto@cfasociados.mx", 
+        "name": "Rogelio L\u00f3pez Fern\u00e1ndez", 
+        "telephone": "5254-4710"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CME120111JS4", 
+        "legalName": "CFA de M\u00e9xico S.C."
+      }, 
+      "id": "RFC-CME120111JS4"
+    }, 
+    {
+      "name": "DGPAR", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "adriana.baez@inai.org.mx", 
+        "name": "Mar\u00eda Adriana B\u00e1ez Ric\u00e1rdez", 
+        "telephone": "50042400 ext 2410"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 440, 
+        "legalName": "Direcci\u00f3n General de Prevenci\u00f3n y Autorregulaci\u00f3n"
+      }, 
+      "id": "CUA-440"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "identifier": {
+        "scheme": "IDPF", 
+        "id": 1038, 
+        "legalName": "Miguel Recio Gayo"
+      }, 
+      "id": "IDPF-1038", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Miguel Recio Gayo"
+    }, 
+    {
+      "identifier": {
+        "scheme": "RFC", 
+        "id": "7251864X", 
+        "legalName": "Pi\u00f1ar Ma\u00f1as y Asociados M\u00e9xico"
+      }, 
+      "id": "RFC-7251864X", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Pi\u00f1ar Ma\u00f1as y Asociados M\u00e9xico"
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "status": "complete", 
+    "procurementMethod": "direct", 
+    "items": [
+      {
+        "unit": {
+          "value": {
+            "currency": "MXN", 
+            "amount": 249400
+          }
+        }, 
+        "description": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Otras asesorias para la operacion de programas", 
+          "id": 33104
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "documents": [
+      {
+        "description": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01217/OAP01217.pdf", 
+        "title": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales.", 
+        "datePublished": "2017-03-06T00:00:00Z", 
+        "documentType": "Anexo t\u00e9cnico (adjudicaci\u00f3n directa)", 
+        "id": 12
+      }
+    ], 
+    "mainProcurementCategory": "services", 
+    "description": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales", 
+    "title": "Servicio de asesor\u00eda para llevar a cabo la actualizaci\u00f3n del estudio sobre el desarrollo normativo y jurisprudencial internacional y nacional en materia de protecci\u00f3n de datos personales", 
+    "submissionMethodDetails": "CompraNet", 
+    "procurementMethodDetails": "Adjudicaci\u00f3n directa (art. 42)", 
+    "procurementMethodDetailsrespaldo": "Adjudicaci\u00f3n directa (art. 42)", 
+    "tenderPeriod": {
+      "startDate": "2017-03-06T00:00:00Z", 
+      "endDate": "2017-03-09T00:00:00Z", 
+      "durationInDays": 3
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "awardCriteria": "Binario", 
+    "tenderers": [
+      {
+        "id": "RFC-CME120111JS4", 
+        "name": "CFA de M\u00e9xico"
+      }, 
+      {
+        "id": "IDPF-1038", 
+        "name": "Miguel Recio Gayo"
+      }, 
+      {
+        "id": "RFC-7251864X", 
+        "name": "Pi\u00f1ar Ma\u00f1as y Asociados M\u00e9xico"
+      }
+    ], 
+    "procurementMethodRationale": "Excepci\u00f3n por monto.", 
+    "contractPeriod": {
+      "startDate": "2017-03-15T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z"
+    }, 
+    "id": "AA-006HHE001-E19-2017", 
+    "hasEnquiries": false
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 11570 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\n", 
+  "id": "PC-0009", 
+  "clave_procedimiento": 9
+}

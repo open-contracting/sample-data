@@ -1,0 +1,471 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC00417/OAC00417.pdf", 
+          "title": "OA/C004/17", 
+          "datePublished": "2017-01-01T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 67
+        }
+      ], 
+      "description": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del INAI.", 
+      "title": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del INAI.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIOS", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 10421992
+            }
+          }, 
+          "description": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del INAI", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Cuotas para el seguro de vida del personal civil", 
+            "id": 14401
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2018-12-30T00:00:00Z", 
+        "durationInDays": 728
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 10421992
+      }, 
+      "dateSigned": "2016-12-19T00:00:00Z", 
+      "awardID": "OA/A071", 
+      "id": 1307642
+    }
+  ], 
+  "ocid": "PC-0071", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.299Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/C00417.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 167
+      }, 
+      {
+        "id": 168, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 169, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "description": "Contiene la evaluaci\u00f3n de las propuestas presentadas durante la investigaci\u00f3n de mercado", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/C00417.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 170
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 171, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "RH", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 5210996
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 14401, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210RH14401", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "El Instituto desde su creaci\u00f3n en 2003, para dar cumplimiento a la normatividad referente a la obligaci\u00f3n que tiene de llevar su contabilidad, que es la base de la informaci\u00f3n financiera y presupuestal que requiere para la adecuada toma de decisiones, as\u00ed como de los informes que le son requeridos peri\u00f3dicamente por instancias externas y la que solicitan continuamente personas f\u00edsicas, considerando que no se tienen los recursos humanos requeridos para satisfacer estas demandas que se incrementaron debido a las restructuras que ha tenido el INAI como consecuencia de la Autonom\u00eda y el aumento de obligaciones, \u00e9ste ha tenido la necesidad de contratar personal externo que apoye a la Direcci\u00f3n de Recursos Financieros en la realizaci\u00f3n de las funciones que tiene a su cargo, siendo las siguientes:\n\nEl proceso de elaboraci\u00f3n de cuentas por pagar y cheques es responsabilidad del Titular del\u00a0 Departamento de Tesorer\u00eda, que a partir de la recepci\u00f3n de documentos probatorios debe realizar el registro, la glosa de la informaci\u00f3n,\u00a0las cuentas por pagar y cheques, existiendo un volumen que una sola persona no puede procesar por lo que es necesario contar con el apoyo de por lo menos 3 personas.\nLa estructura de la Direcci\u00f3n de Recursos Financieros, en articular la Subdirecci\u00f3n de Tesorer\u00eda y Contabilidad, requiere el apoyo en las actividades de operaci\u00f3n a fin atender los requerimientos de registro, control y transparencia \u00a0de los recursos asignados al Instituto, por lo que ser\u00eda necesario contar con el apoyo de 10 personas, debido al volumen de operaci\u00f3n que se realiza en el Instituto, la cual se increment\u00f3 a partir de las restructuras que ha tenido el INAI como consecuencia de la Autonom\u00eda y el aumento de obligaciones. "
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/C00417.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 66
+        }
+      ], 
+      "description": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del IFAI.", 
+      "title": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del IFAI.", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 10421992
+            }
+          }, 
+          "description": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del IFAI.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Cuotas para el seguro de vida del personal civil", 
+            "id": 14401
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-MME920427EM3", 
+          "name": "MetLife"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 10421992
+      }, 
+      "date": "2016-11-28T00:00:00Z", 
+      "id": "OA/A071", 
+      "contractPeriod": {
+        "startDate": "2017-01-01T00:00:00Z", 
+        "endDate": "2018-12-30T00:00:00Z", 
+        "durationInDays": 728
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "MetLife", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 11000, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Manuel Avila Camacho 32 Pisos 14 al 20", 
+        "region": "M\u00e9xico", 
+        "locality": "Miguel Hidalgo"
+      }, 
+      "contactPoint": {
+        "url": "http://www.metlife.com.mx/", 
+        "email": "licitaciones@metlife.com.mx;ernesto.lopez@metlife.com.mx", 
+        "name": "ERNESTO MANUEL LOPEZ RODRIGUEZ", 
+        "telephone": "52 55 53287000 ext. 7904"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "MME920427EM3", 
+        "legalName": "MetLife M\u00e9xico, S.A."
+      }, 
+      "id": "RFC-MME920427EM3"
+    }, 
+    {
+      "name": "Aseguradora Patrimonial de Vida, S.A.", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "APV040521RP0", 
+        "legalName": "Aseguradora Patrimonial de Vida, S.A."
+      }, 
+      "id": "RFC-APV040521RP0", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 11550, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "ARISTOTELES 77", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Miguel Hidalgo"
+      }
+    }, 
+    {
+      "name": "MetLife", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "MME920427EM3", 
+        "legalName": "MetLife M\u00e9xico, S.A."
+      }, 
+      "id": "RFC-MME920427EM3", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 11000, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Manuel Avila Camacho 32 Pisos 14 al 20", 
+        "region": "M\u00e9xico", 
+        "locality": "Miguel Hidalgo"
+      }
+    }, 
+    {
+      "name": "Seguros ARGOS", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "SAR0210119D5", 
+        "legalName": "Seguros Argos, S.A. de C.V."
+      }, 
+      "id": "RFC-SAR0210119D5", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 1050, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "TECOYOTITLA No. 412", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Alvaro Obreg\u00f3n"
+      }
+    }, 
+    {
+      "name": "SURA", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "R&S811221KR6", 
+        "legalName": "Seguros SURA, S.A. de C.V."
+      }, 
+      "id": "RFC-R&S811221KR6", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 1060, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Adolfo L\u00f3pez Mateos 2448", 
+        "region": "M\u00e9xico", 
+        "locality": "Alvaro Obregon"
+      }
+    }, 
+    {
+      "name": "THONA Seguros", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "TSE120711H38", 
+        "legalName": "Thona Seguros, S.A. de C.V."
+      }, 
+      "id": "RFC-TSE120711H38", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 3900, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "FELIX PARRA NO. 65", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Juarez"
+      }
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "open", 
+    "awardPeriod": {
+      "startDate": "2016-11-11T00:00:00Z", 
+      "endDate": "2016-11-28T00:00:00Z", 
+      "durationInDays": 17
+    }, 
+    "mainProcurementCategory": "services", 
+    "enquiryPeriod": {
+      "startDate": "2016-11-11T00:00:00Z", 
+      "endDate": "2016-11-16T00:00:00Z", 
+      "durationInDays": 5
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 10421992
+    }, 
+    "tenderers": [
+      {
+        "name": "Aseguradora Patrimonial de Vida, S.A."
+      }, 
+      {
+        "id": "RFC-MME920427EM3", 
+        "name": "MetLife"
+      }, 
+      {
+        "id": "RFC-SAR0210119D5\u00a0", 
+        "name": "Seguros ARGOS"
+      }, 
+      {
+        "id": "RFC-TSE120711H38", 
+        "name": "THONA Seguros"
+      }, 
+      {
+        "id": "RFC-R&S811221KR6", 
+        "name": "SURA"
+      }
+    ], 
+    "id": "LA-006HHE001-E152-2016", 
+    "description": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del IFAI.", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las fechas  en que deber\u00e1n presentarse las propuestas econ\u00f3micas y t\u00e9cnicas, su evaluaci\u00f3n y el fallo correspondiente.", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC00417/CONVOCATORIAC00417.pdf", 
+        "title": "Convocatoria a la Licitaci\u00f3n P\u00fablica", 
+        "datePublished": "2016-11-11T00:00:00Z", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 61
+      }
+    ], 
+    "title": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del IFAI.", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "NO APLICA", 
+    "contractPeriod": {
+      "startDate": "2017-01-01T00:00:00Z", 
+      "endDate": "2018-12-31T00:00:00Z", 
+      "durationInDays": 729
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2016-11-11T00:00:00Z", 
+      "endDate": "2016-11-28T00:00:00Z", 
+      "durationInDays": 17
+    }, 
+    "procurementMethodDetails": "Licitaci\u00f3n p\u00fablica", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 4168796.8
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 10421992
+          }
+        }, 
+        "description": "Contrataci\u00f3n plurianual del seguro de vida para los servidores p\u00fablicos del IFAI", 
+        "classification": {
+          "scheme": "CuCoP", 
+          "description": "Cuotas para el seguro de vida del personal civil", 
+          "id": 14401
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se asigna la prestaci\u00f3n del servicio a la propuetsa que obtenga el puntaje mas alto", 
+    "procurementMethodDetailsrespaldo": "Licitaci\u00f3n p\u00fablica", 
+    "awardCriteria": "Puntos y porcentajes"
+  }, 
+  "validationErrors": "properties/parties/items/properties/address/properties/postalCode/type: 1050 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 1060 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 11000 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 11000 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 11550 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3900 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0071", 
+  "clave_procedimiento": 71
+}

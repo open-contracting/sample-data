@@ -1,0 +1,367 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "terminated", 
+      "documents": [
+        {
+          "description": "Instumento jur\u00eddico mediante el cual se acuerdan voluntades y se crean derechos y obligaciones\u00a0entre el Instituto y proveedor (s)  para la adquisici\u00f3n de cajas fabricadas en propileno corrugado con caj\u00f3n deslizable libre de \u00e1cido color traslucido con asa y logotipo del INAI y folders libres de \u00e1cido con reserva alcalina tama\u00f1o carta color marfil para el Archivo de Concentraci\u00f3n del INAI.", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01617/OAP01617.pdf", 
+          "title": "Contrato o pedido.", 
+          "datePublished": "2017-04-18T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 55
+        }
+      ], 
+      "description": "Adquisici\u00f3n de cajas fabricadas en polipropileno corrugado, con caj\u00f3n deslizable, libre de \u00e1cido, color traslucido, con asa y logotipo del INAI y Folders libres de \u00e1cido con reserva alcalina tama\u00f1o carta color marfil para el archivo de concentraci\u00f3n del INAI.", 
+      "title": "Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta,\u00a0 libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n.", 
+      "implementation": {
+        "transactions": [
+          {
+            "payee": {
+              "id": "RFC-CET0108025X6", 
+              "name": "Consultores Especializados en TI S.A. de C.V."
+            }, 
+            "payer": {
+              "id": "RFC-INA1402082Z8", 
+              "name": "INAI"
+            }, 
+            "value": {
+              "currency": "MXN", 
+              "amount": 199854.08
+            }, 
+            "source": "Presupuesto de Egresos de la Federaci\u00f3n"
+          }
+        ]
+      }, 
+      "items": [
+        {
+          "unit": {
+            "name": "Pieza", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 199854.08
+            }
+          }, 
+          "description": "Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta,\u00a0 libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Materiales y utiles de oficina", 
+            "id": 21101
+          }, 
+          "quantity": 9100
+        }
+      ], 
+      "period": {
+        "startDate": "2017-04-18T00:00:00Z", 
+        "endDate": "2017-05-26T00:00:00Z", 
+        "durationInDays": 38
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 199854.08
+      }, 
+      "dateSigned": "2017-04-18T00:00:00Z", 
+      "awardID": "OA/A053", 
+      "id": "OA/P016/17"
+    }
+  ], 
+  "ocid": "PC-0053", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.201Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-240", 
+    "name": "DGGIE"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "datePublished": "2017-01-24T00:00:00Z", 
+        "documentType": "Plan de contrataciones", 
+        "id": 109
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "datePublished": "2017-01-24T00:00:00Z", 
+        "documentType": "Plan de contrataciones", 
+        "id": 110
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA06", 
+      "objetivo_estrategico": "OE2", 
+      "finalidad": 1, 
+      "programa_presupuestario": "E002", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 399200
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 21101, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410E002OE2100240GOA0621101", 
+      "unidad_responsable": 100, 
+      "unidad_administrativa": 240
+    }, 
+    "rationale": "Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta,\u00a0\u00a0libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n, \u00e9sta medida garantiza que los documentos se mantengan protegidos del polvo, la humedad, la radiaci\u00f3n UV y dem\u00e1s agentes f\u00edsicos y qu\u00edmicos que aceleran su deterioro"
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "id": 52
+        }
+      ], 
+      "description": "Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta,  libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n, \u00e9sta medida garantiza que los documentos se mantengan protegidos del polvo, la humedad, la radiaci\u00f3n UV y dem\u00e1s agentes f\u00edsicos y qu\u00edmicos que aceleran su deterioro", 
+      "title": "Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta,  libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n.", 
+      "items": [
+        {
+          "unit": {
+            "name": "Pieza", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 199854.08
+            }
+          }, 
+          "description": "Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta,\u00a0 libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n.", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Materiales y utiles de oficina", 
+            "id": 21101
+          }, 
+          "quantity": 9100
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-CET0108025X6", 
+          "name": "Consultores Especializados en TI S.A. de C.V."
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 199854.08
+      }, 
+      "date": "2017-04-18T00:00:00Z", 
+      "id": "OA/A053", 
+      "contractPeriod": {
+        "startDate": "2017-04-18T00:00:00Z", 
+        "endDate": "2017-05-26T00:00:00Z", 
+        "durationInDays": 38
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "Consultores Especializados en TI S.A. de C.V.", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 2650, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Mineros Metalurgicos 68", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Azcapotzalco"
+      }, 
+      "contactPoint": {
+        "url": "http://www.cetigroup.com", 
+        "email": "esperanza.ceja@cetigroup.com", 
+        "name": "Mois\u00e9s Edilberto Andr\u00e9s Aguilar Luna-Peralta", 
+        "telephone": 24890856
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CET0108025X6", 
+        "legalName": "Consultores Especializados en TI S.A. de C.V."
+      }, 
+      "id": "RFC-CET0108025X6"
+    }, 
+    {
+      "name": "DGGIE", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx", 
+        "email": "alfonso.rojas@inai.org.mx", 
+        "name": "Alfonso Rojas Vega", 
+        "telephone": 50042459
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 240, 
+        "legalName": "Direcci\u00f3n General de Gesti\u00f3n de Informaci\u00f3n y Estudios"
+      }, 
+      "id": "CUA-240"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "identifier": {
+        "scheme": "RFC", 
+        "id": "CET0108025X6", 
+        "legalName": "Consultores Especializados en TI S.A. de C.V."
+      }, 
+      "id": "RFC-CET0108025X6", 
+      "roles": [
+        "Participante"
+      ], 
+      "name": "Consultores Especializados en TI S.A. de C.V."
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "open", 
+    "awardPeriod": {
+      "startDate": "2017-04-18T00:00:00Z", 
+      "endDate": "2017-04-18T00:00:00Z", 
+      "durationInDays": 0
+    }, 
+    "mainProcurementCategory": "goods", 
+    "enquiryPeriod": {
+      "startDate": "2017-04-06T00:00:00Z", 
+      "endDate": "2017-04-06T00:00:00Z", 
+      "durationInDays": 0
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 400577
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-CET0108025X6", 
+        "name": "Consultores Especializados en TI S.A. de C.V."
+      }
+    ], 
+    "id": "LPN-006HHE001-004-17", 
+    "description": "Contar con espacios e insumos adecuados para el resguardo y conservaci\u00f3n de los documentos de archivo y expedientes que obran en el Archivo de Concentraci\u00f3n del INAI. Para ello se llevar\u00e1 a cabo Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta, libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n, \u00e9sta medida garantiza que los documentos se mantengan protegidos del polvo, la humedad, la radiaci\u00f3n UV y dem\u00e1s agentes f\u00edsicos y qu\u00edmicos que aceleran su deterioro", 
+    "documents": [
+      {
+        "description": "Contiene las bases conforme a las cuales se desarrollar\u00e1 el procedimiento de LPN, descrpci\u00f3n de los requsitos de participaci\u00f3n y\u00a0anexo t\u00e9cnico para la la adquisici\u00f3n de cajas fabricadas en polipropileno corrugado con caj\u00f3n deslizable libre de \u00e1cido color traslucido con asa y logotipo del INAI y folders libres de \u00e1cido con reserva alcalina tama\u00f1o carta color marfil para el Archivo de Concentraci\u00f3n del INAI.", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP01617/CONVOCATORIAP01617.pdf", 
+        "title": "Convocatoria a la Licitaci\u00f3n P\u00fablica Nacional para la adquisici\u00f3n de cajas fabricadas en polipropileno corrugado con caj\u00f3n deslizable libre de \u00e1cido color traslucido con asa y logotipo del INAI y folders libres de \u00e1cido con reserva alcalina tama\u00f1o carta color marfil para el Archivo de Concentraci\u00f3n del INAI.", 
+        "datePublished": "2017-03-29T00:00:00Z", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 45
+      }
+    ], 
+    "title": "Adquisici\u00f3n de cajas fabricadas en polipropileno corrugado, con caj\u00f3n deslizable, libre de \u00e1cido, color traslucido, con asa y logotipo del INAI y Folders libres de \u00e1cido con reserva alcalina tama\u00f1o carta color marfil para el archivo de concentraci\u00f3n del INAI", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "contractPeriod": {
+      "startDate": "2017-04-18T00:00:00Z", 
+      "endDate": "2017-05-26T00:00:00Z", 
+      "durationInDays": 0
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-03-29T00:00:00Z", 
+      "endDate": "2017-04-17T00:00:00Z", 
+      "durationInDays": 20
+    }, 
+    "procurementMethodDetails": "Licitaci\u00f3n p\u00fablica", 
+    "additionalProcurementCategories": "Bienes - Adquisiciones", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 240346.2
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Pieza", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 199854.08
+          }
+        }, 
+        "description": "Adquisici\u00f3n de cajas fabricadas en polipropileno libres de \u00e1cido, que permitan el almacenamiento de los expedientes, y adquisici\u00f3n de folders tama\u00f1o carta, libres de \u00e1cido, que permitan la adecuada conservaci\u00f3n del acervo del Archivo de Concentraci\u00f3n, \u00e9sta medida garantiza que los documentos se mantengan protegidos del polvo, la humedad, la radiaci\u00f3n UV y dem\u00e1s agentes f\u00edsicos y qu\u00edmicos que aceleran su deterioro", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Materiales y utiles de oficina", 
+          "id": 21101
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "De conformidad con lo establecido en el Art\u00edculo 34, segundo p\u00e1rrafo del Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Federal de Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos y el Cap\u00edtulo VIII, numeral 2, de las Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales, se considera procedente el criterio de evaluaci\u00f3n binario, toda vez que los servicios y los bienes a adquirir son est\u00e1ndares en el mercado y el factor preponderante para el fallo, ser\u00e1 el precio m\u00e1s bajo.", 
+    "procurementMethodDetailsrespaldo": "Licitaci\u00f3n p\u00fablica", 
+    "hasEnquiries": false, 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/contactPoint/properties/telephone/type: 24890856 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 2650 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/contactPoint/properties/telephone/type: 50042459 is not of type u'string', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Bienes - Adquisiciones' is not of type u'array', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\n", 
+  "id": "PC-0053", 
+  "clave_procedimiento": 53
+}

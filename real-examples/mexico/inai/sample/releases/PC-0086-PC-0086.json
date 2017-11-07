@@ -1,0 +1,421 @@
+{
+  "language": "es", 
+  "contracts": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento contractual", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC02817/OAC02817.pdf", 
+          "title": "OA/C028/17", 
+          "datePublished": "2017-04-01T00:00:00Z", 
+          "documentType": "Contrato firmado", 
+          "id": 82
+        }
+      ], 
+      "description": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+      "title": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIOS", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 866000
+            }
+          }, 
+          "description": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios de apoyo administrativo, traduccion, fotocopiado e impresion", 
+            "id": 3360
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "period": {
+        "startDate": "2017-04-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 274
+      }, 
+      "value": {
+        "currency": "MXN", 
+        "amount": 866000
+      }, 
+      "dateSigned": "2017-04-18T00:00:00Z", 
+      "awardID": "OA/A086", 
+      "id": 1411180
+    }
+  ], 
+  "ocid": "PC-0086", 
+  "tag": [
+    "tender"
+  ], 
+  "packageInfo": {
+    "publisher": {
+      "scheme": "APF", 
+      "uid": "INAI", 
+      "name": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx"
+    }, 
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx", 
+    "publishedDate": "2017-09-12T16:58:43.388Z"
+  }, 
+  "initiationType": "tender", 
+  "buyer": {
+    "id": "CUA-210", 
+    "name": "DGA"
+  }, 
+  "planning": {
+    "documents": [
+      {
+        "description": "Titular del area requirente expone la necesidad de la contrataci\u00f3n", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/JUSTIFICACION/C02817.pdf", 
+        "title": "Justificaci\u00f3n de la Contrataci\u00f3n", 
+        "documentType": "Evaluaci\u00f3n de necesidades", 
+        "id": 237
+      }, 
+      {
+        "id": 238, 
+        "documentType": "Proyecto de inversi\u00f3n"
+      }, 
+      {
+        "id": 239, 
+        "documentType": "Estudio de factibilidad"
+      }, 
+      {
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/INVESTIGACION/C02817.pdf", 
+        "title": "FO-CON 05 Investigaci\u00f3n de Mercado", 
+        "documentType": "Investigaci\u00f3n de mercado", 
+        "id": 240
+      }, 
+      {
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal", 
+        "language": "es", 
+        "format": "PDF", 
+        "url": "http://inicio.inai.org.mx/AdquisicionesDocumentos/Programa%20Anual%20de%20Adquisiciones%20Arrendamientos%20y%20Servicios%20del%202017.pdf", 
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales", 
+        "id": 241, 
+        "documentType": "Plan de contrataciones", 
+        "datePublished": "2017-02-28T00:00:00Z", 
+        "dateModified": "2017-09-01T00:00:00Z"
+      }
+    ], 
+    "budget": {
+      "tipo_de_gasto": 1, 
+      "anio": 2017, 
+      "clave_de_gasto_por_actividad_mir": "GOA02", 
+      "objetivo_estrategico": "OE4", 
+      "finalidad": 1, 
+      "programa_presupuestario": "M001", 
+      "subfuncion": 4, 
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls", 
+      "fuente_de_financiamiento": 1, 
+      "amount": {
+        "currency": "MXN", 
+        "amount": 1080000
+      }, 
+      "ramo": 44, 
+      "entidad_federativa": 9, 
+      "objeto_del_gasto": 33602, 
+      "clave_de_cartera": 0, 
+      "actividad_institucional": 10, 
+      "funcion": 8, 
+      "id": "20174418410M001OE4210210GOA0233602", 
+      "unidad_responsable": 210, 
+      "unidad_administrativa": 210
+    }, 
+    "rationale": "Resulta fundamental satisfacer las necesidades b\u00e1sicas laborales de los servidores p\u00fablicos del Instituto, sin afectar la operaci\u00f3n del Instituto, y brindando las condiciones necesarias y suficientes para estar en posibilidades de dar continuidad a las funciones sustantivas del INAI.\n\nPor obvias razones, al no contar con las impresoras especiales como lo son las de tipo l\u00e1ser y los insumos necesarios, las labores diarias en este Instituto correr\u00edan el riesgo de no llevarse a cabo adecuadamente. La impresora l\u00e1ser es un tipo que permite imprimir texto o gr\u00e1ficos, tanto en negro como en color, con gran calidad.\n\nEs importante hacer de su conocimiento que conforme el Instituto ha recibido m\u00e1s encomiendas a cumplir, se han venido incrementado los eventos institucionales como lo son foros, sesiones del Consejo del Sistema Nacional de Transparencia, seminarios, capacitaciones, congresos, firmas de convenios, etc\u2026 en el edificio sede de este Instituto, los cuales organiza el INAI o es participe de ellos."
+  }, 
+  "awards": [
+    {
+      "status": "active", 
+      "documents": [
+        {
+          "description": "Documento por medio del cual se realiza la evaluaci\u00f3n de las propuestas presentadas", 
+          "language": "es", 
+          "format": "PDF", 
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/EDCA/DICTAMEN/C02817.pdf", 
+          "title": "Dictamen de evaluaci\u00f3n", 
+          "documentType": "Reportes de evaluaci\u00f3n", 
+          "id": 82
+        }
+      ], 
+      "description": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+      "title": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+      "items": [
+        {
+          "unit": {
+            "name": "SERVICIO", 
+            "value": {
+              "currency": "MXN", 
+              "amount": 866000
+            }
+          }, 
+          "description": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+          "classification": {
+            "scheme": "CUCoP", 
+            "description": "Servicios de apoyo administrativo, traducci\u00f3n, fotocopiado e impresi\u00f3n", 
+            "id": 3360
+          }, 
+          "quantity": 1
+        }
+      ], 
+      "suppliers": [
+        {
+          "id": "RFC-CIC8308165A4", 
+          "name": "CICOVISA SA DE CV"
+        }
+      ], 
+      "value": {
+        "currency": "MXN", 
+        "amount": 866000
+      }, 
+      "date": "2017-03-29T00:00:00Z", 
+      "id": "OA/A086", 
+      "contractPeriod": {
+        "startDate": "2017-04-01T00:00:00Z", 
+        "endDate": "2017-12-31T00:00:00Z", 
+        "durationInDays": 274
+      }
+    }
+  ], 
+  "parties": [
+    {
+      "name": "CICOVISA SA DE CV", 
+      "roles": [
+        "Proveedor o contratista"
+      ], 
+      "address": {
+        "postalCode": 3100, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AMORES No. 135", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Juarez"
+      }, 
+      "contactPoint": {
+        "url": "WWW.CICOVISA.COM", 
+        "email": "GUZMANSILVIA@CICOVISA.COM.MX;", 
+        "name": "ALFREDO TORRES AMEZCUA", 
+        "telephone": 11070700
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CIC8308165A4", 
+        "legalName": "CICOVISA SA DE CV"
+      }, 
+      "id": "RFC-CIC8308165A4"
+    }, 
+    {
+      "name": "DGA", 
+      "roles": [
+        "Comprador"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/"
+      }, 
+      "identifier": {
+        "scheme": "CUA", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": 210, 
+        "legalName": "Direcci\u00f3n General de Administraci\u00f3n"
+      }, 
+      "id": "CUA-210"
+    }, 
+    {
+      "name": "INAI", 
+      "roles": [
+        "Entidad que realiza la contrataci\u00f3n"
+      ], 
+      "address": {
+        "postalCode": 4530, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "Insurgentes Sur 3211", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Coyoac\u00e1n"
+      }, 
+      "contactPoint": {
+        "url": "http://inicio.inai.org.mx/", 
+        "email": "aniceto.alvarado@inai.org.mx", 
+        "name": "Aniceto Alvarado Gonz\u00e1lez", 
+        "telephone": "52 55 50042400 Ext. 2440"
+      }, 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Instituci\u00f3n p\u00fablica", 
+        "id": "INA1402082Z8", 
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales"
+      }, 
+      "id": "RFC-INA1402082Z8"
+    }, 
+    {
+      "name": "CICOVISA SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "CIC8308165A4", 
+        "legalName": "CICOVISA SA DE CV"
+      }, 
+      "id": "RFC-CIC8308165A4", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 3100, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AMORES No. 135", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Juarez"
+      }
+    }, 
+    {
+      "name": "GRUPO THAILAND MEXICO SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "GTM080516QX1", 
+        "legalName": "GRUPO THAILAND MEXICO SA DE CV"
+      }, 
+      "id": "RFC-GTM080516QX1", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 3020, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "DIAGONAL SAN ANTONIO 1689 INT 3", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Benito Juarez"
+      }
+    }, 
+    {
+      "name": "SIGA BIENES Y SERVICIOS SA DE CV", 
+      "identifier": {
+        "scheme": "RFC", 
+        "tipo_de_parte": "Persona moral", 
+        "id": "SBS060126HFA", 
+        "legalName": "SIGA BIENES Y SERVICIOS SA DE CV"
+      }, 
+      "id": "RFC-SBS060126HFA", 
+      "roles": [
+        "Participante"
+      ], 
+      "address": {
+        "postalCode": 11800, 
+        "countryName": "M\u00e9xico", 
+        "streetAddress": "AVENIDA REVOLUCI\u00d3N No. 84-3", 
+        "region": "Ciudad de M\u00e9xico", 
+        "locality": "Miguel Hidalgo"
+      }
+    }
+  ], 
+  "date": "2017-09-13T09:30:00Z", 
+  "tender": {
+    "procurementMethod": "open", 
+    "awardPeriod": {
+      "startDate": "2017-03-13T00:00:00Z", 
+      "endDate": "2017-03-29T00:00:00Z", 
+      "durationInDays": 16
+    }, 
+    "mainProcurementCategory": "services", 
+    "enquiryPeriod": {
+      "startDate": "2017-03-13T00:00:00Z", 
+      "endDate": "2017-03-21T00:00:00Z", 
+      "durationInDays": 8
+    }, 
+    "submissionMethod": "Electr\u00f3nica", 
+    "value": {
+      "currency": "MXN", 
+      "amount": 866000
+    }, 
+    "tenderers": [
+      {
+        "id": "RFC-GTM080516QX1", 
+        "name": "GRUPO THAILAND MEXICO SA DE CV"
+      }, 
+      {
+        "id": "RFC-SBS060126HFA", 
+        "name": "SIGA BIENES Y SERVICIOS SA DE CV"
+      }, 
+      {
+        "id": "RFC-CIC8308165A4", 
+        "name": "CICOVISA SA DE CV"
+      }
+    ], 
+    "id": "LA-006HHE001-E20-2017", 
+    "description": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+    "documents": [
+      {
+        "description": "El documento contiene los requisitos de participaci\u00f3n, as\u00ed como las fechas  en que deber\u00e1n presentarse las propuestas econ\u00f3micas y t\u00e9cnicas, su evaluaci\u00f3n y el fallo correspondiente.", 
+        "language": "es", 
+        "format": "pdf", 
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/CONTRATOS/OAC02817/CONVOCATORIAC02817.pdf", 
+        "title": "Convocatoria a la Licitaci\u00f3n P\u00fablica", 
+        "documentType": "Convocatoria de la licitaci\u00f3n p\u00fablica o invitaci\u00f3n a cuando menos tres personas, con sus anexos", 
+        "id": 75
+      }
+    ], 
+    "title": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+    "procuringEntity": {
+      "id": "RFC-INA1402082Z8", 
+      "name": "INAI"
+    }, 
+    "procurementMethodRationale": "NO APLICA", 
+    "contractPeriod": {
+      "startDate": "2017-04-01T00:00:00Z", 
+      "endDate": "2017-12-31T00:00:00Z", 
+      "durationInDays": 274
+    }, 
+    "status": "complete", 
+    "eligibilityCriteria": "Que est\u00e9 inscrito en CompraNet y est\u00e9 al corriente de sus obligaciones fiscales. Para mayor informaci\u00f3n consulte el documento de convocatoria y/o anexo t\u00e9cnico.", 
+    "tenderPeriod": {
+      "startDate": "2017-03-13T00:00:00Z", 
+      "endDate": "2017-03-29T00:00:00Z"
+    }, 
+    "procurementMethodDetails": "Licitaci\u00f3n p\u00fablica", 
+    "additionalProcurementCategories": "Servicios - Servicios", 
+    "minValue": {
+      "currency": "MXN", 
+      "amount": 346400
+    }, 
+    "submissionMethodDetails": "CompraNet", 
+    "items": [
+      {
+        "unit": {
+          "name": "Servicio", 
+          "value": {
+            "currency": "MXN", 
+            "amount": 866000
+          }
+        }, 
+        "description": "SERVICIO DE FOTOCOPIADO E IMPRESI\u00d3N L\u00c1SER A COLOR PARA EL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACI\u00d3N Y PROTECCI\u00d3N DE DATOS PERSONALES", 
+        "classification": {
+          "scheme": "CUCoP", 
+          "description": "Servicios de apoyo administrativo, traducci\u00f3n, fotocopiado e impresi\u00f3n", 
+          "id": 3360
+        }, 
+        "quantity": 1
+      }
+    ], 
+    "awardCriteriaDetails": "Se otorga la adjudicaci\u00f3n a quien cumpla la totalidad de los requerimientos t\u00e9cnicos, y cuta oferta sea la propuesta solvente m\u00e1s baja en precio.", 
+    "procurementMethodDetailsrespaldo": "Licitaci\u00f3n p\u00fablica", 
+    "awardCriteria": "Binario"
+  }, 
+  "validationErrors": "properties/parties/items/properties/contactPoint/properties/telephone/type: 11070700 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 11800 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3020 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3100 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 3100 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/parties/items/properties/address/properties/postalCode/type: 4530 is not of type u'string', u'null'\nproperties/tender/properties/submissionMethod/type: u'Electr\\xf3nica' is not of type u'array', u'null'\nproperties/tender/properties/additionalProcurementCategories/type: u'Servicios - Servicios' is not of type u'array', u'null'\n", 
+  "id": "PC-0086", 
+  "clave_procedimiento": 86
+}
