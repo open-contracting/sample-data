@@ -4,6 +4,7 @@ import optparse
 import re
 from datetime import datetime
 
+from __builtin__ import unicode
 from jsonschema import Draft3Validator
 
 '''
@@ -51,6 +52,8 @@ def fix_date_formats(mydict):
                     mydict[k] = \
                         datetime.strftime(d, "%Y-%m-%d %H:%M")
                 except ValueError:
+                    pass
+                except TypeError:
                     pass
         elif type(v) is dict:
             mydict[k] = fix_date_formats(mydict[k])
@@ -148,7 +151,7 @@ def fix_nsw_issues(data):
     for f in forbidden_keys:
         del data['tender'][f]
         if 'amendment' in data['tender'] and \
-                'changes' in data['tender']['amendment']:
+                        'changes' in data['tender']['amendment']:
             for c in data['tender']['amendment']['changes']:
                 if 'former_value' in c \
                         and type(c['former_value']) is not str:
@@ -228,7 +231,7 @@ def fix_colombia_issues(data):
         budget = data['planning']['budget']
         if 'amount' in budget and 'amount' in budget['amount']:
             amount = budget['amount']['amount']
-            if amount and amount.strip() == "450.000.000":
+            if amount and type(amount) == str and amount.strip() == "450.000.000":
                 budget['amount']['amount'] = 450000000
     return data
 
@@ -239,6 +242,103 @@ def fix_montreal_issues(data):
     '''
     if 'tag' in data and isinstance(data['tag'], str):
         data['tag'] = [data['tag']]
+    return data
+
+
+def fix_mexico_inai_issues(data):
+    '''
+    Fix data types issues.
+    '''
+    if 'parties' in data:
+        for p in data['parties']:
+            if 'additionalIdentifiers' in p:
+                if 'uri' in p['additionalIdentifiers'] and isinstance(p['additionalIdentifiers']['uri'], int):
+                    p['additionalIdentifiers']['uri'] = str(p['additionalIdentifiers']['uri'])
+            if 'address' in p:
+                if 'postalCode' in p['address'] and isinstance(p['address']['postalCode'], int):
+                    p['address']['postalCode'] = str(p['address']['postalCode'])
+            if 'contactPoint' in p:
+                if 'telephone' in p['contactPoint'] and isinstance(p['contactPoint']['telephone'], int):
+                    p['contactPoint']['telephone'] = str(p['contactPoint']['telephone'])
+    if 'tender' in data:
+        if 'minValue' in data['tender'] and 'amount' in data['tender']['minValue'] and isinstance(
+                data['tender']['minValue']['amount'], unicode):
+            try:
+                data['tender']['minValue']['amount'] = float(data['tender']['minValue']['amount'])
+            except:
+                data['tender']['minValue']['amount'] = None
+        if 'submissionMethod' in data['tender'] and isinstance(data['tender']['submissionMethod'], unicode):
+            data['tender']['submissionMethod'] = [data['tender']['submissionMethod']]
+        if 'additionalProcurementCategories' in data['tender'] \
+                and type(data['tender']['additionalProcurementCategories']) == unicode:
+            data['tender']['additionalProcurementCategories'] = [data['tender']['additionalProcurementCategories']]
+        if 'awardPeriod' in data['tender'] and 'durationInDays' in data['tender']['awardPeriod'] and \
+                isinstance(data['tender']['awardPeriod']['durationInDays'], unicode):
+            try:
+                data['tender']['awardPeriod']['durationInDays'] = int(data['tender']['awardPeriod']['durationInDays'])
+            except:
+                data['tender']['awardPeriod']['durationInDays'] = None
+        if 'awardPeriod' in data['tender'] and 'maxExtentDate' in data['tender']['awardPeriod'] \
+                and (isinstance(data['tender']['awardPeriod']['maxExtentDate'], int)
+                     or data['tender']['awardPeriod']['maxExtentDate'] == 'n/a'
+                     or data['tender']['awardPeriod']['maxExtentDate'] == '-'):
+            data['tender']['awardPeriod']['maxExtentDate'] = None
+        if 'awardPeriod' in data['tender'] and 'startDate' in data['tender']['awardPeriod'] and \
+                        data['tender']['awardPeriod']['startDate'] == 'No palica':
+            data['tender']['awardPeriod']['startDate'] = None
+        if 'documents' in data['tender']:
+            for p in data['tender']['documents']:
+                if 'dateModified' in p and (p['dateModified'] == 'n/a' or p['dateModified'] == 'No aplica \n' or
+                                                    p['dateModified'] == 'No palica'):
+                    p['dateModified'] = None
+        if 'tenderPeriod' in data['tender'] and 'maxExtentDate' in data['tender']['tenderPeriod']:
+            try:
+                datetime.strptime(data['tender']['tenderPeriod']['maxExtentDate'], '%YYYY-%mm-%dd')
+            except ValueError:
+                data['tender']['tenderPeriod']['maxExtentDate'] = None
+        if 'tenderPeriod' in data['tender'] and 'endDate' in data['tender']['tenderPeriod'] and \
+                        data['tender']['tenderPeriod']['endDate'] == '20/12/2016.':
+            data['tender']['tenderPeriod']['endDate'] = '2016-12-20 00:00'
+    if 'planning' in data and 'documents' in data['planning']:
+        for p in data['planning']['documents']:
+            if 'dateModified' in p and p['dateModified'] == 'n/a':
+                p['dateModified'] = None
+    if 'awards' in data:
+        for p in data['awards']:
+            if 'contractPeriod' in p and 'maxExtentDate' in p['contractPeriod'] \
+                    and (isinstance(p['contractPeriod']['maxExtentDate'], int)
+                         or p['contractPeriod']['maxExtentDate'] == 'n/a'):
+                p['contractPeriod']['maxExtentDate'] = None
+            if 'documents' in p:
+                for pp in p['documents']:
+                    if 'datePublished' in pp and pp['datePublished'] == 'n/a':
+                        pp['datePublished'] = None
+                    if 'dateModified' in pp and pp['dateModified'] == 'n/a':
+                        pp['dateModified'] = None
+            if 'items' in p:
+                for pp in p['items']:
+                    if 'classification' in pp and 'uri' in pp['classification'] \
+                            and isinstance(pp['classification']['uri'], int):
+                        pp['classification']['uri'] = str(pp['classification']['uri'])
+            if 'date' in p:
+                try:
+                    datetime.strptime(p['date'], '%YYYY-%mm-%dd')
+                except ValueError:
+                    p['date'] = None
+
+    if 'contracts' in data:
+        for p in data['contracts']:
+            if 'period' in p and 'maxExtentDate' in p['period'] \
+                    and (isinstance(p['period']['maxExtentDate'], int)
+                         or p['period']['maxExtentDate'] == 'n/a'):
+                p['period']['maxExtentDate'] = None
+            if 'documents' in p:
+                for pp in p['documents']:
+                    if 'dateModified' in pp:
+                        try:
+                            datetime.strptime(pp['dateModified'], '%YYYY-%mm-%dd')
+                        except ValueError:
+                            pp['dateModified'] = None
     return data
 
 
@@ -311,9 +411,9 @@ def remove_extra_fields(data, schema, IS_VERBOSE):
                             if path_expression[-1] in d:
                                 t = d[path_expression[-1]]
                             elif len(path_expression) > 1 and \
-                                    path_expression[-2] in d and \
-                                    path_expression[-1] in \
-                                    d[path_expression[-2]]:
+                                            path_expression[-2] in d and \
+                                            path_expression[-1] in \
+                                            d[path_expression[-2]]:
                                 t = d[path_expression[-2]][path_expression[-1]]
                             if isinstance(t, list):
                                 for s in t:
@@ -441,6 +541,7 @@ def main():
             data = fix_montreal_issues(data)
             data = fix_taiwan_issues(data)
             data = fix_colombia_issues(data)
+            data = fix_mexico_inai_issues(data)
         all_data.append(data)
     with open('all-releases.json', 'w') as writefile:
         for d in all_data:
