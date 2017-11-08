@@ -150,8 +150,7 @@ def fix_nsw_issues(data):
                 forbidden_keys.append(k)
     for f in forbidden_keys:
         del data['tender'][f]
-        if 'amendment' in data['tender'] and \
-                        'changes' in data['tender']['amendment']:
+        if 'amendment' in data['tender'] and 'changes' in data['tender']['amendment']:
             for c in data['tender']['amendment']['changes']:
                 if 'former_value' in c \
                         and type(c['former_value']) is not str:
@@ -283,21 +282,21 @@ def fix_mexico_inai_issues(data):
                      or data['tender']['awardPeriod']['maxExtentDate'] == 'n/a'
                      or data['tender']['awardPeriod']['maxExtentDate'] == '-'):
             data['tender']['awardPeriod']['maxExtentDate'] = None
-        if 'awardPeriod' in data['tender'] and 'startDate' in data['tender']['awardPeriod'] and \
-                        data['tender']['awardPeriod']['startDate'] == 'No palica':
+        if 'awardPeriod' in data['tender'] and 'startDate' in data['tender']['awardPeriod'] \
+                and data['tender']['awardPeriod']['startDate'] == 'No palica':
             data['tender']['awardPeriod']['startDate'] = None
         if 'documents' in data['tender']:
             for p in data['tender']['documents']:
-                if 'dateModified' in p and (p['dateModified'] == 'n/a' or p['dateModified'] == 'No aplica \n' or
-                                                    p['dateModified'] == 'No palica'):
+                if 'dateModified' in p and (p['dateModified'] == 'n/a' or p['dateModified'] == 'No aplica \n'
+                                            or p['dateModified'] == 'No palica'):
                     p['dateModified'] = None
         if 'tenderPeriod' in data['tender'] and 'maxExtentDate' in data['tender']['tenderPeriod']:
             try:
                 datetime.strptime(data['tender']['tenderPeriod']['maxExtentDate'], '%YYYY-%mm-%dd')
             except ValueError:
                 data['tender']['tenderPeriod']['maxExtentDate'] = None
-        if 'tenderPeriod' in data['tender'] and 'endDate' in data['tender']['tenderPeriod'] and \
-                        data['tender']['tenderPeriod']['endDate'] == '20/12/2016.':
+        if 'tenderPeriod' in data['tender'] and 'endDate' in data['tender']['tenderPeriod'] \
+                and data['tender']['tenderPeriod']['endDate'] == '20/12/2016.':
             data['tender']['tenderPeriod']['endDate'] = '2016-12-20 00:00'
     if 'planning' in data and 'documents' in data['planning']:
         for p in data['planning']['documents']:
@@ -410,10 +409,8 @@ def remove_extra_fields(data, schema, IS_VERBOSE):
                             # Use the last property in the path if required.
                             if path_expression[-1] in d:
                                 t = d[path_expression[-1]]
-                            elif len(path_expression) > 1 and \
-                                            path_expression[-2] in d and \
-                                            path_expression[-1] in \
-                                            d[path_expression[-2]]:
+                            elif len(path_expression) > 1 and path_expression[-2] in d and path_expression[-1] in \
+                                    d[path_expression[-2]]:
                                 t = d[path_expression[-2]][path_expression[-1]]
                             if isinstance(t, list):
                                 for s in t:

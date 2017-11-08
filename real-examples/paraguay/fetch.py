@@ -12,9 +12,17 @@ REQUEST_TOKEN = "Basic " \
 
 
 def getAccessToken():
-    r = requests.post("https://www.contrataciones.gov.py:443/datos/api/oauth/token",
-                      headers={"Authorization": REQUEST_TOKEN})
-    return "Bearer " + r.json()['access_token']
+    correct = False
+    json = ''
+    while not correct:
+        r = requests.post("https://www.contrataciones.gov.py:443/datos/api/oauth/token",
+                          headers={"Authorization": REQUEST_TOKEN})
+        try:
+            json = r.json()['access_token']
+            correct = True
+        except:
+            correct = False
+    return "Bearer " + json
 
 
 # @rate_limited(0.3)
@@ -25,7 +33,7 @@ def fetchRecord(record_id, folder, get_releases, page=0):
     url = 'https://www.contrataciones.gov.py:443/'
     url += 'datos/api/v2/doc/ocds/record-package/%s' % record_id
     print("Fetching record %s ID: %s > %s" % (page, record_id, url))
-    data = common.getUrlAndRetry(url, folder)
+    data = common.getUrlAndRetry(url, folder, requestHeader={"Authorization": getAccessToken()})
     if data:
         try:
             common.writeReleases(
