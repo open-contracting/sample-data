@@ -1,0 +1,269 @@
+{
+  "contracts": [
+    {
+      "value": {
+        "currency": "MXN",
+        "amount": 62000
+      },
+      "period": {
+        "startDate": "2017-07-08T00:00:00Z",
+        "durationInDays": 23,
+        "endDate": "2017-07-31T00:00:00Z"
+      },
+      "implementation": {
+        "transactions": [
+          {
+            "source": "Presupuesto de Egresos de la Federación",
+            "payee": {
+              "name": "Hectarea Producciones, S. A. de C. V.",
+              "id": "RFC-HPR060210B71"
+            },
+            "date": "2017-08-24T00:00:00Z",
+            "value": {
+              "currency": "MXN",
+              "amount": 62097.7
+            },
+            "payer": {
+              "name": "INAI",
+              "id": "RFC-INA1402082Z8"
+            }
+          }
+        ]
+      },
+      "awardID": "OA/A001",
+      "description": "Servicio integral para la realización del evento: \"Protección de Datos Personales en las Relaciones Laborales\".",
+      "documents": [
+        {
+          "format": "PDF",
+          "language": "es",
+          "id": 1,
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00617/OAP00617.PDF",
+          "documentType": "Anexos del contrato",
+          "datePublished": "2017-01-31T00:00:00Z",
+          "title": "Anexo Tecnico OA/POOG/17"
+        }
+      ],
+      "items": [
+        {
+          "classification": {
+            "id": 38301,
+            "scheme": "CUCoP",
+            "description": "Congresos y convenciones"
+          },
+          "description": "Servicio integral para la realización del evento: ¨Protección de Datos Personales en las Relaciones Laborales \"",
+          "quantity": 1
+        }
+      ],
+      "dateSigned": "2017-07-21T00:00:00Z",
+      "title": "Servicio integral para la realización del evento: \"Protección de Datos Personales en las Relaciones Laborales\".",
+      "status": "terminated"
+    }
+  ],
+  "planning": {
+    "rationale": "Dar cumplimiento a las atribuciones establecidas en el artículo 37 del Estatuto orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, publicado el 17 de enero de 2017, referente a efectuar un acompañamiento permanente a los sujetos obligados competencia de la Dirección General de Enlace, para coadyuvar al cumplimiento de las disposiciones establecidas en la Ley General, Ley Federal y demás normatividad aplicable.\nAdemás de lo anterior, esta actividad busca beneficiar a los sujetos obligados abriendo un espacio de diálogo entre autoridades en materia de transparencia , autoridades labores, representantes sindicales, trabajadores académicos, organizaciones de la sociedad civil y público en general, para conocer la regulación en materia de protección de datos personales en las relaciones laborales.",
+    "budget": {
+      "objeto_del_gasto": 38301,
+      "funcion": 8,
+      "tipo_de_gasto": 1,
+      "anio": 2017,
+      "programa_presupuestario": "E001",
+      "clave_de_gasto_por_actividad_mir": "GOA01",
+      "unidad_responsable": 100,
+      "unidad_administrativa": 340,
+      "ramo": 44,
+      "subfuncion": 4,
+      "clave_de_cartera": 0,
+      "finalidad": 1,
+      "actividad_institucional": 10,
+      "id": "20174418410E001OE1100340GOA0138301",
+      "entidad_federativa": 9,
+      "fuente_de_financiamiento": 1,
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls",
+      "amount": {
+        "currency": "MXN",
+        "amount": 80000
+      },
+      "objetivo_estrategico": "OE1"
+    }
+  },
+  "language": "es",
+  "ocid": "PC-0001",
+  "packageInfo": {
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx",
+    "publishedDate": "2017-09-12T16:58:42.895Z",
+    "publisher": {
+      "name": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx",
+      "uid": "INAI",
+      "scheme": "APF"
+    }
+  },
+  "tag": [
+    "tender"
+  ],
+  "tender": {
+    "contractPeriod": {
+      "durationInDays": 0
+    },
+    "procurementMethodDetails": "Invitación a cuando menos tres proveedores",
+    "submissionMethodDetails": "CompraNet",
+    "mainProcurementCategory": "services",
+    "procurementMethodRationale": "Adjudicación directa con fundamento en los 23 fración III articulo 42 y 47 del Reglamento de Adquisiciones, Arrendamientos y Servicios del IFAI.",
+    "submissionMethod": "Electrónica",
+    "description": "Servicio integral para la realización del evento: ¨Protección de Datos Personales en las Relaciones Laborales \"",
+    "awardCriteria": "Binario",
+    "enquiryPeriod": {
+      "durationInDays": 0
+    },
+    "minValue": {
+      "currency": "MXN",
+      "amount": 62872
+    },
+    "procurementMethod": "limited",
+    "tenderPeriod": {
+      "durationInDays": 0
+    },
+    "awardPeriod": {
+      "durationInDays": 0
+    },
+    "tenderers": [
+      {
+        "name": "Hectárea Producciones S.A. de C.V.",
+        "id": "RFC-HPR060210B71"
+      }
+    ],
+    "eligibilityCriteria": "Que esté inscrito en CompraNet y esté al corriente de sus obligaciones fiscales. Para mayor información consulte el documento de convocatoria y/o anexo técnico.",
+    "procuringEntity": {
+      "name": "INAI",
+      "id": "RFC-INA1402082Z8"
+    },
+    "procurementMethodDetailsrespaldo": "Invitación a cuando menos tres proveedores",
+    "hasEnquiries": false,
+    "additionalProcurementCategories": "Servicios - Servicios",
+    "status": "complete",
+    "title": "Servicio integral para la realización del evento: ¨Protección de Datos Personales en las Relaciones Laborales \"",
+    "value": {
+      "currency": "MXN",
+      "amount": 80000
+    }
+  },
+  "awards": [
+    {
+      "description": "Servicio integral para la realización del evento: ¨Protección de Datos Personales en las Relaciones Laborales\".",
+      "id": "OA/A001",
+      "status": "active",
+      "items": [
+        {
+          "classification": {
+            "id": 38301,
+            "scheme": "CUCoP",
+            "description": "Congresos y convenciones"
+          },
+          "description": "Servicio integral para la realización del evento: ¨Protección de Datos Personales en las Relaciones Laborales \"",
+          "quantity": 1
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-07-08T00:00:00Z",
+        "durationInDays": 23,
+        "endDate": "2017-07-31T00:00:00Z"
+      },
+      "title": "Servicio integral para la realización del evento: ¨Protección de Datos Personales en las Relaciones Laborales\".",
+      "value": {
+        "currency": "MXN",
+        "amount": 62097.7
+      },
+      "suppliers": [
+        {
+          "name": "Hectárea Producciones SA DE CV",
+          "id": "RFC-HPR060210B71"
+        }
+      ]
+    }
+  ],
+  "date": "2017-09-13T09:30:00Z",
+  "buyer": {
+    "name": "DGEALSUPFM",
+    "id": "CUA-340"
+  },
+  "id": "PC-0001",
+  "clave_procedimiento": 1,
+  "parties": [
+    {
+      "name": "DGEALSUPFM",
+      "identifier": {
+        "legalName": "Dirección General de Enlace con Autoridades Laborares, Sindicatos, Universidades, Personas Físicas y Morales",
+        "tipo_de_parte": "Institución pública",
+        "id": 340,
+        "scheme": "CUA"
+      },
+      "roles": [
+        "Comprador"
+      ],
+      "id": "CUA-340",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Insurgentes Sur 3211",
+        "locality": "Coyoacán",
+        "countryName": "México",
+        "postalCode": 4530
+      }
+    },
+    {
+      "name": "Hectarea Producciones S.A. de C.V.",
+      "identifier": {
+        "legalName": "Hectarea Producciones S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "HPR060210B71",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Proveedor o contratista"
+      ],
+      "id": "RFC-HPR060210B71",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Hocaba 479",
+        "locality": "Tlalpan",
+        "countryName": "México",
+        "postalCode": 14200
+      }
+    },
+    {
+      "name": "Hectárea Producciones S.A. de C.V.",
+      "identifier": {
+        "legalName": "Hectárea Producciones S.A. de C.V.",
+        "id": "HPR060210B71",
+        "scheme": "RFC"
+      },
+      "id": "RFC-HPR060210B71"
+    },
+    {
+      "name": "INAI",
+      "identifier": {
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",
+        "tipo_de_parte": "Institución pública",
+        "id": "INA1402082Z8",
+        "scheme": "RFC"
+      },
+      "contactPoint": {
+        "name": "Aniceto Alvarado González",
+        "telephone": "52 55 50042400 Ext. 2440",
+        "email": "aniceto.alvarado@inai.org.mx",
+        "url": "http://inicio.inai.org.mx/"
+      },
+      "id": "RFC-INA1402082Z8",
+      "roles": [
+        "Entidad que realiza la contratación"
+      ],
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Insurgentes Sur 3211",
+        "locality": "Coyoacán",
+        "countryName": "México",
+        "postalCode": 4530
+      }
+    }
+  ],
+  "initiationType": "tender"
+}
