@@ -1,0 +1,531 @@
+{
+  "contracts": [
+    {
+      "value": {
+        "currency": "MXN",
+        "amount": 1500000
+      },
+      "period": {
+        "startDate": "2017-01-01T00:00:00Z",
+        "endDate": "2017-02-28T00:00:00Z"
+      },
+      "implementation": {
+        "transactions": [
+          {
+            "source": "Presupuesto de Egresos de la Federación",
+            "date": "2017-02-21T00:00:00Z",
+            "payee": {
+              "name": "El Mundo es Tuyo, S.A. de C.V.",
+              "id": "RFC-MET8908305M9"
+            },
+            "uri": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00117/OAP00117.pdf",
+            "value": {
+              "currency": "MXN",
+              "amount": 811321
+            },
+            "payer": {
+              "name": "INAI",
+              "id": "RFC-INA1402082Z8"
+            }
+          }
+        ]
+      },
+      "awardID": "OA/A010",
+      "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+      "documents": [
+        {
+          "format": "PDF",
+          "language": "es",
+          "id": 12,
+          "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00117/OAP00117.pdf",
+          "documentType": "Contrato firmado",
+          "title": "Contrato firmado",
+          "description": "Contrato firmado"
+        }
+      ],
+      "id": 1307372,
+      "items": [
+        {
+          "classification": {
+            "id": 38301,
+            "scheme": "CUCoP",
+            "description": "Congresos y convenciones"
+          },
+          "unit": {
+            "value": {
+              "currency": "MXN",
+              "amount": 1500000
+            }
+          },
+          "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+          "quantity": 1
+        }
+      ],
+      "dateSigned": "2016-12-22T00:00:00Z",
+      "title": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+      "status": "terminated"
+    }
+  ],
+  "planning": {
+    "documents": [
+      {
+        "documentType": "Evaluación de necesidades",
+        "id": 18,
+        "title": "Justificación de la Contratación",
+        "description": "Titular del area requirente expone la necesidad de la contratación",
+        "url": "http://inicio.inai.org.mx/doc/DGPA/DGPAR/2017/DIPDP%202017/JustificacionDIPDP207.pdf"
+      },
+      {
+        "id": 19,
+        "url": "http://inicio.ifai.org.mx/AdquisicionesDocumentos/PAAAS%20Segunda%20Actualizaci%C3%B3n%202017.pdf",
+        "documentType": "Plan de contrataciones",
+        "datePublished": "2017-03-01T00:00:00Z",
+        "title": "Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",
+        "description": "Contiene el Programa de las Contrataciones a realizar durante el ejercicio fiscal"
+      },
+      {
+        "documentType": "Investigación de mercado",
+        "id": 20,
+        "title": "FO-CON-5 Resultado de la investigación de mercado",
+        "description": "Documento interno que resume los datos obtenidos de las fuentes consultadas para realizar la investigación de mercado y conocer si el bien, arrendamiento o servicio a contratar existe en la cantidad, calidad y oportunidad requerida por la dependencia o entidad; con quien o quienes se puede obtener o contratar y qué precio estimado tiene.",
+        "url": "http://inicio.inai.org.mx/doc/DGPA/DGPAR/2017/DIPDP%202017/Focon05DIPDP2017.pdf"
+      }
+    ],
+    "budget": {
+      "objeto_del_gasto": 38301,
+      "funcion": 8,
+      "tipo_de_gasto": 1,
+      "anio": 2017,
+      "programa_presupuestario": "E002",
+      "clave_de_gasto_por_actividad_mir": "GOA05",
+      "unidad_responsable": 100,
+      "unidad_administrativa": 440,
+      "ramo": 44,
+      "subfuncion": 4,
+      "clave_de_cartera": 0,
+      "finalidad": 1,
+      "actividad_institucional": 10,
+      "id": "20174418410E002OE2100440GOA0538301",
+      "entidad_federativa": 9,
+      "fuente_de_financiamiento": 1,
+      "uri": "http://micrositios.inai.org.mx/planeacion/images/docs/Base_presupuesto_2T_2017_VF.xls",
+      "amount": {
+        "currency": "MXN",
+        "amount": 1500000
+      },
+      "objetivo_estrategico": "OE2"
+    }
+  },
+  "language": "es",
+  "ocid": "PC-0010",
+  "packageInfo": {
+    "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx",
+    "publishedDate": "2017-09-12T16:58:42.968Z",
+    "publisher": {
+      "name": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",
+      "uri": "http://inicio.inai.org.mx/SitePages/ifai.aspx",
+      "uid": "INAI",
+      "scheme": "APF"
+    }
+  },
+  "tag": [
+    "tender"
+  ],
+  "tender": {
+    "contractPeriod": {
+      "startDate": "2017-01-01T00:00:00Z",
+      "endDate": "2017-02-28T00:00:00Z"
+    },
+    "procurementMethodDetails": "Licitación pública",
+    "submissionMethodDetails": "CompraNet",
+    "mainProcurementCategory": "services",
+    "procurementMethodRationale": "NO APLICA",
+    "submissionMethod": "Electrónica",
+    "awardCriteria": "Binario",
+    "enquiryPeriod": {
+      "startDate": "2016-11-30T00:00:00Z",
+      "endDate": "2016-11-30T00:00:00Z"
+    },
+    "minValue": {
+      "currency": "MXN",
+      "amount": 600000
+    },
+    "procurementMethod": "open",
+    "tenderPeriod": {
+      "startDate": "2016-11-18T00:00:00Z",
+      "durationInDays": 18,
+      "endDate": "2016-12-06T00:00:00Z"
+    },
+    "status": "complete",
+    "tenderers": [
+      {
+        "name": "Actidea",
+        "id": "RFC-ACT050330C61"
+      },
+      {
+        "name": "CREA",
+        "id": "RFC-CES010717LKA"
+      },
+      {
+        "name": "El Mundo es Tuyo",
+        "id": "RFC-MET8908305M9"
+      },
+      {
+        "name": "Grupo Sameva",
+        "id": "RFC-GVS1303084B9"
+      },
+      {
+        "name": "Hectarea Producciones S.A. de C.V.",
+        "id": "RFC-HPR060210B71"
+      },
+      {
+        "name": "Jet Bus, S. de R.L. de C.V.",
+        "id": "RFC-JBU131128PB3"
+      },
+      {
+        "name": "Luz y Mundo Visual, S.A. de C.V.",
+        "id": "RFC-LMV850410LZ2"
+      }
+    ],
+    "eligibilityCriteria": "Que esté inscrito en CompraNet y esté al corriente de sus obligaciones fiscales. Para mayor información consulte el documento de convocatoria y/o anexo técnico.",
+    "procuringEntity": {
+      "name": "INAI",
+      "id": "RFC-INA1402082Z8"
+    },
+    "procurementMethodDetailsrespaldo": "Licitación pública",
+    "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+    "title": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+    "documents": [
+      {
+        "format": "PDF",
+        "language": "es",
+        "id": 13,
+        "url": "http://inicio.inai.org.mx/doc/DGA/DGA/DRMSG/2017/PEDIDOS/OAP00117/CONVOCATORIAP00117.pdf",
+        "documentType": "Convocatoria de la licitación pública o invitación a cuando menos tres personas, con sus anexos",
+        "datePublished": "2016-11-18T00:00:00Z",
+        "title": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+        "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017."
+      },
+      {
+        "format": "PDF",
+        "language": "es",
+        "id": 14,
+        "documentType": "Acta(s) de la(s) junta(s) de aclaraciones",
+        "datePublished": "2017-11-30T00:00:00Z",
+        "title": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+        "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017."
+      },
+      {
+        "format": "PDF",
+        "language": "es",
+        "id": 15,
+        "documentType": "Acta(s) de la(s) junta(s) de aclaraciones",
+        "datePublished": "2017-11-30T00:00:00Z",
+        "title": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+        "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017."
+      }
+    ],
+    "id": "LA-006HHE001-E168-2016",
+    "items": [
+      {
+        "classification": {
+          "id": 38301,
+          "scheme": "CUCoP",
+          "description": "Congresos y convenciones"
+        },
+        "unit": {
+          "value": {
+            "currency": "MXN",
+            "amount": 1500000
+          }
+        },
+        "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+        "quantity": 1
+      }
+    ],
+    "value": {
+      "currency": "MXN",
+      "amount": 1500000
+    }
+  },
+  "awards": [
+    {
+      "value": {
+        "currency": "MXN",
+        "amount": 1500000
+      },
+      "documents": [
+        {
+          "format": "PDF",
+          "language": "es",
+          "id": 7,
+          "url": "http://inicio.inai.org.mx/doc/DGPA/DGPAR/2017/DIPDP%202017/DictamenDIPDP2017.pdf",
+          "documentType": "Reportes de evaluación",
+          "datePublished": "2016-12-08T00:00:00Z",
+          "title": "Dictamen técnico: Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+          "description": "Dictamen técnico: Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017."
+        }
+      ],
+      "date": "2016-12-08T00:00:00Z",
+      "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+      "id": "OA/A010",
+      "items": [
+        {
+          "classification": {
+            "id": 38301,
+            "scheme": "CUCoP",
+            "description": "Congresos y convenciones"
+          },
+          "unit": {
+            "value": {
+              "currency": "MXN",
+              "amount": 1500000
+            }
+          },
+          "description": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+          "quantity": 1
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-01-01T00:00:00Z",
+        "endDate": "2017-02-28T00:00:00Z"
+      },
+      "title": "Servicio integral de producción audiovisual, escenografía, alimentación, tecnología, y demás servicios para llevar a cabo la coordinación, logística y desarrollo del evento denominado “Día Internacional de Protección de Datos Personales 2017.",
+      "status": "active",
+      "suppliers": [
+        {
+          "name": "El Mundo es Tuyo",
+          "id": "RFC-MET8908305M9"
+        }
+      ]
+    }
+  ],
+  "date": "2017-09-13T09:30:00Z",
+  "buyer": {
+    "name": "DGPAR",
+    "id": "CUA-440"
+  },
+  "id": "PC-0010",
+  "clave_procedimiento": 10,
+  "parties": [
+    {
+      "name": "Actidea",
+      "identifier": {
+        "legalName": "Actidea, S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "ACT050330C61",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Participante"
+      ],
+      "id": "RFC-ACT050330C61",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Tiziano No.77",
+        "locality": "Alvaro Obregon",
+        "countryName": "México",
+        "postalCode": 1460
+      }
+    },
+    {
+      "name": "CREA",
+      "identifier": {
+        "legalName": "Creatividad y Espectáculos, S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "CES010717LKA",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Participante"
+      ],
+      "id": "RFC-CES010717LKA",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Thiers 251 Piso 14",
+        "locality": "Miguel Hidalgo",
+        "countryName": "México",
+        "postalCode": 11590
+      }
+    },
+    {
+      "name": "DGPAR",
+      "identifier": {
+        "legalName": "Dirección General de Prevención y Autorregulación",
+        "tipo_de_parte": "Institución pública",
+        "id": 440,
+        "scheme": "CUA"
+      },
+      "contactPoint": {
+        "name": "María Adriana Baez Ricárdez",
+        "telephone": "525550042400 Ext. 2410",
+        "email": "adriana.baez@inai.org.mx",
+        "url": "http://inicio.inai.org.mx/"
+      },
+      "id": "CUA-440",
+      "roles": [
+        "Comprador"
+      ],
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Insurgentes Sur 3211",
+        "locality": "Coyoacán",
+        "countryName": "México",
+        "postalCode": 4530
+      }
+    },
+    {
+      "name": "El Mundo es Tuyo",
+      "identifier": {
+        "legalName": "El Mundo es Tuyo, S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "MET8908305M9",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Participante"
+      ],
+      "id": "RFC-MET8908305M9",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "San Antonio 1218",
+        "locality": "Benito Juarez",
+        "countryName": "México",
+        "postalCode": 3020
+      }
+    },
+    {
+      "name": "El Mundo es Tuyo",
+      "identifier": {
+        "legalName": "El Mundo es Tuyo, S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "MET8908305M9",
+        "scheme": "RFC"
+      },
+      "contactPoint": {
+        "name": "Marco Antonio Cárdenas López",
+        "telephone": 56396464,
+        "email": "grupos@elmundoestuyo.com.mx",
+        "url": "http://www.elmundoestuyo.com.mx/"
+      },
+      "id": "RFC-MET8908305M9",
+      "roles": [
+        "Proveedor o contratista"
+      ],
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "San Antonio 1218",
+        "locality": "Benito Juarez",
+        "countryName": "México",
+        "postalCode": 3020
+      }
+    },
+    {
+      "name": "Grupo Sameva",
+      "identifier": {
+        "legalName": "Grupo Viajes Sameva, S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "GVS1303084B9",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Participante"
+      ],
+      "id": "RFC-GVS1303084B9",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Paseo de la Reforma 199",
+        "locality": "Cuauhtemoc",
+        "countryName": "México",
+        "postalCode": 6500
+      }
+    },
+    {
+      "name": "Hectarea Producciones",
+      "identifier": {
+        "legalName": "Hectarea Producciones S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "HPR060210B71",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Participante"
+      ],
+      "id": "RFC-HPR060210B71",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Hocaba 479",
+        "locality": "Tlalpan",
+        "countryName": "México",
+        "postalCode": 14200
+      }
+    },
+    {
+      "name": "INAI",
+      "identifier": {
+        "legalName": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",
+        "tipo_de_parte": "Institución pública",
+        "id": "INA1402082Z8",
+        "scheme": "RFC"
+      },
+      "contactPoint": {
+        "name": "Aniceto Alvarado González",
+        "telephone": "52 55 50042400 Ext. 2440",
+        "email": "aniceto.alvarado@inai.org.mx",
+        "url": "http://inicio.inai.org.mx/"
+      },
+      "id": "RFC-INA1402082Z8",
+      "roles": [
+        "Entidad que realiza la contratación"
+      ],
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Insurgentes Sur 3211",
+        "locality": "Coyoacán",
+        "countryName": "México",
+        "postalCode": 4530
+      }
+    },
+    {
+      "name": "Jet Bus",
+      "identifier": {
+        "legalName": "Jet Bus, S. de R.L. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "JBU131128PB3",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Participante"
+      ],
+      "id": "RFC-JBU131128PB3",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Narcisos 133",
+        "locality": "Coyoacán",
+        "countryName": "México",
+        "postalCode": 4890
+      }
+    },
+    {
+      "name": "Luz y Mundo Visual",
+      "identifier": {
+        "legalName": "Luz y Mundo Visual, S.A. de C.V.",
+        "tipo_de_parte": "Persona moral",
+        "id": "LMV850410LZ2",
+        "scheme": "RFC"
+      },
+      "roles": [
+        "Participante"
+      ],
+      "id": "RFC-LMV850410LZ2",
+      "address": {
+        "region": "Ciudad de México",
+        "streetAddress": "Citlaltépetl 58",
+        "locality": "Cuauhtémoc",
+        "countryName": "México",
+        "postalCode": 6100
+      }
+    }
+  ],
+  "initiationType": "tender"
+}
