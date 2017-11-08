@@ -40,11 +40,12 @@ def main():
     if options.all:
         folder += '/all'
     else:
-        release_packages = release_packages[:1]
         folder += '/sample'
     for url in release_packages:
         print('fetching %s' % url)
         data = common.getUrlAndRetry(url, folder)
+        if not options.all:
+            data = data[:10]
         if type(data) == list:
             for d in data:
                 common.writeReleases(d['releases'], folder, d, url)
