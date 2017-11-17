@@ -97,7 +97,7 @@ def main():
     (options, args) = parser.parse_args()
 
     record_package_ids = []
-    if options.all and not options.year:
+    if options.all:
         for year in range(2010, 2018):
             record_package_ids += fetchRecordPackageIDs(year)
     else:
