@@ -15,7 +15,7 @@ Pointers to externally available example data are found in the sources.md file.
 
 ## Test that sample data validates
 
-```
+```shell
 pip install jsonschema
 ./validate.sh
 ```
