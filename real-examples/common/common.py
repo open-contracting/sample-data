@@ -1,6 +1,7 @@
 import json
 import os
 import time
+from json import JSONDecodeError
 
 import requests
 
@@ -95,6 +96,9 @@ def getUrlAndRetry(url, folder, isJson=True, tries=1, requestHeader=None):
         time.sleep(1)
         return getUrlAndRetry(url, folder, isJson, tries + 1)
     if isJson:
-        return r.json()
+        try:
+            return r.json()
+        except JSONDecodeError:
+            return getUrlAndRetry(url, folder, isJson, tries + 1)
     else:
         return r
