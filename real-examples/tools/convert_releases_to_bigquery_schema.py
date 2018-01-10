@@ -244,6 +244,12 @@ def fix_montreal_issues(data):
     return data
 
 
+def fix_mexico_apf_issues(data):
+    if 'tender' in data and 'submissionMethod' in data['tender'] and None in data['tender']['submissionMethod']:
+        del data['tender']['submissionMethod']
+    return data
+
+
 def fix_uganda_issues(data):
     if 'tender' in data and 'tenderPeriod' in data['tender'] and 'startDate' in data['tender']['tenderPeriod']:
         try:
@@ -557,6 +563,7 @@ def main():
             data = fix_taiwan_issues(data)
             data = fix_colombia_issues(data)
             data = fix_mexico_inai_issues(data)
+            data = fix_mexico_apf_issues(data)
             data = fix_uganda_issues(data)
         all_data.append(data)
     with open('all-releases.json', 'w') as writefile:

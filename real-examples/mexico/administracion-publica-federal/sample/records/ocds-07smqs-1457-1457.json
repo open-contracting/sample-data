@@ -1,0 +1,555 @@
+{
+  "id": "1457",
+  "date": "2018-01-03T10:42:03Z",
+  "tender": {
+    "id": "1457"
+  },
+  "contracts": [
+    {
+      "id": "201720004547",
+      "implementation": {
+        "budgetBreakdown": [
+          {
+            "id": "20S176",
+            "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=20S176",
+            "budgetClassification": [
+              {
+                "id": "1",
+                "levelId": 1,
+                "classification": "financialSource",
+                "description": "Recursos fiscales",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Fuente de Financiamiento"
+              },
+              {
+                "id": "20135",
+                "levelId": 2,
+                "classification": "Administrative",
+                "description": "delegación SEDESOL en México",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Unidad Responsable"
+              },
+              {
+                "id": "35101",
+                "levelId": 4,
+                "classification": "Economic",
+                "description": "Mantenimiento y conservación de inmuebles para la prestación de servicios administrativos",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 33840,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Partida Específica"
+              }
+            ],
+            "description": "Pensión para Adultos Mayores"
+          }
+        ]
+      },
+      "contractDetails": {
+        "contractType": "No aplica",
+        "multiyear": false,
+        "priceScheme": "No aplica",
+        "maxValue": {
+          "amount": 0,
+          "currency": "MXN"
+        },
+        "minValue": {
+          "amount": 0,
+          "currency": "MXN"
+        },
+        "originalCurrencyValue": {
+          "amount": 33840,
+          "currency": "MXN",
+          "exchangeRate": "1"
+        }
+      },
+      "valueWithTax": {
+        "amount": 33840,
+        "currency": "MXN"
+      },
+      "title": "MANTENIMIENTO INMUEBLE PPAM 2017 JUNIO",
+      "awardID": "1457",
+      "period": {
+        "durationInDays": 29,
+        "startDate": "2017-06-01T00:00:00Z",
+        "endDate": "2017-06-30T23:59:59Z"
+      },
+      "suppliers": [
+        {
+          "id": "SDS040719E51",
+          "name": "SECRETARIA DE DESARROLLO SOCIAL DELEGACION ESTADO DE MEXICO"
+        }
+      ],
+      "buyers": [
+        {
+          "id": "20135",
+          "name": "delegación SEDESOL en México"
+        }
+      ],
+      "dateSigned": "2017-07-07T00:00:00Z"
+    },
+    {
+      "id": "201712010431",
+      "implementation": {
+        "budgetBreakdown": [
+          {
+            "id": "12E023",
+            "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=12E023",
+            "budgetClassification": [
+              {
+                "id": "1",
+                "levelId": 1,
+                "classification": "financialSource",
+                "description": "Recursos fiscales",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Fuente de Financiamiento"
+              },
+              {
+                "id": "12M7F",
+                "levelId": 2,
+                "classification": "Administrative",
+                "description": "Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Unidad Responsable"
+              },
+              {
+                "id": "25301",
+                "levelId": 4,
+                "classification": "Economic",
+                "description": "Medicinas y productos farmacéuticos",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 55769.1,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Partida Específica"
+              }
+            ],
+            "description": "Atención a la Salud"
+          }
+        ]
+      },
+      "contractDetails": {
+        "contractType": "Abierto",
+        "multiyear": false,
+        "priceScheme": "Fijos",
+        "maxValue": {
+          "amount": 55769.1,
+          "currency": "MXN"
+        },
+        "minValue": {
+          "amount": 55769.1,
+          "currency": "MXN"
+        },
+        "originalCurrencyValue": {
+          "amount": 55769.1,
+          "currency": "MXN",
+          "exchangeRate": "1"
+        }
+      },
+      "valueWithTax": {
+        "amount": 55769.1,
+        "currency": "MXN"
+      },
+      "title": "MEDICAMENTOS",
+      "awardID": "1538858",
+      "period": {
+        "durationInDays": 138,
+        "startDate": "2017-08-15T00:00:00Z",
+        "endDate": "2017-12-31T23:59:59Z"
+      },
+      "suppliers": [
+        {
+          "id": "FGG0309129E1",
+          "name": "FARMACIA G Y G  S.A. DE C.V."
+        }
+      ],
+      "buyers": [
+        {
+          "id": "12M7F",
+          "name": "Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz"
+        }
+      ],
+      "dateSigned": "2017-08-11T00:00:00Z"
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "uri": "http://www.gob.mx/contratacionesabiertas/",
+      "name": "SECRETARÍA DE LA FUNCIÓN PÚBLICA / SECRETARIA DE HACIENDA Y CRÉDITO PÚBLICO"
+    },
+    "uri": "https://api.datos.gob.mx/v1/",
+    "publishedDate": "2018-01-04T19:23:45.501862Z"
+  },
+  "parties": [
+    {
+      "id": "12M7F",
+      "identifier": {
+        "id": "12M7F",
+        "scheme": "MX-CPA",
+        "legalName": "Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz",
+        "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+      },
+      "additionalIdentifiers": [
+        {
+          "id": "12",
+          "scheme": "MX-CPA",
+          "legalName": "Salud",
+          "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+        }
+      ],
+      "contactPoint": {
+        "name": "Lic. Ana Maria de la Parra Coria"
+      },
+      "name": "Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz",
+      "roles": [
+        "buyer"
+      ]
+    },
+    {
+      "id": "20135",
+      "identifier": {
+        "id": "20135",
+        "scheme": "MX-CPA",
+        "legalName": "delegación SEDESOL en México",
+        "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+      },
+      "additionalIdentifiers": [
+        {
+          "id": "20",
+          "scheme": "MX-CPA",
+          "legalName": "Desarrollo Social",
+          "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+        }
+      ],
+      "contactPoint": {
+        "name": "RAYMUNDO GONZALEZ ALVA"
+      },
+      "name": "delegación SEDESOL en México",
+      "roles": [
+        "buyer"
+      ]
+    },
+    {
+      "id": "FGG0309129E1",
+      "contactPoint": {
+        "name": "ERNESTO GLUESING F"
+      },
+      "name": "FARMACIA G Y G  S.A. DE C.V.",
+      "identifier": {
+        "id": "FGG0309129E1",
+        "scheme": "MX-RFC",
+        "legalName": "FARMACIA G Y G  S.A. DE C.V.",
+        "schemeUrl": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/"
+      },
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "SDS040719E51",
+      "contactPoint": {
+        "name": "DELEGACION ESTADO DE MEXICO"
+      },
+      "name": "SECRETARIA DE DESARROLLO SOCIAL DELEGACION ESTADO DE MEXICO",
+      "identifier": {
+        "id": "SDS040719E51",
+        "scheme": "MX-RFC",
+        "legalName": "SECRETARIA DE DESARROLLO SOCIAL DELEGACION ESTADO DE MEXICO",
+        "schemeUrl": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/"
+      },
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "tag": [
+    "compiled"
+  ],
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "budgetBreakdown": [
+        {
+          "id": "12E023",
+          "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=12E023",
+          "budgetclassifications": [
+            {
+              "id": "1",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 12228718,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Recursos fiscales",
+              "classifications": "financialSource",
+              "level": 1,
+              "levelLabel": "Fuente de Financiamiento"
+            },
+            {
+              "id": "12M7F",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 12228718,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz",
+              "classifications": "Administrative",
+              "level": 2,
+              "levelLabel": "Unidad Responsable"
+            },
+            {
+              "id": "25301",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 12228718,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Medicinas y productos farmacéuticos",
+              "classifications": "Economic",
+              "level": 4,
+              "levelLabel": "Partida Específica"
+            }
+          ],
+          "description": "Atención a la Salud"
+        },
+        {
+          "id": "20S176",
+          "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=20S176",
+          "budgetclassifications": [
+            {
+              "id": "1",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 0,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Recursos fiscales",
+              "classifications": "financialSource",
+              "level": 1,
+              "levelLabel": "Fuente de Financiamiento"
+            },
+            {
+              "id": "20135",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 0,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "delegación SEDESOL en México",
+              "classifications": "Administrative",
+              "level": 2,
+              "levelLabel": "Unidad Responsable"
+            },
+            {
+              "id": "35101",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 0,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Mantenimiento y conservación de inmuebles para la prestación de servicios administrativos",
+              "classifications": "Economic",
+              "level": 4,
+              "levelLabel": "Partida Específica"
+            }
+          ],
+          "description": "Pensión para Adultos Mayores"
+        }
+      ]
+    }
+  },
+  "language": "es",
+  "ocid": "ocds-07smqs-1457"
+}
