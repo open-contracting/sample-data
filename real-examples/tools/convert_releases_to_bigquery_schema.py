@@ -247,7 +247,7 @@ def fix_montreal_issues(data):
 def fix_uganda_issues(data):
     if 'tender' in data and 'tenderPeriod' in data['tender'] and 'startDate' in data['tender']['tenderPeriod']:
         try:
-            d = datetime.strptime(
+            datetime.strptime(
                 data['tender']['tenderPeriod']['startDate'], "%Y-%m-%dT%H:%M:%SZ")
         except (ValueError, TypeError):
             del data['tender']['tenderPeriod']['startDate']
@@ -255,7 +255,7 @@ def fix_uganda_issues(data):
         for award in data['awards']:
             if 'contractPeriod' in award and 'endDate' in award['contractPeriod']:
                 try:
-                    d = datetime.strptime(
+                    datetime.strptime(
                         award['contractPeriod']['endDate'], "%Y-%m-%dT%H:%M:%SZ")
                 except (ValueError, TypeError):
                     del award['contractPeriod']['endDate']
