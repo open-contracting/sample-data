@@ -41,6 +41,8 @@ def main():
                     (base, tag, i)
                 print('fetching %s' % url)
                 data = common.getUrlAndRetry(url, folder)
+                if data is None:
+                    continue
                 for r in data['releases']:
                     common.writeReleases([r], folder, data, url)
                 with open("page.n", 'w') as n:
