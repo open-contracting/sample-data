@@ -1,0 +1,293 @@
+{
+  "id": "1038",
+  "date": "2018-01-03T10:42:03Z",
+  "tender": {
+    "id": "1038"
+  },
+  "contracts": [
+    {
+      "id": "201720004247",
+      "implementation": {
+        "budgetBreakdown": [
+          {
+            "id": "20P002",
+            "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=20P002",
+            "budgetClassification": [
+              {
+                "id": "1",
+                "levelId": 1,
+                "classification": "financialSource",
+                "description": "Recursos fiscales",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Fuente de Financiamiento"
+              },
+              {
+                "id": "20147",
+                "levelId": 2,
+                "classification": "Administrative",
+                "description": "delegación SEDESOL en Tabasco",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Unidad Responsable"
+              },
+              {
+                "id": "35201",
+                "levelId": 4,
+                "classification": "Economic",
+                "description": "Mantenimiento Y Conservación de Mobiliario Y Equipo de Administración",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 10387.8,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Partida Específica"
+              }
+            ],
+            "description": "Promoción y evaluación de la política de Desarrollo social y comunitario, la participación y la cohesión social"
+          }
+        ]
+      },
+      "contractDetails": {
+        "contractType": "Abierto",
+        "multiyear": false,
+        "priceScheme": "Variables",
+        "maxValue": {
+          "amount": 10387.8,
+          "currency": "MXN"
+        },
+        "minValue": {
+          "amount": 10387.8,
+          "currency": "MXN"
+        },
+        "originalCurrencyValue": {
+          "amount": 10387.8,
+          "currency": "MXN",
+          "exchangeRate": "1"
+        }
+      },
+      "valueWithTax": {
+        "amount": 10387.8,
+        "currency": "MXN"
+      },
+      "title": "PAGO FACT 25",
+      "awardID": "1038",
+      "period": {
+        "durationInDays": 1,
+        "startDate": "2017-06-27T00:00:00Z",
+        "endDate": "2017-06-28T23:59:59Z"
+      },
+      "suppliers": [
+        {
+          "id": "95F5D7F5DD77D73E3232026B4732232A",
+          "name": "JESUS ALBERTO ROSAS GARDUZA"
+        }
+      ],
+      "buyers": [
+        {
+          "id": "20147",
+          "name": "delegación SEDESOL en Tabasco"
+        }
+      ],
+      "dateSigned": "2017-06-27T00:00:00Z"
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "uri": "http://www.gob.mx/contratacionesabiertas/",
+      "name": "SECRETARÍA DE LA FUNCIÓN PÚBLICA / SECRETARIA DE HACIENDA Y CRÉDITO PÚBLICO"
+    },
+    "uri": "https://api.datos.gob.mx/v1/",
+    "publishedDate": "2018-01-04T19:23:45.209916Z"
+  },
+  "parties": [
+    {
+      "id": "20147",
+      "identifier": {
+        "id": "20147",
+        "scheme": "MX-CPA",
+        "legalName": "delegación SEDESOL en Tabasco",
+        "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+      },
+      "additionalIdentifiers": [
+        {
+          "id": "20",
+          "scheme": "MX-CPA",
+          "legalName": "Desarrollo Social",
+          "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+        }
+      ],
+      "contactPoint": {
+        "name": "Gustavo Antonio Glori Tellechea"
+      },
+      "name": "delegación SEDESOL en Tabasco",
+      "roles": [
+        "buyer"
+      ]
+    },
+    {
+      "id": "95F5D7F5DD77D73E3232026B4732232A",
+      "contactPoint": {
+        "name": "JESUS A ROSAS GARDUZA"
+      },
+      "name": "JESUS ALBERTO ROSAS GARDUZA",
+      "identifier": {
+        "id": "95F5D7F5DD77D73E3232026B4732232A",
+        "scheme": "MX-RFC",
+        "legalName": "JESUS ALBERTO ROSAS GARDUZA",
+        "schemeUrl": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/"
+      },
+      "roles": [
+        "supplier"
+      ]
+    }
+  ],
+  "tag": [
+    "compiled"
+  ],
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "budgetBreakdown": [
+        {
+          "id": "20P002",
+          "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=20P002",
+          "budgetclassifications": [
+            {
+              "id": "1",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 10000,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Recursos fiscales",
+              "classifications": "financialSource",
+              "level": 1,
+              "levelLabel": "Fuente de Financiamiento"
+            },
+            {
+              "id": "20147",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 10000,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "delegación SEDESOL en Tabasco",
+              "classifications": "Administrative",
+              "level": 2,
+              "levelLabel": "Unidad Responsable"
+            },
+            {
+              "id": "35201",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 10000,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Mantenimiento Y Conservación de Mobiliario Y Equipo de Administración",
+              "classifications": "Economic",
+              "level": 4,
+              "levelLabel": "Partida Específica"
+            }
+          ],
+          "description": "Promoción y evaluación de la política de Desarrollo social y comunitario, la participación y la cohesión social"
+        }
+      ]
+    }
+  },
+  "language": "es",
+  "ocid": "ocds-07smqs-1038"
+}

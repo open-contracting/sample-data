@@ -1,0 +1,272 @@
+{
+  "id": "1419",
+  "date": "2018-01-03T10:42:03Z",
+  "tender": {
+    "id": "1419"
+  },
+  "contracts": [
+    {
+      "id": "201706001701",
+      "implementation": {
+        "budgetBreakdown": [
+          {
+            "id": "06E026",
+            "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=06E026",
+            "budgetClassification": [
+              {
+                "id": "1",
+                "levelId": 1,
+                "classification": "financialSource",
+                "description": "Recursos fiscales",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Fuente de Financiamiento"
+              },
+              {
+                "id": "06E00",
+                "levelId": 2,
+                "classification": "Administrative",
+                "description": "Servicio de Administración Tributaria",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Unidad Responsable"
+              },
+              {
+                "id": "32201",
+                "levelId": 4,
+                "classification": "Economic",
+                "description": "Arrendamiento de Edificios Y Locales",
+                "measures": [
+                  {
+                    "id": "Comprometido",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Devengado",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Ejercido",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  },
+                  {
+                    "id": "Pagado",
+                    "value": {
+                      "amount": 11600,
+                      "currency": "MXN"
+                    }
+                  }
+                ],
+                "levelLabel": "Partida Específica"
+              }
+            ],
+            "description": "Recaudación de las contribuciones federales"
+          }
+        ]
+      },
+      "contractDetails": {
+        "contractType": "Cerrado",
+        "multiyear": false,
+        "priceScheme": "Fijos",
+        "maxValue": {
+          "amount": 11600,
+          "currency": "MXN"
+        },
+        "minValue": {
+          "amount": 11600,
+          "currency": "MXN"
+        },
+        "originalCurrencyValue": {
+          "amount": 139200,
+          "currency": "MXN",
+          "exchangeRate": "1"
+        }
+      },
+      "valueWithTax": {
+        "amount": 11600,
+        "currency": "MXN"
+      },
+      "title": "ARRENDAMIENTO DE INMUEBLE SUBSEDE DE AGUA PRIETA",
+      "awardID": "1419",
+      "period": {
+        "durationInDays": 365,
+        "startDate": "2016-01-01T00:00:00Z",
+        "endDate": "2016-12-31T23:59:59Z"
+      },
+      "suppliers": [],
+      "buyers": [
+        {
+          "id": "06E00",
+          "name": "Servicio de Administración Tributaria"
+        }
+      ],
+      "dateSigned": "2015-12-31T00:00:00Z"
+    }
+  ],
+  "packageInfo": {
+    "publisher": {
+      "uri": "http://www.gob.mx/contratacionesabiertas/",
+      "name": "SECRETARÍA DE LA FUNCIÓN PÚBLICA / SECRETARIA DE HACIENDA Y CRÉDITO PÚBLICO"
+    },
+    "uri": "https://api.datos.gob.mx/v1/",
+    "publishedDate": "2018-01-04T19:23:45.428570Z"
+  },
+  "parties": [
+    {
+      "id": "06E00",
+      "identifier": {
+        "id": "06E00",
+        "scheme": "MX-CPA",
+        "legalName": "Servicio de Administración Tributaria",
+        "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+      },
+      "additionalIdentifiers": [
+        {
+          "id": "06",
+          "scheme": "MX-CPA",
+          "legalName": "Hacienda y Crédito Público",
+          "schemeUrl": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+        }
+      ],
+      "contactPoint": {
+        "name": "Juan Carlos Fragoso Hernandez"
+      },
+      "name": "Servicio de Administración Tributaria",
+      "roles": [
+        "buyer"
+      ]
+    }
+  ],
+  "tag": [
+    "compiled"
+  ],
+  "initiationType": "tender",
+  "planning": {
+    "budget": {
+      "budgetBreakdown": [
+        {
+          "id": "06E026",
+          "url": "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=06E026",
+          "budgetclassifications": [
+            {
+              "id": "1",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 193283208,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Recursos fiscales",
+              "classifications": "financialSource",
+              "level": 1,
+              "levelLabel": "Fuente de Financiamiento"
+            },
+            {
+              "id": "06E00",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 193283208,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Servicio de Administración Tributaria",
+              "classifications": "Administrative",
+              "level": 2,
+              "levelLabel": "Unidad Responsable"
+            },
+            {
+              "id": "32201",
+              "Measures": [
+                {
+                  "id": "Aprobado",
+                  "value": {
+                    "amount": 193283208,
+                    "currency": "MXN"
+                  }
+                }
+              ],
+              "description": "Arrendamiento de Edificios Y Locales",
+              "classifications": "Economic",
+              "level": 4,
+              "levelLabel": "Partida Específica"
+            }
+          ],
+          "description": "Recaudación de las contribuciones federales"
+        }
+      ]
+    }
+  },
+  "language": "es",
+  "ocid": "ocds-07smqs-1419"
+}
