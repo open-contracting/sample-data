@@ -27,16 +27,6 @@ Once you have downloaded the releases, you can then transform to v1.1 of the OCD
 
 Note that this will overwrite the existing files.
 
-## Validate data
-
-You can then validate the transformed releases against the OCDS 1.1 schema, recording any errors. Do this with
-
-    python validate.py -f path/to/releases
-
-This script adds a new top-level property called `validationErrors` to each release, storing details of any validation errors.
-
-Append the `--verbose` argument if you want to see details of errors.
-
 ## Merge records to releases
 
 Finally you may also wish to combine releases into records. This is done with:
