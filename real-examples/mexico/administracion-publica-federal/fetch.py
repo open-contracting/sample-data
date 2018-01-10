@@ -4,7 +4,6 @@ import optparse
 import os
 import urllib
 import zipfile
-from urllib.request import urlopen
 
 import requests
 from common import common
@@ -64,6 +63,7 @@ def main():
                     data['releases'], folder, data, url)
             data_file.close()
         break
+
 
 if __name__ == '__main__':
     main()
