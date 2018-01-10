@@ -4,7 +4,7 @@ import optparse
 import re
 from datetime import datetime
 
-from __builtin__ import unicode
+
 from jsonschema import Draft3Validator
 
 '''
@@ -243,10 +243,30 @@ def fix_montreal_issues(data):
         data['tag'] = [data['tag']]
     return data
 
+
 def fix_mexico_apf_issues(data):
     if 'tender' in data and 'submissionMethod' in data['tender'] and None in data['tender']['submissionMethod']:
         del data['tender']['submissionMethod']
     return data
+
+
+def fix_uganda_issues(data):
+    if 'tender' in data and 'tenderPeriod' in data['tender'] and 'startDate' in data['tender']['tenderPeriod']:
+        try:
+            datetime.strptime(
+                data['tender']['tenderPeriod']['startDate'], "%Y-%m-%dT%H:%M:%SZ")
+        except (ValueError, TypeError):
+            del data['tender']['tenderPeriod']['startDate']
+    if 'awards' in data:
+        for award in data['awards']:
+            if 'contractPeriod' in award and 'endDate' in award['contractPeriod']:
+                try:
+                    datetime.strptime(
+                        award['contractPeriod']['endDate'], "%Y-%m-%dT%H:%M:%SZ")
+                except (ValueError, TypeError):
+                    del award['contractPeriod']['endDate']
+    return data
+
 
 def fix_mexico_inai_issues(data):
     '''
@@ -265,18 +285,18 @@ def fix_mexico_inai_issues(data):
                     p['contactPoint']['telephone'] = str(p['contactPoint']['telephone'])
     if 'tender' in data:
         if 'minValue' in data['tender'] and 'amount' in data['tender']['minValue'] and isinstance(
-                data['tender']['minValue']['amount'], unicode):
+                data['tender']['minValue']['amount'], str):
             try:
                 data['tender']['minValue']['amount'] = float(data['tender']['minValue']['amount'])
             except:
                 data['tender']['minValue']['amount'] = None
-        if 'submissionMethod' in data['tender'] and isinstance(data['tender']['submissionMethod'], unicode):
+        if 'submissionMethod' in data['tender'] and isinstance(data['tender']['submissionMethod'], str):
             data['tender']['submissionMethod'] = [data['tender']['submissionMethod']]
         if 'additionalProcurementCategories' in data['tender'] \
-                and type(data['tender']['additionalProcurementCategories']) == unicode:
+                and type(data['tender']['additionalProcurementCategories']) == str:
             data['tender']['additionalProcurementCategories'] = [data['tender']['additionalProcurementCategories']]
         if 'awardPeriod' in data['tender'] and 'durationInDays' in data['tender']['awardPeriod'] and \
-                isinstance(data['tender']['awardPeriod']['durationInDays'], unicode):
+                isinstance(data['tender']['awardPeriod']['durationInDays'], str):
             try:
                 data['tender']['awardPeriod']['durationInDays'] = int(data['tender']['awardPeriod']['durationInDays'])
             except:
@@ -544,6 +564,7 @@ def main():
             data = fix_colombia_issues(data)
             data = fix_mexico_inai_issues(data)
             data = fix_mexico_apf_issues(data)
+            data = fix_uganda_issues(data)
         all_data.append(data)
     with open('all-releases.json', 'w') as writefile:
         for d in all_data:

@@ -1,16 +1,12 @@
+import http.client
 import json
 import optparse
 import os
-import http.client
 import urllib
 import zipfile
-from io import StringIO, BytesIO
-from zipfile import ZipFile
 from urllib.request import urlopen
 
 import requests
-import io
-
 from common import common
 
 
