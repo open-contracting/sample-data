@@ -1,0 +1,601 @@
+{
+  "records": [
+    {
+      "compiledRelease": {
+        "initiationType": "tender",
+        "relatedProcesses": [],
+        "language": "es",
+        "awards": [
+          {
+            "items": [
+              {
+                "id": "1-1332326",
+                "unit": {
+                  "id": "PZ",
+                  "name": "PIEZA                                                       ",
+                  "value": {
+                    "amount": 981.0,
+                    "currency": "MXN"
+                  },
+                  "scheme": "UM-GOB-JAL"
+                },
+                "description": "CALCULADORA  DE 12 DIGITOS GIGANTES LUMINOSOS CINTA DE IMPRESION COLOR ROJO/NEGRO VELOCIDAD DE IMPRESION 3.5 LINEAS/SEG CUATRO TECLAS DE MEMORIA CALENDARIO",
+                "itemAmount": {
+                  "amount": 34138.8,
+                  "currency": "MXN"
+                },
+                "taxRate": {
+                  "percentage": "16.0%",
+                  "value": {
+                    "amount": 156.96,
+                    "currency": "MXN"
+                  }
+                },
+                "additionalClassifications": [
+                  {
+                    "id": "032",
+                    "description": "MOBILIARIO DE OFICINA, REFACCIONES Y ACC",
+                    "scheme": "GPO-GOB-JAL"
+                  }
+                ],
+                "classification": {
+                  "id": "032-002       ",
+                  "description": "EQUIPO DE OFICINA",
+                  "scheme": "FAM-GOB-JAL"
+                },
+                "quantity": 30.0
+              }
+            ],
+            "id": "IN498817-OC64180-2017",
+            "status": "active",
+            "date": "2017-06-01T11:00:59Z",
+            "description": "Se adjudica 1 progresivos  del proceso de compra número 03-0011-00-2017 al proveedor SERVICIOS PRECIADO, S.A. DE C.V.",
+            "amendments": [],
+            "title": "EQUIPO DE OFICINA",
+            "value": {
+              "amount": 34138.8,
+              "currency": "MXN"
+            },
+            "documents": [
+              {
+                "datePublished": "2017-12-06T12:14:00Z",
+                "id": "183299-2",
+                "url": "https://contratacionesabiertas.jalisco.gob.mx/apiDocumentosOcds/descarga/documento/2/id/183299",
+                "format": "application/pdf",
+                "description": "Acta de adjudicación",
+                "documentType": "Acta de adjudicación",
+                "language": "es",
+                "dateModified": "2017-12-06T12:14:00Z",
+                "title": "AF03-0011-2017"
+              }
+            ],
+            "suppliers": [
+              {
+                "id": "P01576",
+                "name": "SERVICIOS PRECIADO, S.A. DE C.V."
+              }
+            ]
+          }
+        ],
+        "planning": {
+          "budget": {
+            "id": "5191",
+            "amount": {
+              "amount": 65772.0,
+              "currency": "MXN"
+            },
+            "description": "Otros mobiliarios y equipos de administración"
+          },
+          "documents": [],
+          "milestones": []
+        },
+        "additionalProcessInformation": {
+          "purchaseNumber": "SFIN/03/0011-00/2017",
+          "startDateContractingProcess": "2017-02-15T05:13:06Z",
+          "processYear": 2017,
+          "estimatedAmount": {
+            "amount": 65772.0,
+            "currency": "MXN"
+          },
+          "contractedAmount": {
+            "amount": 34138.8,
+            "currency": "MXN"
+          },
+          "originProcess": "poderEjecutivo",
+          "stageDescription": {
+            "currentStage": "Implementación",
+            "description": "Esta etapa consiste en el seguimiento de las entregas y pagos de los bienes o servicios contratados.",
+            "stageNumber": 5
+          },
+          "consolidated": false,
+          "family": "EQUIPO DE OFICINA",
+          "purchaseRequisitionDate": "2017-01-31T02:40:02Z"
+        },
+        "parties": [
+          {
+            "id": "DEP-GOB-JAL-03-1685",
+            "name": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)",
+            "identifier": {
+              "id": "03-1685",
+              "uri": "http://sepaf.jalisco.gob.mx/",
+              "scheme": "DEP-GOB-JAL",
+              "legalName": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)"
+            },
+            "roles": [
+              "buyer"
+            ],
+            "address": {
+              "streetAddress": "Calle Pedro Moreno #281 col. Centro",
+              "region": "Jalisco",
+              "postalCode": "44100",
+              "countryName": "México",
+              "locality": "Guadalajara"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "url": "http://sepaf.jalisco.gob.mx/",
+              "name": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)",
+              "telephone": "(33) 3668-1757, (33) 3668-1700,  01-800-715-1582.",
+              "email": "",
+              "faxNumber": ""
+            }
+          },
+          {
+            "id": "DEP-GOB-JAL-03.4-1653",
+            "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)",
+            "identifier": {
+              "id": "03.4-1653",
+              "uri": "http://sepaf.jalisco.gob.mx/",
+              "scheme": "DEP-GOB-JAL",
+              "legalName": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)"
+            },
+            "roles": [
+              "procuringEntity"
+            ],
+            "address": {
+              "streetAddress": "Av. Prolongación Alcalde #1221 col. Miraflores",
+              "region": "Jalisco",
+              "postalCode": "44270",
+              "countryName": "México",
+              "locality": "Guadalajara"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "url": "http://sepaf.jalisco.gob.mx/",
+              "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)",
+              "telephone": "(33) 3818-2800",
+              "email": "",
+              "faxNumber": ""
+            }
+          },
+          {
+            "id": "P09445",
+            "name": "ROLMO REPRESENTACIONES, S.A. DE C.V.",
+            "identifier": {
+              "id": "P09445",
+              "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+              "scheme": "PROV-GOB-JAL",
+              "legalName": "ROLMO REPRESENTACIONES, S.A. DE C.V."
+            },
+            "roles": [
+              "tenderer"
+            ],
+            "address": {
+              "streetAddress": "AVENIDA ALCALDE Nº 2524 col. SANTA ELENA ALCALDE",
+              "region": "JALISCO",
+              "postalCode": "44230",
+              "countryName": "México                                  ",
+              "locality": "GUADALAJARA"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "name": "Representante de ventas",
+              "telephone": "33424764",
+              "email": "rolmo_paty@hotmail.com",
+              "faxNumber": "33424765"
+            }
+          },
+          {
+            "id": "P22368",
+            "name": "TECNOPRESENTACIONES CORA, S.A. DE C.V.",
+            "identifier": {
+              "id": "P22368",
+              "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+              "scheme": "PROV-GOB-JAL",
+              "legalName": "TECNOPRESENTACIONES CORA, S.A. DE C.V."
+            },
+            "roles": [
+              "tenderer"
+            ],
+            "address": {
+              "streetAddress": "CALLE PEDRO RAMIREZ N° 16 col. EL BATAN",
+              "region": "JALISCO",
+              "postalCode": "45190",
+              "countryName": "México                                  ",
+              "locality": "ZAPOPAN"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "name": "Representante de ventas",
+              "telephone": "",
+              "email": "direccion@tecnocora.com",
+              "faxNumber": "33666836"
+            }
+          },
+          {
+            "id": "P01576",
+            "name": "SERVICIOS PRECIADO, S.A. DE C.V.",
+            "identifier": {
+              "id": "P01576",
+              "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+              "scheme": "PROV-GOB-JAL",
+              "legalName": "SERVICIOS PRECIADO, S.A. DE C.V."
+            },
+            "roles": [
+              "supplier"
+            ],
+            "address": {
+              "streetAddress": "PEDRO MORENO N° 1558 col. AMERICANA",
+              "region": "JALISCO",
+              "postalCode": "44160",
+              "countryName": "México                                  ",
+              "locality": "GUADALAJARA"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "name": "Representante de ventas",
+              "telephone": "38267223",
+              "email": "serpresa86@telmexmail.com",
+              "faxNumber": "36161477"
+            }
+          },
+          {
+            "id": "P26541",
+            "name": "PANATEX MEXICO, S.A. DE C .V.",
+            "identifier": {
+              "id": "P26541",
+              "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+              "scheme": "PROV-GOB-JAL",
+              "legalName": "PANATEX MEXICO, S.A. DE C .V."
+            },
+            "roles": [
+              "tenderer"
+            ],
+            "address": {
+              "streetAddress": "AVENIDA ALCALDE N° 82 col. EL BATAN",
+              "region": "JALISCO",
+              "postalCode": "45190",
+              "countryName": "México                                  ",
+              "locality": "ZAPOPAN"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "name": "Representante de ventas",
+              "telephone": "31127323",
+              "email": "info@panatex.mx",
+              "faxNumber": "31127323"
+            }
+          },
+          {
+            "id": "P26049",
+            "name": "GRUPO MEXIVO, S.A. DE C.V.",
+            "identifier": {
+              "id": "P26049",
+              "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+              "scheme": "PROV-GOB-JAL",
+              "legalName": "GRUPO MEXIVO, S.A. DE C.V."
+            },
+            "roles": [
+              "tenderer"
+            ],
+            "address": {
+              "streetAddress": "AVENIDA PERFIFERICO PONIENTE N° 2100-E col. LOMAS DEL COLLI",
+              "region": "JALISCO",
+              "postalCode": "45010",
+              "countryName": "México                                  ",
+              "locality": "ZAPOPAN"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "name": "Representante de ventas",
+              "telephone": "17284365",
+              "email": "ventas@grumex.com.mx"
+            }
+          },
+          {
+            "id": "DEP-GOB-JAL-03.4-1692",
+            "name": "SEPAF/DGE | DIR.GRAL. DE EGRESOS (SUB-FINANZAS)",
+            "identifier": {
+              "id": "03.4-1692",
+              "uri": "http://sepaf.jalisco.gob.mx/",
+              "scheme": "DEP-GOB-JAL",
+              "legalName": "SEPAF/DGE | DIR.GRAL. DE EGRESOS (SUB-FINANZAS)"
+            },
+            "roles": [
+              "payer"
+            ],
+            "address": {
+              "streetAddress": "Calle Pedro Moreno #281 col. Centro",
+              "region": "Jalisco",
+              "postalCode": "44100",
+              "countryName": "México",
+              "locality": "Guadalajara"
+            },
+            "additionalIdentifiers": [],
+            "contactPoint": {
+              "url": "http://sepaf.jalisco.gob.mx/",
+              "name": "SEPAF/DGE | DIR.GRAL. DE EGRESOS (SUB-FINANZAS)",
+              "telephone": "(33) 3668-1757, (33) 3668-1700,  01-800-715-1582.",
+              "email": "",
+              "faxNumber": ""
+            }
+          }
+        ],
+        "id": "ocds-xs1qbl-SFIN-03-0011-00-2017-compiled",
+        "contracts": [
+          {
+            "dateSigned": "2017-06-16T12:00:00Z",
+            "relatedProcesses": [],
+            "documents": [
+              {
+                "datePublished": "2017-12-05T11:59:47Z",
+                "id": "498817-64180",
+                "url": "https://contratacionesabiertas.jalisco.gob.mx/apiDocumentosOcds/descarga/contrato/64180/id/498817",
+                "format": "application/pdf",
+                "description": "contrato",
+                "documentType": "contrato",
+                "language": "es",
+                "dateModified": "2017-12-05T11:59:47Z",
+                "title": "Contrato No.64180"
+              }
+            ],
+            "description": "Contrato número 64180 para el proveedor SERVICIOS PRECIADO, S.A. DE C.V.",
+            "amendments": [],
+            "awardID": "IN498817-OC64180-2017",
+            "implementation": {
+              "documents": [],
+              "milestones": [],
+              "transactions": [
+                {
+                  "id": "1641089-1641089",
+                  "source": "https://gobiernoenlinea1.jalisco.gob.mx/presupuesto/Presupuesto",
+                  "date": "2017-07-14T12:00:00Z",
+                  "payee": {
+                    "id": "P01576",
+                    "name": "SERVICIOS PRECIADO, S.A. DE C.V."
+                  },
+                  "payer": {
+                    "id": "DEP-GOB-JAL-03.4-1692",
+                    "name": "SEPAF/DGE | DIR.GRAL. DE EGRESOS (SUB-FINANZAS)"
+                  },
+                  "value": {
+                    "amount": 34138.8,
+                    "currency": "MXN"
+                  },
+                  "uri": null
+                }
+              ]
+            },
+            "title": "EQUIPO DE OFICINA",
+            "value": {
+              "amount": 34138.8,
+              "currency": "MXN"
+            },
+            "period": {
+              "durationInDays": 0,
+              "endDate": "2017-06-16T12:00:00Z",
+              "startDate": "2017-06-16T12:00:00Z"
+            },
+            "items": [
+              {
+                "id": "1-1332326",
+                "unit": {
+                  "id": "PZ",
+                  "name": "PIEZA                                                       ",
+                  "value": {
+                    "amount": 981.0,
+                    "currency": "MXN"
+                  },
+                  "scheme": "UM-GOB-JAL"
+                },
+                "description": "CALCULADORA  DE 12 DIGITOS GIGANTES LUMINOSOS CINTA DE IMPRESION COLOR ROJO/NEGRO VELOCIDAD DE IMPRESION 3.5 LINEAS/SEG CUATRO TECLAS DE MEMORIA CALENDARIO",
+                "itemAmount": {
+                  "amount": 34138.8,
+                  "currency": "MXN"
+                },
+                "taxRate": {
+                  "percentage": "16.0%",
+                  "value": {
+                    "amount": 156.96,
+                    "currency": "MXN"
+                  }
+                },
+                "additionalClassifications": [
+                  {
+                    "id": "032",
+                    "description": "MOBILIARIO DE OFICINA, REFACCIONES Y ACC",
+                    "scheme": "GPO-GOB-JAL"
+                  }
+                ],
+                "classification": {
+                  "id": "032-002       ",
+                  "description": "EQUIPO DE OFICINA",
+                  "scheme": "FAM-GOB-JAL"
+                },
+                "quantity": 30.0
+              }
+            ],
+            "id": "3-64180",
+            "status": "active",
+            "milestones": []
+          }
+        ],
+        "date": "2018-01-18T04:39:59Z",
+        "tag": [
+          "implementation",
+          "compiled"
+        ],
+        "buyer": {
+          "id": "DEP-GOB-JAL-03-1685",
+          "name": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)"
+        },
+        "tender": {
+          "procuringEntity": {
+            "id": "DEP-GOB-JAL-03.4-1653",
+            "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)"
+          },
+          "description": "PARA LA DIRECCION DE TRIBUTACION METROPOLITANA",
+          "awardCriteriaDetails": "Se adjudicará al licitante cuya oferta resulte solvente, porque cumple con los requisitos legales, técnicos y económicos establecidos en la convocatoria a la licitación y por tanto garantiza el cumplimiento de las obligaciones respectivas ",
+          "value": {
+            "amount": 72349.20000000001,
+            "currency": "MXN"
+          },
+          "tenderers": [
+            {
+              "id": "P09445",
+              "name": "ROLMO REPRESENTACIONES, S.A. DE C.V."
+            },
+            {
+              "id": "P22368",
+              "name": "TECNOPRESENTACIONES CORA, S.A. DE C.V."
+            },
+            {
+              "id": "P01576",
+              "name": "SERVICIOS PRECIADO, S.A. DE C.V."
+            },
+            {
+              "id": "P26541",
+              "name": "PANATEX MEXICO, S.A. DE C .V."
+            },
+            {
+              "id": "P26049",
+              "name": "GRUPO MEXIVO, S.A. DE C.V."
+            }
+          ],
+          "procurementMethod": "open",
+          "id": "ocds-xs1qbl-SFIN-03-0011-00-2017",
+          "status": "complete",
+          "minValue": {
+            "amount": 65772.0,
+            "currency": "MXN"
+          },
+          "additionalProcurementCategories": [],
+          "awardCriteria": "ratedCriteria",
+          "milestones": [],
+          "submissionMethod": [
+            "inPerson"
+          ],
+          "numberOfTenderers": 5,
+          "amendments": [],
+          "documents": [
+            {
+              "datePublished": "2017-05-15T12:46:42Z",
+              "id": "183299-1",
+              "url": "https://contratacionesabiertas.jalisco.gob.mx/apiDocumentosOcds/descarga/documento/1/id/183299",
+              "format": "application/vnd.openxmlformats-officedocument.word",
+              "description": "Bases",
+              "documentType": "Bases",
+              "language": "es",
+              "dateModified": "2017-05-15T12:46:42Z",
+              "title": "BASES Y ESPECIFICACIONES TECNICAS"
+            }
+          ],
+          "hasEnquiries": true,
+          "mainProcurementCategory": "goods",
+          "title": "EQUIPO DE OFICINA",
+          "procurementMethodRationale": "Se procederá conforme al artículo 47 de la Ley de Compras Gubernamentales Enajenaciones y Contrataciones de Servicios del Estado de Jalisco y sus Municipios.",
+          "submissionMethodDetails": "El participante deberá presentar su propuesta mecanografiada o impresa en papel membretado original del participante, debidamente firmada de forma autógrafa por él o su representante legal. Todos los documentos que integren la propuesta deberán presentarse, dentro de un sobre cerrado de forma inviolable con cinta adhesiva, señalando claramente nombre del Participante, así como número y nombre del proceso de adquisición",
+          "items": [
+            {
+              "id": "1-1332326",
+              "unit": {
+                "id": "PZ",
+                "name": "PIEZA                                                       ",
+                "value": {
+                  "amount": 2192.4,
+                  "currency": "MXN"
+                },
+                "scheme": "UM-GOB-JAL"
+              },
+              "description": "CALCULADORA  DE 12 DIGITOS GIGANTES LUMINOSOS CINTA DE IMPRESION COLOR ROJO/NEGRO VELOCIDAD DE IMPRESION 3.5 LINEAS/SEG CUATRO TECLAS DE MEMORIA CALENDARIO",
+              "additionalClassifications": [
+                {
+                  "id": "032",
+                  "description": "MOBILIARIO DE OFICINA, REFACCIONES Y ACC",
+                  "scheme": "GPO-GOB-JAL"
+                }
+              ],
+              "classification": {
+                "id": "032-002       ",
+                "description": "EQUIPO DE OFICINA",
+                "scheme": "FAM-GOB-JAL"
+              },
+              "quantity": 30.0
+            }
+          ],
+          "eligibilityCriteria": "precio, calidad y las mejores condiciones para el Gobierno de Jalisco",
+          "procurementMethodDetails": "Licitación Pública"
+        },
+        "ocid": "ocds-xs1qbl-SFIN-03-0011-00-2017"
+      },
+      "ocid": "ocds-xs1qbl-SFIN-03-0011-00-2017",
+      "releases": [
+        {
+          "url": "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000433Z-planning",
+          "date": "2018-01-18T04:40:00Z",
+          "tag": [
+            "planning"
+          ]
+        },
+        {
+          "url": "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000548Z-tender",
+          "date": "2018-01-18T04:40:00Z",
+          "tag": [
+            "tender"
+          ]
+        },
+        {
+          "url": "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000646Z-award",
+          "date": "2018-01-18T04:40:00Z",
+          "tag": [
+            "award"
+          ]
+        },
+        {
+          "url": "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000786Z-contract",
+          "date": "2018-01-18T04:40:00Z",
+          "tag": [
+            "contract"
+          ]
+        },
+        {
+          "url": "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000969Z-implementation",
+          "date": "2018-01-18T04:40:00Z",
+          "tag": [
+            "implementation"
+          ]
+        }
+      ]
+    }
+  ],
+  "version": "1.1",
+  "extensions": [],
+  "publishedDate": "2018-01-18T04:39:59Z",
+  "publisher": {
+    "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)",
+    "uid": "DEP-GOB-JAL-03.4-1653",
+    "uri": "https://contratacionesabiertas.jalisco.gob.mx/OCApi",
+    "scheme": "DEP-GOB-JAL"
+  },
+  "_id": {
+    "$oid": "5a6123625c2dbc406dba6f99"
+  },
+  "uri": "https://contratacionesabiertas.jalisco.gob.mx/OCApi/record/ocds-xs1qbl-SFIN-03-0011-00-2017",
+  "packages": [
+    "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000433Z-planning",
+    "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000548Z-tender",
+    "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000646Z-award",
+    "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000786Z-contract",
+    "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0011-00-2017-20180118T044000969Z-implementation"
+  ]
+}
