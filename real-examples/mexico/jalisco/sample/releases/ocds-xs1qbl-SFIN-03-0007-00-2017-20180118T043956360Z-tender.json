@@ -1,0 +1,284 @@
+{
+  "version": "1.1",
+  "extensions": [],
+  "publishedDate": "2018-01-18T04:39:56Z",
+  "publisher": {
+    "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)",
+    "uid": "DEP-GOB-JAL-03.4-1653",
+    "uri": "https://contratacionesabiertas.jalisco.gob.mx/OCApi",
+    "scheme": "DEP-GOB-JAL"
+  },
+  "_id": {
+    "$oid": "5a61235c5c2dbc406dba6f85"
+  },
+  "uri": "https://contratacionesabiertas.jalisco.gob.mx/OCApi/release/ocds-xs1qbl-SFIN-03-0007-00-2017-20180118T043956360Z-tender",
+  "releases": [
+    {
+      "initiationType": "tender",
+      "relatedProcesses": [],
+      "language": "es",
+      "awards": [],
+      "additionalProcessInformation": {
+        "purchaseNumber": "SFIN/03/0007-00/2017",
+        "startDateContractingProcess": "2017-02-09T11:29:43Z",
+        "processYear": 2017,
+        "estimatedAmount": {
+          "amount": 264000.0,
+          "currency": "MXN"
+        },
+        "contractedAmount": {
+          "amount": 0.0,
+          "currency": "MXN"
+        },
+        "originProcess": "poderEjecutivo",
+        "stageDescription": {
+          "currentStage": "Implementación",
+          "description": "Esta etapa consiste en el seguimiento de las entregas y pagos de los bienes o servicios contratados.",
+          "stageNumber": 2
+        },
+        "consolidated": false,
+        "family": "PAQUETES Y PROGRAMAS(SOFTWARE)",
+        "purchaseRequisitionDate": "2017-01-30T01:51:50Z"
+      },
+      "parties": [
+        {
+          "id": "DEP-GOB-JAL-03-1685",
+          "name": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)",
+          "identifier": {
+            "id": "03-1685",
+            "uri": "http://sepaf.jalisco.gob.mx/",
+            "scheme": "DEP-GOB-JAL",
+            "legalName": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)"
+          },
+          "roles": [
+            "buyer"
+          ],
+          "address": {
+            "streetAddress": "Calle Pedro Moreno #281 col. Centro",
+            "region": "Jalisco",
+            "postalCode": "44100",
+            "countryName": "México",
+            "locality": "Guadalajara"
+          },
+          "additionalIdentifiers": [],
+          "contactPoint": {
+            "url": "http://sepaf.jalisco.gob.mx/",
+            "name": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)",
+            "telephone": "(33) 3668-1757, (33) 3668-1700,  01-800-715-1582.",
+            "email": "",
+            "faxNumber": ""
+          }
+        },
+        {
+          "id": "DEP-GOB-JAL-03.4-1653",
+          "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)",
+          "identifier": {
+            "id": "03.4-1653",
+            "uri": "http://sepaf.jalisco.gob.mx/",
+            "scheme": "DEP-GOB-JAL",
+            "legalName": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)"
+          },
+          "roles": [
+            "procuringEntity"
+          ],
+          "address": {
+            "streetAddress": "Av. Prolongación Alcalde #1221 col. Miraflores",
+            "region": "Jalisco",
+            "postalCode": "44270",
+            "countryName": "México",
+            "locality": "Guadalajara"
+          },
+          "additionalIdentifiers": [],
+          "contactPoint": {
+            "url": "http://sepaf.jalisco.gob.mx/",
+            "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)",
+            "telephone": "(33) 3818-2800",
+            "email": "",
+            "faxNumber": ""
+          }
+        },
+        {
+          "id": "P13574",
+          "name": "ISD SOLUCIONES DE TIC, S.A. DE C.V.",
+          "identifier": {
+            "id": "P13574",
+            "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+            "scheme": "PROV-GOB-JAL",
+            "legalName": "ISD SOLUCIONES DE TIC, S.A. DE C.V."
+          },
+          "roles": [
+            "tenderer"
+          ],
+          "address": {
+            "streetAddress": "AVENIDA PROLONGACION ALCALDE Nº 2259 col. SANTA MONICA",
+            "region": "JALISCO",
+            "postalCode": "44220",
+            "countryName": "México                                  ",
+            "locality": "GUADALAJARA"
+          },
+          "additionalIdentifiers": [],
+          "contactPoint": {
+            "name": "Representante de ventas",
+            "telephone": "",
+            "email": "ventas@isdsoluciones.com.mx, diana.garcia@isdsoluciones.com.mx, auxiliar@isdsoluciones.com.mx, proye",
+            "faxNumber": "38238681"
+          }
+        },
+        {
+          "id": "P00201",
+          "name": "COMPUTER LAND DE OCCIDENTE, S.A. DE C.V.",
+          "identifier": {
+            "id": "P00201",
+            "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+            "scheme": "PROV-GOB-JAL",
+            "legalName": "COMPUTER LAND DE OCCIDENTE, S.A. DE C.V."
+          },
+          "roles": [
+            "tenderer"
+          ],
+          "address": {
+            "streetAddress": "GABRIEL CASTAÑOS Nº 9 col. ARCOS VALLARTA",
+            "region": "JALISCO",
+            "postalCode": "44130",
+            "countryName": "México                                  ",
+            "locality": "GUADALAJARA"
+          },
+          "additionalIdentifiers": [],
+          "contactPoint": {
+            "name": "Representante de ventas",
+            "telephone": "39156666",
+            "email": "julio.sanroman@computerland.com.mx",
+            "faxNumber": "39156666"
+          }
+        },
+        {
+          "id": "P00716",
+          "name": "COMPUCAD, S.A. DE C.V.",
+          "identifier": {
+            "id": "P00716",
+            "uri": "http://enlinea.jalisco.gob.mx/consultaproveedores/",
+            "scheme": "PROV-GOB-JAL",
+            "legalName": "COMPUCAD, S.A. DE C.V."
+          },
+          "roles": [
+            "supplier"
+          ],
+          "address": {
+            "streetAddress": "AURELIO L.GALLARDO N° 433 col. LADRON DE GUEVARA",
+            "region": "JALISCO",
+            "postalCode": "44600",
+            "countryName": "México                                  ",
+            "locality": "GUADALAJARA"
+          },
+          "additionalIdentifiers": [],
+          "contactPoint": {
+            "name": "Representante de ventas",
+            "telephone": "",
+            "email": "sergio.valadez@compucad.com.mx",
+            "faxNumber": "36301591"
+          }
+        }
+      ],
+      "id": "ocds-xs1qbl-SFIN-03-0007-00-2017-20180118T043956360Z-tender",
+      "contracts": [],
+      "date": "2018-01-18T04:39:56Z",
+      "tag": [
+        "tender"
+      ],
+      "buyer": {
+        "id": "DEP-GOB-JAL-03-1685",
+        "name": "SEPAF | SECRETARíA DE PLANEACIóN, ADMINISTRACIóN Y FINANZAS (SUB-FINANZAS)"
+      },
+      "tender": {
+        "procuringEntity": {
+          "id": "DEP-GOB-JAL-03.4-1653",
+          "name": "SEPAF/DGA | DIR.GRAL. DE ABASTECEMIENTOS (SUB-ADMINISTRACIÓN)"
+        },
+        "description": "PARA LA DGTI",
+        "awardCriteriaDetails": "Se adjudicará al licitante cuya oferta resulte solvente, porque cumple con los requisitos legales, técnicos y económicos establecidos en la convocatoria a la licitación y por tanto garantiza el cumplimiento de las obligaciones respectivas ",
+        "value": {
+          "amount": 290400.0,
+          "currency": "MXN"
+        },
+        "tenderers": [
+          {
+            "id": "P13574",
+            "name": "ISD SOLUCIONES DE TIC, S.A. DE C.V."
+          },
+          {
+            "id": "P00201",
+            "name": "COMPUTER LAND DE OCCIDENTE, S.A. DE C.V."
+          },
+          {
+            "id": "P00716",
+            "name": "COMPUCAD, S.A. DE C.V."
+          }
+        ],
+        "procurementMethod": "open",
+        "id": "ocds-xs1qbl-SFIN-03-0007-00-2017",
+        "status": "active",
+        "minValue": {
+          "amount": 264000.0,
+          "currency": "MXN"
+        },
+        "additionalProcurementCategories": [],
+        "awardCriteria": "ratedCriteria",
+        "milestones": [],
+        "submissionMethod": [
+          "inPerson"
+        ],
+        "numberOfTenderers": 3,
+        "amendments": [],
+        "documents": [
+          {
+            "datePublished": "2017-03-28T07:24:42Z",
+            "id": "183233-5",
+            "url": "https://contratacionesabiertas.jalisco.gob.mx/apiDocumentosOcds/descarga/documento/5/id/183233",
+            "format": "application/vnd.openxmlformats-officedocument.word",
+            "description": "Bases",
+            "documentType": "Bases",
+            "language": "es",
+            "dateModified": "2017-03-28T07:24:42Z",
+            "title": "BASES"
+          }
+        ],
+        "hasEnquiries": true,
+        "mainProcurementCategory": "goods",
+        "title": "PAQUETES Y PROGRAMAS(SOFTWARE)",
+        "procurementMethodRationale": "Se procederá conforme al artículo 47 de la Ley de Compras Gubernamentales Enajenaciones y Contrataciones de Servicios del Estado de Jalisco y sus Municipios.",
+        "submissionMethodDetails": "El participante deberá presentar su propuesta mecanografiada o impresa en papel membretado original del participante, debidamente firmada de forma autógrafa por él o su representante legal. Todos los documentos que integren la propuesta deberán presentarse, dentro de un sobre cerrado de forma inviolable con cinta adhesiva, señalando claramente nombre del Participante, así como número y nombre del proceso de adquisición",
+        "items": [
+          {
+            "id": "1-1331806",
+            "unit": {
+              "id": "SER",
+              "name": "SERVICIO                                                    ",
+              "value": {
+                "amount": 264000.0,
+                "currency": "MXN"
+              },
+              "scheme": "UM-GOB-JAL"
+            },
+            "description": "LICENCIAMIENTO DE USO DE SOFTWARE  LICENCIAMIENTO DE CREATIVE CLOUD ALL APPS ALL MULTIPLE PLATFORM MULTI NORTH AMERICAN LENGUAGE TEAM LICENSING SUBSCRIPTION RENEWAL 1 USER",
+            "additionalClassifications": [
+              {
+                "id": "007",
+                "description": "EQUIPO DE COMPUTO, AUDIOVISUAL Y TELECOM",
+                "scheme": "GPO-GOB-JAL"
+              }
+            ],
+            "classification": {
+              "id": "007-011       ",
+              "description": "PAQUETES Y PROGRAMAS(SOFTWARE)",
+              "scheme": "FAM-GOB-JAL"
+            },
+            "quantity": 1.0
+          }
+        ],
+        "eligibilityCriteria": "precio, calidad y las mejores condiciones para el Gobierno de Jalisco",
+        "procurementMethodDetails": "Licitación Pública"
+      },
+      "ocid": "ocds-xs1qbl-SFIN-03-0007-00-2017"
+    }
+  ]
+}
