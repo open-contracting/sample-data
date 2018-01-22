@@ -7,3 +7,4 @@ requests==2.12.4
 requests_cache==0.4.13
 wheel==0.29.0
 -e git://github.com/open-contracting/jsonmerge.git@7d1506cef4a6de534ff6ebfaa4a412ffee771630#egg=jsonmerge
+lxml==3.5.0
