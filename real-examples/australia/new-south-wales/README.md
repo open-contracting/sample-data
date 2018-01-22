@@ -2,10 +2,8 @@
 
 [NSW eTendering API documentation](https://github.com/NSW-eTendering/NSW-eTendering-API)
 
-I believe that if we retrieve releases from these three categories, following the `next` links, we will have full coverage (but we should check this):
+Search all tenderers from: https://tenders.nsw.gov.au/?event=public.RFT.list&ResultsPerPage=200
 
-    https://tenders.nsw.gov.au/?event=public.api.planning.search&ResultsPerPage=1000
-    https://tenders.nsw.gov.au/?event=public.api.tender.search&ResultsPerPage=1000
-    https://tenders.nsw.gov.au/?event=public.api.contract.search&ResultsPerPage=1000
+And the download the full tender view of each one with: https://tenders.nsw.gov.au/?event=public.api.tender.view&RFTUUID=X
 
-As of 2017/07/04 there are around 20,000 releases.
+As of 2018/01/22 there are 166 tenders and 166 release-package.
