@@ -2,7 +2,7 @@
 
 OCDS output is available as a [bulk release download](http://opencontracting.date.gov.md/downloads).
 
-(For reference, it is also available in the format `http://moldova-ocds.yipl.com.np/ocds/{CONTRACT-ID}/json` e.g. [http://moldova-ocds.yipl.com.np/ocds/89270/json](http://moldova-ocds.yipl.com.np/ocds/89270/json))
+(For reference, it is also available in the format `http://moldova-ocds.yipl.com.np/ocds/{CONTRACT-ID}/json` e.g. <http://moldova-ocds.yipl.com.np/ocds/89270/json>)
 
 There were 12,639 available releases as of 2017/06/29.
 
