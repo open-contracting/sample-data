@@ -2,7 +2,7 @@
 
 [Live data](https://public.api.openprocurement.org/api/2.3/tenders), in a format based on OCDS, is available from ProZorro [via the Open Procurement API](http://api-docs.openprocurement.org/en/latest/).
 
-Individual releases can be fetched by appending their ID onto `https://public.api.openprocurement.org/api/2.3/tenders/` such as [https://public.api.openprocurement.org/api/2.3/tenders/09076ffc415e4d57ad7046aacc91b6e1](https://public.api.openprocurement.org/api/2.3/tenders/09076ffc415e4d57ad7046aacc91b6e1)
+Individual releases can be fetched by appending their ID onto `https://public.api.openprocurement.org/api/2.3/tenders/` such as <https://public.api.openprocurement.org/api/2.3/tenders/09076ffc415e4d57ad7046aacc91b6e1>
 
 [Bulk releases](http://ocds.prozorro.openprocurement.io/) of ProZorro data are available in formats with and without OCDS extensions.
 
