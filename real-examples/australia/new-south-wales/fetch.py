@@ -39,7 +39,8 @@ def main():
                     if r == 'contract':
                         for award in release['awards']:
                             uuid = award['CNUUID']
-                            stage_urls.append('https://tenders.nsw.gov.au/?event=public.api.contract.view&CNUUID=%s' % uuid)
+                            stage_urls.append('https://tenders.nsw.gov.au/?event=public.api.contract.view&CNUUID=%s'
+                                              % uuid)
                             count = count + 1
                     for stage_url in stage_urls:
                         print('fetching', stage_url)
