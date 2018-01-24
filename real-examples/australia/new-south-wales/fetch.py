@@ -2,7 +2,6 @@ import optparse
 import os
 
 from common import common
-from lxml import html
 
 
 def main():
@@ -13,44 +12,57 @@ def main():
     parser.add_option('-b', '--bigquery', action='store_true', default=False,
                       help='Fetch records in bigquery format')
     (options, args) = parser.parse_args()
-    count = 0
-    services = ['rftproposed.list', 'RFT.list', 'RFT.closed', 'RFT.archived']
-    rft_uuids = []
+    url = 'https://tenders.nsw.gov.au'
+    url += '/?event=public.api.%s.search&ResultsPerPage=50'
     folder = os.path.dirname(os.path.realpath(__file__))
-    if not options.all:
-        url = 'https://tenders.nsw.gov.au'
-        url += '/?event=public.%s&ResultsPerPage=%s'
-        data = common.getUrlAndRetry(url % ('RFT.list', '10'), folder, isJson=False)
-        rft_uuids = rft_uuids + (html.fromstring(data.content).xpath(
-            '//div[@class="list-box"]/div/div[@class="row"]/div[@class="col-sm-8 col-md-9"]/div[@class="row"]/div['
-            '@class="col-sm-10"]/h2/a/@href'))
-        folder += '/sample'
-
-    else:
+    count = 0
+    if options.all:
         folder += '/all'
-        for service in services:
-            url = 'https://tenders.nsw.gov.au'
-            url += '/?event=public.%s&ResultsPerPage=%s'
-            url = url % (service, '20000')
-            print('fetching', url)
-            data = common.getUrlAndRetry(url, folder, isJson=False)
-            rft_uuids = rft_uuids + (html.fromstring(data.content).xpath(
-                '//div[@class="list-box"]/div/div[@class="row"]/div[@class="col-sm-8 col-md-9"]/div[@class="row"]/div['
-                '@class="col-sm-10"]/h2/a/@href'))
+        release_types = ['planning', 'tender', 'contract']
+        for r in release_types:
+            next_url = url % r
+            while next_url:
+                print('fetching', next_url)
+                data = common.getUrlAndRetry(next_url, folder)
 
-    rft_uuids = set(rft_uuids)
-    print('%s rftuuids in total' % len(rft_uuids))
-    tender_url = 'https://tenders.nsw.gov.au/?event=public.api.tender.view&RFTUUID=%s'
-    for next_url in rft_uuids:
-        complete_url = tender_url % next_url.split('RFTUUID=')[1]
-        print('fetching', complete_url)
-        data = common.getUrlAndRetry(complete_url, folder)
+                for release in data['releases']:
+                    stage_urls = []
+                    if r == 'planning':
+                        uuid = release['tender']['plannedProcurementUUID']
+                        stage_urls.append('https://tenders.nsw.gov.au/?event=public.api.planning.view'
+                                          '&PlannedProcurementUUID=%s' % uuid)
+                        count = count + 1
+                    if r == 'tender':
+                        uuid = release['tender']['RFTUUID']
+                        stage_urls.append('https://tenders.nsw.gov.au/?event=public.api.tender.view&RFTUUID=%s' % uuid)
+                        count = count + 1
+                    if r == 'contract':
+                        for award in release['awards']:
+                            uuid = award['CNUUID']
+                            stage_urls.append('https://tenders.nsw.gov.au/?event=public.api.contract.view&CNUUID=%s' % uuid)
+                            count = count + 1
+                    for stage_url in stage_urls:
+                        print('fetching', stage_url)
+                        stage_data = common.getUrlAndRetry(stage_url, folder)
+                        if options.bigquery:
+                            common.writeReleases(
+                                stage_data['releases'], folder, stage_data, stage_url)
+                        else:
+                            common.writeFile('%s-%s.json' % (r, count), folder, stage_data, stage_url)
+                if 'next' in data['links']:
+                    next_url = data['links']['next']
+                else:
+                    next_url = None
+    else:
+        folder += '/sample'
+        next_url = url % 'planning'
+        print('fetching', next_url)
+        data = common.getUrlAndRetry(next_url, folder)
         if options.bigquery:
             common.writeReleases(
                 data['releases'], folder, data, next_url)
         else:
             common.writeFile('%s.json' % count, folder, data, next_url)
-        count = count + 1
 
 
 if __name__ == '__main__':
