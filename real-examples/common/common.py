@@ -28,6 +28,10 @@ def extractPackageInfo(data):
         packageInfo['publishedDate'] = data['publishedDate']
     if 'publisher' in data:
         packageInfo['publisher'] = data['publisher']
+    if 'license' in data:
+        packageInfo['license'] = data['license']
+    if 'publicationPolicy' in data:
+        packageInfo['publicationPolicy'] = data['publicationPolicy']
     return packageInfo
 
 
