@@ -488,6 +488,8 @@ def add_permitted_values(schema):
         "properties": {
             "uri": {"type": "string"},
             "publishedDate": {"type": "string"},
+            "license": {"type": "string"},
+            "publicationPolicy": {"type": "string"},
             "publisher": {
                 "type": "object",
                 "properties": {

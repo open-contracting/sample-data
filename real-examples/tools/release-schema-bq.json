@@ -3033,7 +3033,17 @@
         "type": "timestamp", 
         "name": "publishedDate", 
         "mode": "nullable"
-      }, 
+      },
+      {
+        "type": "string",
+        "name": "license",
+        "mode": "nullable"
+      },
+      {
+        "type": "string",
+        "name": "publicationPolicy",
+        "mode": "nullable"
+      },
       {
         "fields": [
           {
