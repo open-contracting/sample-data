@@ -528,7 +528,7 @@ def main():
 
     all_data = []
     files = glob.glob('%s*' % options.filepath)
-    schema = json.load(open('release-schema.json'))
+    schema = json.load(open('release-schema.json', 'r'))
     schema = add_permitted_values(schema)
     schema = add_additionalProperties_to_schema(schema)
     # with open('schema_with_additionalproperties.json', 'w') as outfile:
