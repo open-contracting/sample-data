@@ -343,11 +343,6 @@ def fix_mexico_inai_issues(data):
                     if 'classification' in pp and 'uri' in pp['classification'] \
                             and isinstance(pp['classification']['uri'], int):
                         pp['classification']['uri'] = str(pp['classification']['uri'])
-            if 'date' in p:
-                try:
-                    datetime.strptime(p['date'], '%YYYY-%mm-%dd')
-                except ValueError:
-                    p['date'] = None
 
     if 'contracts' in data:
         for p in data['contracts']:
