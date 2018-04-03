@@ -26,7 +26,7 @@ def getAccessToken():
 
 
 # @rate_limited(0.3)
-def fetchRecord(record_id, folder, get_releases, page=0):
+def fetchRecord(record_id, folder, get_releases, page=0, bigquery=False):
     '''
     Given a record ID, construct the package URL and save locally.
     '''
@@ -36,8 +36,11 @@ def fetchRecord(record_id, folder, get_releases, page=0):
     data = common.getUrlAndRetry(url, folder, requestHeader={"Authorization": getAccessToken()})
     if data:
         try:
-            common.writeReleases(
-                [data['records'][0]['compiledRelease']], folder, data, url, 'records')
+            if bigquery:
+                common.writeReleases(
+                    [data['records'][0]['compiledRelease']], folder, data, url, 'records')
+            else:
+                common.writeFile('%s.json' % str(record_id), folder, data, url, 'records')
             if get_releases and 'packages' in data:
                 releases = data['packages']
                 for url in releases:
@@ -49,9 +52,14 @@ def fetchRecord(record_id, folder, get_releases, page=0):
                     print('fetching %s' % release_url)
                     release_data = common.getUrlAndRetry(release_url, folder)
                     if release_data and 'releases' in release_data:
-                        common.writeReleases(
-                            release_data['releases'], folder,
-                            release_data, release_url)
+                        if bigquery:
+                            common.writeReleases(
+                                release_data['releases'], folder,
+                                release_data, release_url)
+                        else:
+                            release_id = release_data['uri'].replace('https://contrataciones.gov.py/datos/id/', '')\
+                                .replace('/', '-')
+                            common.writeFile('%s.json' % str(release_id), folder, release_data, release_url)
         except KeyError:
             err = 'No compiledReleases, skipping this one: %s \n' % url
             print(err)
@@ -94,6 +102,8 @@ def main():
                       help='Skip downloads if file already exists')
     parser.add_option('-r', '--releases', action='store_true',
                       default=False, help='Fetch individual releases')
+    parser.add_option('-b', '--bigquery', action='store_true',
+                      default=False, help='Fetch records in bigquery format')
     (options, args) = parser.parse_args()
 
     record_package_ids = []
@@ -103,7 +113,6 @@ def main():
     else:
         record_package_ids += fetchRecordPackageIDs(options.year)
     print('%s record packages to retrieve' % len(record_package_ids))
-    # record_package_ids = [273637, 273638, 273639]
 
     page = 0
     folder = os.path.dirname(os.path.realpath(__file__))
@@ -126,7 +135,7 @@ def main():
                 print('record exists, skipping %s' % record_file)
                 page += 1
                 continue
-        fetchRecord(record_id, folder, options.releases, page)
+        fetchRecord(record_id, folder, options.releases, page, options.bigquery)
         page += 1
         with open(page_file, 'w') as n:
             n.write(str(page))
