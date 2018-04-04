@@ -2,6 +2,15 @@
 
 This directory contains tools for uploading releases and records to BigQuery, ready to for OCDS data users to run queries against them.
 
+## Requirements
+
+To convert releases, you will need:
+
+* A set of structurally valid OCDS releases downloaded as JSON files.
+* A version of JSON OCDS Schema in this directory named `release-schema.json`; fetch the latest using `wget http://standard.open-contracting.org/latest/en/release-schema.json`
+* Python 3
+* [Google Cloud SDK tools](https://cloud.google.com/sdk/). (to upload to Big Query)
+
 ## Convert files to BigQuery schema
 
 Before you upload files, you must remove fields not in the standard schema, and make some changes (e.g. all ID fields must become strings). You must also convert the releases to newline-delimited JSON.
@@ -10,7 +19,7 @@ The conversion script supplied will do this for you. To run it:
 
     python convert_releases_to_bigquery_schema.py -f ../mexico/grupo-aeroportuario/all/releases/
 
-This creates a new newline-delimited JSON file called `all-releases.json`, and does not change your original files.
+This creates a new newline-delimited JSON file in this directory called `all-releases.json`, and does not change your original files.
 
 ## Upload files to BigQuery
 
@@ -34,7 +43,7 @@ It means that the field is missing and you need to insert it.
 
 You can now query your table from the command line, for example:
 
-bq  --project_id ocds-172716 query "SELECT COUNT(ocid) FROM releases.mexico_grupo"
+    bq  --project_id ocds-172716 query "SELECT COUNT(ocid) FROM releases.mexico_grupo"
 
 You can also use the BigQuery UI to run queries.
 
