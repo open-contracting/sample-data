@@ -11,7 +11,6 @@ To convert releases, you will need:
 * Python 3
 * [Google Cloud SDK tools](https://cloud.google.com/sdk/). (to upload to Big Query)
 
-
 ## Convert files to BigQuery schema
 
 Before you upload files, you must remove fields not in the standard schema, and make some changes (e.g. all ID fields must become strings). You must also convert the releases to newline-delimited JSON.
