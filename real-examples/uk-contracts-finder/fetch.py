@@ -1,6 +1,9 @@
+import json
 import optparse
 import os
+from collections import defaultdict, OrderedDict
 
+import ocdsmerge
 import requests
 
 from common import common
@@ -30,6 +33,7 @@ def main():
     url = '%s/Published/Notices/OCDS/Search?order=asc&page=%s' % (BASE, 1)
     if options.all:
         folder += '/all'
+
         r = requests.get(url)
         data = r.json()
         num_pages = data['maxPage']
@@ -45,6 +49,16 @@ def main():
                 n.write(str(i))
         with open("page.n", 'w') as n:
             n.write("1")
+
+        releases_by_ocid = defaultdict(list)
+        for filename in os.listdir(folder+'/releases'):
+            print(filename)
+            release = json.load(open(os.path.join(folder+'/releases', filename)))
+            releases_by_ocid[release['ocid']].append(release)
+        for releases in releases_by_ocid.values():
+            compiled_release = ocdsmerge.merge(releases)
+            common.writeReleases(compiled_release, 'compiled', {}, None)
+
     else:
         folder += '/sample'
         print('fetching %s' % url)
