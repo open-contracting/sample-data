@@ -38,7 +38,7 @@ def main():
 
         r = requests.get(url)
         data = r.json()
-        num_pages = data['maxPage']
+        num_pages = 5
         releases_by_ocid = defaultdict(list)
         print('%s pages to retrieve' % num_pages)
         for i in range(page, num_pages + 1):
@@ -62,7 +62,7 @@ def main():
                     compiled_release = ocdsmerge.merge(releases_by_ocid[ocid])
                     common.writeFile(ocid+'.json', base_folder+'/compiled', compiled_release, None, 'releases')
                 else:
-                    common.writeFile(ocid + '.json', base_folder+'/compiled', releases_by_ocid[ocid], None, 'releases')
+                    common.writeFile(ocid + '.json', base_folder+'/compiled', releases_by_ocid[ocid][0], None, 'releases')
 
     else:
         folder += '/sample'
