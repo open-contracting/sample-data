@@ -50,7 +50,12 @@ def writeReleases(releases, folder, data, url, filetype='releases',  compiled=Fa
         else:
             r['packageInfo'] = None
         if compiled and releases_by_ocid is not None:
-            releases_by_ocid[r['ocid']].append(r)
+            try:
+                releases_by_ocid[r['ocid']].append(r)
+            except Exception as e:
+                print('First release package')
+                releases_by_ocid[r['ocid']] = []
+                releases_by_ocid[r['ocid']].append(r)
             continue
         # Filenames are a combination of the release OCID and ID,
         # which should guarantee uniqueness.

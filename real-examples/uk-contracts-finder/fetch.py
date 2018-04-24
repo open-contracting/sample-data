@@ -38,7 +38,7 @@ def main():
 
         r = requests.get(url)
         data = r.json()
-        num_pages = 5
+        num_pages = data['maxPage']
         releases_by_ocid = defaultdict(list)
         print('%s pages to retrieve' % num_pages)
         for i in range(page, num_pages + 1):
@@ -51,18 +51,20 @@ def main():
                     common.writeReleases(r['releases'], folder, r, url, 'releases', True, releases_by_ocid)
                 else:
                     common.writeReleases(r['releases'], folder, r, url)
+            print('Total unique ocids: %d' % len(releases_by_ocid))
+
             with open("page.n", 'w') as n:
                 n.write(str(i))
         with open("page.n", 'w') as n:
             n.write("1")
         if options.compiled:
             for ocid in releases_by_ocid:
-                print('compiling ocid %s with %d releases' % (ocid, len(releases_by_ocid[ocid])))
                 if len(releases_by_ocid[ocid]) > 1:
+                    print('compiling ocid %s with %d releases' % (ocid, len(releases_by_ocid[ocid])))
                     compiled_release = ocdsmerge.merge(releases_by_ocid[ocid])
-                    common.writeFile(ocid+'.json', base_folder+'/compiled', compiled_release, None, 'releases')
+                    common.writeFile(ocid+'.json', base_folder+'/compiled', compiled_release, None)
                 else:
-                    common.writeFile(ocid + '.json', base_folder+'/compiled', releases_by_ocid[ocid][0], None, 'releases')
+                    common.writeFile(ocid + '.json', base_folder+'/compiled', releases_by_ocid[ocid][0], None)
 
     else:
         folder += '/sample'

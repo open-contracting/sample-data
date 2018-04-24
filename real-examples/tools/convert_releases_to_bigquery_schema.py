@@ -190,7 +190,7 @@ def fix_taiwan_issues(data):
                     for e in extra_fields:
                         if e in i:
                             del i[e]
-    if 'pageageInfo' in data:
+    if 'packageInfo' in data:
         if isinstance(data['packageInfo']['publisher'], str):
             name = data['packageInfo']['publisher']
             data['packageInfo']['publisher'] = {
