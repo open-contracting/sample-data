@@ -1,3 +1,4 @@
+import json
 import optparse
 import os
 from collections import defaultdict
@@ -46,18 +47,24 @@ def main():
                 (BASE, i)
             print('fetching %s' % url)
             data = common.getUrlAndRetry(url, folder)
+            if data is None:
+                continue
             for r in data['results']:
-                if options.compiled:
-                    common.writeReleases(r['releases'], folder, r, url, 'releases', True, releases_by_ocid)
-                else:
                     common.writeReleases(r['releases'], folder, r, url)
-            print('Total unique ocids: %d' % len(releases_by_ocid))
 
             with open("page.n", 'w') as n:
                 n.write(str(i))
         with open("page.n", 'w') as n:
             n.write("1")
         if options.compiled:
+            folder += '/releases'
+            json_files = [x for x in os.listdir(folder) if x.endswith("json")]
+            for json_file in json_files:
+                json_file_path = os.path.join(folder, json_file)
+                with open(json_file_path, "r") as f:
+                    release = json.load(f)
+                    releases_by_ocid[release['ocid']].append(release)
+
             for ocid in releases_by_ocid:
                 if len(releases_by_ocid[ocid]) > 1:
                     print('compiling ocid %s with %d releases' % (ocid, len(releases_by_ocid[ocid])))
