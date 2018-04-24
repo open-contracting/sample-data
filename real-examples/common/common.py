@@ -35,7 +35,7 @@ def extractPackageInfo(data):
     return packageInfo
 
 
-def writeReleases(releases, folder, data, url, filetype='releases'):
+def writeReleases(releases, folder, data, url, filetype='releases',  compiled=False, releases_by_ocid=None):
     '''
     Given a list of releases and some package information,
     extract each release and write it to a file,
@@ -49,6 +49,14 @@ def writeReleases(releases, folder, data, url, filetype='releases'):
             r['packageInfo'] = packageInfo
         else:
             r['packageInfo'] = None
+        if compiled and releases_by_ocid is not None:
+            try:
+                releases_by_ocid[r['ocid']].append(r)
+            except Exception as e:
+                print('First release package')
+                releases_by_ocid[r['ocid']] = []
+                releases_by_ocid[r['ocid']].append(r)
+            continue
         # Filenames are a combination of the release OCID and ID,
         # which should guarantee uniqueness.
         # Replace characters (e.g. in timestamps) that cause problems.

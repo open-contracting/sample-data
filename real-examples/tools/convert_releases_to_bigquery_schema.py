@@ -190,7 +190,7 @@ def fix_taiwan_issues(data):
                     for e in extra_fields:
                         if e in i:
                             del i[e]
-    if 'pageageInfo' in data:
+    if 'packageInfo' in data:
         if isinstance(data['packageInfo']['publisher'], str):
             name = data['packageInfo']['publisher']
             data['packageInfo']['publisher'] = {
@@ -245,7 +245,7 @@ def fix_montreal_issues(data):
 
 
 def fix_mexico_apf_issues(data):
-    if 'tender' in data and 'submissionMethod' in data['tender'] and None in data['tender']['submissionMethod']:
+    if 'tender' in data and 'submissionMethod' in data['tender'] and data['tender']['submissionMethod'] is None:
         del data['tender']['submissionMethod']
     return data
 
@@ -539,6 +539,8 @@ def main():
         with open(filename, 'r') as file:
             try:
                 data = json.load(file)
+                if isinstance(data, list):
+                    data = data[0]
             except Exception as e:
                 print('Problem loading', filename)
                 print(e)
