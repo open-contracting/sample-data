@@ -39,7 +39,7 @@ with open("record/ocds-213czf-000-00001.json", 'w') as f:
             'compiledRelease': compiled_release,
         }]
     }, f, indent=2, sort_keys=True)
-    json.write('\n')
+    f.write('\n')
 
 with open("record/ocds-213czf-000-00001-withversions.json", 'w') as f:
     json.dump({
@@ -56,4 +56,4 @@ with open("record/ocds-213czf-000-00001-withversions.json", 'w') as f:
             'versionedRelease': versioned_release,
         }]
     }, f, indent=2, sort_keys=True)
-    json.write('\n')
+    f.write('\n')
