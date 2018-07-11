@@ -1,9 +1,9 @@
 #!/bin/bash
 set -e # exit on error
 
-curl -s -S -O "http://standard.open-contracting.org/schema/1__0__2/release-package-schema.json"
-curl -s -S -O "http://standard.open-contracting.org/schema/1__0__2/record-package-schema.json"
-curl -s -S -O "http://standard.open-contracting.org/schema/1__0__2/release-schema.json"
+curl -s -S -O "http://standard.open-contracting.org/schema/1__0__3/release-package-schema.json"
+curl -s -S -O "http://standard.open-contracting.org/schema/1__0__3/record-package-schema.json"
+curl -s -S -O "http://standard.open-contracting.org/schema/1__0__3/release-schema.json"
 cd fictional-example/1.0
 # Check that files validate
 for f in *.json; do echo $f; jsonschema ../../release-package-schema.json -i  $f; done
