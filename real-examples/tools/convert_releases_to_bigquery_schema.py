@@ -288,7 +288,7 @@ def fix_mexico_inai_issues(data):
                 data['tender']['minValue']['amount'], str):
             try:
                 data['tender']['minValue']['amount'] = float(data['tender']['minValue']['amount'])
-            except:
+            except ValueError:
                 data['tender']['minValue']['amount'] = None
         if 'submissionMethod' in data['tender'] and isinstance(data['tender']['submissionMethod'], str):
             data['tender']['submissionMethod'] = [data['tender']['submissionMethod']]
@@ -299,7 +299,7 @@ def fix_mexico_inai_issues(data):
                 isinstance(data['tender']['awardPeriod']['durationInDays'], str):
             try:
                 data['tender']['awardPeriod']['durationInDays'] = int(data['tender']['awardPeriod']['durationInDays'])
-            except:
+            except ValueError:
                 data['tender']['awardPeriod']['durationInDays'] = None
         if 'awardPeriod' in data['tender'] and 'maxExtentDate' in data['tender']['awardPeriod'] \
                 and (isinstance(data['tender']['awardPeriod']['maxExtentDate'], int)
