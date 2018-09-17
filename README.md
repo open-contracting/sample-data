@@ -11,8 +11,6 @@ This repository holds sample data represented using the [Open Contracting Data S
 
 It should contain data aligned with the current version of the standard. Data aligned with previous versions of the standard may be found on named branches.
 
-Pointers to externally available example data are found in the sources.md file.
-
 ## Test that sample data validates
 
 ```shell
