@@ -1,23 +1,10 @@
 # Real world OCDS examples
 
-This folder contains real-world examples of OCDS data, plus scripts for fetching data, validating and transforming it.
+This folder contains real-world examples of OCDS data.
 
 Each publisher directory contains:
 
 * A ```sample/releases``` folder which contains a small number of example releases, and a ```sample/records``` folder with a small number of example records.
-* A ```fetch.py``` script which will get an updated set of examples, or all available releases if you so specify.
-
-## Fetch data
-
-You can fetch data by changing to the target directory, then running:
-
-    python /publisher-name/fetch.py
-
-You will need the current directory in your Python path for this to work. The following command should update the path appropriately.
-
-    PYTHONPATH=$PYTHONPATH:`pwd`
-
-This script defaults to collecting around 10 examples. Add the `--all` argument to fetch all available publications and save them in an `all` folder (which git will ignore).
 
 ## Transform data
 
