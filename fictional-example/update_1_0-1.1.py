@@ -1,8 +1,8 @@
-from copy import deepcopy
+import glob
 import hashlib
 import json
-import glob
 from collections import OrderedDict
+from copy import deepcopy
 
 # Update the parties array and return an updated organisation reference block to use.
 
