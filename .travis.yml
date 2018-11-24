@@ -10,4 +10,4 @@ install:
   - pip install -r requirements.txt
 script:
   - curl -s -S --retry 3 $BASEDIR/tests/script.sh | bash -
-  - ./validate.sh
+  - pytest
