@@ -202,7 +202,7 @@ def fix_taiwan_issues(data):
                 data['packageInfo']['publishedDate'], "%Y-%m-%d")
             data['packageInfo']['publishedDate'] = \
                 datetime.strftime(d, "%Y-%m-%d %H:%M")
-        except (ValueError, TypeError) as e:
+        except (ValueError, TypeError):
             pass
     return data
 
@@ -217,7 +217,7 @@ def fix_nigeria_issues(data):
                 data['packageInfo']['publishedDate'], "%Y-%m-%dT%H:%M:%SZ")
             data['packageInfo']['publishedDate'] = \
                 datetime.strftime(d, "%Y-%m-%d %H:%M")
-        except (ValueError, TypeError) as e:
+        except (ValueError, TypeError):
             pass
     return data
 

@@ -10,7 +10,7 @@ from jsonschema.validators import Draft4Validator as validator
 
 sys.path.append('fictional-example')
 
-from merge import merge
+from merge import merge  # noqa
 
 
 patch_versions = {
