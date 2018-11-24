@@ -36,7 +36,7 @@
         "faxNumber": "string",
         "url": "string"
       },
-      "roles": "array",
+      "roles": [],
       "details": "object"
     }
   ],
@@ -51,7 +51,7 @@
       "description": "string",
       "amount": {
         "amount": "number",
-        "currency": "string from currency codelist"
+        "currency": "string"
       },
       "project": "string",
       "projectID": "string",
@@ -74,7 +74,7 @@
       {
         "id": "string",
         "title": "string",
-        "type": "string",
+        "type": "string from milestoneType codelist",
         "description": "string",
         "code": "string",
         "dueDate": "string",
@@ -118,7 +118,7 @@
           "name": "string",
           "value": {
             "amount": "number",
-            "currency": "string from currency codelist"
+            "currency": "string"
           },
           "uri": "string"
         }
@@ -126,16 +126,16 @@
     ],
     "value": {
       "amount": "number",
-      "currency": "string from currency codelist"
+      "currency": "string"
     },
     "minValue": {
       "amount": "number",
-      "currency": "string from currency codelist"
+      "currency": "string"
     },
-    "procurementMethod": "string from method codelist",
+    "procurementMethod": "string",
     "procurementMethodDetails": "string",
     "procurementMethodRationale": "string",
-    "mainProcurementCategory": "string from procurementCategory codelist",
+    "mainProcurementCategory": "string",
     "additionalProcurementCategories": "array",
     "awardCriteria": "string",
     "awardCriteriaDetails": "string",
@@ -191,7 +191,7 @@
       {
         "id": "string",
         "title": "string",
-        "type": "string",
+        "type": "string from milestoneType codelist",
         "description": "string",
         "code": "string",
         "dueDate": "string",
@@ -220,7 +220,7 @@
       "date": "string",
       "value": {
         "amount": "number",
-        "currency": "string from currency codelist"
+        "currency": "string"
       },
       "suppliers": [
         {
@@ -253,7 +253,7 @@
             "name": "string",
             "value": {
               "amount": "number",
-              "currency": "string from currency codelist"
+              "currency": "string"
             },
             "uri": "string"
           }
@@ -305,7 +305,7 @@
       },
       "value": {
         "amount": "number",
-        "currency": "string from currency codelist"
+        "currency": "string"
       },
       "items": [
         {
@@ -332,7 +332,7 @@
             "name": "string",
             "value": {
               "amount": "number",
-              "currency": "string from currency codelist"
+              "currency": "string"
             },
             "uri": "string"
           }
@@ -360,7 +360,7 @@
             "date": "string",
             "value": {
               "amount": "number",
-              "currency": "string from currency codelist"
+              "currency": "string"
             },
             "payer": {
               "name": "string",
@@ -377,7 +377,7 @@
           {
             "id": "string",
             "title": "string",
-            "type": "string",
+            "type": "string from milestoneType codelist",
             "description": "string",
             "code": "string",
             "dueDate": "string",
@@ -414,7 +414,7 @@
         {
           "id": "string",
           "title": "string",
-          "type": "string",
+          "type": "string from milestoneType codelist",
           "description": "string",
           "code": "string",
           "dueDate": "string",

@@ -112,16 +112,7 @@
           }
         ],
         "quantity": "number",
-        "unit": {
-          "scheme": "string",
-          "id": "string",
-          "name": "string",
-          "value": {
-            "amount": "number",
-            "currency": "string from currency codelist"
-          },
-          "uri": "string"
-        }
+        "unit": "object"
       }
     ],
     "value": {
@@ -247,16 +238,7 @@
             }
           ],
           "quantity": "number",
-          "unit": {
-            "scheme": "string",
-            "id": "string",
-            "name": "string",
-            "value": {
-              "amount": "number",
-              "currency": "string from currency codelist"
-            },
-            "uri": "string"
-          }
+          "unit": "object"
         }
       ],
       "contractPeriod": {
@@ -326,16 +308,7 @@
             }
           ],
           "quantity": "number",
-          "unit": {
-            "scheme": "string",
-            "id": "string",
-            "name": "string",
-            "value": {
-              "amount": "number",
-              "currency": "string from currency codelist"
-            },
-            "uri": "string"
-          }
+          "unit": "object"
         }
       ],
       "dateSigned": "string",
