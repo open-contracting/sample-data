@@ -3,60 +3,21 @@
   "id": "",
   "date": "",
   "tag": [],
-  "initiationType": "string from initiationType codelist",
-  "parties": [
-    {
-      "name": "string",
-      "id": "string",
-      "identifier": {
-        "scheme": "string",
-        "id": "string",
-        "legalName": "string",
-        "uri": "string"
-      },
-      "additionalIdentifiers": [
-        {
-          "scheme": "string",
-          "id": "string",
-          "legalName": "string",
-          "uri": "string"
-        }
-      ],
-      "address": {
-        "streetAddress": "string",
-        "locality": "string",
-        "region": "string",
-        "postalCode": "string",
-        "countryName": "string"
-      },
-      "contactPoint": {
-        "name": "string",
-        "email": "string",
-        "telephone": "string",
-        "faxNumber": "string",
-        "url": "string"
-      },
-      "roles": "array",
-      "details": "object"
-    }
-  ],
-  "buyer": {
-    "name": "string",
-    "id": "string"
-  },
+  "initiationType": "tender",
   "planning": {
-    "rationale": "string",
     "budget": {
+      "source": "string",
       "id": "string",
       "description": "string",
       "amount": {
         "amount": "number",
-        "currency": "string from currency codelist"
+        "currency": "string"
       },
       "project": "string",
       "projectID": "string",
       "uri": "string"
     },
+    "rationale": "string",
     "documents": [
       {
         "id": "string",
@@ -69,30 +30,13 @@
         "format": "string",
         "language": "string"
       }
-    ],
-    "milestones": [
-      {
-        "id": "string",
-        "title": "string",
-        "type": "string",
-        "description": "string",
-        "code": "string",
-        "dueDate": "string",
-        "dateMet": "string",
-        "dateModified": "string",
-        "status": "string from milestoneStatus codelist"
-      }
     ]
   },
   "tender": {
     "id": "string",
     "title": "string",
     "description": "string",
-    "status": "string from tenderStatus codelist",
-    "procuringEntity": {
-      "name": "string",
-      "id": "string"
-    },
+    "status": "planned",
     "items": [
       {
         "id": "string",
@@ -111,69 +55,109 @@
             "uri": "string"
           }
         ],
-        "quantity": "number",
+        "quantity": "integer",
         "unit": {
-          "scheme": "string",
-          "id": "string",
           "name": "string",
           "value": {
             "amount": "number",
-            "currency": "string from currency codelist"
-          },
-          "uri": "string"
+            "currency": "string"
+          }
         }
       }
     ],
-    "value": {
-      "amount": "number",
-      "currency": "string from currency codelist"
-    },
     "minValue": {
       "amount": "number",
-      "currency": "string from currency codelist"
+      "currency": "string"
     },
-    "procurementMethod": "string from method codelist",
-    "procurementMethodDetails": "string",
+    "value": {
+      "amount": "number",
+      "currency": "string"
+    },
+    "procurementMethod": "open",
     "procurementMethodRationale": "string",
-    "mainProcurementCategory": "string from procurementCategory codelist",
-    "additionalProcurementCategories": "array",
     "awardCriteria": "string",
     "awardCriteriaDetails": "string",
     "submissionMethod": "array",
     "submissionMethodDetails": "string",
     "tenderPeriod": {
       "startDate": "string",
-      "endDate": "string",
-      "maxExtentDate": "string",
-      "durationInDays": "integer"
+      "endDate": "string"
     },
     "enquiryPeriod": {
       "startDate": "string",
-      "endDate": "string",
-      "maxExtentDate": "string",
-      "durationInDays": "integer"
+      "endDate": "string"
     },
     "hasEnquiries": "boolean",
     "eligibilityCriteria": "string",
     "awardPeriod": {
       "startDate": "string",
-      "endDate": "string",
-      "maxExtentDate": "string",
-      "durationInDays": "integer"
-    },
-    "contractPeriod": {
-      "startDate": "string",
-      "endDate": "string",
-      "maxExtentDate": "string",
-      "durationInDays": "integer"
+      "endDate": "string"
     },
     "numberOfTenderers": "integer",
     "tenderers": [
       {
+        "identifier": {
+          "scheme": "string",
+          "id": "string",
+          "legalName": "string",
+          "uri": "string"
+        },
+        "additionalIdentifiers": [
+          {
+            "scheme": "string",
+            "id": "string",
+            "legalName": "string",
+            "uri": "string"
+          }
+        ],
         "name": "string",
-        "id": "string"
+        "address": {
+          "streetAddress": "string",
+          "locality": "string",
+          "region": "string",
+          "postalCode": "string",
+          "countryName": "string"
+        },
+        "contactPoint": {
+          "name": "string",
+          "email": "string",
+          "telephone": "string",
+          "faxNumber": "string",
+          "url": "string"
+        }
       }
     ],
+    "procuringEntity": {
+      "identifier": {
+        "scheme": "string",
+        "id": "string",
+        "legalName": "string",
+        "uri": "string"
+      },
+      "additionalIdentifiers": [
+        {
+          "scheme": "string",
+          "id": "string",
+          "legalName": "string",
+          "uri": "string"
+        }
+      ],
+      "name": "string",
+      "address": {
+        "streetAddress": "string",
+        "locality": "string",
+        "region": "string",
+        "postalCode": "string",
+        "countryName": "string"
+      },
+      "contactPoint": {
+        "name": "string",
+        "email": "string",
+        "telephone": "string",
+        "faxNumber": "string",
+        "url": "string"
+      }
+    },
     "documents": [
       {
         "id": "string",
@@ -191,41 +175,104 @@
       {
         "id": "string",
         "title": "string",
-        "type": "string",
         "description": "string",
-        "code": "string",
         "dueDate": "string",
-        "dateMet": "string",
         "dateModified": "string",
-        "status": "string from milestoneStatus codelist"
+        "status": "met",
+        "documents": [
+          {
+            "id": "string",
+            "documentType": "string",
+            "title": "string",
+            "description": "string",
+            "url": "string",
+            "datePublished": "string",
+            "dateModified": "string",
+            "format": "string",
+            "language": "string"
+          }
+        ]
       }
     ],
-    "amendments": [
+    "amendment": {
+      "date": "string",
+      "changes": [],
+      "rationale": "string"
+    }
+  },
+  "buyer": {
+    "identifier": {
+      "scheme": "string",
+      "id": "string",
+      "legalName": "string",
+      "uri": "string"
+    },
+    "additionalIdentifiers": [
       {
-        "date": "string",
-        "rationale": "string",
+        "scheme": "string",
         "id": "string",
-        "description": "string",
-        "amendsReleaseID": "string",
-        "releaseID": "string"
+        "legalName": "string",
+        "uri": "string"
       }
-    ]
+    ],
+    "name": "string",
+    "address": {
+      "streetAddress": "string",
+      "locality": "string",
+      "region": "string",
+      "postalCode": "string",
+      "countryName": "string"
+    },
+    "contactPoint": {
+      "name": "string",
+      "email": "string",
+      "telephone": "string",
+      "faxNumber": "string",
+      "url": "string"
+    }
   },
   "awards": [
     {
       "id": "string",
       "title": "string",
       "description": "string",
-      "status": "string from awardStatus codelist",
+      "status": "pending",
       "date": "string",
       "value": {
         "amount": "number",
-        "currency": "string from currency codelist"
+        "currency": "string"
       },
       "suppliers": [
         {
+          "identifier": {
+            "scheme": "string",
+            "id": "string",
+            "legalName": "string",
+            "uri": "string"
+          },
+          "additionalIdentifiers": [
+            {
+              "scheme": "string",
+              "id": "string",
+              "legalName": "string",
+              "uri": "string"
+            }
+          ],
           "name": "string",
-          "id": "string"
+          "address": {
+            "streetAddress": "string",
+            "locality": "string",
+            "region": "string",
+            "postalCode": "string",
+            "countryName": "string"
+          },
+          "contactPoint": {
+            "name": "string",
+            "email": "string",
+            "telephone": "string",
+            "faxNumber": "string",
+            "url": "string"
+          }
         }
       ],
       "items": [
@@ -246,24 +293,19 @@
               "uri": "string"
             }
           ],
-          "quantity": "number",
+          "quantity": "integer",
           "unit": {
-            "scheme": "string",
-            "id": "string",
             "name": "string",
             "value": {
               "amount": "number",
-              "currency": "string from currency codelist"
-            },
-            "uri": "string"
+              "currency": "string"
+            }
           }
         }
       ],
       "contractPeriod": {
         "startDate": "string",
-        "endDate": "string",
-        "maxExtentDate": "string",
-        "durationInDays": "integer"
+        "endDate": "string"
       },
       "documents": [
         {
@@ -278,16 +320,11 @@
           "language": "string"
         }
       ],
-      "amendments": [
-        {
-          "date": "string",
-          "rationale": "string",
-          "id": "string",
-          "description": "string",
-          "amendsReleaseID": "string",
-          "releaseID": "string"
-        }
-      ]
+      "amendment": {
+        "date": "string",
+        "changes": [],
+        "rationale": "string"
+      }
     }
   ],
   "contracts": [
@@ -296,16 +333,14 @@
       "awardID": "string",
       "title": "string",
       "description": "string",
-      "status": "string from contractStatus codelist",
+      "status": "pending",
       "period": {
         "startDate": "string",
-        "endDate": "string",
-        "maxExtentDate": "string",
-        "durationInDays": "integer"
+        "endDate": "string"
       },
       "value": {
         "amount": "number",
-        "currency": "string from currency codelist"
+        "currency": "string"
       },
       "items": [
         {
@@ -325,16 +360,13 @@
               "uri": "string"
             }
           ],
-          "quantity": "number",
+          "quantity": "integer",
           "unit": {
-            "scheme": "string",
-            "id": "string",
             "name": "string",
             "value": {
               "amount": "number",
-              "currency": "string from currency codelist"
-            },
-            "uri": "string"
+              "currency": "string"
+            }
           }
         }
       ],
@@ -352,23 +384,32 @@
           "language": "string"
         }
       ],
+      "amendment": {
+        "date": "string",
+        "changes": [],
+        "rationale": "string"
+      },
       "implementation": {
         "transactions": [
           {
             "id": "string",
             "source": "string",
             "date": "string",
-            "value": {
+            "amount": {
               "amount": "number",
-              "currency": "string from currency codelist"
+              "currency": "string"
             },
-            "payer": {
-              "name": "string",
-              "id": "string"
+            "providerOrganization": {
+              "scheme": "string",
+              "id": "string",
+              "legalName": "string",
+              "uri": "string"
             },
-            "payee": {
-              "name": "string",
-              "id": "string"
+            "receiverOrganization": {
+              "scheme": "string",
+              "id": "string",
+              "legalName": "string",
+              "uri": "string"
             },
             "uri": "string"
           }
@@ -377,13 +418,23 @@
           {
             "id": "string",
             "title": "string",
-            "type": "string",
             "description": "string",
-            "code": "string",
             "dueDate": "string",
-            "dateMet": "string",
             "dateModified": "string",
-            "status": "string from milestoneStatus codelist"
+            "status": "met",
+            "documents": [
+              {
+                "id": "string",
+                "documentType": "string",
+                "title": "string",
+                "description": "string",
+                "url": "string",
+                "datePublished": "string",
+                "dateModified": "string",
+                "format": "string",
+                "language": "string"
+              }
+            ]
           }
         ],
         "documents": [
@@ -399,51 +450,8 @@
             "language": "string"
           }
         ]
-      },
-      "relatedProcesses": [
-        {
-          "id": "string",
-          "relationship": "array",
-          "title": "string",
-          "scheme": "string",
-          "identifier": "string",
-          "uri": "string"
-        }
-      ],
-      "milestones": [
-        {
-          "id": "string",
-          "title": "string",
-          "type": "string",
-          "description": "string",
-          "code": "string",
-          "dueDate": "string",
-          "dateMet": "string",
-          "dateModified": "string",
-          "status": "string from milestoneStatus codelist"
-        }
-      ],
-      "amendments": [
-        {
-          "date": "string",
-          "rationale": "string",
-          "id": "string",
-          "description": "string",
-          "amendsReleaseID": "string",
-          "releaseID": "string"
-        }
-      ]
+      }
     }
   ],
-  "language": "string",
-  "relatedProcesses": [
-    {
-      "id": "string",
-      "relationship": "array",
-      "title": "string",
-      "scheme": "string",
-      "identifier": "string",
-      "uri": "string"
-    }
-  ]
+  "language": "string"
 }
