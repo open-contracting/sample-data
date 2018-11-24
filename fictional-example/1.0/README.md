@@ -2,4 +2,4 @@
 
 A work-in-progress fictional example designed to demonstrate the key features of OCDS.
 
-These examples were handwritten.
+This example was hand-written.
