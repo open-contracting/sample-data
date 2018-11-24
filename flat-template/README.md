@@ -18,11 +18,8 @@ Feel free to hide or remove unused columns.
 
 ## Maintenance
 
-Change into this repository's directory, and run:
+This assumes that the `standard` repository and this repository have the same parent directory on your system, and that the `standard` repository is checked out to the latest tag. Install Flatten Tool, change into this repository's directory, and run:
 
 ```shell
-pip install flatten-tool
-git -C ../standard checkout 1__1__3
 flatten-tool create-template --truncation-length 5 --schema=../standard/standard/schema/release-schema.json -o flat-template/template --root-id=ocid --main-sheet-name releases
-git -C ../standard checkout 1.1-dev
 ```
