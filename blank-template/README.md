@@ -14,7 +14,7 @@ cd json-schema-random
 npm install .
 ```
 
-Then, run (in bash shell):
+To regenerate all files, run (in bash shell):
 
 ```shell
 for tag in `git -C ../standard tag | grep '1__\d__\d'`; do
@@ -24,13 +24,21 @@ done
 git -C ../standard checkout 1.1-dev
 ```
 
-Then, remove deprecated fields, by opening the `blank-template` directory in a text editor and using this regular expression to search deprecated fields and replace with empty strings:
+To regenerate one file, set a `tag` environment variable and run:
+
+```shell
+git -C ../standard checkout $tag;
+node cli.js ../standard/standard/schema/release-schema.json --no-random --no-additional > ../sample-data/blank-template/release-template-$tag.json
+git -C ../standard checkout 1.1-dev
+```
+
+Remove deprecated fields by opening the `blank-template` directory in a text editor and using this regular expression to search deprecated fields and replace with empty strings:
 
 ```text
 [,\n ]*"[a-zA-Z]+": "deprecated"
 ```
 
-Finally, change into this repository's directory, and indent the files with two spaces:
+Change into this repository's directory, and indent the files with two spaces:
 
 ```shell
 pip install ocdskit
