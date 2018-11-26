@@ -51,7 +51,7 @@ def test_merge():
         ocid, without_versioned, with_versioned = merge(os.path.join(path, minor_version))
 
         filename = os.path.join(path, minor_version, 'record', '{}.json'.format(ocid))
-        with open() as f:
+        with open(filename) as f:
             actual = json.load(f)
         assert actual == without_versioned, '{} differs - run merge.py?'.format(filename)
 
