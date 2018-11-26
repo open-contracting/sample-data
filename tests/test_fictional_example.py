@@ -50,10 +50,12 @@ def test_merge():
     for minor_version in ('1.0', '1.1'):
         ocid, without_versioned, with_versioned = merge(os.path.join(path, minor_version))
 
-        with open(os.path.join(path, minor_version, 'record', '{}.json'.format(ocid))) as f:
+        filename = os.path.join(path, minor_version, 'record', '{}.json'.format(ocid))
+        with open() as f:
             actual = json.load(f)
-        assert actual == without_versioned
+        assert actual == without_versioned, '{} differs - run merge.py?'.format(filename)
 
-        with open(os.path.join(path, minor_version, 'record', '{}-withversions.json'.format(ocid))) as f:
+        filename = os.path.join(path, minor_version, 'record', '{}-withversions.json'.format(ocid))
+        with open(filename) as f:
             actual = json.load(f)
-        assert actual == with_versioned
+        assert actual == with_versioned, '{} differs - run merge.py?'.format(filename)
