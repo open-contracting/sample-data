@@ -6,6 +6,8 @@ from collections import OrderedDict
 
 import ocdsmerge
 
+schema = 'http://standard.open-contracting.org/schema/1__1__2/release-schema.json'
+
 
 def merge(directory):
     releases = []
@@ -28,8 +30,8 @@ def merge(directory):
                 ('tag', release['tag']),
             ]))
 
-    compiled_release = ocdsmerge.merge(releases)
-    versioned_release = ocdsmerge.merge_versioned(releases)
+    compiled_release = ocdsmerge.merge(releases, schema)
+    versioned_release = ocdsmerge.merge_versioned(releases, schema)
 
     url = 'https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/{}/record/ocds-213czf-000-00001{{}}.json'  # noqa
     if version:
