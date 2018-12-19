@@ -7,14 +7,17 @@
     "uri": "http://data.companieshouse.gov.uk/doc/company/09506232"
   },
   "publishedDate": "2014-02-02T13:02:00Z",
+  "license": "http://opendatacommons.org/licenses/pddl/1.0/",
+  "publicationPolicy": "https://github.com/open-contracting/sample-data/",
+  "version": "1.1",
   "packages": [
-    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-01-planning.json#ocds-213czf-000-00001-01-planning",
-    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-02-tender.json#ocds-213czf-000-00001-02-tender",
-    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderAmendment",
-    "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderUpdate",
-    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-04-award.json#ocds-213czf-000-00001-04-award",
-    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-05-contract",
-    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-06-implementation.json#ocds-213czf-000-00001-06-implementation"
+    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-01-planning.json",
+    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-02-tender.json",
+    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-03-tenderAmendment.json",
+    "http://standard.open-contracting.org/examples/releases/ocds-213czf-000-00001-03-tenderAmendment.json",
+    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-04-award.json",
+    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-05-contract.json",
+    "https://github.com/open-contracting/sample-data/raw/1.1/fictional-example/ocds-213czf-000-00001-06-implementation.json"
   ],
   "records": [
     {
@@ -74,6 +77,8 @@
         "tag": [
           "compiled"
         ],
+        "id": "ocds-213czf-000-00001-06-implementation",
+        "date": "2011-01-10T09:30:00Z",
         "ocid": "ocds-213czf-000-00001",
         "language": "en",
         "initiationType": "tender",
@@ -411,8 +416,6 @@
             }
           ]
         },
-        "id": "ocds-213czf-000-00001-06-implementation",
-        "date": "2011-01-10T09:30:00Z",
         "awards": [
           {
             "id": "ocds-213czf-000-00001-award-01",
@@ -606,7 +609,5 @@
         ]
       }
     }
-  ],
-  "version": "1.1",
-  "extensions": []
+  ]
 }
