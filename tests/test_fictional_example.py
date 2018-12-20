@@ -7,17 +7,14 @@ import requests
 from jsonschema import FormatChecker
 from jsonschema.validators import Draft4Validator as validator
 
-
 patch_versions = {
     '1.0': '1__0__3',
     '1.1': '1__1__3',
 }
 
-cwd = os.getcwd()
-
 
 def custom_warning_formatter(message, category, filename, lineno, line=None):
-    return str(message).replace(cwd + os.sep, '')
+    return str(message).replace(os.getcwd() + os.sep, '')
 
 
 warnings.formatwarning = custom_warning_formatter
