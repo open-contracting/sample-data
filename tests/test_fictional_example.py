@@ -1,16 +1,11 @@
 import json
 import os
-import sys
 import warnings
 from glob import glob
 
 import requests
 from jsonschema import FormatChecker
 from jsonschema.validators import Draft4Validator as validator
-
-sys.path.append('fictional-example')
-
-from merge import merge  # noqa
 
 
 patch_versions = {
@@ -43,19 +38,3 @@ def test_valid():
                 warnings.warn('{} ({})\n'.format(error.message, '/'.join(error.absolute_schema_path)))
 
     assert errors == 0, 'One or more JSON files are invalid. See warnings below.'
-
-
-def test_merge():
-    path = os.path.join('fictional-example')
-    for minor_version in ('1.0', '1.1'):
-        ocid, without_versioned, with_versioned = merge(os.path.join(path, minor_version))
-
-        filename = os.path.join(path, minor_version, 'record', '{}.json'.format(ocid))
-        with open(filename) as f:
-            actual = json.load(f)
-        assert actual == without_versioned, '{} differs - run merge.py?'.format(filename)
-
-        filename = os.path.join(path, minor_version, 'record', '{}-withversions.json'.format(ocid))
-        with open(filename) as f:
-            actual = json.load(f)
-        assert actual == with_versioned, '{} differs - run merge.py?'.format(filename)
