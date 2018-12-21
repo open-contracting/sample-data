@@ -70,8 +70,8 @@
         ],
         "id": "ocds-213czf-000-00001-2011-01-10T09:30:00Z",
         "date": "2011-01-10T09:30:00Z",
-        "language": "en",
         "ocid": "ocds-213czf-000-00001",
+        "language": "en",
         "initiationType": "tender",
         "buyer": {
           "identifier": {
@@ -294,7 +294,6 @@
             },
             "suppliers": [
               {
-                "id": 0,
                 "identifier": {
                   "scheme": "GB-COH",
                   "id": "1234567844",
@@ -1941,168 +1940,41 @@
             },
             "suppliers": [
               {
-                "id": 0,
-                "identifier": {
-                  "scheme": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "GB-COH"
-                    }
-                  ],
-                  "id": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "1234567844"
-                    }
-                  ],
-                  "legalName": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "AnyCorp Ltd"
-                    }
-                  ],
-                  "uri": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "http://www.anycorp.example"
-                    }
-                  ]
-                },
-                "additionalIdentifiers": [
+                "releaseID": "ocds-213czf-000-00001-04-award",
+                "releaseDate": "2010-05-10T09:30:00Z",
+                "releaseTag": [
+                  "award"
+                ],
+                "value": [
                   {
-                    "releaseID": "ocds-213czf-000-00001-04-award",
-                    "releaseDate": "2010-05-10T09:30:00Z",
-                    "releaseTag": [
-                      "award"
-                    ],
-                    "value": [
+                    "identifier": {
+                      "scheme": "GB-COH",
+                      "id": "1234567844",
+                      "legalName": "AnyCorp Ltd",
+                      "uri": "http://www.anycorp.example"
+                    },
+                    "additionalIdentifiers": [
                       {
                         "scheme": "GB-VAT",
                         "id": "987654321"
                       }
-                    ]
-                  }
-                ],
-                "name": [
-                  {
-                    "releaseID": "ocds-213czf-000-00001-04-award",
-                    "releaseDate": "2010-05-10T09:30:00Z",
-                    "releaseTag": [
-                      "award"
                     ],
-                    "value": "AnyCorp Cycle Provision"
+                    "name": "AnyCorp Cycle Provision",
+                    "address": {
+                      "streetAddress": "100 Anytown Lane",
+                      "locality": "Anytown",
+                      "region": "AnyCounty",
+                      "postalCode": "AN1 1TN",
+                      "countryName": "United Kingdom"
+                    },
+                    "contactPoint": {
+                      "name": "Contracts Team",
+                      "email": "contracts@anycorp.example",
+                      "telephone": "12345 456 343",
+                      "faxNumber": "12345 456 343"
+                    }
                   }
-                ],
-                "address": {
-                  "streetAddress": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "100 Anytown Lane"
-                    }
-                  ],
-                  "locality": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "Anytown"
-                    }
-                  ],
-                  "region": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "AnyCounty"
-                    }
-                  ],
-                  "postalCode": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "AN1 1TN"
-                    }
-                  ],
-                  "countryName": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "United Kingdom"
-                    }
-                  ]
-                },
-                "contactPoint": {
-                  "name": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "Contracts Team"
-                    }
-                  ],
-                  "email": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "contracts@anycorp.example"
-                    }
-                  ],
-                  "telephone": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "12345 456 343"
-                    }
-                  ],
-                  "faxNumber": [
-                    {
-                      "releaseID": "ocds-213czf-000-00001-04-award",
-                      "releaseDate": "2010-05-10T09:30:00Z",
-                      "releaseTag": [
-                        "award"
-                      ],
-                      "value": "12345 456 343"
-                    }
-                  ]
-                }
+                ]
               }
             ],
             "items": [

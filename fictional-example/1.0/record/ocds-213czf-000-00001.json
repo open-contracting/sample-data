@@ -70,8 +70,8 @@
         ],
         "id": "ocds-213czf-000-00001-2011-01-10T09:30:00Z",
         "date": "2011-01-10T09:30:00Z",
-        "language": "en",
         "ocid": "ocds-213czf-000-00001",
+        "language": "en",
         "initiationType": "tender",
         "buyer": {
           "identifier": {
@@ -294,7 +294,6 @@
             },
             "suppliers": [
               {
-                "id": 0,
                 "identifier": {
                   "scheme": "GB-COH",
                   "id": "1234567844",
