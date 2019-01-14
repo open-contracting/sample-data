@@ -23,7 +23,18 @@ The release packages were generated from the [OCDS 1.1 Sample Data Spreadsheet I
 1. Run `ocdskit indent fictional-example/1.1/ocds-213czf-000-00001.json`
 1. Create the record packages:
 
-```shell
-cat fictional-example/1.1/*.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.1/record/ocds-213czf-000-00001.json > fictional-example/1.1/record/ocds-213czf-000-00001.json
-cat fictional-example/1.1/*.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --versioned --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.1/record/ocds-213czf-000-00001-withversions.json > fictional-example/1.1/record/ocds-213czf-000-00001-withversions.json
-```
+        cat fictional-example/1.1/ocds-213czf-000-00001.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.1/record/ocds-213czf-000-00001.json > fictional-example/1.1/record/ocds-213czf-000-00001.json
+        cat fictional-example/1.1/ocds-213czf-000-00001.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --versioned --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.1/record/ocds-213czf-000-00001-withversions.json > fictional-example/1.1/record/ocds-213czf-000-00001-withversions.json
+
+1. Split the JSON file into many files, for easier browsing:
+
+        cat fictional-example/1.1/ocds-213czf-000-00001.json | jq -crM | ocdskit split-release-packages 1 | split -l 1 -a 1 - fictional-example/1.1/ocds-213czf-000-00001-0
+
+1. Rename the JSON files:
+
+        mv fictional-example/1.1/ocds-213czf-000-00001-0a fictional-example/1.1/ocds-213czf-000-00001-01-planning.json
+        mv fictional-example/1.1/ocds-213czf-000-00001-0b fictional-example/1.1/ocds-213czf-000-00001-02-tender.json
+        mv fictional-example/1.1/ocds-213czf-000-00001-0c fictional-example/1.1/ocds-213czf-000-00001-03-tenderAmendment.json
+        mv fictional-example/1.1/ocds-213czf-000-00001-0d fictional-example/1.1/ocds-213czf-000-00001-04-award.json
+        mv fictional-example/1.1/ocds-213czf-000-00001-0e fictional-example/1.1/ocds-213czf-000-00001-05-contract.json
+        mv fictional-example/1.1/ocds-213czf-000-00001-0f fictional-example/1.1/ocds-213czf-000-00001-06-implementation.json
