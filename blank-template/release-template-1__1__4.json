@@ -1,0 +1,449 @@
+{
+  "ocid": "",
+  "id": "",
+  "date": "",
+  "tag": [],
+  "initiationType": "string from initiationType codelist",
+  "parties": [
+    {
+      "name": "string",
+      "id": "",
+      "identifier": {
+        "scheme": "string",
+        "id": "string",
+        "legalName": "string",
+        "uri": "string"
+      },
+      "additionalIdentifiers": [
+        {
+          "scheme": "string",
+          "id": "string",
+          "legalName": "string",
+          "uri": "string"
+        }
+      ],
+      "address": {
+        "streetAddress": "string",
+        "locality": "string",
+        "region": "string",
+        "postalCode": "string",
+        "countryName": "string"
+      },
+      "contactPoint": {
+        "name": "string",
+        "email": "string",
+        "telephone": "string",
+        "faxNumber": "string",
+        "url": "string"
+      },
+      "roles": "array",
+      "details": "object"
+    }
+  ],
+  "buyer": {
+    "name": "string",
+    "id": "string"
+  },
+  "planning": {
+    "rationale": "string",
+    "budget": {
+      "id": "string",
+      "description": "string",
+      "amount": {
+        "amount": "number",
+        "currency": "string from currency codelist"
+      },
+      "project": "string",
+      "projectID": "string",
+      "uri": "string"
+    },
+    "documents": [
+      {
+        "id": "string",
+        "documentType": "string",
+        "title": "string",
+        "description": "string",
+        "url": "string",
+        "datePublished": "string",
+        "dateModified": "string",
+        "format": "string",
+        "language": "string"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "string",
+        "title": "string",
+        "type": "string",
+        "description": "string",
+        "code": "string",
+        "dueDate": "string",
+        "dateMet": "string",
+        "dateModified": "string",
+        "status": "string from milestoneStatus codelist"
+      }
+    ]
+  },
+  "tender": {
+    "id": "string",
+    "title": "string",
+    "description": "string",
+    "status": "string from tenderStatus codelist",
+    "procuringEntity": {
+      "name": "string",
+      "id": "string"
+    },
+    "items": [
+      {
+        "id": "string",
+        "description": "string",
+        "classification": {
+          "scheme": "string",
+          "id": "string",
+          "description": "string",
+          "uri": "string"
+        },
+        "additionalClassifications": [
+          {
+            "scheme": "string",
+            "id": "string",
+            "description": "string",
+            "uri": "string"
+          }
+        ],
+        "quantity": "number",
+        "unit": {
+          "scheme": "string",
+          "id": "string",
+          "name": "string",
+          "value": {
+            "amount": "number",
+            "currency": "string from currency codelist"
+          },
+          "uri": "string"
+        }
+      }
+    ],
+    "value": {
+      "amount": "number",
+      "currency": "string from currency codelist"
+    },
+    "minValue": {
+      "amount": "number",
+      "currency": "string from currency codelist"
+    },
+    "procurementMethod": "string from method codelist",
+    "procurementMethodDetails": "string",
+    "procurementMethodRationale": "string",
+    "mainProcurementCategory": "string from procurementCategory codelist",
+    "additionalProcurementCategories": "array",
+    "awardCriteria": "string",
+    "awardCriteriaDetails": "string",
+    "submissionMethod": "array",
+    "submissionMethodDetails": "string",
+    "tenderPeriod": {
+      "startDate": "string",
+      "endDate": "string",
+      "maxExtentDate": "string",
+      "durationInDays": "integer"
+    },
+    "enquiryPeriod": {
+      "startDate": "string",
+      "endDate": "string",
+      "maxExtentDate": "string",
+      "durationInDays": "integer"
+    },
+    "hasEnquiries": "boolean",
+    "eligibilityCriteria": "string",
+    "awardPeriod": {
+      "startDate": "string",
+      "endDate": "string",
+      "maxExtentDate": "string",
+      "durationInDays": "integer"
+    },
+    "contractPeriod": {
+      "startDate": "string",
+      "endDate": "string",
+      "maxExtentDate": "string",
+      "durationInDays": "integer"
+    },
+    "numberOfTenderers": "integer",
+    "tenderers": [
+      {
+        "name": "string",
+        "id": "string"
+      }
+    ],
+    "documents": [
+      {
+        "id": "string",
+        "documentType": "string",
+        "title": "string",
+        "description": "string",
+        "url": "string",
+        "datePublished": "string",
+        "dateModified": "string",
+        "format": "string",
+        "language": "string"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "string",
+        "title": "string",
+        "type": "string",
+        "description": "string",
+        "code": "string",
+        "dueDate": "string",
+        "dateMet": "string",
+        "dateModified": "string",
+        "status": "string from milestoneStatus codelist"
+      }
+    ],
+    "amendments": [
+      {
+        "date": "string",
+        "rationale": "string",
+        "id": "string",
+        "description": "string",
+        "amendsReleaseID": "string",
+        "releaseID": "string"
+      }
+    ]
+  },
+  "awards": [
+    {
+      "id": "string",
+      "title": "string",
+      "description": "string",
+      "status": "string from awardStatus codelist",
+      "date": "string",
+      "value": {
+        "amount": "number",
+        "currency": "string from currency codelist"
+      },
+      "suppliers": [
+        {
+          "name": "string",
+          "id": "string"
+        }
+      ],
+      "items": [
+        {
+          "id": "string",
+          "description": "string",
+          "classification": {
+            "scheme": "string",
+            "id": "string",
+            "description": "string",
+            "uri": "string"
+          },
+          "additionalClassifications": [
+            {
+              "scheme": "string",
+              "id": "string",
+              "description": "string",
+              "uri": "string"
+            }
+          ],
+          "quantity": "number",
+          "unit": {
+            "scheme": "string",
+            "id": "string",
+            "name": "string",
+            "value": {
+              "amount": "number",
+              "currency": "string from currency codelist"
+            },
+            "uri": "string"
+          }
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "string",
+        "endDate": "string",
+        "maxExtentDate": "string",
+        "durationInDays": "integer"
+      },
+      "documents": [
+        {
+          "id": "string",
+          "documentType": "string",
+          "title": "string",
+          "description": "string",
+          "url": "string",
+          "datePublished": "string",
+          "dateModified": "string",
+          "format": "string",
+          "language": "string"
+        }
+      ],
+      "amendments": [
+        {
+          "date": "string",
+          "rationale": "string",
+          "id": "string",
+          "description": "string",
+          "amendsReleaseID": "string",
+          "releaseID": "string"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "string",
+      "awardID": "string",
+      "title": "string",
+      "description": "string",
+      "status": "string from contractStatus codelist",
+      "period": {
+        "startDate": "string",
+        "endDate": "string",
+        "maxExtentDate": "string",
+        "durationInDays": "integer"
+      },
+      "value": {
+        "amount": "number",
+        "currency": "string from currency codelist"
+      },
+      "items": [
+        {
+          "id": "string",
+          "description": "string",
+          "classification": {
+            "scheme": "string",
+            "id": "string",
+            "description": "string",
+            "uri": "string"
+          },
+          "additionalClassifications": [
+            {
+              "scheme": "string",
+              "id": "string",
+              "description": "string",
+              "uri": "string"
+            }
+          ],
+          "quantity": "number",
+          "unit": {
+            "scheme": "string",
+            "id": "string",
+            "name": "string",
+            "value": {
+              "amount": "number",
+              "currency": "string from currency codelist"
+            },
+            "uri": "string"
+          }
+        }
+      ],
+      "dateSigned": "string",
+      "documents": [
+        {
+          "id": "string",
+          "documentType": "string",
+          "title": "string",
+          "description": "string",
+          "url": "string",
+          "datePublished": "string",
+          "dateModified": "string",
+          "format": "string",
+          "language": "string"
+        }
+      ],
+      "implementation": {
+        "transactions": [
+          {
+            "id": "string",
+            "source": "string",
+            "date": "string",
+            "value": {
+              "amount": "number",
+              "currency": "string from currency codelist"
+            },
+            "payer": {
+              "name": "string",
+              "id": "string"
+            },
+            "payee": {
+              "name": "string",
+              "id": "string"
+            },
+            "uri": "string"
+          }
+        ],
+        "milestones": [
+          {
+            "id": "string",
+            "title": "string",
+            "type": "string",
+            "description": "string",
+            "code": "string",
+            "dueDate": "string",
+            "dateMet": "string",
+            "dateModified": "string",
+            "status": "string from milestoneStatus codelist"
+          }
+        ],
+        "documents": [
+          {
+            "id": "string",
+            "documentType": "string",
+            "title": "string",
+            "description": "string",
+            "url": "string",
+            "datePublished": "string",
+            "dateModified": "string",
+            "format": "string",
+            "language": "string"
+          }
+        ]
+      },
+      "relatedProcesses": [
+        {
+          "id": "",
+          "relationship": "array",
+          "title": "string",
+          "scheme": "string",
+          "identifier": "string",
+          "uri": "string"
+        }
+      ],
+      "milestones": [
+        {
+          "id": "string",
+          "title": "string",
+          "type": "string",
+          "description": "string",
+          "code": "string",
+          "dueDate": "string",
+          "dateMet": "string",
+          "dateModified": "string",
+          "status": "string from milestoneStatus codelist"
+        }
+      ],
+      "amendments": [
+        {
+          "date": "string",
+          "rationale": "string",
+          "id": "string",
+          "description": "string",
+          "amendsReleaseID": "string",
+          "releaseID": "string"
+        }
+      ]
+    }
+  ],
+  "language": "string",
+  "relatedProcesses": [
+    {
+      "id": "",
+      "relationship": "array",
+      "title": "string",
+      "scheme": "string",
+      "identifier": "string",
+      "uri": "string"
+    }
+  ]
+}
