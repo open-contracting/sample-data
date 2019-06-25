@@ -4,60 +4,60 @@
     "scheme": "GB-COH",
     "uid": "09506232",
     "name": "Open Data Services Co-operative Limited",
-    "uri": "http://standard.open-contracting.org/examples/"
+    "uri": "https://standard.open-contracting.org/examples/"
   },
   "publishedDate": "2014-02-02T13:02:00Z",
   "license": "http://opendatacommons.org/licenses/pddl/1.0/",
   "publicationPolicy": "https://github.com/open-contracting/sample-data/",
   "packages": [
-    "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-01-planning.json",
-    "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-02-tender.json",
-    "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-03-tenderAmendment.json",
-    "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-04-award.json",
-    "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json",
-    "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json"
+    "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-01-planning.json",
+    "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-02-tender.json",
+    "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-03-tenderAmendment.json",
+    "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-04-award.json",
+    "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json",
+    "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json"
   ],
   "records": [
     {
       "ocid": "ocds-213czf-000-00001",
       "releases": [
         {
-          "url": "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-01-planning.json#ocds-213czf-000-00001-01-planning",
+          "url": "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-01-planning.json#ocds-213czf-000-00001-01-planning",
           "date": "2009-03-15T14:45:00Z",
           "tag": [
             "planning"
           ]
         },
         {
-          "url": "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-02-tender.json#ocds-213czf-000-00001-02-tender",
+          "url": "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-02-tender.json#ocds-213czf-000-00001-02-tender",
           "date": "2010-03-15T09:30:00Z",
           "tag": [
             "tender"
           ]
         },
         {
-          "url": "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderAmendment",
+          "url": "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-03-tenderAmendment.json#ocds-213czf-000-00001-03-tenderAmendment",
           "date": "2010-03-20T09:45:00Z",
           "tag": [
             "tenderAmendment"
           ]
         },
         {
-          "url": "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-04-award.json#ocds-213czf-000-00001-04-award",
+          "url": "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-04-award.json#ocds-213czf-000-00001-04-award",
           "date": "2010-05-10T09:30:00Z",
           "tag": [
             "award"
           ]
         },
         {
-          "url": "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-05-contract",
+          "url": "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-05-contract",
           "date": "2010-05-10T10:30:00Z",
           "tag": [
             "contract"
           ]
         },
         {
-          "url": "http://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-06-implementation",
+          "url": "https://standard.open-contracting.org/examples/1.0/releases/ocds-213czf-000-00001-05-contract.json#ocds-213czf-000-00001-06-implementation",
           "date": "2011-01-10T09:30:00Z",
           "tag": [
             "implementation"

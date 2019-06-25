@@ -13,7 +13,7 @@ versions = {
     '1.1': '1__1__3',
 }
 
-url_template = 'http://standard.open-contracting.org/schema/{}/release-package-schema.json'
+url_template = 'https://standard.open-contracting.org/schema/{}/release-package-schema.json'
 
 test_valid_argvalues = []
 for minor_version, patch_version in versions.items():

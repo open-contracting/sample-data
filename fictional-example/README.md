@@ -9,8 +9,8 @@ You will need [OCDS Kit](https://pypi.org/project/ocdskit/) and [jq](https://ste
 The release packages in the 1.0 directory are hand-written. After editing the release packages, create the record packages:
 
 ```shell
-cat fictional-example/1.0/*.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.0/record/ocds-213czf-000-00001.json --schema http://standard.open-contracting.org/schema/1__0__3/release-schema.json > fictional-example/1.0/record/ocds-213czf-000-00001.json
-cat fictional-example/1.0/*.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --versioned --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.0/record/ocds-213czf-000-00001-withversions.json --schema http://standard.open-contracting.org/schema/1__0__3/release-schema.json > fictional-example/1.0/record/ocds-213czf-000-00001-withversions.json
+cat fictional-example/1.0/*.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.0/record/ocds-213czf-000-00001.json --schema https://standard.open-contracting.org/schema/1__0__3/release-schema.json > fictional-example/1.0/record/ocds-213czf-000-00001.json
+cat fictional-example/1.0/*.json | jq -crM | ocdskit --pretty compile --package --linked-releases --published-date 2014-02-02T13:02:00Z --versioned --uri https://raw.githubusercontent.com/open-contracting/sample-data/master/fictional-example/1.0/record/ocds-213czf-000-00001-withversions.json --schema https://standard.open-contracting.org/schema/1__0__3/release-schema.json > fictional-example/1.0/record/ocds-213czf-000-00001-withversions.json
 ```
 
 ### 1.1
@@ -39,4 +39,4 @@ The release packages were generated from the [OCDS 1.1 Sample Data Spreadsheet I
         mv fictional-example/1.1/ocds-213czf-000-00001-0e fictional-example/1.1/ocds-213czf-000-00001-05-contract.json
         mv fictional-example/1.1/ocds-213czf-000-00001-0f fictional-example/1.1/ocds-213czf-000-00001-06-implementation.json
 
-Note that the [OCDS Data Review Tool](http://standard.open-contracting.org/review/) "loading some sample data" link refers to `ocds-213czf-000-00001-02-tender.json` above.
+Note that the [OCDS Data Review Tool](https://standard.open-contracting.org/review/) "loading some sample data" link refers to `ocds-213czf-000-00001-02-tender.json` above.

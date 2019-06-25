@@ -14,7 +14,7 @@ Feel free to hide or remove unused columns.
 
 ## Converting to OCDS JSON
 
-[See Flatten Tool's documentation](https://flatten-tool.readthedocs.io/en/latest/usage-ocds/#converting-a-populated-spreadsheet-to-json), or upload your spreadsheet to the [OCDS Data Review Tool](http://standard.open-contracting.org/review/).
+[See Flatten Tool's documentation](https://flatten-tool.readthedocs.io/en/latest/usage-ocds/#converting-a-populated-spreadsheet-to-json), or upload your spreadsheet to the [OCDS Data Review Tool](https://standard.open-contracting.org/review/).
 
 ## Maintenance
 
