@@ -4,6 +4,8 @@
 
 You will need [OCDS Kit](https://pypi.org/project/ocdskit/) and [jq](https://stedolan.github.io/jq/).
 
+Update the tags in `tests/test_fictional_example.py`.
+
 ### 1.0
 
 The release packages in the 1.0 directory are hand-written. After editing the release packages, create the record packages:
