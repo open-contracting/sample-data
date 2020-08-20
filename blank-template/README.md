@@ -4,22 +4,25 @@ This folder contains, for each version of OCDS, a blank file that corresponds to
 
 ## Maintenance
 
-This template is generated using a [fork of json-schema-random](https://github.com/open-contracting/json-schema-random).
-
-Change into a directory containing the `standard` and `sample-data` repositories. Then, clone this repository and install its dependencies:
+This assumes that the `standard` repository and this repository have the same parent directory on your system, and that the `standard` repository is checked out to the latest tag. Change into this repository's directory, and run:
 
 ```shell
-git clone https://github.com/open-contracting/json-schema-random.git
-cd json-schema-random
-npm install .
+npm install git+https://github.com/open-contracting/json-schema-random.git#opencontracting
 ```
 
 To regenerate all files, run (in bash shell):
 
 ```shell
-for tag in `git -C ../standard tag | grep '1__\d__\d'`; do
-  git -C ../standard checkout $tag;
-  node cli.js ../standard/standard/schema/release-schema.json --no-random --no-additional > ../sample-data/blank-template/release-template-$tag.json;
+for tag in `git -C ../standard tag | grep '1__\d__\d'`
+do
+  git -C ../standard checkout $tag
+  if [[ "$tag" < "1__1__5" ]]
+  then
+    infix="standard/"
+  else
+    infix=""
+  fi
+  node node_modules/json-schema-random/cli.js ../standard/${infix}schema/release-schema.json --no-random --no-additional > blank-template/release-template-$tag.json
 done
 git -C ../standard checkout 1.1-dev
 ```
@@ -27,8 +30,8 @@ git -C ../standard checkout 1.1-dev
 To regenerate one file, set a `tag` environment variable and run:
 
 ```shell
-git -C ../standard checkout $tag;
-node cli.js ../standard/standard/schema/release-schema.json --no-random --no-additional > ../sample-data/blank-template/release-template-$tag.json
+git -C ../standard checkout $tag
+node node_modules/json-schema-random/cli.js ../standard/${infix}schema/release-schema.json --no-random --no-additional > blank-template/release-template-$tag.json
 git -C ../standard checkout 1.1-dev
 ```
 
@@ -42,5 +45,5 @@ Change into this repository's directory, and indent the files with two spaces:
 
 ```shell
 pip install ocdskit
-ocsdkit indent -r blank-template
+ocdskit indent -r blank-template
 ```
