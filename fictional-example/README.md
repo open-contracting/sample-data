@@ -2,9 +2,9 @@
 
 ## Maintenance
 
-You will need [OCDS Kit](https://pypi.org/project/ocdskit/) and [jq](https://stedolan.github.io/jq/).
-
 Update the tags in `tests/test_fictional_example.py`.
+
+You will need [OCDS Kit](https://pypi.org/project/ocdskit/) and [jq](https://stedolan.github.io/jq/).
 
 ### 1.0
 

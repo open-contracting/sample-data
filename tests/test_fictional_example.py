@@ -10,7 +10,7 @@ from jsonschema.validators import Draft4Validator as validator
 
 versions = {
     '1.0': '1__0__3',
-    '1.1': '1__1__4',
+    '1.1': '1__1__5',
 }
 
 url_template = 'https://standard.open-contracting.org/schema/{}/release-package-schema.json'
