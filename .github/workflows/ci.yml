@@ -20,3 +20,4 @@ jobs:
     - run: pip install -r requirements.txt
     - run: curl -s -S --retry 3 $BASEDIR/tests/script.sh | bash -
     - run: pytest
+      if: always()
