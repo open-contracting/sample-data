@@ -29,7 +29,7 @@ def get_test_cases():
     for minor_version, patch_version in versions.items():
         schema = requests.get(url_template.format(patch_version)).json()
         filenames = glob(os.path.join('fictional-example', minor_version, '*.json'))
-        assert len(filenames), '{} fixtures not found'.format(minor_version)
+        assert len(filenames), f'{minor_version} fixtures not found'
         test_valid_argvalues += [(filename, schema) for filename in filenames]
 
     return test_valid_argvalues
@@ -45,6 +45,6 @@ def test_valid(filename, schema):
     for error in validator(schema, format_checker=FormatChecker()).iter_errors(data):
         errors += 1
         warnings.warn(json.dumps(error.instance, indent=2))
-        warnings.warn('{} ({})\n'.format(error.message, '/'.join(error.absolute_schema_path)))
+        warnings.warn(f"{error.message} ({'/'.join(error.absolute_schema_path)})\n")
 
     assert errors == 0, '{} is invalid. See warnings below.'.format(filename)
