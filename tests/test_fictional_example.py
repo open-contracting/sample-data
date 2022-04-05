@@ -47,4 +47,4 @@ def test_valid(filename, schema):
         warnings.warn(json.dumps(error.instance, indent=2))
         warnings.warn(f"{error.message} ({'/'.join(error.absolute_schema_path)})\n")
 
-    assert errors == 0, '{} is invalid. See warnings below.'.format(filename)
+    assert errors == 0, f'{filename} is invalid. See warnings below.'
