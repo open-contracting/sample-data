@@ -16,4 +16,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
       - run: pip install -r requirements.txt
-      - run: pytest
+      - env:
+          PYTHONWARNINGS: error
+        run: pytest
