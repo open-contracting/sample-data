@@ -41,4 +41,4 @@ The release packages were generated from the [OCDS 1.1 Sample Data Spreadsheet I
         mv fictional-example/1.1/ocds-213czf-000-00001-0e fictional-example/1.1/ocds-213czf-000-00001-05-contract.json
         mv fictional-example/1.1/ocds-213czf-000-00001-0f fictional-example/1.1/ocds-213czf-000-00001-06-implementation.json
 
-Note that the [OCDS Data Review Tool](https://standard.open-contracting.org/review/) "loading some sample data" link refers to `ocds-213czf-000-00001-02-tender.json` above.
+Note that the [OCDS Data Review Tool](https://review.standard.open-contracting.org/) "loading some sample data" link refers to `ocds-213czf-000-00001-02-tender.json` above.
