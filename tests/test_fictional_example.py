@@ -6,7 +6,7 @@ from glob import glob
 import pytest
 import requests
 from jsonschema import FormatChecker
-from jsonschema.validators import Draft4Validator as validator
+from jsonschema.validators import Draft4Validator as Validator
 from referencing import Registry, Resource
 
 
@@ -50,7 +50,7 @@ def test_valid(filename, registry, schema):
     with open(filename) as f:
         data = json.load(f)
 
-    for error in validator(schema, format_checker=FormatChecker(), registry=registry).iter_errors(data):
+    for error in Validator(schema, format_checker=FormatChecker(), registry=registry).iter_errors(data):
         errors += 1
         warnings.warn(json.dumps(error.instance, indent=2))
         warnings.warn(f"{error.message} ({'/'.join(error.absolute_schema_path)})\n")
