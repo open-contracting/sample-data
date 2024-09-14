@@ -43,7 +43,7 @@ def get_test_cases():
     return test_valid_argvalues
 
 
-@pytest.mark.parametrize('filename,registry,schema', get_test_cases())
+@pytest.mark.parametrize(('filename', 'registry', 'schema'), get_test_cases())
 def test_valid(filename, registry, schema):
     errors = 0
 
