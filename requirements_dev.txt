@@ -29,7 +29,7 @@ referencing==0.35.1
     #   -r requirements_dev.in
     #   jsonschema
     #   jsonschema-specifications
-requests==2.32.3
+requests==2.32.4
     # via -r requirements_dev.in
 rpds-py==0.20.0
     # via
