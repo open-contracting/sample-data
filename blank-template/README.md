@@ -4,7 +4,7 @@ This folder contains, for each version of OCDS, a blank file that corresponds to
 
 ## Maintenance
 
-This assumes that the `standard` repository and this repository have the same parent directory on your system, and that the `standard` repository is checked out to the latest tag. Change into this repository's directory, and run:
+This assumes that the `standard` repository and this repository have the same parent directory on your system, and that the `standard` repository is checked out to the latest tag. Change to this repository's directory, and run:
 
 ```shell
 npm install git+https://github.com/open-contracting/json-schema-random.git#opencontracting
@@ -41,7 +41,7 @@ Remove deprecated fields by opening the `blank-template` directory in a text edi
 [,\n ]*"[a-zA-Z]+": "deprecated"
 ```
 
-Change into this repository's directory, and indent the files with two spaces:
+Change to this repository's directory, and indent the files with two spaces:
 
 ```shell
 pip install ocdskit

@@ -18,7 +18,7 @@ Feel free to hide or remove unused columns.
 
 ## Maintenance
 
-This assumes that the `standard` repository and this repository have the same parent directory on your system, and that the `standard` repository is checked out to the latest tag. Install Flatten Tool, change into this repository's directory, and run:
+This assumes that the `standard` repository and this repository have the same parent directory on your system, and that the `standard` repository is checked out to the latest tag. Install Flatten Tool, change to this repository's directory, and run:
 
 ```shell
 flatten-tool create-template --truncation-length 5 --no-deprecated-fields --schema=../standard/schema/release-schema.json -o flat-template/template --root-id=ocid --main-sheet-name releases
