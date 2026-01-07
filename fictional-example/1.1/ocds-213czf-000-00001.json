@@ -698,6 +698,58 @@
             "faxNumber": "01234 345 345",
             "url": "http://example.com/contact/"
           }
+        },
+        {
+          "id": "GB-COH-11111111",
+          "name": "AnyCorp Cycle Provision",
+          "roles": [
+            "supplier"
+          ],
+          "identifier": {
+            "scheme": "GB-COH",
+            "id": "11111111.0",
+            "legalName": "AnyCorp Ltd"
+          },
+          "address": {
+            "streetAddress": "1 Anytown Lane",
+            "locality": "Anytown",
+            "region": "Any County",
+            "postalCode": "AA1 1AA",
+            "countryName": "United Kingdom"
+          },
+          "contactPoint": {
+            "name": "Contracts Team",
+            "email": "contracts@anycorp.example",
+            "telephone": "11111 111 111",
+            "faxNumber": "11111 111 112",
+            "url": "http://www.anycorp.example"
+          }
+        },
+        {
+          "id": "GB-COH-22222222",
+          "name": "Beta Corp Construction",
+          "roles": [
+            "tenderer"
+          ],
+          "identifier": {
+            "scheme": "GB-COH",
+            "id": "22222222.0",
+            "legalName": "Beta Corp Ltd"
+          },
+          "address": {
+            "streetAddress": "2 Main Road",
+            "locality": "Beta City",
+            "region": "Beta County",
+            "postalCode": "BB2 2BB",
+            "countryName": "United Kingdom"
+          },
+          "contactPoint": {
+            "name": "Bids Team",
+            "email": "bids@betacorp.example",
+            "telephone": "22222 222 222",
+            "faxNumber": "22222 222 223",
+            "url": "http://www.betacorp.example"
+          }
         }
       ],
       "buyer": {
@@ -867,6 +919,58 @@
             "telephone": "01234 345 346",
             "faxNumber": "01234 345 345",
             "url": "http://example.com/contact/"
+          }
+        },
+        {
+          "id": "GB-COH-11111111",
+          "name": "AnyCorp Cycle Provision",
+          "roles": [
+            "supplier"
+          ],
+          "identifier": {
+            "scheme": "GB-COH",
+            "id": "11111111.0",
+            "legalName": "AnyCorp Ltd"
+          },
+          "address": {
+            "streetAddress": "1 Anytown Lane",
+            "locality": "Anytown",
+            "region": "Any County",
+            "postalCode": "AA1 1AA",
+            "countryName": "United Kingdom"
+          },
+          "contactPoint": {
+            "name": "Contracts Team",
+            "email": "contracts@anycorp.example",
+            "telephone": "11111 111 111",
+            "faxNumber": "11111 111 112",
+            "url": "http://www.anycorp.example"
+          }
+        },
+        {
+          "id": "GB-COH-22222222",
+          "name": "Beta Corp Construction",
+          "roles": [
+            "tenderer"
+          ],
+          "identifier": {
+            "scheme": "GB-COH",
+            "id": "22222222.0",
+            "legalName": "Beta Corp Ltd"
+          },
+          "address": {
+            "streetAddress": "2 Main Road",
+            "locality": "Beta City",
+            "region": "Beta County",
+            "postalCode": "BB2 2BB",
+            "countryName": "United Kingdom"
+          },
+          "contactPoint": {
+            "name": "Bids Team",
+            "email": "bids@betacorp.example",
+            "telephone": "22222 222 222",
+            "faxNumber": "22222 222 223",
+            "url": "http://www.betacorp.example"
           }
         }
       ],
