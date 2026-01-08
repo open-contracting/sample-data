@@ -37,5 +37,5 @@ rpds-py==0.20.0
     #   referencing
 tomli==2.0.1
     # via pytest
-urllib3==2.6.0
+urllib3==2.6.3
     # via requests
