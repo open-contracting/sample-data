@@ -8,8 +8,6 @@ certifi==2024.8.30
     # via requests
 charset-normalizer==3.3.2
     # via requests
-exceptiongroup==1.2.2
-    # via pytest
 idna==3.8
     # via requests
 iniconfig==2.0.0
@@ -35,7 +33,5 @@ rpds-py==0.20.0
     # via
     #   jsonschema
     #   referencing
-tomli==2.0.1
-    # via pytest
 urllib3==2.6.3
     # via requests
